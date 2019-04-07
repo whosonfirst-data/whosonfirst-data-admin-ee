@@ -1,0 +1,67 @@
+{
+  "id": 1242838739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1125,57.81056,27.1125,57.81056",
+    "geom:latitude":57.81056,
+    "geom:longitude":27.1125,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"5941.0",
+    "gn:asciiname":"Sammuka",
+    "gn:country_code":"EE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620226,
+    "gn:latitude":57.81056,
+    "gn:longitude":27.1125,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Sammuka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620226
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"6569d124ac7ce02225861d5a78782d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242838739,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1242838739,
+    "wof:lastmodified":1536687700,
+    "wof:name":"Sammuka",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1125,
+    57.81056,
+    27.1125,
+    57.81056
+],
+  "geometry": {"coordinates":[27.1125,57.81056],"type":"Point"}
+}

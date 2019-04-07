@@ -1,0 +1,79 @@
+{
+  "id": 1326496485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.06222,58.40861,27.06222,58.40861",
+    "geom:latitude":58.40861,
+    "geom:longitude":27.06222,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"432.0",
+    "gn:admin3_code":"9286.0",
+    "gn:asciiname":"Viira",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587624,
+    "gn:latitude":58.40861,
+    "gn:longitude":27.06222,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Viira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Viira"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0439\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vira",
+        "Viira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587624,
+        "wk:page":"Viira%2C_Tartu_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"bffd4f89ea523e65e85e7e3d38d73de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1326496485,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1326496485,
+    "wof:lastmodified":1537620284,
+    "wof:name":"Viira",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.06222,
+    58.40861,
+    27.06222,
+    58.40861
+],
+  "geometry": {"coordinates":[27.06222,58.40861],"type":"Point"}
+}

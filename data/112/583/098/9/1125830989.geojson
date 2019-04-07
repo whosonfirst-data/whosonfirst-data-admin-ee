@@ -1,0 +1,107 @@
+{
+  "id": 1125830989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70694,58.99611,23.70694,58.99611",
+    "geom:latitude":58.99611,
+    "geom:longitude":23.70694,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":460,
+    "gn:population":460,
+    "iso:country":"EE",
+    "lbl:latitude":58.99611,
+    "lbl:longitude":23.70694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053c\u056b\u0576\u0576\u0561\u0574\u0575\u0561\u0565"
+    ],
+    "name:dut_x_preferred":[
+        "Linnam\u00e4e"
+    ],
+    "name:eng_x_preferred":[
+        "Linnam\u00e4e"
+    ],
+    "name:est_x_preferred":[
+        "Linnam\u00e4e"
+    ],
+    "name:fre_x_preferred":[
+        "Linnam\u00e4e"
+    ],
+    "name:pol_x_preferred":[
+        "Linnam\u00e4e"
+    ],
+    "name:swe_x_preferred":[
+        "Linnam\u00e4e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043d\u043d\u0430\u043c\u044f\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Linnamyae"
+    ],
+    "name:vol_x_preferred":[
+        "Linnam\u00e4e"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":590607,
+    "qs_pg:gn_pop":460,
+    "qs_pg:name":"Linnam\u00e4e",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":81105,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590607,
+        "qs_pg:id":81105,
+        "wd:id":"Q611559"
+    },
+    "wof:country":"EE",
+    "wof:created":1497292498,
+    "wof:geomhash":"a980e33926e1b5805011caee23efbd0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125830989,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1125830989,
+    "wof:lastmodified":1553816558,
+    "wof:name":"Linnam\u00e4e",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:population":460,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70694,
+    58.99611,
+    23.70694,
+    58.99611
+],
+  "geometry": {"coordinates":[23.70694,58.99611],"type":"Point"}
+}

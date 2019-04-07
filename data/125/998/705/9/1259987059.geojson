@@ -1,0 +1,78 @@
+{
+  "id": 1259987059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0306,59.40676,28.0306,59.40676",
+    "geom:latitude":59.40676,
+    "geom:longitude":28.0306,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"514.0",
+    "gn:admin3_code":"9444.0",
+    "gn:asciiname":"Vodava",
+    "gn:country_code":"EE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587531,
+    "gn:latitude":59.40676,
+    "gn:longitude":28.0306,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Vodava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vodava"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0434\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vodova",
+        "Vodava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587531,
+        "wk:page":"Vodava"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"3639a5f33249155a8a82cefcf902dcb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259987059,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1259987059,
+    "wof:lastmodified":1537620281,
+    "wof:name":"Vodava",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0306,
+    59.40676,
+    28.0306,
+    59.40676
+],
+  "geometry": {"coordinates":[28.0306,59.40676],"type":"Point"}
+}

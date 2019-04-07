@@ -1,0 +1,71 @@
+{
+  "id": 1293012401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.36111,59.18444,27.36111,59.18444",
+    "geom:latitude":59.18444,
+    "geom:longitude":27.36111,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"130.0",
+    "gn:admin3_code":"9631.0",
+    "gn:asciiname":"Vaeike-Pungerja",
+    "gn:country_code":"EE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793499,
+    "gn:latitude":59.18444,
+    "gn:longitude":27.36111,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"V\u00e4ike-Pungerja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e4ike-Pungerja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793499,
+        "wk:page":"V%C3%A4ike-Pungerja"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"0719eafba2669cdea87c65fffabffa0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293012401,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1293012401,
+    "wof:lastmodified":1537620468,
+    "wof:name":"Vaeike-Pungerja",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.36111,
+    59.18444,
+    27.36111,
+    59.18444
+],
+  "geometry": {"coordinates":[27.36111,59.18444],"type":"Point"}
+}

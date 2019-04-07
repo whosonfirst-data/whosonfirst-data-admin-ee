@@ -1,0 +1,74 @@
+{
+  "id": 1210022567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0225,58.93583,26.0225,58.93583",
+    "geom:latitude":58.93583,
+    "geom:longitude":26.0225,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"255.0",
+    "gn:admin3_code":"8616.0",
+    "gn:asciiname":"Udeva",
+    "gn:country_code":"EE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588120,
+    "gn:latitude":58.93583,
+    "gn:longitude":26.0225,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Udeva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Udeva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0434\u0435\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588120,
+        "wk:page":"Udeva"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"298b8be5512ccec64143d33d41522a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1210022567,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1210022567,
+    "wof:lastmodified":1537620302,
+    "wof:name":"Udeva",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0225,
+    58.93583,
+    26.0225,
+    58.93583
+],
+  "geometry": {"coordinates":[26.0225,58.93583],"type":"Point"}
+}

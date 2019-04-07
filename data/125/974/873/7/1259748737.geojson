@@ -1,0 +1,67 @@
+{
+  "id": 1259748737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9075,58.08667,25.9075,58.08667",
+    "geom:latitude":58.08667,
+    "geom:longitude":25.9075,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"824.0",
+    "gn:admin3_code":"6976.0",
+    "gn:asciiname":"Alliku",
+    "gn:country_code":"EE",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592528,
+    "gn:latitude":58.08667,
+    "gn:longitude":25.9075,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Alliku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592528
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"95b6d71e727769142aa47cf722a8931e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259748737,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1259748737,
+    "wof:lastmodified":1536972879,
+    "wof:name":"Alliku",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9075,
+    58.08667,
+    25.9075,
+    58.08667
+],
+  "geometry": {"coordinates":[25.9075,58.08667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327347795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.28333,59.03333,24.28333,59.03333",
+    "geom:latitude":59.03333,
+    "geom:longitude":24.28333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"726.0",
+    "gn:admin3_code":"4206.0",
+    "gn:asciiname":"Terjatu",
+    "gn:country_code":"EE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588304,
+    "gn:latitude":59.03333,
+    "gn:longitude":24.28333,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Terjatu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ter\u2019yatu",
+        "Terjatu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588304
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c7f200e7a8a092568bfc62f41dbf2aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327347795,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1327347795,
+    "wof:lastmodified":1537620308,
+    "wof:name":"Terjatu",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.28333,
+    59.03333000000001,
+    24.28333,
+    59.03333000000001
+],
+  "geometry": {"coordinates":[24.28333,59.03333000000001],"type":"Point"}
+}

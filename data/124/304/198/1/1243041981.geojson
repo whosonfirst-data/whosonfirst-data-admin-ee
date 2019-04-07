@@ -1,0 +1,67 @@
+{
+  "id": 1243041981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.94611,57.84444,26.94611,57.84444",
+    "geom:latitude":57.84444,
+    "geom:longitude":26.94611,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"7078.0",
+    "gn:asciiname":"Roosisaare",
+    "gn:country_code":"EE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":794300,
+    "gn:latitude":57.84444,
+    "gn:longitude":26.94611,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Roosisaare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794300
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"dfe6c0beae36ec0c48cd706d1ba36e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243041981,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1243041981,
+    "wof:lastmodified":1536891328,
+    "wof:name":"Roosisaare",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.94611,
+    57.84444000000001,
+    26.94611,
+    57.84444000000001
+],
+  "geometry": {"coordinates":[26.94611,57.84444000000001],"type":"Point"}
+}

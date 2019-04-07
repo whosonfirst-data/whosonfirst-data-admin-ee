@@ -1,0 +1,72 @@
+{
+  "id": 1260087673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.93333,59.36667,27.93333,59.36667",
+    "geom:latitude":59.36667,
+    "geom:longitude":27.93333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"514.0",
+    "gn:admin3_code":"1833.0",
+    "gn:asciiname":"Repniku",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589050,
+    "gn:latitude":59.36667,
+    "gn:longitude":27.93333,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Repniku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Repniku Asundus",
+        "Repniku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589050
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a98a0b9111492bd83644efc58ae427b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260087673,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1260087673,
+    "wof:lastmodified":1537620332,
+    "wof:name":"Repniku",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.93333,
+    59.36666999999999,
+    27.93333,
+    59.36666999999999
+],
+  "geometry": {"coordinates":[27.93333,59.36666999999999],"type":"Point"}
+}

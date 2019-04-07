@@ -1,0 +1,73 @@
+{
+  "id": 1277033601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.15111,57.765,27.15111,57.765",
+    "geom:latitude":57.765,
+    "geom:longitude":27.15111,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"1886.0",
+    "gn:asciiname":"Holsta",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592103,
+    "gn:latitude":57.765,
+    "gn:longitude":27.15111,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Holsta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kholsta",
+        "Holsta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592103,
+        "wk:page":"Holsta"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"cf6d95de07a197c6adf6f249fd523a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1277033601,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1277033601,
+    "wof:lastmodified":1537620445,
+    "wof:name":"Holsta",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.15111,
+    57.765,
+    27.15111,
+    57.765
+],
+  "geometry": {"coordinates":[27.15111,57.765],"type":"Point"}
+}

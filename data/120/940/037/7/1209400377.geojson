@@ -1,0 +1,67 @@
+{
+  "id": 1209400377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98472,59.10583,25.98472,59.10583",
+    "geom:latitude":59.10583,
+    "geom:longitude":25.98472,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"792.0",
+    "gn:admin3_code":"8903.0",
+    "gn:asciiname":"Kobakuela",
+    "gn:country_code":"EE",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618387,
+    "gn:latitude":59.10583,
+    "gn:longitude":25.98472,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kobak\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kobak\u00fcla",
+        "Kerguta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618387
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"659c7a26d1c7b2cdc8a314756a28eca4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209400377
+        }
+    ],
+    "wof:id":1209400377,
+    "wof:lastmodified":1537620487,
+    "wof:name":"Kobakuela",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98472000000001,
+    59.10583000000001,
+    25.98472000000001,
+    59.10583000000001
+],
+  "geometry": {"coordinates":[25.98472000000001,59.10583000000001],"type":"Point"}
+}

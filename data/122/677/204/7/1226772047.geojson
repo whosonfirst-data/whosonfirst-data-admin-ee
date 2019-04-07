@@ -1,0 +1,74 @@
+{
+  "id": 1226772047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.05583,59.06972,26.05583,59.06972",
+    "geom:latitude":59.06972,
+    "geom:longitude":26.05583,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"928.0",
+    "gn:admin3_code":"1047.0",
+    "gn:asciiname":"Aavere",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592631,
+    "gn:latitude":59.06972,
+    "gn:longitude":26.05583,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Aavere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Allivere",
+        "Avere",
+        "Aavere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592631,
+        "wk:page":"Aavere%2C_V%C3%A4ike-Maarja_Parish"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c856be37cb099b160fb8c4395e481b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226772047,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1226772047,
+    "wof:lastmodified":1537620463,
+    "wof:name":"Aavere",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05583,
+    59.06972,
+    26.05583,
+    59.06972
+],
+  "geometry": {"coordinates":[26.05583,59.06972],"type":"Point"}
+}

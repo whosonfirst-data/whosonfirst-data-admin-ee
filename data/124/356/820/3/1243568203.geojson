@@ -1,0 +1,75 @@
+{
+  "id": 1243568203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.37667,59.09028,25.37667,59.09028",
+    "geom:latitude":59.09028,
+    "geom:longitude":25.37667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"338.0",
+    "gn:admin3_code":"5518.0",
+    "gn:asciiname":"Nommeri",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589952,
+    "gn:latitude":59.09028,
+    "gn:longitude":25.37667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"N\u00f5mmeri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nymme",
+        "N\u00f5mme",
+        "N\u00f5mmek\u00fcla",
+        "N\u00f5mmeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589952,
+        "wk:page":"N%C3%B5mmeri"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"742095f7e1d83c3a743d07a8cb89f66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243568203,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1243568203,
+    "wof:lastmodified":1537620366,
+    "wof:name":"Nommeri",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.37667,
+    59.09028000000001,
+    25.37667,
+    59.09028000000001
+],
+  "geometry": {"coordinates":[25.37667,59.09028000000001],"type":"Point"}
+}

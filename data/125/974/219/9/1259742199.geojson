@@ -1,0 +1,70 @@
+{
+  "id": 1259742199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.20778,57.79722,27.20778,57.79722",
+    "geom:latitude":57.79722,
+    "geom:longitude":27.20778,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"4517.0",
+    "gn:asciiname":"Kobi",
+    "gn:country_code":"EE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619955,
+    "gn:latitude":57.79722,
+    "gn:longitude":27.20778,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kobi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u041a\u043e\u0431\u0431\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619955
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"b14fc7bc1b17da260039e55e7e01bd1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259742199,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1259742199,
+    "wof:lastmodified":1537620519,
+    "wof:name":"Kobi",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.20778,
+    57.79722,
+    27.20778,
+    57.79722
+],
+  "geometry": {"coordinates":[27.20778,57.79722],"type":"Point"}
+}

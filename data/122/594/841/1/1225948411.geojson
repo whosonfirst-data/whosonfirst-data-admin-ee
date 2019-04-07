@@ -1,0 +1,72 @@
+{
+  "id": 1225948411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.10222,59.27722,24.10222,59.27722",
+    "geom:latitude":59.27722,
+    "geom:longitude":24.10222,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"431.0",
+    "gn:admin3_code":"4722.0",
+    "gn:asciiname":"Rannakuela",
+    "gn:country_code":"EE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589128,
+    "gn:latitude":59.27722,
+    "gn:longitude":24.10222,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Rannak\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rannakyula",
+        "Ranna",
+        "Rannak\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589128
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7034f27f1a938756b80151fc6110d917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1225948411,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1225948411,
+    "wof:lastmodified":1537620335,
+    "wof:name":"Rannakuela",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.10222000000001,
+    59.27721999999999,
+    24.10222000000001,
+    59.27721999999999
+],
+  "geometry": {"coordinates":[24.10222000000001,59.27721999999999],"type":"Point"}
+}

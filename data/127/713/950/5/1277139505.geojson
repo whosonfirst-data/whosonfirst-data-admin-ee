@@ -1,0 +1,67 @@
+{
+  "id": 1277139505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86667,58.13333,25.86667,58.13333",
+    "geom:latitude":58.13333,
+    "geom:longitude":25.86667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"824.0",
+    "gn:admin3_code":"6946.0",
+    "gn:asciiname":"Vaeikekuela",
+    "gn:country_code":"EE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587927,
+    "gn:latitude":58.13333,
+    "gn:longitude":25.86667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"V\u00e4ikek\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587927
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d6b0c85cea511a3da36bdf7e4331338f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1277139505,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1277139505,
+    "wof:lastmodified":1536685939,
+    "wof:name":"Vaeikekuela",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86667000000001,
+    58.13333000000001,
+    25.86667000000001,
+    58.13333000000001
+],
+  "geometry": {"coordinates":[25.86667000000001,58.13333000000001],"type":"Point"}
+}

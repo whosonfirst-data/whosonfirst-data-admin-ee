@@ -1,0 +1,73 @@
+{
+  "id": 1193269737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.76889,58.86444,23.76889,58.86444",
+    "geom:latitude":58.86444,
+    "geom:longitude":23.76889,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"1546.0",
+    "gn:asciiname":"Ehmja",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592302,
+    "gn:latitude":58.86444,
+    "gn:longitude":23.76889,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Ehmja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekhmya",
+        "Ehmja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592302,
+        "wk:page":"Ehmja"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"eea8f96809850b2f591acf460c13f1b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1193269737,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1193269737,
+    "wof:lastmodified":1537620452,
+    "wof:name":"Ehmja",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.76889,
+    58.86444,
+    23.76889,
+    58.86444
+],
+  "geometry": {"coordinates":[23.76889,58.86444],"type":"Point"}
+}

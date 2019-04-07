@@ -1,0 +1,73 @@
+{
+  "id": 1226328599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81278,59.17194,24.81278,59.17194",
+    "geom:latitude":59.17194,
+    "geom:longitude":24.81278,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"317.0",
+    "gn:admin3_code":"7402.0",
+    "gn:asciiname":"Salutaguse",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588807,
+    "gn:latitude":59.17194,
+    "gn:longitude":24.81278,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Salutaguse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salutaguze",
+        "Salutaguse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588807,
+        "wk:page":"Salutaguse%2C_Rapla_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a5850272262fca3f95c418b49516f6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226328599,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1226328599,
+    "wof:lastmodified":1537620324,
+    "wof:name":"Salutaguse",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81278,
+    59.17194,
+    24.81278,
+    59.17194
+],
+  "geometry": {"coordinates":[24.81278,59.17194],"type":"Point"}
+}

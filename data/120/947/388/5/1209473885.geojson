@@ -1,0 +1,68 @@
+{
+  "id": 1209473885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.06833,57.85167,27.06833,57.85167",
+    "geom:latitude":57.85167,
+    "geom:longitude":27.06833,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"9585.0",
+    "gn:asciiname":"Puusepa",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589242,
+    "gn:latitude":57.85167,
+    "gn:longitude":27.06833,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Puusepa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pusepa",
+        "Puusepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589242
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c7d0ec7b5e97e96593e12bdfad4d8b35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209473885
+        }
+    ],
+    "wof:id":1209473885,
+    "wof:lastmodified":1537620340,
+    "wof:name":"Puusepa",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.06833,
+    57.85167,
+    27.06833,
+    57.85167
+],
+  "geometry": {"coordinates":[27.06833,57.85167],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1310515655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.51345,59.59917,24.51345,59.59917",
+    "geom:latitude":59.59917,
+    "geom:longitude":24.51345,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"890.0",
+    "gn:admin3_code":"8039.0",
+    "gn:asciiname":"Tagakuela",
+    "gn:country_code":"EE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589405,
+    "gn:latitude":59.59917,
+    "gn:longitude":24.51345,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Tagak\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Tagak\u00fcla"
+    ],
+    "name:swe_x_preferred":[
+        "Bakbyn"
+    ],
+    "name:swe_x_variant":[
+        "Lillbyn",
+        "Norrbyn"
+    ],
+    "name:und_x_variant":[
+        "Pokhyakyula",
+        "P\u00f5hjak\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589405
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"46817b188a320dc2deaf61b7b00adce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310515655,
+            "region_id":85683037
+        }
+    ],
+    "wof:id":1310515655,
+    "wof:lastmodified":1537620345,
+    "wof:name":"Tagakuela",
+    "wof:parent_id":85683037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.51345,
+    59.59917,
+    24.51345,
+    59.59917
+],
+  "geometry": {"coordinates":[24.51345,59.59917],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293521325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86139,58.63472,25.86139,58.63472",
+    "geom:latitude":58.63472,
+    "geom:longitude":25.86139,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"618.0",
+    "gn:admin3_code":"5501.0",
+    "gn:asciiname":"Nomavere",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589971,
+    "gn:latitude":58.63472,
+    "gn:longitude":25.86139,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"N\u00f5mavere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nymavere",
+        "N\u00f5mavere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589971,
+        "wk:page":"N%C3%B5mavere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7ffd987f69e7b9acf4a5bc05b25f3068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293521325,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1293521325,
+    "wof:lastmodified":1537620367,
+    "wof:name":"Nomavere",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86139,
+    58.63472,
+    25.86139,
+    58.63472
+],
+  "geometry": {"coordinates":[25.86139,58.63472],"type":"Point"}
+}

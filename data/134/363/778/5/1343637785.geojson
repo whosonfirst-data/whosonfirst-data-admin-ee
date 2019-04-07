@@ -1,0 +1,75 @@
+{
+  "id": 1343637785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.22222,58.75889,24.22222,58.75889",
+    "geom:latitude":58.75889,
+    "geom:longitude":24.22222,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"4647.0",
+    "gn:asciiname":"Lyati",
+    "gn:country_code":"EE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590769,
+    "gn:latitude":58.75889,
+    "gn:longitude":24.22222,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Lyati",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Letti k\u00fcla"
+    ],
+    "name:und_x_variant":[
+        "L\u00e4ti Asundus",
+        "Lyati",
+        "L\u00e4ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590769
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"6177df6f34fb3dd4d2563e8a6fc06359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343637785,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1343637785,
+    "wof:lastmodified":1537620394,
+    "wof:name":"Lyati",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.22222,
+    58.75889,
+    24.22222,
+    58.75889
+],
+  "geometry": {"coordinates":[24.22222,58.75889],"type":"Point"}
+}

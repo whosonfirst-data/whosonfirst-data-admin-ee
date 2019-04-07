@@ -1,0 +1,71 @@
+{
+  "id": 1260169363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71333,58.69028,24.71333,58.69028",
+    "geom:latitude":58.69028,
+    "geom:longitude":24.71333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"638.0",
+    "gn:admin3_code":"2545.0",
+    "gn:asciiname":"Jaerve",
+    "gn:country_code":"EE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591957,
+    "gn:latitude":58.69028,
+    "gn:longitude":24.71333,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"J\u00e4rve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yarve",
+        "J\u00e4rve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591957
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"74c1cb9d7b8ec3558d080d50f2ff053d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260169363,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1260169363,
+    "wof:lastmodified":1537620438,
+    "wof:name":"Jaerve",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71333,
+    58.69028,
+    24.71333,
+    58.69028
+],
+  "geometry": {"coordinates":[24.71333,58.69028],"type":"Point"}
+}

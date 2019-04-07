@@ -1,0 +1,73 @@
+{
+  "id": 1276995475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.42806,59.4175,25.42806,59.4175",
+    "geom:latitude":59.4175,
+    "geom:longitude":25.42806,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"353.0",
+    "gn:admin3_code":"6898.0",
+    "gn:asciiname":"Rehatse",
+    "gn:country_code":"EE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589074,
+    "gn:latitude":59.4175,
+    "gn:longitude":25.42806,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Rehatse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rekhattse",
+        "Rekhatse",
+        "Rehatse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589074,
+        "wk:page":"Rehatse"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"113982d98b9b7ad112859916f6d7a3c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276995475,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1276995475,
+    "wof:lastmodified":1537620333,
+    "wof:name":"Rehatse",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.42806,
+    59.4175,
+    25.42806,
+    59.4175
+],
+  "geometry": {"coordinates":[25.42806,59.4175],"type":"Point"}
+}

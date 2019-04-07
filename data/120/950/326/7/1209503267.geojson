@@ -1,0 +1,69 @@
+{
+  "id": 1209503267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.53196,58.54217,24.53196,58.54217",
+    "geom:latitude":58.54217,
+    "geom:longitude":24.53196,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"6012.0",
+    "gn:asciiname":"Parisselja",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589594,
+    "gn:latitude":58.54217,
+    "gn:longitude":24.53196,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Parisselja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parissel\u2019ya",
+        "Parisselja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589594,
+        "wk:page":"Parisselja"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"91089c95fad29f6e357fe58973528a8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209503267
+        }
+    ],
+    "wof:id":1209503267,
+    "wof:lastmodified":1537620352,
+    "wof:name":"Parisselja",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.53196,
+    58.54217,
+    24.53196,
+    58.54217
+],
+  "geometry": {"coordinates":[24.53196,58.54217],"type":"Point"}
+}

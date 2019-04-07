@@ -1,0 +1,68 @@
+{
+  "id": 1276562411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.13667,59.25389,24.13667,59.25389",
+    "geom:latitude":59.25389,
+    "geom:longitude":24.13667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"431.0",
+    "gn:admin3_code":"2731.0",
+    "gn:asciiname":"Karilepa",
+    "gn:country_code":"EE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591611,
+    "gn:latitude":59.25389,
+    "gn:longitude":24.13667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Karilepa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591611,
+        "wk:page":"Karilepa"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"b88b1d182233d77ec4e528ca4a5b8722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276562411,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1276562411,
+    "wof:lastmodified":1537562518,
+    "wof:name":"Karilepa",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.13667,
+    59.25389000000001,
+    24.13667,
+    59.25389000000001
+],
+  "geometry": {"coordinates":[24.13667,59.25389000000001],"type":"Point"}
+}

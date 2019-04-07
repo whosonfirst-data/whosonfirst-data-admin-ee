@@ -1,0 +1,122 @@
+{
+  "id": 1126088777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.74535,59.43814,24.74535,59.43814",
+    "geom:latitude":59.43814,
+    "geom:longitude":24.74535,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"EE",
+    "lbl:latitude":59.43814,
+    "lbl:longitude":24.74535,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0646\u0627\u0644\u064a\u0646"
+    ],
+    "name:arm_x_preferred":[
+        "\u054e\u0561\u0576\u0561\u056c\u056b\u0576"
+    ],
+    "name:dut_x_preferred":[
+        "Vanalinn"
+    ],
+    "name:eng_x_preferred":[
+        "Vanalinn"
+    ],
+    "name:est_x_preferred":[
+        "Vanalinna asum"
+    ],
+    "name:fre_x_preferred":[
+        "Vanalinn"
+    ],
+    "name:ger_x_preferred":[
+        "Vanalinn"
+    ],
+    "name:ita_x_preferred":[
+        "Citt\u00e0 Vecchia"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0646\u0644\u06cc\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043d\u0430\u043b\u0438\u043d\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Vanalinn"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":798564,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vanalinn",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Harjumaa",
+    "qs_pg:photos":11563,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":51,
+    "qs_pg:photos_9r":17,
+    "qs_pg:photos_all":11563,
+    "qs_pg:photos_sr":26,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":890383,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":23701388,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Harjumaa",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101748153,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":798564,
+        "gp:id":23701388,
+        "qs_pg:id":890383,
+        "wd:id":"Q2166171"
+    },
+    "wof:country":"EE",
+    "wof:created":1497313254,
+    "wof:geomhash":"b618e5b355c5f78bf3c30c4f3dc75f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":101748153,
+            "neighbourhood_id":1126088777,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1126088777,
+    "wof:lastmodified":1513956564,
+    "wof:name":"Vanalinn",
+    "wof:parent_id":101748153,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.74535,
+    59.43814,
+    24.74535,
+    59.43814
+],
+  "geometry": {"coordinates":[24.74535,59.43814],"type":"Point"}
+}

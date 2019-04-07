@@ -1,0 +1,82 @@
+{
+  "id": 1193137651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.65861,59.11639,25.65861,59.11639",
+    "geom:latitude":59.11639,
+    "geom:longitude":25.65861,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"255.0",
+    "gn:admin3_code":"2343.0",
+    "gn:asciiname":"Jaerva-Madise",
+    "gn:country_code":"EE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591960,
+    "gn:latitude":59.11639,
+    "gn:longitude":25.65861,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"J\u00e4rva-Madise",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "J\u00e4rva-Madise"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0440\u0432\u0430-\u041c\u0430\u0434\u0438\u0437\u0435"
+    ],
+    "name:und_x_variant":[
+        "Sankt-Matth\u00e4i",
+        "Madise",
+        "Yarva-Madise",
+        "Sankt Matt\u00e4i",
+        "Svyatogo Mateya",
+        "J\u00e4rva-Madise"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591960,
+        "wk:page":"J%C3%A4rva-Madise"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5081625f5076ac340f11e62eb76a3f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1193137651,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1193137651,
+    "wof:lastmodified":1537620439,
+    "wof:name":"Jaerva-Madise",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.65861,
+    59.11639,
+    25.65861,
+    59.11639
+],
+  "geometry": {"coordinates":[25.65861,59.11639],"type":"Point"}
+}

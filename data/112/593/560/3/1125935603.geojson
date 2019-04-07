@@ -1,0 +1,117 @@
+{
+  "id": 1125935603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.78639,58.88472,24.78639,58.88472",
+    "geom:latitude":58.88472,
+    "geom:longitude":24.78639,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":216,
+    "gn:population":216,
+    "iso:country":"EE",
+    "lbl:latitude":58.88472,
+    "lbl:longitude":24.78639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054a\u0578\u0582\u057c\u056f\u0578\u0582"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0443\u0440\u043a\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Purku"
+    ],
+    "name:eng_x_preferred":[
+        "Purku"
+    ],
+    "name:est_x_preferred":[
+        "Purku"
+    ],
+    "name:pol_x_preferred":[
+        "Purku"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0440\u043a\u0443"
+    ],
+    "name:sco_x_preferred":[
+        "Purku"
+    ],
+    "name:swe_x_preferred":[
+        "Purku"
+    ],
+    "name:vol_x_preferred":[
+        "Purku"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":589264,
+    "qs_pg:gn_pop":216,
+    "qs_pg:name":"Purku",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Raplamaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1274386,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":844927,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Raplamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589264,
+        "gp:id":844927,
+        "qs_pg:id":1274386,
+        "wd:id":"Q2492635"
+    },
+    "wof:country":"EE",
+    "wof:created":1497296957,
+    "wof:geomhash":"bb10944e79f4dc9436c7a81083b83153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125935603,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1125935603,
+    "wof:lastmodified":1513956460,
+    "wof:name":"Purku",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:population":216,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78639,
+    58.88472,
+    24.78639,
+    58.88472
+],
+  "geometry": {"coordinates":[24.78639,58.88472],"type":"Point"}
+}

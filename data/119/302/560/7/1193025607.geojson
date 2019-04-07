@@ -1,0 +1,68 @@
+{
+  "id": 1193025607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.77702,59.35123,24.77702,59.35123",
+    "geom:latitude":59.35123,
+    "geom:longitude":24.77702,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"304.0",
+    "gn:admin3_code":"2671.0",
+    "gn:asciiname":"Kangru",
+    "gn:country_code":"EE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618455,
+    "gn:latitude":59.35123,
+    "gn:longitude":24.77702,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kangru",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618455,
+        "wk:page":"Kangru"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c558c71c58e8ff0eef56875d3df5427f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1193025607,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1193025607,
+    "wof:lastmodified":1537562555,
+    "wof:name":"Kangru",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.77702,
+    59.35123000000001,
+    24.77702,
+    59.35123000000001
+],
+  "geometry": {"coordinates":[24.77702,59.35123000000001],"type":"Point"}
+}

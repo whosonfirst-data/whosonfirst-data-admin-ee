@@ -1,0 +1,70 @@
+{
+  "id": 1209609559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.90917,58.87111,23.90917,58.87111",
+    "geom:latitude":58.87111,
+    "geom:longitude":23.90917,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"5626.0",
+    "gn:asciiname":"Ohtla",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589877,
+    "gn:latitude":58.87111,
+    "gn:longitude":23.90917,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Ohtla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ohtla Asundus",
+        "Okhtla",
+        "Ohtla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589877,
+        "wk:page":"Ohtla"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"3a81dec993b17fedffe0b0887f760702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209609559
+        }
+    ],
+    "wof:id":1209609559,
+    "wof:lastmodified":1537620363,
+    "wof:name":"Ohtla",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.90917,
+    58.87111,
+    23.90917,
+    58.87111
+],
+  "geometry": {"coordinates":[23.90917,58.87111],"type":"Point"}
+}

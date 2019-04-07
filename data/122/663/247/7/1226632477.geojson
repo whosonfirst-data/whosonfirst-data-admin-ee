@@ -1,0 +1,68 @@
+{
+  "id": 1226632477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.38417,59.04833,24.38417,59.04833",
+    "geom:latitude":59.04833,
+    "geom:longitude":24.38417,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"5351.0",
+    "gn:asciiname":"Napanurga",
+    "gn:country_code":"EE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618466,
+    "gn:latitude":59.04833,
+    "gn:longitude":24.38417,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Napanurga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618466,
+        "wk:page":"Napanurga"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"76e08fcf41cd0fc4862c752c83e9e4fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226632477,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1226632477,
+    "wof:lastmodified":1537562555,
+    "wof:name":"Napanurga",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.38417,
+    59.04833000000001,
+    24.38417,
+    59.04833000000001
+],
+  "geometry": {"coordinates":[24.38417,59.04833000000001],"type":"Point"}
+}

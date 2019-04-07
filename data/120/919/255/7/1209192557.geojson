@@ -1,0 +1,71 @@
+{
+  "id": 1209192557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48889,58.15667,24.48889,58.15667",
+    "geom:latitude":58.15667,
+    "geom:longitude":24.48889,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"214.0",
+    "gn:admin3_code":"6194.0",
+    "gn:asciiname":"Piirumi",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589453,
+    "gn:latitude":58.15667,
+    "gn:longitude":24.48889,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Piirumi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pihnurme",
+        "Pikknurme",
+        "Pikhnurme",
+        "Piirumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589453,
+        "wk:page":"Piirumi"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"f36258fdfbd951502e2058472bd737af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209192557
+        }
+    ],
+    "wof:id":1209192557,
+    "wof:lastmodified":1537620347,
+    "wof:name":"Piirumi",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48889,
+    58.15667,
+    24.48889,
+    58.15667
+],
+  "geometry": {"coordinates":[24.48889,58.15667],"type":"Point"}
+}

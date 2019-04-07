@@ -1,0 +1,74 @@
+{
+  "id": 1310181085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.04194,58.30333,27.04194,58.30333",
+    "geom:latitude":58.30333,
+    "geom:longitude":27.04194,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"291.0",
+    "gn:admin3_code":"2682.0",
+    "gn:asciiname":"Kannu",
+    "gn:country_code":"EE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":794131,
+    "gn:latitude":58.30333,
+    "gn:longitude":27.04194,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kannu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kannu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u043d\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794131,
+        "wk:page":"Kannu%2C_Tartu_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"3380e20cd231dbd0fcfaabe390d4a13d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310181085,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1310181085,
+    "wof:lastmodified":1537620470,
+    "wof:name":"Kannu",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.04194,
+    58.30333,
+    27.04194,
+    58.30333
+],
+  "geometry": {"coordinates":[27.04194,58.30333],"type":"Point"}
+}

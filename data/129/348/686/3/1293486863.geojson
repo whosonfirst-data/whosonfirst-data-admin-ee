@@ -1,0 +1,74 @@
+{
+  "id": 1293486863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.56667,58.60139,26.56667,58.60139",
+    "geom:latitude":58.60139,
+    "geom:longitude":26.56667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"247.0",
+    "gn:admin3_code":"9431.0",
+    "gn:asciiname":"Mullavere",
+    "gn:country_code":"EE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590123,
+    "gn:latitude":58.60139,
+    "gn:longitude":26.56667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Mullavere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mullavere"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043b\u043b\u0430\u0432\u0435\u0440\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590123,
+        "wk:page":"Mullavere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"8fd125de96a0f9135b7330ac9f2b97a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293486863,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1293486863,
+    "wof:lastmodified":1537620370,
+    "wof:name":"Mullavere",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.56667,
+    58.60139,
+    26.56667,
+    58.60139
+],
+  "geometry": {"coordinates":[26.56667,58.60139],"type":"Point"}
+}

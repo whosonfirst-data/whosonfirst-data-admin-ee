@@ -1,0 +1,72 @@
+{
+  "id": 1276644017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.05,58.25,25.05,58.25",
+    "geom:latitude":58.25,
+    "geom:longitude":25.05,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"712.0",
+    "gn:admin3_code":"5640.0",
+    "gn:asciiname":"Oissaare",
+    "gn:country_code":"EE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589866,
+    "gn:latitude":58.25,
+    "gn:longitude":25.05,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Oissaare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oyssare",
+        "Oissaare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589866,
+        "wk:page":"Oissaare"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c90e09ba711a344aaf42c941aabc385a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276644017,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1276644017,
+    "wof:lastmodified":1537620362,
+    "wof:name":"Oissaare",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.05,
+    58.25,
+    25.05,
+    58.25
+],
+  "geometry": {"coordinates":[25.05,58.25],"type":"Point"}
+}

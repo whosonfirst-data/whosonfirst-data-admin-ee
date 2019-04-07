@@ -1,0 +1,70 @@
+{
+  "id": 1226127979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.09222,59.34028,26.09222,59.34028",
+    "geom:latitude":59.34028,
+    "geom:longitude":26.09222,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"272.0",
+    "gn:admin3_code":"8688.0",
+    "gn:asciiname":"Nagala",
+    "gn:country_code":"EE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619111,
+    "gn:latitude":59.34028,
+    "gn:longitude":26.09222,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Nagala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nagala-Leikude"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619111
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"ad6e000597c6d7671d1fb53c03999712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226127979,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1226127979,
+    "wof:lastmodified":1537620501,
+    "wof:name":"Nagala",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.09222,
+    59.34028000000001,
+    26.09222,
+    59.34028000000001
+],
+  "geometry": {"coordinates":[26.09222,59.34028000000001],"type":"Point"}
+}

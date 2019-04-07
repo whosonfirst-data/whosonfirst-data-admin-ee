@@ -1,0 +1,68 @@
+{
+  "id": 1343372961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86556,59.29972,25.86556,59.29972",
+    "geom:latitude":59.29972,
+    "geom:longitude":25.86556,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"353.0",
+    "gn:admin3_code":"3342.0",
+    "gn:asciiname":"Kolgu",
+    "gn:country_code":"EE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591204,
+    "gn:latitude":59.29972,
+    "gn:longitude":25.86556,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kolgu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591204,
+        "wk:page":"Kolgu"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"08fa4a0556537c7125f6caf2d7cc9170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343372961,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1343372961,
+    "wof:lastmodified":1537562512,
+    "wof:name":"Kolgu",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86556,
+    59.29971999999999,
+    25.86556,
+    59.29971999999999
+],
+  "geometry": {"coordinates":[25.86556,59.29971999999999],"type":"Point"}
+}

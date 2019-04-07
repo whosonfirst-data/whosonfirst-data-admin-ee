@@ -1,0 +1,73 @@
+{
+  "id": 1343728419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.60139,58.25944,26.60139,58.25944",
+    "geom:latitude":58.25944,
+    "geom:longitude":26.60139,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"528.0",
+    "gn:admin3_code":"8698.0",
+    "gn:asciiname":"Unipiha",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588056,
+    "gn:latitude":58.25944,
+    "gn:longitude":26.60139,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Unipiha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Unipikha",
+        "Unipiha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588056,
+        "wk:page":"Unipiha"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"b955e5d431e03bc3318a92c64f2d3e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343728419,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1343728419,
+    "wof:lastmodified":1537620300,
+    "wof:name":"Unipiha",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.60139,
+    58.25944000000001,
+    26.60139,
+    58.25944000000001
+],
+  "geometry": {"coordinates":[26.60139,58.25944000000001],"type":"Point"}
+}

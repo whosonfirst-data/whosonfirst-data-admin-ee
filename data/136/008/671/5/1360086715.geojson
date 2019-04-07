@@ -1,0 +1,67 @@
+{
+  "id": 1360086715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.99589,59.431,27.99589,59.431",
+    "geom:latitude":59.431,
+    "geom:longitude":27.99589,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"514.0",
+    "gn:admin3_code":"5356.0",
+    "gn:asciiname":"Auga",
+    "gn:country_code":"EE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592349,
+    "gn:latitude":59.431,
+    "gn:longitude":27.99589,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Auga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592349
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"67de7b54b5d87e28b36bbc59ceaf9006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1360086715,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1360086715,
+    "wof:lastmodified":1536943821,
+    "wof:name":"Auga",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.99589000000001,
+    59.431,
+    27.99589000000001,
+    59.431
+],
+  "geometry": {"coordinates":[27.99589000000001,59.431],"type":"Point"}
+}

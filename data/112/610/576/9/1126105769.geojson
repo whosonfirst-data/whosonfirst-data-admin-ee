@@ -1,0 +1,81 @@
+{
+  "id": 1126105769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.90778,59.45944,24.90778,59.45944",
+    "geom:latitude":59.45944,
+    "geom:longitude":24.90778,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":277,
+    "gn:population":277,
+    "iso:country":"EE",
+    "lbl:latitude":59.45944,
+    "lbl:longitude":24.90778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Tallin"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":863519,
+    "qs_pg:gn_pop":277,
+    "qs_pg:name":"Iru",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":554579,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        101753891,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863519,
+        "qs_pg:id":554579
+    },
+    "wof:country":"EE",
+    "wof:created":1497316902,
+    "wof:geomhash":"edea68e35bc72783960d957ea1538b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":101753891,
+            "neighbourhood_id":1126105769,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1126105769,
+    "wof:lastmodified":1509412367,
+    "wof:name":"Iru",
+    "wof:parent_id":101753891,
+    "wof:placetype":"neighbourhood",
+    "wof:population":277,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.90778,
+    59.45944,
+    24.90778,
+    59.45944
+],
+  "geometry": {"coordinates":[24.90778,59.45944],"type":"Point"}
+}

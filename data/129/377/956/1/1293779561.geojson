@@ -1,0 +1,72 @@
+{
+  "id": 1293779561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.59111,59.42556,26.59111,59.42556",
+    "geom:latitude":59.42556,
+    "geom:longitude":26.59111,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"661.0",
+    "gn:admin3_code":"9099.0",
+    "gn:asciiname":"Varudi-Altkuela",
+    "gn:country_code":"EE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619602,
+    "gn:latitude":59.42556,
+    "gn:longitude":26.59111,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Varudi-Altk\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Varudi-Altk\u00fcla",
+        "Altk\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619602,
+        "wk:page":"Varudi-Altk%C3%BCla"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"06ff0b82659342ba3aa07f59f622ab26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293779561,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1293779561,
+    "wof:lastmodified":1537620511,
+    "wof:name":"Varudi-Altkuela",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.59111,
+    59.42556,
+    26.59111,
+    59.42556
+],
+  "geometry": {"coordinates":[26.59111,59.42556],"type":"Point"}
+}

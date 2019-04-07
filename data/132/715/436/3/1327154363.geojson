@@ -1,0 +1,70 @@
+{
+  "id": 1327154363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.69167,59.01333,26.69167,59.01333",
+    "geom:latitude":59.01333,
+    "geom:longitude":26.69167,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"9204.0",
+    "gn:asciiname":"Vanakopli",
+    "gn:country_code":"EE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618661,
+    "gn:latitude":59.01333,
+    "gn:longitude":26.69167,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Vanakopli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vanak\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618661
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"edef2f8554aaefc3dec36c5a42bf64e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327154363,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1327154363,
+    "wof:lastmodified":1537620493,
+    "wof:name":"Vanakopli",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.69167,
+    59.01333,
+    26.69167,
+    59.01333
+],
+  "geometry": {"coordinates":[26.69167,59.01333],"type":"Point"}
+}

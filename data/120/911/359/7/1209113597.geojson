@@ -1,0 +1,74 @@
+{
+  "id": 1209113597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.96694,58.89472,26.96694,58.89472",
+    "geom:latitude":58.89472,
+    "geom:longitude":26.96694,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"486.0",
+    "gn:admin3_code":"2616.0",
+    "gn:asciiname":"Kalmakuela",
+    "gn:country_code":"EE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591694,
+    "gn:latitude":58.89472,
+    "gn:longitude":26.96694,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kalmak\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kalmak\u00fcla"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u043c\u0430\u043a\u044e\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kalma",
+        "Kalmak\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591694,
+        "wk:page":"Kalmak%C3%BCla"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"10167d590286cc5566752bb04af71873",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209113597
+        }
+    ],
+    "wof:id":1209113597,
+    "wof:lastmodified":1537620428,
+    "wof:name":"Kalmakuela",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.96694,
+    58.89471999999999,
+    26.96694,
+    58.89471999999999
+],
+  "geometry": {"coordinates":[26.96694,58.89471999999999],"type":"Point"}
+}

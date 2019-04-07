@@ -1,0 +1,63 @@
+{
+  "id": 1209388863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.87444,57.74083,26.87444,57.74083",
+    "geom:latitude":57.74083,
+    "geom:longitude":26.87444,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"698.0",
+    "gn:admin3_code":"5001.0",
+    "gn:asciiname":"Nitso",
+    "gn:country_code":"EE",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619705,
+    "gn:latitude":57.74083,
+    "gn:longitude":26.87444,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Nitso",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619705
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"f46bc52b6da725d73adb66d2a819a488",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209388863
+        }
+    ],
+    "wof:id":1209388863,
+    "wof:lastmodified":1536288530,
+    "wof:name":"Nitso",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.874440000000003,
+    57.74083,
+    26.874440000000003,
+    57.74083
+],
+  "geometry": {"coordinates":[26.87444,57.74083],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209890125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8225,57.78306,26.8225,57.78306",
+    "geom:latitude":57.78306,
+    "geom:longitude":26.8225,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"698.0",
+    "gn:admin3_code":"4670.0",
+    "gn:asciiname":"Luekkae",
+    "gn:country_code":"EE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619354,
+    "gn:latitude":57.78306,
+    "gn:longitude":26.8225,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"L\u00fckk\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00fckk\u00e4",
+        "L\u00fckka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619354
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"ac9a0c1bdeba58708eff6877d1fe90c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1209890125,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1209890125,
+    "wof:lastmodified":1537620506,
+    "wof:name":"Luekkae",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8225,
+    57.78306,
+    26.8225,
+    57.78306
+],
+  "geometry": {"coordinates":[26.8225,57.78306],"type":"Point"}
+}

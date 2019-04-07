@@ -1,0 +1,71 @@
+{
+  "id": 1310101219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.41667,58.91667,26.41667,58.91667",
+    "geom:latitude":58.91667,
+    "geom:longitude":26.41667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"928.0",
+    "gn:admin3_code":"2371.0",
+    "gn:asciiname":"Yayetma",
+    "gn:country_code":"EE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592004,
+    "gn:latitude":58.91667,
+    "gn:longitude":26.41667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Yayetma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00e4\u00e4tmaa",
+        "J\u00e4\u00e4tma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592004
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"fb5fb41ff13731811c55b3ffb8b357a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310101219,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1310101219,
+    "wof:lastmodified":1537620441,
+    "wof:name":"Yayetma",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.41667,
+    58.91667,
+    26.41667,
+    58.91667
+],
+  "geometry": {"coordinates":[26.41667,58.91667],"type":"Point"}
+}

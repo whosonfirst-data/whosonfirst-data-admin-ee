@@ -1,0 +1,68 @@
+{
+  "id": 1226735979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88889,58.75833,24.88889,58.75833",
+    "geom:latitude":58.75833,
+    "geom:longitude":24.88889,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"293.0",
+    "gn:admin3_code":"2952.0",
+    "gn:asciiname":"Kenni",
+    "gn:country_code":"EE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591464,
+    "gn:latitude":58.75833,
+    "gn:longitude":24.88889,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kenni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591464,
+        "wk:page":"Kenni"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a4642ef2761f83a8b3b579ed384b8b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226735979,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1226735979,
+    "wof:lastmodified":1537562516,
+    "wof:name":"Kenni",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88889,
+    58.75833000000001,
+    24.88889,
+    58.75833000000001
+],
+  "geometry": {"coordinates":[24.88889,58.75833000000001],"type":"Point"}
+}

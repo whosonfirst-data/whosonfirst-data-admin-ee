@@ -1,0 +1,72 @@
+{
+  "id": 1226160739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.90306,59.24528,24.90306,59.24528",
+    "geom:latitude":59.24528,
+    "geom:longitude":24.90306,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"304.0",
+    "gn:admin3_code":"7894.0",
+    "gn:asciiname":"Someru",
+    "gn:country_code":"EE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588632,
+    "gn:latitude":59.24528,
+    "gn:longitude":24.90306,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"S\u00f5meru",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Symeru",
+        "S\u00f5meru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588632,
+        "wk:page":"S%C3%B5meru%2C_Kiili_Parish"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"1d0cff0248633c74a1ac3ff880dd1c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226160739,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1226160739,
+    "wof:lastmodified":1537620318,
+    "wof:name":"Someru",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.90306,
+    59.24528000000001,
+    24.90306,
+    59.24528000000001
+],
+  "geometry": {"coordinates":[24.90306,59.24528000000001],"type":"Point"}
+}

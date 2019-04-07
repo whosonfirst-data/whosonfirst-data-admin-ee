@@ -1,0 +1,74 @@
+{
+  "id": 1310206943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.85167,59.08917,26.85167,59.08917",
+    "geom:latitude":59.08917,
+    "geom:longitude":26.85167,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"130.0",
+    "gn:admin3_code":"6117.0",
+    "gn:asciiname":"Peressaare",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589512,
+    "gn:latitude":59.08917,
+    "gn:longitude":26.85167,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Peressaare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peresare",
+        "Peresaare",
+        "Peressaare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589512,
+        "wk:page":"Peressaare"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"52d4d7b5b0237e52691f527716fabb6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310206943,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1310206943,
+    "wof:lastmodified":1537620349,
+    "wof:name":"Peressaare",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.85167,
+    59.08917,
+    26.85167,
+    59.08917
+],
+  "geometry": {"coordinates":[26.85167,59.08917],"type":"Point"}
+}

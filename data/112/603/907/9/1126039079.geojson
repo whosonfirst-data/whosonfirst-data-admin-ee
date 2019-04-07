@@ -1,0 +1,100 @@
+{
+  "id": 1126039079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.22639,58.04972,26.22639,58.04972",
+    "geom:latitude":58.04972,
+    "geom:longitude":26.22639,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":748,
+    "gn:population":748,
+    "iso:country":"EE",
+    "lbl:latitude":58.04972,
+    "lbl:longitude":26.22639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Bockenhof"
+    ],
+    "name:eng_x_preferred":[
+        "Puka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Bokkengof\u2019"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":589292,
+    "qs_pg:gn_pop":748,
+    "qs_pg:name":"Puka",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Valgamaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":262034,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":844907,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Valgamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589292,
+        "gp:id":844907,
+        "qs_pg:id":262034
+    },
+    "wof:country":"EE",
+    "wof:created":1497302009,
+    "wof:geomhash":"df3bb78e979ee6e1389e6706d69469ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126039079,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1126039079,
+    "wof:lastmodified":1509408398,
+    "wof:name":"Puka",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:population":748,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.22639,
+    58.04972,
+    26.22639,
+    58.04972
+],
+  "geometry": {"coordinates":[26.22639,58.04972],"type":"Point"}
+}

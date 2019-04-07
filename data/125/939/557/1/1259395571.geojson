@@ -1,0 +1,72 @@
+{
+  "id": 1259395571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.71406,58.8748,22.71406,58.8748",
+    "geom:latitude":58.8748,
+    "geom:longitude":22.71406,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"5514.0",
+    "gn:asciiname":"Nommerga",
+    "gn:country_code":"EE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618274,
+    "gn:latitude":58.8748,
+    "gn:longitude":22.71406,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"N\u00f5mmerga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00f5mmerga",
+        "N\u00f6mme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618274,
+        "wk:page":"N%C3%B5mmerga"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"713b3a28c250b221a6fd5203ebf8ee78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259395571,
+            "region_id":85682989
+        }
+    ],
+    "wof:id":1259395571,
+    "wof:lastmodified":1537620485,
+    "wof:name":"Nommerga",
+    "wof:parent_id":85682989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.71406,
+    58.8748,
+    22.71406,
+    58.8748
+],
+  "geometry": {"coordinates":[22.71406,58.8748],"type":"Point"}
+}

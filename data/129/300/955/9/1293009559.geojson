@@ -1,0 +1,74 @@
+{
+  "id": 1293009559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.40244,58.88876,22.40244,58.88876",
+    "geom:latitude":58.88876,
+    "geom:longitude":22.40244,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"4780.0",
+    "gn:asciiname":"Mardihansu",
+    "gn:country_code":"EE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590328,
+    "gn:latitude":58.88876,
+    "gn:longitude":22.40244,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Mardihansu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myardikhanzu",
+        "M\u00e1rdiansu",
+        "Mardiganso",
+        "Mardihansu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590328,
+        "wk:page":"Mardihansu"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"13b5ca8eaa007af500d73b06dc3cc978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293009559,
+            "region_id":85682989
+        }
+    ],
+    "wof:id":1293009559,
+    "wof:lastmodified":1537620378,
+    "wof:name":"Mardihansu",
+    "wof:parent_id":85682989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.40244,
+    58.88876,
+    22.40244,
+    58.88876
+],
+  "geometry": {"coordinates":[22.40244,58.88876],"type":"Point"}
+}

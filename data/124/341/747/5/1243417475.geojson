@@ -1,0 +1,71 @@
+{
+  "id": 1243417475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6575,58.27833,26.6575,58.27833",
+    "geom:latitude":58.27833,
+    "geom:longitude":26.6575,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"283.0",
+    "gn:admin3_code":"4648.0",
+    "gn:asciiname":"Laeti",
+    "gn:country_code":"EE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":794046,
+    "gn:latitude":58.27833,
+    "gn:longitude":26.6575,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"L\u00e4ti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e4ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794046,
+        "wk:page":"L%C3%A4ti%2C_Tartu_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"8d4e13409a9c35f81c3633ec8654f692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243417475,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1243417475,
+    "wof:lastmodified":1537620470,
+    "wof:name":"Laeti",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6575,
+    58.27833,
+    26.6575,
+    58.27833
+],
+  "geometry": {"coordinates":[26.6575,58.27833],"type":"Point"}
+}

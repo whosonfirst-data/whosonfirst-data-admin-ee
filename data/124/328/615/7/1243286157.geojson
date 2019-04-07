@@ -1,0 +1,71 @@
+{
+  "id": 1243286157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.21028,59.32972,26.21028,59.32972",
+    "geom:latitude":59.32972,
+    "geom:longitude":26.21028,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"272.0",
+    "gn:admin3_code":"5741.0",
+    "gn:asciiname":"Orutaguse",
+    "gn:country_code":"EE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619690,
+    "gn:latitude":59.32972,
+    "gn:longitude":26.21028,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Orutaguse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasearu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619690,
+        "wk:page":"Orutaguse"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"ff338242e68ec6e58482d4684036d297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243286157,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1243286157,
+    "wof:lastmodified":1537620513,
+    "wof:name":"Orutaguse",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.21028,
+    59.32972,
+    26.21028,
+    59.32972
+],
+  "geometry": {"coordinates":[26.21028,59.32972],"type":"Point"}
+}

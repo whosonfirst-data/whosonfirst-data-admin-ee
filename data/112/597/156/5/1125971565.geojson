@@ -1,0 +1,114 @@
+{
+  "id": 1125971565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.565,58.75361,25.565,58.75361",
+    "geom:latitude":58.75361,
+    "geom:longitude":25.565,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":418,
+    "gn:population":418,
+    "iso:country":"EE",
+    "lbl:latitude":58.75361,
+    "lbl:longitude":25.565,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0555\u056b\u057d\u0578\u0582"
+    ],
+    "name:dut_x_preferred":[
+        "Oisu"
+    ],
+    "name:eng_x_preferred":[
+        "Oisu"
+    ],
+    "name:est_x_preferred":[
+        "Oisu"
+    ],
+    "name:fre_x_preferred":[
+        "Oisu"
+    ],
+    "name:ger_x_preferred":[
+        "Oisu"
+    ],
+    "name:swe_x_preferred":[
+        "Oisu"
+    ],
+    "name:unk_x_variant":[
+        "Oyzu"
+    ],
+    "name:vol_x_preferred":[
+        "Oisu"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":589864,
+    "qs_pg:gn_pop":418,
+    "qs_pg:name":"Oisu",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"J\u00e4rvamaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":406099,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":844372,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"J\u00e4rvamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589864,
+        "gp:id":844372,
+        "qs_pg:id":406099,
+        "wd:id":"Q1008877"
+    },
+    "wof:country":"EE",
+    "wof:created":1497298185,
+    "wof:geomhash":"2d3519b4d07d547a784eac22fb47300f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125971565,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1125971565,
+    "wof:lastmodified":1553816666,
+    "wof:name":"Oisu",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:population":418,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.565,
+    58.75361,
+    25.565,
+    58.75361
+],
+  "geometry": {"coordinates":[25.565,58.75361],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209687251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.97167,58.83333,24.97167,58.83333",
+    "geom:latitude":58.83333,
+    "geom:longitude":24.97167,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"293.0",
+    "gn:admin3_code":"6530.0",
+    "gn:asciiname":"Pollu",
+    "gn:country_code":"EE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":795013,
+    "gn:latitude":58.83333,
+    "gn:longitude":24.97167,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"P\u00f5llu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00f5llu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":795013,
+        "wk:page":"P%C3%B5llu"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"ff4a61d7c7e0b336f6a31e91ef12c904",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209687251
+        }
+    ],
+    "wof:id":1209687251,
+    "wof:lastmodified":1537620479,
+    "wof:name":"Pollu",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.97167,
+    58.83333,
+    24.97167,
+    58.83333
+],
+  "geometry": {"coordinates":[24.97167,58.83333],"type":"Point"}
+}

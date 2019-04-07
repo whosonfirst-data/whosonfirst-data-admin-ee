@@ -1,0 +1,67 @@
+{
+  "id": 1344242599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3975,59.11861,26.3975,59.11861",
+    "geom:latitude":59.11861,
+    "geom:longitude":26.3975,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"928.0",
+    "gn:admin3_code":"1484.0",
+    "gn:asciiname":"Vonnusvere-Tagakuela",
+    "gn:country_code":"EE",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618652,
+    "gn:latitude":59.11861,
+    "gn:longitude":26.3975,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"V\u00f5nnusvere-Tagak\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618652
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d81bb92f51bc84b6139298f2748f2f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1344242599,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1344242599,
+    "wof:lastmodified":1536610161,
+    "wof:name":"Vonnusvere-Tagakuela",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3975,
+    59.11861,
+    26.3975,
+    59.11861
+],
+  "geometry": {"coordinates":[26.3975,59.11861],"type":"Point"}
+}

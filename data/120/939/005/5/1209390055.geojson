@@ -1,0 +1,66 @@
+{
+  "id": 1209390055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.82222,58.02667,25.82222,58.02667",
+    "geom:latitude":58.02667,
+    "geom:longitude":25.82222,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"824.0",
+    "gn:admin3_code":"2757.0",
+    "gn:asciiname":"Koriste",
+    "gn:country_code":"EE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620617,
+    "gn:latitude":58.02667,
+    "gn:longitude":25.82222,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Koriste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u041a\u0430\u0440\u043e\u0442\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620617
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"6de2ee91cc1918e713de753b0034e655",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209390055
+        }
+    ],
+    "wof:id":1209390055,
+    "wof:lastmodified":1537620533,
+    "wof:name":"Koriste",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.82222,
+    58.02667,
+    25.82222,
+    58.02667
+],
+  "geometry": {"coordinates":[25.82222,58.02667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326504189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.49472,57.765,27.49472,57.765",
+    "geom:latitude":57.765,
+    "geom:longitude":27.49472,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"732.0",
+    "gn:admin3_code":"8793.0",
+    "gn:asciiname":"Kitse",
+    "gn:country_code":"EE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":794236,
+    "gn:latitude":57.765,
+    "gn:longitude":27.49472,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kitse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794236,
+        "wk:page":"Kitse"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"cb805964c0ab7adca441d785c12006f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1326504189,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1326504189,
+    "wof:lastmodified":1537562543,
+    "wof:name":"Kitse",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.49472,
+    57.765,
+    27.49472,
+    57.765
+],
+  "geometry": {"coordinates":[27.49472,57.765],"type":"Point"}
+}

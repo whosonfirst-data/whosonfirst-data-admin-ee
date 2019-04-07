@@ -1,0 +1,72 @@
+{
+  "id": 1209725137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4,59.38333,24.4,59.38333",
+    "geom:latitude":59.38333,
+    "geom:longitude":24.4,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"198.0",
+    "gn:admin3_code":"9683.0",
+    "gn:asciiname":"UElevaltkuela",
+    "gn:country_code":"EE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588091,
+    "gn:latitude":59.38333,
+    "gn:longitude":24.4,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"\u00dclevaltk\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuleval\u2019tkyula",
+        "Ulevaltk\u00fcla",
+        "\u00dclevaltk\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588091
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"61472d35a62adcade7c0bd18fa3388b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1209725137,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1209725137,
+    "wof:lastmodified":1537620301,
+    "wof:name":"UElevaltkuela",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4,
+    59.38333000000001,
+    24.4,
+    59.38333000000001
+],
+  "geometry": {"coordinates":[24.4,59.38333000000001],"type":"Point"}
+}

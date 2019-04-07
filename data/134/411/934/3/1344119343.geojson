@@ -1,0 +1,67 @@
+{
+  "id": 1344119343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.18611,58.07417,26.18611,58.07417",
+    "geom:latitude":58.07417,
+    "geom:longitude":26.18611,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"171.0",
+    "gn:admin3_code":"6890.0",
+    "gn:asciiname":"Rebaste",
+    "gn:country_code":"EE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":794579,
+    "gn:latitude":58.07417,
+    "gn:longitude":26.18611,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Rebaste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794579
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"28710665601a98c64fbae8a589c7db8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1344119343,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1344119343,
+    "wof:lastmodified":1536791145,
+    "wof:name":"Rebaste",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.18611,
+    58.07417,
+    26.18611,
+    58.07417
+],
+  "geometry": {"coordinates":[26.18611,58.07417],"type":"Point"}
+}

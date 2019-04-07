@@ -1,0 +1,74 @@
+{
+  "id": 1210018259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.81833,58.97694,26.81833,58.97694",
+    "geom:latitude":58.97694,
+    "geom:longitude":26.81833,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"486.0",
+    "gn:admin3_code":"3842.0",
+    "gn:asciiname":"Koveriku",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591060,
+    "gn:latitude":58.97694,
+    "gn:longitude":26.81833,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"K\u00f5veriku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyrve",
+        "K\u00f5rve",
+        "K\u00f5veriku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591060,
+        "wk:page":"K%C3%B5veriku"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"629d5ece20ab4ea6ce4df2547f2e33d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1210018259,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1210018259,
+    "wof:lastmodified":1537620404,
+    "wof:name":"Koveriku",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.81833,
+    58.97694,
+    26.81833,
+    58.97694
+],
+  "geometry": {"coordinates":[26.81833,58.97694],"type":"Point"}
+}

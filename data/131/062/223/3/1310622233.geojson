@@ -1,0 +1,73 @@
+{
+  "id": 1310622233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70583,58.615,23.70583,58.615",
+    "geom:latitude":58.615,
+    "geom:longitude":23.70583,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"430.0",
+    "gn:admin3_code":"2784.0",
+    "gn:asciiname":"Karuse",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591556,
+    "gn:latitude":58.615,
+    "gn:longitude":23.70583,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Karuse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karuze",
+        "Karuse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591556,
+        "wk:page":"Karuse"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d55dc6ff52747dfdb4074962162f175a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310622233,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1310622233,
+    "wof:lastmodified":1537620423,
+    "wof:name":"Karuse",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70583,
+    58.615,
+    23.70583,
+    58.615
+],
+  "geometry": {"coordinates":[23.70583,58.615],"type":"Point"}
+}

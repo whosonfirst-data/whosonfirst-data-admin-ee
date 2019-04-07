@@ -1,0 +1,71 @@
+{
+  "id": 1260382979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.48333,58.88333,23.48333,58.88333",
+    "geom:latitude":58.88333,
+    "geom:longitude":23.48333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"184.0",
+    "gn:admin3_code":"5186.0",
+    "gn:asciiname":"Suendeva",
+    "gn:country_code":"EE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588551,
+    "gn:latitude":58.88333,
+    "gn:longitude":23.48333,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"S\u00fcndeva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polumyza Syundeba",
+        "S\u00fcndeva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588551
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"b092002e10b4f195521620ca5531bba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260382979,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1260382979,
+    "wof:lastmodified":1537620315,
+    "wof:name":"Suendeva",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.48333,
+    58.88333000000001,
+    23.48333,
+    58.88333000000001
+],
+  "geometry": {"coordinates":[23.48333,58.88333000000001],"type":"Point"}
+}

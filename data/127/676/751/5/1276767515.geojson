@@ -1,0 +1,67 @@
+{
+  "id": 1276767515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.98444,58.65361,26.98444,58.65361",
+    "geom:latitude":58.65361,
+    "geom:longitude":26.98444,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"586.0",
+    "gn:admin3_code":"9150.0",
+    "gn:asciiname":"Ojakuela",
+    "gn:country_code":"EE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618314,
+    "gn:latitude":58.65361,
+    "gn:longitude":26.98444,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Ojak\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618314
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5714e261ad66aab19297b2250d1f20e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276767515,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1276767515,
+    "wof:lastmodified":1536694254,
+    "wof:name":"Ojakuela",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.98444000000001,
+    58.65361,
+    26.98444000000001,
+    58.65361
+],
+  "geometry": {"coordinates":[26.98444000000001,58.65361],"type":"Point"}
+}

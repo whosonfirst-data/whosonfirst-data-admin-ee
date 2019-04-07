@@ -1,0 +1,73 @@
+{
+  "id": 1259894019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28333,59.46667,25.28333,59.46667",
+    "geom:latitude":59.46667,
+    "geom:longitude":25.28333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"353.0",
+    "gn:admin3_code":"1701.0",
+    "gn:asciiname":"Haavakannu",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592219,
+    "gn:latitude":59.46667,
+    "gn:longitude":25.28333,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Haavakannu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khaavakanni",
+        "Haavakannu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592219,
+        "wk:page":"Haavakannu"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a9a782737639af8e1e4de85a198a8de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259894019,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1259894019,
+    "wof:lastmodified":1537620449,
+    "wof:name":"Haavakannu",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28333,
+    59.46666999999999,
+    25.28333,
+    59.46666999999999
+],
+  "geometry": {"coordinates":[25.28333,59.46666999999999],"type":"Point"}
+}

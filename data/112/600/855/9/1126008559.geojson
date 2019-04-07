@@ -1,0 +1,91 @@
+{
+  "id": 1126008559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.89639,57.98167,25.89639,57.98167",
+    "geom:latitude":57.98167,
+    "geom:longitude":25.89639,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":243,
+    "gn:population":243,
+    "iso:country":"EE",
+    "lbl:latitude":57.98167,
+    "lbl:longitude":25.89639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Myza Patkyula"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":589556,
+    "qs_pg:gn_pop":243,
+    "qs_pg:name":"Patk\u00fcla",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Valgamaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":111124,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":844650,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Valgamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589556,
+        "gp:id":844650,
+        "qs_pg:id":111124
+    },
+    "wof:country":"EE",
+    "wof:created":1497300129,
+    "wof:geomhash":"42d844e74f19c621d49469647b801592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126008559,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1126008559,
+    "wof:lastmodified":1509406535,
+    "wof:name":"Patk\u00fcla",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:population":243,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.89639,
+    57.98167,
+    25.89639,
+    57.98167
+],
+  "geometry": {"coordinates":[25.89639,57.98167],"type":"Point"}
+}

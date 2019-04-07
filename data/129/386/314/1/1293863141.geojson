@@ -1,0 +1,71 @@
+{
+  "id": 1293863141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.78,58.90472,24.78,58.90472",
+    "geom:latitude":58.90472,
+    "geom:longitude":24.78,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"668.0",
+    "gn:admin3_code":"6533.0",
+    "gn:asciiname":"Polma",
+    "gn:country_code":"EE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":795021,
+    "gn:latitude":58.90472,
+    "gn:longitude":24.78,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"P\u00f5lma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00f5lma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":795021,
+        "wk:page":"P%C3%B5lma"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5ca505d21c20ede732aabdd2fc93cd61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293863141,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1293863141,
+    "wof:lastmodified":1537620479,
+    "wof:name":"Polma",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78,
+    58.90472,
+    24.78,
+    58.90472
+],
+  "geometry": {"coordinates":[24.78,58.90472],"type":"Point"}
+}

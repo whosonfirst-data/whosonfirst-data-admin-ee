@@ -1,0 +1,125 @@
+{
+  "id": 1126017677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.15417,59.00306,26.15417,59.00306",
+    "geom:latitude":59.00306,
+    "geom:longitude":26.15417,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":106,
+    "gn:population":106,
+    "iso:country":"EE",
+    "lbl:latitude":59.00306,
+    "lbl:longitude":26.15417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053c\u056b\u056b\u0563\u057e\u0561\u056c\u056c\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u0433\u0432\u0430\u043b\u0430"
+    ],
+    "name:cze_x_preferred":[
+        "Liigvalla"
+    ],
+    "name:dut_x_preferred":[
+        "Liigvalla"
+    ],
+    "name:eng_x_preferred":[
+        "Liigvalla"
+    ],
+    "name:est_x_preferred":[
+        "Liigvalla"
+    ],
+    "name:fre_x_preferred":[
+        "Liigvalla"
+    ],
+    "name:ger_x_preferred":[
+        "Liigvalla"
+    ],
+    "name:pol_x_preferred":[
+        "Liigvalla"
+    ],
+    "name:swe_x_preferred":[
+        "Liigvalla"
+    ],
+    "name:unk_x_variant":[
+        "Myza Liigvalla"
+    ],
+    "name:vol_x_preferred":[
+        "Liigvalla"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":590651,
+    "qs_pg:gn_pop":106,
+    "qs_pg:name":"Liigvalla",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"L\u00e4\u00e4ne-Virumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":940399,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":843646,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590651,
+        "gp:id":843646,
+        "qs_pg:id":940399,
+        "wd:id":"Q1008972"
+    },
+    "wof:country":"EE",
+    "wof:created":1497300649,
+    "wof:geomhash":"1cc99b4c1453c7425c16edc146b5e356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126017677,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1126017677,
+    "wof:lastmodified":1513956420,
+    "wof:name":"Liigvalla",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:population":106,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.15417,
+    59.00306,
+    26.15417,
+    59.00306
+],
+  "geometry": {"coordinates":[26.15417,59.00306],"type":"Point"}
+}

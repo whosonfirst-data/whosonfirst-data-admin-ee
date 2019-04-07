@@ -1,0 +1,72 @@
+{
+  "id": 1310091077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.85278,59.26222,25.85278,59.26222",
+    "geom:latitude":59.26222,
+    "geom:longitude":25.85278,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"792.0",
+    "gn:admin3_code":"8549.0",
+    "gn:asciiname":"Pruuna",
+    "gn:country_code":"EE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589332,
+    "gn:latitude":59.26222,
+    "gn:longitude":25.85278,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pruuna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Pruna",
+        "Pruuna Asundus",
+        "Pruuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589332
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"f1cb0e6a41566b4f4ae890f2f6ddca26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310091077,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1310091077,
+    "wof:lastmodified":1537620342,
+    "wof:name":"Pruuna",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.85278,
+    59.26221999999999,
+    25.85278,
+    59.26221999999999
+],
+  "geometry": {"coordinates":[25.85278,59.26221999999999],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1310476253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96667,58.35,25.96667,58.35",
+    "geom:latitude":58.35,
+    "geom:longitude":25.96667,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Saba",
+    "gn:country_code":"EE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588860,
+    "gn:latitude":58.35,
+    "gn:longitude":25.96667,
+    "gn:modification_date":"1995-04-02",
+    "gn:name":"Saba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588860
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"caa4422b3708dc4b5a93fd97f14851f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310476253,
+            "region_id":85682963
+        }
+    ],
+    "wof:id":1310476253,
+    "wof:lastmodified":1536959111,
+    "wof:name":"Saba",
+    "wof:parent_id":85682963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96667,
+    58.35,
+    25.96667,
+    58.35
+],
+  "geometry": {"coordinates":[25.96667,58.35],"type":"Point"}
+}

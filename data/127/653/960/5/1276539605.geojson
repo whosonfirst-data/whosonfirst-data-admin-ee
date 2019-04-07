@@ -1,0 +1,73 @@
+{
+  "id": 1276539605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.33417,58.99139,26.33417,58.99139",
+    "geom:latitude":58.99139,
+    "geom:longitude":26.33417,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"928.0",
+    "gn:admin3_code":"8115.0",
+    "gn:asciiname":"Tammiku",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588383,
+    "gn:latitude":58.99139,
+    "gn:longitude":26.33417,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Tammiku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Tammiku",
+        "Tammiku Asundus",
+        "Tammiku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588383
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"bad6f38a7435feca3e0333a421128557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276539605,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1276539605,
+    "wof:lastmodified":1537620310,
+    "wof:name":"Tammiku",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.33417,
+    58.99139,
+    26.33417,
+    58.99139
+],
+  "geometry": {"coordinates":[26.33417,58.99139],"type":"Point"}
+}

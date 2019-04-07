@@ -1,0 +1,67 @@
+{
+  "id": 1293077417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.51111,58.86472,24.51111,58.86472",
+    "geom:latitude":58.86472,
+    "geom:longitude":24.51111,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"4479.0",
+    "gn:asciiname":"Lokuta",
+    "gn:country_code":"EE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619573,
+    "gn:latitude":58.86472,
+    "gn:longitude":24.51111,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Lokuta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619573
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5e1a40272c74be82c7d2e71cc069a438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293077417,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1293077417,
+    "wof:lastmodified":1536880616,
+    "wof:name":"Lokuta",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.51111,
+    58.86472,
+    24.51111,
+    58.86472
+],
+  "geometry": {"coordinates":[24.51111,58.86472],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242769539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.80444,58.96889,23.80444,58.96889",
+    "geom:latitude":58.96889,
+    "geom:longitude":23.80444,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"9572.0",
+    "gn:asciiname":"Vontkuela",
+    "gn:country_code":"EE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587471,
+    "gn:latitude":58.96889,
+    "gn:longitude":23.80444,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"V\u00f5ntk\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00f5ntk\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587471,
+        "wk:page":"V%C3%B5ntk%C3%BCla"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"db8497b12649bbc4fba0f467b4a06ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242769539,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1242769539,
+    "wof:lastmodified":1537620279,
+    "wof:name":"Vontkuela",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.80444,
+    58.96889,
+    23.80444,
+    58.96889
+],
+  "geometry": {"coordinates":[23.80444,58.96889],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1192980297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.89667,58.24528,25.89667,58.24528",
+    "geom:latitude":58.24528,
+    "geom:longitude":25.89667,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"899.0",
+    "gn:admin3_code":"7750.0",
+    "gn:asciiname":"Sooviku",
+    "gn:country_code":"EE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793941,
+    "gn:latitude":58.24528,
+    "gn:longitude":25.89667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Sooviku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793941
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"42bc753d3ad09ec02c78a23895583236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1192980297,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1192980297,
+    "wof:lastmodified":1536368652,
+    "wof:name":"Sooviku",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.89667,
+    58.24528000000001,
+    25.89667,
+    58.24528000000001
+],
+  "geometry": {"coordinates":[25.89667,58.24528000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259981467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.80333,59.43194,26.80333,59.43194",
+    "geom:latitude":59.43194,
+    "geom:longitude":26.80333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"3394.0",
+    "gn:asciiname":"Koogu",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591160,
+    "gn:latitude":59.43194,
+    "gn:longitude":26.80333,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Koogu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koogu Asundus",
+        "Myza Kogu",
+        "Koogu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591160,
+        "wk:page":"Koogu"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5a4b7cbe43a2b2a672630ee196eb15a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259981467,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1259981467,
+    "wof:lastmodified":1537620409,
+    "wof:name":"Koogu",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.80333,
+    59.43194,
+    26.80333,
+    59.43194
+],
+  "geometry": {"coordinates":[26.80333,59.43194],"type":"Point"}
+}

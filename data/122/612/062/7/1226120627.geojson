@@ -1,0 +1,67 @@
+{
+  "id": 1226120627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71667,58.18333,24.71667,58.18333",
+    "geom:latitude":58.18333,
+    "geom:longitude":24.71667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"712.0",
+    "gn:admin3_code":"7013.0",
+    "gn:asciiname":"Ura",
+    "gn:country_code":"EE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588050,
+    "gn:latitude":58.18333,
+    "gn:longitude":24.71667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Ura",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588050
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7df80e7e5c053af2250d3470ed984f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226120627,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1226120627,
+    "wof:lastmodified":1536614745,
+    "wof:name":"Ura",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71667,
+    58.18333000000001,
+    24.71667,
+    58.18333000000001
+],
+  "geometry": {"coordinates":[24.71667,58.18333000000001],"type":"Point"}
+}

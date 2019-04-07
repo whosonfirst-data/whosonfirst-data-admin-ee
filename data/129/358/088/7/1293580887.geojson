@@ -1,0 +1,71 @@
+{
+  "id": 1293580887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.85194,58.79389,23.85194,58.79389",
+    "geom:latitude":58.79389,
+    "geom:longitude":23.85194,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"3665.0",
+    "gn:asciiname":"Raana",
+    "gn:country_code":"EE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589227,
+    "gn:latitude":58.79389,
+    "gn:longitude":23.85194,
+    "gn:modification_date":"2018-05-02",
+    "gn:name":"Raana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rogna",
+        "Raana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589227
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"58495a6943c0706be133fa21715031e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293580887,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1293580887,
+    "wof:lastmodified":1537620339,
+    "wof:name":"Raana",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.85194,
+    58.79389000000001,
+    23.85194,
+    58.79389000000001
+],
+  "geometry": {"coordinates":[23.85194,58.79389000000001],"type":"Point"}
+}

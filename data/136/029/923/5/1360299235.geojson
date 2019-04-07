@@ -1,0 +1,71 @@
+{
+  "id": 1360299235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.31139,59.06528,24.31139,59.06528",
+    "geom:latitude":59.06528,
+    "geom:longitude":24.31139,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"726.0",
+    "gn:admin3_code":"5467.0",
+    "gn:asciiname":"Varese",
+    "gn:country_code":"EE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587754,
+    "gn:latitude":59.06528,
+    "gn:longitude":24.31139,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Varese",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vareze",
+        "Varese"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587754
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"2c1d82c81b6f96ce65f13a9e122986dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1360299235,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1360299235,
+    "wof:lastmodified":1537620287,
+    "wof:name":"Varese",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31139,
+    59.06528,
+    24.31139,
+    59.06528
+],
+  "geometry": {"coordinates":[24.31139,59.06528],"type":"Point"}
+}

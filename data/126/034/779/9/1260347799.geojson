@@ -1,0 +1,71 @@
+{
+  "id": 1260347799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.98972,57.8025,26.98972,57.8025",
+    "geom:latitude":57.8025,
+    "geom:longitude":26.98972,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"4839.0",
+    "gn:asciiname":"Lueueste",
+    "gn:country_code":"EE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620205,
+    "gn:latitude":57.8025,
+    "gn:longitude":26.98972,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"L\u00fc\u00fcste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00fc\u00fcste",
+        "L\u00fc\u00fcsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620205
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"ffbcf55ad0870af659ca329a3e541c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260347799,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1260347799,
+    "wof:lastmodified":1537620524,
+    "wof:name":"Lueueste",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.98972,
+    57.8025,
+    26.98972,
+    57.8025
+],
+  "geometry": {"coordinates":[26.98972,57.8025],"type":"Point"}
+}

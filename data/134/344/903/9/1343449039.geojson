@@ -1,0 +1,74 @@
+{
+  "id": 1343449039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.25944,58.62417,24.25944,58.62417",
+    "geom:latitude":58.62417,
+    "geom:longitude":24.25944,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"430.0",
+    "gn:admin3_code":"1921.0",
+    "gn:asciiname":"Naartse",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590050,
+    "gn:latitude":58.62417,
+    "gn:longitude":24.25944,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Naartse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nartsi",
+        "Naartsi",
+        "Naartse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590050,
+        "wk:page":"Naartse"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c931559252c2db118b657d3b112fc090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343449039,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1343449039,
+    "wof:lastmodified":1537620369,
+    "wof:name":"Naartse",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25944,
+    58.62416999999999,
+    24.25944,
+    58.62416999999999
+],
+  "geometry": {"coordinates":[24.25944,58.62416999999999],"type":"Point"}
+}

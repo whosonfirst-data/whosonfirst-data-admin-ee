@@ -1,0 +1,67 @@
+{
+  "id": 1327122375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.68,58.34972,24.68,58.34972",
+    "geom:latitude":58.34972,
+    "geom:longitude":24.68,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"624.0",
+    "gn:admin3_code":"7536.0",
+    "gn:asciiname":"Poska",
+    "gn:country_code":"EE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589352,
+    "gn:latitude":58.34972,
+    "gn:longitude":24.68,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Poska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589352
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"e38819be2f0f65c985cfe01c1e7b7751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327122375,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1327122375,
+    "wof:lastmodified":1536628875,
+    "wof:name":"Poska",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.68,
+    58.34972,
+    24.68,
+    58.34972
+],
+  "geometry": {"coordinates":[24.68,58.34972],"type":"Point"}
+}

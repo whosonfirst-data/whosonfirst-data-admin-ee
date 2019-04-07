@@ -1,0 +1,73 @@
+{
+  "id": 1209305247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.995,59.46417,25.995,59.46417",
+    "geom:latitude":59.46417,
+    "geom:longitude":25.995,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"272.0",
+    "gn:admin3_code":"9311.0",
+    "gn:asciiname":"Sakussaare",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588829,
+    "gn:latitude":59.46417,
+    "gn:longitude":25.995,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Sakussaare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saku",
+        "Sakumets",
+        "Sakusaare",
+        "Sakusaare Asundus",
+        "Sakusare",
+        "Sakussaare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588829,
+        "wk:page":"Sakussaare"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"47bf8d487b83d30981db32f36fbc0066",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209305247
+        }
+    ],
+    "wof:id":1209305247,
+    "wof:lastmodified":1537620325,
+    "wof:name":"Sakussaare",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.995,
+    59.46417,
+    25.995,
+    59.46417
+],
+  "geometry": {"coordinates":[25.995,59.46417],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209686835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.74083,58.47528,22.74083,58.47528",
+    "geom:latitude":58.47528,
+    "geom:longitude":22.74083,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"714.0",
+    "gn:admin3_code":"4615.0",
+    "gn:asciiname":"Lopi",
+    "gn:country_code":"EE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590510,
+    "gn:latitude":58.47528,
+    "gn:longitude":22.74083,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"L\u00f5pi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lypi",
+        "L\u00f5pi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590510,
+        "wk:page":"L%C3%B5pi"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"23ec0dd1740e6e213bb8beaa325516e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209686835
+        }
+    ],
+    "wof:id":1209686835,
+    "wof:lastmodified":1537620386,
+    "wof:name":"Lopi",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.74083,
+    58.47528000000001,
+    22.74083,
+    58.47528000000001
+],
+  "geometry": {"coordinates":[22.74083,58.47528000000001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209500517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.30472,59.56028,26.30472,59.56028",
+    "geom:latitude":59.56028,
+    "geom:longitude":26.30472,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"191.0",
+    "gn:admin3_code":"1562.0",
+    "gn:asciiname":"Eisma",
+    "gn:country_code":"EE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793480,
+    "gn:latitude":59.56028,
+    "gn:longitude":26.30472,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Eisma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793480,
+        "wk:page":"Eisma"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"9723bd1485f9a57dd237094f6b8490aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209500517
+        }
+    ],
+    "wof:id":1209500517,
+    "wof:lastmodified":1537562537,
+    "wof:name":"Eisma",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.30472,
+    59.56028000000001,
+    26.30472,
+    59.56028000000001
+],
+  "geometry": {"coordinates":[26.30472,59.56028000000001],"type":"Point"}
+}

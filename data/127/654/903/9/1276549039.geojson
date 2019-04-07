@@ -1,0 +1,68 @@
+{
+  "id": 1276549039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41667,59.345,27.41667,59.345",
+    "geom:latitude":59.345,
+    "geom:longitude":27.41667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"321.0",
+    "gn:admin3_code":"120.0",
+    "gn:asciiname":"Pargitaguse",
+    "gn:country_code":"EE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793487,
+    "gn:latitude":59.345,
+    "gn:longitude":27.41667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pargitaguse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793487,
+        "wk:page":"Pargitaguse"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7eae46874d90943dccaea30e13bc4218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276549039,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1276549039,
+    "wof:lastmodified":1537562537,
+    "wof:name":"Pargitaguse",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41667,
+    59.345,
+    27.41667,
+    59.345
+],
+  "geometry": {"coordinates":[27.41667,59.345],"type":"Point"}
+}

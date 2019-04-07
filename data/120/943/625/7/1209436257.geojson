@@ -1,0 +1,67 @@
+{
+  "id": 1209436257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66028,58.71889,23.66028,58.71889",
+    "geom:latitude":58.71889,
+    "geom:longitude":23.66028,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"430.0",
+    "gn:admin3_code":"4847.0",
+    "gn:asciiname":"Liustemaee",
+    "gn:country_code":"EE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590584,
+    "gn:latitude":58.71889,
+    "gn:longitude":23.66028,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Liustem\u00e4e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liusgemyae",
+        "Liustem\u00e4e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590584
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"1a52fbee17114d2889f43c97ed7b135e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209436257
+        }
+    ],
+    "wof:id":1209436257,
+    "wof:lastmodified":1537620388,
+    "wof:name":"Liustemaee",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66028,
+    58.71889,
+    23.66028,
+    58.71889
+],
+  "geometry": {"coordinates":[23.66028,58.71889],"type":"Point"}
+}

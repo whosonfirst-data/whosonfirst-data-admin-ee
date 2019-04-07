@@ -1,0 +1,68 @@
+{
+  "id": 1209300711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.65861,58.94222,24.65861,58.94222",
+    "geom:latitude":58.94222,
+    "geom:longitude":24.65861,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"668.0",
+    "gn:admin3_code":"8677.0",
+    "gn:asciiname":"Laikma",
+    "gn:country_code":"EE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590816,
+    "gn:latitude":58.94222,
+    "gn:longitude":24.65861,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Laikma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laikmaa",
+        "Laylima",
+        "Laikma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590816
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"6f6511097aecd16228d35e431e5034ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209300711
+        }
+    ],
+    "wof:id":1209300711,
+    "wof:lastmodified":1537620395,
+    "wof:name":"Laikma",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.65861,
+    58.94221999999999,
+    24.65861,
+    58.94221999999999
+],
+  "geometry": {"coordinates":[24.65861,58.94221999999999],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 1126018841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.21417,59.35222,26.21417,59.35222",
+    "geom:latitude":59.35222,
+    "geom:longitude":26.21417,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":569,
+    "gn:population":569,
+    "iso:country":"EE",
+    "lbl:latitude":59.35222,
+    "lbl:longitude":26.21417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0540\u0578\u0582\u056c\u0575\u0561"
+    ],
+    "name:cze_x_preferred":[
+        "Hulja"
+    ],
+    "name:eng_x_preferred":[
+        "Hulja"
+    ],
+    "name:est_x_preferred":[
+        "Hulja"
+    ],
+    "name:fre_x_preferred":[
+        "Hulja"
+    ],
+    "name:rum_x_preferred":[
+        "Hulja"
+    ],
+    "name:swe_x_preferred":[
+        "Hulja"
+    ],
+    "name:unk_x_variant":[
+        "Hulja Asundus"
+    ],
+    "name:vol_x_preferred":[
+        "Hulja"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":592093,
+    "qs_pg:gn_pop":569,
+    "qs_pg:name":"Hulja",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"L\u00e4\u00e4ne-Virumaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":405734,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":842284,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592093,
+        "gp:id":842284,
+        "qs_pg:id":405734,
+        "wd:id":"Q3472551"
+    },
+    "wof:country":"EE",
+    "wof:created":1497300707,
+    "wof:geomhash":"51e8ddb587cc527efb39516f96059463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126018841,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1126018841,
+    "wof:lastmodified":1513956376,
+    "wof:name":"Hulja",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:population":569,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.21417,
+    59.35222,
+    26.21417,
+    59.35222
+],
+  "geometry": {"coordinates":[26.21417,59.35222],"type":"Point"}
+}

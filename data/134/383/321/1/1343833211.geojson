@@ -1,0 +1,68 @@
+{
+  "id": 1343833211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.93972,58.08556,25.93972,58.08556",
+    "geom:latitude":58.08556,
+    "geom:longitude":25.93972,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"824.0",
+    "gn:admin3_code":"3611.0",
+    "gn:asciiname":"Kungi",
+    "gn:country_code":"EE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793927,
+    "gn:latitude":58.08556,
+    "gn:longitude":25.93972,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kungi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793927,
+        "wk:page":"Kungi"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"f628a28eb4da4bc90546eeeb3d5fd4f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343833211,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1343833211,
+    "wof:lastmodified":1537562539,
+    "wof:name":"Kungi",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.93972,
+    58.08556,
+    25.93972,
+    58.08556
+],
+  "geometry": {"coordinates":[25.93972,58.08556],"type":"Point"}
+}

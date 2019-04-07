@@ -1,0 +1,67 @@
+{
+  "id": 1276789031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.39694,59.44583,26.39694,59.44583",
+    "geom:latitude":59.44583,
+    "geom:longitude":26.39694,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"661.0",
+    "gn:admin3_code":"2853.0",
+    "gn:asciiname":"Selgamaee",
+    "gn:country_code":"EE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618761,
+    "gn:latitude":59.44583,
+    "gn:longitude":26.39694,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Selgam\u00e4e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618761
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"e51753bb222e4b40f1c17195a657718a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276789031,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1276789031,
+    "wof:lastmodified":1536665387,
+    "wof:name":"Selgamaee",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.39694,
+    59.44583000000001,
+    26.39694,
+    59.44583000000001
+],
+  "geometry": {"coordinates":[26.39694,59.44583000000001],"type":"Point"}
+}

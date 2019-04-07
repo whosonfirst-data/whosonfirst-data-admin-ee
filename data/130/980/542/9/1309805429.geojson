@@ -1,0 +1,79 @@
+{
+  "id": 1309805429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.315,59.36056,27.315,59.36056",
+    "geom:latitude":59.36056,
+    "geom:longitude":27.315,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"251.0",
+    "gn:admin3_code":"7677.0",
+    "gn:asciiname":"Sompa",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588628,
+    "gn:latitude":59.36056,
+    "gn:longitude":27.315,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Sompa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sompa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043c\u043f\u0430"
+    ],
+    "name:und_x_variant":[
+        "Somp\u00e4h",
+        "Sompa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588628,
+        "wk:page":"Sompa_village"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"fa97f0fec3bb9a570c6928b798379bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1309805429,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1309805429,
+    "wof:lastmodified":1537620318,
+    "wof:name":"Sompa",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.315,
+    59.36056,
+    27.315,
+    59.36056
+],
+  "geometry": {"coordinates":[27.315,59.36056],"type":"Point"}
+}

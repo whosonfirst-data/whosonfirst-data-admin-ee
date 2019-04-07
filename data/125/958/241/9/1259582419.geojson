@@ -1,0 +1,70 @@
+{
+  "id": 1259582419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.475,58.64222,26.475,58.64222",
+    "geom:latitude":58.64222,
+    "geom:longitude":26.475,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"247.0",
+    "gn:admin3_code":"9431.0",
+    "gn:asciiname":"Soosaare",
+    "gn:country_code":"EE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618213,
+    "gn:latitude":58.64222,
+    "gn:longitude":26.475,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Soosaare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0421\u043e\u043e\u0441\u0430\u0430\u0440\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618213
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"b18977ec62f5c01871af798d68dd794c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259582419,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1259582419,
+    "wof:lastmodified":1537620483,
+    "wof:name":"Soosaare",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.475,
+    58.64222,
+    26.475,
+    58.64222
+],
+  "geometry": {"coordinates":[26.475,58.64222],"type":"Point"}
+}

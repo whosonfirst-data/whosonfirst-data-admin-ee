@@ -1,0 +1,71 @@
+{
+  "id": 1343525817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.95778,57.91194,26.95778,57.91194",
+    "geom:latitude":57.91194,
+    "geom:longitude":26.95778,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"6761.0",
+    "gn:asciiname":"Voitra",
+    "gn:country_code":"EE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619764,
+    "gn:latitude":57.91194,
+    "gn:longitude":26.95778,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"V\u00f5itra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00f5itra",
+        "V\u00e4imela-Suurk\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619764
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"da065f1ce145f739ff35f78ec38e3c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343525817,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1343525817,
+    "wof:lastmodified":1537620514,
+    "wof:name":"Voitra",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.95778,
+    57.91194,
+    26.95778,
+    57.91194
+],
+  "geometry": {"coordinates":[26.95778,57.91194],"type":"Point"}
+}

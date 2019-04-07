@@ -1,0 +1,122 @@
+{
+  "id": 1125941411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.89722,58.01194,25.89722,58.01194",
+    "geom:latitude":58.01194,
+    "geom:longitude":25.89722,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":407,
+    "gn:population":407,
+    "iso:country":"EE",
+    "lbl:latitude":58.01194,
+    "lbl:longitude":25.89722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0540\u0565\u056c\u0574\u0565"
+    ],
+    "name:dut_x_preferred":[
+        "Helme"
+    ],
+    "name:eng_x_preferred":[
+        "Helme"
+    ],
+    "name:epo_x_preferred":[
+        "Helme"
+    ],
+    "name:est_x_preferred":[
+        "Helme"
+    ],
+    "name:fre_x_preferred":[
+        "Helme"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03ad\u03bb\u03bc\u03b5"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u043b\u044c\u043c\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Helme"
+    ],
+    "name:unk_x_variant":[
+        "Myza Khel\u2019me"
+    ],
+    "name:vol_x_preferred":[
+        "Helme"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":592146,
+    "qs_pg:gn_pop":407,
+    "qs_pg:name":"Helme",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Valgamaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":67,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1140455,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":842236,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Valgamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592146,
+        "gp:id":842236,
+        "qs_pg:id":1140455,
+        "wd:id":"Q3054079"
+    },
+    "wof:country":"EE",
+    "wof:created":1497297130,
+    "wof:geomhash":"662ea705c1f163e8463695d8aef93d65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125941411,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1125941411,
+    "wof:lastmodified":1513956369,
+    "wof:name":"Helme",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:population":407,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.89722,
+    58.01194,
+    25.89722,
+    58.01194
+],
+  "geometry": {"coordinates":[25.89722,58.01194],"type":"Point"}
+}

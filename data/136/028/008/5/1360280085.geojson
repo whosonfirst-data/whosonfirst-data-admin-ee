@@ -1,0 +1,74 @@
+{
+  "id": 1360280085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.59472,58.82667,23.59472,58.82667",
+    "geom:latitude":58.82667,
+    "geom:longitude":23.59472,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"184.0",
+    "gn:admin3_code":"6403.0",
+    "gn:asciiname":"Sinalepa",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588674,
+    "gn:latitude":58.82667,
+    "gn:longitude":23.59472,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Sinalepa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Sinalepa",
+        "Sinalepa Asundus",
+        "Sinalepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588674,
+        "wk:page":"Sinalepa"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"241ca21586400dd182cbcf56cf1b4053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1360280085,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1360280085,
+    "wof:lastmodified":1537620319,
+    "wof:name":"Sinalepa",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.59472,
+    58.82666999999999,
+    23.59472,
+    58.82666999999999
+],
+  "geometry": {"coordinates":[23.59472,58.82666999999999],"type":"Point"}
+}

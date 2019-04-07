@@ -1,0 +1,73 @@
+{
+  "id": 1226521261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.44806,58.35139,22.44806,58.35139",
+    "geom:latitude":58.35139,
+    "geom:longitude":22.44806,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"714.0",
+    "gn:admin3_code":"4110.0",
+    "gn:asciiname":"Vintri",
+    "gn:country_code":"EE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587568,
+    "gn:latitude":58.35139,
+    "gn:longitude":22.44806,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Vintri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vantri",
+        "Wantri",
+        "Vintri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587568,
+        "wk:page":"Vantri"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"52bc4700ef3f841b69d4dc448a6e029d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226521261,
+            "region_id":85682947
+        }
+    ],
+    "wof:id":1226521261,
+    "wof:lastmodified":1537620282,
+    "wof:name":"Vintri",
+    "wof:parent_id":85682947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.44806,
+    58.35139,
+    22.44806,
+    58.35139
+],
+  "geometry": {"coordinates":[22.44806,58.35139],"type":"Point"}
+}

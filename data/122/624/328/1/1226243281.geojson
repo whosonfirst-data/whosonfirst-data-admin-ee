@@ -1,0 +1,71 @@
+{
+  "id": 1226243281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.52111,58.85083,25.52111,58.85083",
+    "geom:latitude":58.85083,
+    "geom:longitude":25.52111,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"834.0",
+    "gn:admin3_code":"6300.0",
+    "gn:asciiname":"Monnaku",
+    "gn:country_code":"EE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618419,
+    "gn:latitude":58.85083,
+    "gn:longitude":25.52111,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00f5nnaku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00f5nnaku",
+        "M\u00e4nnaku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618419
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"3c611427f7f0afe4089b3d79d21781ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226243281,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1226243281,
+    "wof:lastmodified":1537620488,
+    "wof:name":"Monnaku",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.52111,
+    58.85083,
+    25.52111,
+    58.85083
+],
+  "geometry": {"coordinates":[25.52111,58.85083],"type":"Point"}
+}

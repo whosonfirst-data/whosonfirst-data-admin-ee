@@ -1,0 +1,71 @@
+{
+  "id": 1276764293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.94139,59.42167,26.94139,59.42167",
+    "geom:latitude":59.42167,
+    "geom:longitude":26.94139,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"3803.0",
+    "gn:asciiname":"Kestla-Oidu",
+    "gn:country_code":"EE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591434,
+    "gn:latitude":59.42167,
+    "gn:longitude":26.94139,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kestla-Oidu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kestla-Oydu",
+        "Kestla-Oidu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591434
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"e331dbb6207f91c06cb72e587a51bea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276764293,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1276764293,
+    "wof:lastmodified":1537620418,
+    "wof:name":"Kestla-Oidu",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.94139,
+    59.42167,
+    26.94139,
+    59.42167
+],
+  "geometry": {"coordinates":[26.94139,59.42167],"type":"Point"}
+}

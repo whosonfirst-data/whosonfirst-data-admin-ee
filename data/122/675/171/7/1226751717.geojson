@@ -1,0 +1,71 @@
+{
+  "id": 1226751717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.09643,59.29113,25.09643,59.29113",
+    "geom:latitude":59.29113,
+    "geom:longitude":25.09643,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"653.0",
+    "gn:admin3_code":"7868.0",
+    "gn:asciiname":"Pikavere-Suursoo",
+    "gn:country_code":"EE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589457,
+    "gn:latitude":59.29113,
+    "gn:longitude":25.09643,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pikavere-Suursoo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pikavere-Surso",
+        "Pikavere-Suursoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589457
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a26e87696870f26cc9da72e77a12762b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226751717,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1226751717,
+    "wof:lastmodified":1537620347,
+    "wof:name":"Pikavere-Suursoo",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.09643,
+    59.29113,
+    25.09643,
+    59.29113
+],
+  "geometry": {"coordinates":[25.09643,59.29113],"type":"Point"}
+}

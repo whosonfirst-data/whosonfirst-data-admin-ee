@@ -1,0 +1,74 @@
+{
+  "id": 1309910857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.39472,58.70389,26.39472,58.70389",
+    "geom:latitude":58.70389,
+    "geom:longitude":26.39472,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"247.0",
+    "gn:admin3_code":"5902.0",
+    "gn:asciiname":"Pakaste",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589684,
+    "gn:latitude":58.70389,
+    "gn:longitude":26.39472,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pakaste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Pakaste",
+        "Pakaste Asundus",
+        "Pakaste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589684,
+        "wk:page":"Pakaste"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c7c9b6afd6869bf7f59fb6a7401f14d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1309910857,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1309910857,
+    "wof:lastmodified":1537620355,
+    "wof:name":"Pakaste",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.39472,
+    58.70389,
+    26.39472,
+    58.70389
+],
+  "geometry": {"coordinates":[26.39472,58.70389],"type":"Point"}
+}

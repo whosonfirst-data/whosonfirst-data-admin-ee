@@ -1,0 +1,71 @@
+{
+  "id": 1260269197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.98194,59.1125,24.98194,59.1125",
+    "geom:latitude":59.1125,
+    "geom:longitude":24.98194,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"668.0",
+    "gn:admin3_code":"4733.0",
+    "gn:asciiname":"Mahtra-Saunakuela",
+    "gn:country_code":"EE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618356,
+    "gn:latitude":59.1125,
+    "gn:longitude":24.98194,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Mahtra-Saunak\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahtra-Saunak\u00fcla",
+        "V\u00e4ikem\u00f5isa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618356
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"4b6ba77f16de9ea2a8ecd76ae827958c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260269197,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1260269197,
+    "wof:lastmodified":1537620486,
+    "wof:name":"Mahtra-Saunakuela",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.98194,
+    59.1125,
+    24.98194,
+    59.1125
+],
+  "geometry": {"coordinates":[24.98194,59.1125],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243516993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.41472,57.98972,26.41472,57.98972",
+    "geom:latitude":57.98972,
+    "geom:longitude":26.41472,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"557.0",
+    "gn:admin3_code":"5279.0",
+    "gn:asciiname":"Maerdi",
+    "gn:country_code":"EE",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590329,
+    "gn:latitude":57.98972,
+    "gn:longitude":26.41472,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00e4rdi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myardi",
+        "M\u00e4rdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590329
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"335df9e4e350a65e1778318667892bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243516993,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1243516993,
+    "wof:lastmodified":1537620378,
+    "wof:name":"Maerdi",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.41472000000001,
+    57.98972,
+    26.41472000000001,
+    57.98972
+],
+  "geometry": {"coordinates":[26.41472000000001,57.98972],"type":"Point"}
+}

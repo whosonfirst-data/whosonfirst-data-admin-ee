@@ -1,0 +1,117 @@
+{
+  "id": 1125957489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.79806,59.12472,23.79806,59.12472",
+    "geom:latitude":59.12472,
+    "geom:longitude":23.79806,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":94,
+    "gn:population":94,
+    "iso:country":"EE",
+    "lbl:latitude":59.12472,
+    "lbl:longitude":23.79806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054e\u0561\u057c\u056b\u056f\u0578\u0582"
+    ],
+    "name:dut_x_preferred":[
+        "Variku"
+    ],
+    "name:eng_x_preferred":[
+        "Variku"
+    ],
+    "name:est_x_preferred":[
+        "Variku"
+    ],
+    "name:fre_x_preferred":[
+        "Variku"
+    ],
+    "name:ger_x_preferred":[
+        "Variku"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0631\u06cc\u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Variku"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0440\u0456\u043a\u0443"
+    ],
+    "name:vol_x_preferred":[
+        "Variku"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":587749,
+    "qs_pg:gn_pop":94,
+    "qs_pg:name":"Variku",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"L\u00e4\u00e4nemaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":406490,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":846328,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"L\u00e4\u00e4nemaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587749,
+        "gp:id":846328,
+        "qs_pg:id":406490,
+        "wd:id":"Q2182187"
+    },
+    "wof:country":"EE",
+    "wof:created":1497297670,
+    "wof:geomhash":"d6bdea2b8eb7be497f7c6bfe5088750f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125957489,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1125957489,
+    "wof:lastmodified":1513956564,
+    "wof:name":"Variku",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.79806,
+    59.12472,
+    23.79806,
+    59.12472
+],
+  "geometry": {"coordinates":[23.79806,59.12472],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226152579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.90472,59.2725,23.90472,59.2725",
+    "geom:latitude":59.2725,
+    "geom:longitude":23.90472,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"431.0",
+    "gn:admin3_code":"6062.0",
+    "gn:asciiname":"Pedase",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589547,
+    "gn:latitude":59.2725,
+    "gn:longitude":23.90472,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pedase",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "P\u00e4ts"
+    ],
+    "name:und_x_variant":[
+        "Pedaso",
+        "Pedase"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589547,
+        "wk:page":"Pedase"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a7407582b6aaf822757037061f72126e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226152579,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1226152579,
+    "wof:lastmodified":1537620351,
+    "wof:name":"Pedase",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.90472,
+    59.2725,
+    23.90472,
+    59.2725
+],
+  "geometry": {"coordinates":[23.90472,59.2725],"type":"Point"}
+}

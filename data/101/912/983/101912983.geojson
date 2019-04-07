@@ -1,0 +1,117 @@
+{
+  "id": 101912983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:bbox":"25.0040252689,59.6225380579,25.020723425,59.6333944015",
+    "geom:latitude":59.62694,
+    "geom:longitude":25.013305,
+    "iso:country":"EE",
+    "lbl:latitude":59.626202,
+    "lbl:longitude":25.013305,
+    "mps:latitude":59.626202,
+    "mps:longitude":25.013305,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Prangli Saar"
+    ],
+    "name:ces_x_preferred":[
+        "Prangli"
+    ],
+    "name:deu_x_preferred":[
+        "Prangli"
+    ],
+    "name:est_x_preferred":[
+        "Prangli"
+    ],
+    "name:fin_x_preferred":[
+        "Prangli"
+    ],
+    "name:fra_x_preferred":[
+        "Prangli"
+    ],
+    "name:hrv_x_preferred":[
+        "Prangli"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0580\u0561\u0576\u0563\u056c\u056b\u0576"
+    ],
+    "name:lav_x_preferred":[
+        "Prangli"
+    ],
+    "name:lit_x_preferred":[
+        "Pranglis"
+    ],
+    "name:nld_x_preferred":[
+        "Prangli"
+    ],
+    "name:nor_x_preferred":[
+        "Prangli"
+    ],
+    "name:pol_x_preferred":[
+        "Prangli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0430\u043d\u0433\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vrang\u00f6"
+    ],
+    "qs:a0":"Estonia",
+    "qs:a1":"*Harjumaa",
+    "qs:a1r":"3",
+    "qs:adm0":"Estonia",
+    "qs:id":0,
+    "qs:la":"Viimsi",
+    "qs:la_lc":"*EE370890",
+    "qs:level":"locality",
+    "qs:loc":"Prangli",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":273,
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":844863,
+        "qs:id":1086711,
+        "wd:id":"Q1418409"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"dd1fc38faaa696e4da82a10c11a0cc7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":101912983,
+            "region_id":85683045
+        }
+    ],
+    "wof:id":101912983,
+    "wof:lastmodified":1527653267,
+    "wof:name":"Prangli",
+    "wof:parent_id":85683045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.00402526886569,
+    59.62253805786611,
+    25.02072342495745,
+    59.63339440146427
+],
+  "geometry": {"coordinates":[[[25.01433281841628,59.63080816701796],[25.01363194970673,59.62923825716979],[25.01536329274631,59.62904921787674],[25.01497215928703,59.62817306481111],[25.01670344274709,59.62798400958593],[25.0159211623299,59.62623171120396],[25.01938350884484,59.62585355843214],[25.01899232021384,59.62497741858704],[25.02072342495745,59.62478831557161],[25.01994103422129,59.62303604363007],[25.01647897353587,59.62341420637597],[25.01608789644229,59.62253805786611],[25.0130668268709,59.62286794742249],[25.00881838828826,59.6242506413447],[25.00955463754292,59.62417027507092],[25.0115095386962,59.6285511110525],[25.00977820156868,59.62874010206809],[25.01056024163125,59.63049243995692],[25.00882880322899,59.63068142050668],[25.00921981649293,59.63155759332614],[25.00402526886569,59.63212442294724],[25.00459188713285,59.63339440146427],[25.01433281841628,59.63080816701796]]],"type":"Polygon"}
+}

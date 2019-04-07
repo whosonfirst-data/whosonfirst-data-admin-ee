@@ -1,0 +1,67 @@
+{
+  "id": 1259370991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88028,58.13444,24.88028,58.13444",
+    "geom:latitude":58.13444,
+    "geom:longitude":24.88028,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"712.0",
+    "gn:admin3_code":"4440.0",
+    "gn:asciiname":"Kallaste",
+    "gn:country_code":"EE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620615,
+    "gn:latitude":58.13444,
+    "gn:longitude":24.88028,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kallaste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620615
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"24140e424fa82b0672a3115e09291537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259370991,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1259370991,
+    "wof:lastmodified":1537019416,
+    "wof:name":"Kallaste",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88028,
+    58.13444000000001,
+    24.88028,
+    58.13444000000001
+],
+  "geometry": {"coordinates":[24.88028,58.13444000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327428571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.00972,58.84278,24.00972,58.84278",
+    "geom:latitude":58.84278,
+    "geom:longitude":24.00972,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"2266.0",
+    "gn:asciiname":"Madaste",
+    "gn:country_code":"EE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590428,
+    "gn:latitude":58.84278,
+    "gn:longitude":24.00972,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Madaste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590428
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"6ed3599ad5cdb4df953d2f37746b25b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327428571,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1327428571,
+    "wof:lastmodified":1536686367,
+    "wof:name":"Madaste",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.00972,
+    58.84278000000001,
+    24.00972,
+    58.84278000000001
+],
+  "geometry": {"coordinates":[24.00972,58.84278000000001],"type":"Point"}
+}

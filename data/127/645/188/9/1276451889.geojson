@@ -1,0 +1,70 @@
+{
+  "id": 1276451889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.71722,58.93556,22.71722,58.93556",
+    "geom:latitude":58.93556,
+    "geom:longitude":22.71722,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"8382.0",
+    "gn:asciiname":"Myavli",
+    "gn:country_code":"EE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590436,
+    "gn:latitude":58.93556,
+    "gn:longitude":22.71722,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Myavli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e4\u00e4vli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590436
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"891171ab472b4c7bae0229443f24d406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276451889,
+            "region_id":85682989
+        }
+    ],
+    "wof:id":1276451889,
+    "wof:lastmodified":1537620383,
+    "wof:name":"Myavli",
+    "wof:parent_id":85682989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.71722,
+    58.93556,
+    22.71722,
+    58.93556
+],
+  "geometry": {"coordinates":[22.71722,58.93556],"type":"Point"}
+}

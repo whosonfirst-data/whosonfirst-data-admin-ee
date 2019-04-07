@@ -1,0 +1,93 @@
+{
+  "id": 102551791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.8305555556,58.9905555556,22.8305555556,58.9905555556",
+    "geom:latitude":58.990556,
+    "geom:longitude":22.830556,
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kardla"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen K\u00e4rdla"
+    ],
+    "name:est_x_preferred":[
+        "K\u00e4rdla lennujaam"
+    ],
+    "name:eus_x_preferred":[
+        "K\u00e4rdlako aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0631\u062f\u0644\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "K\u00e4rdlan lentoasema"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0575\u0561\u0580\u0564\u056c\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporti in Estonia"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de K\u00e4rdla"
+    ],
+    "oa:elevation_ft":"18",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":226,
+    "woe:hierarchy":{
+        "country_id":23424805,
+        "county_id":29389855,
+        "planet_id":1,
+        "state_id":2345277
+    },
+    "wof:belongsto":[
+        85633135,
+        85682989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512735,
+        "iata:code":"KDL",
+        "icao:code":"EEKA",
+        "oa:id":"2298",
+        "wd:id":"Q1431834"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"95d19352709f33f21862064fd37c4ae5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551791,
+            "country_id":85633135,
+            "region_id":85682989
+        }
+    ],
+    "wof:id":102551791,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Kardla East Airport",
+    "wof:parent_id":85682989,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    22.830555555556,
+    58.990555555556,
+    22.830555555556,
+    58.990555555556
+],
+  "geometry": {"coordinates":[22.830555555556,58.990555555556],"type":"Point"}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 1125888733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.78083,58.44722,24.78083,58.44722",
+    "geom:latitude":58.44722,
+    "geom:longitude":24.78083,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":247,
+    "gn:population":247,
+    "iso:country":"EE",
+    "lbl:latitude":58.44722,
+    "lbl:longitude":24.78083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054f\u0561\u0561\u056c\u056b"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u043b\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Taali"
+    ],
+    "name:eng_x_preferred":[
+        "Taali"
+    ],
+    "name:est_x_preferred":[
+        "Taali"
+    ],
+    "name:pol_x_preferred":[
+        "Taali"
+    ],
+    "name:swe_x_preferred":[
+        "Taali"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0430\u043b\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Myza Tali"
+    ],
+    "name:vol_x_preferred":[
+        "Taali"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":588459,
+    "qs_pg:gn_pop":247,
+    "qs_pg:name":"Taali",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"P\u00e4rnumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":912458,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":845697,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"P\u00e4rnumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588459,
+        "gp:id":845697,
+        "qs_pg:id":912458,
+        "wd:id":"Q3453770"
+    },
+    "wof:country":"EE",
+    "wof:created":1497295218,
+    "wof:geomhash":"26fd6ef175d4971745168f76652dffeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125888733,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1125888733,
+    "wof:lastmodified":1513956517,
+    "wof:name":"Taali",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:population":247,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78083,
+    58.44722,
+    24.78083,
+    58.44722
+],
+  "geometry": {"coordinates":[24.78083,58.44722],"type":"Point"}
+}

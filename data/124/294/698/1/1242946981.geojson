@@ -1,0 +1,71 @@
+{
+  "id": 1242946981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.68611,57.64472,26.68611,57.64472",
+    "geom:latitude":57.64472,
+    "geom:longitude":26.68611,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"698.0",
+    "gn:admin3_code":"6858.0",
+    "gn:asciiname":"Hallimaee",
+    "gn:country_code":"EE",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619605,
+    "gn:latitude":57.64472,
+    "gn:longitude":26.68611,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Hallim\u00e4e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hallim\u00e4e",
+        "M\u00e4ek\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619605
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"378bdb522a4bf378b3e07831aad743e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242946981,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1242946981,
+    "wof:lastmodified":1537620511,
+    "wof:name":"Hallimaee",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.68611,
+    57.64471999999999,
+    26.68611,
+    57.64471999999999
+],
+  "geometry": {"coordinates":[26.68611,57.64471999999999],"type":"Point"}
+}

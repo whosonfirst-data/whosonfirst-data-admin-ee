@@ -1,0 +1,76 @@
+{
+  "id": 1276526055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.11611,58.60778,24.11611,58.60778",
+    "geom:latitude":58.60778,
+    "geom:longitude":24.11611,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"430.0",
+    "gn:admin3_code":"6200.0",
+    "gn:asciiname":"Mihkli",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590210,
+    "gn:latitude":58.60778,
+    "gn:longitude":24.11611,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Mihkli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ganso-Mikhel\u2019",
+        "Sankt-Mihaelis",
+        "Mikhayelis",
+        "Mikhkli",
+        "Mihkli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590210,
+        "wk:page":"Mihkli"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"0716cb1faaa27e6f31400c1d33dc9b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276526055,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1276526055,
+    "wof:lastmodified":1537620374,
+    "wof:name":"Mihkli",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.11611,
+    58.60778000000001,
+    24.11611,
+    58.60778000000001
+],
+  "geometry": {"coordinates":[24.11611,58.60778000000001],"type":"Point"}
+}

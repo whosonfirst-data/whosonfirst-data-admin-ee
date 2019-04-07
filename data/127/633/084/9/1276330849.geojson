@@ -1,0 +1,72 @@
+{
+  "id": 1276330849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.62167,58.92167,23.62167,58.92167",
+    "geom:latitude":58.92167,
+    "geom:longitude":23.62167,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"184.0",
+    "gn:admin3_code":"7029.0",
+    "gn:asciiname":"Rohense",
+    "gn:country_code":"EE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588992,
+    "gn:latitude":58.92167,
+    "gn:longitude":23.62167,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Rohense",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rokhense",
+        "Rohense"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588992,
+        "wk:page":"Rohense"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"9d6ed6bff6449f46ead6bb74ff2b3e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276330849,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1276330849,
+    "wof:lastmodified":1537620331,
+    "wof:name":"Rohense",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.62167,
+    58.92167,
+    23.62167,
+    58.92167
+],
+  "geometry": {"coordinates":[23.62167,58.92167],"type":"Point"}
+}

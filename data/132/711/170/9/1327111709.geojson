@@ -1,0 +1,70 @@
+{
+  "id": 1327111709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8025,58.17917,26.8025,58.17917",
+    "geom:latitude":58.17917,
+    "geom:longitude":26.8025,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"284.0",
+    "gn:admin3_code":"6354.0",
+    "gn:asciiname":"Aksi",
+    "gn:country_code":"EE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620619,
+    "gn:latitude":58.17917,
+    "gn:longitude":26.8025,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Aksi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c4ksi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620619
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"f3392ddee58dc6f9cfaeec03b14940d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327111709,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1327111709,
+    "wof:lastmodified":1537620533,
+    "wof:name":"Aksi",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8025,
+    58.17916999999999,
+    26.8025,
+    58.17916999999999
+],
+  "geometry": {"coordinates":[26.8025,58.17916999999999],"type":"Point"}
+}

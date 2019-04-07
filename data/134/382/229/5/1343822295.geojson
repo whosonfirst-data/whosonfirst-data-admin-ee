@@ -1,0 +1,72 @@
+{
+  "id": 1343822295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.15694,57.81333,27.15694,57.81333",
+    "geom:latitude":57.81333,
+    "geom:longitude":27.15694,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"5440.0",
+    "gn:asciiname":"Noodaskuela",
+    "gn:country_code":"EE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589932,
+    "gn:latitude":57.81333,
+    "gn:longitude":27.15694,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Noodask\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nodaze",
+        "Noodase",
+        "Noodask\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589932
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"10809e28fa8651a54af7dfd669c38f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343822295,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1343822295,
+    "wof:lastmodified":1537620364,
+    "wof:name":"Noodaskuela",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.15694,
+    57.81333000000001,
+    27.15694,
+    57.81333000000001
+],
+  "geometry": {"coordinates":[27.15694,57.81333000000001],"type":"Point"}
+}

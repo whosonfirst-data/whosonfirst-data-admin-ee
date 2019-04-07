@@ -1,0 +1,74 @@
+{
+  "id": 1209820183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.34861,58.83111,26.34861,58.83111",
+    "geom:latitude":58.83111,
+    "geom:longitude":26.34861,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"247.0",
+    "gn:admin3_code":"6073.0",
+    "gn:asciiname":"Pedja",
+    "gn:country_code":"EE",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793386,
+    "gn:latitude":58.83111,
+    "gn:longitude":26.34861,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pedja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pedja"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0434\u044c\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793386,
+        "wk:page":"Pedja"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"16dbcd8be904dbde83946830fdd55125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1209820183,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1209820183,
+    "wof:lastmodified":1537620466,
+    "wof:name":"Pedja",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.34861,
+    58.83111,
+    26.34861,
+    58.83111
+],
+  "geometry": {"coordinates":[26.34861,58.83111],"type":"Point"}
+}

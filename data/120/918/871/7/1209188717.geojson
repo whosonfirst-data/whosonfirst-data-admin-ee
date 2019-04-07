@@ -1,0 +1,70 @@
+{
+  "id": 1209188717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.83917,58.39806,25.83917,58.39806",
+    "geom:latitude":58.39806,
+    "geom:longitude":25.83917,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"899.0",
+    "gn:admin3_code":"7812.0",
+    "gn:asciiname":"Vana Taenassilma",
+    "gn:country_code":"EE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587785,
+    "gn:latitude":58.39806,
+    "gn:longitude":25.83917,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Vana T\u00e4nassilma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Vana Tyanassil\u2019ma",
+        "T\u00e4nasilma Vana",
+        "Tyanassilma",
+        "Vana T\u00e4nasilma",
+        "Vana T\u00e4nassilma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587785
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"8d5125274b9e97df10070ff70791ce59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209188717
+        }
+    ],
+    "wof:id":1209188717,
+    "wof:lastmodified":1537620288,
+    "wof:name":"Vana Taenassilma",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83917000000001,
+    58.39806,
+    25.83917000000001,
+    58.39806
+],
+  "geometry": {"coordinates":[25.83917000000001,58.39806],"type":"Point"}
+}

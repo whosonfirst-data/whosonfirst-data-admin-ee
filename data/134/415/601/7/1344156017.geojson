@@ -1,0 +1,68 @@
+{
+  "id": 1344156017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.60278,58.71528,26.60278,58.71528",
+    "geom:latitude":58.71528,
+    "geom:longitude":26.60278,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"247.0",
+    "gn:admin3_code":"8318.0",
+    "gn:asciiname":"Toovere",
+    "gn:country_code":"EE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793338,
+    "gn:latitude":58.71528,
+    "gn:longitude":26.60278,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Toovere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793338,
+        "wk:page":"Toovere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"71fe621ef3e6b05b1e20e674ad86f528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1344156017,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1344156017,
+    "wof:lastmodified":1537562534,
+    "wof:name":"Toovere",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.60278,
+    58.71528000000001,
+    26.60278,
+    58.71528000000001
+],
+  "geometry": {"coordinates":[26.60278,58.71528000000001],"type":"Point"}
+}

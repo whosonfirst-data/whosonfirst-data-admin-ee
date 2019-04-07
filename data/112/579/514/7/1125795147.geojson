@@ -1,0 +1,111 @@
+{
+  "id": 1125795147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.07778,59.48667,25.07778,59.48667",
+    "geom:latitude":59.48667,
+    "geom:longitude":25.07778,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"EE",
+    "lbl:latitude":59.48667,
+    "lbl:longitude":25.07778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0545\u0578\u0582\u056c\u0563\u0561\u057d\u0565"
+    ],
+    "name:dut_x_preferred":[
+        "\u00dclgase"
+    ],
+    "name:eng_x_preferred":[
+        "\u00dclgase"
+    ],
+    "name:est_x_preferred":[
+        "\u00dclgase"
+    ],
+    "name:fre_x_preferred":[
+        "\u00dclgase"
+    ],
+    "name:pol_x_preferred":[
+        "\u00dclgase"
+    ],
+    "name:unk_x_variant":[
+        "Yulgase"
+    ],
+    "name:vol_x_preferred":[
+        "\u00dclgase"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":588090,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u00dclgase",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Harjumaa",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":988641,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":846046,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Harjumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588090,
+        "gp:id":846046,
+        "qs_pg:id":988641,
+        "wd:id":"Q2196449"
+    },
+    "wof:country":"EE",
+    "wof:created":1497291020,
+    "wof:geomhash":"ce9f6861ef2baf9a4d6fc9d408670192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125795147,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1125795147,
+    "wof:lastmodified":1513956587,
+    "wof:name":"\u00dclgase",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07778,
+    59.48667,
+    25.07778,
+    59.48667
+],
+  "geometry": {"coordinates":[25.07778,59.48667],"type":"Point"}
+}

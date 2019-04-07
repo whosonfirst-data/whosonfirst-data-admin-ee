@@ -1,0 +1,72 @@
+{
+  "id": 1344049025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.93528,58.78639,23.93528,58.78639",
+    "geom:latitude":58.78639,
+    "geom:longitude":23.93528,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"2446.0",
+    "gn:asciiname":"Kabeli",
+    "gn:country_code":"EE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591822,
+    "gn:latitude":58.78639,
+    "gn:longitude":23.93528,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kabeli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vana Ryude",
+        "Kabeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591822,
+        "wk:page":"Kabeli%2C_L%C3%A4%C3%A4ne_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"b31a29e081fa0da10ee1b92de0247db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1344049025,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1344049025,
+    "wof:lastmodified":1537620432,
+    "wof:name":"Kabeli",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.93528,
+    58.78639,
+    23.93528,
+    58.78639
+],
+  "geometry": {"coordinates":[23.93528,58.78639],"type":"Point"}
+}

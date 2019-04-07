@@ -1,0 +1,80 @@
+{
+  "id": 1226607595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.74472,57.94472,25.74472,57.94472",
+    "geom:latitude":57.94472,
+    "geom:longitude":25.74472,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"824.0",
+    "gn:admin3_code":"1883.0",
+    "gn:asciiname":"Holdre",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592104,
+    "gn:latitude":57.94472,
+    "gn:longitude":25.74472,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Holdre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Holdre"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u043b\u0434\u0440\u0435"
+    ],
+    "name:und_x_variant":[
+        "Myza Kholdre",
+        "Kholdre",
+        "Holdre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592104,
+        "wk:page":"Holdre"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"512314f2b4aa85322187a4a2ce2e516a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226607595,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1226607595,
+    "wof:lastmodified":1537620445,
+    "wof:name":"Holdre",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.74472,
+    57.94472,
+    25.74472,
+    57.94472
+],
+  "geometry": {"coordinates":[25.74472,57.94472],"type":"Point"}
+}

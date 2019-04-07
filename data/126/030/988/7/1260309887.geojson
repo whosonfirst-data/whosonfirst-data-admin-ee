@@ -1,0 +1,71 @@
+{
+  "id": 1260309887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.93583,58.81944,25.93583,58.81944",
+    "geom:latitude":58.81944,
+    "geom:longitude":25.93583,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"255.0",
+    "gn:admin3_code":"6580.0",
+    "gn:asciiname":"Laehevere",
+    "gn:country_code":"EE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793319,
+    "gn:latitude":58.81944,
+    "gn:longitude":25.93583,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"L\u00e4hevere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e4hevere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793319,
+        "wk:page":"L%C3%A4hevere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5a537ded22d64102ba8dd8f17939abdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260309887,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1260309887,
+    "wof:lastmodified":1537620465,
+    "wof:name":"Laehevere",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.93583,
+    58.81944,
+    25.93583,
+    58.81944
+],
+  "geometry": {"coordinates":[25.93583,58.81944],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343681799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3275,59.09222,26.3275,59.09222",
+    "geom:latitude":59.09222,
+    "geom:longitude":26.3275,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"928.0",
+    "gn:admin3_code":"6382.0",
+    "gn:asciiname":"Liinekuela",
+    "gn:country_code":"EE",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618865,
+    "gn:latitude":59.09222,
+    "gn:longitude":26.3275,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Liinek\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liinek\u00fcla",
+        "Liiva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618865
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"493ffb789b89808cc301dd093e723816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343681799,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1343681799,
+    "wof:lastmodified":1537620496,
+    "wof:name":"Liinekuela",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3275,
+    59.09222,
+    26.3275,
+    59.09222
+],
+  "geometry": {"coordinates":[26.3275,59.09222],"type":"Point"}
+}

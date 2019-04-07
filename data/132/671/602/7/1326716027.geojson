@@ -1,0 +1,73 @@
+{
+  "id": 1326716027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.95694,59.54806,25.95694,59.54806",
+    "geom:latitude":59.54806,
+    "geom:longitude":25.95694,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"191.0",
+    "gn:admin3_code":"3345.0",
+    "gn:asciiname":"Koljaku",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793257,
+    "gn:latitude":59.54806,
+    "gn:longitude":25.95694,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Koljaku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00f5sa-Metsanurga",
+        "Koljaku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793257,
+        "wk:page":"Koljaku"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"6e01f4972cddb3cb78ab15cba0c2013f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1326716027,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1326716027,
+    "wof:lastmodified":1537620464,
+    "wof:name":"Koljaku",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.95694,
+    59.54806,
+    25.95694,
+    59.54806
+],
+  "geometry": {"coordinates":[25.95694,59.54806],"type":"Point"}
+}

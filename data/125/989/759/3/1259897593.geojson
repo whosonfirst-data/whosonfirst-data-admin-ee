@@ -1,0 +1,68 @@
+{
+  "id": 1259897593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.94858,59.33878,24.94858,59.33878",
+    "geom:latitude":59.33878,
+    "geom:longitude":24.94858,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"653.0",
+    "gn:admin3_code":"2885.0",
+    "gn:asciiname":"Kautjala",
+    "gn:country_code":"EE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":794980,
+    "gn:latitude":59.33878,
+    "gn:longitude":24.94858,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kautjala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794980,
+        "wk:page":"Kautjala"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"033336fd4da3a9e5d87b28f9156e9f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259897593,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1259897593,
+    "wof:lastmodified":1537562551,
+    "wof:name":"Kautjala",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.94858,
+    59.33878000000001,
+    24.94858,
+    59.33878000000001
+],
+  "geometry": {"coordinates":[24.94858,59.33878000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209995915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48583,58.78639,24.48583,58.78639",
+    "geom:latitude":58.78639,
+    "geom:longitude":24.48583,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"2980.0",
+    "gn:asciiname":"Keskkuela",
+    "gn:country_code":"EE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591443,
+    "gn:latitude":58.78639,
+    "gn:longitude":24.48583,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Keskk\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keskyula",
+        "Keskk\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591443
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"0c5c6b2223e8ae63dccefb1f2f3e5bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1209995915,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1209995915,
+    "wof:lastmodified":1537620419,
+    "wof:name":"Keskkuela",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48583,
+    58.78639,
+    24.48583,
+    58.78639
+],
+  "geometry": {"coordinates":[24.48583,58.78639],"type":"Point"}
+}

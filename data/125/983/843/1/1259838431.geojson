@@ -1,0 +1,71 @@
+{
+  "id": 1259838431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.72889,57.57417,26.72889,57.57417",
+    "geom:latitude":57.57417,
+    "geom:longitude":26.72889,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"698.0",
+    "gn:admin3_code":"9131.0",
+    "gn:asciiname":"Peraejaerve",
+    "gn:country_code":"EE",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619727,
+    "gn:latitude":57.57417,
+    "gn:longitude":26.72889,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Per\u00e4j\u00e4rve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Per\u00e4j\u00e4rve",
+        "Peraj\u00e4rve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619727
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"10edbe3c83dcc6e5be90169ee0c4bca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259838431,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1259838431,
+    "wof:lastmodified":1537620514,
+    "wof:name":"Peraejaerve",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.72889,
+    57.57417,
+    26.72889,
+    57.57417
+],
+  "geometry": {"coordinates":[26.72889,57.57417],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226128685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.42222,58.775,24.42222,58.775",
+    "geom:latitude":58.775,
+    "geom:longitude":24.42222,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"6629.0",
+    "gn:asciiname":"Venekuela",
+    "gn:country_code":"EE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587677,
+    "gn:latitude":58.775,
+    "gn:longitude":24.42222,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Venek\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Venkyula",
+        "Venek\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587677
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d91598d6a27d0bb6c30f9d64fe5dbf8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226128685,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1226128685,
+    "wof:lastmodified":1537620285,
+    "wof:name":"Venekuela",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.42222000000001,
+    58.775,
+    24.42222000000001,
+    58.775
+],
+  "geometry": {"coordinates":[24.42222000000001,58.775],"type":"Point"}
+}

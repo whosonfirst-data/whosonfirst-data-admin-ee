@@ -1,0 +1,73 @@
+{
+  "id": 1293484265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.91639,58.85139,23.91639,58.85139",
+    "geom:latitude":58.85139,
+    "geom:longitude":23.91639,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"5165.0",
+    "gn:asciiname":"Mordu",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590140,
+    "gn:latitude":58.85139,
+    "gn:longitude":23.91639,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00f5rdu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myrdu",
+        "M\u00f5rdu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590140,
+        "wk:page":"M%C3%B5rdu"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"88913b6dca0beacbeef81fc812b21e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293484265,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1293484265,
+    "wof:lastmodified":1537620371,
+    "wof:name":"Mordu",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91639,
+    58.85139,
+    23.91639,
+    58.85139
+],
+  "geometry": {"coordinates":[23.91639,58.85139],"type":"Point"}
+}

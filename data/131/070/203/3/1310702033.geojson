@@ -1,0 +1,73 @@
+{
+  "id": 1310702033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.69583,58.80139,25.69583,58.80139",
+    "geom:latitude":58.80139,
+    "geom:longitude":25.69583,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"255.0",
+    "gn:admin3_code":"4070.0",
+    "gn:asciiname":"Laimetsa",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590810,
+    "gn:latitude":58.80139,
+    "gn:longitude":25.69583,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Laimetsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Laymetsa",
+        "Laimetsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590810,
+        "wk:page":"Laimetsa"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"2bf82549d3242e128ede1b70c12c7ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310702033,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1310702033,
+    "wof:lastmodified":1537620395,
+    "wof:name":"Laimetsa",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.69583,
+    58.80139000000001,
+    25.69583,
+    58.80139000000001
+],
+  "geometry": {"coordinates":[25.69583,58.80139000000001],"type":"Point"}
+}

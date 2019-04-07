@@ -1,0 +1,71 @@
+{
+  "id": 1343836363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.18806,58.64806,25.18806,58.64806",
+    "geom:latitude":58.64806,
+    "geom:longitude":25.18806,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"638.0",
+    "gn:admin3_code":"5720.0",
+    "gn:asciiname":"Orikuela",
+    "gn:country_code":"EE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793847,
+    "gn:latitude":58.64806,
+    "gn:longitude":25.18806,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Orik\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orik\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793847,
+        "wk:page":"Orik%C3%BCla"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d9b621672ac186a7dd1223ef14daba80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343836363,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1343836363,
+    "wof:lastmodified":1537620468,
+    "wof:name":"Orikuela",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18806,
+    58.64806,
+    25.18806,
+    58.64806
+],
+  "geometry": {"coordinates":[25.18806,58.64806],"type":"Point"}
+}

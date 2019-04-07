@@ -1,0 +1,63 @@
+{
+  "id": 1209294691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.66722,58.135,26.66722,58.135",
+    "geom:latitude":58.135,
+    "geom:longitude":26.66722,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"284.0",
+    "gn:admin3_code":"3511.0",
+    "gn:asciiname":"Tarikatsi",
+    "gn:country_code":"EE",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620023,
+    "gn:latitude":58.135,
+    "gn:longitude":26.66722,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Tarikatsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620023
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a7b24e36d6ca821771aeddba4153fc91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209294691
+        }
+    ],
+    "wof:id":1209294691,
+    "wof:lastmodified":1536291571,
+    "wof:name":"Tarikatsi",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.66722,
+    58.135,
+    26.66722,
+    58.135
+],
+  "geometry": {"coordinates":[26.66722,58.135],"type":"Point"}
+}

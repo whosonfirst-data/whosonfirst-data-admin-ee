@@ -1,0 +1,74 @@
+{
+  "id": 1310093621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.80361,58.37222,23.80361,58.37222",
+    "geom:latitude":58.37222,
+    "geom:longitude":23.80361,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"430.0",
+    "gn:admin3_code":"3593.0",
+    "gn:asciiname":"Saulepi",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588769,
+    "gn:latitude":58.37222,
+    "gn:longitude":23.80361,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Saulepi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Saulepa",
+        "Saulepa",
+        "Saulepi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588769,
+        "wk:page":"Saulepi"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a2e2cf80478dcb8a1f1282785c576c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310093621,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1310093621,
+    "wof:lastmodified":1537620323,
+    "wof:name":"Saulepi",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.80361,
+    58.37222,
+    23.80361,
+    58.37222
+],
+  "geometry": {"coordinates":[23.80361,58.37222],"type":"Point"}
+}

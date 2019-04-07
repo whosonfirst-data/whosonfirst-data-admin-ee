@@ -1,0 +1,67 @@
+{
+  "id": 1260206363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7475,58.77833,26.7475,58.77833",
+    "geom:latitude":58.77833,
+    "geom:longitude":26.7475,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"486.0",
+    "gn:admin3_code":"2129.0",
+    "gn:asciiname":"Raja",
+    "gn:country_code":"EE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618620,
+    "gn:latitude":58.77833,
+    "gn:longitude":26.7475,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Raja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618620
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a6b9e0d69f8bcb24a7ca288a6fe2da38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260206363,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1260206363,
+    "wof:lastmodified":1536815919,
+    "wof:name":"Raja",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7475,
+    58.77833,
+    26.7475,
+    58.77833
+],
+  "geometry": {"coordinates":[26.7475,58.77833],"type":"Point"}
+}

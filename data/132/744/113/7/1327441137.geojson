@@ -1,0 +1,73 @@
+{
+  "id": 1327441137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.26472,59.36833,24.26472,59.36833",
+    "geom:latitude":59.36833,
+    "geom:longitude":24.26472,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"431.0",
+    "gn:admin3_code":"4148.0",
+    "gn:asciiname":"Ahtma",
+    "gn:country_code":"EE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592590,
+    "gn:latitude":59.36833,
+    "gn:longitude":24.26472,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Ahtma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akhtme",
+        "Ahtme",
+        "Akhtma",
+        "Ahtma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592590
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"27dd327a89100d16a2aa4fa1e163bee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327441137,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1327441137,
+    "wof:lastmodified":1537620462,
+    "wof:name":"Ahtma",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.26472,
+    59.36833000000001,
+    24.26472,
+    59.36833000000001
+],
+  "geometry": {"coordinates":[24.26472,59.36833000000001],"type":"Point"}
+}

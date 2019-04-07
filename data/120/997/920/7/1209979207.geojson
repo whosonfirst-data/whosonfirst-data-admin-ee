@@ -1,0 +1,70 @@
+{
+  "id": 1209979207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86889,57.97472,25.86889,57.97472",
+    "geom:latitude":57.97472,
+    "geom:longitude":25.86889,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"824.0",
+    "gn:admin3_code":"6042.0",
+    "gn:asciiname":"Koive",
+    "gn:country_code":"EE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619902,
+    "gn:latitude":57.97472,
+    "gn:longitude":25.86889,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Koive",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koeve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619902
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"26c5004e9048db11de0d473202e79d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1209979207,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1209979207,
+    "wof:lastmodified":1537620518,
+    "wof:name":"Koive",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86889,
+    57.97472,
+    25.86889,
+    57.97472
+],
+  "geometry": {"coordinates":[25.86889,57.97472],"type":"Point"}
+}

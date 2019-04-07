@@ -1,0 +1,73 @@
+{
+  "id": 1259669215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.06083,59.10917,26.06083,59.10917",
+    "geom:latitude":59.10917,
+    "geom:longitude":26.06083,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"792.0",
+    "gn:admin3_code":"3531.0",
+    "gn:asciiname":"Kuie",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591030,
+    "gn:latitude":59.10917,
+    "gn:longitude":26.06083,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kuie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuye",
+        "Kuie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591030,
+        "wk:page":"Kuie"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"6a518ef96f0e3340262aa70d4162ef84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259669215,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1259669215,
+    "wof:lastmodified":1537620403,
+    "wof:name":"Kuie",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.06083,
+    59.10917,
+    26.06083,
+    59.10917
+],
+  "geometry": {"coordinates":[26.06083,59.10917],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276952759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.97972,58.15194,25.97972,58.15194",
+    "geom:latitude":58.15194,
+    "geom:longitude":25.97972,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"899.0",
+    "gn:admin3_code":"7779.0",
+    "gn:asciiname":"Uue-Suislepa",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588009,
+    "gn:latitude":58.15194,
+    "gn:longitude":25.97972,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Uue-Suislepa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uue Suislepa Asundus",
+        "Suislepa Uue Asundus",
+        "Uue-Suislepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588009
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"50c7f3d5b8715ad7c7c9202a80e7da75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276952759,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1276952759,
+    "wof:lastmodified":1537620298,
+    "wof:name":"Uue-Suislepa",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.97972,
+    58.15194,
+    25.97972,
+    58.15194
+],
+  "geometry": {"coordinates":[25.97972,58.15194],"type":"Point"}
+}

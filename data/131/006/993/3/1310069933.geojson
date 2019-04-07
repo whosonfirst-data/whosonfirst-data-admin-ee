@@ -1,0 +1,71 @@
+{
+  "id": 1310069933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.90944,57.88722,26.90944,57.88722",
+    "geom:latitude":57.88722,
+    "geom:longitude":26.90944,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"8040.0",
+    "gn:asciiname":"Kanamotsa",
+    "gn:country_code":"EE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619837,
+    "gn:latitude":57.88722,
+    "gn:longitude":26.90944,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kanam\u00f5tsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanam\u00f5tsa",
+        "Kanametsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619837
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"91fd55eeec74e6f307082b2c4bcee5cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310069933,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1310069933,
+    "wof:lastmodified":1537620516,
+    "wof:name":"Kanamotsa",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.90944,
+    57.88721999999999,
+    26.90944,
+    57.88721999999999
+],
+  "geometry": {"coordinates":[26.90944,57.88721999999999],"type":"Point"}
+}

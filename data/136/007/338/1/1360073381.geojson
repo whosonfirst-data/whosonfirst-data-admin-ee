@@ -1,0 +1,74 @@
+{
+  "id": 1360073381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48256,58.20748,24.48256,58.20748",
+    "geom:latitude":58.20748,
+    "geom:longitude":24.48256,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"214.0",
+    "gn:admin3_code":"9539.0",
+    "gn:asciiname":"Voiste",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587498,
+    "gn:latitude":58.20748,
+    "gn:longitude":24.48256,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"V\u00f5iste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takhkuranna",
+        "Tahkuranna",
+        "V\u00f5iste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587498,
+        "wk:page":"V%C3%B5iste"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"e252f664cdbb9041d9cb8429e6613f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1360073381,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1360073381,
+    "wof:lastmodified":1537620280,
+    "wof:name":"Voiste",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48256,
+    58.20748,
+    24.48256,
+    58.20748
+],
+  "geometry": {"coordinates":[24.48256,58.20748],"type":"Point"}
+}

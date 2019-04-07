@@ -1,0 +1,71 @@
+{
+  "id": 1309897407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03417,58.81889,24.03417,58.81889",
+    "geom:latitude":58.81889,
+    "geom:longitude":24.03417,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"9812.0",
+    "gn:asciiname":"Pyakhkyula",
+    "gn:country_code":"EE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589714,
+    "gn:latitude":58.81889,
+    "gn:longitude":24.03417,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pyakhkyula",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e4hk\u00fcla",
+        "P\u00e4hkk\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589714
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"2df8130318128c8a95dd7114ba23bbc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1309897407,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1309897407,
+    "wof:lastmodified":1537620356,
+    "wof:name":"Pyakhkyula",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03417,
+    58.81889,
+    24.03417,
+    58.81889
+],
+  "geometry": {"coordinates":[24.03417,58.81889],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276414325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.61861,57.74028,26.61861,57.74028",
+    "geom:latitude":57.74028,
+    "geom:longitude":26.61861,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"8378.0",
+    "gn:asciiname":"Kannussaaro",
+    "gn:country_code":"EE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618888,
+    "gn:latitude":57.74028,
+    "gn:longitude":26.61861,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kannussaar\u00f5",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kannussaar\u00f5",
+        "Kannussaare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618888
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"8f80246641498e6ddeea1e3ce9251d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276414325,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1276414325,
+    "wof:lastmodified":1537620497,
+    "wof:name":"Kannussaaro",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.61861,
+    57.74028000000001,
+    26.61861,
+    57.74028000000001
+],
+  "geometry": {"coordinates":[26.61861,57.74028000000001],"type":"Point"}
+}

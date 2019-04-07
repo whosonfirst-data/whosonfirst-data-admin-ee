@@ -1,0 +1,72 @@
+{
+  "id": 1226725707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.93333,58.51667,26.93333,58.51667",
+    "geom:latitude":58.51667,
+    "geom:longitude":26.93333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"586.0",
+    "gn:admin3_code":"1166.0",
+    "gn:asciiname":"Udriku",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588117,
+    "gn:latitude":58.51667,
+    "gn:longitude":26.93333,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Udriku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Udrike",
+        "Udriku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588117
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"3c71dc47267ab2927bedd13b9b22e3b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226725707,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1226725707,
+    "wof:lastmodified":1537620302,
+    "wof:name":"Udriku",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93333,
+    58.51667,
+    26.93333,
+    58.51667
+],
+  "geometry": {"coordinates":[26.93333,58.51667],"type":"Point"}
+}

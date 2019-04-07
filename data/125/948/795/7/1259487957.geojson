@@ -1,0 +1,70 @@
+{
+  "id": 1259487957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.28556,58.82556,26.28556,58.82556",
+    "geom:latitude":58.82556,
+    "geom:longitude":26.28556,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"247.0",
+    "gn:admin3_code":"8879.0",
+    "gn:asciiname":"Koidu",
+    "gn:country_code":"EE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619039,
+    "gn:latitude":58.82556,
+    "gn:longitude":26.28556,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Koidu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u041f\u0430\u0440\u0438\u0444\u0435\u0440\u044a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619039
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"137f9687deb181bf7a573046d303ebea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259487957,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1259487957,
+    "wof:lastmodified":1537620500,
+    "wof:name":"Koidu",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.28556,
+    58.82556,
+    26.28556,
+    58.82556
+],
+  "geometry": {"coordinates":[26.28556,58.82556],"type":"Point"}
+}

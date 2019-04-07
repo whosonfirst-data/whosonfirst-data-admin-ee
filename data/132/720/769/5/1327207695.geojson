@@ -1,0 +1,74 @@
+{
+  "id": 1327207695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.36167,58.59639,23.36167,58.59639",
+    "geom:latitude":58.59639,
+    "geom:longitude":23.36167,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"478.0",
+    "gn:admin3_code":"8440.0",
+    "gn:asciiname":"Volla",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587484,
+    "gn:latitude":58.59639,
+    "gn:longitude":23.36167,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"V\u00f5lla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vylla",
+        "V\u00f5lla Asundus",
+        "V\u00f5lla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587484,
+        "wk:page":"V%C3%B5lla%2C_Saare_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"bd2d1ede1196ebe966c67e0f95b76d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327207695,
+            "region_id":85682951
+        }
+    ],
+    "wof:id":1327207695,
+    "wof:lastmodified":1537620279,
+    "wof:name":"Volla",
+    "wof:parent_id":85682951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36167,
+    58.59639,
+    23.36167,
+    58.59639
+],
+  "geometry": {"coordinates":[23.36167,58.59639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327106001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.78,58.92972,24.78,58.92972",
+    "geom:latitude":58.92972,
+    "geom:longitude":24.78,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"668.0",
+    "gn:admin3_code":"2530.0",
+    "gn:asciiname":"Kaigepere",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591751,
+    "gn:latitude":58.92972,
+    "gn:longitude":24.78,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kaigepere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaygepere",
+        "Kaigepere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591751,
+        "wk:page":"Kaigepere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"9217bd4d2715d1350ed277784041fc82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327106001,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1327106001,
+    "wof:lastmodified":1537620429,
+    "wof:name":"Kaigepere",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78,
+    58.92972,
+    24.78,
+    58.92972
+],
+  "geometry": {"coordinates":[24.78,58.92972],"type":"Point"}
+}

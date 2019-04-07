@@ -1,0 +1,72 @@
+{
+  "id": 1242768503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.49444,59.39056,26.49444,59.39056",
+    "geom:latitude":59.39056,
+    "geom:longitude":26.49444,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"661.0",
+    "gn:admin3_code":"3261.0",
+    "gn:asciiname":"Kohala Asundus",
+    "gn:country_code":"EE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591269,
+    "gn:latitude":59.39056,
+    "gn:longitude":26.49444,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kohala Asundus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Kokhala",
+        "Kohala",
+        "Kohala Asundus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591269
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a8afde314f2b6b22d3e287328bf73916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242768503,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1242768503,
+    "wof:lastmodified":1537620413,
+    "wof:name":"Kohala Asundus",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.49444,
+    59.39056,
+    26.49444,
+    59.39056
+],
+  "geometry": {"coordinates":[26.49444,59.39056],"type":"Point"}
+}

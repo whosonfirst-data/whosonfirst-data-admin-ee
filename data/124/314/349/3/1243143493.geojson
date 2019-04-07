@@ -1,0 +1,73 @@
+{
+  "id": 1243143493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.74806,59.04083,24.74806,59.04083",
+    "geom:latitude":59.04083,
+    "geom:longitude":24.74806,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"668.0",
+    "gn:admin3_code":"7586.0",
+    "gn:asciiname":"Alu-Metskuela",
+    "gn:country_code":"EE",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592511,
+    "gn:latitude":59.04083,
+    "gn:longitude":24.74806,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Alu-Metsk\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metsak\u00fcla",
+        "Alu-Metskyula",
+        "Alu-Metsk\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592511,
+        "wk:page":"Alu-Metsk%C3%BCla"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"f6775d0d01398241ac9d7c6d78cf6112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243143493,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1243143493,
+    "wof:lastmodified":1537620460,
+    "wof:name":"Alu-Metskuela",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.74806,
+    59.04083000000001,
+    24.74806,
+    59.04083000000001
+],
+  "geometry": {"coordinates":[24.74806,59.04083000000001],"type":"Point"}
+}

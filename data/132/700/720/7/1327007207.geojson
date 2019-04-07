@@ -1,0 +1,71 @@
+{
+  "id": 1327007207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.76667,58.13306,26.76667,58.13306",
+    "geom:latitude":58.13306,
+    "geom:longitude":26.76667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"284.0",
+    "gn:admin3_code":"6354.0",
+    "gn:asciiname":"Haedakuela",
+    "gn:country_code":"EE",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620009,
+    "gn:latitude":58.13306,
+    "gn:longitude":26.76667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"H\u00e4dak\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00e4dak\u00fcla",
+        "H\u00e4d\u00e4k\u00fcl\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620009
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a560554ce95dd75358b02181687c68b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327007207,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1327007207,
+    "wof:lastmodified":1537620520,
+    "wof:name":"Haedakuela",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.76667,
+    58.13306,
+    26.76667,
+    58.13306
+],
+  "geometry": {"coordinates":[26.76667,58.13306],"type":"Point"}
+}

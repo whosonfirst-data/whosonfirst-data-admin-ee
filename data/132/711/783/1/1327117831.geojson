@@ -1,0 +1,73 @@
+{
+  "id": 1327117831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.21944,58.60333,23.21944,58.60333",
+    "geom:latitude":58.60333,
+    "geom:longitude":23.21944,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"478.0",
+    "gn:admin3_code":"9285.0",
+    "gn:asciiname":"Viira",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587622,
+    "gn:latitude":58.60333,
+    "gn:longitude":23.21944,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Viira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Viyra",
+        "Viira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587622,
+        "wk:page":"Viira%2C_Muhu_Parish"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"df3ac93e364b8c9c1b751a46ce90f742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327117831,
+            "region_id":85682951
+        }
+    ],
+    "wof:id":1327117831,
+    "wof:lastmodified":1537620283,
+    "wof:name":"Viira",
+    "wof:parent_id":85682951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.21944,
+    58.60333000000001,
+    23.21944,
+    58.60333000000001
+],
+  "geometry": {"coordinates":[23.21944,58.60333000000001],"type":"Point"}
+}

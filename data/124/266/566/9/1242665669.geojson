@@ -1,0 +1,72 @@
+{
+  "id": 1242665669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73333,58.48333,23.73333,58.48333",
+    "geom:latitude":58.48333,
+    "geom:longitude":23.73333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"430.0",
+    "gn:admin3_code":"5530.0",
+    "gn:asciiname":"Pii",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589492,
+    "gn:latitude":58.48333,
+    "gn:longitude":23.73333,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pii",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pio",
+        "Pii"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589492
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"2b285ca180d0f6ce5f49ec7ab5ba6ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242665669,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1242665669,
+    "wof:lastmodified":1537620349,
+    "wof:name":"Pii",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73333,
+    58.48333,
+    23.73333,
+    58.48333
+],
+  "geometry": {"coordinates":[23.73333,58.48333],"type":"Point"}
+}

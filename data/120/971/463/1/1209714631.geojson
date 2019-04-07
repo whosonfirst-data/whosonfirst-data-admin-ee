@@ -1,0 +1,73 @@
+{
+  "id": 1209714631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5,58.61667,26.5,58.61667",
+    "geom:latitude":58.61667,
+    "geom:longitude":26.5,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"247.0",
+    "gn:admin3_code":"9431.0",
+    "gn:asciiname":"Myuirsepa",
+    "gn:country_code":"EE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590056,
+    "gn:latitude":58.61667,
+    "gn:longitude":26.5,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Myuirsepa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00e4tsepa",
+        "M\u00fc\u00fcrsepa",
+        "M\u00fc\u00fcrisepa",
+        "Myuirsepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590056
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"411bf71b078f7a5c8d4a6bc7a20e6ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1209714631,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1209714631,
+    "wof:lastmodified":1537620369,
+    "wof:name":"Myuirsepa",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5,
+    58.61666999999999,
+    26.5,
+    58.61666999999999
+],
+  "geometry": {"coordinates":[26.5,58.61666999999999],"type":"Point"}
+}

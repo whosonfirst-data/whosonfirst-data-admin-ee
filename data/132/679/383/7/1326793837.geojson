@@ -1,0 +1,68 @@
+{
+  "id": 1326793837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9575,58.38361,26.9575,58.38361",
+    "geom:latitude":58.38361,
+    "geom:longitude":26.9575,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"432.0",
+    "gn:admin3_code":"7958.0",
+    "gn:asciiname":"Sava",
+    "gn:country_code":"EE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588757,
+    "gn:latitude":58.38361,
+    "gn:longitude":26.9575,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Sava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588757,
+        "wk:page":"Sava%2C_Estonia"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"ed5cf36704a800cd9444d55887d2a052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1326793837,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1326793837,
+    "wof:lastmodified":1537562483,
+    "wof:name":"Sava",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9575,
+    58.38361,
+    26.9575,
+    58.38361
+],
+  "geometry": {"coordinates":[26.9575,58.38361],"type":"Point"}
+}

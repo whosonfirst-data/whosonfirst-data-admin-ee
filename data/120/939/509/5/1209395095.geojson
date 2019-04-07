@@ -1,0 +1,64 @@
+{
+  "id": 1209395095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68222,57.99167,27.68222,57.99167",
+    "geom:latitude":57.99167,
+    "geom:longitude":27.68222,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"732.0",
+    "gn:admin3_code":"9194.0",
+    "gn:asciiname":"Velna",
+    "gn:country_code":"EE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":794195,
+    "gn:latitude":57.99167,
+    "gn:longitude":27.68222,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Velna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794195,
+        "wk:page":"Velna"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d8f3a0bc323c59ac7b807de930952a9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209395095
+        }
+    ],
+    "wof:id":1209395095,
+    "wof:lastmodified":1537562542,
+    "wof:name":"Velna",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68222,
+    57.99166999999999,
+    27.68222,
+    57.99166999999999
+],
+  "geometry": {"coordinates":[27.68222,57.99166999999999],"type":"Point"}
+}

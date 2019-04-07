@@ -1,0 +1,67 @@
+{
+  "id": 1293475363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.51778,58.97667,26.51778,58.97667",
+    "geom:latitude":58.97667,
+    "geom:longitude":26.51778,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"928.0",
+    "gn:admin3_code":"2080.0",
+    "gn:asciiname":"Paertlivaelja",
+    "gn:country_code":"EE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618364,
+    "gn:latitude":58.97667,
+    "gn:longitude":26.51778,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"P\u00e4rtliv\u00e4lja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618364
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"390b01b8cf7421ff16b17d1eb5376b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293475363,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1293475363,
+    "wof:lastmodified":1536804472,
+    "wof:name":"Paertlivaelja",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.51778,
+    58.97667,
+    26.51778,
+    58.97667
+],
+  "geometry": {"coordinates":[26.51778,58.97667],"type":"Point"}
+}

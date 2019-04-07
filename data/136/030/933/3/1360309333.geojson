@@ -1,0 +1,79 @@
+{
+  "id": 1360309333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.78361,58.96694,25.78361,58.96694",
+    "geom:latitude":58.96694,
+    "geom:longitude":25.78361,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"255.0",
+    "gn:admin3_code":"2712.0",
+    "gn:asciiname":"Esna",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592243,
+    "gn:latitude":58.96694,
+    "gn:longitude":25.78361,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Esna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Esna"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kareda Esna",
+        "Kareda",
+        "Esna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592243
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"193dd3935507712c76a4686d5e365f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1360309333,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1360309333,
+    "wof:lastmodified":1537620450,
+    "wof:name":"Esna",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.78361,
+    58.96694,
+    25.78361,
+    58.96694
+],
+  "geometry": {"coordinates":[25.78361,58.96694],"type":"Point"}
+}

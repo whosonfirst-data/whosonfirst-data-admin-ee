@@ -1,0 +1,71 @@
+{
+  "id": 1293180349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.94972,58.75,24.94972,58.75",
+    "geom:latitude":58.75,
+    "geom:longitude":24.94972,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"293.0",
+    "gn:admin3_code":"6937.0",
+    "gn:asciiname":"Pollussaare",
+    "gn:country_code":"EE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589380,
+    "gn:latitude":58.75,
+    "gn:longitude":24.94972,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"P\u00f5llussaare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00f5llusaare",
+        "P\u00f5llussaare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589380
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c94ca0c269305113fedf6f787e719628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293180349,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1293180349,
+    "wof:lastmodified":1537620344,
+    "wof:name":"Pollussaare",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.94972000000001,
+    58.75,
+    24.94972000000001,
+    58.75
+],
+  "geometry": {"coordinates":[24.94972000000001,58.75],"type":"Point"}
+}

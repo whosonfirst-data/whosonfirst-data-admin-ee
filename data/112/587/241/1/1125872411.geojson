@@ -1,0 +1,116 @@
+{
+  "id": 1125872411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.31111,59.40583,27.31111,59.40583",
+    "geom:latitude":59.40583,
+    "geom:longitude":27.31111,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":682,
+    "gn:population":682,
+    "iso:country":"EE",
+    "lbl:latitude":59.40583,
+    "lbl:longitude":27.31111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0545\u0565\u057c\u057e\u0565"
+    ],
+    "name:dut_x_preferred":[
+        "J\u00e4rve"
+    ],
+    "name:eng_x_preferred":[
+        "J\u00e4rve"
+    ],
+    "name:est_x_preferred":[
+        "J\u00e4rve"
+    ],
+    "name:ger_x_preferred":[
+        "J\u00e4rve"
+    ],
+    "name:pol_x_preferred":[
+        "J\u00e4rve"
+    ],
+    "name:unk_x_variant":[
+        "Yarve"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0631\u0648\u06d2\u060c \u06a9\u0648\u06c1\u062a\u0644\u0627 \u067e\u0631\u06cc\u0634"
+    ],
+    "name:vol_x_preferred":[
+        "J\u00e4rve"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":591955,
+    "qs_pg:gn_pop":682,
+    "qs_pg:name":"J\u00e4rve",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Ida-Virumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":184,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":110967,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":842419,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Ida-Virumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591955,
+        "gp:id":842419,
+        "qs_pg:id":110967,
+        "wd:id":"Q533659"
+    },
+    "wof:country":"EE",
+    "wof:created":1497294367,
+    "wof:geomhash":"3ba6cf23119ba15f4a498e4c29d0cb79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125872411,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1125872411,
+    "wof:lastmodified":1513956389,
+    "wof:name":"J\u00e4rve",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:population":682,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.31111,
+    59.40583,
+    27.31111,
+    59.40583
+],
+  "geometry": {"coordinates":[27.31111,59.40583],"type":"Point"}
+}

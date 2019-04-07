@@ -1,0 +1,74 @@
+{
+  "id": 1327347713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.93333,59.31667,23.93333,59.31667",
+    "geom:latitude":59.31667,
+    "geom:longitude":23.93333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"431.0",
+    "gn:admin3_code":"5925.0",
+    "gn:asciiname":"Suurkuela",
+    "gn:country_code":"EE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588498,
+    "gn:latitude":59.31667,
+    "gn:longitude":23.93333,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Suurk\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Storbyn"
+    ],
+    "name:und_x_variant":[
+        "Surkyula",
+        "Suurk\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588498
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"82b8fbb15779f53f1ce0619bf070be2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327347713,
+            "region_id":85683021
+        }
+    ],
+    "wof:id":1327347713,
+    "wof:lastmodified":1537620313,
+    "wof:name":"Suurkuela",
+    "wof:parent_id":85683021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.93333,
+    59.31667,
+    23.93333,
+    59.31667
+],
+  "geometry": {"coordinates":[23.93333,59.31667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226501383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.76806,57.58278,26.76806,57.58278",
+    "geom:latitude":57.58278,
+    "geom:longitude":26.76806,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"698.0",
+    "gn:admin3_code":"8038.0",
+    "gn:asciiname":"Tsiamaee",
+    "gn:country_code":"EE",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619730,
+    "gn:latitude":57.58278,
+    "gn:longitude":26.76806,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Tsiam\u00e4e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsiam\u00e4e",
+        "Seam\u00e4e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619730
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d3795d4ddeeb32938a8325af0343dc36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226501383,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1226501383,
+    "wof:lastmodified":1537620514,
+    "wof:name":"Tsiamaee",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.76806,
+    57.58278000000001,
+    26.76806,
+    57.58278000000001
+],
+  "geometry": {"coordinates":[26.76806,57.58278000000001],"type":"Point"}
+}

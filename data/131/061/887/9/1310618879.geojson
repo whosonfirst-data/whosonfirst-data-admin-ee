@@ -1,0 +1,72 @@
+{
+  "id": 1310618879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.40519,59.36501,24.40519,59.36501",
+    "geom:latitude":59.36501,
+    "geom:longitude":24.40519,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"198.0",
+    "gn:admin3_code":"1903.0",
+    "gn:asciiname":"Humala",
+    "gn:country_code":"EE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592089,
+    "gn:latitude":59.36501,
+    "gn:longitude":24.40519,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Humala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khumala",
+        "Humala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592089,
+        "wk:page":"Humala%2C_Estonia"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"e6fce049549d0ac72e9cfa8edcea3a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310618879,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1310618879,
+    "wof:lastmodified":1537620444,
+    "wof:name":"Humala",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.40519,
+    59.36501,
+    24.40519,
+    59.36501
+],
+  "geometry": {"coordinates":[24.40519,59.36501],"type":"Point"}
+}

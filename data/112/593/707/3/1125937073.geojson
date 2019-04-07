@@ -1,0 +1,111 @@
+{
+  "id": 1125937073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.42889,58.7525,26.42889,58.7525",
+    "geom:latitude":58.7525,
+    "geom:longitude":26.42889,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":94,
+    "gn:population":94,
+    "iso:country":"EE",
+    "lbl:latitude":58.7525,
+    "lbl:longitude":26.42889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054e\u056b\u0564\u0578\u0582\u057e\u0565\u057c\u0565"
+    ],
+    "name:dut_x_preferred":[
+        "V\u00f5duvere"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00f5duvere"
+    ],
+    "name:est_x_preferred":[
+        "V\u00f5duvere"
+    ],
+    "name:fre_x_preferred":[
+        "V\u00f5duvere"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0434\u0443\u0432\u0435\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Vyduvere"
+    ],
+    "name:vol_x_preferred":[
+        "V\u00f5duvere"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":587527,
+    "qs_pg:gn_pop":94,
+    "qs_pg:name":"V\u00f5duvere",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"J\u00f5gevamaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1274788,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":846525,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"J\u00f5gevamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587527,
+        "gp:id":846525,
+        "qs_pg:id":1274788,
+        "wd:id":"Q376548"
+    },
+    "wof:country":"EE",
+    "wof:created":1497297000,
+    "wof:geomhash":"4ec3c0655abeaab63491f4b34244b6be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125937073,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1125937073,
+    "wof:lastmodified":1553816643,
+    "wof:name":"V\u00f5duvere",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.42889,
+    58.7525,
+    26.42889,
+    58.7525
+],
+  "geometry": {"coordinates":[26.42889,58.7525],"type":"Point"}
+}

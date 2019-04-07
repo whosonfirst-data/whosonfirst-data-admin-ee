@@ -1,0 +1,68 @@
+{
+  "id": 1209639353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.59889,59.18639,25.59889,59.18639",
+    "geom:latitude":59.18639,
+    "geom:longitude":25.59889,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"255.0",
+    "gn:admin3_code":"5156.0",
+    "gn:asciiname":"Monuvere",
+    "gn:country_code":"EE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590148,
+    "gn:latitude":59.18639,
+    "gn:longitude":25.59889,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00f5nuvere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mynuvere",
+        "M\u00f5nuvere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590148,
+        "wk:page":"M%C3%B5nuvere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5c5e1fba8d3371a6a971404edb84866f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209639353
+        }
+    ],
+    "wof:id":1209639353,
+    "wof:lastmodified":1537620371,
+    "wof:name":"Monuvere",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.59889,
+    59.18639,
+    25.59889,
+    59.18639
+],
+  "geometry": {"coordinates":[25.59889,59.18639],"type":"Point"}
+}

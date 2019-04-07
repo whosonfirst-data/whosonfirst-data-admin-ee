@@ -1,0 +1,69 @@
+{
+  "id": 1209391211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83333,58.9,24.83333,58.9",
+    "geom:latitude":58.9,
+    "geom:longitude":24.83333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"293.0",
+    "gn:admin3_code":"4248.0",
+    "gn:asciiname":"Jaervakandi",
+    "gn:country_code":"EE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591963,
+    "gn:latitude":58.9,
+    "gn:longitude":24.83333,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"J\u00e4rvakandi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yarvakandi",
+        "Kabeli",
+        "J\u00e4rwakandi",
+        "J\u00e4rvakandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591963
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"3398a0599b32140a9b7308f685f391d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209391211
+        }
+    ],
+    "wof:id":1209391211,
+    "wof:lastmodified":1537620439,
+    "wof:name":"Jaervakandi",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83333,
+    58.9,
+    24.83333,
+    58.9
+],
+  "geometry": {"coordinates":[24.83333,58.9],"type":"Point"}
+}

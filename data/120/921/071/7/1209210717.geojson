@@ -1,0 +1,67 @@
+{
+  "id": 1209210717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.27389,59.02167,26.27389,59.02167",
+    "geom:latitude":59.02167,
+    "geom:longitude":26.27389,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"928.0",
+    "gn:admin3_code":"2635.0",
+    "gn:asciiname":"Jaeola",
+    "gn:country_code":"EE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618956,
+    "gn:latitude":59.02167,
+    "gn:longitude":26.27389,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"J\u00e4ola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00e4ola",
+        "Jaola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618956
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7b6339e8df339347fe682d167fb7e829",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209210717
+        }
+    ],
+    "wof:id":1209210717,
+    "wof:lastmodified":1537620499,
+    "wof:name":"Jaeola",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.27389,
+    59.02166999999999,
+    26.27389,
+    59.02166999999999
+],
+  "geometry": {"coordinates":[26.27389,59.02166999999999],"type":"Point"}
+}

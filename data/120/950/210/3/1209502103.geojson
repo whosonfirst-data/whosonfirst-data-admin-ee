@@ -1,0 +1,67 @@
+{
+  "id": 1209502103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.59194,58.01028,27.59194,58.01028",
+    "geom:latitude":58.01028,
+    "geom:longitude":27.59194,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"732.0",
+    "gn:admin3_code":"7170.0",
+    "gn:asciiname":"Rosna-Saaro",
+    "gn:country_code":"EE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620630,
+    "gn:latitude":58.01028,
+    "gn:longitude":27.59194,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"R\u00f5sna-Saar\u00f5",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00f5sna-Saar\u00f5",
+        "R\u00f5sna-Saare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620630
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"4c0d3a4b51d91d521143923925b6e5f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209502103
+        }
+    ],
+    "wof:id":1209502103,
+    "wof:lastmodified":1537620534,
+    "wof:name":"Rosna-Saaro",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.59194,
+    58.01028,
+    27.59194,
+    58.01028
+],
+  "geometry": {"coordinates":[27.59194,58.01028],"type":"Point"}
+}

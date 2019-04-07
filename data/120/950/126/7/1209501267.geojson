@@ -1,0 +1,66 @@
+{
+  "id": 1209501267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.32056,58.85472,24.32056,58.85472",
+    "geom:latitude":58.85472,
+    "geom:longitude":24.32056,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"8283.0",
+    "gn:asciiname":"Kuuda",
+    "gn:country_code":"EE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619488,
+    "gn:latitude":58.85472,
+    "gn:longitude":24.32056,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kuuda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuudaund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619488
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"00d1fe448229eee24ed86c17808f9ad4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209501267
+        }
+    ],
+    "wof:id":1209501267,
+    "wof:lastmodified":1537620508,
+    "wof:name":"Kuuda",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.32056,
+    58.85471999999999,
+    24.32056,
+    58.85471999999999
+],
+  "geometry": {"coordinates":[24.32056,58.85471999999999],"type":"Point"}
+}

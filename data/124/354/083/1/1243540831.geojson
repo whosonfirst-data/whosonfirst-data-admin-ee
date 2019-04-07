@@ -1,0 +1,74 @@
+{
+  "id": 1243540831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2275,58.81556,25.2275,58.81556",
+    "geom:latitude":58.81556,
+    "geom:longitude":25.2275,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"834.0",
+    "gn:admin3_code":"3735.0",
+    "gn:asciiname":"Kodu",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591281,
+    "gn:latitude":58.81556,
+    "gn:longitude":25.2275,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"K\u00f5du",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f5duk\u00fcla",
+        "Kydukyula",
+        "K\u00f5du"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591281,
+        "wk:page":"K%C3%B5du"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d7a7e3a54ee2454fdfaf413a99e6d21d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243540831,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1243540831,
+    "wof:lastmodified":1537620413,
+    "wof:name":"Kodu",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.2275,
+    58.81556,
+    25.2275,
+    58.81556
+],
+  "geometry": {"coordinates":[25.2275,58.81556],"type":"Point"}
+}

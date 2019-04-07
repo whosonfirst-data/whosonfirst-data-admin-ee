@@ -1,0 +1,71 @@
+{
+  "id": 1343363153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.25472,59.07306,25.25472,59.07306",
+    "geom:latitude":59.07306,
+    "geom:longitude":25.25472,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"338.0",
+    "gn:admin3_code":"6052.0",
+    "gn:asciiname":"Paunaste",
+    "gn:country_code":"EE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619022,
+    "gn:latitude":59.07306,
+    "gn:longitude":25.25472,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Paunaste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0441\u0435\u043b. \u041f\u0430\u043d\u0430\u0441\u0442\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619022,
+        "wk:page":"Paunaste"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"79e5b82c78fffde695a8db1349dec0ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343363153,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1343363153,
+    "wof:lastmodified":1537620500,
+    "wof:name":"Paunaste",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.25472,
+    59.07306,
+    25.25472,
+    59.07306
+],
+  "geometry": {"coordinates":[25.25472,59.07306],"type":"Point"}
+}

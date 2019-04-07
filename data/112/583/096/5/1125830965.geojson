@@ -1,0 +1,104 @@
+{
+  "id": 1125830965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.86194,58.03306,24.86194,58.03306",
+    "geom:latitude":58.03306,
+    "geom:longitude":24.86194,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":141,
+    "gn:population":141,
+    "iso:country":"EE",
+    "lbl:latitude":58.03306,
+    "lbl:longitude":24.86194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054e\u0565\u0565\u056c\u056b\u056f\u057d\u0565"
+    ],
+    "name:dut_x_preferred":[
+        "Veelikse"
+    ],
+    "name:eng_x_preferred":[
+        "Veelikse"
+    ],
+    "name:est_x_preferred":[
+        "Veelikse"
+    ],
+    "name:fre_x_preferred":[
+        "Veelikse"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u0644\u06cc\u06a9\u0633\u060c \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u067e\u0627\u0631\u0646\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Veelikse"
+    ],
+    "name:unk_x_variant":[
+        "Velikse"
+    ],
+    "name:vol_x_preferred":[
+        "Veelikse"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":587692,
+    "qs_pg:gn_pop":141,
+    "qs_pg:name":"Veelikse",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":81097,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587692,
+        "qs_pg:id":81097,
+        "wd:id":"Q11020439"
+    },
+    "wof:country":"EE",
+    "wof:created":1497292496,
+    "wof:geomhash":"de694214c837b1ef42bab72cf23817b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125830965,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1125830965,
+    "wof:lastmodified":1553816558,
+    "wof:name":"Veelikse",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:population":141,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86194,
+    58.03306,
+    24.86194,
+    58.03306
+],
+  "geometry": {"coordinates":[24.86194,58.03306],"type":"Point"}
+}

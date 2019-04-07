@@ -1,0 +1,68 @@
+{
+  "id": 1260205925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.46889,59.06472,26.46889,59.06472",
+    "geom:latitude":59.06472,
+    "geom:longitude":26.46889,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"5814.0",
+    "gn:asciiname":"Sirevere",
+    "gn:country_code":"EE",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588664,
+    "gn:latitude":59.06472,
+    "gn:longitude":26.46889,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Sirevere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588664,
+        "wk:page":"Sirevere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"49348ff7ce89948e77b3d1a5aa2950db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260205925,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1260205925,
+    "wof:lastmodified":1537562481,
+    "wof:name":"Sirevere",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.46889,
+    59.06472,
+    26.46889,
+    59.06472
+],
+  "geometry": {"coordinates":[26.46889,59.06472],"type":"Point"}
+}

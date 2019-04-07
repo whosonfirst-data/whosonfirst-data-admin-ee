@@ -1,0 +1,97 @@
+{
+  "id": 1126008481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.27222,59.22972,27.27222,59.22972",
+    "geom:latitude":59.22972,
+    "geom:longitude":27.27222,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":542,
+    "gn:population":542,
+    "iso:country":"EE",
+    "lbl:latitude":59.22972,
+    "lbl:longitude":27.27222,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "M\u00e4etaguse"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044f\u044d\u0442\u0430\u0433\u0443\u0437\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Myaetaguse"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":590397,
+    "qs_pg:gn_pop":542,
+    "qs_pg:name":"M\u00e4etaguse",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Ida-Virumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":111092,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":843873,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Ida-Virumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590397,
+        "gp:id":843873,
+        "qs_pg:id":111092
+    },
+    "wof:country":"EE",
+    "wof:created":1497300121,
+    "wof:geomhash":"6099b147e02084911df18d8977f0ae9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126008481,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1126008481,
+    "wof:lastmodified":1509406531,
+    "wof:name":"M\u00e4etaguse",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:population":542,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.27222,
+    59.22972,
+    27.27222,
+    59.22972
+],
+  "geometry": {"coordinates":[27.27222,59.22972],"type":"Point"}
+}

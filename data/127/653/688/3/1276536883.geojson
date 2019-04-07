@@ -1,0 +1,80 @@
+{
+  "id": 1276536883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.60294,58.02546,24.60294,58.02546",
+    "geom:latitude":58.02546,
+    "geom:longitude":24.60294,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"214.0",
+    "gn:admin3_code":"8724.0",
+    "gn:asciiname":"Urissaare",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588041,
+    "gn:latitude":58.02546,
+    "gn:longitude":24.60294,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Urissaare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Urissaare"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0438\u0441\u0441\u0430\u0430\u0440\u0435"
+    ],
+    "name:und_x_variant":[
+        "Urissare",
+        "Urisaare",
+        "Urissaare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588041,
+        "wk:page":"Urissaare"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"97cb4358e6015441c0a7a17daadf8d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276536883,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1276536883,
+    "wof:lastmodified":1537620300,
+    "wof:name":"Urissaare",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.60294,
+    58.02546,
+    24.60294,
+    58.02546
+],
+  "geometry": {"coordinates":[24.60294,58.02546],"type":"Point"}
+}

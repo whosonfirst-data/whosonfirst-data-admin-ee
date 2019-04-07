@@ -1,0 +1,70 @@
+{
+  "id": 1243222647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2875,57.69722,27.2875,57.69722",
+    "geom:latitude":57.69722,
+    "geom:longitude":27.2875,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"1796.0",
+    "gn:asciiname":"Raudoja",
+    "gn:country_code":"EE",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620147,
+    "gn:latitude":57.69722,
+    "gn:longitude":27.2875,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Raudoja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raudm\u00e4e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620147
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5936d13919a034bfb8a1a4db97c27963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243222647,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1243222647,
+    "wof:lastmodified":1537620523,
+    "wof:name":"Raudoja",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2875,
+    57.69722,
+    27.2875,
+    57.69722
+],
+  "geometry": {"coordinates":[27.2875,57.69722],"type":"Point"}
+}

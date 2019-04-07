@@ -1,0 +1,71 @@
+{
+  "id": 1276330151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2225,59.00667,26.2225,59.00667",
+    "geom:latitude":59.00667,
+    "geom:longitude":26.2225,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"928.0",
+    "gn:admin3_code":"7202.0",
+    "gn:asciiname":"Raeitsvere",
+    "gn:country_code":"EE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793393,
+    "gn:latitude":59.00667,
+    "gn:longitude":26.2225,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"R\u00e4itsvere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00e4itsvere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793393,
+        "wk:page":"R%C3%A4itsvere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"3e3925457fbf35c865850fa88e4f2703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276330151,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1276330151,
+    "wof:lastmodified":1537620466,
+    "wof:name":"Raeitsvere",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2225,
+    59.00666999999999,
+    26.2225,
+    59.00666999999999
+],
+  "geometry": {"coordinates":[26.2225,59.00666999999999],"type":"Point"}
+}

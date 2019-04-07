@@ -1,0 +1,78 @@
+{
+  "id": 1327038965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3889,58.93183,22.3889,58.93183",
+    "geom:latitude":58.93183,
+    "geom:longitude":22.3889,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"4546.0",
+    "gn:asciiname":"Luidja",
+    "gn:country_code":"EE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590495,
+    "gn:latitude":58.93183,
+    "gn:longitude":22.3889,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Luidja",
+    "gn:population":34,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0439\u0434\u044c\u044f"
+    ],
+    "name:und_x_variant":[
+        "Luyd\u2019ya",
+        "Luidja"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590495,
+        "wk:page":"Luidja"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"42d24ce51bd3d935c1cc682787cb63fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327038965,
+            "region_id":85682989
+        }
+    ],
+    "wof:id":1327038965,
+    "wof:lastmodified":1537620385,
+    "wof:name":"Luidja",
+    "wof:parent_id":85682989,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3889,
+    58.93183000000001,
+    22.3889,
+    58.93183000000001
+],
+  "geometry": {"coordinates":[22.3889,58.93183000000001],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 1125875477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.47611,58.08222,27.47611,58.08222",
+    "geom:latitude":58.08222,
+    "geom:longitude":27.47611,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":269,
+    "gn:population":269,
+    "iso:country":"EE",
+    "lbl:latitude":58.08222,
+    "lbl:longitude":27.47611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054c\u056b\u057d\u057f\u056b\u057a\u0561\u056c\u0578"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0438\u0441\u0442\u0438\u043f\u0430\u043b\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Ristipalo"
+    ],
+    "name:eng_x_preferred":[
+        "Ristipalo"
+    ],
+    "name:est_x_preferred":[
+        "Ristipalo"
+    ],
+    "name:pol_x_preferred":[
+        "Ristipalo"
+    ],
+    "name:swe_x_preferred":[
+        "Ristipalo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u0441\u0442\u0456\u043f\u0430\u043b\u043e"
+    ],
+    "name:vol_x_preferred":[
+        "Ristipalo"
+    ],
+    "name:vro_x_preferred":[
+        "Ristipalo k\u00fcl\u00e4"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":794158,
+    "qs_pg:gn_pop":269,
+    "qs_pg:name":"Ristipalo",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"P\u00f5lvamaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":406260,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":845183,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"P\u00f5lvamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794158,
+        "gp:id":845183,
+        "qs_pg:id":406260,
+        "wd:id":"Q3466204"
+    },
+    "wof:country":"EE",
+    "wof:created":1497294516,
+    "wof:geomhash":"0074a9d0f8968d3cbe0bb22108349a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125875477,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1125875477,
+    "wof:lastmodified":1513956489,
+    "wof:name":"Ristipalo",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:population":269,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.47611,
+    58.08222,
+    27.47611,
+    58.08222
+],
+  "geometry": {"coordinates":[27.47611,58.08222],"type":"Point"}
+}

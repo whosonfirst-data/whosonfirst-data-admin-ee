@@ -1,0 +1,66 @@
+{
+  "id": 1209390089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.20389,57.78528,26.20389,57.78528",
+    "geom:latitude":57.78528,
+    "geom:longitude":26.20389,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"855.0",
+    "gn:admin3_code":"2384.0",
+    "gn:asciiname":"Parandu",
+    "gn:country_code":"EE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619172,
+    "gn:latitude":57.78528,
+    "gn:longitude":26.20389,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Parandu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metsak\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619172
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"514b149f278b8d55b38105a572508cb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209390089
+        }
+    ],
+    "wof:id":1209390089,
+    "wof:lastmodified":1537620502,
+    "wof:name":"Parandu",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.20389,
+    57.78528000000001,
+    26.20389,
+    57.78528000000001
+],
+  "geometry": {"coordinates":[26.20389,57.78528000000001],"type":"Point"}
+}

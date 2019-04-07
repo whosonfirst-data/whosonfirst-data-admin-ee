@@ -1,0 +1,108 @@
+{
+  "id": 1125936731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.42611,58.36333,26.42611,58.36333",
+    "geom:latitude":58.36333,
+    "geom:longitude":26.42611,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":349,
+    "gn:population":349,
+    "iso:country":"EE",
+    "lbl:latitude":58.36333,
+    "lbl:longitude":26.42611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0548\u0582\u056c\u056b\u056c\u0561"
+    ],
+    "name:eng_x_preferred":[
+        "Ulila"
+    ],
+    "name:est_x_preferred":[
+        "Ulila"
+    ],
+    "name:fre_x_preferred":[
+        "Ulila"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u0438\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Myza Ulila"
+    ],
+    "name:vol_x_preferred":[
+        "Ulila"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":588089,
+    "qs_pg:gn_pop":349,
+    "qs_pg:name":"Ulila",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Tartumaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1274666,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":846047,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Tartumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588089,
+        "gp:id":846047,
+        "qs_pg:id":1274666,
+        "wd:id":"Q3470369"
+    },
+    "wof:country":"EE",
+    "wof:created":1497296990,
+    "wof:geomhash":"ebc6744e09fbcfed2921c21ae5518373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125936731,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1125936731,
+    "wof:lastmodified":1513956553,
+    "wof:name":"Ulila",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:population":349,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.42611,
+    58.36333,
+    26.42611,
+    58.36333
+],
+  "geometry": {"coordinates":[26.42611,58.36333],"type":"Point"}
+}

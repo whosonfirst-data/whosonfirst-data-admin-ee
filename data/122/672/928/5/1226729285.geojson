@@ -1,0 +1,68 @@
+{
+  "id": 1226729285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.94528,58.72556,24.94528,58.72556",
+    "geom:latitude":58.72556,
+    "geom:longitude":24.94528,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"293.0",
+    "gn:admin3_code":"6937.0",
+    "gn:asciiname":"Reonda",
+    "gn:country_code":"EE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589052,
+    "gn:latitude":58.72556,
+    "gn:longitude":24.94528,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Reonda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589052,
+        "wk:page":"Reonda"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"985166facb1e1eeee4d393e5347f0304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226729285,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1226729285,
+    "wof:lastmodified":1537562486,
+    "wof:name":"Reonda",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.94528,
+    58.72556,
+    24.94528,
+    58.72556
+],
+  "geometry": {"coordinates":[24.94528,58.72556],"type":"Point"}
+}

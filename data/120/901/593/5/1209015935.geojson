@@ -1,0 +1,64 @@
+{
+  "id": 1209015935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.23139,59.24361,27.23139,59.24361",
+    "geom:latitude":59.24361,
+    "geom:longitude":27.23139,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"130.0",
+    "gn:admin3_code":"1398.0",
+    "gn:asciiname":"Arvila",
+    "gn:country_code":"EE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592380,
+    "gn:latitude":59.24361,
+    "gn:longitude":27.23139,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Arvila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592380,
+        "wk:page":"Arvila"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c33d49832bf9892f7fded1ff33e5ef2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209015935
+        }
+    ],
+    "wof:id":1209015935,
+    "wof:lastmodified":1537562528,
+    "wof:name":"Arvila",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.23139,
+    59.24361,
+    27.23139,
+    59.24361
+],
+  "geometry": {"coordinates":[27.23139,59.24361],"type":"Point"}
+}

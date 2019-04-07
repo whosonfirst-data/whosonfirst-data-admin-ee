@@ -1,0 +1,78 @@
+{
+  "id": 1276368851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.28361,58.90556,26.28361,58.90556",
+    "geom:latitude":58.90556,
+    "geom:longitude":26.28361,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"247.0",
+    "gn:admin3_code":"9615.0",
+    "gn:asciiname":"Vaegeva",
+    "gn:country_code":"EE",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587960,
+    "gn:latitude":58.90556,
+    "gn:longitude":26.28361,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"V\u00e4geva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "V\u00e4geva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044f\u0433\u0435\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vyageva",
+        "V\u00e4geva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587960,
+        "wk:page":"V%C3%A4geva"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5e893fde5c9e4d9d844f5241a66ccd13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276368851,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1276368851,
+    "wof:lastmodified":1537620295,
+    "wof:name":"Vaegeva",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.28361,
+    58.90556,
+    26.28361,
+    58.90556
+],
+  "geometry": {"coordinates":[26.28361,58.90556],"type":"Point"}
+}

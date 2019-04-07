@@ -1,0 +1,68 @@
+{
+  "id": 1343394059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.04194,58.91083,26.04194,58.91083",
+    "geom:latitude":58.91083,
+    "geom:longitude":26.04194,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"255.0",
+    "gn:admin3_code":"4428.0",
+    "gn:asciiname":"Liusvere",
+    "gn:country_code":"EE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590583,
+    "gn:latitude":58.91083,
+    "gn:longitude":26.04194,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Liusvere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590583,
+        "wk:page":"Liusvere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"489084f1ac4f955769518b8dc94b6a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343394059,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1343394059,
+    "wof:lastmodified":1537562505,
+    "wof:name":"Liusvere",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.04194,
+    58.91083,
+    26.04194,
+    58.91083
+],
+  "geometry": {"coordinates":[26.04194,58.91083],"type":"Point"}
+}

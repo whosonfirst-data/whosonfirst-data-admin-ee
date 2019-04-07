@@ -1,0 +1,73 @@
+{
+  "id": 1226625555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.97778,58.84278,24.97778,58.84278",
+    "geom:latitude":58.84278,
+    "geom:longitude":24.97778,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"293.0",
+    "gn:admin3_code":"6530.0",
+    "gn:asciiname":"Lille",
+    "gn:country_code":"EE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":795015,
+    "gn:latitude":58.84278,
+    "gn:longitude":24.97778,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Lille",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lille"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043b\u043b\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":795015
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c989dbac76909be59fd9c4dbc1ac59da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226625555,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1226625555,
+    "wof:lastmodified":1537620479,
+    "wof:name":"Lille",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.97778,
+    58.84278000000001,
+    24.97778,
+    58.84278000000001
+],
+  "geometry": {"coordinates":[24.97778,58.84278000000001],"type":"Point"}
+}

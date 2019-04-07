@@ -1,0 +1,73 @@
+{
+  "id": 1209719595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.15,59.15028,25.15,59.15028",
+    "geom:latitude":59.15028,
+    "geom:longitude":25.15,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"338.0",
+    "gn:admin3_code":"2764.0",
+    "gn:asciiname":"Loora",
+    "gn:country_code":"EE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590518,
+    "gn:latitude":59.15028,
+    "gn:longitude":25.15,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"L\u00f5\u00f5ra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00f6\u00f6ra",
+        "Lora",
+        "L\u00f5\u00f5ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590518,
+        "wk:page":"L%C3%B6%C3%B6ra"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"e6b763a9326c8bcf487dba6aa6b722c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1209719595,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1209719595,
+    "wof:lastmodified":1537620386,
+    "wof:name":"Loora",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.15,
+    59.15028,
+    25.15,
+    59.15028
+],
+  "geometry": {"coordinates":[25.15,59.15028],"type":"Point"}
+}

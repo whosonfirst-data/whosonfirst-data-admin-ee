@@ -1,0 +1,73 @@
+{
+  "id": 1293267351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86639,57.93667,25.86639,57.93667",
+    "geom:latitude":57.93667,
+    "geom:longitude":25.86639,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"824.0",
+    "gn:admin3_code":"3420.0",
+    "gn:asciiname":"Koorkuela",
+    "gn:country_code":"EE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591146,
+    "gn:latitude":57.93667,
+    "gn:longitude":25.86639,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Koork\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korkyul\u2019",
+        "Koork\u00fcla Asundus",
+        "Myza Korkyula",
+        "Koork\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591146
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5df481d02d834bf422aa692dfaf4c886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293267351,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1293267351,
+    "wof:lastmodified":1537620408,
+    "wof:name":"Koorkuela",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86639,
+    57.93666999999999,
+    25.86639,
+    57.93666999999999
+],
+  "geometry": {"coordinates":[25.86639,57.93666999999999],"type":"Point"}
+}

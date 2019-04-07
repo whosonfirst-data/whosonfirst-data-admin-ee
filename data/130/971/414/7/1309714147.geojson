@@ -1,0 +1,67 @@
+{
+  "id": 1309714147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.00953,59.39895,28.00953,59.39895",
+    "geom:latitude":59.39895,
+    "geom:longitude":28.00953,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"514.0",
+    "gn:admin3_code":"4012.0",
+    "gn:asciiname":"Tamme",
+    "gn:country_code":"EE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588392,
+    "gn:latitude":59.39895,
+    "gn:longitude":28.00953,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Tamme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588392
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"767d28079dd0eedda6494977a5867260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1309714147,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1309714147,
+    "wof:lastmodified":1537060584,
+    "wof:name":"Tamme",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.00953,
+    59.39895,
+    28.00953,
+    59.39895
+],
+  "geometry": {"coordinates":[28.00953,59.39895],"type":"Point"}
+}

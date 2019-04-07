@@ -1,0 +1,74 @@
+{
+  "id": 1226113113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92167,58.26278,21.92167,58.26278",
+    "geom:latitude":58.26278,
+    "geom:longitude":21.92167,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"714.0",
+    "gn:admin3_code":"2705.0",
+    "gn:asciiname":"Karala",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591643,
+    "gn:latitude":58.26278,
+    "gn:longitude":21.92167,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Karala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karala M\u00f5is",
+        "Karral",
+        "Karala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591643,
+        "wk:page":"Karala%2C_Estonia"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"fc69ebb625ff46eed0453659ac183a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226113113,
+            "region_id":85682947
+        }
+    ],
+    "wof:id":1226113113,
+    "wof:lastmodified":1537620426,
+    "wof:name":"Karala",
+    "wof:parent_id":85682947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92167,
+    58.26278000000001,
+    21.92167,
+    58.26278000000001
+],
+  "geometry": {"coordinates":[21.92167,58.26278000000001],"type":"Point"}
+}

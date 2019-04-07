@@ -1,0 +1,71 @@
+{
+  "id": 1259457351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.77778,58.39528,25.77778,58.39528",
+    "geom:latitude":58.39528,
+    "geom:longitude":25.77778,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"899.0",
+    "gn:admin3_code":"5237.0",
+    "gn:asciiname":"Maehma",
+    "gn:country_code":"EE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590381,
+    "gn:latitude":58.39528,
+    "gn:longitude":25.77778,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00e4hma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myakhma",
+        "M\u00e4hma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590381
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"fcfd5cc8d052d0360240e636a53c81ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259457351,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1259457351,
+    "wof:lastmodified":1537620380,
+    "wof:name":"Maehma",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.77778,
+    58.39528000000001,
+    25.77778,
+    58.39528000000001
+],
+  "geometry": {"coordinates":[25.77778,58.39528000000001],"type":"Point"}
+}

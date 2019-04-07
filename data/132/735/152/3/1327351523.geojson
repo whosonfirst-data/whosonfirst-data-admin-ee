@@ -1,0 +1,73 @@
+{
+  "id": 1327351523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.36667,59.39639,24.36667,59.39639",
+    "geom:latitude":59.39639,
+    "geom:longitude":24.36667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"198.0",
+    "gn:admin3_code":"9683.0",
+    "gn:asciiname":"Vaila",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587903,
+    "gn:latitude":59.39639,
+    "gn:longitude":24.36667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Vaila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vayla",
+        "Vaila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587903,
+        "wk:page":"Vaila%2C_Estonia"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"164a3a020ab4997858b5455405eb2533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327351523,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1327351523,
+    "wof:lastmodified":1537620292,
+    "wof:name":"Vaila",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.36667000000001,
+    59.39639,
+    24.36667000000001,
+    59.39639
+],
+  "geometry": {"coordinates":[24.36667000000001,59.39639],"type":"Point"}
+}

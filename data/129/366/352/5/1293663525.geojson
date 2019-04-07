@@ -1,0 +1,71 @@
+{
+  "id": 1293663525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.49306,58.13444,25.49306,58.13444",
+    "geom:latitude":58.13444,
+    "geom:longitude":25.49306,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"480.0",
+    "gn:admin3_code":"1199.0",
+    "gn:asciiname":"Maegiste",
+    "gn:country_code":"EE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620756,
+    "gn:latitude":58.13444,
+    "gn:longitude":25.49306,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00e4giste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e4giste",
+        "M\u00e4kiste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620756
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"527423b44142dc60e40dff62f4ceaaee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293663525,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1293663525,
+    "wof:lastmodified":1537620536,
+    "wof:name":"Maegiste",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.49306,
+    58.13444000000001,
+    25.49306,
+    58.13444000000001
+],
+  "geometry": {"coordinates":[25.49306,58.13444000000001],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 1126045081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.59694,58.18861,24.59694,58.18861",
+    "geom:latitude":58.18861,
+    "geom:longitude":24.59694,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":125,
+    "gn:population":125,
+    "iso:country":"EE",
+    "lbl:latitude":58.18861,
+    "lbl:longitude":24.59694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054d\u0578\u0578\u0574\u0565\u0581\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u043c\u0435\u0446\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Soometsa"
+    ],
+    "name:eng_x_preferred":[
+        "Soometsa"
+    ],
+    "name:est_x_preferred":[
+        "Soometsa"
+    ],
+    "name:pol_x_preferred":[
+        "Soometsa"
+    ],
+    "name:swe_x_preferred":[
+        "Soometsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043e\u043c\u0435\u0442\u0441\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Sometsa"
+    ],
+    "name:vol_x_preferred":[
+        "Soometsa"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":588612,
+    "qs_pg:gn_pop":125,
+    "qs_pg:name":"Soometsa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":550122,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588612,
+        "qs_pg:id":550122,
+        "wd:id":"Q3454403"
+    },
+    "wof:country":"EE",
+    "wof:created":1497302385,
+    "wof:geomhash":"8a861331f833b3250df98dceea6eb6de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126045081,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1126045081,
+    "wof:lastmodified":1513956513,
+    "wof:name":"Soometsa",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:population":125,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.59694,
+    58.18861,
+    24.59694,
+    58.18861
+],
+  "geometry": {"coordinates":[24.59694,58.18861],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343349579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88167,58.31806,24.88167,58.31806",
+    "geom:latitude":58.31806,
+    "geom:longitude":24.88167,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"712.0",
+    "gn:admin3_code":"3061.0",
+    "gn:asciiname":"Soo-otsa",
+    "gn:country_code":"EE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620632,
+    "gn:latitude":58.31806,
+    "gn:longitude":24.88167,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Soo-otsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tohlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620632
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"9ab4ea0c9ed2f7df4b829346c343aed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343349579,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1343349579,
+    "wof:lastmodified":1537620534,
+    "wof:name":"Soo-otsa",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88167,
+    58.31806,
+    24.88167,
+    58.31806
+],
+  "geometry": {"coordinates":[24.88167,58.31806],"type":"Point"}
+}

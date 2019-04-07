@@ -1,0 +1,71 @@
+{
+  "id": 1209880567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.04944,57.79111,27.04944,57.79111",
+    "geom:latitude":57.79111,
+    "geom:longitude":27.04944,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"7576.0",
+    "gn:asciiname":"Kahromotsa",
+    "gn:country_code":"EE",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620197,
+    "gn:latitude":57.79111,
+    "gn:longitude":27.04944,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kahrom\u00f5tsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kahrom\u00f5tsa",
+        "Kahrometsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620197
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"438e9b657e2fc36f2451eb4ff421ea72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1209880567,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1209880567,
+    "wof:lastmodified":1537620524,
+    "wof:name":"Kahromotsa",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.04944,
+    57.79111,
+    27.04944,
+    57.79111
+],
+  "geometry": {"coordinates":[27.04944,57.79111],"type":"Point"}
+}

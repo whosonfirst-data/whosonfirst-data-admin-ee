@@ -1,0 +1,72 @@
+{
+  "id": 1276528211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.52528,58.05417,27.52528,58.05417",
+    "geom:latitude":58.05417,
+    "geom:longitude":27.52528,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"732.0",
+    "gn:admin3_code":"9078.0",
+    "gn:asciiname":"Varesmaee",
+    "gn:country_code":"EE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587752,
+    "gn:latitude":58.05417,
+    "gn:longitude":27.52528,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Varesm\u00e4e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Varesmyae",
+        "Varesm\u00e4e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587752,
+        "wk:page":"Varesm%C3%A4e"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"2f6f9a14be933d1c59942b329a914097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276528211,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1276528211,
+    "wof:lastmodified":1537620287,
+    "wof:name":"Varesmaee",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.52528,
+    58.05416999999999,
+    27.52528,
+    58.05416999999999
+],
+  "geometry": {"coordinates":[27.52528,58.05416999999999],"type":"Point"}
+}

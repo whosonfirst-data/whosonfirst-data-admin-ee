@@ -1,0 +1,67 @@
+{
+  "id": 1293669217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.97611,57.98306,26.97611,57.98306",
+    "geom:latitude":57.98306,
+    "geom:longitude":26.97611,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"622.0",
+    "gn:admin3_code":"5059.0",
+    "gn:asciiname":"Maeni",
+    "gn:country_code":"EE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619977,
+    "gn:latitude":57.98306,
+    "gn:longitude":26.97611,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00e4ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619977
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"511f9fa82e3e3af66750c8e4ac187260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293669217,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1293669217,
+    "wof:lastmodified":1537021394,
+    "wof:name":"Maeni",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.97611,
+    57.98306,
+    26.97611,
+    57.98306
+],
+  "geometry": {"coordinates":[26.97611,57.98306],"type":"Point"}
+}

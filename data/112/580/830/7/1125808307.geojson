@@ -1,0 +1,80 @@
+{
+  "id": 1125808307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5511205,59.551237,24.5511205,59.551237",
+    "geom:latitude":59.551237,
+    "geom:longitude":24.55112,
+    "gn:gn_country":"EE",
+    "iso:country":"EE",
+    "lbl:latitude":59.551237,
+    "lbl:longitude":24.55112,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:name":"L\u00e4\u00e4nek\u00fcla",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Harjumaa",
+    "qs_pg:photos":28,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":28,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":218213,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":29397780,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Harjumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29397780,
+        "qs_pg:id":218213
+    },
+    "wof:country":"EE",
+    "wof:created":1497291553,
+    "wof:geomhash":"971703e5913edd172b094dd3078aea11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125808307,
+            "region_id":85683037
+        }
+    ],
+    "wof:id":1125808307,
+    "wof:lastmodified":1509393406,
+    "wof:name":"L\u00e4\u00e4nek\u00fcla",
+    "wof:parent_id":85683037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5511205,
+    59.551237,
+    24.5511205,
+    59.551237
+],
+  "geometry": {"coordinates":[24.5511205,59.551237],"type":"Point"}
+}

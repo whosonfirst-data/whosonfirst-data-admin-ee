@@ -1,0 +1,71 @@
+{
+  "id": 1242568493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.36611,59.30694,26.36611,59.30694",
+    "geom:latitude":59.30694,
+    "geom:longitude":26.36611,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"5212.0",
+    "gn:asciiname":"Maeetaguse",
+    "gn:country_code":"EE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619634,
+    "gn:latitude":59.30694,
+    "gn:longitude":26.36611,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00e4etaguse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e4etaguse",
+        "Maetaguse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619634
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"1b147f559d42b774a4bd784a3a12b57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242568493,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1242568493,
+    "wof:lastmodified":1537620512,
+    "wof:name":"Maeetaguse",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.36611,
+    59.30694,
+    26.36611,
+    59.30694
+],
+  "geometry": {"coordinates":[26.36611,59.30694],"type":"Point"}
+}

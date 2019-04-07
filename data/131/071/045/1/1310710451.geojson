@@ -1,0 +1,72 @@
+{
+  "id": 1310710451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.9519,58.89879,22.9519,58.89879",
+    "geom:latitude":58.89879,
+    "geom:longitude":22.9519,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"2959.0",
+    "gn:asciiname":"Kerema",
+    "gn:country_code":"EE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591460,
+    "gn:latitude":58.89879,
+    "gn:longitude":22.9519,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kerema",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kermea",
+        "Kerema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591460,
+        "wk:page":"Kerema%2C_Estonia"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d626f2822b4ebededeb11154116999c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310710451,
+            "region_id":85682989
+        }
+    ],
+    "wof:id":1310710451,
+    "wof:lastmodified":1537620420,
+    "wof:name":"Kerema",
+    "wof:parent_id":85682989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.9519,
+    58.89879000000001,
+    22.9519,
+    58.89879000000001
+],
+  "geometry": {"coordinates":[22.9519,58.89879000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293758059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.77139,58.11611,25.77139,58.11611",
+    "geom:latitude":58.11611,
+    "geom:longitude":25.77139,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"899.0",
+    "gn:admin3_code":"9186.0",
+    "gn:asciiname":"Jaervekuru",
+    "gn:country_code":"EE",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620341,
+    "gn:latitude":58.11611,
+    "gn:longitude":25.77139,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"J\u00e4rvekuru",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00e4rvekuru",
+        "J\u00e4rvek\u00fcl\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620341
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"57d56497c342b0aa52efab5d1d8d91c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293758059,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1293758059,
+    "wof:lastmodified":1537620528,
+    "wof:name":"Jaervekuru",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.77139,
+    58.11611,
+    25.77139,
+    58.11611
+],
+  "geometry": {"coordinates":[25.77139,58.11611],"type":"Point"}
+}

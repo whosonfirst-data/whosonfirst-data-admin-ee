@@ -1,0 +1,68 @@
+{
+  "id": 1276356245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.13361,59.27861,26.13361,59.27861",
+    "geom:latitude":59.27861,
+    "geom:longitude":26.13361,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"272.0",
+    "gn:admin3_code":"6004.0",
+    "gn:asciiname":"Pariisi",
+    "gn:country_code":"EE",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793271,
+    "gn:latitude":59.27861,
+    "gn:longitude":26.13361,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pariisi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793271,
+        "wk:page":"Pariisi"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"6a51ea3506b1143b2aa515e324662cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276356245,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1276356245,
+    "wof:lastmodified":1537562532,
+    "wof:name":"Pariisi",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.13361,
+    59.27861,
+    26.13361,
+    59.27861
+],
+  "geometry": {"coordinates":[26.13361,59.27861],"type":"Point"}
+}

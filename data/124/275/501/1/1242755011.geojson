@@ -1,0 +1,71 @@
+{
+  "id": 1242755011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9175,58.05111,26.9175,58.05111",
+    "geom:latitude":58.05111,
+    "geom:longitude":26.9175,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"284.0",
+    "gn:admin3_code":"2007.0",
+    "gn:asciiname":"Sora",
+    "gn:country_code":"EE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620726,
+    "gn:latitude":58.05111,
+    "gn:longitude":26.9175,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"S\u00f5ra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f5ra",
+        "Sook\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620726
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5987dda830874d1f415555a06c849c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242755011,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1242755011,
+    "wof:lastmodified":1537620536,
+    "wof:name":"Sora",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9175,
+    58.05111,
+    26.9175,
+    58.05111
+],
+  "geometry": {"coordinates":[26.9175,58.05111],"type":"Point"}
+}

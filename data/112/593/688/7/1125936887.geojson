@@ -1,0 +1,108 @@
+{
+  "id": 1125936887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.88111,58.30028,25.88111,58.30028",
+    "geom:latitude":58.30028,
+    "geom:longitude":25.88111,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":106,
+    "gn:population":106,
+    "iso:country":"EE",
+    "lbl:latitude":58.30028,
+    "lbl:longitude":25.88111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054e\u0565\u056c\u0578\u0582\u057d\u057f\u0565"
+    ],
+    "name:dut_x_preferred":[
+        "V\u00e4luste"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00e4luste"
+    ],
+    "name:est_x_preferred":[
+        "V\u00e4luste"
+    ],
+    "name:pol_x_preferred":[
+        "V\u00e4luste"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00e4luste"
+    ],
+    "name:unk_x_variant":[
+        "Vyaluste"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":587829,
+    "qs_pg:gn_pop":106,
+    "qs_pg:name":"V\u00e4luste",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Viljandimaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1274717,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":846261,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Viljandimaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587829,
+        "gp:id":846261,
+        "qs_pg:id":1274717,
+        "wd:id":"Q12379019"
+    },
+    "wof:country":"EE",
+    "wof:created":1497296994,
+    "wof:geomhash":"ec1f2eafbe623e2953b7a51b434bc485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125936887,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1125936887,
+    "wof:lastmodified":1513956579,
+    "wof:name":"V\u00e4luste",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:population":106,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88111,
+    58.30028,
+    25.88111,
+    58.30028
+],
+  "geometry": {"coordinates":[25.88111,58.30028],"type":"Point"}
+}

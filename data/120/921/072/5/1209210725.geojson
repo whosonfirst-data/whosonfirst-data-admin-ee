@@ -1,0 +1,64 @@
+{
+  "id": 1209210725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.45199,59.36089,26.45199,59.36089",
+    "geom:latitude":59.36089,
+    "geom:longitude":26.45199,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"661.0",
+    "gn:admin3_code":"2405.0",
+    "gn:asciiname":"Kaarli",
+    "gn:country_code":"EE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793455,
+    "gn:latitude":59.36089,
+    "gn:longitude":26.45199,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kaarli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793455,
+        "wk:page":"Kaarli%2C_L%C3%A4%C3%A4ne-Viru_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"f3eaac4a74a74d2e9b4d9a836557c7d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209210725
+        }
+    ],
+    "wof:id":1209210725,
+    "wof:lastmodified":1537562536,
+    "wof:name":"Kaarli",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.45199,
+    59.36089000000001,
+    26.45199,
+    59.36089000000001
+],
+  "geometry": {"coordinates":[26.45199,59.36089000000001],"type":"Point"}
+}

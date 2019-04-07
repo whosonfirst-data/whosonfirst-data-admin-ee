@@ -1,0 +1,125 @@
+{
+  "id": 1125870785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.79806,58.36917,26.79806,58.36917",
+    "geom:latitude":58.36917,
+    "geom:longitude":26.79806,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":776,
+    "gn:population":776,
+    "iso:country":"EE",
+    "lbl:latitude":58.36917,
+    "lbl:longitude":26.79806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053c\u0578\u0570\u056f\u057e\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u0445\u043a\u0432\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Lohkva"
+    ],
+    "name:eng_x_preferred":[
+        "Lohkva"
+    ],
+    "name:est_x_preferred":[
+        "Lohkva"
+    ],
+    "name:fre_x_preferred":[
+        "Lohkva"
+    ],
+    "name:ger_x_preferred":[
+        "Lohkva"
+    ],
+    "name:pol_x_preferred":[
+        "Lohkva"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0445\u043a\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lohkva"
+    ],
+    "name:unk_x_variant":[
+        "Sur Lokhkva"
+    ],
+    "name:vol_x_preferred":[
+        "Lohkva"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":590570,
+    "qs_pg:gn_pop":776,
+    "qs_pg:name":"Lohkva",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Tartumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":179825,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":843722,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Tartumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590570,
+        "gp:id":843722,
+        "qs_pg:id":179825,
+        "wd:id":"Q1023566"
+    },
+    "wof:country":"EE",
+    "wof:created":1497294287,
+    "wof:geomhash":"77778e7d9314e63a01f41dd0e1c61776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125870785,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1125870785,
+    "wof:lastmodified":1513956422,
+    "wof:name":"Lohkva",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:population":776,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.79806,
+    58.36917,
+    26.79806,
+    58.36917
+],
+  "geometry": {"coordinates":[26.79806,58.36917],"type":"Point"}
+}

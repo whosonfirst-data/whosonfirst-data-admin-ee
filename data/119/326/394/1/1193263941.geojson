@@ -1,0 +1,68 @@
+{
+  "id": 1193263941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.09806,59.13833,26.09806,59.13833",
+    "geom:latitude":59.13833,
+    "geom:longitude":26.09806,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"792.0",
+    "gn:admin3_code":"1315.0",
+    "gn:asciiname":"Araski",
+    "gn:country_code":"EE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618640,
+    "gn:latitude":59.13833,
+    "gn:longitude":26.09806,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Araski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618640,
+        "wk:page":"Araski"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"9ec966b8ea3c1cae68350668b3c7f4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1193263941,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1193263941,
+    "wof:lastmodified":1537562555,
+    "wof:name":"Araski",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.09806,
+    59.13833,
+    26.09806,
+    59.13833
+],
+  "geometry": {"coordinates":[26.09806,59.13833],"type":"Point"}
+}

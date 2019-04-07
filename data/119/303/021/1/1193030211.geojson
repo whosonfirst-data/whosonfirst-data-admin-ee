@@ -1,0 +1,73 @@
+{
+  "id": 1193030211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.46444,59.11222,24.46444,59.11222",
+    "geom:latitude":59.11222,
+    "geom:longitude":24.46444,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"726.0",
+    "gn:admin3_code":"3705.0",
+    "gn:asciiname":"Kustja",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590904,
+    "gn:latitude":59.11222,
+    "gn:longitude":24.46444,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kustja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kust\u2019ya",
+        "Kustja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590904,
+        "wk:page":"Kustja"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"2483de58e62d5f904994b7a576ae8c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1193030211,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1193030211,
+    "wof:lastmodified":1537620399,
+    "wof:name":"Kustja",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.46444,
+    59.11221999999999,
+    24.46444,
+    59.11221999999999
+],
+  "geometry": {"coordinates":[24.46444,59.11221999999999],"type":"Point"}
+}

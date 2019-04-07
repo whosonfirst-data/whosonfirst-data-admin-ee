@@ -1,0 +1,67 @@
+{
+  "id": 1276834397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0925,58.07472,25.0925,58.07472",
+    "geom:latitude":58.07472,
+    "geom:longitude":25.0925,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"480.0",
+    "gn:admin3_code":"6689.0",
+    "gn:asciiname":"Raamatu",
+    "gn:country_code":"EE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793850,
+    "gn:latitude":58.07472,
+    "gn:longitude":25.0925,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Raamatu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793850
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"15f259fc0a34a935e524c61b46499368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276834397,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1276834397,
+    "wof:lastmodified":1536601447,
+    "wof:name":"Raamatu",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0925,
+    58.07471999999999,
+    25.0925,
+    58.07471999999999
+],
+  "geometry": {"coordinates":[25.0925,58.07471999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293651043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.68389,58.30583,25.68389,58.30583",
+    "geom:latitude":58.30583,
+    "geom:longitude":25.68389,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"899.0",
+    "gn:admin3_code":"6276.0",
+    "gn:asciiname":"Pirmastu",
+    "gn:country_code":"EE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589424,
+    "gn:latitude":58.30583,
+    "gn:longitude":25.68389,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pirmastu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pirmastu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u043c\u0430\u0441\u0442\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589424
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"0d75493af4a8ce5c2f6f2b259ae1c923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293651043,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1293651043,
+    "wof:lastmodified":1537620346,
+    "wof:name":"Pirmastu",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.68389,
+    58.30583000000001,
+    25.68389,
+    58.30583000000001
+],
+  "geometry": {"coordinates":[25.68389,58.30583000000001],"type":"Point"}
+}

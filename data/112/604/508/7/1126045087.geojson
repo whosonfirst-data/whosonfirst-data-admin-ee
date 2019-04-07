@@ -1,0 +1,104 @@
+{
+  "id": 1126045087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.02917,59.19444,25.02917,59.19444",
+    "geom:latitude":59.19444,
+    "geom:longitude":25.02917,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":103,
+    "gn:population":103,
+    "iso:country":"EE",
+    "lbl:latitude":59.19444,
+    "lbl:longitude":25.02917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0578\u0582\u056c\u0561"
+    ],
+    "name:dut_x_preferred":[
+        "Saula"
+    ],
+    "name:eng_x_preferred":[
+        "Saula"
+    ],
+    "name:est_x_preferred":[
+        "Saula"
+    ],
+    "name:fre_x_preferred":[
+        "Saula"
+    ],
+    "name:pol_x_preferred":[
+        "Saula"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0443\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Saula"
+    ],
+    "name:vol_x_preferred":[
+        "Saula"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":588771,
+    "qs_pg:gn_pop":103,
+    "qs_pg:name":"Saula",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":550126,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588771,
+        "qs_pg:id":550126,
+        "wd:id":"Q2617005"
+    },
+    "wof:country":"EE",
+    "wof:created":1497302385,
+    "wof:geomhash":"2e5de1d9f4ca0d8ec71dad428821525d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126045087,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1126045087,
+    "wof:lastmodified":1513956510,
+    "wof:name":"Saula",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:population":103,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.02917,
+    59.19444,
+    25.02917,
+    59.19444
+],
+  "geometry": {"coordinates":[25.02917,59.19444],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209489101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.70833,58.49417,22.70833,58.49417",
+    "geom:latitude":58.49417,
+    "geom:longitude":22.70833,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"714.0",
+    "gn:admin3_code":"8443.0",
+    "gn:asciiname":"Tutku",
+    "gn:country_code":"EE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620483,
+    "gn:latitude":58.49417,
+    "gn:longitude":22.70833,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Tutku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620483,
+        "wk:page":"Tutku%2C_Estonia"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"9bcc4a3450129635472527b3412f413b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209489101
+        }
+    ],
+    "wof:id":1209489101,
+    "wof:lastmodified":1537620531,
+    "wof:name":"Tutku",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.70833,
+    58.49417,
+    22.70833,
+    58.49417
+],
+  "geometry": {"coordinates":[22.70833,58.49417],"type":"Point"}
+}

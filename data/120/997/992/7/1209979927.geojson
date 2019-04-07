@@ -1,0 +1,70 @@
+{
+  "id": 1209979927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.29361,58.28028,26.29361,58.28028",
+    "geom:latitude":58.28028,
+    "geom:longitude":26.29361,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"171.0",
+    "gn:admin3_code":"4256.0",
+    "gn:asciiname":"Karjalepiku",
+    "gn:country_code":"EE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620447,
+    "gn:latitude":58.28028,
+    "gn:longitude":26.29361,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Karjalepiku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u041a\u0430\u0440\u0456\u044f\u0440\u0432\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620447
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a085211236bc5572dda95c64f838e922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1209979927,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1209979927,
+    "wof:lastmodified":1537620530,
+    "wof:name":"Karjalepiku",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.29361,
+    58.28028000000001,
+    26.29361,
+    58.28028000000001
+],
+  "geometry": {"coordinates":[26.29361,58.28028000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360094521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.74296,59.24962,24.74296,59.24962",
+    "geom:latitude":59.24962,
+    "geom:longitude":24.74296,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"718.0",
+    "gn:admin3_code":"3119.0",
+    "gn:asciiname":"Kirdalu",
+    "gn:country_code":"EE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591364,
+    "gn:latitude":59.24962,
+    "gn:longitude":24.74296,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kirdalu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591364,
+        "wk:page":"Kirdalu"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"1829bd46356fd1cde3bc7bc262480ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1360094521,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1360094521,
+    "wof:lastmodified":1537562514,
+    "wof:name":"Kirdalu",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.74296,
+    59.24961999999999,
+    24.74296,
+    59.24961999999999
+],
+  "geometry": {"coordinates":[24.74296,59.24961999999999],"type":"Point"}
+}

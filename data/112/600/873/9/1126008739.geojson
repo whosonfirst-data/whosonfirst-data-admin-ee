@@ -1,0 +1,107 @@
+{
+  "id": 1126008739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.04806,58.27833,27.04806,58.27833",
+    "geom:latitude":58.27833,
+    "geom:longitude":27.04806,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":630,
+    "gn:population":630,
+    "iso:country":"EE",
+    "lbl:latitude":58.27833,
+    "lbl:longitude":27.04806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054e\u056b\u0576\u0576\u0578\u0582"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00f5nnu"
+    ],
+    "name:est_x_preferred":[
+        "V\u00f5nnu alevik"
+    ],
+    "name:fre_x_preferred":[
+        "V\u00f5nnu alevik"
+    ],
+    "name:unk_x_variant":[
+        "Mys Vynnu"
+    ],
+    "name:vol_x_preferred":[
+        "V\u00f5nnu"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":587474,
+    "qs_pg:gn_pop":630,
+    "qs_pg:name":"V\u00f5nnu",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Tartumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":93,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":111219,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":846573,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Tartumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587474,
+        "gp:id":846573,
+        "qs_pg:id":111219,
+        "wd:id":"Q3468782"
+    },
+    "wof:country":"EE",
+    "wof:created":1497300138,
+    "wof:geomhash":"cb3789b9e442cde76f10137c0e0b6a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126008739,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1126008739,
+    "wof:lastmodified":1513956581,
+    "wof:name":"V\u00f5nnu",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:population":630,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.04806,
+    58.27833,
+    27.04806,
+    58.27833
+],
+  "geometry": {"coordinates":[27.04806,58.27833],"type":"Point"}
+}

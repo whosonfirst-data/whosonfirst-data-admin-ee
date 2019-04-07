@@ -1,0 +1,70 @@
+{
+  "id": 1243341709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0075,58.02028,25.0075,58.02028",
+    "geom:latitude":58.02028,
+    "geom:longitude":25.0075,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"712.0",
+    "gn:admin3_code":"2370.0",
+    "gn:asciiname":"Kiisa",
+    "gn:country_code":"EE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620723,
+    "gn:latitude":58.02028,
+    "gn:longitude":25.0075,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kiisa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiissa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620723
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"64825b8fcac4f6a0663b730b3b6a2aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243341709,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1243341709,
+    "wof:lastmodified":1537620535,
+    "wof:name":"Kiisa",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0075,
+    58.02028000000001,
+    25.0075,
+    58.02028000000001
+],
+  "geometry": {"coordinates":[25.0075,58.02028000000001],"type":"Point"}
+}

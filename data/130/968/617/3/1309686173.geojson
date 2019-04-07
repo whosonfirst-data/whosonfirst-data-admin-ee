@@ -1,0 +1,70 @@
+{
+  "id": 1309686173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.14139,57.80083,27.14139,57.80083",
+    "geom:latitude":57.80083,
+    "geom:longitude":27.14139,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"7292.0",
+    "gn:asciiname":"Saaremaa",
+    "gn:country_code":"EE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620169,
+    "gn:latitude":57.80083,
+    "gn:longitude":27.14139,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Saaremaa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saar\u00f5maa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620169
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c9c674f3aba4f875b093c78e6a57e714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1309686173,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1309686173,
+    "wof:lastmodified":1537620523,
+    "wof:name":"Saaremaa",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.14139,
+    57.80083000000001,
+    27.14139,
+    57.80083000000001
+],
+  "geometry": {"coordinates":[27.14139,57.80083000000001],"type":"Point"}
+}

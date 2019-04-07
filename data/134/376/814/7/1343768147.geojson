@@ -1,0 +1,80 @@
+{
+  "id": 1343768147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.73611,58.68778,25.73611,58.68778",
+    "geom:latitude":58.68778,
+    "geom:longitude":25.73611,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"255.0",
+    "gn:admin3_code":"1567.0",
+    "gn:asciiname":"Eistvere",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592294,
+    "gn:latitude":58.68778,
+    "gn:longitude":25.73611,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Eistvere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Eistvere"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0438\u0441\u0442\u0432\u0435\u0440\u0435"
+    ],
+    "name:und_x_variant":[
+        "Myza Eystvere",
+        "Eistvere Asundus",
+        "Eistvere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592294,
+        "wk:page":"Eistvere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c3a0dcfec54895e017bd533973e6c428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343768147,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1343768147,
+    "wof:lastmodified":1537620452,
+    "wof:name":"Eistvere",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.73611,
+    58.68778,
+    25.73611,
+    58.68778
+],
+  "geometry": {"coordinates":[25.73611,58.68778],"type":"Point"}
+}

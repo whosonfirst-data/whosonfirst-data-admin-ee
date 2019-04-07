@@ -1,0 +1,74 @@
+{
+  "id": 1343921195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.11472,58.61,27.11472,58.61",
+    "geom:latitude":58.61,
+    "geom:longitude":27.11472,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"586.0",
+    "gn:admin3_code":"6057.0",
+    "gn:asciiname":"Peatskivi",
+    "gn:country_code":"EE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589548,
+    "gn:latitude":58.61,
+    "gn:longitude":27.11472,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Peatskivi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Peatskivi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u0442\u0441\u043a\u0438\u0432\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589548,
+        "wk:page":"Peatskivi"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d68e2452284c36296369461819c52e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343921195,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1343921195,
+    "wof:lastmodified":1537620351,
+    "wof:name":"Peatskivi",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.11472,
+    58.61,
+    27.11472,
+    58.61
+],
+  "geometry": {"coordinates":[27.11472,58.61],"type":"Point"}
+}

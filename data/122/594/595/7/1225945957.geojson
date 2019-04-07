@@ -1,0 +1,68 @@
+{
+  "id": 1225945957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.32694,59.11278,27.32694,59.11278",
+    "geom:latitude":59.11278,
+    "geom:longitude":27.32694,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"130.0",
+    "gn:admin3_code":"4418.0",
+    "gn:asciiname":"Lipniku",
+    "gn:country_code":"EE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793497,
+    "gn:latitude":59.11278,
+    "gn:longitude":27.32694,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Lipniku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793497,
+        "wk:page":"Lipniku"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"19eb8748784f2f4276255fe5313568e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1225945957,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1225945957,
+    "wof:lastmodified":1537562537,
+    "wof:name":"Lipniku",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.32694,
+    59.11278000000001,
+    27.32694,
+    59.11278000000001
+],
+  "geometry": {"coordinates":[27.32694,59.11278000000001],"type":"Point"}
+}

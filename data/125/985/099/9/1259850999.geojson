@@ -1,0 +1,70 @@
+{
+  "id": 1259850999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41583,58.69556,24.41583,58.69556",
+    "geom:latitude":58.69556,
+    "geom:longitude":24.41583,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"5937.0",
+    "gn:asciiname":"Pallika",
+    "gn:country_code":"EE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618204,
+    "gn:latitude":58.69556,
+    "gn:longitude":24.41583,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pallika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pallika-Kivinuki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618204
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"6f965589ae1960aeed9d2bab06b6b13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259850999,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1259850999,
+    "wof:lastmodified":1537620483,
+    "wof:name":"Pallika",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41583,
+    58.69556,
+    24.41583,
+    58.69556
+],
+  "geometry": {"coordinates":[24.41583,58.69556],"type":"Point"}
+}

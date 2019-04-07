@@ -1,0 +1,68 @@
+{
+  "id": 1327347533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.30611,59.26944,24.30611,59.26944",
+    "geom:latitude":59.26944,
+    "geom:longitude":24.30611,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"431.0",
+    "gn:admin3_code":"5343.0",
+    "gn:asciiname":"Nahkjala",
+    "gn:country_code":"EE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":794942,
+    "gn:latitude":59.26944,
+    "gn:longitude":24.30611,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Nahkjala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794942,
+        "wk:page":"Nahkjala"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a6110c6623fbb86f13cf407691a6d928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327347533,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1327347533,
+    "wof:lastmodified":1537562551,
+    "wof:name":"Nahkjala",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.30611,
+    59.26944,
+    24.30611,
+    59.26944
+],
+  "geometry": {"coordinates":[24.30611,59.26944],"type":"Point"}
+}

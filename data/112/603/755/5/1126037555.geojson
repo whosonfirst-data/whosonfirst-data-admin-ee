@@ -1,0 +1,122 @@
+{
+  "id": 1126037555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.81,58.145,25.81,58.145",
+    "geom:latitude":58.145,
+    "geom:longitude":25.81,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":300,
+    "gn:population":300,
+    "iso:country":"EE",
+    "lbl:latitude":58.145,
+    "lbl:longitude":25.81,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053f\u0565\u057c\u057d\u057f\u0576\u0561"
+    ],
+    "name:dut_x_preferred":[
+        "K\u00e4rstna"
+    ],
+    "name:eng_x_preferred":[
+        "K\u00e4rstna"
+    ],
+    "name:est_x_preferred":[
+        "K\u00e4rstna"
+    ],
+    "name:fre_x_preferred":[
+        "K\u00e4rstna"
+    ],
+    "name:pol_x_preferred":[
+        "K\u00e4rstna"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044f\u0440\u0441\u0442\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "K\u00e4rstna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0437\u0430 \u041a\u044f\u0440\u0441\u0442\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kyarstna"
+    ],
+    "name:vol_x_preferred":[
+        "K\u00e4rstna"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":591572,
+    "qs_pg:gn_pop":300,
+    "qs_pg:name":"K\u00e4rstna",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Viljandimaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":966744,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":842778,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Viljandimaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591572,
+        "gp:id":842778,
+        "qs_pg:id":966744,
+        "wd:id":"Q3058498"
+    },
+    "wof:country":"EE",
+    "wof:created":1497301891,
+    "wof:geomhash":"2e442456635f1906c449f5c876dd1d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126037555,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1126037555,
+    "wof:lastmodified":1513956413,
+    "wof:name":"K\u00e4rstna",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.81,
+    58.145,
+    25.81,
+    58.145
+],
+  "geometry": {"coordinates":[25.81,58.145],"type":"Point"}
+}

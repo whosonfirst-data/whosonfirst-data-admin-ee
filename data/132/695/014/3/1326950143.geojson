@@ -1,0 +1,71 @@
+{
+  "id": 1326950143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.51111,59.19583,26.51111,59.19583",
+    "geom:latitude":59.19583,
+    "geom:longitude":26.51111,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"1372.0",
+    "gn:asciiname":"Ridakuela",
+    "gn:country_code":"EE",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618801,
+    "gn:latitude":59.19583,
+    "gn:longitude":26.51111,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Ridak\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ridak\u00fcla",
+        "Ridak\u00fclla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618801
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"2a70cac2cb67a7261824a2ead3003f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1326950143,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1326950143,
+    "wof:lastmodified":1537620495,
+    "wof:name":"Ridakuela",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.51111,
+    59.19583000000001,
+    26.51111,
+    59.19583000000001
+],
+  "geometry": {"coordinates":[26.51111,59.19583000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243360381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.76639,59.43333,26.76639,59.43333",
+    "geom:latitude":59.43333,
+    "geom:longitude":26.76639,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"5802.0",
+    "gn:asciiname":"Pada-Arukuela",
+    "gn:country_code":"EE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592395,
+    "gn:latitude":59.43333,
+    "gn:longitude":26.76639,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pada-Aruk\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arukyula",
+        "Aruk\u00fcla",
+        "Pada-Aruk\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592395,
+        "wk:page":"Pada-Aruk%C3%BCla"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c7fce7b066e69c0e521c8b39b8116266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243360381,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1243360381,
+    "wof:lastmodified":1537620456,
+    "wof:name":"Pada-Arukuela",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.76639,
+    59.43333000000001,
+    26.76639,
+    59.43333000000001
+],
+  "geometry": {"coordinates":[26.76639,59.43333000000001],"type":"Point"}
+}

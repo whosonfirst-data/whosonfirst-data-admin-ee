@@ -1,0 +1,73 @@
+{
+  "id": 1226154661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8225,59.01778,26.8225,59.01778",
+    "geom:latitude":59.01778,
+    "geom:longitude":26.8225,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"486.0",
+    "gn:admin3_code":"5774.0",
+    "gn:asciiname":"Paadenurme",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589770,
+    "gn:latitude":59.01778,
+    "gn:longitude":26.8225,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Paadenurme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Padenurme",
+        "Paadenurme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589770,
+        "wk:page":"Paadenurme"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5b68883b69942612b4be38e60f93a777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226154661,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1226154661,
+    "wof:lastmodified":1537620358,
+    "wof:name":"Paadenurme",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8225,
+    59.01778,
+    26.8225,
+    59.01778
+],
+  "geometry": {"coordinates":[26.8225,59.01778],"type":"Point"}
+}

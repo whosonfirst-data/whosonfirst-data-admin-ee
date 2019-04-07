@@ -1,0 +1,71 @@
+{
+  "id": 1226462545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.58889,59.37444,26.58889,59.37444",
+    "geom:latitude":59.37444,
+    "geom:longitude":26.58889,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"661.0",
+    "gn:admin3_code":"7927.0",
+    "gn:asciiname":"Jaeneskuela",
+    "gn:country_code":"EE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618702,
+    "gn:latitude":59.37444,
+    "gn:longitude":26.58889,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"J\u00e4nesk\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00e4nesk\u00fcla",
+        "S\u00e4mi-J\u00e4nesk\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618702
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"89ee0ccfb14a47a1f0a51a78b8236d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226462545,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1226462545,
+    "wof:lastmodified":1537620493,
+    "wof:name":"Jaeneskuela",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.58889000000001,
+    59.37444,
+    26.58889000000001,
+    59.37444
+],
+  "geometry": {"coordinates":[26.58889000000001,59.37444],"type":"Point"}
+}

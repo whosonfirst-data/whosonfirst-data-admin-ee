@@ -1,0 +1,72 @@
+{
+  "id": 1293467939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.11667,58.68333,25.11667,58.68333",
+    "geom:latitude":58.68333,
+    "geom:longitude":25.11667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"638.0",
+    "gn:admin3_code":"9524.0",
+    "gn:asciiname":"Vanaoue",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587795,
+    "gn:latitude":58.68333,
+    "gn:longitude":25.11667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Vana\u00f5ue",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vanayue",
+        "Vana\u00f5ue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587795
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"eb3f35f9c565c19b948c0981848d14f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293467939,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1293467939,
+    "wof:lastmodified":1537620289,
+    "wof:name":"Vanaoue",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.11667000000001,
+    58.68333000000001,
+    25.11667000000001,
+    58.68333000000001
+],
+  "geometry": {"coordinates":[25.11667000000001,58.68333000000001],"type":"Point"}
+}

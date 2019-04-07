@@ -1,0 +1,68 @@
+{
+  "id": 1309772315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.84583,58.35889,26.84583,58.35889",
+    "geom:latitude":58.35889,
+    "geom:longitude":26.84583,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"432.0",
+    "gn:admin3_code":"6552.0",
+    "gn:asciiname":"Kabina",
+    "gn:country_code":"EE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591809,
+    "gn:latitude":58.35889,
+    "gn:longitude":26.84583,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kabina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591809,
+        "wk:page":"Kabina"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"1128525b1651ab7270afe15cfaba072e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1309772315,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1309772315,
+    "wof:lastmodified":1537562521,
+    "wof:name":"Kabina",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.84583,
+    58.35889,
+    26.84583,
+    58.35889
+],
+  "geometry": {"coordinates":[26.84583,58.35889],"type":"Point"}
+}

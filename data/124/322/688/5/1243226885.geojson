@@ -1,0 +1,73 @@
+{
+  "id": 1243226885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.32444,58.37361,26.32444,58.37361",
+    "geom:latitude":58.37361,
+    "geom:longitude":26.32444,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"171.0",
+    "gn:admin3_code":"6328.0",
+    "gn:asciiname":"Nasja",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590029,
+    "gn:latitude":58.37361,
+    "gn:longitude":26.32444,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Nasja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naz\u2019ya",
+        "Nasja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590029,
+        "wk:page":"Nasja"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c0c2cb50a301d99c0ab8edc620864f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243226885,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1243226885,
+    "wof:lastmodified":1537620368,
+    "wof:name":"Nasja",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.32444000000001,
+    58.37361,
+    26.32444000000001,
+    58.37361
+],
+  "geometry": {"coordinates":[26.32444000000001,58.37361],"type":"Point"}
+}

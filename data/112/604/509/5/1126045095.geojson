@@ -1,0 +1,110 @@
+{
+  "id": 1126045095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.79722,59.55694,24.79722,59.55694",
+    "geom:latitude":59.55694,
+    "geom:longitude":24.79722,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":316,
+    "gn:population":316,
+    "iso:country":"EE",
+    "lbl:latitude":59.55694,
+    "lbl:longitude":24.79722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054c\u0578\u0570\u0578\u0582\u0576\u0565\u0565\u0574\u0565"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0445\u0443\u043d\u0435\u043c\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Rohuneeme"
+    ],
+    "name:eng_x_preferred":[
+        "Rohuneeme"
+    ],
+    "name:est_x_preferred":[
+        "Rohuneeme"
+    ],
+    "name:fre_x_preferred":[
+        "Rohuneeme"
+    ],
+    "name:pol_x_preferred":[
+        "Rohuneeme"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0445\u0443\u043d\u0435\u044d\u043c\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Rohuneeme"
+    ],
+    "name:unk_x_variant":[
+        "Rokhuneme"
+    ],
+    "name:vol_x_preferred":[
+        "Rohuneeme"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":588984,
+    "qs_pg:gn_pop":316,
+    "qs_pg:name":"Rohuneeme",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":550129,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588984,
+        "qs_pg:id":550129,
+        "wd:id":"Q2417795"
+    },
+    "wof:country":"EE",
+    "wof:created":1497302386,
+    "wof:geomhash":"2c0bfedd4bc78264e424b7b04f2373d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126045095,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1126045095,
+    "wof:lastmodified":1513956490,
+    "wof:name":"Rohuneeme",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:population":316,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.79722,
+    59.55694,
+    24.79722,
+    59.55694
+],
+  "geometry": {"coordinates":[24.79722,59.55694],"type":"Point"}
+}

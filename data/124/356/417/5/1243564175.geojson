@@ -1,0 +1,67 @@
+{
+  "id": 1243564175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9451,59.36263,24.9451,59.36263",
+    "geom:latitude":59.36263,
+    "geom:longitude":24.9451,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"653.0",
+    "gn:admin3_code":"9108.0",
+    "gn:asciiname":"Suur-Vaskjala",
+    "gn:country_code":"EE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618062,
+    "gn:latitude":59.36263,
+    "gn:longitude":24.9451,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Suur-Vaskjala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618062
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"88da690d5334e41a4b4a71fde9947804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243564175,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1243564175,
+    "wof:lastmodified":1536634491,
+    "wof:name":"Suur-Vaskjala",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9451,
+    59.36263,
+    24.9451,
+    59.36263
+],
+  "geometry": {"coordinates":[24.9451,59.36263],"type":"Point"}
+}

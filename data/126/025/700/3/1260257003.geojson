@@ -1,0 +1,68 @@
+{
+  "id": 1260257003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.69722,58.65333,25.69722,58.65333",
+    "geom:latitude":58.65333,
+    "geom:longitude":25.69722,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"615.0",
+    "gn:admin3_code":"3142.0",
+    "gn:asciiname":"Kirivere",
+    "gn:country_code":"EE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591343,
+    "gn:latitude":58.65333,
+    "gn:longitude":25.69722,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kirivere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591343,
+        "wk:page":"Kirivere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"463228d3aec0919c26b04905a0225f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260257003,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1260257003,
+    "wof:lastmodified":1537562514,
+    "wof:name":"Kirivere",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.69722,
+    58.65333,
+    25.69722,
+    58.65333
+],
+  "geometry": {"coordinates":[25.69722,58.65333],"type":"Point"}
+}

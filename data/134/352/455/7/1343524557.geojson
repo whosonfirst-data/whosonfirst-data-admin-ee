@@ -1,0 +1,73 @@
+{
+  "id": 1343524557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.27667,58.36056,26.27667,58.36056",
+    "geom:latitude":58.36056,
+    "geom:longitude":26.27667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"171.0",
+    "gn:admin3_code":"9260.0",
+    "gn:asciiname":"Vihavu",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587642,
+    "gn:latitude":58.36056,
+    "gn:longitude":26.27667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Vihavu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vihavo",
+        "Vikhavu",
+        "Vihavu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587642
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7cd471a15a2be7615e7e916357bf2cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343524557,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1343524557,
+    "wof:lastmodified":1537620284,
+    "wof:name":"Vihavu",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.27667000000001,
+    58.36056,
+    26.27667000000001,
+    58.36056
+],
+  "geometry": {"coordinates":[26.27667000000001,58.36056],"type":"Point"}
+}

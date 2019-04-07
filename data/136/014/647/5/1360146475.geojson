@@ -1,0 +1,72 @@
+{
+  "id": 1360146475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.56583,58.14972,25.56583,58.14972",
+    "geom:latitude":58.14972,
+    "geom:longitude":25.56583,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"480.0",
+    "gn:admin3_code":"6621.0",
+    "gn:asciiname":"Paersi",
+    "gn:country_code":"EE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589573,
+    "gn:latitude":58.14972,
+    "gn:longitude":25.56583,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"P\u00e4rsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pyarsi",
+        "P\u00e4rsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589573,
+        "wk:page":"P%C3%A4rsi"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"ab4a60c415d904ea414991d4345d8926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1360146475,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1360146475,
+    "wof:lastmodified":1537620352,
+    "wof:name":"Paersi",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56583,
+    58.14972,
+    25.56583,
+    58.14972
+],
+  "geometry": {"coordinates":[25.56583,58.14972],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226406783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.07917,57.90028,27.07917,57.90028",
+    "geom:latitude":57.90028,
+    "geom:longitude":27.07917,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"5167.0",
+    "gn:asciiname":"Morgi",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590139,
+    "gn:latitude":57.90028,
+    "gn:longitude":27.07917,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00f5rgi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myrgi",
+        "M\u00f5rgi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590139
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"54dbca3627ecbb2b665fe7e86ca9fb5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226406783,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1226406783,
+    "wof:lastmodified":1537620371,
+    "wof:name":"Morgi",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.07917,
+    57.90028,
+    27.07917,
+    57.90028
+],
+  "geometry": {"coordinates":[27.07917,57.90028],"type":"Point"}
+}

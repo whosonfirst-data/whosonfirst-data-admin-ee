@@ -1,0 +1,68 @@
+{
+  "id": 1260292233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.96778,59.39111,27.96778,59.39111",
+    "geom:latitude":59.39111,
+    "geom:longitude":27.96778,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"514.0",
+    "gn:admin3_code":"4012.0",
+    "gn:asciiname":"Laagna",
+    "gn:country_code":"EE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590867,
+    "gn:latitude":59.39111,
+    "gn:longitude":27.96778,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Laagna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590867,
+        "wk:page":"Laagna"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c8be9b634f6e4254513bbeb406c1799e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260292233,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1260292233,
+    "wof:lastmodified":1537562508,
+    "wof:name":"Laagna",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.96778,
+    59.39111,
+    27.96778,
+    59.39111
+],
+  "geometry": {"coordinates":[27.96778,59.39111],"type":"Point"}
+}

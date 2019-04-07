@@ -1,0 +1,68 @@
+{
+  "id": 1344260899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.31389,59.07444,25.31389,59.07444",
+    "geom:latitude":59.07444,
+    "geom:longitude":25.31389,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"338.0",
+    "gn:admin3_code":"3553.0",
+    "gn:asciiname":"Kukepala",
+    "gn:country_code":"EE",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591014,
+    "gn:latitude":59.07444,
+    "gn:longitude":25.31389,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kukepala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591014,
+        "wk:page":"Kukepala"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a96e75ff3a67f40e156ab3b224ebee46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1344260899,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1344260899,
+    "wof:lastmodified":1537562510,
+    "wof:name":"Kukepala",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.31389,
+    59.07444,
+    25.31389,
+    59.07444
+],
+  "geometry": {"coordinates":[25.31389,59.07444],"type":"Point"}
+}

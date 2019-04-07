@@ -1,0 +1,64 @@
+{
+  "id": 1209509589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69861,58.65722,23.69861,58.65722",
+    "geom:latitude":58.65722,
+    "geom:longitude":23.69861,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"430.0",
+    "gn:admin3_code":"2323.0",
+    "gn:asciiname":"Vagivere",
+    "gn:country_code":"EE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587959,
+    "gn:latitude":58.65722,
+    "gn:longitude":23.69861,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Vagivere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587959,
+        "wk:page":"Vagivere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"3119b3da1209ec8a5caac1ffeb35f3f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209509589
+        }
+    ],
+    "wof:id":1209509589,
+    "wof:lastmodified":1537562474,
+    "wof:name":"Vagivere",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69861,
+    58.65722,
+    23.69861,
+    58.65722
+],
+  "geometry": {"coordinates":[23.69861,58.65722],"type":"Point"}
+}

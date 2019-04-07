@@ -1,0 +1,73 @@
+{
+  "id": 1276321849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.57944,58.55472,24.57944,58.55472",
+    "geom:latitude":58.55472,
+    "geom:longitude":24.57944,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"1516.0",
+    "gn:asciiname":"Eavere",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592320,
+    "gn:latitude":58.55472,
+    "gn:longitude":24.57944,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Eavere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eapere",
+        "Eavere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592320,
+        "wk:page":"Eavere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"b929cb2a0e388e0d24c2cbd11890f17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276321849,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1276321849,
+    "wof:lastmodified":1537620453,
+    "wof:name":"Eavere",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.57944,
+    58.55472,
+    24.57944,
+    58.55472
+],
+  "geometry": {"coordinates":[24.57944,58.55472],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 1125935445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.39389,59.31028,26.39389,59.31028",
+    "geom:latitude":59.31028,
+    "geom:longitude":26.39389,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":371,
+    "gn:population":371,
+    "iso:country":"EE",
+    "lbl:latitude":59.31028,
+    "lbl:longitude":26.39389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054a\u056b\u056b\u057c\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u0440\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Piira"
+    ],
+    "name:eng_x_preferred":[
+        "Piira"
+    ],
+    "name:est_x_preferred":[
+        "Piira"
+    ],
+    "name:fre_x_preferred":[
+        "Piira"
+    ],
+    "name:pol_x_preferred":[
+        "Piira"
+    ],
+    "name:sco_x_preferred":[
+        "Piira"
+    ],
+    "name:swe_x_preferred":[
+        "Piira"
+    ],
+    "name:vol_x_preferred":[
+        "Piira"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":793470,
+    "qs_pg:gn_pop":371,
+    "qs_pg:name":"Piira",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"L\u00e4\u00e4ne-Virumaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1274335,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":844719,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793470,
+        "gp:id":844719,
+        "qs_pg:id":1274335,
+        "wd:id":"Q3464747"
+    },
+    "wof:country":"EE",
+    "wof:created":1497296952,
+    "wof:geomhash":"d47851cc5a5da58a120a0a8ea5cd6e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125935445,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1125935445,
+    "wof:lastmodified":1513956457,
+    "wof:name":"Piira",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:population":371,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.39389,
+    59.31028,
+    26.39389,
+    59.31028
+],
+  "geometry": {"coordinates":[26.39389,59.31028],"type":"Point"}
+}

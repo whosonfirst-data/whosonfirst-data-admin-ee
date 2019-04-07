@@ -1,0 +1,71 @@
+{
+  "id": 1293301785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7465,58.85182,22.7465,58.85182",
+    "geom:latitude":58.85182,
+    "geom:longitude":22.7465,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"5203.0",
+    "gn:asciiname":"Maeaeltse",
+    "gn:country_code":"EE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590457,
+    "gn:latitude":58.85182,
+    "gn:longitude":22.7465,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00e4\u00e4ltse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e4ettse",
+        "M\u00e4\u00e4ltse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590457
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"ee28210dab43eb814bc1dd07fabe1f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293301785,
+            "region_id":85682989
+        }
+    ],
+    "wof:id":1293301785,
+    "wof:lastmodified":1537620383,
+    "wof:name":"Maeaeltse",
+    "wof:parent_id":85682989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.7465,
+    58.85182,
+    22.7465,
+    58.85182
+],
+  "geometry": {"coordinates":[22.7465,58.85182],"type":"Point"}
+}

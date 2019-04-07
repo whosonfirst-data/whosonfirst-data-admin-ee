@@ -1,0 +1,72 @@
+{
+  "id": 1293509525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.33111,59.16722,26.33111,59.16722",
+    "geom:latitude":59.16722,
+    "geom:longitude":26.33111,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"928.0",
+    "gn:admin3_code":"6716.0",
+    "gn:asciiname":"Raekuela",
+    "gn:country_code":"EE",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589203,
+    "gn:latitude":59.16722,
+    "gn:longitude":26.33111,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Raek\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raekyula",
+        "Raek\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589203,
+        "wk:page":"Raek%C3%BCla"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"cdcb8ff5fd0e086c2592f1bb29f3f73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293509525,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1293509525,
+    "wof:lastmodified":1537620338,
+    "wof:name":"Raekuela",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.33111,
+    59.16721999999999,
+    26.33111,
+    59.16721999999999
+],
+  "geometry": {"coordinates":[26.33111,59.16721999999999],"type":"Point"}
+}

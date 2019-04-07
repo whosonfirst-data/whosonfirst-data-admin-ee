@@ -1,0 +1,146 @@
+{
+  "id": 1125925693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.56889,58.55583,26.56889,58.55583",
+    "geom:latitude":58.55583,
+    "geom:longitude":26.56889,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":150,
+    "gn:population":150,
+    "iso:country":"EE",
+    "lbl:latitude":58.55583,
+    "lbl:longitude":26.56889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054f\u0561\u0562\u056b\u057e\u0565\u057c\u0565"
+    ],
+    "name:dut_x_preferred":[
+        "Tabivere"
+    ],
+    "name:eng_x_preferred":[
+        "Tabivere Parish"
+    ],
+    "name:est_x_preferred":[
+        "Tabivere vald"
+    ],
+    "name:fin_x_preferred":[
+        "Tabivere"
+    ],
+    "name:fre_x_preferred":[
+        "Commune de Tabivere"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e2\u10d0\u10d1\u10d8\u10d5\u10d4\u10e0\u10d4\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Tabivere"
+    ],
+    "name:ita_x_preferred":[
+        "Tabivere"
+    ],
+    "name:nob_x_preferred":[
+        "Tabivere kommune"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0647\u0633\u062a\u0627\u0646 \u062a\u0627\u0628\u06cc\u0648\u0631\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Tabivere"
+    ],
+    "name:por_x_preferred":[
+        "Tabivere"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Tabivere"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0431\u0438\u0432\u0435\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Tabivere"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0431\u0456\u0432\u0435\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Tabbifer"
+    ],
+    "name:vro_x_preferred":[
+        "Tabivere vald"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":587488,
+    "qs_pg:gn_pop":150,
+    "qs_pg:name":"Voldi",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"J\u00f5gevamaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":395113,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":56043524,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"J\u00f5gevamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587488,
+        "gp:id":56043524,
+        "qs_pg:id":395113,
+        "wd:id":"Q80193"
+    },
+    "wof:country":"EE",
+    "wof:created":1497296632,
+    "wof:geomhash":"3d5d24958ca56b9edeae44063053389e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125925693,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1125925693,
+    "wof:lastmodified":1553816634,
+    "wof:name":"Voldi",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.56889,
+    58.55583,
+    26.56889,
+    58.55583
+],
+  "geometry": {"coordinates":[26.56889,58.55583],"type":"Point"}
+}

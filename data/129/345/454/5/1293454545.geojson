@@ -1,0 +1,72 @@
+{
+  "id": 1293454545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.75833,58.34944,25.75833,58.34944",
+    "geom:latitude":58.34944,
+    "geom:longitude":25.75833,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"899.0",
+    "gn:admin3_code":"7143.0",
+    "gn:asciiname":"Ruudikuela",
+    "gn:country_code":"EE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588911,
+    "gn:latitude":58.34944,
+    "gn:longitude":25.75833,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Ruudik\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rudi",
+        "Ruudi",
+        "Ruudik\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588911
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"418706d3a23a7bb2aedda2241d097b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293454545,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1293454545,
+    "wof:lastmodified":1537620328,
+    "wof:name":"Ruudikuela",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.75833,
+    58.34944,
+    25.75833,
+    58.34944
+],
+  "geometry": {"coordinates":[25.75833,58.34944],"type":"Point"}
+}

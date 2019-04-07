@@ -1,0 +1,73 @@
+{
+  "id": 1225830661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.83639,59.21778,25.83639,59.21778",
+    "geom:latitude":59.21778,
+    "geom:longitude":25.83639,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"792.0",
+    "gn:admin3_code":"4403.0",
+    "gn:asciiname":"Poriki",
+    "gn:country_code":"EE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589358,
+    "gn:latitude":59.21778,
+    "gn:longitude":25.83639,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"P\u00f5riki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00f5rika",
+        "Pyriki",
+        "P\u00f5riki Asundus",
+        "P\u00f5riki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589358
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"128a771e8ce297607a698c78d993b6f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1225830661,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1225830661,
+    "wof:lastmodified":1537620343,
+    "wof:name":"Poriki",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83639,
+    59.21778000000001,
+    25.83639,
+    59.21778000000001
+],
+  "geometry": {"coordinates":[25.83639,59.21778000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226771133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65,59.13333,23.65,59.13333",
+    "geom:latitude":59.13333,
+    "geom:longitude":23.65,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"1964.0",
+    "gn:asciiname":"Valipe",
+    "gn:country_code":"EE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587852,
+    "gn:latitude":59.13333,
+    "gn:longitude":23.65,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Valipe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587852
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5e75910d9748bccd529d7827a044d7f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226771133,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1226771133,
+    "wof:lastmodified":1536679025,
+    "wof:name":"Valipe",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65,
+    59.13333000000001,
+    23.65,
+    59.13333000000001
+],
+  "geometry": {"coordinates":[23.65,59.13333000000001],"type":"Point"}
+}

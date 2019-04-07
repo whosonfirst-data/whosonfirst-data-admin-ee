@@ -1,0 +1,113 @@
+{
+  "id": 1126032089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.46389,57.84194,26.46389,57.84194",
+    "geom:latitude":57.84194,
+    "geom:longitude":26.46389,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":468,
+    "gn:population":468,
+    "iso:country":"EE",
+    "lbl:latitude":57.84194,
+    "lbl:longitude":26.46389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u0562\u0565\u056c\u0561"
+    ],
+    "name:cze_x_preferred":[
+        "Kobela"
+    ],
+    "name:eng_x_preferred":[
+        "Kobela"
+    ],
+    "name:est_x_preferred":[
+        "Kobela"
+    ],
+    "name:fre_x_preferred":[
+        "Kobela"
+    ],
+    "name:sco_x_preferred":[
+        "Kobela"
+    ],
+    "name:swe_x_preferred":[
+        "Kobela"
+    ],
+    "name:vol_x_preferred":[
+        "Kobela"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":794441,
+    "qs_pg:gn_pop":468,
+    "qs_pg:name":"Kobela",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"V\u00f5rumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":179700,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":843034,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"V\u00f5rumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794441,
+        "gp:id":843034,
+        "qs_pg:id":179700,
+        "wd:id":"Q3477428"
+    },
+    "wof:country":"EE",
+    "wof:created":1497301541,
+    "wof:geomhash":"f28c19a07938dc0c5c1d5750a7a1e140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126032089,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1126032089,
+    "wof:lastmodified":1553816713,
+    "wof:name":"Kobela",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:population":468,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.46389,
+    57.84194,
+    26.46389,
+    57.84194
+],
+  "geometry": {"coordinates":[26.46389,57.84194],"type":"Point"}
+}

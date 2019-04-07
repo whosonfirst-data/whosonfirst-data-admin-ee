@@ -1,0 +1,73 @@
+{
+  "id": 1293290313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.11667,59.46667,26.11667,59.46667",
+    "geom:latitude":59.46667,
+    "geom:longitude":26.11667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"191.0",
+    "gn:admin3_code":"3754.0",
+    "gn:asciiname":"Notke",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589927,
+    "gn:latitude":59.46667,
+    "gn:longitude":26.11667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"N\u00f5tke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nytke",
+        "Nolke",
+        "N\u00f5tke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589927
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"8334c83d8ec8e4b634f939a17d1f4e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293290313,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1293290313,
+    "wof:lastmodified":1537620364,
+    "wof:name":"Notke",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.11667000000001,
+    59.46666999999999,
+    26.11667000000001,
+    59.46666999999999
+],
+  "geometry": {"coordinates":[26.11667000000001,59.46666999999999],"type":"Point"}
+}

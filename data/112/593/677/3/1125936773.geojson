@@ -1,0 +1,105 @@
+{
+  "id": 1125936773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.13194,59.17361,26.13194,59.17361",
+    "geom:latitude":59.17361,
+    "geom:longitude":26.13194,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":99,
+    "gn:population":99,
+    "iso:country":"EE",
+    "lbl:latitude":59.17361,
+    "lbl:longitude":26.13194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0548\u0582\u0578\u0582\u0564\u0565\u056f\u0575\u0578\u0582\u056c\u0561"
+    ],
+    "name:dut_x_preferred":[
+        "Uudek\u00fcla"
+    ],
+    "name:eng_x_preferred":[
+        "Uudek\u00fcla"
+    ],
+    "name:est_x_preferred":[
+        "Uudek\u00fcla"
+    ],
+    "name:unk_x_variant":[
+        "Udenkul\u2019"
+    ],
+    "name:vol_x_preferred":[
+        "Uudek\u00fcla"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":588028,
+    "qs_pg:gn_pop":99,
+    "qs_pg:name":"Uudek\u00fcla",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"L\u00e4\u00e4ne-Virumaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1274684,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":846101,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588028,
+        "gp:id":846101,
+        "qs_pg:id":1274684,
+        "wd:id":"Q3463761"
+    },
+    "wof:country":"EE",
+    "wof:created":1497296991,
+    "wof:geomhash":"cb970a2c995594d0ff97a4438f738b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125936773,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1125936773,
+    "wof:lastmodified":1513956554,
+    "wof:name":"Uudek\u00fcla",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.13194,
+    59.17361,
+    26.13194,
+    59.17361
+],
+  "geometry": {"coordinates":[26.13194,59.17361],"type":"Point"}
+}

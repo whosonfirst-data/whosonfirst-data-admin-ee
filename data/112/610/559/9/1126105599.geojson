@@ -1,0 +1,77 @@
+{
+  "id": 1126105599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.83944,58.56056,23.83944,58.56056",
+    "geom:latitude":58.56056,
+    "geom:longitude":23.83944,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":597,
+    "gn:population":597,
+    "iso:country":"EE",
+    "lbl:latitude":58.56056,
+    "lbl:longitude":23.83944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":589012,
+    "qs_pg:gn_pop":597,
+    "qs_pg:name":"Risti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":550131,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589012,
+        "qs_pg:id":550131
+    },
+    "wof:country":"EE",
+    "wof:created":1497316870,
+    "wof:geomhash":"5855c59130df32aa787bbb3254529017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":-1,
+            "neighbourhood_id":1126105599,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1126105599,
+    "wof:lastmodified":1509412354,
+    "wof:name":"Risti",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":597,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.83944,
+    58.56056,
+    23.83944,
+    58.56056
+],
+  "geometry": {"coordinates":[23.83944,58.56056],"type":"Point"}
+}

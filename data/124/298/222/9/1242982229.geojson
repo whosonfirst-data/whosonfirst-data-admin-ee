@@ -1,0 +1,68 @@
+{
+  "id": 1242982229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4975,59.18889,27.4975,59.18889",
+    "geom:latitude":59.18889,
+    "geom:longitude":27.4975,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"130.0",
+    "gn:admin3_code":"2528.0",
+    "gn:asciiname":"Kaidma",
+    "gn:country_code":"EE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793495,
+    "gn:latitude":59.18889,
+    "gn:longitude":27.4975,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kaidma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793495,
+        "wk:page":"Kaidma"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"2b90f98b6af4fb6b70ba00febc7f2d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242982229,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1242982229,
+    "wof:lastmodified":1537562537,
+    "wof:name":"Kaidma",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4975,
+    59.18889,
+    27.4975,
+    59.18889
+],
+  "geometry": {"coordinates":[27.4975,59.18889],"type":"Point"}
+}

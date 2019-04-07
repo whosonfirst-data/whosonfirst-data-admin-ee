@@ -1,0 +1,70 @@
+{
+  "id": 1327427263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.79972,59.14444,26.79972,59.14444",
+    "geom:latitude":59.14444,
+    "geom:longitude":26.79972,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"7777.0",
+    "gn:asciiname":"Suigu",
+    "gn:country_code":"EE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618938,
+    "gn:latitude":59.14444,
+    "gn:longitude":26.79972,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Suigu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tudu-Suigu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618938
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d40c25389a7c9f08e71a74fdcd702200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327427263,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1327427263,
+    "wof:lastmodified":1537620498,
+    "wof:name":"Suigu",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.79972,
+    59.14444,
+    26.79972,
+    59.14444
+],
+  "geometry": {"coordinates":[26.79972,59.14444],"type":"Point"}
+}

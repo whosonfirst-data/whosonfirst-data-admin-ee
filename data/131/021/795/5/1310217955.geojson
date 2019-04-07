@@ -1,0 +1,73 @@
+{
+  "id": 1310217955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.49115,58.77114,22.49115,58.77114",
+    "geom:latitude":58.77114,
+    "geom:longitude":22.49115,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"6372.0",
+    "gn:asciiname":"Praehnu",
+    "gn:country_code":"EE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589347,
+    "gn:latitude":58.77114,
+    "gn:longitude":22.49115,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pr\u00e4hnu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kikak\u00fcla",
+        "Prekhna",
+        "Pr\u00e4hnu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589347,
+        "wk:page":"Pr%C3%A4hnu"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"634181f535e90ffdd2a358edf2e30876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310217955,
+            "region_id":85682989
+        }
+    ],
+    "wof:id":1310217955,
+    "wof:lastmodified":1537620343,
+    "wof:name":"Praehnu",
+    "wof:parent_id":85682989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.49115,
+    58.77114,
+    22.49115,
+    58.77114
+],
+  "geometry": {"coordinates":[22.49115,58.77114],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260274951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16513,59.02915,23.16513,59.02915",
+    "geom:latitude":59.02915,
+    "geom:longitude":23.16513,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"907.0",
+    "gn:admin3_code":"2981.0",
+    "gn:asciiname":"Kersleti",
+    "gn:country_code":"EE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591577,
+    "gn:latitude":59.02915,
+    "gn:longitude":23.16513,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Kersleti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "K\u00e4rrsl\u00e4tt"
+    ],
+    "name:und_x_variant":[
+        "K\u00e4rrsl\u00e4ti",
+        "Kerslyati",
+        "Kersleti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591577,
+        "wk:page":"Kersleti"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5bd68be83c358d1fcb00bf4c49755db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260274951,
+            "region_id":85682993
+        }
+    ],
+    "wof:id":1260274951,
+    "wof:lastmodified":1537620423,
+    "wof:name":"Kersleti",
+    "wof:parent_id":85682993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16513,
+    59.02915,
+    23.16513,
+    59.02915
+],
+  "geometry": {"coordinates":[23.16513,59.02915],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276137143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.46583,59.09694,24.46583,59.09694",
+    "geom:latitude":59.09694,
+    "geom:longitude":24.46583,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"3844.0",
+    "gn:asciiname":"Paeraldi",
+    "gn:country_code":"EE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589611,
+    "gn:latitude":59.09694,
+    "gn:longitude":24.46583,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"P\u00e4raldi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pyaraldi",
+        "P\u00e4raldi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589611
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5230440b4ecc884bfa1aad46eb5e61ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276137143,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1276137143,
+    "wof:lastmodified":1537620353,
+    "wof:name":"Paeraldi",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.46583,
+    59.09694,
+    24.46583,
+    59.09694
+],
+  "geometry": {"coordinates":[24.46583,59.09694],"type":"Point"}
+}

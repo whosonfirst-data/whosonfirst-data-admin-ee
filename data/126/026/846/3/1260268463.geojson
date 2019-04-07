@@ -1,0 +1,68 @@
+{
+  "id": 1260268463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.975,59.44083,25.975,59.44083",
+    "geom:latitude":59.44083,
+    "geom:longitude":25.975,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"272.0",
+    "gn:admin3_code":"1334.0",
+    "gn:asciiname":"Arbavere",
+    "gn:country_code":"EE",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793252,
+    "gn:latitude":59.44083,
+    "gn:longitude":25.975,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Arbavere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793252,
+        "wk:page":"Arbavere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"1eeccee3c4a32f2a3f558a0e4e79804c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260268463,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1260268463,
+    "wof:lastmodified":1537562532,
+    "wof:name":"Arbavere",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.975,
+    59.44083000000001,
+    25.975,
+    59.44083000000001
+],
+  "geometry": {"coordinates":[25.975,59.44083000000001],"type":"Point"}
+}

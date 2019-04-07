@@ -1,0 +1,73 @@
+{
+  "id": 1225965451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69361,58.59389,23.69361,58.59389",
+    "geom:latitude":58.59389,
+    "geom:longitude":23.69361,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"430.0",
+    "gn:admin3_code":"4607.0",
+    "gn:asciiname":"Loo",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590540,
+    "gn:latitude":58.59389,
+    "gn:longitude":23.69361,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"L\u00f5o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00f5ok\u00fcla",
+        "L\u00f5o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590540,
+        "wk:page":"L%C3%B5o"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"8afaecae08a3bd6bb0f5100e70b7dedf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1225965451,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1225965451,
+    "wof:lastmodified":1537620387,
+    "wof:name":"Loo",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69361,
+    58.59389,
+    23.69361,
+    58.59389
+],
+  "geometry": {"coordinates":[23.69361,58.59389],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243240615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.46861,58.04278,27.46861,58.04278",
+    "geom:latitude":58.04278,
+    "geom:longitude":27.46861,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"708.0",
+    "gn:admin3_code":"7835.0",
+    "gn:asciiname":"Suure-Veerksu",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588516,
+    "gn:latitude":58.04278,
+    "gn:longitude":27.46861,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Suure-Veerksu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sur Verksu",
+        "Sure-Verkso",
+        "Veerksu Suur",
+        "Suur Veerksu",
+        "Suure-Veerksu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588516,
+        "wk:page":"Suure-Veerksu"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7b619064d98901cbfa670337c54a6436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243240615,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1243240615,
+    "wof:lastmodified":1537620314,
+    "wof:name":"Suure-Veerksu",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.46861,
+    58.04278000000001,
+    27.46861,
+    58.04278000000001
+],
+  "geometry": {"coordinates":[27.46861,58.04278000000001],"type":"Point"}
+}

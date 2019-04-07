@@ -1,0 +1,74 @@
+{
+  "id": 1259558759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.55028,57.9725,26.55028,57.9725",
+    "geom:latitude":57.9725,
+    "geom:longitude":26.55028,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"557.0",
+    "gn:admin3_code":"3286.0",
+    "gn:asciiname":"Koigu",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591244,
+    "gn:latitude":57.9725,
+    "gn:longitude":26.55028,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Koigu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koygu",
+        "Koigu Asundus",
+        "Koigu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591244,
+        "wk:page":"Koigu%2C_Valga_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"3e81453c7593f890a6dbe33b3cee2068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259558759,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1259558759,
+    "wof:lastmodified":1537620411,
+    "wof:name":"Koigu",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.55028,
+    57.9725,
+    26.55028,
+    57.9725
+],
+  "geometry": {"coordinates":[26.55028,57.9725],"type":"Point"}
+}

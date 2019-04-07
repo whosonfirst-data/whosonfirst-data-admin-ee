@@ -1,0 +1,74 @@
+{
+  "id": 1243175251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.42949,58.94875,22.42949,58.94875",
+    "geom:latitude":58.94875,
+    "geom:longitude":22.42949,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"5978.0",
+    "gn:asciiname":"Paope",
+    "gn:country_code":"EE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589620,
+    "gn:latitude":58.94875,
+    "gn:longitude":22.42949,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Paope",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paopya",
+        "Paopa",
+        "Paop\u00e4\u00e4",
+        "Paope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589620,
+        "wk:page":"Paope"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7068dd83426144e42a8567631d2e1e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243175251,
+            "region_id":85682989
+        }
+    ],
+    "wof:id":1243175251,
+    "wof:lastmodified":1537620353,
+    "wof:name":"Paope",
+    "wof:parent_id":85682989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.42949,
+    58.94875,
+    22.42949,
+    58.94875
+],
+  "geometry": {"coordinates":[22.42949,58.94875],"type":"Point"}
+}

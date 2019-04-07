@@ -1,0 +1,67 @@
+{
+  "id": 1209124019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.43333,59.38333,25.43333,59.38333",
+    "geom:latitude":59.38333,
+    "geom:longitude":25.43333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"141.0",
+    "gn:admin3_code":"6855.0",
+    "gn:asciiname":"Korve UEks",
+    "gn:country_code":"EE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591081,
+    "gn:latitude":59.38333,
+    "gn:longitude":25.43333,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"K\u00f5rve \u00dcks",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyrve Pervoye",
+        "K\u00f5rve \u00dcks"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591081
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"6e76e257d4502dadd6c2b861244a56ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209124019
+        }
+    ],
+    "wof:id":1209124019,
+    "wof:lastmodified":1537620405,
+    "wof:name":"Korve UEks",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.43333,
+    59.38333000000001,
+    25.43333,
+    59.38333000000001
+],
+  "geometry": {"coordinates":[25.43333,59.38333000000001],"type":"Point"}
+}

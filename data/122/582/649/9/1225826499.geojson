@@ -1,0 +1,72 @@
+{
+  "id": 1225826499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.97222,58.62139,23.97222,58.62139",
+    "geom:latitude":58.62139,
+    "geom:longitude":23.97222,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"430.0",
+    "gn:admin3_code":"2732.0",
+    "gn:asciiname":"Karinomme",
+    "gn:country_code":"EE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591610,
+    "gn:latitude":58.62139,
+    "gn:longitude":23.97222,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Karin\u00f5mme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Karinymme",
+        "Karin\u00f5mme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591610,
+        "wk:page":"Karin%C3%B5mme"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"457289444068876b7899edf6d57865ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1225826499,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1225826499,
+    "wof:lastmodified":1537620425,
+    "wof:name":"Karinomme",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.97222,
+    58.62139000000001,
+    23.97222,
+    58.62139000000001
+],
+  "geometry": {"coordinates":[23.97222,58.62139000000001],"type":"Point"}
+}

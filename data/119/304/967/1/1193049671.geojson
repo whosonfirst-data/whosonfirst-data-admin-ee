@@ -1,0 +1,70 @@
+{
+  "id": 1193049671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.95083,58.62889,26.95083,58.62889",
+    "geom:latitude":58.62889,
+    "geom:longitude":26.95083,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"586.0",
+    "gn:admin3_code":"9150.0",
+    "gn:asciiname":"Kogri",
+    "gn:country_code":"EE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618409,
+    "gn:latitude":58.62889,
+    "gn:longitude":26.95083,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kogri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618409
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"f3b0dc137a923b7bb8d3267577551739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1193049671,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1193049671,
+    "wof:lastmodified":1537620488,
+    "wof:name":"Kogri",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.95083,
+    58.62889000000001,
+    26.95083,
+    58.62889000000001
+],
+  "geometry": {"coordinates":[26.95083,58.62889000000001],"type":"Point"}
+}

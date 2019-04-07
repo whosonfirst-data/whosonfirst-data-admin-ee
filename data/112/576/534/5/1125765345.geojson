@@ -1,0 +1,113 @@
+{
+  "id": 1125765345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.87472,59.37222,27.87472,59.37222",
+    "geom:latitude":59.37222,
+    "geom:longitude":27.87472,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":352,
+    "gn:population":352,
+    "iso:country":"EE",
+    "lbl:latitude":59.37222,
+    "lbl:longitude":27.87472,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054d\u056b\u0576\u056b\u0574\u0575\u0561\u0565"
+    ],
+    "name:eng_x_preferred":[
+        "Sinim\u00e4e"
+    ],
+    "name:est_x_preferred":[
+        "Sinim\u00e4e"
+    ],
+    "name:fin_x_preferred":[
+        "Sinim\u00e4e"
+    ],
+    "name:fre_x_preferred":[
+        "Sinim\u00e4e"
+    ],
+    "name:ger_x_preferred":[
+        "Sinim\u00e4e"
+    ],
+    "name:swe_x_preferred":[
+        "Sinim\u00e4e"
+    ],
+    "name:vol_x_preferred":[
+        "Sinim\u00e4e"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":793501,
+    "qs_pg:gn_pop":352,
+    "qs_pg:name":"Sinim\u00e4e",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Ida-Virumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":423613,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":845509,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Ida-Virumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793501,
+        "gp:id":845509,
+        "qs_pg:id":423613,
+        "wd:id":"Q989598"
+    },
+    "wof:country":"EE",
+    "wof:created":1497289870,
+    "wof:geomhash":"868805b09a900fd3b3447e69bf640f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125765345,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1125765345,
+    "wof:lastmodified":1513956513,
+    "wof:name":"Sinim\u00e4e",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:population":352,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.87472,
+    59.37222,
+    27.87472,
+    59.37222
+],
+  "geometry": {"coordinates":[27.87472,59.37222],"type":"Point"}
+}

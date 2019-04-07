@@ -1,0 +1,99 @@
+{
+  "id": 1125817061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.90972,57.72778,26.90972,57.72778",
+    "geom:latitude":57.72778,
+    "geom:longitude":26.90972,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":442,
+    "gn:population":442,
+    "iso:country":"EE",
+    "lbl:latitude":57.72778,
+    "lbl:longitude":26.90972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "R\u00f5uge"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u044b\u0443\u0433\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Rauge"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":588944,
+    "qs_pg:gn_pop":442,
+    "qs_pg:name":"R\u00f5uge",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"V\u00f5rumaa",
+    "qs_pg:photos":73,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":73,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1167361,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":845247,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"V\u00f5rumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588944,
+        "gp:id":845247,
+        "qs_pg:id":1167361
+    },
+    "wof:country":"EE",
+    "wof:created":1497291887,
+    "wof:geomhash":"bcf53cb1a7962226507863e0209870c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125817061,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1125817061,
+    "wof:lastmodified":1509393854,
+    "wof:name":"R\u00f5uge",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:population":442,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.90972,
+    57.72778,
+    26.90972,
+    57.72778
+],
+  "geometry": {"coordinates":[26.90972,57.72778],"type":"Point"}
+}

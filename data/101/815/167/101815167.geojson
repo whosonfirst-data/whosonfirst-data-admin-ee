@@ -1,0 +1,126 @@
+{
+  "id": 101815167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:area_square_m":984738.807064,
+    "geom:bbox":"24.2286221995,59.0713303437,24.2563138563,59.0838410917",
+    "geom:latitude":59.077774,
+    "geom:longitude":24.242714,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1096,
+    "gn:population":1096,
+    "iso:country":"EE",
+    "lbl:latitude":59.078717,
+    "lbl:longitude":24.239462,
+    "mps:latitude":59.078717,
+    "mps:longitude":24.239462,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Turba"
+    ],
+    "name:eng_x_preferred":[
+        "Turba"
+    ],
+    "name:epo_x_preferred":[
+        "Turba"
+    ],
+    "name:fra_x_preferred":[
+        "Turba"
+    ],
+    "name:nld_x_preferred":[
+        "Turba"
+    ],
+    "name:nor_x_preferred":[
+        "Turba"
+    ],
+    "name:por_x_preferred":[
+        "Turba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u0431\u0430"
+    ],
+    "qs:a0":"Estonia",
+    "qs:a1":"*Harjumaa",
+    "qs:a1r":"0",
+    "qs:adm0":"Estonia",
+    "qs:la":"Nissi",
+    "qs:la_lc":"*EE370518",
+    "qs:level":"locality",
+    "qs:loc":"Turba",
+    "qs:loc_alt":"Turba",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":588157,
+    "qs_pg:gn_pop":1096,
+    "qs_pg:name":"Turba",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Harjumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":940439,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":845982,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":216,
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588157,
+        "gp:id":845982,
+        "qs:id":940439,
+        "qs_pg:id":940439,
+        "wd:id":"Q1528931"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"67b8dc5ac5480393cce79dbf2d2e2d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":101815167,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":101815167,
+    "wof:lastmodified":1534379292,
+    "wof:name":"Turba",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:population":1096,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125868369
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.22862219952458,
+    59.07133034365751,
+    24.25631385633363,
+    59.0838410916931
+],
+  "geometry": {"coordinates":[[[24.24105136462282,59.08330402883439],[24.2406878560987,59.08242561086473],[24.24410427633734,59.08206747349112],[24.2430136348633,59.07943224457887],[24.25155378949887,59.07853660780347],[24.25191751851253,59.07941499289524],[24.25362554098035,59.07923579706318],[24.25398933196914,59.08011417612937],[24.25569737870114,59.07993495407351],[24.25460594786438,59.0772998293773],[24.25631385633363,59.07712060148646],[24.25595004811237,59.07624222982554],[24.25253429605857,59.076600654289],[24.25107960153281,59.07308711758367],[24.25278732325631,59.07290793629591],[24.2524236623363,59.07202955489203],[24.25071598122935,59.07220873108503],[24.25035238225337,59.07133034365751],[24.24864472540418,59.07150949363432],[24.24900828376451,59.07238788615552],[24.24217733035891,59.0731042952076],[24.24254074755891,59.07398270717158],[24.2408329277041,59.07416176171682],[24.24119632559564,59.0750401778451],[24.23607264605045,59.07557723000235],[24.23643594336374,59.07645566047631],[24.23131199479468,59.07699253776434],[24.23203840952607,59.07874942647209],[24.22862219952458,59.0791072593787],[24.22898535756281,59.07998571252216],[24.23240164885692,59.07962786943779],[24.23385481932536,59.08314163204489],[24.23556310305156,59.0829626584466],[24.23592648961898,59.0838410916931],[24.24105136462282,59.08330402883439]]],"type":"Polygon"}
+}

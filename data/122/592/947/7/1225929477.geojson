@@ -1,0 +1,67 @@
+{
+  "id": 1225929477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71667,59.21667,25.71667,59.21667",
+    "geom:latitude":59.21667,
+    "geom:longitude":25.71667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"792.0",
+    "gn:admin3_code":"6847.0",
+    "gn:asciiname":"Pirsu",
+    "gn:country_code":"EE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589423,
+    "gn:latitude":59.21667,
+    "gn:longitude":25.71667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pirsu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589423
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c4470bcaeae8cd2b4bc70503e4c790b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1225929477,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1225929477,
+    "wof:lastmodified":1536892644,
+    "wof:name":"Pirsu",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71667,
+    59.21666999999999,
+    25.71667,
+    59.21666999999999
+],
+  "geometry": {"coordinates":[25.71667,59.21666999999999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344133247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.47139,59.08389,24.47139,59.08389",
+    "geom:latitude":59.08389,
+    "geom:longitude":24.47139,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"3844.0",
+    "gn:asciiname":"Kyabi",
+    "gn:country_code":"EE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591813,
+    "gn:latitude":59.08389,
+    "gn:longitude":24.47139,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kyabi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e4bi",
+        "K\u00e4bik\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591813
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"9ad78bb6adbde1dab0bba1569e0f2ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1344133247,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1344133247,
+    "wof:lastmodified":1537620431,
+    "wof:name":"Kyabi",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.47139,
+    59.08389,
+    24.47139,
+    59.08389
+],
+  "geometry": {"coordinates":[24.47139,59.08389],"type":"Point"}
+}

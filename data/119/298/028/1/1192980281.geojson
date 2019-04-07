@@ -1,0 +1,70 @@
+{
+  "id": 1192980281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.75306,58.30361,25.75306,58.30361",
+    "geom:latitude":58.30361,
+    "geom:longitude":25.75306,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"899.0",
+    "gn:admin3_code":"5070.0",
+    "gn:asciiname":"Kipi",
+    "gn:country_code":"EE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620404,
+    "gn:latitude":58.30361,
+    "gn:longitude":25.75306,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kipi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kibek\u00fcl\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620404
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"f01cb3c0d0601fc3e0d41d93dbf26d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1192980281,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1192980281,
+    "wof:lastmodified":1537620529,
+    "wof:name":"Kipi",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.75306,
+    58.30361,
+    25.75306,
+    58.30361
+],
+  "geometry": {"coordinates":[25.75306,58.30361],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259887567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.00639,58.94806,27.00639,58.94806",
+    "geom:latitude":58.94806,
+    "geom:longitude":27.00639,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"486.0",
+    "gn:admin3_code":"7544.0",
+    "gn:asciiname":"Saare",
+    "gn:country_code":"EE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618429,
+    "gn:latitude":58.94806,
+    "gn:longitude":27.00639,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Saare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618429
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"26fc9f0eac29fe2c8710225e215f7ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259887567,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1259887567,
+    "wof:lastmodified":1536773827,
+    "wof:name":"Saare",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.00639,
+    58.94806,
+    27.00639,
+    58.94806
+],
+  "geometry": {"coordinates":[27.00639,58.94806],"type":"Point"}
+}

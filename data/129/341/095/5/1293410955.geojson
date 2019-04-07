@@ -1,0 +1,68 @@
+{
+  "id": 1293410955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.79389,58.98111,23.79389,58.98111",
+    "geom:latitude":58.98111,
+    "geom:longitude":23.79389,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"8058.0",
+    "gn:asciiname":"Tagavere",
+    "gn:country_code":"EE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588428,
+    "gn:latitude":58.98111,
+    "gn:longitude":23.79389,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Tagavere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588428,
+        "wk:page":"Tagavere%2C_L%C3%A4%C3%A4ne_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c0a980005bac56ba7d2cce2735830821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293410955,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1293410955,
+    "wof:lastmodified":1537562479,
+    "wof:name":"Tagavere",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.79389,
+    58.98111,
+    23.79389,
+    58.98111
+],
+  "geometry": {"coordinates":[23.79389,58.98111],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209087457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.77667,58.09639,24.77667,58.09639",
+    "geom:latitude":58.09639,
+    "geom:longitude":24.77667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"712.0",
+    "gn:admin3_code":"4787.0",
+    "gn:asciiname":"Marina",
+    "gn:country_code":"EE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590323,
+    "gn:latitude":58.09639,
+    "gn:longitude":24.77667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Marina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590323,
+        "wk:page":"Marina%2C_Estonia"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"750b3b4958f96b929185bdd71a8d88bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209087457
+        }
+    ],
+    "wof:id":1209087457,
+    "wof:lastmodified":1537562502,
+    "wof:name":"Marina",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.77667000000001,
+    58.09639,
+    24.77667000000001,
+    58.09639
+],
+  "geometry": {"coordinates":[24.77667000000001,58.09639],"type":"Point"}
+}

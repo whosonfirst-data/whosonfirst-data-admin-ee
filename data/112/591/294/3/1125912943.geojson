@@ -1,0 +1,93 @@
+{
+  "id": 1125912943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13361,58.59806,27.13361,58.59806",
+    "geom:latitude":58.59806,
+    "geom:longitude":27.13361,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":430,
+    "gn:population":430,
+    "iso:country":"EE",
+    "lbl:latitude":58.59806,
+    "lbl:longitude":27.13361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:est_x_preferred":[
+        "Alatskivi"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":592557,
+    "qs_pg:gn_pop":430,
+    "qs_pg:name":"Alatskivi",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Tartumaa",
+    "qs_pg:photos":129,
+    "qs_pg:photos_1k":26,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":129,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":478034,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":841883,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Tartumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592557,
+        "gp:id":841883,
+        "qs_pg:id":478034
+    },
+    "wof:country":"EE",
+    "wof:created":1497296201,
+    "wof:geomhash":"7019ae7ef040adf53a0378cf3235eab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125912943,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1125912943,
+    "wof:lastmodified":1509400298,
+    "wof:name":"Alatskivi",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:population":430,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13361,
+    58.59806,
+    27.13361,
+    58.59806
+],
+  "geometry": {"coordinates":[27.13361,58.59806],"type":"Point"}
+}

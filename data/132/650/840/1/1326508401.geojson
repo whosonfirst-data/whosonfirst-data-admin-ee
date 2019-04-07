@@ -1,0 +1,67 @@
+{
+  "id": 1326508401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.93639,58.38389,23.93639,58.38389",
+    "geom:latitude":58.38389,
+    "geom:longitude":23.93639,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"624.0",
+    "gn:admin3_code":"6783.0",
+    "gn:asciiname":"Rammuka-Metsakuela",
+    "gn:country_code":"EE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589156,
+    "gn:latitude":58.38389,
+    "gn:longitude":23.93639,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Rammuka-Metsak\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589156
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"caa7eb516fc50e292bb8be117e20d99d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1326508401,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1326508401,
+    "wof:lastmodified":1537017699,
+    "wof:name":"Rammuka-Metsakuela",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.93639,
+    58.38389,
+    23.93639,
+    58.38389
+],
+  "geometry": {"coordinates":[23.93639,58.38389],"type":"Point"}
+}

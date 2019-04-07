@@ -1,0 +1,73 @@
+{
+  "id": 1293904959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.60639,58.84722,23.60639,58.84722",
+    "geom:latitude":58.84722,
+    "geom:longitude":23.60639,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"184.0",
+    "gn:admin3_code":"3849.0",
+    "gn:asciiname":"Kaebla",
+    "gn:country_code":"EE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591647,
+    "gn:latitude":58.84722,
+    "gn:longitude":23.60639,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"K\u00e4bla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyabla",
+        "K\u00e4pla",
+        "K\u00e4bla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591647,
+        "wk:page":"K%C3%A4pla"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"3cffb72c318fad2ea735ec6126c07f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293904959,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1293904959,
+    "wof:lastmodified":1537620426,
+    "wof:name":"Kaebla",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60639,
+    58.84721999999999,
+    23.60639,
+    58.84721999999999
+],
+  "geometry": {"coordinates":[23.60639,58.84721999999999],"type":"Point"}
+}

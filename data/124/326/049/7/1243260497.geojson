@@ -1,0 +1,76 @@
+{
+  "id": 1243260497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.5725,59.0225,23.5725,59.0225",
+    "geom:latitude":59.0225,
+    "geom:longitude":23.5725,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"7284.0",
+    "gn:asciiname":"Saare",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588883,
+    "gn:latitude":59.0225,
+    "gn:longitude":23.5725,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Saare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Lyckholm"
+    ],
+    "name:und_x_variant":[
+        "Myza Sare",
+        "Saare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588883,
+        "wk:page":"Saare%2C_L%C3%A4%C3%A4ne_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"076fe7fd79e89d635aa2e05745cbd32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243260497,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1243260497,
+    "wof:lastmodified":1537620327,
+    "wof:name":"Saare",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.5725,
+    59.0225,
+    23.5725,
+    59.0225
+],
+  "geometry": {"coordinates":[23.5725,59.0225],"type":"Point"}
+}

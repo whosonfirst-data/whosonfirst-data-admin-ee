@@ -1,0 +1,71 @@
+{
+  "id": 1276189349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.83667,57.76611,26.83667,57.76611",
+    "geom:latitude":57.76611,
+    "geom:longitude":26.83667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"698.0",
+    "gn:admin3_code":"5423.0",
+    "gn:asciiname":"Nilbo",
+    "gn:country_code":"EE",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620274,
+    "gn:latitude":57.76611,
+    "gn:longitude":26.83667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Nilb\u00f5",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nilb\u00f5",
+        "Nilbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620274
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"2222cda397b0130c61867463efc6fb05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276189349,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1276189349,
+    "wof:lastmodified":1537620526,
+    "wof:name":"Nilbo",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.83667,
+    57.76611,
+    26.83667,
+    57.76611
+],
+  "geometry": {"coordinates":[26.83667,57.76611],"type":"Point"}
+}

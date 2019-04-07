@@ -1,0 +1,73 @@
+{
+  "id": 1327224503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.01222,59.31944,26.01222,59.31944",
+    "geom:latitude":59.31944,
+    "geom:longitude":26.01222,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"272.0",
+    "gn:admin3_code":"6507.0",
+    "gn:asciiname":"Poima",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589397,
+    "gn:latitude":59.31944,
+    "gn:longitude":26.01222,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"P\u00f5ima",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pyyma",
+        "P\u00f5ima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589397,
+        "wk:page":"P%C3%B5ima"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"e9657ea3699d38cd6850c701b3a83527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327224503,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1327224503,
+    "wof:lastmodified":1537620345,
+    "wof:name":"Poima",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.01222000000001,
+    59.31944,
+    26.01222000000001,
+    59.31944
+],
+  "geometry": {"coordinates":[26.01222000000001,59.31944],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209191467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.005,58.18389,27.005,58.18389",
+    "geom:latitude":58.18389,
+    "geom:longitude":27.005,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"622.0",
+    "gn:admin3_code":"5061.0",
+    "gn:asciiname":"Mustakurmu",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590092,
+    "gn:latitude":58.18389,
+    "gn:longitude":27.005,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Mustakurmu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mustakurnu",
+        "Mustakurmu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590092,
+        "wk:page":"Mustakurmu"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"ffaad9d44deac02bc1eba4f48a51ae1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209191467
+        }
+    ],
+    "wof:id":1209191467,
+    "wof:lastmodified":1537620370,
+    "wof:name":"Mustakurmu",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.005,
+    58.18389000000001,
+    27.005,
+    58.18389000000001
+],
+  "geometry": {"coordinates":[27.005,58.18389000000001],"type":"Point"}
+}

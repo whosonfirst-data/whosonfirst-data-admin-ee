@@ -1,0 +1,98 @@
+{
+  "id": 1126045085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.56889,58.30639,25.56889,58.30639",
+    "geom:latitude":58.30639,
+    "geom:longitude":25.56889,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":109,
+    "gn:population":109,
+    "iso:country":"EE",
+    "lbl:latitude":58.30639,
+    "lbl:longitude":25.56889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054d\u056b\u0576\u056b\u0561\u056c\u056c\u056b\u056f\u0578\u0582"
+    ],
+    "name:dut_x_preferred":[
+        "Sinialliku"
+    ],
+    "name:eng_x_preferred":[
+        "Sinialliku"
+    ],
+    "name:est_x_preferred":[
+        "Sinialliku"
+    ],
+    "name:fre_x_preferred":[
+        "Sinialliku"
+    ],
+    "name:pol_x_preferred":[
+        "Sinialliku"
+    ],
+    "name:vol_x_preferred":[
+        "Sinialliku"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":588672,
+    "qs_pg:gn_pop":109,
+    "qs_pg:name":"Sinialliku",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":550124,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588672,
+        "qs_pg:id":550124,
+        "wd:id":"Q11276091"
+    },
+    "wof:country":"EE",
+    "wof:created":1497302385,
+    "wof:geomhash":"9f947f78e668249f3cf5702255664b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126045085,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1126045085,
+    "wof:lastmodified":1513956513,
+    "wof:name":"Sinialliku",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56889,
+    58.30639,
+    25.56889,
+    58.30639
+],
+  "geometry": {"coordinates":[25.56889,58.30639],"type":"Point"}
+}

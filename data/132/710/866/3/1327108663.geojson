@@ -1,0 +1,73 @@
+{
+  "id": 1327108663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.95,57.68333,26.95,57.68333",
+    "geom:latitude":57.68333,
+    "geom:longitude":26.95,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"698.0",
+    "gn:admin3_code":"9307.0",
+    "gn:asciiname":"Oru",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589790,
+    "gn:latitude":57.68333,
+    "gn:longitude":26.95,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Oru",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orum\u00f5isa",
+        "Orum\u00e4e",
+        "Oru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589790
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"74a92ca4089ceb6877877cd4f6d4c287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327108663,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1327108663,
+    "wof:lastmodified":1537620359,
+    "wof:name":"Oru",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.95,
+    57.68333000000001,
+    26.95,
+    57.68333000000001
+],
+  "geometry": {"coordinates":[26.95,57.68333000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209632803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.49417,59.34333,24.49417,59.34333",
+    "geom:latitude":59.34333,
+    "geom:longitude":24.49417,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"726.0",
+    "gn:admin3_code":"3025.0",
+    "gn:asciiname":"Peetrimoisa",
+    "gn:country_code":"EE",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618502,
+    "gn:latitude":59.34333,
+    "gn:longitude":24.49417,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Peetrim\u00f5isa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peetrim\u00f5isa",
+        "Peetri-M\u00f5isa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618502
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"6a969c73cca41ecab623d8ef7b552612",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209632803
+        }
+    ],
+    "wof:id":1209632803,
+    "wof:lastmodified":1537620490,
+    "wof:name":"Peetrimoisa",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.49417,
+    59.34333,
+    24.49417,
+    59.34333
+],
+  "geometry": {"coordinates":[24.49417,59.34333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260094335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.47286,59.32888,24.47286,59.32888",
+    "geom:latitude":59.32888,
+    "geom:longitude":24.47286,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"198.0",
+    "gn:admin3_code":"8442.0",
+    "gn:asciiname":"Kapsa",
+    "gn:country_code":"EE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591644,
+    "gn:latitude":59.32888,
+    "gn:longitude":24.47286,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kapsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapsak\u00fcla",
+        "Kapsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591644
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7c11220538b173847f1ad01af5ea3b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260094335,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1260094335,
+    "wof:lastmodified":1537620426,
+    "wof:name":"Kapsa",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.47286,
+    59.32888000000001,
+    24.47286,
+    59.32888000000001
+],
+  "geometry": {"coordinates":[24.47286,59.32888000000001],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209682057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.98556,58.35028,26.98556,58.35028",
+    "geom:latitude":58.35028,
+    "geom:longitude":26.98556,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"291.0",
+    "gn:admin3_code":"8211.0",
+    "gn:asciiname":"Arukuela",
+    "gn:country_code":"EE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592420,
+    "gn:latitude":58.35028,
+    "gn:longitude":26.98556,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Aruk\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592420
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"f338b704890a47d0c673870226bc91cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209682057
+        }
+    ],
+    "wof:id":1209682057,
+    "wof:lastmodified":1536279540,
+    "wof:name":"Arukuela",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.98556,
+    58.35028000000001,
+    26.98556,
+    58.35028000000001
+],
+  "geometry": {"coordinates":[26.98556,58.35028000000001],"type":"Point"}
+}

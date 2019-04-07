@@ -1,0 +1,124 @@
+{
+  "id": 1125861677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.39194,59.43917,24.39194,59.43917",
+    "geom:latitude":59.43917,
+    "geom:longitude":24.39194,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":139,
+    "gn:population":139,
+    "iso:country":"EE",
+    "lbl:latitude":59.43917,
+    "lbl:longitude":24.39194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054e\u056b\u057f\u056b"
+    ],
+    "name:dut_x_preferred":[
+        "Viti"
+    ],
+    "name:eng_x_preferred":[
+        "Viti"
+    ],
+    "name:est_x_preferred":[
+        "Viti"
+    ],
+    "name:fre_x_preferred":[
+        "Viti"
+    ],
+    "name:pol_x_preferred":[
+        "Viti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0442\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Viti"
+    ],
+    "name:swe_x_preferred":[
+        "Viti"
+    ],
+    "name:unk_x_variant":[
+        "Viti Asula"
+    ],
+    "name:vol_x_preferred":[
+        "Viti"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":587533,
+    "qs_pg:gn_pop":139,
+    "qs_pg:name":"Vihti",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Uudenmaan maakunta",
+    "qs_pg:photos":161,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":161,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":354170,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":574924,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Uudenmaan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587533,
+        "gp:id":574924,
+        "qs_pg:id":354170,
+        "wd:id":"Q2586211"
+    },
+    "wof:country":"EE",
+    "wof:created":1497293853,
+    "wof:geomhash":"2c234d16e6b8c83a16a1f52a226482c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125861677,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1125861677,
+    "wof:lastmodified":1513956567,
+    "wof:name":"Vihti",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:population":139,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.39194,
+    59.43917,
+    24.39194,
+    59.43917
+],
+  "geometry": {"coordinates":[24.39194,59.43917],"type":"Point"}
+}

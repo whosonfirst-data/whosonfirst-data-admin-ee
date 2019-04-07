@@ -1,0 +1,72 @@
+{
+  "id": 1309805495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.98194,59.29611,26.98194,59.29611",
+    "geom:latitude":59.29611,
+    "geom:longitude":26.98194,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"442.0",
+    "gn:admin3_code":"1393.0",
+    "gn:asciiname":"Aruvaelja",
+    "gn:country_code":"EE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592382,
+    "gn:latitude":59.29611,
+    "gn:longitude":26.98194,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Aruv\u00e4lja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aruvyal\u2019ya",
+        "Aruv\u00e4lja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592382,
+        "wk:page":"Aruv%C3%A4lja%2C_Ida-Viru_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"36b6bb8a7536183fe92a024a916c61d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1309805495,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1309805495,
+    "wof:lastmodified":1537620455,
+    "wof:name":"Aruvaelja",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.98194,
+    59.29611,
+    26.98194,
+    59.29611
+],
+  "geometry": {"coordinates":[26.98194,59.29611],"type":"Point"}
+}

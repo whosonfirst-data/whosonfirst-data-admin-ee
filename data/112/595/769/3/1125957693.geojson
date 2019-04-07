@@ -1,0 +1,105 @@
+{
+  "id": 1125957693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.60833,58.48417,25.60833,58.48417",
+    "geom:latitude":58.48417,
+    "geom:longitude":25.60833,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":103,
+    "gn:population":103,
+    "iso:country":"EE",
+    "lbl:latitude":58.48417,
+    "lbl:longitude":25.60833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054e\u056b\u056b\u057e\u0561\u056f\u0578\u0582"
+    ],
+    "name:dut_x_preferred":[
+        "V\u00f5ivaku"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00f5ivaku"
+    ],
+    "name:est_x_preferred":[
+        "V\u00f5ivaku"
+    ],
+    "name:pol_x_preferred":[
+        "V\u00f5ivaku"
+    ],
+    "name:vol_x_preferred":[
+        "V\u00f5ivaku"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":794618,
+    "qs_pg:gn_pop":103,
+    "qs_pg:name":"V\u00f5ivaku",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Viljandimaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":406527,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":846558,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Viljandimaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794618,
+        "gp:id":846558,
+        "qs_pg:id":406527,
+        "wd:id":"Q11020021"
+    },
+    "wof:country":"EE",
+    "wof:created":1497297676,
+    "wof:geomhash":"5b43416e806620b7ec6e2f61872b75a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125957693,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1125957693,
+    "wof:lastmodified":1513956580,
+    "wof:name":"V\u00f5ivaku",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:population":103,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.60833,
+    58.48417,
+    25.60833,
+    58.48417
+],
+  "geometry": {"coordinates":[25.60833,58.48417],"type":"Point"}
+}

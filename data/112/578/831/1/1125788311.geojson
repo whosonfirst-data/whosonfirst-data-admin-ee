@@ -1,0 +1,124 @@
+{
+  "id": 1125788311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48306,58.65889,24.48306,58.65889",
+    "geom:latitude":58.65889,
+    "geom:longitude":24.48306,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":488,
+    "gn:population":488,
+    "iso:country":"EE",
+    "lbl:latitude":58.65889,
+    "lbl:longitude":24.48306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053c\u056b\u0562\u0561\u0581\u0565"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u0431\u0430\u0446\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Libatse"
+    ],
+    "name:eng_x_preferred":[
+        "Libatse"
+    ],
+    "name:est_x_preferred":[
+        "Libatse"
+    ],
+    "name:fre_x_preferred":[
+        "Libatse"
+    ],
+    "name:pol_x_preferred":[
+        "Libatse"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0431\u0430\u0442\u0441\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Libatse"
+    ],
+    "name:unk_x_variant":[
+        "Myza Libatse"
+    ],
+    "name:vol_x_preferred":[
+        "Libatse"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":590662,
+    "qs_pg:gn_pop":488,
+    "qs_pg:name":"Libatse",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"P\u00e4rnumaa",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":42598,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":843634,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"P\u00e4rnumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590662,
+        "gp:id":843634,
+        "qs_pg:id":42598,
+        "wd:id":"Q1524176"
+    },
+    "wof:country":"EE",
+    "wof:created":1497290765,
+    "wof:geomhash":"57ae2de6e7fc061b06d466c22e2b3767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125788311,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1125788311,
+    "wof:lastmodified":1513956420,
+    "wof:name":"Libatse",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:population":488,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48306,
+    58.65889,
+    24.48306,
+    58.65889
+],
+  "geometry": {"coordinates":[24.48306,58.65889],"type":"Point"}
+}

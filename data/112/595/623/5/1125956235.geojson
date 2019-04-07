@@ -1,0 +1,114 @@
+{
+  "id": 1125956235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.32556,58.33694,26.32556,58.33694",
+    "geom:latitude":58.33694,
+    "geom:longitude":26.32556,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":157,
+    "gn:population":157,
+    "iso:country":"EE",
+    "lbl:latitude":58.33694,
+    "lbl:longitude":26.32556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0544\u056b\u056b\u057d\u0561\u0576\u0578\u0582\u057c\u0574\u0565"
+    ],
+    "name:dut_x_preferred":[
+        "M\u00f5isanurme"
+    ],
+    "name:eng_x_preferred":[
+        "M\u00f5isanurme"
+    ],
+    "name:est_x_preferred":[
+        "M\u00f5isanurme"
+    ],
+    "name:fre_x_preferred":[
+        "M\u00f5isanurme"
+    ],
+    "name:pol_x_preferred":[
+        "M\u00f5isanurme"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00f5isanurme"
+    ],
+    "name:unk_x_variant":[
+        "Myyzanurme"
+    ],
+    "name:vol_x_preferred":[
+        "M\u00f5isanurme"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":590169,
+    "qs_pg:gn_pop":157,
+    "qs_pg:name":"M\u00f5isanurme",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Tartumaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":406031,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":844086,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Tartumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590169,
+        "gp:id":844086,
+        "qs_pg:id":406031,
+        "wd:id":"Q3454724"
+    },
+    "wof:country":"EE",
+    "wof:created":1497297628,
+    "wof:geomhash":"ae5c5d091c5e3e2b5fad1570e3aea212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125956235,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1125956235,
+    "wof:lastmodified":1513956445,
+    "wof:name":"M\u00f5isanurme",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:population":157,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.32556,
+    58.33694,
+    26.32556,
+    58.33694
+],
+  "geometry": {"coordinates":[26.32556,58.33694],"type":"Point"}
+}

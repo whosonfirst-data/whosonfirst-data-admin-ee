@@ -1,0 +1,70 @@
+{
+  "id": 1226627471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.00667,58.50611,25.00667,58.50611",
+    "geom:latitude":58.50611,
+    "geom:longitude":25.00667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"1091.0",
+    "gn:asciiname":"Viidika",
+    "gn:country_code":"EE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618152,
+    "gn:latitude":58.50611,
+    "gn:longitude":25.00667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Viidika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0414-\u0440\u044b \u0412\u0456\u0439\u0434\u0438\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618152
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"48d75fcf273abf3f1fe723b57db0b1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226627471,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1226627471,
+    "wof:lastmodified":1537620482,
+    "wof:name":"Viidika",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.00667,
+    58.50611,
+    25.00667,
+    58.50611
+],
+  "geometry": {"coordinates":[25.00667,58.50611],"type":"Point"}
+}

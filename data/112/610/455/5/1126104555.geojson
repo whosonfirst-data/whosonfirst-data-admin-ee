@@ -1,0 +1,80 @@
+{
+  "id": 1126104555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.96,58.79111,26.96,58.79111",
+    "geom:latitude":58.79111,
+    "geom:longitude":26.96,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":189,
+    "gn:population":189,
+    "iso:country":"EE",
+    "lbl:latitude":58.79111,
+    "lbl:longitude":26.96,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Tikheda"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":588301,
+    "qs_pg:gn_pop":189,
+    "qs_pg:name":"Tiheda",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":550117,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588301,
+        "qs_pg:id":550117
+    },
+    "wof:country":"EE",
+    "wof:created":1497316686,
+    "wof:geomhash":"2f9646f86e69d37c060c5beaa79ebba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":-1,
+            "neighbourhood_id":1126104555,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1126104555,
+    "wof:lastmodified":1509412306,
+    "wof:name":"Tiheda",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":189,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.96,
+    58.79111,
+    26.96,
+    58.79111
+],
+  "geometry": {"coordinates":[26.96,58.79111],"type":"Point"}
+}

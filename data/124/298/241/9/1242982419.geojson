@@ -1,0 +1,68 @@
+{
+  "id": 1242982419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.91694,59.27028,26.91694,59.27028",
+    "geom:latitude":59.27028,
+    "geom:longitude":26.91694,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"442.0",
+    "gn:admin3_code":"7640.0",
+    "gn:asciiname":"Sirtsi",
+    "gn:country_code":"EE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588660,
+    "gn:latitude":59.27028,
+    "gn:longitude":26.91694,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Sirtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588660,
+        "wk:page":"Sirtsi"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"b348379ef606e5477a5e43d947682dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242982419,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1242982419,
+    "wof:lastmodified":1537562481,
+    "wof:name":"Sirtsi",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.91694,
+    59.27028000000001,
+    26.91694,
+    59.27028000000001
+],
+  "geometry": {"coordinates":[26.91694,59.27028000000001],"type":"Point"}
+}

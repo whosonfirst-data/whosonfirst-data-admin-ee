@@ -1,0 +1,75 @@
+{
+  "id": 1327407627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05907,57.91709,22.05907,57.91709",
+    "geom:latitude":57.91709,
+    "geom:longitude":22.05907,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"714.0",
+    "gn:admin3_code":"7950.0",
+    "gn:asciiname":"Saeaere",
+    "gn:country_code":"EE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588894,
+    "gn:latitude":57.91709,
+    "gn:longitude":22.05907,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"S\u00e4\u00e4re",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Zerel"
+    ],
+    "name:und_x_variant":[
+        "Tserel",
+        "S\u00e4\u00e4re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588894,
+        "wk:page":"S%C3%A4%C3%A4re%2C_Saare_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"874d59989f1db0e2a91818a5cf78482d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327407627,
+            "region_id":85682947
+        }
+    ],
+    "wof:id":1327407627,
+    "wof:lastmodified":1537620327,
+    "wof:name":"Saeaere",
+    "wof:parent_id":85682947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05907,
+    57.91709,
+    22.05907,
+    57.91709
+],
+  "geometry": {"coordinates":[22.05907,57.91709],"type":"Point"}
+}

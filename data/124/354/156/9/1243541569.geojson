@@ -1,0 +1,67 @@
+{
+  "id": 1243541569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2,58.10444,27.2,58.10444",
+    "geom:latitude":58.10444,
+    "geom:longitude":27.2,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"622.0",
+    "gn:admin3_code":"2869.0",
+    "gn:asciiname":"Kuekaenukk",
+    "gn:country_code":"EE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620837,
+    "gn:latitude":58.10444,
+    "gn:longitude":27.2,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"K\u00fck\u00e4nukk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620837
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7d4acbaf6e52bddfbb8b808d3c74d706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243541569,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1243541569,
+    "wof:lastmodified":1536668490,
+    "wof:name":"Kuekaenukk",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2,
+    58.10444,
+    27.2,
+    58.10444
+],
+  "geometry": {"coordinates":[27.2,58.10444],"type":"Point"}
+}

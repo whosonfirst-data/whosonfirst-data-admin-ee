@@ -1,0 +1,79 @@
+{
+  "id": 1126025089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.10639,57.87083,27.10639,57.87083",
+    "geom:latitude":57.87083,
+    "geom:longitude":27.10639,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":306,
+    "gn:population":306,
+    "iso:country":"EE",
+    "lbl:latitude":57.87083,
+    "lbl:longitude":27.10639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "K\u00e4\u00e4pa"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":591853,
+    "qs_pg:gn_pop":306,
+    "qs_pg:name":"Kyapa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":550156,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591853,
+        "qs_pg:id":550156
+    },
+    "wof:country":"EE",
+    "wof:created":1497301090,
+    "wof:geomhash":"5899eabebaaec7a9b425dd9a435ea94d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126025089,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1126025089,
+    "wof:lastmodified":1509407487,
+    "wof:name":"Kyapa",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:population":306,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.10639,
+    57.87083,
+    27.10639,
+    57.87083
+],
+  "geometry": {"coordinates":[27.10639,57.87083],"type":"Point"}
+}

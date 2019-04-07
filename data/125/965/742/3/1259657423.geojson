@@ -1,0 +1,72 @@
+{
+  "id": 1259657423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.42278,58.31139,22.42278,58.31139",
+    "geom:latitude":58.31139,
+    "geom:longitude":22.42278,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"714.0",
+    "gn:admin3_code":"7837.0",
+    "gn:asciiname":"Paerni",
+    "gn:country_code":"EE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589586,
+    "gn:latitude":58.31139,
+    "gn:longitude":22.42278,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"P\u00e4rni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pyarni",
+        "P\u00e4rni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589586,
+        "wk:page":"P%C3%A4rni"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"2301bea00644530d61cc5fa6222b2498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259657423,
+            "region_id":85682947
+        }
+    ],
+    "wof:id":1259657423,
+    "wof:lastmodified":1537620352,
+    "wof:name":"Paerni",
+    "wof:parent_id":85682947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.42278,
+    58.31139,
+    22.42278,
+    58.31139
+],
+  "geometry": {"coordinates":[22.42278,58.31139],"type":"Point"}
+}

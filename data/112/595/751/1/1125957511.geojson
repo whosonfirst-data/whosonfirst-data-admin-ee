@@ -1,0 +1,95 @@
+{
+  "id": 1125957511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.43306,58.44222,25.43306,58.44222",
+    "geom:latitude":58.44222,
+    "geom:longitude":25.43306,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":450,
+    "gn:population":450,
+    "iso:country":"EE",
+    "lbl:latitude":58.44222,
+    "lbl:longitude":25.43306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Vastem\u00f5isa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0441\u0442\u0435\u0439\u043c\u044b\u0439\u0437\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Myza Vastemyyza"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":587715,
+    "qs_pg:gn_pop":450,
+    "qs_pg:name":"Vastem\u00f5isa",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Viljandimaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":406495,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":846349,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Viljandimaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587715,
+        "gp:id":846349,
+        "qs_pg:id":406495
+    },
+    "wof:country":"EE",
+    "wof:created":1497297670,
+    "wof:geomhash":"d0eacfc22f19011a40dfeae576ff2dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125957511,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1125957511,
+    "wof:lastmodified":1509403085,
+    "wof:name":"Vastem\u00f5isa",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:population":450,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.43306,
+    58.44222,
+    25.43306,
+    58.44222
+],
+  "geometry": {"coordinates":[25.43306,58.44222],"type":"Point"}
+}

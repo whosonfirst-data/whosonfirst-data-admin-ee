@@ -1,0 +1,70 @@
+{
+  "id": 1310478141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.89167,59.17361,24.89167,59.17361",
+    "geom:latitude":59.17361,
+    "geom:longitude":24.89167,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"317.0",
+    "gn:admin3_code":"5854.0",
+    "gn:asciiname":"Tamsalu",
+    "gn:country_code":"EE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618509,
+    "gn:latitude":59.17361,
+    "gn:longitude":24.89167,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Tamsalu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tukam\u00e4e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618509
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"53e76f7a092960898c555721b23fc041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310478141,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1310478141,
+    "wof:lastmodified":1537620490,
+    "wof:name":"Tamsalu",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.89167,
+    59.17361,
+    24.89167,
+    59.17361
+],
+  "geometry": {"coordinates":[24.89167,59.17361],"type":"Point"}
+}

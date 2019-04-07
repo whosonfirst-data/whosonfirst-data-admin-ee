@@ -1,0 +1,71 @@
+{
+  "id": 1259870281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.29056,59.09278,26.29056,59.09278",
+    "geom:latitude":59.09278,
+    "geom:longitude":26.29056,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"928.0",
+    "gn:admin3_code":"6836.0",
+    "gn:asciiname":"AEntu-Karjamaa",
+    "gn:country_code":"EE",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618975,
+    "gn:latitude":59.09278,
+    "gn:longitude":26.29056,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"\u00c4ntu-Karjamaa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c4ntu-Karjamaa",
+        "\u00c4ntu-Karjasmaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618975
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"dc9912a56f20452469d19d257d1a82fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259870281,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1259870281,
+    "wof:lastmodified":1537620499,
+    "wof:name":"AEntu-Karjamaa",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.29056,
+    59.09278000000001,
+    26.29056,
+    59.09278000000001
+],
+  "geometry": {"coordinates":[26.29056,59.09278000000001],"type":"Point"}
+}

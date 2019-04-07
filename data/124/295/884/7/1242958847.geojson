@@ -1,0 +1,71 @@
+{
+  "id": 1242958847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.68361,59.00194,26.68361,59.00194",
+    "geom:latitude":59.00194,
+    "geom:longitude":26.68361,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"9204.0",
+    "gn:asciiname":"Savilope",
+    "gn:country_code":"EE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588751,
+    "gn:latitude":59.00194,
+    "gn:longitude":26.68361,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Savil\u00f5pe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Savilepa",
+        "Savil\u00f5pe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588751
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"6816df5a904dccd662ddca0b5b3b226f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242958847,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1242958847,
+    "wof:lastmodified":1537620322,
+    "wof:name":"Savilope",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.68361,
+    59.00194000000001,
+    26.68361,
+    59.00194000000001
+],
+  "geometry": {"coordinates":[26.68361,59.00194000000001],"type":"Point"}
+}

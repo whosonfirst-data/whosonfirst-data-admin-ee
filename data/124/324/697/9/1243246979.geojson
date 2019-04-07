@@ -1,0 +1,74 @@
+{
+  "id": 1243246979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.04167,58.53694,23.04167,58.53694",
+    "geom:latitude":58.53694,
+    "geom:longitude":23.04167,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"714.0",
+    "gn:admin3_code":"8412.0",
+    "gn:asciiname":"Tumala",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588159,
+    "gn:latitude":58.53694,
+    "gn:longitude":23.04167,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Tumala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Tumala",
+        "Tumala Asundus",
+        "Tumala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588159,
+        "wk:page":"Tumala"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"72c81ec170cdd119737c00068e4908b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243246979,
+            "region_id":85682947
+        }
+    ],
+    "wof:id":1243246979,
+    "wof:lastmodified":1537620303,
+    "wof:name":"Tumala",
+    "wof:parent_id":85682947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.04167,
+    58.53694,
+    23.04167,
+    58.53694
+],
+  "geometry": {"coordinates":[23.04167,58.53694],"type":"Point"}
+}

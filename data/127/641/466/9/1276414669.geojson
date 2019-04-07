@@ -1,0 +1,72 @@
+{
+  "id": 1276414669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.49361,58.54083,25.49361,58.54083",
+    "geom:latitude":58.54083,
+    "geom:longitude":25.49361,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"615.0",
+    "gn:admin3_code":"3741.0",
+    "gn:asciiname":"Kaerevere",
+    "gn:country_code":"EE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591623,
+    "gn:latitude":58.54083,
+    "gn:longitude":25.49361,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"K\u00e4revere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyarevere",
+        "K\u00e4revere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591623,
+        "wk:page":"K%C3%A4revere%2C_Viljandi_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d18058d4babd9835760991ac2739482d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276414669,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1276414669,
+    "wof:lastmodified":1537620425,
+    "wof:name":"Kaerevere",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.49361,
+    58.54083000000001,
+    25.49361,
+    58.54083000000001
+],
+  "geometry": {"coordinates":[25.49361,58.54083000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293063013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.94306,58.51944,25.94306,58.51944",
+    "geom:latitude":58.51944,
+    "geom:longitude":25.94306,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"899.0",
+    "gn:admin3_code":"1539.0",
+    "gn:asciiname":"Eesnurga",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592307,
+    "gn:latitude":58.51944,
+    "gn:longitude":25.94306,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Eesnurga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estnurga",
+        "Eestnurga",
+        "Eesnurga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592307,
+        "wk:page":"Eesnurga"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7b9b917ccc96fbd73e47295042884609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293063013,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1293063013,
+    "wof:lastmodified":1537620453,
+    "wof:name":"Eesnurga",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.94306,
+    58.51944,
+    25.94306,
+    58.51944
+],
+  "geometry": {"coordinates":[25.94306,58.51944],"type":"Point"}
+}

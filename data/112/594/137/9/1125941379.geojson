@@ -1,0 +1,119 @@
+{
+  "id": 1125941379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.39,58.13611,26.39,58.13611",
+    "geom:latitude":58.13611,
+    "geom:longitude":26.39,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":198,
+    "gn:population":198,
+    "iso:country":"EE",
+    "lbl:latitude":58.13611,
+    "lbl:longitude":26.39,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0540\u0565\u056c\u056c\u0565\u0576\u0578\u0582\u057c\u0574\u0565"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0435\u043b\u0435\u043d\u0443\u0440\u043c\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Hellenurme"
+    ],
+    "name:eng_x_preferred":[
+        "Hellenurme"
+    ],
+    "name:est_x_preferred":[
+        "Hellenurme"
+    ],
+    "name:pol_x_preferred":[
+        "Hellenurme"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u043b\u043b\u0435\u043d\u0443\u0440\u043c\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Hellenurme"
+    ],
+    "name:unk_x_variant":[
+        "Myza Khellenurme"
+    ],
+    "name:vol_x_preferred":[
+        "Hellenurme"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":592147,
+    "qs_pg:gn_pop":198,
+    "qs_pg:name":"Hellenurme",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Valgamaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1140454,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":842235,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Valgamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592147,
+        "gp:id":842235,
+        "qs_pg:id":1140454,
+        "wd:id":"Q2908290"
+    },
+    "wof:country":"EE",
+    "wof:created":1497297129,
+    "wof:geomhash":"70ae264a3030761fdda4f58d7308627d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125941379,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1125941379,
+    "wof:lastmodified":1513956369,
+    "wof:name":"Hellenurme",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.39,
+    58.13611,
+    26.39,
+    58.13611
+],
+  "geometry": {"coordinates":[26.39,58.13611],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260269399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.09667,59.00417,25.09667,59.00417",
+    "geom:latitude":59.00417,
+    "geom:longitude":25.09667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"668.0",
+    "gn:admin3_code":"8279.0",
+    "gn:asciiname":"Tolla",
+    "gn:country_code":"EE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588253,
+    "gn:latitude":59.00417,
+    "gn:longitude":25.09667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Tolla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588253,
+        "wk:page":"Tolla%2C_Estonia"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7a1b2d667192f56098a119134a173872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260269399,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1260269399,
+    "wof:lastmodified":1537562477,
+    "wof:name":"Tolla",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.09667,
+    59.00417,
+    25.09667,
+    59.00417
+],
+  "geometry": {"coordinates":[25.09667,59.00417],"type":"Point"}
+}

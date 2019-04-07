@@ -1,0 +1,74 @@
+{
+  "id": 1293092787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70556,58.90556,23.70556,58.90556",
+    "geom:latitude":58.90556,
+    "geom:longitude":23.70556,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"184.0",
+    "gn:admin3_code":"9568.0",
+    "gn:asciiname":"Vonnu",
+    "gn:country_code":"EE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587473,
+    "gn:latitude":58.90556,
+    "gn:longitude":23.70556,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"V\u00f5nnu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Vana-Vynnu",
+        "Vynnu",
+        "V\u00f5nnu Asundus",
+        "V\u00f5nnu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587473,
+        "wk:page":"V%C3%B5nnu%2C_L%C3%A4%C3%A4ne_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7d7a770f3b94ea7bd6520cca370cf819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293092787,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1293092787,
+    "wof:lastmodified":1537620279,
+    "wof:name":"Vonnu",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70556,
+    58.90556,
+    23.70556,
+    58.90556
+],
+  "geometry": {"coordinates":[23.70556,58.90556],"type":"Point"}
+}

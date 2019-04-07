@@ -1,0 +1,119 @@
+{
+  "id": 1125839633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.59722,58.65139,26.59722,58.65139",
+    "geom:latitude":58.65139,
+    "geom:longitude":26.59722,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":432,
+    "gn:population":432,
+    "iso:country":"EE",
+    "lbl:latitude":58.65139,
+    "lbl:longitude":26.59722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053c\u0578\u0582\u0578\u0582\u0561"
+    ],
+    "name:dut_x_preferred":[
+        "Luua"
+    ],
+    "name:eng_x_preferred":[
+        "Luua"
+    ],
+    "name:est_x_preferred":[
+        "Luua"
+    ],
+    "name:fre_x_preferred":[
+        "Luua"
+    ],
+    "name:ger_x_preferred":[
+        "Luua"
+    ],
+    "name:pol_x_preferred":[
+        "Luua"
+    ],
+    "name:swe_x_preferred":[
+        "Luua"
+    ],
+    "name:unk_x_variant":[
+        "Myza Lua"
+    ],
+    "name:vol_x_preferred":[
+        "Luua"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":590470,
+    "qs_pg:gn_pop":432,
+    "qs_pg:name":"Luua",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"J\u00f5gevamaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":179833,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":843812,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"J\u00f5gevamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590470,
+        "gp:id":843812,
+        "qs_pg:id":179833,
+        "wd:id":"Q1004873"
+    },
+    "wof:country":"EE",
+    "wof:created":1497292875,
+    "wof:geomhash":"805dfab81b59ef94c3445894cd7d7991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125839633,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1125839633,
+    "wof:lastmodified":1513956423,
+    "wof:name":"Luua",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:population":432,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.59722,
+    58.65139,
+    26.59722,
+    58.65139
+],
+  "geometry": {"coordinates":[26.59722,58.65139],"type":"Point"}
+}

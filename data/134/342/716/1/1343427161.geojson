@@ -1,0 +1,68 @@
+{
+  "id": 1343427161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.84611,58.37806,26.84611,58.37806",
+    "geom:latitude":58.37806,
+    "geom:longitude":26.84611,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"432.0",
+    "gn:admin3_code":"2556.0",
+    "gn:asciiname":"Kakumetsa",
+    "gn:country_code":"EE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":794109,
+    "gn:latitude":58.37806,
+    "gn:longitude":26.84611,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kakumetsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794109,
+        "wk:page":"Kakumetsa"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"f458466117038f9478c4969ac20ffcb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343427161,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1343427161,
+    "wof:lastmodified":1537562541,
+    "wof:name":"Kakumetsa",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.84611,
+    58.37806,
+    26.84611,
+    58.37806
+],
+  "geometry": {"coordinates":[26.84611,58.37806],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259903923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.56667,58.71667,25.56667,58.71667",
+    "geom:latitude":58.71667,
+    "geom:longitude":25.56667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"834.0",
+    "gn:admin3_code":"7293.0",
+    "gn:asciiname":"Olustvere",
+    "gn:country_code":"EE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589833,
+    "gn:latitude":58.71667,
+    "gn:longitude":25.56667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Olustvere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589833
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"8bddb49f56212e21c8043c43eef285f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259903923,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1259903923,
+    "wof:lastmodified":1536749559,
+    "wof:name":"Olustvere",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56667,
+    58.71666999999999,
+    25.56667,
+    58.71666999999999
+],
+  "geometry": {"coordinates":[25.56667,58.71666999999999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259341835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.045,57.69056,27.045,57.69056",
+    "geom:latitude":57.69056,
+    "geom:longitude":27.045,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"698.0",
+    "gn:admin3_code":"9665.0",
+    "gn:asciiname":"Vaenni",
+    "gn:country_code":"EE",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620250,
+    "gn:latitude":57.69056,
+    "gn:longitude":27.045,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"V\u00e4nni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e4nni",
+        "\u0412\u044f\u043d\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620250
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"9210bd5e7dd298a378dadf4fb0b9f509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259341835,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1259341835,
+    "wof:lastmodified":1537620526,
+    "wof:name":"Vaenni",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.045,
+    57.69056,
+    27.045,
+    57.69056
+],
+  "geometry": {"coordinates":[27.045,57.69056],"type":"Point"}
+}

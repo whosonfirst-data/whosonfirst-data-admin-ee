@@ -1,0 +1,73 @@
+{
+  "id": 1293805139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.78333,58.81667,23.78333,58.81667",
+    "geom:latitude":58.81667,
+    "geom:longitude":23.78333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"6805.0",
+    "gn:asciiname":"Rannamoisa",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589124,
+    "gn:latitude":58.81667,
+    "gn:longitude":23.78333,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Rannam\u00f5isa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Rannamyyza",
+        "Rannam\u00f4isa Asundus",
+        "Rannam\u00f5isa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589124
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"164be1fe49a0b6a7730c9079a0bc211f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293805139,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1293805139,
+    "wof:lastmodified":1537620335,
+    "wof:name":"Rannamoisa",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.78333,
+    58.81667,
+    23.78333,
+    58.81667
+],
+  "geometry": {"coordinates":[23.78333,58.81667],"type":"Point"}
+}

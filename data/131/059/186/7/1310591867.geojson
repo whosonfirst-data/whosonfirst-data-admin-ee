@@ -1,0 +1,68 @@
+{
+  "id": 1310591867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.48222,59.22833,26.48222,59.22833",
+    "geom:latitude":59.22833,
+    "geom:longitude":26.48222,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"2679.0",
+    "gn:asciiname":"Kannastiku",
+    "gn:country_code":"EE",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793427,
+    "gn:latitude":59.22833,
+    "gn:longitude":26.48222,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kannastiku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793427,
+        "wk:page":"Kannastiku"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"825bdeca58b9e84dcd8e3a206ce0a1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310591867,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1310591867,
+    "wof:lastmodified":1537562536,
+    "wof:name":"Kannastiku",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.48222,
+    59.22833000000001,
+    26.48222,
+    59.22833000000001
+],
+  "geometry": {"coordinates":[26.48222,59.22833000000001],"type":"Point"}
+}

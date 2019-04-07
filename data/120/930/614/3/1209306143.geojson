@@ -1,0 +1,67 @@
+{
+  "id": 1209306143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61194,58.71944,23.61194,58.71944",
+    "geom:latitude":58.71944,
+    "geom:longitude":23.61194,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"430.0",
+    "gn:admin3_code":"4929.0",
+    "gn:asciiname":"Paga",
+    "gn:country_code":"EE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589725,
+    "gn:latitude":58.71944,
+    "gn:longitude":23.61194,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Paga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fol\u2019vark Paga",
+        "Paga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589725
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7203ed0179768808d7a0cf470d399655",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209306143
+        }
+    ],
+    "wof:id":1209306143,
+    "wof:lastmodified":1537620356,
+    "wof:name":"Paga",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61194,
+    58.71944000000001,
+    23.61194,
+    58.71944000000001
+],
+  "geometry": {"coordinates":[23.61194,58.71944000000001],"type":"Point"}
+}

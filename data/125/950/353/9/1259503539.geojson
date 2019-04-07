@@ -1,0 +1,71 @@
+{
+  "id": 1259503539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.32833,58.92639,26.32833,58.92639",
+    "geom:latitude":58.92639,
+    "geom:longitude":26.32833,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"928.0",
+    "gn:admin3_code":"3162.0",
+    "gn:asciiname":"Kitsemetsa",
+    "gn:country_code":"EE",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618568,
+    "gn:latitude":58.92639,
+    "gn:longitude":26.32833,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kitsemetsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u041f\u0430\u0440\u0438\u0444\u0435\u0440\u044a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618568,
+        "wk:page":"Kitsemetsa"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"07b10ffa2bee30133fcfd7ab3c809d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259503539,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1259503539,
+    "wof:lastmodified":1537620491,
+    "wof:name":"Kitsemetsa",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.32833,
+    58.92639000000001,
+    26.32833,
+    58.92639000000001
+],
+  "geometry": {"coordinates":[26.32833,58.92639000000001],"type":"Point"}
+}

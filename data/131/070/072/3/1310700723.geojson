@@ -1,0 +1,71 @@
+{
+  "id": 1310700723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5225,58.71472,26.5225,58.71472",
+    "geom:latitude":58.71472,
+    "geom:longitude":26.5225,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"247.0",
+    "gn:admin3_code":"9037.0",
+    "gn:asciiname":"Vanavaelja",
+    "gn:country_code":"EE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618302,
+    "gn:latitude":58.71472,
+    "gn:longitude":26.5225,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Vanav\u00e4lja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vanav\u00e4lja",
+        "Valma soo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618302
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d933fa0e02c5913bcffb6caec20b4db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310700723,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1310700723,
+    "wof:lastmodified":1537620485,
+    "wof:name":"Vanavaelja",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5225,
+    58.71471999999999,
+    26.5225,
+    58.71471999999999
+],
+  "geometry": {"coordinates":[26.5225,58.71471999999999],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259468401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.90556,59.43278,25.90556,59.43278",
+    "geom:latitude":59.43278,
+    "geom:longitude":25.90556,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"272.0",
+    "gn:admin3_code":"4641.0",
+    "gn:asciiname":"Laesna",
+    "gn:country_code":"EE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590778,
+    "gn:latitude":59.43278,
+    "gn:longitude":25.90556,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"L\u00e4sna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lyasna",
+        "L\u00e4sna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590778,
+        "wk:page":"L%C3%A4sna"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"95195ed86db82c45dfd6a98a0e393eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259468401,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1259468401,
+    "wof:lastmodified":1537620394,
+    "wof:name":"Laesna",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.90556,
+    59.43278000000001,
+    25.90556,
+    59.43278000000001
+],
+  "geometry": {"coordinates":[25.90556,59.43278000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209097747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73111,59.03667,23.73111,59.03667",
+    "geom:latitude":59.03667,
+    "geom:longitude":23.73111,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"7709.0",
+    "gn:asciiname":"Rootsi",
+    "gn:country_code":"EE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588959,
+    "gn:latitude":59.03667,
+    "gn:longitude":23.73111,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Rootsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rotsi",
+        "Rootsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588959
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"b839dd2a5468bf14dedcac1545621284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209097747
+        }
+    ],
+    "wof:id":1209097747,
+    "wof:lastmodified":1537620329,
+    "wof:name":"Rootsi",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73111,
+    59.03667,
+    23.73111,
+    59.03667
+],
+  "geometry": {"coordinates":[23.73111,59.03667],"type":"Point"}
+}

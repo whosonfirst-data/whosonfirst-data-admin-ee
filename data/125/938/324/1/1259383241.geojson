@@ -1,0 +1,73 @@
+{
+  "id": 1259383241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.01917,59.035,26.01917,59.035",
+    "geom:latitude":59.035,
+    "geom:longitude":26.01917,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"255.0",
+    "gn:admin3_code":"6780.0",
+    "gn:asciiname":"Ramma",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589160,
+    "gn:latitude":59.035,
+    "gn:longitude":26.01917,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Ramma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ramma Asundus",
+        "Ramma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589160,
+        "wk:page":"Ramma"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"ab6ec4d635835a32cfd6b2907573ad78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259383241,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1259383241,
+    "wof:lastmodified":1537620337,
+    "wof:name":"Ramma",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.01917000000001,
+    59.035,
+    26.01917000000001,
+    59.035
+],
+  "geometry": {"coordinates":[26.01917000000001,59.035],"type":"Point"}
+}

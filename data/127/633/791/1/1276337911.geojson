@@ -1,0 +1,72 @@
+{
+  "id": 1276337911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.55579,59.01598,22.55579,59.01598",
+    "geom:latitude":59.01598,
+    "geom:longitude":22.55579,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"4995.0",
+    "gn:asciiname":"Ogandi",
+    "gn:country_code":"EE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589886,
+    "gn:latitude":59.01598,
+    "gn:longitude":22.55579,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Ogandi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oandi",
+        "Ogandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589886,
+        "wk:page":"Ogandi"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"fc5dc059c4c4dcc21010f38b62f7630c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276337911,
+            "region_id":85682989
+        }
+    ],
+    "wof:id":1276337911,
+    "wof:lastmodified":1537620363,
+    "wof:name":"Ogandi",
+    "wof:parent_id":85682989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.55579,
+    59.01598000000001,
+    22.55579,
+    59.01598000000001
+],
+  "geometry": {"coordinates":[22.55579,59.01598000000001],"type":"Point"}
+}

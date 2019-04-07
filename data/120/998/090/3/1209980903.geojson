@@ -1,0 +1,67 @@
+{
+  "id": 1209980903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41639,57.71,27.41639,57.71",
+    "geom:latitude":57.71,
+    "geom:longitude":27.41639,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"732.0",
+    "gn:admin3_code":"3053.0",
+    "gn:asciiname":"Solova",
+    "gn:country_code":"EE",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620129,
+    "gn:latitude":57.71,
+    "gn:longitude":27.41639,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Solova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620129
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"59425c5fcff48301fff7003d8e280c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1209980903,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1209980903,
+    "wof:lastmodified":1536390785,
+    "wof:name":"Solova",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41639,
+    57.71,
+    27.41639,
+    57.71
+],
+  "geometry": {"coordinates":[27.41639,57.71],"type":"Point"}
+}

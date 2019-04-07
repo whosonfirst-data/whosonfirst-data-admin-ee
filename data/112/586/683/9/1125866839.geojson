@@ -1,0 +1,124 @@
+{
+  "id": 1125866839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7725,58.73306,25.7725,58.73306",
+    "geom:latitude":58.73306,
+    "geom:longitude":25.7725,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":486,
+    "gn:population":486,
+    "iso:country":"EE",
+    "lbl:latitude":58.73306,
+    "lbl:longitude":25.7725,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Imavere Parish"
+    ],
+    "name:est_x_preferred":[
+        "Imavere vald"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u0633\u062a\u0627\u0646 \u0627\u06cc\u0645\u0627\u0648\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Commune de Imavere"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0574\u0561\u057e\u0565\u057c\u0565"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10db\u10d0\u10d5\u10d4\u10e0\u10d4\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:nor_x_preferred":[
+        "Imavere kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Imavere"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Imavere"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0430\u0432\u0435\u0440\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043c\u0430\u0432\u0435\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Myza Imavere"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":592035,
+    "qs_pg:gn_pop":486,
+    "qs_pg:name":"Imavere",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"J\u00e4rvamaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":10,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":883665,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":842336,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"J\u00e4rvamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592035,
+        "gp:id":842336,
+        "qs_pg:id":883665
+    },
+    "wof:country":"EE",
+    "wof:created":1497294085,
+    "wof:geomhash":"1bf67ac8ddaf394f2a6e8e90dd708809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125866839,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1125866839,
+    "wof:lastmodified":1509397041,
+    "wof:name":"Imavere",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:population":486,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7725,
+    58.73306,
+    25.7725,
+    58.73306
+],
+  "geometry": {"coordinates":[25.7725,58.73306],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209337397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7,58.88333,26.7,58.88333",
+    "geom:latitude":58.88333,
+    "geom:longitude":26.7,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"247.0",
+    "gn:admin3_code":"4367.0",
+    "gn:asciiname":"Kaarlimaee",
+    "gn:country_code":"EE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591844,
+    "gn:latitude":58.88333,
+    "gn:longitude":26.7,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kaarlim\u00e4e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaarli",
+        "Karlimyae",
+        "Kaarlim\u00e4e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591844
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"8c7cb05fc79e7c61149913f2a8c1eae8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209337397
+        }
+    ],
+    "wof:id":1209337397,
+    "wof:lastmodified":1537620433,
+    "wof:name":"Kaarlimaee",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7,
+    58.88333000000001,
+    26.7,
+    58.88333000000001
+],
+  "geometry": {"coordinates":[26.7,58.88333000000001],"type":"Point"}
+}

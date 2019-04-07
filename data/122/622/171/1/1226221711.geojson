@@ -1,0 +1,68 @@
+{
+  "id": 1226221711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.30194,58.78778,24.30194,58.78778",
+    "geom:latitude":58.78778,
+    "geom:longitude":24.30194,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"8208.0",
+    "gn:asciiname":"Tiduvere",
+    "gn:country_code":"EE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588303,
+    "gn:latitude":58.78778,
+    "gn:longitude":24.30194,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Tiduvere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588303,
+        "wk:page":"Tiduvere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d9b4248a283fdb160256b6a77db3b857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226221711,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1226221711,
+    "wof:lastmodified":1537562477,
+    "wof:name":"Tiduvere",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.30194,
+    58.78778000000001,
+    24.30194,
+    58.78778000000001
+],
+  "geometry": {"coordinates":[24.30194,58.78778000000001],"type":"Point"}
+}

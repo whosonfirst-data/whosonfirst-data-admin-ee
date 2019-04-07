@@ -1,0 +1,72 @@
+{
+  "id": 1242674375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.79278,58.69222,23.79278,58.69222",
+    "geom:latitude":58.69222,
+    "geom:longitude":23.79278,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"430.0",
+    "gn:admin3_code":"1169.0",
+    "gn:asciiname":"Alakuela",
+    "gn:country_code":"EE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592562,
+    "gn:latitude":58.69222,
+    "gn:longitude":23.79278,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Alak\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alakyula",
+        "Alak\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592562,
+        "wk:page":"Alak%C3%BCla%2C_L%C3%A4%C3%A4ne_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"571a0ff5ae0110e36ee65cd0f6cf2844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242674375,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1242674375,
+    "wof:lastmodified":1537620461,
+    "wof:name":"Alakuela",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.79278,
+    58.69221999999999,
+    23.79278,
+    58.69221999999999
+],
+  "geometry": {"coordinates":[23.79278,58.69221999999999],"type":"Point"}
+}

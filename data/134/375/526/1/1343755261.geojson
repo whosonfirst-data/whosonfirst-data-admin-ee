@@ -1,0 +1,72 @@
+{
+  "id": 1343755261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.63556,59.38639,26.63556,59.38639",
+    "geom:latitude":59.38639,
+    "geom:longitude":26.63556,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"661.0",
+    "gn:admin3_code":"7925.0",
+    "gn:asciiname":"Saemi-Tagakuela",
+    "gn:country_code":"EE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618671,
+    "gn:latitude":59.38639,
+    "gn:longitude":26.63556,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"S\u00e4mi-Tagak\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e4mi-Tagak\u00fcla",
+        "Silla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618671,
+        "wk:page":"S%C3%A4mi-Tagak%C3%BCla"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"f4c76c5fe6633359b34c517c10e701a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343755261,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1343755261,
+    "wof:lastmodified":1537620493,
+    "wof:name":"Saemi-Tagakuela",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.63556,
+    59.38639000000001,
+    26.63556,
+    59.38639000000001
+],
+  "geometry": {"coordinates":[26.63556,59.38639000000001],"type":"Point"}
+}

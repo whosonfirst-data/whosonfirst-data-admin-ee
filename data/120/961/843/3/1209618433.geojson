@@ -1,0 +1,68 @@
+{
+  "id": 1209618433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.80571,58.98615,22.80571,58.98615",
+    "geom:latitude":58.98615,
+    "geom:longitude":22.80571,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"5946.0",
+    "gn:asciiname":"Lobembe",
+    "gn:country_code":"EE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618253,
+    "gn:latitude":58.98615,
+    "gn:longitude":22.80571,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"L\u00f5bembe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00f5bembe",
+        "Lembembe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618253,
+        "wk:page":"L%C3%B5bembe"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"9bbe2d88e107d57c02da043fcad946a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209618433
+        }
+    ],
+    "wof:id":1209618433,
+    "wof:lastmodified":1537620484,
+    "wof:name":"Lobembe",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.80571,
+    58.98615,
+    22.80571,
+    58.98615
+],
+  "geometry": {"coordinates":[22.80571,58.98615],"type":"Point"}
+}

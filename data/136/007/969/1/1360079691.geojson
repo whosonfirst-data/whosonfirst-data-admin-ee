@@ -1,0 +1,79 @@
+{
+  "id": 1360079691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.5325,59.07944,23.5325,59.07944",
+    "geom:latitude":59.07944,
+    "geom:longitude":23.5325,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"1760.0",
+    "gn:asciiname":"Hara",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592185,
+    "gn:latitude":59.07944,
+    "gn:longitude":23.5325,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Hara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Harga"
+    ],
+    "name:und_x_variant":[
+        "Khar\u2019ya",
+        "Kharga",
+        "Khara",
+        "Harja",
+        "Hara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592185,
+        "wk:page":"Hara%2C_L%C3%A4%C3%A4ne_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d5364debfc136412b3effc8d308c88d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1360079691,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1360079691,
+    "wof:lastmodified":1537620448,
+    "wof:name":"Hara",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.5325,
+    59.07944000000001,
+    23.5325,
+    59.07944000000001
+],
+  "geometry": {"coordinates":[23.5325,59.07944000000001],"type":"Point"}
+}

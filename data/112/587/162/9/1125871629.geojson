@@ -1,0 +1,122 @@
+{
+  "id": 1125871629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.12417,58.27083,24.12417,58.27083",
+    "geom:latitude":58.27083,
+    "geom:longitude":24.12417,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":109,
+    "gn:population":109,
+    "iso:country":"EE",
+    "lbl:latitude":58.27083,
+    "lbl:longitude":24.12417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054a\u0578\u0578\u0581\u056b"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0446\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Pootsi"
+    ],
+    "name:eng_x_preferred":[
+        "Pootsi"
+    ],
+    "name:est_x_preferred":[
+        "Pootsi"
+    ],
+    "name:pol_x_preferred":[
+        "Pootsi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043e\u0442\u0441\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Pootsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043e\u0442\u0441\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Myza Potsi"
+    ],
+    "name:vol_x_preferred":[
+        "Pootsi"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":589364,
+    "qs_pg:gn_pop":109,
+    "qs_pg:name":"Pootsi",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"P\u00e4rnumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":10,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":179951,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":844838,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"P\u00e4rnumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589364,
+        "gp:id":844838,
+        "qs_pg:id":179951,
+        "wd:id":"Q2025546"
+    },
+    "wof:country":"EE",
+    "wof:created":1497294332,
+    "wof:geomhash":"99cf0b69f2fd9bf8f74d4bb342161704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125871629,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1125871629,
+    "wof:lastmodified":1513956459,
+    "wof:name":"Pootsi",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.12417,
+    58.27083,
+    24.12417,
+    58.27083
+],
+  "geometry": {"coordinates":[24.12417,58.27083],"type":"Point"}
+}

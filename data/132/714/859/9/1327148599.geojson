@@ -1,0 +1,68 @@
+{
+  "id": 1327148599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.18194,59.34583,25.18194,59.34583",
+    "geom:latitude":59.34583,
+    "geom:longitude":25.18194,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"141.0",
+    "gn:admin3_code":"4397.0",
+    "gn:asciiname":"Linnakse",
+    "gn:country_code":"EE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590611,
+    "gn:latitude":59.34583,
+    "gn:longitude":25.18194,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Linnakse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590611,
+        "wk:page":"Linnakse"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c538737b02eea8a360294ab0a2f3ef98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327148599,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1327148599,
+    "wof:lastmodified":1537562505,
+    "wof:name":"Linnakse",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18194,
+    59.34583000000001,
+    25.18194,
+    59.34583000000001
+],
+  "geometry": {"coordinates":[25.18194,59.34583000000001],"type":"Point"}
+}

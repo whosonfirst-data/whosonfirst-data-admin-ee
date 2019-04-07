@@ -1,0 +1,69 @@
+{
+  "id": 1209193309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51667,58.31583,22.51667,58.31583",
+    "geom:latitude":58.31583,
+    "geom:longitude":22.51667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"714.0",
+    "gn:admin3_code":"4754.0",
+    "gn:asciiname":"Maleva",
+    "gn:country_code":"EE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590362,
+    "gn:latitude":58.31583,
+    "gn:longitude":22.51667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Maleva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Maleva",
+        "Meedla",
+        "Maleva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590362,
+        "wk:page":"Maleva"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"71202c18988e6f4d12d6eee45bbcd3e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209193309
+        }
+    ],
+    "wof:id":1209193309,
+    "wof:lastmodified":1537620380,
+    "wof:name":"Maleva",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51667,
+    58.31583000000001,
+    22.51667,
+    58.31583000000001
+],
+  "geometry": {"coordinates":[22.51667,58.31583000000001],"type":"Point"}
+}

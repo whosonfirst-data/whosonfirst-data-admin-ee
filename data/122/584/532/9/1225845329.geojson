@@ -1,0 +1,80 @@
+{
+  "id": 1225845329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.805,58.88167,25.805,58.88167",
+    "geom:latitude":58.88167,
+    "geom:longitude":25.805,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"255.0",
+    "gn:admin3_code":"9623.0",
+    "gn:asciiname":"Vaeike-Kareda",
+    "gn:country_code":"EE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587932,
+    "gn:latitude":58.88167,
+    "gn:longitude":25.805,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"V\u00e4ike-Kareda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "V\u00e4ike-Kareda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044f\u0439\u043a\u0435-\u041a\u044f\u0440\u0435\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kareda V\u00e4ike",
+        "V\u00e4ika-Kareda",
+        "Vyayke Kareda",
+        "V\u00e4ike-Kareda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587932,
+        "wk:page":"V%C3%A4ike-Kareda"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a2c6763d1d63f970dec3de953169564d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1225845329,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1225845329,
+    "wof:lastmodified":1537620294,
+    "wof:name":"Vaeike-Kareda",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.805,
+    58.88166999999999,
+    25.805,
+    58.88166999999999
+],
+  "geometry": {"coordinates":[25.805,58.88166999999999],"type":"Point"}
+}

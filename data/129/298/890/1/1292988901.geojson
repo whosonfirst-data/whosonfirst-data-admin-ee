@@ -1,0 +1,70 @@
+{
+  "id": 1292988901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.07722,58.6425,25.07722,58.6425",
+    "geom:latitude":58.6425,
+    "geom:longitude":25.07722,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"638.0",
+    "gn:admin3_code":"7967.0",
+    "gn:asciiname":"Pahja",
+    "gn:country_code":"EE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618186,
+    "gn:latitude":58.6425,
+    "gn:longitude":25.07722,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pahja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0414-\u0440\u044b \u041f\u0430\u0445\u044c\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618186
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d26d8799448b5f82b95ebe0113f891fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1292988901,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1292988901,
+    "wof:lastmodified":1537620482,
+    "wof:name":"Pahja",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07722,
+    58.6425,
+    25.07722,
+    58.6425
+],
+  "geometry": {"coordinates":[25.07722,58.6425],"type":"Point"}
+}

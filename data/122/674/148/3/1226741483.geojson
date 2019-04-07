@@ -1,0 +1,77 @@
+{
+  "id": 1226741483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53389,59.16806,23.53389,59.16806",
+    "geom:latitude":59.16806,
+    "geom:longitude":23.53389,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"1571.0",
+    "gn:asciiname":"Elbiku",
+    "gn:country_code":"EE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589843,
+    "gn:latitude":59.16806,
+    "gn:longitude":23.53389,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Elbiku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "\u00d6lb\u00e4ck"
+    ],
+    "name:und_x_variant":[
+        "\u00d5lbiku",
+        "Elbikese",
+        "El\u2019bikeze",
+        "Elbiku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589843,
+        "wk:page":"Elbiku"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"de8e3b54cb200ad40905a90ec6231ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226741483,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1226741483,
+    "wof:lastmodified":1537620361,
+    "wof:name":"Elbiku",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53389,
+    59.16806,
+    23.53389,
+    59.16806
+],
+  "geometry": {"coordinates":[23.53389,59.16806],"type":"Point"}
+}

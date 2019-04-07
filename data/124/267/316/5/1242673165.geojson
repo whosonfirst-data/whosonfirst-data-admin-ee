@@ -1,0 +1,71 @@
+{
+  "id": 1242673165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.28556,58.93833,26.28556,58.93833",
+    "geom:latitude":58.93833,
+    "geom:longitude":26.28556,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"928.0",
+    "gn:admin3_code":"5661.0",
+    "gn:asciiname":"Olju",
+    "gn:country_code":"EE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618613,
+    "gn:latitude":58.93833,
+    "gn:longitude":26.28556,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Olju",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oljo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618613,
+        "wk:page":"Olju"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"39d20e9535b0c56bd9a249b7c2f18676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242673165,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1242673165,
+    "wof:lastmodified":1537620492,
+    "wof:name":"Olju",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.28556,
+    58.93833000000001,
+    26.28556,
+    58.93833000000001
+],
+  "geometry": {"coordinates":[26.28556,58.93833000000001],"type":"Point"}
+}

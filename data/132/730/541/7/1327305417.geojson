@@ -1,0 +1,71 @@
+{
+  "id": 1327305417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4825,58.73639,24.4825,58.73639",
+    "geom:latitude":58.73639,
+    "geom:longitude":24.4825,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"5921.0",
+    "gn:asciiname":"Uhja",
+    "gn:country_code":"EE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588107,
+    "gn:latitude":58.73639,
+    "gn:longitude":24.4825,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Uhja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ukh\u2019ya",
+        "Uhja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588107
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"e117828c73528f0c3e06c147b82691fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327305417,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1327305417,
+    "wof:lastmodified":1537620301,
+    "wof:name":"Uhja",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4825,
+    58.73639,
+    24.4825,
+    58.73639
+],
+  "geometry": {"coordinates":[24.4825,58.73639],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293880463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.72889,58.8125,23.72889,58.8125",
+    "geom:latitude":58.8125,
+    "geom:longitude":23.72889,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"8405.0",
+    "gn:asciiname":"Tuka",
+    "gn:country_code":"EE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619419,
+    "gn:latitude":58.8125,
+    "gn:longitude":23.72889,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Tuka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619419,
+        "wk:page":"Tuka%2C_Estonia"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"b635c5e16ff934b84a105415a4a5023b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293880463,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1293880463,
+    "wof:lastmodified":1537562559,
+    "wof:name":"Tuka",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.72889,
+    58.8125,
+    23.72889,
+    58.8125
+],
+  "geometry": {"coordinates":[23.72889,58.8125],"type":"Point"}
+}

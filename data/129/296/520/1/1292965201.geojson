@@ -1,0 +1,68 @@
+{
+  "id": 1292965201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.98111,57.78722,26.98111,57.78722",
+    "geom:latitude":57.78722,
+    "geom:longitude":26.98111,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"4845.0",
+    "gn:asciiname":"Meeliku",
+    "gn:country_code":"EE",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":794305,
+    "gn:latitude":57.78722,
+    "gn:longitude":26.98111,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Meeliku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794305,
+        "wk:page":"Meeliku"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"83dd56fa87778567157f7a7914dd0876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1292965201,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1292965201,
+    "wof:lastmodified":1537562544,
+    "wof:name":"Meeliku",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.98111,
+    57.78722,
+    26.98111,
+    57.78722
+],
+  "geometry": {"coordinates":[26.98111,57.78722],"type":"Point"}
+}

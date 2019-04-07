@@ -1,0 +1,67 @@
+{
+  "id": 1344264337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.72222,59.38556,27.72222,59.38556",
+    "geom:latitude":59.38556,
+    "geom:longitude":27.72222,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"6582.0",
+    "gn:asciiname":"Allika",
+    "gn:country_code":"EE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619752,
+    "gn:latitude":59.38556,
+    "gn:longitude":27.72222,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Allika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619752
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"10636e634c32d3ddf2c9c6be6f733d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1344264337,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1344264337,
+    "wof:lastmodified":1537075401,
+    "wof:name":"Allika",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.72222,
+    59.38556,
+    27.72222,
+    59.38556
+],
+  "geometry": {"coordinates":[27.72222,59.38556],"type":"Point"}
+}

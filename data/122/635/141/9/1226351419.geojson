@@ -1,0 +1,73 @@
+{
+  "id": 1226351419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.4778,58.78916,22.4778,58.78916",
+    "geom:latitude":58.78916,
+    "geom:longitude":22.4778,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"3160.0",
+    "gn:asciiname":"Haldreka",
+    "gn:country_code":"EE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592202,
+    "gn:latitude":58.78916,
+    "gn:longitude":22.4778,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Haldreka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haldre",
+        "Galdrik",
+        "Haldreka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592202,
+        "wk:page":"Haldreka"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"4a1626d17127dd18cb8df674c0c5d477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226351419,
+            "region_id":85682989
+        }
+    ],
+    "wof:id":1226351419,
+    "wof:lastmodified":1537620449,
+    "wof:name":"Haldreka",
+    "wof:parent_id":85682989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.4778,
+    58.78916,
+    22.4778,
+    58.78916
+],
+  "geometry": {"coordinates":[22.4778,58.78916],"type":"Point"}
+}

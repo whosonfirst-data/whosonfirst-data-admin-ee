@@ -1,0 +1,71 @@
+{
+  "id": 1293798001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.22389,59.36361,25.22389,59.36361",
+    "geom:latitude":59.36361,
+    "geom:longitude":25.22389,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"141.0",
+    "gn:admin3_code":"7398.0",
+    "gn:asciiname":"Salumaee",
+    "gn:country_code":"EE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588812,
+    "gn:latitude":59.36361,
+    "gn:longitude":25.22389,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Salum\u00e4e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salum\u00e4e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588812,
+        "wk:page":"Salum%C3%A4e"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"b5712418d0f3f7ef193f5a18ee526dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293798001,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1293798001,
+    "wof:lastmodified":1537620324,
+    "wof:name":"Salumaee",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.22389,
+    59.36361,
+    25.22389,
+    59.36361
+],
+  "geometry": {"coordinates":[25.22389,59.36361],"type":"Point"}
+}

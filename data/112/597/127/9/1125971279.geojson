@@ -1,0 +1,114 @@
+{
+  "id": 1125971279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.35472,59.10889,26.35472,59.10889",
+    "geom:latitude":59.10889,
+    "geom:longitude":26.35472,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":131,
+    "gn:population":131,
+    "iso:country":"EE",
+    "lbl:latitude":59.10889,
+    "lbl:longitude":26.35472,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0531\u057e\u056b\u057d\u057a\u0565\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0432\u0438\u0441\u043f\u0435\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Avispea"
+    ],
+    "name:eng_x_preferred":[
+        "Avispea"
+    ],
+    "name:est_x_preferred":[
+        "Avispea"
+    ],
+    "name:pol_x_preferred":[
+        "Avispea"
+    ],
+    "name:swe_x_preferred":[
+        "Avispea"
+    ],
+    "name:unk_x_variant":[
+        "Avisp\u00e4\u00e4"
+    ],
+    "name:vol_x_preferred":[
+        "Avispea"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":592333,
+    "qs_pg:gn_pop":131,
+    "qs_pg:name":"Avispea",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"L\u00e4\u00e4ne-Virumaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":405700,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":842079,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592333,
+        "gp:id":842079,
+        "qs_pg:id":405700,
+        "wd:id":"Q3477651"
+    },
+    "wof:country":"EE",
+    "wof:created":1497298174,
+    "wof:geomhash":"931191eb94dcbdf31bbaeec8cee82b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125971279,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1125971279,
+    "wof:lastmodified":1513956347,
+    "wof:name":"Avispea",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.35472,
+    59.10889,
+    26.35472,
+    59.10889
+],
+  "geometry": {"coordinates":[26.35472,59.10889],"type":"Point"}
+}

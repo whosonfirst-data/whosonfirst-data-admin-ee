@@ -1,0 +1,95 @@
+{
+  "id": 1125852935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.61361,57.60917,26.61361,57.60917",
+    "geom:latitude":57.60917,
+    "geom:longitude":26.61361,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":229,
+    "gn:population":229,
+    "iso:country":"EE",
+    "lbl:latitude":57.60917,
+    "lbl:longitude":26.61361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "M\u00f5niste"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044b\u043d\u0438\u0441\u0442\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Myniste"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":590155,
+    "qs_pg:gn_pop":229,
+    "qs_pg:name":"M\u00f5niste",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"V\u00f5rumaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1274171,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":844103,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"V\u00f5rumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590155,
+        "gp:id":844103,
+        "qs_pg:id":1274171
+    },
+    "wof:country":"EE",
+    "wof:created":1497293492,
+    "wof:geomhash":"3793358da61a4f5ee8e07db2ce65de2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125852935,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1125852935,
+    "wof:lastmodified":1509396057,
+    "wof:name":"M\u00f5niste",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.61361,
+    57.60917,
+    26.61361,
+    57.60917
+],
+  "geometry": {"coordinates":[26.61361,57.60917],"type":"Point"}
+}

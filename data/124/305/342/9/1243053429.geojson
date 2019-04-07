@@ -1,0 +1,71 @@
+{
+  "id": 1243053429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.25639,59.0175,26.25639,59.0175",
+    "geom:latitude":59.0175,
+    "geom:longitude":26.25639,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"928.0",
+    "gn:admin3_code":"2635.0",
+    "gn:asciiname":"Kamariku",
+    "gn:country_code":"EE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618957,
+    "gn:latitude":59.0175,
+    "gn:longitude":26.25639,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kamariku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaewum\u00e4e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618957,
+        "wk:page":"Kamariku"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"752905470ca2a9be473f57f9eb263761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243053429,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1243053429,
+    "wof:lastmodified":1537620499,
+    "wof:name":"Kamariku",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.25639,
+    59.0175,
+    26.25639,
+    59.0175
+],
+  "geometry": {"coordinates":[26.25639,59.0175],"type":"Point"}
+}

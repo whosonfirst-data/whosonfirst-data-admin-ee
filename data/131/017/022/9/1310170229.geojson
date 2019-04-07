@@ -1,0 +1,71 @@
+{
+  "id": 1310170229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.52167,58.41028,25.52167,58.41028",
+    "geom:latitude":58.41028,
+    "geom:longitude":25.52167,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"899.0",
+    "gn:admin3_code":"6626.0",
+    "gn:asciiname":"Vahekuela",
+    "gn:country_code":"EE",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620397,
+    "gn:latitude":58.41028,
+    "gn:longitude":25.52167,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Vahek\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vahek\u00fcla",
+        "Vahe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620397
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"6c1800485e22ebdd0bd561fe1448ff28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310170229,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1310170229,
+    "wof:lastmodified":1537620529,
+    "wof:name":"Vahekuela",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.52167,
+    58.41028000000001,
+    25.52167,
+    58.41028000000001
+],
+  "geometry": {"coordinates":[25.52167,58.41028000000001],"type":"Point"}
+}

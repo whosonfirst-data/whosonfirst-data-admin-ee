@@ -1,0 +1,71 @@
+{
+  "id": 1210030603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.49111,59.44389,25.49111,59.44389",
+    "geom:latitude":59.44389,
+    "geom:longitude":25.49111,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"353.0",
+    "gn:admin3_code":"2046.0",
+    "gn:asciiname":"Ilmastalu",
+    "gn:country_code":"EE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618906,
+    "gn:latitude":59.44389,
+    "gn:longitude":25.49111,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Ilmastalu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ilmatsalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618906,
+        "wk:page":"Ilmastalu"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"114bbd2eebf22f9a1a781bc3237926fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1210030603,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1210030603,
+    "wof:lastmodified":1537620498,
+    "wof:name":"Ilmastalu",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.49111,
+    59.44389,
+    25.49111,
+    59.44389
+],
+  "geometry": {"coordinates":[25.49111,59.44389],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310067475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.42639,58.41139,25.42639,58.41139",
+    "geom:latitude":58.41139,
+    "geom:longitude":25.42639,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"615.0",
+    "gn:admin3_code":"4925.0",
+    "gn:asciiname":"Kitsikuela",
+    "gn:country_code":"EE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620402,
+    "gn:latitude":58.41139,
+    "gn:longitude":25.42639,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kitsik\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kitsik\u00fcla",
+        "Kirikuk\u00fcl\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620402
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"0c8c85bb35240a14dfdf262d416d6d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310067475,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1310067475,
+    "wof:lastmodified":1537620529,
+    "wof:name":"Kitsikuela",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.42639,
+    58.41139,
+    25.42639,
+    58.41139
+],
+  "geometry": {"coordinates":[25.42639,58.41139],"type":"Point"}
+}

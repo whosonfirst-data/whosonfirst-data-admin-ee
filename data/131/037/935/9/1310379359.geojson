@@ -1,0 +1,67 @@
+{
+  "id": 1310379359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.42222,57.70889,27.42222,57.70889",
+    "geom:latitude":57.70889,
+    "geom:longitude":27.42222,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"732.0",
+    "gn:admin3_code":"3053.0",
+    "gn:asciiname":"Suuro-Kiislova",
+    "gn:country_code":"EE",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620130,
+    "gn:latitude":57.70889,
+    "gn:longitude":27.42222,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Suur\u00f5-Kiislova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620130
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a0098fabf949f5fc8a32d1a2a5aaa8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310379359,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1310379359,
+    "wof:lastmodified":1537095776,
+    "wof:name":"Suuro-Kiislova",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.42222000000001,
+    57.70889,
+    27.42222000000001,
+    57.70889
+],
+  "geometry": {"coordinates":[27.42222000000001,57.70889],"type":"Point"}
+}

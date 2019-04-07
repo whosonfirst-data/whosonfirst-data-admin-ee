@@ -1,0 +1,71 @@
+{
+  "id": 1192977473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.11806,57.77583,27.11806,57.77583",
+    "geom:latitude":57.77583,
+    "geom:longitude":27.11806,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"8315.0",
+    "gn:asciiname":"Kallasto",
+    "gn:country_code":"EE",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620192,
+    "gn:latitude":57.77583,
+    "gn:longitude":27.11806,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kallast\u00f5",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kallast\u00f5",
+        "Kallaste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620192
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"e69926d1f1aec4f78868b824c6cec98a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1192977473,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1192977473,
+    "wof:lastmodified":1537620524,
+    "wof:name":"Kallasto",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.11806,
+    57.77583000000001,
+    27.11806,
+    57.77583000000001
+],
+  "geometry": {"coordinates":[27.11806,57.77583000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226105373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9075,58.44833,26.9075,58.44833",
+    "geom:latitude":58.44833,
+    "geom:longitude":26.9075,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"796.0",
+    "gn:admin3_code":"8123.0",
+    "gn:asciiname":"Laeaetsa",
+    "gn:country_code":"EE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619453,
+    "gn:latitude":58.44833,
+    "gn:longitude":26.9075,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"L\u00e4\u00e4tsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e4\u00e4tsa",
+        "K\u00e4\u00e4tse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619453
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"05d2289894debc65062d2ed82ae335d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226105373,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1226105373,
+    "wof:lastmodified":1537620508,
+    "wof:name":"Laeaetsa",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9075,
+    58.44833000000001,
+    26.9075,
+    58.44833000000001
+],
+  "geometry": {"coordinates":[26.9075,58.44833000000001],"type":"Point"}
+}

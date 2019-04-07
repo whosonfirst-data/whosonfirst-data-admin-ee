@@ -1,0 +1,71 @@
+{
+  "id": 1259778923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.30806,59.44417,26.30806,59.44417",
+    "geom:latitude":59.44417,
+    "geom:longitude":26.30806,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"191.0",
+    "gn:admin3_code":"8167.0",
+    "gn:asciiname":"Maenniku",
+    "gn:country_code":"EE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619693,
+    "gn:latitude":59.44417,
+    "gn:longitude":26.30806,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00e4nniku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e4nniku",
+        "M\u00e4nniko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619693
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"30d135eb8aab6867ee0fe06ea4546406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259778923,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1259778923,
+    "wof:lastmodified":1537620513,
+    "wof:name":"Maenniku",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.30806,
+    59.44416999999999,
+    26.30806,
+    59.44416999999999
+],
+  "geometry": {"coordinates":[26.30806,59.44416999999999],"type":"Point"}
+}

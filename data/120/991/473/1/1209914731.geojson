@@ -1,0 +1,72 @@
+{
+  "id": 1209914731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.69194,58.74444,25.69194,58.74444",
+    "geom:latitude":58.74444,
+    "geom:longitude":25.69194,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"255.0",
+    "gn:admin3_code":"6583.0",
+    "gn:asciiname":"Paellastvere",
+    "gn:country_code":"EE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618122,
+    "gn:latitude":58.74444,
+    "gn:longitude":25.69194,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"P\u00e4llastvere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e4llastvere",
+        "\u041f\u0435\u043b\u043b\u0430\u0441\u0442\u0444\u0435\u0440\u044a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618122,
+        "wk:page":"P%C3%A4llastvere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"e8e10a29963f74b116980ba420eb0112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1209914731,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1209914731,
+    "wof:lastmodified":1537620481,
+    "wof:name":"Paellastvere",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.69194,
+    58.74444,
+    25.69194,
+    58.74444
+],
+  "geometry": {"coordinates":[25.69194,58.74444],"type":"Point"}
+}

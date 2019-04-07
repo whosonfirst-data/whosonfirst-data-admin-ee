@@ -1,0 +1,68 @@
+{
+  "id": 1276867345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.11583,59.06278,26.11583,59.06278",
+    "geom:latitude":59.06278,
+    "geom:longitude":26.11583,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"928.0",
+    "gn:admin3_code":"6756.0",
+    "gn:asciiname":"Raigu",
+    "gn:country_code":"EE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793296,
+    "gn:latitude":59.06278,
+    "gn:longitude":26.11583,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Raigu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793296,
+        "wk:page":"Raigu"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"877447537ca8994e2eae5e8dd35ee055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276867345,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1276867345,
+    "wof:lastmodified":1537562533,
+    "wof:name":"Raigu",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.11583,
+    59.06278,
+    26.11583,
+    59.06278
+],
+  "geometry": {"coordinates":[26.11583,59.06278],"type":"Point"}
+}

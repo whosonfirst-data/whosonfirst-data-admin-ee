@@ -1,0 +1,73 @@
+{
+  "id": 1226351951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.87694,59.25167,23.87694,59.25167",
+    "geom:latitude":59.25167,
+    "geom:longitude":23.87694,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"431.0",
+    "gn:admin3_code":"9265.0",
+    "gn:asciiname":"Vihterpalu",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587640,
+    "gn:latitude":59.25167,
+    "gn:longitude":23.87694,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Vihterpalu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Vikhterpalu",
+        "Vikhterpalu",
+        "Vihterpalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587640
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d6f60e9b3bbf8a215f458e320d76c411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226351951,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1226351951,
+    "wof:lastmodified":1537620284,
+    "wof:name":"Vihterpalu",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.87694,
+    59.25167,
+    23.87694,
+    59.25167
+],
+  "geometry": {"coordinates":[23.87694,59.25167],"type":"Point"}
+}

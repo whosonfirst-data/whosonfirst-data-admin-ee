@@ -1,0 +1,68 @@
+{
+  "id": 1327330675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.60278,58.87,23.60278,58.87",
+    "geom:latitude":58.87,
+    "geom:longitude":23.60278,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"184.0",
+    "gn:admin3_code":"3341.0",
+    "gn:asciiname":"Kolila",
+    "gn:country_code":"EE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591203,
+    "gn:latitude":58.87,
+    "gn:longitude":23.60278,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kolila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591203,
+        "wk:page":"Kolila"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"8e805f04a3b5c7072d219b23fba9c609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327330675,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1327330675,
+    "wof:lastmodified":1537562512,
+    "wof:name":"Kolila",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60278,
+    58.87,
+    23.60278,
+    58.87
+],
+  "geometry": {"coordinates":[23.60278,58.87],"type":"Point"}
+}

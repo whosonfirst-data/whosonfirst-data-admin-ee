@@ -1,0 +1,68 @@
+{
+  "id": 1243334963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.32,58.83306,24.32,58.83306",
+    "geom:latitude":58.83306,
+    "geom:longitude":24.32,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"8283.0",
+    "gn:asciiname":"Kaguvere",
+    "gn:country_code":"EE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591770,
+    "gn:latitude":58.83306,
+    "gn:longitude":24.32,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kaguvere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591770,
+        "wk:page":"Kaguvere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"aac821036a7c55ec4db1c94daff7e57a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243334963,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1243334963,
+    "wof:lastmodified":1537562520,
+    "wof:name":"Kaguvere",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.32,
+    58.83306,
+    24.32,
+    58.83306
+],
+  "geometry": {"coordinates":[24.32,58.83306],"type":"Point"}
+}

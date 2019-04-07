@@ -1,0 +1,74 @@
+{
+  "id": 1360008519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.27167,58.7325,26.27167,58.7325",
+    "geom:latitude":58.7325,
+    "geom:longitude":26.27167,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"247.0",
+    "gn:admin3_code":"2436.0",
+    "gn:asciiname":"Kaave",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591831,
+    "gn:latitude":58.7325,
+    "gn:longitude":26.27167,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kaave",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Kave",
+        "Kaave Asundus",
+        "Kaave"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591831,
+        "wk:page":"Kaave"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"52156cb30963c73e6c00227bccddb369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1360008519,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1360008519,
+    "wof:lastmodified":1537620432,
+    "wof:name":"Kaave",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.27167,
+    58.7325,
+    26.27167,
+    58.7325
+],
+  "geometry": {"coordinates":[26.27167,58.7325],"type":"Point"}
+}

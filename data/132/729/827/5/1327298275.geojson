@@ -1,0 +1,71 @@
+{
+  "id": 1327298275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.91611,57.75444,26.91611,57.75444",
+    "geom:latitude":57.75444,
+    "geom:longitude":26.91611,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"698.0",
+    "gn:admin3_code":"7650.0",
+    "gn:asciiname":"Soekordsi",
+    "gn:country_code":"EE",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619857,
+    "gn:latitude":57.75444,
+    "gn:longitude":26.91611,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Soek\u00f5rdsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soek\u00f5rdsi",
+        "Soek\u00f5rtsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619857
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"658ba4daacea8079884e65519a8d8edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327298275,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1327298275,
+    "wof:lastmodified":1537620517,
+    "wof:name":"Soekordsi",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.91611,
+    57.75444,
+    26.91611,
+    57.75444
+],
+  "geometry": {"coordinates":[26.91611,57.75444],"type":"Point"}
+}

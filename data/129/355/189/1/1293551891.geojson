@@ -1,0 +1,75 @@
+{
+  "id": 1293551891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.87028,58.0625,25.87028,58.0625",
+    "geom:latitude":58.0625,
+    "geom:longitude":25.87028,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"824.0",
+    "gn:admin3_code":"4620.0",
+    "gn:asciiname":"Love",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590500,
+    "gn:latitude":58.0625,
+    "gn:longitude":25.87028,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"L\u00f5ve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lyve",
+        "Myza Lyve",
+        "L\u00f5ve Asundus",
+        "L\u00f5ve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590500,
+        "wk:page":"L%C3%B5ve"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"70d01d759f50328e0628a82d98be8b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293551891,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1293551891,
+    "wof:lastmodified":1537620385,
+    "wof:name":"Love",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87028,
+    58.0625,
+    25.87028,
+    58.0625
+],
+  "geometry": {"coordinates":[25.87028,58.0625],"type":"Point"}
+}

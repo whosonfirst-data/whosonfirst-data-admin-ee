@@ -1,0 +1,72 @@
+{
+  "id": 1260292353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.98556,59.25333,26.98556,59.25333",
+    "geom:latitude":59.25333,
+    "geom:longitude":26.98556,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"442.0",
+    "gn:admin3_code":"9200.0",
+    "gn:asciiname":"Luematu",
+    "gn:country_code":"EE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590477,
+    "gn:latitude":59.25333,
+    "gn:longitude":26.98556,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"L\u00fcmatu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lyumatu",
+        "L\u00fcmatu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590477,
+        "wk:page":"L%C3%BCmatu%2C_Ida-Viru_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d28aba0fb546ddd18608ad5deb126aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260292353,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1260292353,
+    "wof:lastmodified":1537620384,
+    "wof:name":"Luematu",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.98556,
+    59.25333000000001,
+    26.98556,
+    59.25333000000001
+],
+  "geometry": {"coordinates":[26.98556,59.25333000000001],"type":"Point"}
+}

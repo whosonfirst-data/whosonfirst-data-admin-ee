@@ -1,0 +1,110 @@
+{
+  "id": 1125871537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48,58.02528,24.48,58.02528",
+    "geom:latitude":58.02528,
+    "geom:longitude":24.48,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":94,
+    "gn:population":94,
+    "iso:country":"EE",
+    "lbl:latitude":58.02528,
+    "lbl:longitude":24.48,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054a\u0565\u0576\u0578\u0582"
+    ],
+    "name:dut_x_preferred":[
+        "Penu"
+    ],
+    "name:eng_x_preferred":[
+        "Penu"
+    ],
+    "name:est_x_preferred":[
+        "Penu"
+    ],
+    "name:pol_x_preferred":[
+        "Penu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u043d\u0443"
+    ],
+    "name:vol_x_preferred":[
+        "Penu"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":589520,
+    "qs_pg:gn_pop":94,
+    "qs_pg:name":"Penu",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"P\u00e4rnumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":184,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":179933,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":844684,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"P\u00e4rnumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589520,
+        "gp:id":844684,
+        "qs_pg:id":179933,
+        "wd:id":"Q3455554"
+    },
+    "wof:country":"EE",
+    "wof:created":1497294322,
+    "wof:geomhash":"c7451b9797b21de6eaf72fb7c2a87330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125871537,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1125871537,
+    "wof:lastmodified":1513956456,
+    "wof:name":"Penu",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48,
+    58.02528,
+    24.48,
+    58.02528
+],
+  "geometry": {"coordinates":[24.48,58.02528],"type":"Point"}
+}

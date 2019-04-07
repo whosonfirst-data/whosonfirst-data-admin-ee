@@ -1,0 +1,123 @@
+{
+  "id": 1125936993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.74056,58.55944,23.74056,58.55944",
+    "geom:latitude":58.55944,
+    "geom:longitude":23.74056,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":212,
+    "gn:population":212,
+    "iso:country":"EE",
+    "lbl:latitude":58.55944,
+    "lbl:longitude":23.74056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054e\u0561\u057f\u056c\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0442\u043b\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Vatla"
+    ],
+    "name:eng_x_preferred":[
+        "Vatla"
+    ],
+    "name:est_x_preferred":[
+        "Vatla"
+    ],
+    "name:ger_x_preferred":[
+        "Vatla"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u062a\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Vatla"
+    ],
+    "name:swe_x_preferred":[
+        "Vatla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0442\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Myza Vatla"
+    ],
+    "name:vol_x_preferred":[
+        "Vatla"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":587704,
+    "qs_pg:gn_pop":212,
+    "qs_pg:name":"Vatla",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"L\u00e4\u00e4nemaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1274742,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":846358,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"L\u00e4\u00e4nemaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587704,
+        "gp:id":846358,
+        "qs_pg:id":1274742,
+        "wd:id":"Q3451267"
+    },
+    "wof:country":"EE",
+    "wof:created":1497296997,
+    "wof:geomhash":"f12b9a364ebc4b0a8b9fbe8f18a6534c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125936993,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1125936993,
+    "wof:lastmodified":1513956565,
+    "wof:name":"Vatla",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:population":212,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.74056,
+    58.55944,
+    23.74056,
+    58.55944
+],
+  "geometry": {"coordinates":[23.74056,58.55944],"type":"Point"}
+}

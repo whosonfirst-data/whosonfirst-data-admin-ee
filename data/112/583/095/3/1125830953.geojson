@@ -1,0 +1,79 @@
+{
+  "id": 1125830953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48333,58.46667,24.48333,58.46667",
+    "geom:latitude":58.46667,
+    "geom:longitude":24.48333,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":520,
+    "gn:population":520,
+    "iso:country":"EE",
+    "lbl:latitude":58.46667,
+    "lbl:longitude":24.48333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Vyyste"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":587497,
+    "qs_pg:gn_pop":520,
+    "qs_pg:name":"V\u00f5iste",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":81096,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587497,
+        "qs_pg:id":81096
+    },
+    "wof:country":"EE",
+    "wof:created":1497292496,
+    "wof:geomhash":"16fde87a8c4cdacb153a6f559e169096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125830953,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1125830953,
+    "wof:lastmodified":1509394671,
+    "wof:name":"V\u00f5iste",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:population":520,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48333,
+    58.46667,
+    24.48333,
+    58.46667
+],
+  "geometry": {"coordinates":[24.48333,58.46667],"type":"Point"}
+}

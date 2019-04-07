@@ -1,0 +1,70 @@
+{
+  "id": 1243027121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.70278,57.6875,26.70278,57.6875",
+    "geom:latitude":57.6875,
+    "geom:longitude":26.70278,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"698.0",
+    "gn:admin3_code":"2677.0",
+    "gn:asciiname":"Sika",
+    "gn:country_code":"EE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618911,
+    "gn:latitude":57.6875,
+    "gn:longitude":26.70278,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Sika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sikak\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618911
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"2af5de727757e93f0c67d376e2170519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243027121,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1243027121,
+    "wof:lastmodified":1537620498,
+    "wof:name":"Sika",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.70278,
+    57.6875,
+    26.70278,
+    57.6875
+],
+  "geometry": {"coordinates":[26.70278,57.6875],"type":"Point"}
+}

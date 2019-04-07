@@ -1,0 +1,127 @@
+{
+  "id": 101839831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000167,
+    "geom:area_square_m":1083473.478092,
+    "geom:bbox":"26.7133337567,58.3071439635,26.7365749738,58.327009089",
+    "geom:latitude":58.317214,
+    "geom:longitude":26.722602,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1047,
+    "gn:population":1047,
+    "iso:country":"EE",
+    "lbl:latitude":58.316612,
+    "lbl:longitude":26.722426,
+    "mps:latitude":58.316612,
+    "mps:longitude":26.722426,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ulenurme"
+    ],
+    "name:eng_x_variant":[
+        "\u00dclenurme"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u043b\u0435\u043d\u0443\u0440\u043c\u0435"
+    ],
+    "name:und_x_colloquial":[
+        "Uelenurme"
+    ],
+    "name:und_x_preferred":[
+        "\u00dclenurme"
+    ],
+    "name:und_x_variant":[
+        "Ilenurme"
+    ],
+    "name:unk_x_variant":[
+        "Ilenurme"
+    ],
+    "qs:a0":"Estonia",
+    "qs:a1":"*Tartumaa",
+    "qs:a1r":"0",
+    "qs:adm0":"Estonia",
+    "qs:la":"\u00dclenurme",
+    "qs:la_lc":"*EE780949",
+    "qs:level":"locality",
+    "qs:loc":"\u00dclenurme",
+    "qs:loc_alt":"Ulenurme",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":588092,
+    "qs_pg:gn_pop":1047,
+    "qs_pg:name":"\u00dclenurme",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Tartumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":275103,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":846044,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":94,
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07ebeb1a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":588092,
+        "gp:id":846044,
+        "qs:id":275103,
+        "qs_pg:id":275103,
+        "wd:id":"Q3468727"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"bb065f727815e19caa36e79cef91dcfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":101839831,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":101839831,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1534379292,
+    "wof:name":"\u00dclenurme",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:population":1047,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125994025
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.71333375671406,
+    58.30714396352982,
+    26.73657497378031,
+    58.32700908904252
+],
+  "geometry": {"coordinates":[[[26.71559265137597,58.32174434203193],[26.71773900525017,58.32700908904252],[26.71871284371616,58.32688643147827],[26.7182989267227,58.32601604900424],[26.72494245462633,58.32517905713183],[26.724528412035,58.32430869626222],[26.72618921172159,58.32409940323009],[26.72577515538092,58.32322904672088],[26.72411439296764,58.32343833400421],[26.72287247689167,58.32082723890124],[26.72785437469923,58.3201993678183],[26.72661233490498,58.31758831195253],[26.73657497378031,58.31633212461298],[26.73616078403592,58.31546180437539],[26.73450042648193,58.31567121397848],[26.73408629750918,58.31480088660049],[26.72910522857694,58.31542897625405],[26.72703549516223,58.31107723229047],[26.72537528908953,58.31128652613597],[26.72413384285215,58.30867544585459],[26.72247373051459,58.30888470214757],[26.72164629166099,58.30714396352982],[26.71998623581709,58.30735318801925],[26.72039990625882,58.30822356376586],[26.71873979519614,58.30843277368422],[26.72080831361689,58.31278466032711],[26.71914799834389,58.31299387864976],[26.71956173527144,58.31386425756114],[26.71458056977963,58.31449180785035],[26.71499421843862,58.31536220260716],[26.71333375671406,58.31557135114105],[26.7137473916091,58.31644175025525],[26.71706837159542,58.31602342137933],[26.71830964085984,58.31863457593698],[26.71664904806926,58.31884376776975],[26.71747660390844,58.32058454203082],[26.71581591858796,58.32079372503154],[26.71622969449783,58.32166411582739],[26.71559265137597,58.32174434203193]]],"type":"Polygon"}
+}

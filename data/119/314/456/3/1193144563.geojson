@@ -1,0 +1,72 @@
+{
+  "id": 1193144563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.89722,59.4325,26.89722,59.4325",
+    "geom:latitude":59.4325,
+    "geom:longitude":26.89722,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"3803.0",
+    "gn:asciiname":"Korkkuela",
+    "gn:country_code":"EE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591101,
+    "gn:latitude":59.4325,
+    "gn:longitude":26.89722,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"K\u00f5rkk\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyrkkyula",
+        "K\u00f5rkk\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591101,
+        "wk:page":"K%C3%B5rkk%C3%BCla%2C_Ida-Viru_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c9e5060befc4283bc1931a7d3097b025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1193144563,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1193144563,
+    "wof:lastmodified":1537620406,
+    "wof:name":"Korkkuela",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.89722,
+    59.4325,
+    26.89722,
+    59.4325
+],
+  "geometry": {"coordinates":[26.89722,59.4325],"type":"Point"}
+}

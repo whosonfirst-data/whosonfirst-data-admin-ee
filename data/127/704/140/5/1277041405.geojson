@@ -1,0 +1,67 @@
+{
+  "id": 1277041405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.85861,58.51778,26.85861,58.51778",
+    "geom:latitude":58.51778,
+    "geom:longitude":26.85861,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"586.0",
+    "gn:admin3_code":"5981.0",
+    "gn:asciiname":"Papiaru",
+    "gn:country_code":"EE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793969,
+    "gn:latitude":58.51778,
+    "gn:longitude":26.85861,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Papiaru",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793969
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"dea6e5d3ce8a1d5ccb8e29a7b7edd30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1277041405,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1277041405,
+    "wof:lastmodified":1536823784,
+    "wof:name":"Papiaru",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.85861,
+    58.51778,
+    26.85861,
+    58.51778
+],
+  "geometry": {"coordinates":[26.85861,58.51778],"type":"Point"}
+}

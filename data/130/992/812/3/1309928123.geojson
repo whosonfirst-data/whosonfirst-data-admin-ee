@@ -1,0 +1,71 @@
+{
+  "id": 1309928123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.58139,59.10056,26.58139,59.10056",
+    "geom:latitude":59.10056,
+    "geom:longitude":26.58139,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"6768.0",
+    "gn:asciiname":"Muuga-Arukuela",
+    "gn:country_code":"EE",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618699,
+    "gn:latitude":59.10056,
+    "gn:longitude":26.58139,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Muuga-Aruk\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muuga-Aruk\u00fcla",
+        "Muuga-Aru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618699
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"83da29c03326ac26c10079ed39e96b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1309928123,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1309928123,
+    "wof:lastmodified":1537620493,
+    "wof:name":"Muuga-Arukuela",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.58139000000001,
+    59.10056,
+    26.58139000000001,
+    59.10056
+],
+  "geometry": {"coordinates":[26.58139000000001,59.10056],"type":"Point"}
+}

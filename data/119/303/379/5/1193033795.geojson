@@ -1,0 +1,79 @@
+{
+  "id": 1193033795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.52028,59.62833,25.52028,59.62833",
+    "geom:latitude":59.62833,
+    "geom:longitude":25.52028,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"353.0",
+    "gn:admin3_code":"2209.0",
+    "gn:asciiname":"Juminda",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591880,
+    "gn:latitude":59.62833,
+    "gn:longitude":25.52028,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Juminda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Juminda"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u043c\u0438\u043d\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yuminda",
+        "Juminda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591880,
+        "wk:page":"Juminda"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"93d79dd3c010f3e28cd701e0986c2484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1193033795,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1193033795,
+    "wof:lastmodified":1537620435,
+    "wof:name":"Juminda",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.52028,
+    59.62833000000001,
+    25.52028,
+    59.62833000000001
+],
+  "geometry": {"coordinates":[25.52028,59.62833000000001],"type":"Point"}
+}

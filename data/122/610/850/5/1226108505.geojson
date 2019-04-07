@@ -1,0 +1,72 @@
+{
+  "id": 1226108505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.21306,58.555,27.21306,58.555",
+    "geom:latitude":58.555,
+    "geom:longitude":27.21306,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"586.0",
+    "gn:admin3_code":"3350.0",
+    "gn:asciiname":"Vaeike-Kolkja",
+    "gn:country_code":"EE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587930,
+    "gn:latitude":58.555,
+    "gn:longitude":27.21306,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"V\u00e4ike-Kolkja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vyayke Kolk\u2019ya",
+        "Kolkja V\u00e4ike",
+        "V\u00e4ike-Kolkja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587930
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"db6936e59d2b753cb46c7f80e812d39f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226108505,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1226108505,
+    "wof:lastmodified":1537620294,
+    "wof:name":"Vaeike-Kolkja",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.21306,
+    58.555,
+    27.21306,
+    58.555
+],
+  "geometry": {"coordinates":[27.21306,58.555],"type":"Point"}
+}

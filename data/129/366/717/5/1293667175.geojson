@@ -1,0 +1,71 @@
+{
+  "id": 1293667175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.63056,58.43806,24.63056,58.43806",
+    "geom:latitude":58.43806,
+    "geom:longitude":24.63056,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"8720.0",
+    "gn:asciiname":"Kodu",
+    "gn:country_code":"EE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591283,
+    "gn:latitude":58.43806,
+    "gn:longitude":24.63056,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"K\u00f5du",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kydu",
+        "K\u00f5du"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591283
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"283e7dec4cc7ebb22fee173e94cc9613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293667175,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1293667175,
+    "wof:lastmodified":1537620413,
+    "wof:name":"Kodu",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.63056,
+    58.43806,
+    24.63056,
+    58.43806
+],
+  "geometry": {"coordinates":[24.63056,58.43806],"type":"Point"}
+}

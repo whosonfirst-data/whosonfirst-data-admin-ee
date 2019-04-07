@@ -1,0 +1,73 @@
+{
+  "id": 1192992089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.32472,58.59472,23.32472,58.59472",
+    "geom:latitude":58.59472,
+    "geom:longitude":23.32472,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"478.0",
+    "gn:admin3_code":"5120.0",
+    "gn:asciiname":"Moega",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590198,
+    "gn:latitude":58.59472,
+    "gn:longitude":23.32472,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00f5ega",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myega",
+        "M\u00f5ega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590198,
+        "wk:page":"M%C3%B5ega"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"2ec8da1ea175c4a990294263ee08d6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1192992089,
+            "region_id":85682951
+        }
+    ],
+    "wof:id":1192992089,
+    "wof:lastmodified":1537620373,
+    "wof:name":"Moega",
+    "wof:parent_id":85682951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.32472000000001,
+    58.59472,
+    23.32472000000001,
+    58.59472
+],
+  "geometry": {"coordinates":[23.32472000000001,58.59472],"type":"Point"}
+}

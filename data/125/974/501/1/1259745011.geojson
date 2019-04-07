@@ -1,0 +1,73 @@
+{
+  "id": 1259745011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71472,58.59194,25.71472,58.59194",
+    "geom:latitude":58.59194,
+    "geom:longitude":25.71472,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"615.0",
+    "gn:admin3_code":"9205.0",
+    "gn:asciiname":"Venevere",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587779,
+    "gn:latitude":58.59194,
+    "gn:longitude":25.71472,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Venevere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vana Venevere",
+        "Venevere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587779,
+        "wk:page":"Venevere%2C_Viljandi_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d86cf8834b76bf27fbcff9d39a6294f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259745011,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1259745011,
+    "wof:lastmodified":1537620288,
+    "wof:name":"Venevere",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71472,
+    58.59194,
+    25.71472,
+    58.59194
+],
+  "geometry": {"coordinates":[25.71472,58.59194],"type":"Point"}
+}

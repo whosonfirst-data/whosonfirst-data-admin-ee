@@ -1,0 +1,126 @@
+{
+  "id": 101815125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000185,
+    "geom:area_square_m":1183717.230547,
+    "geom:bbox":"24.8600872336,58.9162797608,24.8847987657,58.9321139082",
+    "geom:latitude":58.924423,
+    "geom:longitude":24.871354,
+    "gn:population":1579,
+    "iso:country":"EE",
+    "lbl:latitude":58.926471,
+    "lbl:longitude":24.872384,
+    "mps:latitude":58.926471,
+    "mps:longitude":24.872384,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kehtna"
+    ],
+    "name:ces_x_preferred":[
+        "Kehtna"
+    ],
+    "name:eng_x_preferred":[
+        "Kehtna"
+    ],
+    "name:est_x_preferred":[
+        "Kehtna"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0565\u0570\u057f\u0576\u0561"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0445\u0442\u043d\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Kehtna"
+    ],
+    "name:swe_x_preferred":[
+        "Kehtna"
+    ],
+    "name:und_x_preferred":[
+        "Kehtna"
+    ],
+    "name:und_x_variant":[
+        "Kehtna Asundus",
+        "Kekhna",
+        "Kekhtna"
+    ],
+    "name:unk_x_variant":[
+        "Kekhna"
+    ],
+    "name:vol_x_preferred":[
+        "Kehtna"
+    ],
+    "qs:a0":"Estonia",
+    "qs:a1":"*Raplamaa",
+    "qs:a1r":"0",
+    "qs:adm0":"Estonia",
+    "qs:la":"Kehtna",
+    "qs:la_lc":"*EE700292",
+    "qs:level":"locality",
+    "qs:loc":"Kehtna",
+    "qs:loc_alt":"Kehtna",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":58.923889,
+    "wd:longitude":24.875556,
+    "wd:population":1142,
+    "wd:wordcount":202,
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07eb77d4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":591475,
+        "gp:id":842865,
+        "qs:id":125905,
+        "qs_pg:id":125905,
+        "wd:id":"Q3477357"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"82fd5b5cf155e06d347a28befc1c1199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":101815125,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":101815125,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527714890,
+    "wof:name":"Kehtna",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:population":1142,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86008723364046,
+    58.91627976082822,
+    24.88479876571864,
+    58.93211390820107
+],
+  "geometry": {"coordinates":[[[24.87329191795885,58.9319271103318],[24.87253737301126,58.93017414862373],[24.87763137949491,58.92961366095147],[24.87612207480731,58.92610778834944],[24.87781988373308,58.92592093832531],[24.87744257264904,58.92504447284767],[24.8791403248469,58.92485760715016],[24.87876299587526,58.92398114590668],[24.88046069134782,58.92379426453709],[24.88008334449273,58.92291780752777],[24.88178098324391,58.92273091048713],[24.8814036185085,58.92185445771173],[24.88479876571864,58.9214806113456],[24.88404394276466,58.91972772377289],[24.8755563469399,58.92066212984611],[24.87367067057869,58.91627976082822],[24.86857850879596,58.91684007405269],[24.86933247429738,58.91859305640963],[24.86084480269875,58.91952654559674],[24.86159845738871,58.92127957649427],[24.86669135005468,58.92071951420257],[24.86706832994395,58.92159601228468],[24.86876596702712,58.9214092776898],[24.86989715809881,58.92403874988679],[24.86480383747397,58.92459893826867],[24.86518082547229,58.92547544273663],[24.86008723364046,58.92603545838466],[24.86046412395405,58.92691197762463],[24.86216204462232,58.92672532142268],[24.86442408713668,58.93198438343967],[24.87121655872789,58.93123742259269],[24.87159380230241,58.93211390820107],[24.87329191795885,58.9319271103318]]],"type":"Polygon"}
+}

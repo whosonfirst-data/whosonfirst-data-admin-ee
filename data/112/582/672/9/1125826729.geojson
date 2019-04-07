@@ -1,0 +1,110 @@
+{
+  "id": 1125826729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.93306,59.13306,24.93306,59.13306",
+    "geom:latitude":59.13306,
+    "geom:longitude":24.93306,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":238,
+    "gn:population":238,
+    "iso:country":"EE",
+    "lbl:latitude":59.13306,
+    "lbl:longitude":24.93306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0545\u0565\u057c\u056c\u0565\u057a\u0561"
+    ],
+    "name:dut_x_preferred":[
+        "J\u00e4rlepa"
+    ],
+    "name:eng_x_preferred":[
+        "J\u00e4rlepa"
+    ],
+    "name:est_x_preferred":[
+        "J\u00e4rlepa"
+    ],
+    "name:fre_x_preferred":[
+        "J\u00e4rlepa"
+    ],
+    "name:pol_x_preferred":[
+        "J\u00e4rlepa"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0440\u043b\u0435\u043f\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "J\u00e4rlepa"
+    ],
+    "name:swe_x_preferred":[
+        "J\u00e4rlepa"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0631\u0644\u06cc\u067e\u0627"
+    ],
+    "name:vol_x_preferred":[
+        "J\u00e4rlepa"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":591973,
+    "qs_pg:gn_pop":238,
+    "qs_pg:name":"J\u00e4rlepa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":550160,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591973,
+        "qs_pg:id":550160,
+        "wd:id":"Q1755206"
+    },
+    "wof:country":"EE",
+    "wof:created":1497292310,
+    "wof:geomhash":"ca85220648c6b40ee2173d2653764e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125826729,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1125826729,
+    "wof:lastmodified":1513956385,
+    "wof:name":"J\u00e4rlepa",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:population":238,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.93306,
+    59.13306,
+    24.93306,
+    59.13306
+],
+  "geometry": {"coordinates":[24.93306,59.13306],"type":"Point"}
+}

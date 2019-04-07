@@ -1,0 +1,67 @@
+{
+  "id": 1260154873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.93972,57.78972,26.93972,57.78972",
+    "geom:latitude":57.78972,
+    "geom:longitude":26.93972,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"3956.0",
+    "gn:asciiname":"Vana-Nursi",
+    "gn:country_code":"EE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":794330,
+    "gn:latitude":57.78972,
+    "gn:longitude":26.93972,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Vana-Nursi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794330
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"88128362b33a3b6adcb852acbaacf094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260154873,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1260154873,
+    "wof:lastmodified":1536886798,
+    "wof:name":"Vana-Nursi",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93972,
+    57.78972,
+    26.93972,
+    57.78972
+],
+  "geometry": {"coordinates":[26.93972,57.78972],"type":"Point"}
+}

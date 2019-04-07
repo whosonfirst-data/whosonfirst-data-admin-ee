@@ -1,0 +1,73 @@
+{
+  "id": 1310026891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06833,58.91306,24.06833,58.91306",
+    "geom:latitude":58.91306,
+    "geom:longitude":24.06833,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"2593.0",
+    "gn:asciiname":"Kalju",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591705,
+    "gn:latitude":58.91306,
+    "gn:longitude":24.06833,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kalju",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kal\u2019yu",
+        "Kalju"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591705,
+        "wk:page":"Kalju%2C_L%C3%A4%C3%A4ne_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d5c605dc685d4ecca136fb5928046e54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310026891,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1310026891,
+    "wof:lastmodified":1537620428,
+    "wof:name":"Kalju",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06833,
+    58.91306,
+    24.06833,
+    58.91306
+],
+  "geometry": {"coordinates":[24.06833,58.91306],"type":"Point"}
+}

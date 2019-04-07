@@ -1,0 +1,67 @@
+{
+  "id": 1276629515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58139,58.50583,25.58139,58.50583",
+    "geom:latitude":58.50583,
+    "geom:longitude":25.58139,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"615.0",
+    "gn:admin3_code":"4998.0",
+    "gn:asciiname":"Mudiste",
+    "gn:country_code":"EE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590131,
+    "gn:latitude":58.50583,
+    "gn:longitude":25.58139,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Mudiste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590131
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"8ab955e8d6d8a16c1dfbbf3eef67e0c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276629515,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1276629515,
+    "wof:lastmodified":1536878441,
+    "wof:name":"Mudiste",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58139,
+    58.50583,
+    25.58139,
+    58.50583
+],
+  "geometry": {"coordinates":[25.58139,58.50583],"type":"Point"}
+}

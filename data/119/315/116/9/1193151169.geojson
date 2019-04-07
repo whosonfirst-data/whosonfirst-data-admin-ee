@@ -1,0 +1,73 @@
+{
+  "id": 1193151169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.22389,59.18556,25.22389,59.18556",
+    "geom:latitude":59.18556,
+    "geom:longitude":25.22389,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"338.0",
+    "gn:admin3_code":"6875.0",
+    "gn:asciiname":"Volle",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587480,
+    "gn:latitude":59.18556,
+    "gn:longitude":25.22389,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"V\u00f5lle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vylle",
+        "V\u00f5lle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587480,
+        "wk:page":"V%C3%B5lle"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7c29f4c1abdb4108cea9adf84e7cd3a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1193151169,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1193151169,
+    "wof:lastmodified":1537620279,
+    "wof:name":"Volle",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.22389,
+    59.18556,
+    25.22389,
+    59.18556
+],
+  "geometry": {"coordinates":[25.22389,59.18556],"type":"Point"}
+}

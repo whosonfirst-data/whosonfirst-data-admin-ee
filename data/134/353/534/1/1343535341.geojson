@@ -1,0 +1,70 @@
+{
+  "id": 1343535341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.50222,57.60028,26.50222,57.60028",
+    "geom:latitude":57.60028,
+    "geom:longitude":26.50222,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"698.0",
+    "gn:admin3_code":"7436.0",
+    "gn:asciiname":"Konnuvere",
+    "gn:country_code":"EE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619009,
+    "gn:latitude":57.60028,
+    "gn:longitude":26.50222,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Konnuvere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00f5rguj\u00e4rv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619009
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"b5295ac7c72cd2acb2b734ed0cf28b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343535341,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1343535341,
+    "wof:lastmodified":1537620500,
+    "wof:name":"Konnuvere",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.50222,
+    57.60028000000001,
+    26.50222,
+    57.60028000000001
+],
+  "geometry": {"coordinates":[26.50222,57.60028000000001],"type":"Point"}
+}

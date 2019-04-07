@@ -1,0 +1,70 @@
+{
+  "id": 1242951207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.78472,58.37972,23.78472,58.37972",
+    "geom:latitude":58.37972,
+    "geom:longitude":23.78472,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"430.0",
+    "gn:admin3_code":"9791.0",
+    "gn:asciiname":"Ryadi",
+    "gn:country_code":"EE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589208,
+    "gn:latitude":58.37972,
+    "gn:longitude":23.78472,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Ryadi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00e4di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589208
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"50db990ad11f585d0e53a32a9d0ee315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242951207,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1242951207,
+    "wof:lastmodified":1537620338,
+    "wof:name":"Ryadi",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.78472,
+    58.37971999999999,
+    23.78472,
+    58.37971999999999
+],
+  "geometry": {"coordinates":[23.78472,58.37971999999999],"type":"Point"}
+}

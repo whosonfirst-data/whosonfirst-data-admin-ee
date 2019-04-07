@@ -1,0 +1,71 @@
+{
+  "id": 1259503581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.11333,59.43694,26.11333,59.43694",
+    "geom:latitude":59.43694,
+    "geom:longitude":26.11333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"191.0",
+    "gn:admin3_code":"3918.0",
+    "gn:asciiname":"Kaermu",
+    "gn:country_code":"EE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793264,
+    "gn:latitude":59.43694,
+    "gn:longitude":26.11333,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"K\u00e4rmu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e4rmu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793264,
+        "wk:page":"K%C3%A4rmu"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"9372353196df04e4d7a8a574dda0a858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259503581,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1259503581,
+    "wof:lastmodified":1537620464,
+    "wof:name":"Kaermu",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.11333,
+    59.43694,
+    26.11333,
+    59.43694
+],
+  "geometry": {"coordinates":[26.11333,59.43694],"type":"Point"}
+}

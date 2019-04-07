@@ -1,0 +1,72 @@
+{
+  "id": 1225927319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.33167,58.62056,23.33167,58.62056",
+    "geom:latitude":58.62056,
+    "geom:longitude":23.33167,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"478.0",
+    "gn:admin3_code":"4215.0",
+    "gn:asciiname":"Lehtmetsa",
+    "gn:country_code":"EE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590719,
+    "gn:latitude":58.62056,
+    "gn:longitude":23.33167,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Lehtmetsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lekhtmetsa",
+        "Lehtmetsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590719,
+        "wk:page":"Lehtmetsa%2C_Saare_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"26160dae12d570cead299b1c52aa94ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1225927319,
+            "region_id":85682951
+        }
+    ],
+    "wof:id":1225927319,
+    "wof:lastmodified":1537620392,
+    "wof:name":"Lehtmetsa",
+    "wof:parent_id":85682951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.33167000000001,
+    58.62056,
+    23.33167000000001,
+    58.62056
+],
+  "geometry": {"coordinates":[23.33167000000001,58.62056],"type":"Point"}
+}

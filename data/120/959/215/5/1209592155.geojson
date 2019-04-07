@@ -1,0 +1,68 @@
+{
+  "id": 1209592155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.38667,59.00389,24.38667,59.00389",
+    "geom:latitude":59.00389,
+    "geom:longitude":24.38667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"4683.0",
+    "gn:asciiname":"Luemandu",
+    "gn:country_code":"EE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590480,
+    "gn:latitude":59.00389,
+    "gn:longitude":24.38667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"L\u00fcmandu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lyumandu",
+        "L\u00fcmandu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590480,
+        "wk:page":"L%C3%BCmandu%2C_M%C3%A4rjamaa_Parish"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"ec353a97f2c4d3d8d0ca15150712a570",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209592155
+        }
+    ],
+    "wof:id":1209592155,
+    "wof:lastmodified":1537620384,
+    "wof:name":"Luemandu",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.38667,
+    59.00389000000001,
+    24.38667,
+    59.00389000000001
+],
+  "geometry": {"coordinates":[24.38667,59.00389000000001],"type":"Point"}
+}

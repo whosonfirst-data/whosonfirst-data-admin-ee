@@ -1,0 +1,75 @@
+{
+  "id": 1360070805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.35222,59.04778,26.35222,59.04778",
+    "geom:latitude":59.04778,
+    "geom:longitude":26.35222,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"928.0",
+    "gn:admin3_code":"1866.0",
+    "gn:asciiname":"Voivere",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587493,
+    "gn:latitude":59.04778,
+    "gn:longitude":26.35222,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"V\u00f5ivere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Vyivere",
+        "V\u00f5ivere Asundus",
+        "Myza Voibifer",
+        "V\u00f5ivere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587493,
+        "wk:page":"V%C3%B5ivere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7c2cd5f1c42812e69f56d503aa3cbd11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1360070805,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1360070805,
+    "wof:lastmodified":1537620280,
+    "wof:name":"Voivere",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.35222000000001,
+    59.04778,
+    26.35222000000001,
+    59.04778
+],
+  "geometry": {"coordinates":[26.35222000000001,59.04778],"type":"Point"}
+}

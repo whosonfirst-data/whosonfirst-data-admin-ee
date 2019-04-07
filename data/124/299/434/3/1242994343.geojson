@@ -1,0 +1,76 @@
+{
+  "id": 1242994343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.62694,58.95583,23.62694,58.95583",
+    "geom:latitude":58.95583,
+    "geom:longitude":23.62694,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"184.0",
+    "gn:admin3_code":"1824.0",
+    "gn:asciiname":"Herjava",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592255,
+    "gn:latitude":58.95583,
+    "gn:longitude":23.62694,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Herjava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erjave",
+        "Kher\u2019yave",
+        "Herjave",
+        "Er\u2019yave",
+        "Herjava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592255,
+        "wk:page":"Herjava"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"ea1897cdba1ed665b206bb531d83a191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242994343,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1242994343,
+    "wof:lastmodified":1537620450,
+    "wof:name":"Herjava",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.62694,
+    58.95583000000001,
+    23.62694,
+    58.95583000000001
+],
+  "geometry": {"coordinates":[23.62694,58.95583000000001],"type":"Point"}
+}

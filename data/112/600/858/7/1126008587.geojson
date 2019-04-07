@@ -1,0 +1,107 @@
+{
+  "id": 1126008587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5525,58.65222,26.5525,58.65222",
+    "geom:latitude":58.65222,
+    "geom:longitude":26.5525,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":144,
+    "gn:population":144,
+    "iso:country":"EE",
+    "lbl:latitude":58.65222,
+    "lbl:longitude":26.5525,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054a\u056b\u056f\u0575\u0565\u057c\u057e\u0565"
+    ],
+    "name:dut_x_preferred":[
+        "Pikkj\u00e4rve"
+    ],
+    "name:eng_x_preferred":[
+        "Pikkj\u00e4rve"
+    ],
+    "name:est_x_preferred":[
+        "Pikkj\u00e4rve"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043a\u043a\u044a\u044f\u0440\u0432\u0435"
+    ],
+    "name:vol_x_preferred":[
+        "Pikkj\u00e4rve"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":794625,
+    "qs_pg:gn_pop":144,
+    "qs_pg:name":"Pikkj\u00e4rve",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"J\u00f5gevamaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":111133,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":844749,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"J\u00f5gevamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794625,
+        "gp:id":844749,
+        "qs_pg:id":111133,
+        "wd:id":"Q3464717"
+    },
+    "wof:country":"EE",
+    "wof:created":1497300131,
+    "wof:geomhash":"d9c9982e7783df6b67435e3d225c0b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126008587,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1126008587,
+    "wof:lastmodified":1513956457,
+    "wof:name":"Pikkj\u00e4rve",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:population":144,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5525,
+    58.65222,
+    26.5525,
+    58.65222
+],
+  "geometry": {"coordinates":[26.5525,58.65222],"type":"Point"}
+}

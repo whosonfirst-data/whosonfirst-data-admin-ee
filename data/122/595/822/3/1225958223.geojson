@@ -1,0 +1,73 @@
+{
+  "id": 1225958223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.41111,59.46111,25.41111,59.46111",
+    "geom:latitude":59.46111,
+    "geom:longitude":25.41111,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"353.0",
+    "gn:admin3_code":"1202.0",
+    "gn:asciiname":"Maeepea",
+    "gn:country_code":"EE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590401,
+    "gn:latitude":59.46111,
+    "gn:longitude":25.41111,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00e4epea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myapea",
+        "Myaepea",
+        "M\u00e4epea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590401,
+        "wk:page":"M%C3%A4epea"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"eb9346b731254a10d112b2dd968fef8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1225958223,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1225958223,
+    "wof:lastmodified":1537620381,
+    "wof:name":"Maeepea",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.41111,
+    59.46111,
+    25.41111,
+    59.46111
+],
+  "geometry": {"coordinates":[25.41111,59.46111],"type":"Point"}
+}

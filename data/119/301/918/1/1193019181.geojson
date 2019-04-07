@@ -1,0 +1,71 @@
+{
+  "id": 1193019181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.61667,58.71667,22.61667,58.71667",
+    "geom:latitude":58.71667,
+    "geom:longitude":22.61667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"8236.0",
+    "gn:asciiname":"Kommuselja",
+    "gn:country_code":"EE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591190,
+    "gn:latitude":58.71667,
+    "gn:longitude":22.61667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"K\u00f5mmuselja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kemmusel\u2019ya",
+        "K\u00f5mmuselja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591190
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"4f5233771529efd3be24cd8a07de989a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1193019181,
+            "region_id":85682989
+        }
+    ],
+    "wof:id":1193019181,
+    "wof:lastmodified":1537620410,
+    "wof:name":"Kommuselja",
+    "wof:parent_id":85682989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.61667000000001,
+    58.71666999999999,
+    22.61667000000001,
+    58.71666999999999
+],
+  "geometry": {"coordinates":[22.61667000000001,58.71666999999999],"type":"Point"}
+}

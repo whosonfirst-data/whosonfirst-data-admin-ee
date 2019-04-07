@@ -1,0 +1,66 @@
+{
+  "id": 1209219569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.30167,58.70222,26.30167,58.70222",
+    "geom:latitude":58.70222,
+    "geom:longitude":26.30167,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"247.0",
+    "gn:admin3_code":"1950.0",
+    "gn:asciiname":"Kurukse",
+    "gn:country_code":"EE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618142,
+    "gn:latitude":58.70222,
+    "gn:longitude":26.30167,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kurukse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurukase"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618142
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"75b0c525b0238ea53015fc2771af4007",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209219569
+        }
+    ],
+    "wof:id":1209219569,
+    "wof:lastmodified":1537620482,
+    "wof:name":"Kurukse",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.30167,
+    58.70222,
+    26.30167,
+    58.70222
+],
+  "geometry": {"coordinates":[26.30167,58.70222],"type":"Point"}
+}

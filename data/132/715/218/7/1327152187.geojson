@@ -1,0 +1,73 @@
+{
+  "id": 1327152187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.37083,59.16444,24.37083,59.16444",
+    "geom:latitude":59.16444,
+    "geom:longitude":24.37083,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"726.0",
+    "gn:admin3_code":"6308.0",
+    "gn:asciiname":"Pohla",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589401,
+    "gn:latitude":59.16444,
+    "gn:longitude":24.37083,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pohla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pokhla",
+        "Pohla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589401,
+        "wk:page":"Pohla%2C_Estonia"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d09dd36dd6735430675d804fda1b792d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327152187,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1327152187,
+    "wof:lastmodified":1537620345,
+    "wof:name":"Pohla",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.37083,
+    59.16444,
+    24.37083,
+    59.16444
+],
+  "geometry": {"coordinates":[24.37083,59.16444],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209409459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.78056,58.87972,23.78056,58.87972",
+    "geom:latitude":58.87972,
+    "geom:longitude":23.78056,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"2246.0",
+    "gn:asciiname":"Maalse",
+    "gn:country_code":"EE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590459,
+    "gn:latitude":58.87972,
+    "gn:longitude":23.78056,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Maalse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maalse Asundus",
+        "Myza Malze",
+        "Maalse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590459
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"e4947848fa4fe96725c90175d14ba9a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209409459
+        }
+    ],
+    "wof:id":1209409459,
+    "wof:lastmodified":1537620383,
+    "wof:name":"Maalse",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.78056,
+    58.87971999999999,
+    23.78056,
+    58.87971999999999
+],
+  "geometry": {"coordinates":[23.78056,58.87971999999999],"type":"Point"}
+}

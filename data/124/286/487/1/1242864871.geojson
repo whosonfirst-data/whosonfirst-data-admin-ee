@@ -1,0 +1,71 @@
+{
+  "id": 1242864871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.14889,59.34917,26.14889,59.34917",
+    "geom:latitude":59.34917,
+    "geom:longitude":26.14889,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"272.0",
+    "gn:admin3_code":"2476.0",
+    "gn:asciiname":"Kruusimaee",
+    "gn:country_code":"EE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618898,
+    "gn:latitude":59.34917,
+    "gn:longitude":26.14889,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kruusim\u00e4e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kruusim\u00e4e",
+        "Kruusim\u00e4e-Kadarpiku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618898
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"ba7ffdbf9bd75dfeb3878dcf3b89a42e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242864871,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1242864871,
+    "wof:lastmodified":1537620497,
+    "wof:name":"Kruusimaee",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.14889,
+    59.34917,
+    26.14889,
+    59.34917
+],
+  "geometry": {"coordinates":[26.14889,59.34917],"type":"Point"}
+}

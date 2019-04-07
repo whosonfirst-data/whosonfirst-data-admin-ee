@@ -1,0 +1,80 @@
+{
+  "id": 1327232715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28417,58.88222,25.28417,58.88222",
+    "geom:latitude":58.88222,
+    "geom:longitude":25.28417,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"834.0",
+    "gn:admin3_code":"6206.0",
+    "gn:asciiname":"Piiumetsa",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589484,
+    "gn:latitude":58.88222,
+    "gn:longitude":25.28417,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Piiumetsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Piiumetsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0443\u043c\u0435\u0442\u0441\u0430"
+    ],
+    "name:und_x_variant":[
+        "Piyometsa",
+        "Piiometsa",
+        "Piiumetsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589484,
+        "wk:page":"Piiumetsa"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a2b88ae3d2958696cf604e3f2a861a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327232715,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1327232715,
+    "wof:lastmodified":1537620348,
+    "wof:name":"Piiumetsa",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28417,
+    58.88222,
+    25.28417,
+    58.88222
+],
+  "geometry": {"coordinates":[25.28417,58.88222],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260190031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.00889,59.36028,27.00889,59.36028",
+    "geom:latitude":59.36028,
+    "geom:longitude":27.00889,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"442.0",
+    "gn:admin3_code":"1629.0",
+    "gn:asciiname":"Erra-Liiva",
+    "gn:country_code":"EE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618901,
+    "gn:latitude":59.36028,
+    "gn:longitude":27.00889,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Erra-Liiva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liiva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618901,
+        "wk:page":"Erra-Liiva"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d95d786958379579820726c9f3628a47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260190031,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1260190031,
+    "wof:lastmodified":1537620497,
+    "wof:name":"Erra-Liiva",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.00889,
+    59.36028,
+    27.00889,
+    59.36028
+],
+  "geometry": {"coordinates":[27.00889,59.36028],"type":"Point"}
+}

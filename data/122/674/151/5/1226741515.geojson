@@ -1,0 +1,73 @@
+{
+  "id": 1226741515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61028,58.55306,23.61028,58.55306",
+    "geom:latitude":58.55306,
+    "geom:longitude":23.61028,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"430.0",
+    "gn:admin3_code":"6286.0",
+    "gn:asciiname":"Pivarootsi",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589467,
+    "gn:latitude":58.55306,
+    "gn:longitude":23.61028,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pivarootsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piivarootsi",
+        "Pivarootsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589467,
+        "wk:page":"Pivarootsi"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"fd8f2fe1cf9db49de71d941b46f48520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226741515,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1226741515,
+    "wof:lastmodified":1537620347,
+    "wof:name":"Pivarootsi",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61028,
+    58.55306,
+    23.61028,
+    58.55306
+],
+  "geometry": {"coordinates":[23.61028,58.55306],"type":"Point"}
+}

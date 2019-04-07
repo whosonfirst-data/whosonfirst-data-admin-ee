@@ -1,0 +1,70 @@
+{
+  "id": 1344135007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81167,58.37583,24.81167,58.37583",
+    "geom:latitude":58.37583,
+    "geom:longitude":24.81167,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"624.0",
+    "gn:admin3_code":"6518.0",
+    "gn:asciiname":"Loigu",
+    "gn:country_code":"EE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620548,
+    "gn:latitude":58.37583,
+    "gn:longitude":24.81167,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Loigu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leevik\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620548
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"23643721f4cc2a6ee4f4e251d5156b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1344135007,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1344135007,
+    "wof:lastmodified":1537620532,
+    "wof:name":"Loigu",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81167,
+    58.37583000000001,
+    24.81167,
+    58.37583000000001
+],
+  "geometry": {"coordinates":[24.81167,58.37583000000001],"type":"Point"}
+}

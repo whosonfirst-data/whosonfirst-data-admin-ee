@@ -1,0 +1,119 @@
+{
+  "id": 1126037813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.84361,59.43361,26.84361,59.43361",
+    "geom:latitude":59.43361,
+    "geom:longitude":26.84361,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":223,
+    "gn:population":223,
+    "iso:country":"EE",
+    "lbl:latitude":59.43361,
+    "lbl:longitude":26.84361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054c\u0561\u0576\u0576\u0578\u0582"
+    ],
+    "name:dut_x_preferred":[
+        "Rannu"
+    ],
+    "name:eng_x_preferred":[
+        "Rannu"
+    ],
+    "name:est_x_preferred":[
+        "Rannu k\u00fcla"
+    ],
+    "name:fre_x_preferred":[
+        "Rannu"
+    ],
+    "name:ger_x_preferred":[
+        "Rannu"
+    ],
+    "name:pol_x_preferred":[
+        "Rannu"
+    ],
+    "name:swe_x_preferred":[
+        "Rannu k\u00fcla"
+    ],
+    "name:unk_x_variant":[
+        "Vabatk\u00fcla"
+    ],
+    "name:vol_x_preferred":[
+        "Rannu k\u00fcla"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":589118,
+    "qs_pg:gn_pop":223,
+    "qs_pg:name":"Rannu",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Ida-Virumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":966880,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":845072,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Ida-Virumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589118,
+        "gp:id":845072,
+        "qs_pg:id":966880,
+        "wd:id":"Q1024204"
+    },
+    "wof:country":"EE",
+    "wof:created":1497301908,
+    "wof:geomhash":"452a3834d1497fece2a04f0535c9fe9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126037813,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1126037813,
+    "wof:lastmodified":1513956484,
+    "wof:name":"Rannu",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:population":223,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.84361,
+    59.43361,
+    26.84361,
+    59.43361
+],
+  "geometry": {"coordinates":[26.84361,59.43361],"type":"Point"}
+}

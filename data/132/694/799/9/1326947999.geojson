@@ -1,0 +1,73 @@
+{
+  "id": 1326947999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.10222,59.48778,25.10222,59.48778",
+    "geom:latitude":59.48778,
+    "geom:longitude":25.10222,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"245.0",
+    "gn:admin3_code":"3471.0",
+    "gn:asciiname":"UElgase Pank",
+    "gn:country_code":"EE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":795052,
+    "gn:latitude":59.48778,
+    "gn:longitude":25.10222,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"\u00dclgase Pank",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "\u00dclgase Pank"
+    ],
+    "name:und_x_variant":[
+        "Rannak\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":795052
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"b7fcc4600cdeb5cca70abbced056a307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1326947999,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1326947999,
+    "wof:lastmodified":1537620479,
+    "wof:name":"UElgase Pank",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.10222000000001,
+    59.48778000000001,
+    25.10222000000001,
+    59.48778000000001
+],
+  "geometry": {"coordinates":[25.10222000000001,59.48778000000001],"type":"Point"}
+}

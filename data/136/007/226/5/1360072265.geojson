@@ -1,0 +1,71 @@
+{
+  "id": 1360072265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.72917,58.05472,26.72917,58.05472",
+    "geom:latitude":58.05472,
+    "geom:longitude":26.72917,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"284.0",
+    "gn:admin3_code":"7645.0",
+    "gn:asciiname":"Pullikuela",
+    "gn:country_code":"EE",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620484,
+    "gn:latitude":58.05472,
+    "gn:longitude":26.72917,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pullik\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pullik\u00fcla",
+        "Pullik\u00fcl\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620484
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"2171bad868e7339a78f378d0c9e309b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1360072265,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1360072265,
+    "wof:lastmodified":1537620531,
+    "wof:name":"Pullikuela",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.72917,
+    58.05472,
+    26.72917,
+    58.05472
+],
+  "geometry": {"coordinates":[26.72917,58.05472],"type":"Point"}
+}

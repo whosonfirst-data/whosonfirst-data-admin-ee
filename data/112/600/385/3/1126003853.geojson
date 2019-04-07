@@ -1,0 +1,121 @@
+{
+  "id": 1126003853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.98222,58.37889,26.98222,58.37889",
+    "geom:latitude":58.37889,
+    "geom:longitude":26.98222,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":102,
+    "gn:population":102,
+    "iso:country":"EE",
+    "lbl:latitude":58.37889,
+    "lbl:longitude":26.98222,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "M\u00e4ksa Parish"
+    ],
+    "name:est_x_preferred":[
+        "M\u00e4ksa vald"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u0633\u062a\u0627\u0646 \u0645\u0627\u06a9\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Commune de M\u00e4ksa"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u056f\u057d\u0561"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10d0\u10d9\u10e1\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:nor_x_preferred":[
+        "M\u00e4ksa kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina M\u00e4ksa"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna M\u00e4ksa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044f\u043a\u0441\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u044f\u043a\u0441\u0430"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":794110,
+    "qs_pg:gn_pop":102,
+    "qs_pg:name":"M\u00e4ksa",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Tartumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":915830,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":843903,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Tartumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794110,
+        "gp:id":843903,
+        "qs_pg:id":915830
+    },
+    "wof:country":"EE",
+    "wof:created":1497299811,
+    "wof:geomhash":"417eb8301d4377a9befb30db94255f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126003853,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1126003853,
+    "wof:lastmodified":1509406314,
+    "wof:name":"M\u00e4ksa",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:population":102,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.98222,
+    58.37889,
+    26.98222,
+    58.37889
+],
+  "geometry": {"coordinates":[26.98222,58.37889],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276189809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.30639,58.37056,25.30639,58.37056",
+    "geom:latitude":58.37056,
+    "geom:longitude":25.30639,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"615.0",
+    "gn:admin3_code":"9036.0",
+    "gn:asciiname":"Vanaveski",
+    "gn:country_code":"EE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587778,
+    "gn:latitude":58.37056,
+    "gn:longitude":25.30639,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Vanaveski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587778
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"481d43eeb596cb240dcd156385081619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276189809,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1276189809,
+    "wof:lastmodified":1536970971,
+    "wof:name":"Vanaveski",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.30639,
+    58.37056,
+    25.30639,
+    58.37056
+],
+  "geometry": {"coordinates":[25.30639,58.37056],"type":"Point"}
+}

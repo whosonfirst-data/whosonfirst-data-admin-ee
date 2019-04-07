@@ -1,0 +1,72 @@
+{
+  "id": 1226322911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.51667,57.96667,27.51667,57.96667",
+    "geom:latitude":57.96667,
+    "geom:longitude":27.51667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"732.0",
+    "gn:admin3_code":"7523.0",
+    "gn:asciiname":"Koksina",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591218,
+    "gn:latitude":57.96667,
+    "gn:longitude":27.51667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Koksina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kok\u0161ino",
+        "Koksina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591218
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"e0918ad17ada20bb06cd7ecc4b86321d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226322911,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1226322911,
+    "wof:lastmodified":1537620410,
+    "wof:name":"Koksina",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.51667,
+    57.96666999999999,
+    27.51667,
+    57.96666999999999
+],
+  "geometry": {"coordinates":[27.51667,57.96666999999999],"type":"Point"}
+}

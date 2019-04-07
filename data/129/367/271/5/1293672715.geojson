@@ -1,0 +1,73 @@
+{
+  "id": 1293672715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0925,57.93778,22.0925,57.93778",
+    "geom:latitude":57.93778,
+    "geom:longitude":22.0925,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"714.0",
+    "gn:admin3_code":"4666.0",
+    "gn:asciiname":"Maantee",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590455,
+    "gn:latitude":57.93778,
+    "gn:longitude":22.0925,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Maantee",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mante",
+        "Maantee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590455,
+        "wk:page":"Maantee"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"dda3a1b45d82e3bf616e9810e8107643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293672715,
+            "region_id":85682947
+        }
+    ],
+    "wof:id":1293672715,
+    "wof:lastmodified":1537620383,
+    "wof:name":"Maantee",
+    "wof:parent_id":85682947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0925,
+    57.93778,
+    22.0925,
+    57.93778
+],
+  "geometry": {"coordinates":[22.0925,57.93778],"type":"Point"}
+}

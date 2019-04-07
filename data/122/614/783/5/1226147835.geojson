@@ -1,0 +1,71 @@
+{
+  "id": 1226147835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.44444,58.53889,26.44444,58.53889",
+    "geom:latitude":58.53889,
+    "geom:longitude":26.44444,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"796.0",
+    "gn:admin3_code":"3777.0",
+    "gn:asciiname":"Suuresoeoedi",
+    "gn:country_code":"EE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618196,
+    "gn:latitude":58.53889,
+    "gn:longitude":26.44444,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Suures\u00f6\u00f6di",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suures\u00f6\u00f6di",
+        "K\u00f5nnu-Suures\u00f6\u00f6di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618196
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"8d69dea8339826f053725bb6b67c6f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226147835,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1226147835,
+    "wof:lastmodified":1537620483,
+    "wof:name":"Suuresoeoedi",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.44444,
+    58.53889,
+    26.44444,
+    58.53889
+],
+  "geometry": {"coordinates":[26.44444,58.53889],"type":"Point"}
+}

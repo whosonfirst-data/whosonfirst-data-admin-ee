@@ -1,0 +1,68 @@
+{
+  "id": 1209302601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.76306,58.70139,24.76306,58.70139",
+    "geom:latitude":58.70139,
+    "geom:longitude":24.76306,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"638.0",
+    "gn:admin3_code":"2545.0",
+    "gn:asciiname":"Nomme",
+    "gn:country_code":"EE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589963,
+    "gn:latitude":58.70139,
+    "gn:longitude":24.76306,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"N\u00f5mme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nymme",
+        "N\u00f5mmek\u00fcla",
+        "N\u00f5mme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589963
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"cdce6cb2e6d2b3724e0054159ad9f9ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209302601
+        }
+    ],
+    "wof:id":1209302601,
+    "wof:lastmodified":1537620366,
+    "wof:name":"Nomme",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.76306,
+    58.70139,
+    24.76306,
+    58.70139
+],
+  "geometry": {"coordinates":[24.76306,58.70139],"type":"Point"}
+}

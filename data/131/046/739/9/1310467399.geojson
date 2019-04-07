@@ -1,0 +1,67 @@
+{
+  "id": 1310467399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.20861,58.09,26.20861,58.09",
+    "geom:latitude":58.09,
+    "geom:longitude":26.20861,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"171.0",
+    "gn:admin3_code":"1018.0",
+    "gn:asciiname":"Kanakuela",
+    "gn:country_code":"EE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620770,
+    "gn:latitude":58.09,
+    "gn:longitude":26.20861,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kanak\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620770
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5f9ac0a0f90bd0e277b38aa37899be89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310467399,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1310467399,
+    "wof:lastmodified":1536971596,
+    "wof:name":"Kanakuela",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.20861,
+    58.09,
+    26.20861,
+    58.09
+],
+  "geometry": {"coordinates":[26.20861,58.09],"type":"Point"}
+}

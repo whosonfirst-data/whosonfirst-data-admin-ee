@@ -1,0 +1,119 @@
+{
+  "id": 1126017667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71861,58.97556,24.71861,58.97556",
+    "geom:latitude":58.97556,
+    "geom:longitude":24.71861,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":210,
+    "gn:population":210,
+    "iso:country":"EE",
+    "lbl:latitude":58.97556,
+    "lbl:longitude":24.71861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u0582\u0578\u0582\u057d\u056b\u056f\u0578\u0582"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0441\u0438\u043a\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Kuusiku"
+    ],
+    "name:eng_x_preferred":[
+        "Kuusiku"
+    ],
+    "name:est_x_preferred":[
+        "Kuusiku"
+    ],
+    "name:fre_x_preferred":[
+        "Kuusiku"
+    ],
+    "name:sco_x_preferred":[
+        "Kuusiku"
+    ],
+    "name:swe_x_preferred":[
+        "Kuusiku"
+    ],
+    "name:unk_x_variant":[
+        "Myza Kuziku"
+    ],
+    "name:vol_x_preferred":[
+        "Kuusiku"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":590879,
+    "qs_pg:gn_pop":210,
+    "qs_pg:name":"Kuusiku",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Raplamaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":940394,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":843429,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Raplamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590879,
+        "gp:id":843429,
+        "qs_pg:id":940394,
+        "wd:id":"Q3054118"
+    },
+    "wof:country":"EE",
+    "wof:created":1497300649,
+    "wof:geomhash":"2b0cdb25618d8b8e3a42339706b98d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126017667,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1126017667,
+    "wof:lastmodified":1513956411,
+    "wof:name":"Kuusiku",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71861,
+    58.97556,
+    24.71861,
+    58.97556
+],
+  "geometry": {"coordinates":[24.71861,58.97556],"type":"Point"}
+}

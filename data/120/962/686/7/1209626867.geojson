@@ -1,0 +1,66 @@
+{
+  "id": 1209626867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.32444,59.12472,27.32444,59.12472",
+    "geom:latitude":59.12472,
+    "geom:longitude":27.32444,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"130.0",
+    "gn:admin3_code":"8578.0",
+    "gn:asciiname":"Kaleva",
+    "gn:country_code":"EE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619666,
+    "gn:latitude":59.12472,
+    "gn:longitude":27.32444,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kaleva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Terevere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619666
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"4ed9d514768275514594c78d42b06e58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209626867
+        }
+    ],
+    "wof:id":1209626867,
+    "wof:lastmodified":1537620512,
+    "wof:name":"Kaleva",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.32444000000001,
+    59.12472,
+    27.32444000000001,
+    59.12472
+],
+  "geometry": {"coordinates":[27.32444000000001,59.12472],"type":"Point"}
+}

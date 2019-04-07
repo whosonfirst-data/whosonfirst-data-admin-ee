@@ -1,0 +1,72 @@
+{
+  "id": 1276744515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.69278,58.50083,24.69278,58.50083",
+    "geom:latitude":58.50083,
+    "geom:longitude":24.69278,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"9555.0",
+    "gn:asciiname":"Volla",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587485,
+    "gn:latitude":58.50083,
+    "gn:longitude":24.69278,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"V\u00f5lla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vylla",
+        "V\u00f5lla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587485
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"4a1ab3b0bcef4b29feaf97b709666fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276744515,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1276744515,
+    "wof:lastmodified":1537620279,
+    "wof:name":"Volla",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.69278,
+    58.50083000000001,
+    24.69278,
+    58.50083000000001
+],
+  "geometry": {"coordinates":[24.69278,58.50083000000001],"type":"Point"}
+}

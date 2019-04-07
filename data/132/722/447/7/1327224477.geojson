@@ -1,0 +1,72 @@
+{
+  "id": 1327224477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2425,59.33472,26.2425,59.33472",
+    "geom:latitude":59.33472,
+    "geom:longitude":26.2425,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"272.0",
+    "gn:admin3_code":"7456.0",
+    "gn:asciiname":"Korgemaee",
+    "gn:country_code":"EE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591117,
+    "gn:latitude":59.33472,
+    "gn:longitude":26.2425,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"K\u00f5rgem\u00e4e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f6rgem\u00e4e",
+        "K\u00f5rgem\u00e4e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591117,
+        "wk:page":"K%C3%B5rgem%C3%A4e"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"45d3783d3ae2e9cee3e25b6022ed5fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327224477,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1327224477,
+    "wof:lastmodified":1537620407,
+    "wof:name":"Korgemaee",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2425,
+    59.33472,
+    26.2425,
+    59.33472
+],
+  "geometry": {"coordinates":[26.2425,59.33472],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1226262705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.69972,59.23583,26.69972,59.23583",
+    "geom:latitude":59.23583,
+    "geom:longitude":26.69972,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"1275.0",
+    "gn:asciiname":"Anguse",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592479,
+    "gn:latitude":59.23583,
+    "gn:longitude":26.69972,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Anguse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Anguse"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0433\u0443\u0437\u0435"
+    ],
+    "name:und_x_variant":[
+        "Hanguse",
+        "Anguze",
+        "Anguse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592479,
+        "wk:page":"Anguse"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"585890030eb15761f00e60d3de3bb0c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226262705,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1226262705,
+    "wof:lastmodified":1537620459,
+    "wof:name":"Anguse",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.69972000000001,
+    59.23583000000001,
+    26.69972000000001,
+    59.23583000000001
+],
+  "geometry": {"coordinates":[26.69972000000001,59.23583000000001],"type":"Point"}
+}

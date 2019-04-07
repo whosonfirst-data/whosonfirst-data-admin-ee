@@ -1,0 +1,71 @@
+{
+  "id": 1260054139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.47139,57.73083,26.47139,57.73083",
+    "geom:latitude":57.73083,
+    "geom:longitude":26.47139,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"5234.0",
+    "gn:asciiname":"Maehkli",
+    "gn:country_code":"EE",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":794501,
+    "gn:latitude":57.73083,
+    "gn:longitude":26.47139,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00e4hkli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e4hkli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794501,
+        "wk:page":"M%C3%A4hkli"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"94d941dbdffb5114a89cee5fd15c03c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260054139,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1260054139,
+    "wof:lastmodified":1537620475,
+    "wof:name":"Maehkli",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.47139,
+    57.73083000000001,
+    26.47139,
+    57.73083000000001
+],
+  "geometry": {"coordinates":[26.47139,57.73083000000001],"type":"Point"}
+}

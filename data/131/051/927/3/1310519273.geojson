@@ -1,0 +1,78 @@
+{
+  "id": 1310519273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.01895,59.42925,25.01895,59.42925",
+    "geom:latitude":59.42925,
+    "geom:longitude":25.01895,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"245.0",
+    "gn:admin3_code":"4704.0",
+    "gn:asciiname":"Maardu",
+    "gn:country_code":"EE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590448,
+    "gn:latitude":59.42925,
+    "gn:longitude":25.01895,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Maardu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maardu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0430\u0440\u0434\u0443"
+    ],
+    "name:und_x_variant":[
+        "Mardu",
+        "Maardu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590448,
+        "wk:page":"Maardu_village"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"fc8128e2286a32494df829d4136ede36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310519273,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1310519273,
+    "wof:lastmodified":1537620383,
+    "wof:name":"Maardu",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.01895,
+    59.42925,
+    25.01895,
+    59.42925
+],
+  "geometry": {"coordinates":[25.01895,59.42925],"type":"Point"}
+}

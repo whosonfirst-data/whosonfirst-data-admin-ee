@@ -1,0 +1,116 @@
+{
+  "id": 1125889939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.54194,58.80667,26.54194,58.80667",
+    "geom:latitude":58.80667,
+    "geom:longitude":26.54194,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":121,
+    "gn:population":121,
+    "iso:country":"EE",
+    "lbl:latitude":58.80667,
+    "lbl:longitude":26.54194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053c\u0561\u056b\u0578\u0582\u057d\u0587\u0565\u056c\u0575\u0561"
+    ],
+    "name:dut_x_preferred":[
+        "Laiusev\u00e4lja"
+    ],
+    "name:eng_x_preferred":[
+        "Laiusev\u00e4lja"
+    ],
+    "name:est_x_preferred":[
+        "Laiusev\u00e4lja"
+    ],
+    "name:fre_x_preferred":[
+        "Laiusev\u00e4lja"
+    ],
+    "name:swe_x_preferred":[
+        "Laiusev\u00e4lja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0439\u0443\u0437\u0435\u0432\u044f\u043b\u044c\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0626\u0648\u0633\u06cc\u0648\u0627\u0644\u062c\u0627"
+    ],
+    "name:vol_x_preferred":[
+        "Laiusev\u00e4lja"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":793382,
+    "qs_pg:gn_pop":121,
+    "qs_pg:name":"Laiusev\u00e4lja",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"J\u00f5gevamaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":915784,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":843501,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"J\u00f5gevamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793382,
+        "gp:id":843501,
+        "qs_pg:id":915784,
+        "wd:id":"Q3466922"
+    },
+    "wof:country":"EE",
+    "wof:created":1497295268,
+    "wof:geomhash":"f5df1a1d729a8ab551f0475127309786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125889939,
+            "region_id":85683009
+        }
+    ],
+    "wof:id":1125889939,
+    "wof:lastmodified":1513956417,
+    "wof:name":"Laiusev\u00e4lja",
+    "wof:parent_id":85683009,
+    "wof:placetype":"locality",
+    "wof:population":121,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.54194,
+    58.80667,
+    26.54194,
+    58.80667
+],
+  "geometry": {"coordinates":[26.54194,58.80667],"type":"Point"}
+}

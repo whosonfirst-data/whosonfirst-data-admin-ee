@@ -1,0 +1,71 @@
+{
+  "id": 1243341551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.33333,58.65,24.33333,58.65",
+    "geom:latitude":58.65,
+    "geom:longitude":24.33333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"638.0",
+    "gn:admin3_code":"1802.0",
+    "gn:asciiname":"Soorike-Suurkuela",
+    "gn:country_code":"EE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588594,
+    "gn:latitude":58.65,
+    "gn:longitude":24.33333,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"S\u00f5\u00f5rike-Suurk\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Syyrike-Surkyula",
+        "S\u00f5\u00f5rike-Suurk\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588594
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"667bfa105a0d925dc01b1446fe830526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243341551,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1243341551,
+    "wof:lastmodified":1537620316,
+    "wof:name":"Soorike-Suurkuela",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.33333,
+    58.65,
+    24.33333,
+    58.65
+],
+  "geometry": {"coordinates":[24.33333,58.65],"type":"Point"}
+}

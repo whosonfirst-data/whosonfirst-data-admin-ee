@@ -1,0 +1,71 @@
+{
+  "id": 1327453861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.795,59.22972,25.795,59.22972",
+    "geom:latitude":59.22972,
+    "geom:longitude":25.795,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"792.0",
+    "gn:admin3_code":"7198.0",
+    "gn:asciiname":"Raegavere",
+    "gn:country_code":"EE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589198,
+    "gn:latitude":59.22972,
+    "gn:longitude":25.795,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"R\u00e4gavere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ryagavere",
+        "R\u00e4gavere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589198
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d9e96e757c66f9a1a8c22d8ee9108d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327453861,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1327453861,
+    "wof:lastmodified":1537620338,
+    "wof:name":"Raegavere",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.795,
+    59.22971999999999,
+    25.795,
+    59.22971999999999
+],
+  "geometry": {"coordinates":[25.795,59.22971999999999],"type":"Point"}
+}

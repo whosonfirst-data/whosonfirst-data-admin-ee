@@ -1,0 +1,71 @@
+{
+  "id": 1242992897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7075,59.28194,25.7075,59.28194",
+    "geom:latitude":59.28194,
+    "geom:longitude":25.7075,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"792.0",
+    "gn:admin3_code":"6037.0",
+    "gn:asciiname":"Koolme",
+    "gn:country_code":"EE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591156,
+    "gn:latitude":59.28194,
+    "gn:longitude":25.7075,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Koolme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolme",
+        "Koolme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591156
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"ffe9f65afbe2c31035eb6c1064058514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242992897,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1242992897,
+    "wof:lastmodified":1537620408,
+    "wof:name":"Koolme",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7075,
+    59.28194000000001,
+    25.7075,
+    59.28194000000001
+],
+  "geometry": {"coordinates":[25.7075,59.28194000000001],"type":"Point"}
+}

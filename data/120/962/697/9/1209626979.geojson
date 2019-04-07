@@ -1,0 +1,68 @@
+{
+  "id": 1209626979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.01333,59.29944,27.01333,59.29944",
+    "geom:latitude":59.29944,
+    "geom:longitude":27.01333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"442.0",
+    "gn:admin3_code":"1382.0",
+    "gn:asciiname":"Arupaeaelse",
+    "gn:country_code":"EE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618662,
+    "gn:latitude":59.29944,
+    "gn:longitude":27.01333,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Arup\u00e4\u00e4lse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arup\u00e4\u00e4lse",
+        "\u0421\u0435\u043b\u0435\u043d\u0456\u0435 \u0410\u0440\u043e\u043f\u0435\u0430\u043b\u044a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618662,
+        "wk:page":"Arup%C3%A4%C3%A4lse"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"630131afe1703dd4752b86c8d4878878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209626979
+        }
+    ],
+    "wof:id":1209626979,
+    "wof:lastmodified":1537620493,
+    "wof:name":"Arupaeaelse",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.01333,
+    59.29944,
+    27.01333,
+    59.29944
+],
+  "geometry": {"coordinates":[27.01333,59.29944],"type":"Point"}
+}

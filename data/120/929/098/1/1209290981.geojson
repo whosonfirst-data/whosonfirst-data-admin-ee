@@ -1,0 +1,69 @@
+{
+  "id": 1209290981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.67889,58.95889,24.67889,58.95889",
+    "geom:latitude":58.95889,
+    "geom:longitude":24.67889,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"668.0",
+    "gn:admin3_code":"3294.0",
+    "gn:asciiname":"Koikse",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591239,
+    "gn:latitude":58.95889,
+    "gn:longitude":24.67889,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Koikse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koykse",
+        "Koikse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591239,
+        "wk:page":"Koikse"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"6e0aecd02ffaf9c5458affa7abc3f6d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209290981
+        }
+    ],
+    "wof:id":1209290981,
+    "wof:lastmodified":1537620411,
+    "wof:name":"Koikse",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.67889,
+    58.95889,
+    24.67889,
+    58.95889
+],
+  "geometry": {"coordinates":[24.67889,58.95889],"type":"Point"}
+}

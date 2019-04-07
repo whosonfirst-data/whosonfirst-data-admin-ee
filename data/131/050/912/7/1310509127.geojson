@@ -1,0 +1,72 @@
+{
+  "id": 1310509127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.73333,59.36667,27.73333,59.36667",
+    "geom:latitude":59.36667,
+    "geom:longitude":27.73333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"514.0",
+    "gn:admin3_code":"7908.0",
+    "gn:asciiname":"Vana Sotke",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587787,
+    "gn:latitude":59.36667,
+    "gn:longitude":27.73333,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Vana S\u00f5tke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vana Sytke",
+        "Vana S\u00f5tke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587787
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"97523c88dbe089af221cc23cf2676cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310509127,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1310509127,
+    "wof:lastmodified":1537620288,
+    "wof:name":"Vana Sotke",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73333,
+    59.36666999999999,
+    27.73333,
+    59.36666999999999
+],
+  "geometry": {"coordinates":[27.73333,59.36666999999999],"type":"Point"}
+}

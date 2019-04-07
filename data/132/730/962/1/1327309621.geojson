@@ -1,0 +1,68 @@
+{
+  "id": 1327309621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.61722,58.16944,26.61722,58.16944",
+    "geom:latitude":58.16944,
+    "geom:longitude":26.61722,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"283.0",
+    "gn:admin3_code":"6994.0",
+    "gn:asciiname":"Riiviku",
+    "gn:country_code":"EE",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":794053,
+    "gn:latitude":58.16944,
+    "gn:longitude":26.61722,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Riiviku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794053,
+        "wk:page":"Riiviku"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"295a4296301d202f3c4ce8560ad74581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327309621,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1327309621,
+    "wof:lastmodified":1537562540,
+    "wof:name":"Riiviku",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.61722,
+    58.16944,
+    26.61722,
+    58.16944
+],
+  "geometry": {"coordinates":[26.61722,58.16944],"type":"Point"}
+}

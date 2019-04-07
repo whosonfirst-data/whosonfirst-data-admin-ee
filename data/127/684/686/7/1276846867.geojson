@@ -1,0 +1,71 @@
+{
+  "id": 1276846867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.11944,58.92694,24.11944,58.92694",
+    "geom:latitude":58.92694,
+    "geom:longitude":24.11944,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"8232.0",
+    "gn:asciiname":"Vaikna",
+    "gn:country_code":"EE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587905,
+    "gn:latitude":58.92694,
+    "gn:longitude":24.11944,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Vaikna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vaykna",
+        "Vaikna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587905
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"560836cbbd3b9726b67b02f975903458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276846867,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1276846867,
+    "wof:lastmodified":1537620292,
+    "wof:name":"Vaikna",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.11944,
+    58.92694,
+    24.11944,
+    58.92694
+],
+  "geometry": {"coordinates":[24.11944,58.92694],"type":"Point"}
+}

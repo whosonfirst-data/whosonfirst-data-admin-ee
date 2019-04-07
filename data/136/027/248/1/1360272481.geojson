@@ -1,0 +1,67 @@
+{
+  "id": 1360272481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.87139,58.06806,26.87139,58.06806",
+    "geom:latitude":58.06806,
+    "geom:longitude":26.87139,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"284.0",
+    "gn:admin3_code":"3505.0",
+    "gn:asciiname":"Ts'ombo",
+    "gn:country_code":"EE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620699,
+    "gn:latitude":58.06806,
+    "gn:longitude":26.87139,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Ts\u2019ombo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620699
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"fe30e47c6ae6ad37da259dfff6dac75e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1360272481,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1360272481,
+    "wof:lastmodified":1536675305,
+    "wof:name":"Ts'ombo",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.87139,
+    58.06806,
+    26.87139,
+    58.06806
+],
+  "geometry": {"coordinates":[26.87139,58.06806],"type":"Point"}
+}

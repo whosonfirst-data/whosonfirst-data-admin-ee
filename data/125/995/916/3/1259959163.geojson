@@ -1,0 +1,73 @@
+{
+  "id": 1259959163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.93833,58.94083,24.93833,58.94083",
+    "geom:latitude":58.94083,
+    "geom:longitude":24.93833,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"293.0",
+    "gn:admin3_code":"4392.0",
+    "gn:asciiname":"Linnaaluste",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590612,
+    "gn:latitude":58.94083,
+    "gn:longitude":24.93833,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Linnaaluste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Linnaluste",
+        "Linnaaluste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590612,
+        "wk:page":"Linnaaluste"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"e383e80789da9ee0a31777fbd32fe5d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259959163,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1259959163,
+    "wof:lastmodified":1537620389,
+    "wof:name":"Linnaaluste",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.93833,
+    58.94083000000001,
+    24.93833,
+    58.94083000000001
+],
+  "geometry": {"coordinates":[24.93833,58.94083000000001],"type":"Point"}
+}

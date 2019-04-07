@@ -1,0 +1,108 @@
+{
+  "id": 1125987463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.33528,57.93861,27.33528,57.93861",
+    "geom:latitude":57.93861,
+    "geom:longitude":27.33528,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"EE",
+    "lbl:latitude":57.93861,
+    "lbl:longitude":27.33528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0546\u0578\u0570\u056b\u057a\u0561\u056c\u0578"
+    ],
+    "name:dut_x_preferred":[
+        "Nohipalo"
+    ],
+    "name:eng_x_preferred":[
+        "Nohipalo"
+    ],
+    "name:est_x_preferred":[
+        "Nohipalo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0445\u0456\u043f\u0430\u043b\u043e"
+    ],
+    "name:vol_x_preferred":[
+        "Nohipalo"
+    ],
+    "name:vro_x_preferred":[
+        "Nohipalo k\u00fcl\u00e4"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":794598,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nohipalo",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"P\u00f5lvamaa",
+    "qs_pg:photos":85,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":85,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":995521,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":29398863,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"P\u00f5lvamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794598,
+        "gp:id":29398863,
+        "qs_pg:id":995521,
+        "wd:id":"Q3465737"
+    },
+    "wof:country":"EE",
+    "wof:created":1497298881,
+    "wof:geomhash":"a4b918f1563a627baf0dd69ec03200cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125987463,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1125987463,
+    "wof:lastmodified":1513956450,
+    "wof:name":"Nohipalo",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.33528,
+    57.93861,
+    27.33528,
+    57.93861
+],
+  "geometry": {"coordinates":[27.33528,57.93861],"type":"Point"}
+}

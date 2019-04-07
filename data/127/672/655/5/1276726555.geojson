@@ -1,0 +1,71 @@
+{
+  "id": 1276726555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.95,57.83333,26.95,57.83333",
+    "geom:latitude":57.83333,
+    "geom:longitude":26.95,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"917.0",
+    "gn:admin3_code":"9564.0",
+    "gn:asciiname":"Maee-Vagula",
+    "gn:country_code":"EE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590394,
+    "gn:latitude":57.83333,
+    "gn:longitude":26.95,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00e4e-Vagula",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myae-Vagula",
+        "M\u00e4e-Vagula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590394
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"000d7038b9277762f8630746a379697c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276726555,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1276726555,
+    "wof:lastmodified":1537620381,
+    "wof:name":"Maee-Vagula",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.95,
+    57.83333,
+    26.95,
+    57.83333
+],
+  "geometry": {"coordinates":[26.95,57.83333],"type":"Point"}
+}

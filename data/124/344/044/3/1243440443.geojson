@@ -1,0 +1,72 @@
+{
+  "id": 1243440443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.85722,59.20694,24.85722,59.20694",
+    "geom:latitude":59.20694,
+    "geom:longitude":24.85722,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"317.0",
+    "gn:admin3_code":"5854.0",
+    "gn:asciiname":"Metskuela",
+    "gn:country_code":"EE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590246,
+    "gn:latitude":59.20694,
+    "gn:longitude":24.85722,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Metsk\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metsak\u00fcla",
+        "Metsakyula",
+        "Metsk\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590246
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"25d194e69cabeb113075b1f00f0e14d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243440443,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1243440443,
+    "wof:lastmodified":1537620375,
+    "wof:name":"Metskuela",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.85722,
+    59.20694,
+    24.85722,
+    59.20694
+],
+  "geometry": {"coordinates":[24.85722,59.20694],"type":"Point"}
+}

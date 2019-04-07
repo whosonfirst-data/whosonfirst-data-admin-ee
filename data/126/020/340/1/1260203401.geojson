@@ -1,0 +1,74 @@
+{
+  "id": 1260203401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86,59.27278,25.86,59.27278",
+    "geom:latitude":59.27278,
+    "geom:longitude":25.86,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"792.0",
+    "gn:admin3_code":"8549.0",
+    "gn:asciiname":"Toorakorve",
+    "gn:country_code":"EE",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588274,
+    "gn:latitude":59.27278,
+    "gn:longitude":25.86,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"T\u00f5\u00f5rak\u00f5rve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00f5erak\u00f5rve",
+        "Toerakyrve",
+        "T\u00f5erak\u00f5rve Asundus",
+        "T\u00f5\u00f5rak\u00f5rve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588274,
+        "wk:page":"T%C3%B5%C3%B5rak%C3%B5rve"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"956e6901d68fa17338a8bfaffd9cbcc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260203401,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1260203401,
+    "wof:lastmodified":1537620307,
+    "wof:name":"Toorakorve",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86,
+    59.27278,
+    25.86,
+    59.27278
+],
+  "geometry": {"coordinates":[25.86,59.27278],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259363081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.66667,58.08333,26.66667,58.08333",
+    "geom:latitude":58.08333,
+    "geom:longitude":26.66667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"284.0",
+    "gn:admin3_code":"8932.0",
+    "gn:asciiname":"Maeevali",
+    "gn:country_code":"EE",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590393,
+    "gn:latitude":58.08333,
+    "gn:longitude":26.66667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00e4evali",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myaekyali",
+        "M\u00e4evali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590393
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"8257910e7ec0c926a68621250f24823c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259363081,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1259363081,
+    "wof:lastmodified":1537620381,
+    "wof:name":"Maeevali",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.66667,
+    58.08333,
+    26.66667,
+    58.08333
+],
+  "geometry": {"coordinates":[26.66667,58.08333],"type":"Point"}
+}

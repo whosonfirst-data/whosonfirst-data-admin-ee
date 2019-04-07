@@ -1,0 +1,72 @@
+{
+  "id": 1226220517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.55,58.43333,24.55,58.43333",
+    "geom:latitude":58.43333,
+    "geom:longitude":24.55,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"3084.0",
+    "gn:asciiname":"Selja",
+    "gn:country_code":"EE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588723,
+    "gn:latitude":58.43333,
+    "gn:longitude":24.55,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Selja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seljak\u00fcla",
+        "Sel\u2019yakyula",
+        "Selja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588723
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"4920ba261fd4b71373c8970a1fde92ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226220517,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1226220517,
+    "wof:lastmodified":1537620321,
+    "wof:name":"Selja",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.55,
+    58.43333000000001,
+    24.55,
+    58.43333000000001
+],
+  "geometry": {"coordinates":[24.55,58.43333000000001],"type":"Point"}
+}

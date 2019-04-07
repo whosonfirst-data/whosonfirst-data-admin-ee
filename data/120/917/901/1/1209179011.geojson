@@ -1,0 +1,64 @@
+{
+  "id": 1209179011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.68806,58.62583,25.68806,58.62583",
+    "geom:latitude":58.62583,
+    "geom:longitude":25.68806,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"615.0",
+    "gn:admin3_code":"7489.0",
+    "gn:asciiname":"Saviaugu",
+    "gn:country_code":"EE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588753,
+    "gn:latitude":58.62583,
+    "gn:longitude":25.68806,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Saviaugu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588753,
+        "wk:page":"Saviaugu"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"7a0c01268b24366f1c74f93b869d5d7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209179011
+        }
+    ],
+    "wof:id":1209179011,
+    "wof:lastmodified":1537562483,
+    "wof:name":"Saviaugu",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.68806,
+    58.62583000000001,
+    25.68806,
+    58.62583000000001
+],
+  "geometry": {"coordinates":[25.68806,58.62583000000001],"type":"Point"}
+}

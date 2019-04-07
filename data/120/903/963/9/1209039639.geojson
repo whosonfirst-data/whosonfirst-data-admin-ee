@@ -1,0 +1,64 @@
+{
+  "id": 1209039639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.83389,59.03444,25.83389,59.03444",
+    "geom:latitude":59.03444,
+    "geom:longitude":25.83389,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"255.0",
+    "gn:admin3_code":"2506.0",
+    "gn:asciiname":"Kagavere",
+    "gn:country_code":"EE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591771,
+    "gn:latitude":59.03444,
+    "gn:longitude":25.83389,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kagavere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591771,
+        "wk:page":"Kagavere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"f0aa8e7334815bfee4f45d299d4d2c41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209039639
+        }
+    ],
+    "wof:id":1209039639,
+    "wof:lastmodified":1537562520,
+    "wof:name":"Kagavere",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83389,
+    59.03444,
+    25.83389,
+    59.03444
+],
+  "geometry": {"coordinates":[25.83389,59.03444],"type":"Point"}
+}

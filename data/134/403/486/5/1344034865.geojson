@@ -1,0 +1,73 @@
+{
+  "id": 1344034865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.23028,57.99778,27.23028,57.99778",
+    "geom:latitude":57.99778,
+    "geom:longitude":27.23028,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"708.0",
+    "gn:admin3_code":"7981.0",
+    "gn:asciiname":"Soohara",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588619,
+    "gn:latitude":57.99778,
+    "gn:longitude":27.23028,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Soohara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sokhara",
+        "Soohara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588619,
+        "wk:page":"Soohara"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"67bf7ac53cab183c77f76feacaf50558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1344034865,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1344034865,
+    "wof:lastmodified":1537620318,
+    "wof:name":"Soohara",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.23028,
+    57.99778000000001,
+    27.23028,
+    57.99778000000001
+],
+  "geometry": {"coordinates":[27.23028,57.99778000000001],"type":"Point"}
+}

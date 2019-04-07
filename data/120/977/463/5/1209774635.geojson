@@ -1,0 +1,71 @@
+{
+  "id": 1209774635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.015,57.72222,27.015,57.72222",
+    "geom:latitude":57.72222,
+    "geom:longitude":27.015,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"698.0",
+    "gn:admin3_code":"3664.0",
+    "gn:asciiname":"Kurgjaerve",
+    "gn:country_code":"EE",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620258,
+    "gn:latitude":57.72222,
+    "gn:longitude":27.015,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kurgj\u00e4rve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurgj\u00e4rve",
+        "\u041a\u0443\u0440\u0433\u044a\u044f\u0440\u0432\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620258
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"e81199326b5d50f3d15840b58c72f697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1209774635,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1209774635,
+    "wof:lastmodified":1537620526,
+    "wof:name":"Kurgjaerve",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.015,
+    57.72221999999999,
+    27.015,
+    57.72221999999999
+],
+  "geometry": {"coordinates":[27.015,57.72221999999999],"type":"Point"}
+}

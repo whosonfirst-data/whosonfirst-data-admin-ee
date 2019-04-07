@@ -1,0 +1,69 @@
+{
+  "id": 1209624195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.82296,58.83199,22.82296,58.83199",
+    "geom:latitude":58.83199,
+    "geom:longitude":22.82296,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"8827.0",
+    "gn:asciiname":"Vaemla",
+    "gn:country_code":"EE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587962,
+    "gn:latitude":58.83199,
+    "gn:longitude":22.82296,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Vaemla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Vaemla",
+        "Vaimla",
+        "Vaemla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587962,
+        "wk:page":"Vaemla"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"fcdf024517c8d1d303314ebca0e5121d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209624195
+        }
+    ],
+    "wof:id":1209624195,
+    "wof:lastmodified":1537620295,
+    "wof:name":"Vaemla",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.82296,
+    58.83199000000001,
+    22.82296,
+    58.83199000000001
+],
+  "geometry": {"coordinates":[22.82296,58.83199000000001],"type":"Point"}
+}

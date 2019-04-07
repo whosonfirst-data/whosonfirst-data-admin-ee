@@ -1,0 +1,77 @@
+{
+  "id": 1309715131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.52351,58.99888,22.52351,58.99888",
+    "geom:latitude":58.99888,
+    "geom:longitude":22.52351,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"6908.0",
+    "gn:asciiname":"Reigi",
+    "gn:country_code":"EE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589067,
+    "gn:latitude":58.99888,
+    "gn:longitude":22.52351,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Reigi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "R\u00f6icks"
+    ],
+    "name:und_x_variant":[
+        "Reyzhi",
+        "Roigi",
+        "Reygi",
+        "Reigi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589067,
+        "wk:page":"Reigi"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"cab97222dd403d9ab25a058afa12f3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1309715131,
+            "region_id":85682989
+        }
+    ],
+    "wof:id":1309715131,
+    "wof:lastmodified":1537620333,
+    "wof:name":"Reigi",
+    "wof:parent_id":85682989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.52351,
+    58.99888000000001,
+    22.52351,
+    58.99888000000001
+],
+  "geometry": {"coordinates":[22.52351,58.99888000000001],"type":"Point"}
+}

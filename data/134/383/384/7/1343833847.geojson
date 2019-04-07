@@ -1,0 +1,70 @@
+{
+  "id": 1343833847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.08722,58.38361,27.08722,58.38361",
+    "geom:latitude":58.38361,
+    "geom:longitude":27.08722,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"432.0",
+    "gn:admin3_code":"2897.0",
+    "gn:asciiname":"Alevi",
+    "gn:country_code":"EE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618211,
+    "gn:latitude":58.38361,
+    "gn:longitude":27.08722,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Alevi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uue-Kastre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618211
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c7a5e01c3e04e8ee5f7319377fbfa03e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343833847,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1343833847,
+    "wof:lastmodified":1537620483,
+    "wof:name":"Alevi",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.08722,
+    58.38361,
+    27.08722,
+    58.38361
+],
+  "geometry": {"coordinates":[27.08722,58.38361],"type":"Point"}
+}

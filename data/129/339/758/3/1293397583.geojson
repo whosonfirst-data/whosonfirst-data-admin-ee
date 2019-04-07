@@ -1,0 +1,66 @@
+{
+  "id": 1293397583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.08167,59.32889,28.08167,59.32889",
+    "geom:latitude":59.32889,
+    "geom:longitude":28.08167,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"511.0",
+    "gn:asciiname":"Korgesoo",
+    "gn:country_code":"EE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619832,
+    "gn:latitude":59.32889,
+    "gn:longitude":28.08167,
+    "gn:modification_date":"2016-03-13",
+    "gn:name":"K\u00f5rgesoo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619832
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"34128f83261b109ca8c7aa876a258b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293397583,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1293397583,
+    "wof:lastmodified":1536917066,
+    "wof:name":"Korgesoo",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.08167000000001,
+    59.32889,
+    28.08167000000001,
+    59.32889
+],
+  "geometry": {"coordinates":[28.08167000000001,59.32889],"type":"Point"}
+}

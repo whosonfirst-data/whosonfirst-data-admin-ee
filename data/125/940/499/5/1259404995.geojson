@@ -1,0 +1,67 @@
+{
+  "id": 1259404995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.97944,59.61222,25.97944,59.61222",
+    "geom:latitude":59.61222,
+    "geom:longitude":25.97944,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"191.0",
+    "gn:admin3_code":"4437.0",
+    "gn:asciiname":"Lobi",
+    "gn:country_code":"EE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590579,
+    "gn:latitude":59.61222,
+    "gn:longitude":25.97944,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Lobi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590579
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"1a3209c592b9b3eadbbd74f6d5b04ceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259404995,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1259404995,
+    "wof:lastmodified":1536971153,
+    "wof:name":"Lobi",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.97944,
+    59.61221999999999,
+    25.97944,
+    59.61221999999999
+],
+  "geometry": {"coordinates":[25.97944,59.61221999999999],"type":"Point"}
+}

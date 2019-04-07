@@ -1,0 +1,73 @@
+{
+  "id": 1326701163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73722,58.54167,22.73722,58.54167",
+    "geom:latitude":58.54167,
+    "geom:longitude":22.73722,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"714.0",
+    "gn:admin3_code":"9799.0",
+    "gn:asciiname":"Oeste",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589888,
+    "gn:latitude":58.54167,
+    "gn:longitude":22.73722,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"\u00d5este",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yeste",
+        "\u00d5este"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589888,
+        "wk:page":"%C3%95este"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"ae887616998ccc217c9a1cd4dcd3d657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1326701163,
+            "region_id":85682947
+        }
+    ],
+    "wof:id":1326701163,
+    "wof:lastmodified":1537620363,
+    "wof:name":"Oeste",
+    "wof:parent_id":85682947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73722,
+    58.54167,
+    22.73722,
+    58.54167
+],
+  "geometry": {"coordinates":[22.73722,58.54167],"type":"Point"}
+}

@@ -1,0 +1,125 @@
+{
+  "id": 1126037843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.82528,57.85,26.82528,57.85",
+    "geom:latitude":57.85,
+    "geom:longitude":26.82528,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":413,
+    "gn:population":413,
+    "iso:country":"EE",
+    "lbl:latitude":57.85,
+    "lbl:longitude":26.82528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054d\u056b\u0574\u0565\u057c\u057a\u0561\u056c\u0578\u0582"
+    ],
+    "name:dut_x_preferred":[
+        "S\u00f5merpalu"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00f5merpalu"
+    ],
+    "name:est_x_preferred":[
+        "S\u00f5merpalu"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00f5merpalu"
+    ],
+    "name:lit_x_preferred":[
+        "Semerpalu"
+    ],
+    "name:pol_x_preferred":[
+        "S\u00f5merpalu"
+    ],
+    "name:sco_x_preferred":[
+        "S\u00f5merpalu"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00f5merpalu"
+    ],
+    "name:unk_x_variant":[
+        "S\u00f5merpalu Asundus"
+    ],
+    "name:vol_x_preferred":[
+        "S\u00f5merpalu"
+    ],
+    "name:vro_x_preferred":[
+        "S\u00f5mm\u00f5rpalo"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":588635,
+    "qs_pg:gn_pop":413,
+    "qs_pg:name":"S\u00f5merpalu",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"V\u00f5rumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":966896,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":845550,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"V\u00f5rumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588635,
+        "gp:id":845550,
+        "qs_pg:id":966896,
+        "wd:id":"Q3140019"
+    },
+    "wof:country":"EE",
+    "wof:created":1497301909,
+    "wof:geomhash":"e068131e09204d5e78e7e772a9fd6eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126037843,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1126037843,
+    "wof:lastmodified":1513956516,
+    "wof:name":"S\u00f5merpalu",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:population":413,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.82528,
+    57.85,
+    26.82528,
+    57.85
+],
+  "geometry": {"coordinates":[26.82528,57.85],"type":"Point"}
+}

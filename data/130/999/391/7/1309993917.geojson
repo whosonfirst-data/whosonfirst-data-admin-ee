@@ -1,0 +1,74 @@
+{
+  "id": 1309993917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.86667,58.35,23.86667,58.35",
+    "geom:latitude":58.35,
+    "geom:longitude":23.86667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"430.0",
+    "gn:admin3_code":"8893.0",
+    "gn:asciiname":"Ees-Vaiste",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592306,
+    "gn:latitude":58.35,
+    "gn:longitude":23.86667,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Ees-Vaiste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vaiste",
+        "Vayste",
+        "Ees-Vaiste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592306,
+        "wk:page":"Vaiste"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"daadf5feaffe245edde63e60eb87aeb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1309993917,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1309993917,
+    "wof:lastmodified":1537620452,
+    "wof:name":"Ees-Vaiste",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.86667000000001,
+    58.35,
+    23.86667000000001,
+    58.35
+],
+  "geometry": {"coordinates":[23.86667000000001,58.35],"type":"Point"}
+}

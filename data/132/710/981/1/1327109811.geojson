@@ -1,0 +1,71 @@
+{
+  "id": 1327109811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.93,58.04639,25.93,58.04639",
+    "geom:latitude":58.04639,
+    "geom:longitude":25.93,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"824.0",
+    "gn:admin3_code":"9025.0",
+    "gn:asciiname":"Maeekuela",
+    "gn:country_code":"EE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620724,
+    "gn:latitude":58.04639,
+    "gn:longitude":25.93,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"M\u00e4ek\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e4ek\u00fcla",
+        "M\u00f5isa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620724
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"aeddda6617a2c915ef50939bd938d4d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327109811,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1327109811,
+    "wof:lastmodified":1537620535,
+    "wof:name":"Maeekuela",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.93,
+    58.04639,
+    25.93,
+    58.04639
+],
+  "geometry": {"coordinates":[25.93,58.04639],"type":"Point"}
+}

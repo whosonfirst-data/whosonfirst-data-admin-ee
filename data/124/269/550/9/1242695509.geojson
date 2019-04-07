@@ -1,0 +1,76 @@
+{
+  "id": 1242695509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83306,59.37222,24.83306,59.37222",
+    "geom:latitude":59.37222,
+    "geom:longitude":24.83306,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"653.0",
+    "gn:admin3_code":"1408.0",
+    "gn:asciiname":"Lehmja",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590725,
+    "gn:latitude":59.37222,
+    "gn:longitude":24.83306,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Lehmja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Lekh\u2019mya"
+    ],
+    "name:und_x_variant":[
+        "Myza Lekhm\u2019ya",
+        "Lehmja M\u00f5isad",
+        "Lehmja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590725
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"6ecc297eb8f5c166ddf61e613cbb9c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242695509,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1242695509,
+    "wof:lastmodified":1537620392,
+    "wof:name":"Lehmja",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83306,
+    59.37222,
+    24.83306,
+    59.37222
+],
+  "geometry": {"coordinates":[24.83306,59.37222],"type":"Point"}
+}

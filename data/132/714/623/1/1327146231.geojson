@@ -1,0 +1,78 @@
+{
+  "id": 1327146231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.79083,59.12083,27.79083,59.12083",
+    "geom:latitude":59.12083,
+    "geom:longitude":27.79083,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"130.0",
+    "gn:admin3_code":"3621.0",
+    "gn:asciiname":"Kuningakuela",
+    "gn:country_code":"EE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590963,
+    "gn:latitude":59.12083,
+    "gn:longitude":27.79083,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kuningak\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuningak\u00fcla"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043d\u0438\u043d\u0433\u0430\u043a\u044e\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kuningakyula",
+        "Kuningak\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590963,
+        "wk:page":"Kuningak%C3%BCla"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"465bdf51956a52bd91fbcfc863f66da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327146231,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1327146231,
+    "wof:lastmodified":1537620401,
+    "wof:name":"Kuningakuela",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.79083,
+    59.12083000000001,
+    27.79083,
+    59.12083000000001
+],
+  "geometry": {"coordinates":[27.79083,59.12083000000001],"type":"Point"}
+}

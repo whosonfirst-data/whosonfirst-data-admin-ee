@@ -1,0 +1,73 @@
+{
+  "id": 1242948819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.80444,58.3875,26.80444,58.3875",
+    "geom:latitude":58.3875,
+    "geom:longitude":26.80444,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"432.0",
+    "gn:admin3_code":"7189.0",
+    "gn:asciiname":"Roomu",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":588968,
+    "gn:latitude":58.3875,
+    "gn:longitude":26.80444,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"R\u00f5\u00f5mu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rymu",
+        "R\u00f5\u00f5mu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588968,
+        "wk:page":"R%C3%B5%C3%B5mu"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"15518be04d7575125a85927cd0d57481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242948819,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1242948819,
+    "wof:lastmodified":1537620330,
+    "wof:name":"Roomu",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.80444,
+    58.3875,
+    26.80444,
+    58.3875
+],
+  "geometry": {"coordinates":[26.80444,58.3875],"type":"Point"}
+}

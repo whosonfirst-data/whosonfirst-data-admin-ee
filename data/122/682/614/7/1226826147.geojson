@@ -1,0 +1,67 @@
+{
+  "id": 1226826147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.05139,58.21472,27.05139,58.21472",
+    "geom:latitude":58.21472,
+    "geom:longitude":27.05139,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"622.0",
+    "gn:admin3_code":"3469.0",
+    "gn:asciiname":"Pilpakuela",
+    "gn:country_code":"EE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620337,
+    "gn:latitude":58.21472,
+    "gn:longitude":27.05139,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Pilpak\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620337
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"fb4917665cb862c22e03fc3295caf8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226826147,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1226826147,
+    "wof:lastmodified":1537093395,
+    "wof:name":"Pilpakuela",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.05139,
+    58.21471999999999,
+    27.05139,
+    58.21471999999999
+],
+  "geometry": {"coordinates":[27.05139,58.21471999999999],"type":"Point"}
+}

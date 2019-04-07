@@ -1,0 +1,123 @@
+{
+  "id": 1125936489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.215,58.825,24.215,58.825",
+    "geom:latitude":58.825,
+    "geom:longitude":24.215,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":116,
+    "gn:population":116,
+    "iso:country":"EE",
+    "lbl:latitude":58.825,
+    "lbl:longitude":24.215,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054f\u0565\u0565\u0576\u0578\u0582\u057d\u0565"
+    ],
+    "name:dut_x_preferred":[
+        "Teenuse"
+    ],
+    "name:eng_x_preferred":[
+        "Teenuse"
+    ],
+    "name:est_x_preferred":[
+        "Teenuse"
+    ],
+    "name:fre_x_preferred":[
+        "Teenuse"
+    ],
+    "name:ger_x_preferred":[
+        "Teenuse"
+    ],
+    "name:pol_x_preferred":[
+        "Teenuse"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u044d\u043d\u0443\u0437\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Teenuse"
+    ],
+    "name:swe_x_preferred":[
+        "Teenuse"
+    ],
+    "name:unk_x_variant":[
+        "Myza Tenuse"
+    ],
+    "name:vol_x_preferred":[
+        "Teenuse"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":588313,
+    "qs_pg:gn_pop":116,
+    "qs_pg:name":"Teenuse",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Raplamaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1274598,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":845820,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Raplamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588313,
+        "gp:id":845820,
+        "qs_pg:id":1274598,
+        "wd:id":"Q985328"
+    },
+    "wof:country":"EE",
+    "wof:created":1497296984,
+    "wof:geomhash":"468d39f3f9ba25f32350ca7c8c2c1dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125936489,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1125936489,
+    "wof:lastmodified":1513956548,
+    "wof:name":"Teenuse",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.215,
+    58.825,
+    24.215,
+    58.825
+],
+  "geometry": {"coordinates":[24.215,58.825],"type":"Point"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 1125934891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.80389,58.85583,23.80389,58.85583",
+    "geom:latitude":58.85583,
+    "geom:longitude":23.80389,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":200,
+    "gn:population":200,
+    "iso:country":"EE",
+    "lbl:latitude":58.85583,
+    "lbl:longitude":23.80389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0544\u0561\u057c\u057f\u0576\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u043d\u0430"
+    ],
+    "name:cze_x_preferred":[
+        "Martna"
+    ],
+    "name:dut_x_preferred":[
+        "Martna"
+    ],
+    "name:eng_x_preferred":[
+        "Martna"
+    ],
+    "name:est_x_preferred":[
+        "Martna"
+    ],
+    "name:ger_x_preferred":[
+        "Martna"
+    ],
+    "name:pol_x_preferred":[
+        "Martna"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Martna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Martna Kirik"
+    ],
+    "name:vol_x_preferred":[
+        "Martna"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":590318,
+    "qs_pg:gn_pop":200,
+    "qs_pg:name":"Martna",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"L\u00e4\u00e4nemaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1274143,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":843948,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"L\u00e4\u00e4nemaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590318,
+        "gp:id":843948,
+        "qs_pg:id":1274143,
+        "wd:id":"Q3457072"
+    },
+    "wof:country":"EE",
+    "wof:created":1497296934,
+    "wof:geomhash":"f4243b2cf080403d46d8d358857b82d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125934891,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1125934891,
+    "wof:lastmodified":1553816642,
+    "wof:name":"Martna",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.80389,
+    58.85583,
+    23.80389,
+    58.85583
+],
+  "geometry": {"coordinates":[23.80389,58.85583],"type":"Point"}
+}

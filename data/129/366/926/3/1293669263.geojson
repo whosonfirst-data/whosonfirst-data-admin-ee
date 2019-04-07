@@ -1,0 +1,71 @@
+{
+  "id": 1293669263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.84889,57.96083,26.84889,57.96083",
+    "geom:latitude":57.96083,
+    "geom:longitude":26.84889,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"284.0",
+    "gn:admin3_code":"7696.0",
+    "gn:asciiname":"Tebaene",
+    "gn:country_code":"EE",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619972,
+    "gn:latitude":57.96083,
+    "gn:longitude":26.84889,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Teb\u00e4ne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teb\u00e4ne",
+        "M\u00e4e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619972
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"11a2754e792f3f3bdf6c7de7219e6006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293669263,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1293669263,
+    "wof:lastmodified":1537620519,
+    "wof:name":"Tebaene",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.84889,
+    57.96083,
+    26.84889,
+    57.96083
+],
+  "geometry": {"coordinates":[26.84889,57.96083],"type":"Point"}
+}

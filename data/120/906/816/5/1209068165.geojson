@@ -1,0 +1,68 @@
+{
+  "id": 1209068165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.75,58.65,25.75,58.65",
+    "geom:latitude":58.65,
+    "geom:longitude":25.75,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"615.0",
+    "gn:admin3_code":"3142.0",
+    "gn:asciiname":"Palu",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589646,
+    "gn:latitude":58.65,
+    "gn:longitude":25.75,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Palu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paluk\u00fcla",
+        "Palu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589646
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"4992b5afa2fb8e96aa13d50bc66bec12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209068165
+        }
+    ],
+    "wof:id":1209068165,
+    "wof:lastmodified":1537620354,
+    "wof:name":"Palu",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.75,
+    58.65,
+    25.75,
+    58.65
+],
+  "geometry": {"coordinates":[25.75,58.65],"type":"Point"}
+}

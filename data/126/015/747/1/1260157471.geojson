@@ -1,0 +1,72 @@
+{
+  "id": 1260157471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.58417,59.165,24.58417,59.165",
+    "geom:latitude":59.165,
+    "geom:longitude":24.58417,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"317.0",
+    "gn:admin3_code":"4681.0",
+    "gn:asciiname":"Luemandu",
+    "gn:country_code":"EE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590479,
+    "gn:latitude":59.165,
+    "gn:longitude":24.58417,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"L\u00fcmandu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lyumandu",
+        "L\u00fcmandu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590479,
+        "wk:page":"L%C3%BCmandu%2C_Kohila_Parish"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"bb98b813aa81393897db994ffbba771f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260157471,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1260157471,
+    "wof:lastmodified":1537620384,
+    "wof:name":"Luemandu",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.58417,
+    59.165,
+    24.58417,
+    59.165
+],
+  "geometry": {"coordinates":[24.58417,59.165],"type":"Point"}
+}

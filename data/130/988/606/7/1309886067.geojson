@@ -1,0 +1,71 @@
+{
+  "id": 1309886067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.00306,58.03639,27.00306,58.03639",
+    "geom:latitude":58.03639,
+    "geom:longitude":27.00306,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"622.0",
+    "gn:admin3_code":"8574.0",
+    "gn:asciiname":"Kalmotu",
+    "gn:country_code":"EE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620851,
+    "gn:latitude":58.03639,
+    "gn:longitude":27.00306,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kalm\u00f5tu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalm\u00f5tu",
+        "Kahrukurmu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620851
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"8c1d31f114a7cd0e4ab727153bbe787b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1309886067,
+            "region_id":85682955
+        }
+    ],
+    "wof:id":1309886067,
+    "wof:lastmodified":1537620538,
+    "wof:name":"Kalmotu",
+    "wof:parent_id":85682955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.00306,
+    58.03639,
+    27.00306,
+    58.03639
+],
+  "geometry": {"coordinates":[27.00306,58.03639],"type":"Point"}
+}

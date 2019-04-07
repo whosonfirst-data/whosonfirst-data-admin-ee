@@ -1,0 +1,104 @@
+{
+  "id": 1126045159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.78833,58.68972,24.78833,58.68972",
+    "geom:latitude":58.68972,
+    "geom:longitude":24.78833,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":155,
+    "gn:population":155,
+    "iso:country":"EE",
+    "lbl:latitude":58.68972,
+    "lbl:longitude":24.78833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053f\u0561\u056b\u057d\u0574\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0438\u0441\u043c\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Kaisma"
+    ],
+    "name:eng_x_preferred":[
+        "Kaisma"
+    ],
+    "name:est_x_preferred":[
+        "Kaisma"
+    ],
+    "name:pol_x_preferred":[
+        "Kaisma"
+    ],
+    "name:swe_x_preferred":[
+        "Kaisma"
+    ],
+    "name:unk_x_variant":[
+        "Kaysma"
+    ],
+    "name:vol_x_preferred":[
+        "Kaisma"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":591744,
+    "qs_pg:gn_pop":155,
+    "qs_pg:name":"Kaisma",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":550154,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591744,
+        "qs_pg:id":550154,
+        "wd:id":"Q3451091"
+    },
+    "wof:country":"EE",
+    "wof:created":1497302389,
+    "wof:geomhash":"43d39e590272f77e8aff7ed65add68a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126045159,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1126045159,
+    "wof:lastmodified":1513956396,
+    "wof:name":"Kaisma",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:population":155,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78833,
+    58.68972,
+    24.78833,
+    58.68972
+],
+  "geometry": {"coordinates":[24.78833,58.68972],"type":"Point"}
+}

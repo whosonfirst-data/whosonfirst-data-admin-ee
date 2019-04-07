@@ -1,0 +1,67 @@
+{
+  "id": 1327413049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41944,58.73667,24.41944,58.73667",
+    "geom:latitude":58.73667,
+    "geom:longitude":24.41944,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"4775.0",
+    "gn:asciiname":"Manni",
+    "gn:country_code":"EE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590348,
+    "gn:latitude":58.73667,
+    "gn:longitude":24.41944,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Manni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590348
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"8065007ec11742fd4fbf641b788a44ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1327413049,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1327413049,
+    "wof:lastmodified":1536709058,
+    "wof:name":"Manni",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41944,
+    58.73667,
+    24.41944,
+    58.73667
+],
+  "geometry": {"coordinates":[24.41944,58.73667],"type":"Point"}
+}

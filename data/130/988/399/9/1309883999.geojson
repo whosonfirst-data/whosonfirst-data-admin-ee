@@ -1,0 +1,72 @@
+{
+  "id": 1309883999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81611,58.26222,24.81611,58.26222",
+    "geom:latitude":58.26222,
+    "geom:longitude":24.81611,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"712.0",
+    "gn:admin3_code":"4628.0",
+    "gn:asciiname":"Laehkma",
+    "gn:country_code":"EE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590822,
+    "gn:latitude":58.26222,
+    "gn:longitude":24.81611,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"L\u00e4hkma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lyakhkma",
+        "L\u00e4hkma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590822,
+        "wk:page":"L%C3%A4hkma"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"ab0993be0a3a5e8f2711d09f9e4c4754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1309883999,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1309883999,
+    "wof:lastmodified":1537620395,
+    "wof:name":"Laehkma",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81611,
+    58.26221999999999,
+    24.81611,
+    58.26221999999999
+],
+  "geometry": {"coordinates":[24.81611,58.26221999999999],"type":"Point"}
+}

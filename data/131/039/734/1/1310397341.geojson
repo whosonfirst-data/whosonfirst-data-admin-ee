@@ -1,0 +1,72 @@
+{
+  "id": 1310397341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.63944,58.72306,23.63944,58.72306",
+    "geom:latitude":58.72306,
+    "geom:longitude":23.63944,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"430.0",
+    "gn:admin3_code":"4429.0",
+    "gn:asciiname":"Metskuela",
+    "gn:country_code":"EE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590224,
+    "gn:latitude":58.72306,
+    "gn:longitude":23.63944,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Metsk\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metskyula",
+        "Metsk\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590224,
+        "wk:page":"Metsk%C3%BCla%2C_L%C3%A4%C3%A4ne_County"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"cf25b70a58515da49684fc4ac94f9e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310397341,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":1310397341,
+    "wof:lastmodified":1537620374,
+    "wof:name":"Metskuela",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.63944,
+    58.72306,
+    23.63944,
+    58.72306
+],
+  "geometry": {"coordinates":[23.63944,58.72306],"type":"Point"}
+}

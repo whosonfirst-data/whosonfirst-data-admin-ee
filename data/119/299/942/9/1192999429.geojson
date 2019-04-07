@@ -1,0 +1,74 @@
+{
+  "id": 1192999429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.71056,58.53111,23.71056,58.53111",
+    "geom:latitude":58.53111,
+    "geom:longitude":23.71056,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"430.0",
+    "gn:admin3_code":"5801.0",
+    "gn:asciiname":"Paatsalu",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589749,
+    "gn:latitude":58.53111,
+    "gn:longitude":23.71056,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Paatsalu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Patzal",
+        "Myza Patsalu",
+        "Paatsalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589749,
+        "wk:page":"Paatsalu"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"71a9525198a5f446dc84efbb0a200924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1192999429,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1192999429,
+    "wof:lastmodified":1537620357,
+    "wof:name":"Paatsalu",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71056,
+    58.53111,
+    23.71056,
+    58.53111
+],
+  "geometry": {"coordinates":[23.71056,58.53111],"type":"Point"}
+}

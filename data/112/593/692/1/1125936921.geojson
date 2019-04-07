@@ -1,0 +1,117 @@
+{
+  "id": 1125936921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28167,58.17056,25.28167,58.17056",
+    "geom:latitude":58.17056,
+    "geom:longitude":25.28167,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":93,
+    "gn:population":93,
+    "iso:country":"EE",
+    "lbl:latitude":58.17056,
+    "lbl:longitude":25.28167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0646\u0627 \u0643\u0631\u064a\u0633\u062a"
+    ],
+    "name:arm_x_preferred":[
+        "\u054e\u0561\u0576\u0561-\u053f\u0561\u057c\u056b\u057d\u057f\u0565"
+    ],
+    "name:dut_x_preferred":[
+        "Vana-Kariste"
+    ],
+    "name:eng_x_preferred":[
+        "Vana-Kariste"
+    ],
+    "name:est_x_preferred":[
+        "Vana-Kariste"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0627\u0646\u0627 \u06a9\u0631\u06cc\u0633\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Vana-Kariste"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043d\u0430-\u041a\u0430\u0440\u0438\u0441\u0442\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Myza Vana-Kariste"
+    ],
+    "name:vol_x_preferred":[
+        "Vana-Kariste"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":587822,
+    "qs_pg:gn_pop":93,
+    "qs_pg:name":"Vana-Kariste",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Viljandimaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1274720,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":846270,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Viljandimaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587822,
+        "gp:id":846270,
+        "qs_pg:id":1274720,
+        "wd:id":"Q3462618"
+    },
+    "wof:country":"EE",
+    "wof:created":1497296995,
+    "wof:geomhash":"e42da74973fcb1ab3b61b293227750d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125936921,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1125936921,
+    "wof:lastmodified":1513956563,
+    "wof:name":"Vana-Kariste",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:population":93,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28167,
+    58.17056,
+    25.28167,
+    58.17056
+],
+  "geometry": {"coordinates":[25.28167,58.17056],"type":"Point"}
+}

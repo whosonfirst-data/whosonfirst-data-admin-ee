@@ -1,0 +1,68 @@
+{
+  "id": 1343727743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.30417,58.09972,26.30417,58.09972",
+    "geom:latitude":58.09972,
+    "geom:longitude":26.30417,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"171.0",
+    "gn:admin3_code":"1418.0",
+    "gn:asciiname":"Astuvere",
+    "gn:country_code":"EE",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592373,
+    "gn:latitude":58.09972,
+    "gn:longitude":26.30417,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Astuvere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592373,
+        "wk:page":"Astuvere"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"4238aa200261463ec2cccfea336cd11b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343727743,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1343727743,
+    "wof:lastmodified":1537562528,
+    "wof:name":"Astuvere",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.30417000000001,
+    58.09972,
+    26.30417000000001,
+    58.09972
+],
+  "geometry": {"coordinates":[26.30417000000001,58.09972],"type":"Point"}
+}

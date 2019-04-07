@@ -1,0 +1,116 @@
+{
+  "id": 1126008487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4725,58.23278,27.4725,58.23278",
+    "geom:latitude":58.23278,
+    "geom:longitude":27.4725,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":255,
+    "gn:population":255,
+    "iso:country":"EE",
+    "lbl:latitude":58.23278,
+    "lbl:longitude":27.4725,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0544\u0565\u0570\u056b\u056f\u0578\u0578\u057c\u0574\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0445\u0438\u043a\u043e\u0440\u043c\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Mehikoorma"
+    ],
+    "name:est_x_preferred":[
+        "Mehikoorma"
+    ],
+    "name:fre_x_preferred":[
+        "Mehikoorma"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0445\u0438\u043a\u043e\u043e\u0440\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mehikoorma"
+    ],
+    "name:unk_x_variant":[
+        "Ismenka"
+    ],
+    "name:vol_x_preferred":[
+        "Mehikoorma"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":590283,
+    "qs_pg:gn_pop":255,
+    "qs_pg:name":"Mehikoorma",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Tartumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":111100,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":843979,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Tartumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590283,
+        "gp:id":843979,
+        "qs_pg:id":111100,
+        "wd:id":"Q3469408"
+    },
+    "wof:country":"EE",
+    "wof:created":1497300126,
+    "wof:geomhash":"ae3c89c5cc0c9f76e051e70247384fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126008487,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1126008487,
+    "wof:lastmodified":1513956440,
+    "wof:name":"Mehikoorma",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:population":255,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4725,
+    58.23278,
+    27.4725,
+    58.23278
+],
+  "geometry": {"coordinates":[27.4725,58.23278],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293565531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.14861,58.79528,25.14861,58.79528",
+    "geom:latitude":58.79528,
+    "geom:longitude":25.14861,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"834.0",
+    "gn:admin3_code":"2228.0",
+    "gn:asciiname":"Allipa",
+    "gn:country_code":"EE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592524,
+    "gn:latitude":58.79528,
+    "gn:longitude":25.14861,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Allipa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592524
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"de7a1c8c963912967f7aa54707780d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1293565531,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1293565531,
+    "wof:lastmodified":1536674611,
+    "wof:name":"Allipa",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.14861,
+    58.79528000000001,
+    25.14861,
+    58.79528000000001
+],
+  "geometry": {"coordinates":[25.14861,58.79528000000001],"type":"Point"}
+}

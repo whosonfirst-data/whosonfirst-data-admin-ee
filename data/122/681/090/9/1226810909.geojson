@@ -1,0 +1,67 @@
+{
+  "id": 1226810909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.51056,58.28194,25.51056,58.28194",
+    "geom:latitude":58.28194,
+    "geom:longitude":25.51056,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"899.0",
+    "gn:admin3_code":"9068.0",
+    "gn:asciiname":"Tagamotsa",
+    "gn:country_code":"EE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620362,
+    "gn:latitude":58.28194,
+    "gn:longitude":25.51056,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Tagam\u00f5tsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620362
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d45ecc2bf9591d04a05a7519b9f56301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1226810909,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1226810909,
+    "wof:lastmodified":1536619729,
+    "wof:name":"Tagamotsa",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51056,
+    58.28194000000001,
+    25.51056,
+    58.28194000000001
+],
+  "geometry": {"coordinates":[25.51056,58.28194000000001],"type":"Point"}
+}

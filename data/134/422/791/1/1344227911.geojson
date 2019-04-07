@@ -1,0 +1,73 @@
+{
+  "id": 1344227911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.25028,58.62139,23.25028,58.62139",
+    "geom:latitude":58.62139,
+    "geom:longitude":23.25028,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"478.0",
+    "gn:admin3_code":"4292.0",
+    "gn:asciiname":"Levalopme",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590664,
+    "gn:latitude":58.62139,
+    "gn:longitude":23.25028,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Leval\u00f5pme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Levalypma",
+        "Leval\u00f5pme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590664,
+        "wk:page":"Leval%C3%B5pme"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"d7f0cea41b5fe1a33d093ef5fd2c02bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1344227911,
+            "region_id":85682951
+        }
+    ],
+    "wof:id":1344227911,
+    "wof:lastmodified":1537620391,
+    "wof:name":"Levalopme",
+    "wof:parent_id":85682951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.25028,
+    58.62139000000001,
+    23.25028,
+    58.62139000000001
+],
+  "geometry": {"coordinates":[23.25028,58.62139000000001],"type":"Point"}
+}

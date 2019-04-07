@@ -1,0 +1,66 @@
+{
+  "id": 1209235659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53972,59.10611,23.53972,59.10611",
+    "geom:latitude":59.10611,
+    "geom:longitude":23.53972,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441.0",
+    "gn:admin3_code":"6968.0",
+    "gn:asciiname":"Luksi",
+    "gn:country_code":"EE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590485,
+    "gn:latitude":59.10611,
+    "gn:longitude":23.53972,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Luksi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Lukslaggen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590485
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"5cad19a0334e2f0e6e498f71fd461157",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209235659
+        }
+    ],
+    "wof:id":1209235659,
+    "wof:lastmodified":1537620385,
+    "wof:name":"Luksi",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53972000000001,
+    59.10611,
+    23.53972000000001,
+    59.10611
+],
+  "geometry": {"coordinates":[23.53972000000001,59.10611],"type":"Point"}
+}

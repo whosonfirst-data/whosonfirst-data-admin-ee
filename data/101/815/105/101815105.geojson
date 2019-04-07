@@ -1,0 +1,117 @@
+{
+  "id": 101815105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000172,
+    "geom:area_square_m":1094194.477472,
+    "geom:bbox":"23.5702430196,58.9352542782,23.5961548404,58.9482349336",
+    "geom:latitude":58.941346,
+    "geom:longitude":23.583869,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1068,
+    "gn:population":1068,
+    "iso:country":"EE",
+    "lbl:latitude":58.939543,
+    "lbl:longitude":23.585145,
+    "mps:latitude":58.939543,
+    "mps:longitude":23.585145,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Uuem\u00f5isa"
+    ],
+    "name:est_x_preferred":[
+        "Uuem\u00f5isa"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0578\u0582\u0565\u0574\u056b\u056b\u057d\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Uuem\u00f5isa"
+    ],
+    "name:unk_x_variant":[
+        "Myza Uemyyza"
+    ],
+    "qs:a0":"Estonia",
+    "qs:a1":"*L\u00e4\u00e4nemaa",
+    "qs:a1r":"0",
+    "qs:adm0":"Estonia",
+    "qs:la":"Ridala",
+    "qs:la_lc":"*EE570674",
+    "qs:level":"locality",
+    "qs:loc":"Uuem\u00f5isa",
+    "qs:loc_alt":"Uuemoisa",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":588015,
+    "qs_pg:gn_pop":1068,
+    "qs_pg:name":"Uuem\u00f5isa",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"L\u00e4\u00e4nemaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1082739,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":846108,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":588015,
+        "gp:id":846108,
+        "qs:id":1082739,
+        "qs_pg:id":1082739,
+        "wd:id":"Q7903526"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"e55a283b96a817fbfaead3e9c913b120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":101815105,
+            "region_id":85683001
+        }
+    ],
+    "wof:id":101815105,
+    "wof:lastmodified":1534379291,
+    "wof:name":"Uuem\u00f5isa",
+    "wof:parent_id":85683001,
+    "wof:placetype":"locality",
+    "wof:population":1068,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125928817
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.57024301962451,
+    58.93525427821697,
+    23.59615484040779,
+    58.94823493355995
+],
+  "geometry": {"coordinates":[[[23.57708116633546,58.94806424025478],[23.57673621068011,58.94718392523214],[23.58185012944699,58.94667173313093],[23.58219520704387,58.94755203362621],[23.58560449006313,58.9472104569499],[23.58525933117892,58.94633016614239],[23.58696390880607,58.94615935097255],[23.58592843147727,58.94351848817831],[23.59104170567247,58.94300595957708],[23.59138696647301,58.94388623345827],[23.59479581971965,58.94354443246135],[23.59445047766087,58.9426641682727],[23.59615484040779,58.94249324095023],[23.59442823020242,58.93809193195636],[23.59272407055863,58.93826283504802],[23.59237884976443,58.93738256594708],[23.59067471524384,58.93755344308312],[23.58998441549244,58.93579289273691],[23.58657626244303,58.9361345643037],[23.58623122408869,58.93525427821697],[23.57941489466623,58.93593734866323],[23.57975977056009,58.93681765411577],[23.57464723913932,58.93732974980855],[23.57430248510474,58.93644942983752],[23.57259831764179,58.93662008133953],[23.57328776464351,58.93838073014331],[23.57499201335366,58.93821006896411],[23.57533680774918,58.93909038730391],[23.57704108161181,58.93891970017245],[23.57738593681825,58.93980001285672],[23.57909023583147,58.93962929977198],[23.57943515185343,58.94050960679942],[23.58113947601487,58.94033886776037],[23.58217446712655,58.94297976941897],[23.57024301962451,58.94417460093888],[23.57058777257731,58.94505493374345],[23.57229235215789,58.94488430203626],[23.57332685407579,58.94752528104152],[23.57503154011931,58.94735461369618],[23.57537645512502,58.94823493355995],[23.57708116633546,58.94806424025478]]],"type":"Polygon"}
+}

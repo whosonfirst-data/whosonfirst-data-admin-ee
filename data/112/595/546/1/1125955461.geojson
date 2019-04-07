@@ -1,0 +1,111 @@
+{
+  "id": 1125955461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.55,58.45,24.55,58.45",
+    "geom:latitude":58.45,
+    "geom:longitude":24.55,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":195,
+    "gn:population":195,
+    "iso:country":"EE",
+    "lbl:latitude":58.45,
+    "lbl:longitude":24.55,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053f\u056b\u056c\u056f\u057d\u0561\u0574\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u043b\u043a\u0441\u0430\u043c\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Kilksama"
+    ],
+    "name:eng_x_preferred":[
+        "Kilksama"
+    ],
+    "name:est_x_preferred":[
+        "Kilksama"
+    ],
+    "name:pol_x_preferred":[
+        "Kilksama"
+    ],
+    "name:swe_x_preferred":[
+        "Kilksama"
+    ],
+    "name:vol_x_preferred":[
+        "Kilksama"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":591379,
+    "qs_pg:gn_pop":195,
+    "qs_pg:name":"Kilksama",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"P\u00e4rnumaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":405839,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":842956,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"P\u00e4rnumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591379,
+        "gp:id":842956,
+        "qs_pg:id":405839,
+        "wd:id":"Q3470008"
+    },
+    "wof:country":"EE",
+    "wof:created":1497297606,
+    "wof:geomhash":"c99481be2a3819703c7eeee29b9bcf70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125955461,
+            "region_id":85682981
+        }
+    ],
+    "wof:id":1125955461,
+    "wof:lastmodified":1513956402,
+    "wof:name":"Kilksama",
+    "wof:parent_id":85682981,
+    "wof:placetype":"locality",
+    "wof:population":195,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.55,
+    58.45,
+    24.55,
+    58.45
+],
+  "geometry": {"coordinates":[24.55,58.45],"type":"Point"}
+}

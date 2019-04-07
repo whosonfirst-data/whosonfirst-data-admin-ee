@@ -1,0 +1,74 @@
+{
+  "id": 1260307283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.19491,59.00827,23.19491,59.00827",
+    "geom:latitude":59.00827,
+    "geom:longitude":23.19491,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"907.0",
+    "gn:admin3_code":"1662.0",
+    "gn:asciiname":"Faellarna",
+    "gn:country_code":"EE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592237,
+    "gn:latitude":59.00827,
+    "gn:longitude":23.19491,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"F\u00e4llarna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vellana",
+        "F\u00e4llana",
+        "F\u00e4llarna",
+        "Fellerna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592237,
+        "wk:page":"F%C3%A4llarna"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"6a70f93a9e6404ee08b1f2093e1ccb0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1260307283,
+            "region_id":85682993
+        }
+    ],
+    "wof:id":1260307283,
+    "wof:lastmodified":1537620450,
+    "wof:name":"Faellarna",
+    "wof:parent_id":85682993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.19491,
+    59.00827,
+    23.19491,
+    59.00827
+],
+  "geometry": {"coordinates":[23.19491,59.00827],"type":"Point"}
+}

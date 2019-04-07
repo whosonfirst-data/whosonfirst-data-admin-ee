@@ -1,0 +1,68 @@
+{
+  "id": 1209578785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.27611,58.32472,27.27611,58.32472",
+    "geom:latitude":58.32472,
+    "geom:longitude":27.27611,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"291.0",
+    "gn:admin3_code":"1125.0",
+    "gn:asciiname":"Ahunapalu",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592587,
+    "gn:latitude":58.32472,
+    "gn:longitude":27.27611,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Ahunapalu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akhunapalu",
+        "Ahunapalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592587
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"55379d123b0b3c8b42ee60bdaffe5154",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209578785
+        }
+    ],
+    "wof:id":1209578785,
+    "wof:lastmodified":1537620462,
+    "wof:name":"Ahunapalu",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.27611,
+    58.32471999999999,
+    27.27611,
+    58.32471999999999
+],
+  "geometry": {"coordinates":[27.27611,58.32471999999999],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276879209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5,59.08333,25.5,59.08333",
+    "geom:latitude":59.08333,
+    "geom:longitude":25.5,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"567.0",
+    "gn:admin3_code":"9602.0",
+    "gn:asciiname":"Heimtali",
+    "gn:country_code":"EE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592156,
+    "gn:latitude":59.08333,
+    "gn:longitude":25.5,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Heimtali",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592156
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"cdaf7845acf31b90f345396124e52fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1276879209,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1276879209,
+    "wof:lastmodified":1537040272,
+    "wof:name":"Heimtali",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5,
+    59.08333,
+    25.5,
+    59.08333
+],
+  "geometry": {"coordinates":[25.5,59.08333],"type":"Point"}
+}

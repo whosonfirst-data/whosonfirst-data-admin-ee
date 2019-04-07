@@ -1,0 +1,70 @@
+{
+  "id": 1310309151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.67305,59.45417,24.67305,59.45417",
+    "geom:latitude":59.45417,
+    "geom:longitude":24.67305,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"784.0",
+    "gn:admin3_code":"614.0",
+    "gn:asciiname":"Bekkeri",
+    "gn:country_code":"EE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618734,
+    "gn:latitude":59.45417,
+    "gn:longitude":24.67305,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Bekkeri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Die Unterstadt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618734
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"878b20de5bcbf8da6ddb99858b7d7f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310309151,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1310309151,
+    "wof:lastmodified":1537620494,
+    "wof:name":"Bekkeri",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.67305,
+    59.45417,
+    24.67305,
+    59.45417
+],
+  "geometry": {"coordinates":[24.67305,59.45417],"type":"Point"}
+}

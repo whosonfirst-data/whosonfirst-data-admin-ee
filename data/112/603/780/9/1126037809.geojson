@@ -1,0 +1,116 @@
+{
+  "id": 1126037809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.21806,58.23667,26.21806,58.23667",
+    "geom:latitude":58.23667,
+    "geom:longitude":26.21806,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":439,
+    "gn:population":439,
+    "iso:country":"EE",
+    "lbl:latitude":58.23667,
+    "lbl:longitude":26.21806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054c\u0561\u0576\u0576\u0578\u0582"
+    ],
+    "name:deu_x_preferred":[
+        "Randen"
+    ],
+    "name:eng_x_preferred":[
+        "Rannu"
+    ],
+    "name:est_x_preferred":[
+        "Rannu"
+    ],
+    "name:fre_x_preferred":[
+        "Rannu alev"
+    ],
+    "name:swe_x_preferred":[
+        "Rannu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043d\u043d\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Myza Rannu"
+    ],
+    "name:vol_x_preferred":[
+        "Rannu"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":589121,
+    "qs_pg:gn_pop":439,
+    "qs_pg:name":"Rannu",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Tartumaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":966879,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":845071,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Tartumaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589121,
+        "gp:id":845071,
+        "qs_pg:id":966879,
+        "wd:id":"Q3469505"
+    },
+    "wof:country":"EE",
+    "wof:created":1497301907,
+    "wof:geomhash":"f912fbb6ed863947341c3cab75cef0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1126037809,
+            "region_id":85682995
+        }
+    ],
+    "wof:id":1126037809,
+    "wof:lastmodified":1513956484,
+    "wof:name":"Rannu",
+    "wof:parent_id":85682995,
+    "wof:placetype":"locality",
+    "wof:population":439,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.21806,
+    58.23667,
+    26.21806,
+    58.23667
+],
+  "geometry": {"coordinates":[26.21806,58.23667],"type":"Point"}
+}

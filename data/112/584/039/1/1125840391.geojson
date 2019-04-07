@@ -1,0 +1,76 @@
+{
+  "id": 1125840391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.30028,57.75528,26.30028,57.75528",
+    "geom:latitude":57.75528,
+    "geom:longitude":26.30028,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":102,
+    "gn:population":102,
+    "iso:country":"EE",
+    "lbl:latitude":57.75528,
+    "lbl:longitude":26.30028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":794497,
+    "qs_pg:gn_pop":102,
+    "qs_pg:name":"Karula",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":83805,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794497,
+        "qs_pg:id":83805
+    },
+    "wof:country":"EE",
+    "wof:created":1497292907,
+    "wof:geomhash":"b11139296660efec0960cdf820479926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125840391,
+            "region_id":85682941
+        }
+    ],
+    "wof:id":1125840391,
+    "wof:lastmodified":1509395253,
+    "wof:name":"Karula",
+    "wof:parent_id":85682941,
+    "wof:placetype":"locality",
+    "wof:population":102,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.30028,
+    57.75528,
+    26.30028,
+    57.75528
+],
+  "geometry": {"coordinates":[26.30028,57.75528],"type":"Point"}
+}

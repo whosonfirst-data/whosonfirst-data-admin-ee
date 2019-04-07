@@ -1,0 +1,73 @@
+{
+  "id": 1309729975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.21585,59.57086,25.21585,59.57086",
+    "geom:latitude":59.57086,
+    "geom:longitude":25.21585,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"245.0",
+    "gn:admin3_code":"6785.0",
+    "gn:asciiname":"Rammu",
+    "gn:cc2":"EE",
+    "gn:country_code":"EE",
+    "gn:dem":5,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589159,
+    "gn:latitude":59.57086,
+    "gn:longitude":25.21585,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Rammu",
+    "gn:population":1,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rammu saar",
+        "Rammusaar",
+        "Rammu k\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589159
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"c7cef1300274d7e09ee2dc3725169d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309729975,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309729975,
+    "wof:lastmodified":1537620336,
+    "wof:name":"Rammu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.21585,
+    59.57086,
+    25.21585,
+    59.57086
+],
+  "geometry": {"coordinates":[25.21585,59.57086],"type":"Point"}
+}

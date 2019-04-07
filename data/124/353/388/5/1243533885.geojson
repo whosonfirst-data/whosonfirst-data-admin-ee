@@ -1,0 +1,78 @@
+{
+  "id": 1243533885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.36639,58.86222,24.36639,58.86222",
+    "geom:latitude":58.86222,
+    "geom:longitude":24.36639,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"5826.0",
+    "gn:asciiname":"Paekuela",
+    "gn:country_code":"EE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589735,
+    "gn:latitude":58.86222,
+    "gn:longitude":24.36639,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Paek\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Paek\u00fcla"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u044d\u043a\u044e\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Paekyula",
+        "Paek\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589735,
+        "wk:page":"Paek%C3%BCla"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"599b03b3e75f13c8c8ef206172695dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243533885,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1243533885,
+    "wof:lastmodified":1537620357,
+    "wof:name":"Paekuela",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.36639,
+    58.86221999999999,
+    24.36639,
+    58.86221999999999
+],
+  "geometry": {"coordinates":[24.36639,58.86221999999999],"type":"Point"}
+}

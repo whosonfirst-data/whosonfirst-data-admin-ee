@@ -1,0 +1,67 @@
+{
+  "id": 1259557987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.62917,58.1375,25.62917,58.1375",
+    "geom:latitude":58.1375,
+    "geom:longitude":25.62917,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"480.0",
+    "gn:admin3_code":"1868.0",
+    "gn:asciiname":"Kulli",
+    "gn:country_code":"EE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590992,
+    "gn:latitude":58.1375,
+    "gn:longitude":25.62917,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kulli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590992
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"f8fc48436dbc102f8f7a0d1e14a4ffb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259557987,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1259557987,
+    "wof:lastmodified":1536751592,
+    "wof:name":"Kulli",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.62917,
+    58.1375,
+    25.62917,
+    58.1375
+],
+  "geometry": {"coordinates":[25.62917,58.1375],"type":"Point"}
+}

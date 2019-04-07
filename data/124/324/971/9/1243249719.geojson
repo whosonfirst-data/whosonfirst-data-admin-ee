@@ -1,0 +1,67 @@
+{
+  "id": 1243249719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71694,58.88528,24.71694,58.88528",
+    "geom:latitude":58.88528,
+    "geom:longitude":24.71694,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"668.0",
+    "gn:admin3_code":"2955.0",
+    "gn:asciiname":"Kadaka",
+    "gn:country_code":"EE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":591798,
+    "gn:latitude":58.88528,
+    "gn:longitude":24.71694,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kadaka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591798
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"a5b6745a35dcf4f326ca95bdca92b932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243249719,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1243249719,
+    "wof:lastmodified":1537085965,
+    "wof:name":"Kadaka",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71694,
+    58.88528,
+    24.71694,
+    58.88528
+],
+  "geometry": {"coordinates":[24.71694,58.88528],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225929529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.49694,59.26306,26.49694,59.26306",
+    "geom:latitude":59.26306,
+    "geom:longitude":26.49694,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"2919.0",
+    "gn:asciiname":"Sooaluse",
+    "gn:country_code":"EE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618666,
+    "gn:latitude":59.26306,
+    "gn:longitude":26.49694,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Sooaluse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Der. Soaluze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618666
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"295beeb6bb2c32a437b2903e693fcd6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1225929529,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1225929529,
+    "wof:lastmodified":1537620493,
+    "wof:name":"Sooaluse",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.49694,
+    59.26306,
+    26.49694,
+    59.26306
+],
+  "geometry": {"coordinates":[26.49694,59.26306],"type":"Point"}
+}

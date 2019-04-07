@@ -1,0 +1,66 @@
+{
+  "id": 1209680167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.76889,57.73139,26.76889,57.73139",
+    "geom:latitude":57.73139,
+    "geom:longitude":26.76889,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"698.0",
+    "gn:admin3_code":"5822.0",
+    "gn:asciiname":"Paeboja",
+    "gn:country_code":"EE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8619744,
+    "gn:latitude":57.73139,
+    "gn:longitude":26.76889,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Paeboja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paepoja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8619744
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"731383f46082f0dbcc4c4673e5b80d3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209680167
+        }
+    ],
+    "wof:id":1209680167,
+    "wof:lastmodified":1537620514,
+    "wof:name":"Paeboja",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.76889000000001,
+    57.73139000000001,
+    26.76889000000001,
+    57.73139000000001
+],
+  "geometry": {"coordinates":[26.76889000000001,57.73139000000001],"type":"Point"}
+}

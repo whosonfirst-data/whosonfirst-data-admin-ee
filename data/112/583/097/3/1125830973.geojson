@@ -1,0 +1,79 @@
+{
+  "id": 1125830973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.51056,58.3025,25.51056,58.3025",
+    "geom:latitude":58.3025,
+    "geom:longitude":25.51056,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":144,
+    "gn:population":144,
+    "iso:country":"EE",
+    "lbl:latitude":58.3025,
+    "lbl:longitude":25.51056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Myza Vardi"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":587759,
+    "qs_pg:gn_pop":144,
+    "qs_pg:name":"Vardi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":81098,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587759,
+        "qs_pg:id":81098
+    },
+    "wof:country":"EE",
+    "wof:created":1497292497,
+    "wof:geomhash":"0478d8816eb8e3fd1d27b0a55ffe6054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125830973,
+            "region_id":85682985
+        }
+    ],
+    "wof:id":1125830973,
+    "wof:lastmodified":1509394672,
+    "wof:name":"Vardi",
+    "wof:parent_id":85682985,
+    "wof:placetype":"locality",
+    "wof:population":144,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51056,
+    58.3025,
+    25.51056,
+    58.3025
+],
+  "geometry": {"coordinates":[25.51056,58.3025],"type":"Point"}
+}

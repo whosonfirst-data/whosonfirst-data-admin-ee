@@ -1,0 +1,72 @@
+{
+  "id": 1259999557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.73528,59.51083,26.73528,59.51083",
+    "geom:latitude":59.51083,
+    "geom:longitude":26.73528,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"4736.0",
+    "gn:asciiname":"Lahe",
+    "gn:country_code":"EE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":590830,
+    "gn:latitude":59.51083,
+    "gn:longitude":26.73528,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Lahe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lakhekyula",
+        "Lahek\u00fcla",
+        "Lahe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":590830
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"178ee05d8dee6f1a8d334916101910df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1259999557,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1259999557,
+    "wof:lastmodified":1537620396,
+    "wof:name":"Lahe",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.73528,
+    59.51083000000001,
+    26.73528,
+    59.51083000000001
+],
+  "geometry": {"coordinates":[26.73528,59.51083000000001],"type":"Point"}
+}

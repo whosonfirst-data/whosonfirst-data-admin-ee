@@ -1,0 +1,67 @@
+{
+  "id": 1310709541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.04528,59.42778,27.04528,59.42778",
+    "geom:latitude":59.42778,
+    "geom:longitude":27.04528,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"442.0",
+    "gn:admin3_code":"2150.0",
+    "gn:asciiname":"Sope",
+    "gn:country_code":"EE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618913,
+    "gn:latitude":59.42778,
+    "gn:longitude":27.04528,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Sope",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618913
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"25c4a8c3658094776f896d7b35d64a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310709541,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1310709541,
+    "wof:lastmodified":1536620393,
+    "wof:name":"Sope",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.04528,
+    59.42778000000001,
+    27.04528,
+    59.42778000000001
+],
+  "geometry": {"coordinates":[27.04528,59.42778000000001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209221997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.90389,59.35472,26.90389,59.35472",
+    "geom:latitude":59.35472,
+    "geom:longitude":26.90389,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"442.0",
+    "gn:admin3_code":"9086.0",
+    "gn:asciiname":"Varinurme",
+    "gn:country_code":"EE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587748,
+    "gn:latitude":59.35472,
+    "gn:longitude":26.90389,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Varinurme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587748,
+        "wk:page":"Varinurme"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"0c320b9d03131654858ad59b17cf0082",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209221997
+        }
+    ],
+    "wof:id":1209221997,
+    "wof:lastmodified":1537562471,
+    "wof:name":"Varinurme",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.90389,
+    59.35471999999999,
+    26.90389,
+    59.35471999999999
+],
+  "geometry": {"coordinates":[26.90389,59.35471999999999],"type":"Point"}
+}

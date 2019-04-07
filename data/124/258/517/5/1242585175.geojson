@@ -1,0 +1,71 @@
+{
+  "id": 1242585175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.05194,59.04361,27.05194,59.04361",
+    "geom:latitude":59.04361,
+    "geom:longitude":27.05194,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"130.0",
+    "gn:admin3_code":"7337.0",
+    "gn:asciiname":"Kesavaelja",
+    "gn:country_code":"EE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8618674,
+    "gn:latitude":59.04361,
+    "gn:longitude":27.05194,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Kesav\u00e4lja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kesav\u00e4lja",
+        "\u0422\u0443\u0434\u0434\u043e\u043b\u0438\u043d\u044a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8618674
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"cd8ca76d34e062015f5072e53311c5d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1242585175,
+            "region_id":85683059
+        }
+    ],
+    "wof:id":1242585175,
+    "wof:lastmodified":1537620493,
+    "wof:name":"Kesavaelja",
+    "wof:parent_id":85683059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.05194,
+    59.04361,
+    27.05194,
+    59.04361
+],
+  "geometry": {"coordinates":[27.05194,59.04361],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243222665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.88167,57.66583,26.88167,57.66583",
+    "geom:latitude":57.66583,
+    "geom:longitude":26.88167,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"698.0",
+    "gn:admin3_code":"4947.0",
+    "gn:asciiname":"Paerlijoe",
+    "gn:country_code":"EE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":794368,
+    "gn:latitude":57.66583,
+    "gn:longitude":26.88167,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"P\u00e4rlij\u00f5e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e4rlij\u00f5e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794368,
+        "wk:page":"P%C3%A4rlij%C3%B5e"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"189fa7a3e1be7a488ee510b72984e43d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1243222665,
+            "region_id":85682937
+        }
+    ],
+    "wof:id":1243222665,
+    "wof:lastmodified":1537620473,
+    "wof:name":"Paerlijoe",
+    "wof:parent_id":85682937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.88167,
+    57.66583000000001,
+    26.88167,
+    57.66583000000001
+],
+  "geometry": {"coordinates":[26.88167,57.66583000000001],"type":"Point"}
+}

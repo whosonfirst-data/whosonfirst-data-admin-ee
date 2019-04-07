@@ -1,0 +1,70 @@
+{
+  "id": 1310423209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.74667,59.26944,23.74667,59.26944",
+    "geom:latitude":59.26944,
+    "geom:longitude":23.74667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"431.0",
+    "gn:admin3_code":"2927.0",
+    "gn:asciiname":"Ristna",
+    "gn:country_code":"EE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":589002,
+    "gn:latitude":59.26944,
+    "gn:longitude":23.74667,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ristna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Korsn\u00e4s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":589002
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"825521d435084dadde07338527ffa54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1310423209,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1310423209,
+    "wof:lastmodified":1537620331,
+    "wof:name":"Ristna",
+    "wof:parent_id":85683055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.74667,
+    59.26944,
+    23.74667,
+    59.26944
+],
+  "geometry": {"coordinates":[23.74667,59.26944],"type":"Point"}
+}

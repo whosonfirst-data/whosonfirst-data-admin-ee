@@ -1,0 +1,71 @@
+{
+  "id": 1343381285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.26278,59.21361,26.26278,59.21361",
+    "geom:latitude":59.21361,
+    "geom:longitude":26.26278,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"792.0",
+    "gn:admin3_code":"3592.0",
+    "gn:asciiname":"Lemmkuela",
+    "gn:country_code":"EE",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793425,
+    "gn:latitude":59.21361,
+    "gn:longitude":26.26278,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Lemmk\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lemmk\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793425,
+        "wk:page":"Lemmk%C3%BCla"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"f386299900e86a7c1403cd5ee5b8e65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1343381285,
+            "region_id":85683049
+        }
+    ],
+    "wof:id":1343381285,
+    "wof:lastmodified":1537620467,
+    "wof:name":"Lemmkuela",
+    "wof:parent_id":85683049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.26278,
+    59.21361,
+    26.26278,
+    59.21361
+],
+  "geometry": {"coordinates":[26.26278,59.21361],"type":"Point"}
+}

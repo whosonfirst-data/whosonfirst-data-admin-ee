@@ -1,0 +1,64 @@
+{
+  "id": 1209519457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.96967,59.30023,24.96967,59.30023",
+    "geom:latitude":59.30023,
+    "geom:longitude":24.96967,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"653.0",
+    "gn:admin3_code":"7852.0",
+    "gn:asciiname":"Suuresta",
+    "gn:country_code":"EE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":794981,
+    "gn:latitude":59.30023,
+    "gn:longitude":24.96967,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Suuresta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tallinn",
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":794981,
+        "wk:page":"Suuresta"
+    },
+    "wof:country":"EE",
+    "wof:geomhash":"eeb41c0d3601229559f3a12ac3e564ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633135,
+            "locality_id":1209519457
+        }
+    ],
+    "wof:id":1209519457,
+    "wof:lastmodified":1537562551,
+    "wof:name":"Suuresta",
+    "wof:parent_id":85633135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.96967,
+    59.30023000000001,
+    24.96967,
+    59.30023000000001
+],
+  "geometry": {"coordinates":[24.96967,59.30023000000001],"type":"Point"}
+}

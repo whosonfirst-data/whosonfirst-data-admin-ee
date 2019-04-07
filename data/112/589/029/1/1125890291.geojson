@@ -1,0 +1,113 @@
+{
+  "id": 1125890291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.84361,58.96556,24.84361,58.96556",
+    "geom:latitude":58.96556,
+    "geom:longitude":24.84361,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":544,
+    "gn:population":544,
+    "iso:country":"EE",
+    "lbl:latitude":58.96556,
+    "lbl:longitude":24.84361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053f\u0561\u0565\u057c\u0565\u057a\u0565\u057c\u0565"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0435\u0440\u0435\u043f\u0435\u0440\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Kaerepere"
+    ],
+    "name:est_x_preferred":[
+        "Kaerepere"
+    ],
+    "name:fre_x_preferred":[
+        "Kaerepere"
+    ],
+    "name:sco_x_preferred":[
+        "Kaerepere"
+    ],
+    "name:swe_x_preferred":[
+        "Kaerepere"
+    ],
+    "name:vol_x_preferred":[
+        "Kaerepere"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":591778,
+    "qs_pg:gn_pop":544,
+    "qs_pg:name":"Kaerepere",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Raplamaa",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":94,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":915677,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":842587,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Raplamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591778,
+        "gp:id":842587,
+        "qs_pg:id":915677,
+        "wd:id":"Q3469343"
+    },
+    "wof:country":"EE",
+    "wof:created":1497295283,
+    "wof:geomhash":"df31991256125da18711208fd07df6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125890291,
+            "region_id":85683013
+        }
+    ],
+    "wof:id":1125890291,
+    "wof:lastmodified":1513956396,
+    "wof:name":"Kaerepere",
+    "wof:parent_id":85683013,
+    "wof:placetype":"locality",
+    "wof:population":544,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84361,
+    58.96556,
+    24.84361,
+    58.96556
+],
+  "geometry": {"coordinates":[24.84361,58.96556],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 1125933969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96528,59.03611,25.96528,59.03611",
+    "geom:latitude":59.03611,
+    "geom:longitude":25.96528,
+    "gn:gn_country":"EE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":244,
+    "gn:population":244,
+    "iso:country":"EE",
+    "lbl:latitude":59.03611,
+    "lbl:longitude":25.96528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053f\u0561\u057c\u056b\u0576\u0578\u0582"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u0438\u043d\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Karinu"
+    ],
+    "name:eng_x_preferred":[
+        "Karinu"
+    ],
+    "name:est_x_preferred":[
+        "Karinu"
+    ],
+    "name:pol_x_preferred":[
+        "Karinu"
+    ],
+    "name:sco_x_preferred":[
+        "Karinu"
+    ],
+    "name:swe_x_preferred":[
+        "Karinu"
+    ],
+    "name:unk_x_variant":[
+        "Karinu Asundus"
+    ],
+    "name:vol_x_preferred":[
+        "Karinu"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":591609,
+    "qs_pg:gn_pop":244,
+    "qs_pg:name":"Karinu",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"J\u00e4rvamaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1273807,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":842745,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"J\u00e4rvamaa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":591609,
+        "gp:id":842745,
+        "qs_pg:id":1273807,
+        "wd:id":"Q3470079"
+    },
+    "wof:country":"EE",
+    "wof:created":1497296902,
+    "wof:geomhash":"44da1230b2b1c087efa8cc6202d9b111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":1125933969,
+            "region_id":85683031
+        }
+    ],
+    "wof:id":1125933969,
+    "wof:lastmodified":1513956398,
+    "wof:name":"Karinu",
+    "wof:parent_id":85683031,
+    "wof:placetype":"locality",
+    "wof:population":244,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96528,
+    59.03611,
+    25.96528,
+    59.03611
+],
+  "geometry": {"coordinates":[25.96528,59.03611],"type":"Point"}
+}
