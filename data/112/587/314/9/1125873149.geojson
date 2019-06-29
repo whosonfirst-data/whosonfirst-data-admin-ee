@@ -22,12 +22,6 @@
     "name:afr_x_preferred":[
         "Kuressaare"
     ],
-    "name:alb_x_preferred":[
-        "Kuresaare"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0582\u057c\u0565\u057d\u0561\u0561\u057c\u0565"
-    ],
     "name:aze_x_preferred":[
         "Kur\u0435ss\u0430\u0430r\u0435"
     ],
@@ -40,14 +34,8 @@
     "name:ces_x_preferred":[
         "Kuressaare"
     ],
-    "name:chi_x_preferred":[
-        "\u5e93\u96f7\u8428\u96f7"
-    ],
     "name:chv_x_preferred":[
         "\u041a\u0443\u0440\u0435\u0441\u0441\u0430\u0430\u0440\u0435"
-    ],
-    "name:cze_x_preferred":[
-        "Kuressaare"
     ],
     "name:dan_x_preferred":[
         "Kuressaare"
@@ -58,8 +46,8 @@
     "name:deu_x_variant":[
         "Kuressaare"
     ],
-    "name:dut_x_preferred":[
-        "Kuressaare"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c1\u03b5\u03c3\u03b1\u03ac\u03c1\u03b5"
     ],
     "name:eng_x_preferred":[
         "Kuressaare"
@@ -73,23 +61,14 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0631\u0633\u0627\u0631\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u0631\u0633\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Kuressaari"
     ],
     "name:fra_x_preferred":[
         "Kuressaare"
-    ],
-    "name:fre_x_preferred":[
-        "Kuressaare"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10e0\u10d4\u10e1\u10d0\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Kuressaare"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03c1\u03b5\u03c3\u03b1\u03ac\u03c1\u03b5"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e8\u05e1\u05d0\u05e8\u05d4"
@@ -127,7 +106,7 @@
     "name:lmo_x_preferred":[
         "Kuressaare"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041a\u0443\u0440\u0435\u0441\u0430\u0440\u0435"
     ],
     "name:mrj_x_preferred":[
@@ -151,16 +130,13 @@
     "name:oss_x_preferred":[
         "\u041a\u0443\u0440\u0435\u0441\u0441\u0430\u0430\u0440\u0435"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u0633\u0627\u0631"
-    ],
     "name:pol_x_preferred":[
         "Kuressaare"
     ],
     "name:por_x_preferred":[
         "Kuressaare"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kuressaare"
     ],
     "name:rus_x_preferred":[
@@ -169,7 +145,7 @@
     "name:sco_x_preferred":[
         "Kuressaare"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kuressaare"
     ],
     "name:slv_x_preferred":[
@@ -177,6 +153,9 @@
     ],
     "name:spa_x_preferred":[
         "Kuressaare"
+    ],
+    "name:sqi_x_preferred":[
+        "Kuresaare"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0443\u0440\u0435\u0441\u0430\u0440\u0435"
@@ -268,7 +247,7 @@
         }
     ],
     "wof:id":1125873149,
-    "wof:lastmodified":1513956411,
+    "wof:lastmodified":1561826600,
     "wof:name":"Kuressaare",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",

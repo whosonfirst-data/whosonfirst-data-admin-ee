@@ -19,14 +19,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0582\u0578\u0582\u057d\u056b\u056f\u0578\u0582"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u0443\u0441\u0438\u043a\u0443"
-    ],
-    "name:dut_x_preferred":[
-        "Kuusiku"
     ],
     "name:eng_x_preferred":[
         "Kuusiku"
@@ -34,7 +28,13 @@
     "name:est_x_preferred":[
         "Kuusiku"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Kuusiku"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0578\u0582\u057d\u056b\u056f\u0578\u0582"
+    ],
+    "name:nld_x_preferred":[
         "Kuusiku"
     ],
     "name:sco_x_preferred":[
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1126017667,
-    "wof:lastmodified":1513956411,
+    "wof:lastmodified":1561826608,
     "wof:name":"Kuusiku",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",

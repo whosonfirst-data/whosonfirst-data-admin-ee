@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u064a\u0648\u062c\u064a\u0641\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0545\u056b\u0563\u0587\u0561\u0574\u0561\u0561"
-    ],
     "name:aze_x_preferred":[
         "Y\u0131g\u0435v\u0430m\u0430\u0430"
     ],
@@ -60,14 +57,8 @@
     "name:che_x_preferred":[
         "\u0419\u044b\u0433\u0435\u0432\u0430\u043c\u0430\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u7d04\u683c\u74e6\u7e23"
-    ],
     "name:cor_x_preferred":[
         "Konteth J\u00f5geva"
-    ],
-    "name:cze_x_preferred":[
-        "J\u00f5gevamaa"
     ],
     "name:dan_x_preferred":[
         "J\u00f5gevamaa"
@@ -75,11 +66,11 @@
     "name:deu_x_preferred":[
         "Kreis J\u00f5geva"
     ],
-    "name:dut_x_preferred":[
-        "J\u00f5gevamaa"
-    ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0393\u03b9\u03cc\u03b3\u03ba\u03b5\u03b2\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0393\u03b9\u03bf\u03b3\u03ba\u03ad\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "J\u00f5geva County"
@@ -96,29 +87,20 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u06cc\u0648\u06af\u0648\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06cc\u0648\u06af\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "J\u00f5gevamaa"
     ],
     "name:fra_x_preferred":[
         "Comt\u00e9 de J\u00f5geva"
     ],
-    "name:fre_x_preferred":[
-        "Comt\u00e9 de J\u00f5geva"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d8\u10d2\u10d4\u10d5\u10d0\u10db\u10d0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Kreis J\u00f5geva"
-    ],
     "name:gle_x_preferred":[
         "J\u00f5gevamaa"
     ],
     "name:glg_x_preferred":[
         "Condado de J\u00f5geva"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0393\u03b9\u03bf\u03b3\u03ba\u03ad\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0acb\u0a9c\u0ac7\u0ab5\u0abe \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -162,14 +144,8 @@
     "name:lit_x_preferred":[
         "Jegevos apskritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0408\u0438\u0433\u0435\u0432\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u091c\u094b\u090f\u0935\u094d\u0935\u093e \u0915\u093e\u0909\u0902\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "County J\u00f5geva"
     ],
     "name:mkd_x_preferred":[
         "\u0408\u0438\u0433\u0435\u0432\u0430"
@@ -180,6 +156,9 @@
     "name:myv_x_preferred":[
         "\u0419\u044b\u0433\u0435\u0432\u0430\u043c\u0430\u0430 \u0451\u043d\u043a\u0441"
     ],
+    "name:nld_x_preferred":[
+        "J\u00f5gevamaa"
+    ],
     "name:nno_x_preferred":[
         "J\u00f5geva maakond"
     ],
@@ -188,9 +167,6 @@
     ],
     "name:nor_x_preferred":[
         "J\u00f5geva fylke"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06cc\u0648\u06af\u0648\u0627"
     ],
     "name:pol_x_preferred":[
         "J\u00f5gevamaa"
@@ -201,7 +177,7 @@
     "name:ron_x_preferred":[
         "Comitatul J\u00f5geva"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Regiunea J\u00f5geva"
     ],
     "name:rus_x_preferred":[
@@ -371,7 +347,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1553550710,
+    "wof:lastmodified":1561826535,
     "wof:name":"J\u00f5gevamaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

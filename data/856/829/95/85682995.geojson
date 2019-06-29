@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0627\u0631\u062a\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0561\u0580\u057f\u0578\u0582\u0574\u0561\u0561"
-    ],
     "name:aze_x_preferred":[
         "T\u0430rtum\u0430\u0430"
     ],
@@ -48,26 +45,20 @@
     "name:cat_x_preferred":[
         "Comtat de Tartu"
     ],
+    "name:ces_x_preferred":[
+        "Tartumaa"
+    ],
     "name:che_x_preferred":[
         "\u0422\u0430\u0440\u0442\u0443\u043c\u0430\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u723e\u5716\u7e23"
-    ],
     "name:cor_x_preferred":[
         "Konteth Tartu"
-    ],
-    "name:cze_x_preferred":[
-        "Tartumaa"
     ],
     "name:dan_x_preferred":[
         "Tartumaa"
     ],
     "name:deu_x_preferred":[
         "Kreis Tartu"
-    ],
-    "name:dut_x_preferred":[
-        "Tartumaa"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03ac\u03c1\u03c4\u03bf\u03c5"
@@ -91,29 +82,20 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u062a\u0627\u0631\u062a\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u0627\u0631\u062a\u0648"
+    ],
     "name:fin_x_preferred":[
         "Tartumaa"
     ],
     "name:fra_x_preferred":[
         "Comt\u00e9 de Tartu"
     ],
-    "name:fre_x_preferred":[
-        "Comt\u00e9 de Tartu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10e0\u10e2\u10e3\u10db\u10d0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Kreis Tartu"
-    ],
     "name:gle_x_preferred":[
         "Tartumaa"
     ],
     "name:glg_x_preferred":[
         "Condado de Tartu"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03ac\u03c1\u03c4\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0abe\u0ab0\u0acd\u0a9f\u0ac1 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -154,20 +136,20 @@
     "name:lit_x_preferred":[
         "Tartu apskritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0430\u0440\u0442\u0443"
-    ],
     "name:mar_x_preferred":[
         "\u091f\u093e\u0930\u094d\u091f\u0942 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
-        "County Tartu"
+    "name:mkd_x_preferred":[
+        "\u0422\u0430\u0440\u0442\u0443"
     ],
     "name:msa_x_preferred":[
         "County Tartu"
     ],
     "name:myv_x_preferred":[
         "\u0422\u0430\u0440\u0442\u0443\u043c\u0430\u0430 \u0451\u043d\u043a\u0441"
+    ],
+    "name:nld_x_preferred":[
+        "Tartumaa"
     ],
     "name:nno_x_preferred":[
         "Tartu maakond"
@@ -181,9 +163,6 @@
     "name:oci_x_preferred":[
         "Comtat de Tartu"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u0627\u0631\u062a\u0648"
-    ],
     "name:pol_x_preferred":[
         "Tartu"
     ],
@@ -193,7 +172,7 @@
     "name:ron_x_preferred":[
         "Comitatul Tartu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Regiunea Tartu"
     ],
     "name:rus_x_preferred":[
@@ -361,7 +340,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1553550732,
+    "wof:lastmodified":1561826532,
     "wof:name":"Tartumaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

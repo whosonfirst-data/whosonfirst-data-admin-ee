@@ -25,9 +25,6 @@
     "name:afr_x_preferred":[
         "Tallinn"
     ],
-    "name:alb_x_preferred":[
-        "Talini"
-    ],
     "name:amh_x_preferred":[
         "\u1273\u120a\u1295"
     ],
@@ -39,9 +36,6 @@
     ],
     "name:arg_x_preferred":[
         "Tallinn"
-    ],
-    "name:arm_x_preferred":[
-        "\u054f\u0561\u056c\u056c\u056b\u0576"
     ],
     "name:arz_x_preferred":[
         "\u062a\u0627\u0644\u064a\u0646"
@@ -57,9 +51,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0422\u0430\u043b\u043b\u0438\u043d"
-    ],
-    "name:baq_x_preferred":[
-        "Tallinn"
     ],
     "name:bar_x_preferred":[
         "Tallinn"
@@ -94,9 +85,6 @@
     "name:che_x_preferred":[
         "\u0422\u0430\u043b\u043b\u0438\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u6797"
-    ],
     "name:chv_x_preferred":[
         "\u0422\u0430\u043b\u043b\u0438\u043d"
     ],
@@ -112,7 +100,7 @@
     "name:csb_x_preferred":[
         "Tallinn"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Tallinn"
     ],
     "name:dan_x_preferred":[
@@ -128,9 +116,6 @@
         "Talin"
     ],
     "name:dsb_x_preferred":[
-        "Tallinn"
-    ],
-    "name:dut_x_preferred":[
         "Tallinn"
     ],
     "name:ell_x_preferred":[
@@ -173,9 +158,6 @@
     "name:fra_x_preferred":[
         "Tallinn"
     ],
-    "name:fre_x_preferred":[
-        "Tallinn"
-    ],
     "name:frr_x_preferred":[
         "Tallinn"
     ],
@@ -183,12 +165,6 @@
         "Tallin"
     ],
     "name:gag_x_preferred":[
-        "Tallinn"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10da\u10d8\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Tallinn"
     ],
     "name:gla_x_preferred":[
@@ -202,9 +178,6 @@
     ],
     "name:glv_x_preferred":[
         "Tallinn"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03bb\u03af\u03bd"
     ],
     "name:grn_x_preferred":[
         "Talin"
@@ -245,9 +218,6 @@
     "name:hye_x_preferred":[
         "\u054f\u0561\u056c\u056c\u056b\u0576"
     ],
-    "name:ice_x_preferred":[
-        "Tallinn"
-    ],
     "name:ido_x_preferred":[
         "Tallinn"
     ],
@@ -258,6 +228,9 @@
         "Tallinn"
     ],
     "name:ind_x_preferred":[
+        "Tallinn"
+    ],
+    "name:isl_x_preferred":[
         "Tallinn"
     ],
     "name:ita_x_preferred":[
@@ -332,20 +305,11 @@
     "name:ltz_x_preferred":[
         "Tallinn"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0430\u043b\u0438\u043d"
-    ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d3e\u0d32\u0d3f\u0d7b"
     ],
-    "name:mao_x_preferred":[
-        "Tallinn"
-    ],
     "name:mar_x_preferred":[
         "\u0924\u093e\u0932\u093f\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Tallinn"
     ],
     "name:mdf_x_preferred":[
         "\u0422\u0430\u043b\u043b\u0438\u043d\u043d"
@@ -365,8 +329,14 @@
     "name:mon_x_preferred":[
         "\u0422\u0430\u043b\u043b\u0438\u043d"
     ],
+    "name:mri_x_preferred":[
+        "Tallinn"
+    ],
     "name:mrj_x_preferred":[
         "\u0422\u0430\u043b\u043b\u0438\u043d\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Tallinn"
     ],
     "name:myv_x_preferred":[
         "\u0422\u0430\u043b\u043b\u0438\u043d \u043e\u0448"
@@ -422,9 +392,6 @@
     "name:pdc_x_preferred":[
         "Tallinn"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0644\u06cc\u0646"
-    ],
     "name:pih_x_preferred":[
         "Tallinn"
     ],
@@ -453,13 +420,11 @@
         "\u0422\u0430\u043b\u0438\u043d"
     ],
     "name:ron_x_variant":[
-        "Talin"
+        "Talin",
+        "Tallinn"
     ],
     "name:rue_x_preferred":[
         "\u0422\u0430\u043b\u043b\u0456\u043d\u043d"
-    ],
-    "name:rum_x_preferred":[
-        "Tallinn"
     ],
     "name:rup_x_preferred":[
         "Tallinn"
@@ -483,9 +448,6 @@
         "\u0da7\u0dbd\u0dd2\u0db1\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Tallinn"
-    ],
-    "name:slo_x_preferred":[
         "Tallinn"
     ],
     "name:slv_x_preferred":[
@@ -549,9 +511,6 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e32\u0e25\u0e25\u0e34\u0e19\u0e19\u0e4c"
     ],
-    "name:tib_x_preferred":[
-        "\u0f4f\u0f71\u0f63\u0f0b\u0f0b\u0f63\u0f72\u0f53\u0f0d"
-    ],
     "name:tpi_x_preferred":[
         "Talin"
     ],
@@ -598,9 +557,6 @@
         "Talliin"
     ],
     "name:war_x_preferred":[
-        "Tallinn"
-    ],
-    "name:wel_x_preferred":[
         "Tallinn"
     ],
     "name:wol_x_preferred":[
@@ -672,7 +628,7 @@
         }
     ],
     "wof:id":1125998987,
-    "wof:lastmodified":1513956521,
+    "wof:lastmodified":1561826602,
     "wof:name":"Tallinn",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

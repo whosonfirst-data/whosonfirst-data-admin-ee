@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0648\u0644\u0641\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u056b\u056c\u057e\u0561\u0574\u0561\u0561"
-    ],
     "name:aze_x_preferred":[
         "P\u0131lv\u0430m\u0430\u0430"
     ],
@@ -60,23 +57,14 @@
     "name:che_x_preferred":[
         "\u041f\u044b\u043b\u0432\u0430\u043c\u0430\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u73c0\u723e\u74e6\u7e23"
-    ],
     "name:cor_x_preferred":[
         "Konteth P\u00f5lva"
-    ],
-    "name:cze_x_preferred":[
-        "P\u00f5lvamaa"
     ],
     "name:dan_x_preferred":[
         "P\u00f5lvamaa"
     ],
     "name:deu_x_preferred":[
         "Kreis P\u00f5lva"
-    ],
-    "name:dut_x_preferred":[
-        "P\u00f5lvamaa"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a0\u03cc\u03bb\u03b2\u03b1"
@@ -96,29 +84,20 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u067e\u0648\u0644\u0648\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u067e\u0648\u0644\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "P\u00f5lvamaa"
     ],
     "name:fra_x_preferred":[
         "Comt\u00e9 de P\u00f5lva"
     ],
-    "name:fre_x_preferred":[
-        "Comt\u00e9 de P\u00f5lva"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d8\u10da\u10d5\u10d0\u10db\u10d0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Kreis P\u00f5lva"
-    ],
     "name:gle_x_preferred":[
         "P\u00f5lvamaa"
     ],
     "name:glg_x_preferred":[
         "Condado de P\u00f5lva"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a0\u03cc\u03bb\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab2\u0ab5\u0abe \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -162,20 +141,20 @@
     "name:lit_x_preferred":[
         "Pelvos apskritis"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0438\u043b\u0432\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094b\u0932\u093e\u0935\u094d\u0939 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
-        "County P\u00f5lva"
+    "name:mkd_x_preferred":[
+        "\u041f\u0438\u043b\u0432\u0430"
     ],
     "name:msa_x_preferred":[
         "County P\u00f5lva"
     ],
     "name:myv_x_preferred":[
         "\u041f\u044b\u043b\u0432\u0430\u043c\u0430\u0430 \u0451\u043d\u043a\u0441"
+    ],
+    "name:nld_x_preferred":[
+        "P\u00f5lvamaa"
     ],
     "name:nno_x_preferred":[
         "P\u00f5lva maakond"
@@ -186,9 +165,6 @@
     "name:nor_x_preferred":[
         "P\u00f5lva fylke"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u067e\u0648\u0644\u0648\u0627"
-    ],
     "name:pol_x_preferred":[
         "P\u00f5lvamaa"
     ],
@@ -198,7 +174,7 @@
     "name:ron_x_preferred":[
         "Comitatul P\u00f5lva"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Regiunea P\u00f5lva"
     ],
     "name:rus_x_preferred":[
@@ -368,7 +344,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1553550712,
+    "wof:lastmodified":1561826533,
     "wof:name":"P\u00f5lvamaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",
