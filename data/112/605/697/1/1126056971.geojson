@@ -19,9 +19,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0531\u0565\u057d\u057a\u0561"
-    ],
     "name:bul_x_preferred":[
         "\u0410\u0435\u0441\u043f\u0430"
     ],
@@ -30,6 +27,9 @@
     ],
     "name:est_x_preferred":[
         "Aespa"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0565\u057d\u057a\u0561"
     ],
     "name:rus_x_preferred":[
         "\u0410\u044d\u0441\u043f\u0430"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1126056971,
-    "wof:lastmodified":1513956343,
+    "wof:lastmodified":1561826586,
     "wof:name":"Aespa",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",

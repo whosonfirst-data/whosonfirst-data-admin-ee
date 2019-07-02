@@ -27,14 +27,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0647\u0627\u0631\u064a\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u0580\u0575\u0578\u0582\u0574\u0561\u0561"
-    ],
     "name:aze_x_preferred":[
         "Haryumaa"
-    ],
-    "name:baq_x_preferred":[
-        "Harju konderria"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u0432\u0435\u0442 \u0425\u0430\u0440\u044e"
@@ -51,26 +45,20 @@
     "name:cat_x_preferred":[
         "Comtat de Harju"
     ],
+    "name:ces_x_preferred":[
+        "Harjumaa"
+    ],
     "name:che_x_preferred":[
         "\u0425\u0430\u0440\u044c\u044e\u043c\u0430\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u7559\u7e23"
-    ],
     "name:cor_x_preferred":[
         "Konteth Harju"
-    ],
-    "name:cze_x_preferred":[
-        "Harjumaa"
     ],
     "name:dan_x_preferred":[
         "Harjumaa"
     ],
     "name:deu_x_preferred":[
         "Kreis Harju"
-    ],
-    "name:dut_x_preferred":[
-        "Harjumaa"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a7\u03ac\u03c1\u03b3\u03b9\u03bf\u03c5"
@@ -97,29 +85,20 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0647\u0627\u0631\u06cc\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0647\u0627\u0631\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Harjumaa"
     ],
     "name:fra_x_preferred":[
         "Comt\u00e9 de Harju"
     ],
-    "name:fre_x_preferred":[
-        "Comt\u00e9 de Harju"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d0\u10e0\u10d8\u10e3\u10db\u10d0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Kreis Harju"
-    ],
     "name:gle_x_preferred":[
         "Harjumaa"
     ],
     "name:glg_x_preferred":[
         "Condado de Harju"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a7\u03ac\u03c1\u03b3\u03b9\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0abe\u0ab0\u0acd\u0a9c\u0ac1 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -166,20 +145,23 @@
     "name:lit_x_preferred":[
         "Harju apskritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0430\u0440\u0458\u0443"
-    ],
     "name:mar_x_preferred":[
         "\u0939\u0930\u091c\u0942 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
-        "County Harju"
+    "name:mkd_x_preferred":[
+        "\u0425\u0430\u0440\u0458\u0443"
     ],
     "name:msa_x_preferred":[
         "Daerah Harju"
     ],
+    "name:msa_x_variant":[
+        "County Harju"
+    ],
     "name:myv_x_preferred":[
         "\u0425\u0430\u0440\u044c\u044e\u043c\u0430\u0430 \u0451\u043d\u043a\u0441"
+    ],
+    "name:nld_x_preferred":[
+        "Harjumaa"
     ],
     "name:nno_x_preferred":[
         "Harju maakond"
@@ -193,9 +175,6 @@
     "name:oci_x_preferred":[
         "Comtat de Harju"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0647\u0627\u0631\u06cc\u0648"
-    ],
     "name:pol_x_preferred":[
         "Harjumaa"
     ],
@@ -205,7 +184,7 @@
     "name:ron_x_preferred":[
         "Comitatul Harju"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Regiunea Harju"
     ],
     "name:rus_x_preferred":[
@@ -218,9 +197,6 @@
         "\u0dc4\u0dbb\u0dca\u0da2\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
     "name:slk_x_preferred":[
-        "Harju maakond"
-    ],
-    "name:slo_x_preferred":[
         "Harju maakond"
     ],
     "name:sme_x_preferred":[
@@ -267,6 +243,9 @@
     ],
     "name:zho_x_preferred":[
         "\u54c8\u723e\u5c24\u7e23"
+    ],
+    "name:zho_x_variant":[
+        "\u54c8\u7559\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EST",
@@ -382,7 +361,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1553550752,
+    "wof:lastmodified":1561826536,
     "wof:name":"Harjumaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

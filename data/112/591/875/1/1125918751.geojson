@@ -21,14 +21,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u053f\u0565\u057c\u0564\u056c\u0561"
-    ],
     "name:aze_x_preferred":[
         "Kyardla"
-    ],
-    "name:baq_x_preferred":[
-        "K\u00e4rdla"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u044f\u0440\u0434\u043b\u0430"
@@ -39,19 +33,13 @@
     "name:cat_x_preferred":[
         "K\u00e4rdla"
     ],
-    "name:chi_x_preferred":[
-        "\u51f1\u723e\u5fb7\u62c9"
+    "name:ces_x_preferred":[
+        "K\u00e4rdla"
     ],
     "name:chv_x_preferred":[
         "\u041a\u044f\u0440\u0434\u043b\u0430"
     ],
-    "name:cze_x_preferred":[
-        "K\u00e4rdla"
-    ],
     "name:deu_x_preferred":[
-        "K\u00e4rdla"
-    ],
-    "name:dut_x_preferred":[
         "K\u00e4rdla"
     ],
     "name:eng_x_preferred":[
@@ -63,6 +51,9 @@
     "name:est_x_preferred":[
         "K\u00e4rdla"
     ],
+    "name:eus_x_preferred":[
+        "K\u00e4rdla"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0631\u062f\u0644\u0627"
     ],
@@ -72,14 +63,8 @@
     "name:fra_x_preferred":[
         "K\u00e4rdla"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Commune de K\u00e4rdla"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10d0\u10e0\u10d3\u10da\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "K\u00e4rdla"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d3\u05dc\u05d4"
@@ -117,6 +102,9 @@
     "name:myv_x_preferred":[
         "\u041a\u044f\u0440\u0434\u043b\u0430 \u043e\u0448"
     ],
+    "name:nld_x_preferred":[
+        "K\u00e4rdla"
+    ],
     "name:nno_x_preferred":[
         "K\u00e4rdla"
     ],
@@ -126,16 +114,13 @@
     "name:oss_x_preferred":[
         "\u041a\u044f\u0440\u0434\u043b\u00e6"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0631\u062f\u0644\u0627"
-    ],
     "name:pol_x_preferred":[
         "K\u00e4rdla"
     ],
     "name:por_x_preferred":[
         "K\u00e4rdla"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "K\u00e4rdla"
     ],
     "name:rus_x_preferred":[
@@ -225,7 +210,7 @@
         }
     ],
     "wof:id":1125918751,
-    "wof:lastmodified":1534379291,
+    "wof:lastmodified":1561826606,
     "wof:name":"K\u00e4rdla",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",

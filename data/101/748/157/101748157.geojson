@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003315,
-    "geom:area_square_m":20884681.633213,
+    "geom:area_square_m":20884681.633218,
     "geom:bbox":"27.212023,59.2962845,27.4879725,59.4144855",
     "geom:latitude":59.367674,
     "geom:longitude":27.316563,
@@ -20,9 +20,6 @@
     "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0644\u0627-\u064a\u0627\u0631\u0641\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0570\u057f\u056c\u0561-\u0545\u0565\u057c\u057e\u0565"
     ],
     "name:aze_x_preferred":[
         "Kohtla-Yarve"
@@ -48,22 +45,13 @@
     "name:che_x_preferred":[
         "\u041a\u043e\u0445\u0442\u043b\u0430-\u042f\u0440\u0432\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u8d6b\u7279\u62c9-\u8036\u723e\u97cb"
-    ],
     "name:chv_x_preferred":[
         "\u041a\u043e\u0445\u0442\u043b\u0430-\u042f\u0440\u0432\u0435"
-    ],
-    "name:cze_x_preferred":[
-        "Kohtla-J\u00e4rve"
     ],
     "name:dan_x_preferred":[
         "Kohtla-J\u00e4rve"
     ],
     "name:deu_x_preferred":[
-        "Kohtla-J\u00e4rve"
-    ],
-    "name:dut_x_preferred":[
         "Kohtla-J\u00e4rve"
     ],
     "name:eng_x_preferred":[
@@ -88,15 +76,6 @@
         "Kohtla-J\u00e4rve"
     ],
     "name:fra_x_preferred":[
-        "Kohtla-J\u00e4rve"
-    ],
-    "name:fre_x_preferred":[
-        "Kohtla-J\u00e4rve"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10ee\u10e2\u10da\u10d0-\u10d8\u10d0\u10e0\u10d5\u10d4"
-    ],
-    "name:ger_x_preferred":[
         "Kohtla-J\u00e4rve"
     ],
     "name:gla_x_preferred":[
@@ -129,6 +108,9 @@
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10f0\u10e2\u10da\u10d0-\u10d8\u10d0\u10e0\u10d5\u10d4"
     ],
+    "name:kat_x_variant":[
+        "\u10d9\u10dd\u10ee\u10e2\u10da\u10d0-\u10d8\u10d0\u10e0\u10d5\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ucf54\ud750\ud2c0\ub77c\uc598\ub974\ubca0"
     ],
@@ -138,14 +120,14 @@
     "name:lit_x_preferred":[
         "Kohtla Jerv\u0117"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041a\u043e\u0445\u0442\u043b\u0430-\u0408\u0430\u0440\u0432\u0435"
-    ],
-    "name:may_x_preferred":[
-        "Kohtla-J\u00e4rve"
     ],
     "name:mon_x_preferred":[
         "\u041a\u043e\u0445\u0442\u043b\u0430-\u042f\u0440\u0432\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Kohtla-J\u00e4rve"
     ],
     "name:nau_x_preferred":[
         "Kohtla-J\u00e4rve"
@@ -159,9 +141,6 @@
     "name:nob_x_preferred":[
         "Kohtla-J\u00e4rve"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u062a\u0644\u0627-\u06cc\u0627\u0631\u0648\u0647"
-    ],
     "name:pol_x_preferred":[
         "Kohtla-J\u00e4rve"
     ],
@@ -172,9 +151,6 @@
         "\u041a\u043e\u0445\u0442\u043b\u0430-\u042f\u0440\u0432\u0435"
     ],
     "name:ron_x_variant":[
-        "Kohtla-J\u00e4rve"
-    ],
-    "name:rum_x_preferred":[
         "Kohtla-J\u00e4rve"
     ],
     "name:rus_x_preferred":[
@@ -372,7 +348,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688459,
+    "wof:lastmodified":1561826563,
     "wof:name":"Kohtla-J\u00e4rve",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",

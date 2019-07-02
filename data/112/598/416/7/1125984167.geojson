@@ -19,9 +19,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0531\u057c\u0564\u0578\u0582"
-    ],
     "name:bul_x_preferred":[
         "\u0410\u0440\u0434\u0443"
     ],
@@ -31,8 +28,11 @@
     "name:est_x_preferred":[
         "Ardu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ardu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057c\u0564\u0578\u0582"
     ],
     "name:pol_x_preferred":[
         "Ardu"
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1125984167,
-    "wof:lastmodified":1513956346,
+    "wof:lastmodified":1561826607,
     "wof:name":"Ardu",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

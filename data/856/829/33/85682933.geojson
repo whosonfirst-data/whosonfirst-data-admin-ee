@@ -21,9 +21,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0561\u0580\u0565\u0574\u0561\u0561"
-    ],
     "name:aze_x_preferred":[
         "S\u0430\u0430r\u0435m\u0430\u0430"
     ],
@@ -39,23 +36,23 @@
     "name:cat_x_preferred":[
         "Comtat de Saare"
     ],
+    "name:ces_x_preferred":[
+        "Saaremaa"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0430\u0430\u0440\u0435\u043c\u0430\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u85a9\u96f7\u7e23"
     ],
     "name:cor_x_preferred":[
         "Konteth Saare"
     ],
-    "name:cze_x_preferred":[
-        "Saaremaa"
-    ],
     "name:dan_x_preferred":[
         "Saare maakond"
     ],
-    "name:dut_x_preferred":[
-        "Saaremaa"
+    "name:deu_x_preferred":[
+        "Kreis Saare"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a3\u03ac\u03b1\u03c1\u03b5"
     ],
     "name:eng_x_preferred":[
         "Saaremaa"
@@ -66,26 +63,20 @@
     "name:fao_x_preferred":[
         "Saaremaa"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0633\u0627\u0631\u0647"
+    ],
     "name:fin_x_preferred":[
         "Saarenmaa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Comt\u00e9 de Saare"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10d0\u10e0\u10d4\u10db\u10d0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Kreis Saare"
     ],
     "name:gle_x_preferred":[
         "Saaremaa"
     ],
     "name:glg_x_preferred":[
         "Condado de Saare"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a3\u03ac\u03b1\u03c1\u03b5"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05d5\u05d6 \u05e1\u05d0\u05e8\u05d4"
@@ -96,6 +87,9 @@
     "name:hun_x_preferred":[
         "Saaremaa"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0561\u0580\u0565\u0574\u0561\u0561"
+    ],
     "name:ind_x_preferred":[
         "County Saare"
     ],
@@ -104,6 +98,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30fc\u30ec\u770c"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d0\u10e0\u10d4\u10db\u10d0\u10d0"
     ],
     "name:kor_x_preferred":[
         "\uc0ac\ub808 \uc8fc"
@@ -117,14 +114,17 @@
     "name:lit_x_preferred":[
         "Sar\u0117s apskritis"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0430\u0440\u0435"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "County Saare"
     ],
     "name:myv_x_preferred":[
         "\u0421\u0430\u0430\u0440\u0435\u043c\u0430\u0430 \u0451\u043d\u043a\u0441"
+    ],
+    "name:nld_x_preferred":[
+        "Saaremaa"
     ],
     "name:nno_x_preferred":[
         "Saare maakond"
@@ -132,13 +132,10 @@
     "name:nob_x_preferred":[
         "Saare"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0633\u0627\u0631\u0647"
-    ],
     "name:pol_x_preferred":[
         "Saaremaa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Saare"
     ],
     "name:rus_x_preferred":[
@@ -170,6 +167,9 @@
     ],
     "name:vro_x_preferred":[
         "Saar\u00f5 maakund"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u96f7\u7e23"
     ],
     "qs:a0":"Estonia",
     "qs:a0_lc":"EE000000",
@@ -209,7 +209,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1553550717,
+    "wof:lastmodified":1561826532,
     "wof:name":"Saaremaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

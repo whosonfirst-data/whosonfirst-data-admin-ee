@@ -19,13 +19,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u056c\u0574\u0565"
-    ],
     "name:dan_x_preferred":[
         "Salme"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Salme"
     ],
     "name:eng_x_preferred":[
@@ -34,14 +31,17 @@
     "name:est_x_preferred":[
         "Salme alevik"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Salme alevik"
     ],
-    "name:ger_x_preferred":[
-        "Salme"
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u056c\u0574\u0565"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30eb\u30e1"
+    ],
+    "name:nld_x_preferred":[
+        "Salme"
     ],
     "name:pol_x_preferred":[
         "Salme"
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1125910929,
-    "wof:lastmodified":1513956509,
+    "wof:lastmodified":1561826606,
     "wof:name":"Salme",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

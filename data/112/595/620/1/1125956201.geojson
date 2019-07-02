@@ -19,13 +19,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0544\u056b\u057d\u057d\u0578"
-    ],
-    "name:chi_x_preferred":[
-        "\u7c73\u7d22"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Misso"
     ],
     "name:eng_x_preferred":[
@@ -34,8 +28,11 @@
     "name:est_x_preferred":[
         "Misso"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Misso"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u057d\u057d\u0578"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0441\u0441\u043e"
@@ -45,6 +42,9 @@
     ],
     "name:vol_x_preferred":[
         "Misso"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u7d22"
     ],
     "qs_pg:aaroncc":"EE",
     "qs_pg:gn_country":"EE",
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1125956201,
-    "wof:lastmodified":1513956441,
+    "wof:lastmodified":1561826579,
     "wof:name":"Misso",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",

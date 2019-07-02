@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001347,
-    "geom:area_square_m":8764672.509677,
+    "geom:area_square_m":8764672.509675,
     "geom:bbox":"22.4543898941,58.2366479086,22.5264583826,58.2735410387",
     "geom:latitude":58.25564,
     "geom:longitude":22.489169,
@@ -20,12 +20,6 @@
     "mz:is_current":1,
     "name:afr_x_preferred":[
         "Kuressaare"
-    ],
-    "name:alb_x_preferred":[
-        "Kuresaare"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0582\u057c\u0565\u057d\u0561\u0561\u057c\u0565"
     ],
     "name:aze_x_preferred":[
         "Kuressaare"
@@ -48,14 +42,8 @@
     "name:ces_x_preferred":[
         "Kuressaare"
     ],
-    "name:chi_x_preferred":[
-        "\u5e93\u96f7\u8428\u96f7"
-    ],
     "name:chv_x_preferred":[
         "\u041a\u0443\u0440\u0435\u0441\u0441\u0430\u0430\u0440\u0435"
-    ],
-    "name:cze_x_preferred":[
-        "Kuressaare"
     ],
     "name:dan_x_preferred":[
         "Kuressaare"
@@ -66,11 +54,11 @@
     "name:deu_x_variant":[
         "Arensburg"
     ],
-    "name:dut_x_preferred":[
-        "Kuressaare"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c5\u03c1\u03ad\u03c3\u03b1\u03b1\u03c1\u03b5"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03c1\u03b5\u03c3\u03b1\u03ac\u03c1\u03b5"
     ],
     "name:eng_x_preferred":[
         "Kuressaare"
@@ -84,6 +72,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0631\u0633\u0627\u0631\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u0631\u0633\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Kuressaare"
     ],
@@ -92,18 +83,6 @@
     ],
     "name:fra_x_preferred":[
         "Kuressaare"
-    ],
-    "name:fre_x_preferred":[
-        "Kuressaare"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10e0\u10d4\u10e1\u10d0\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Kuressaare"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03c1\u03b5\u03c3\u03b1\u03ac\u03c1\u03b5"
     ],
     "name:hbs_x_preferred":[
         "Kuressaare"
@@ -144,7 +123,7 @@
     "name:lmo_x_preferred":[
         "Kuressaare"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041a\u0443\u0440\u0435\u0441\u0430\u0440\u0435"
     ],
     "name:mrj_x_preferred":[
@@ -168,9 +147,6 @@
     "name:oss_x_preferred":[
         "\u041a\u0443\u0440\u0435\u0441\u0441\u0430\u0430\u0440\u0435"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u0633\u0627\u0631"
-    ],
     "name:pol_x_preferred":[
         "Kuressaare"
     ],
@@ -180,9 +156,6 @@
     "name:ron_x_preferred":[
         "Kuressaare"
     ],
-    "name:rum_x_preferred":[
-        "Kuressaare"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0440\u0435\u0441\u0441\u0430\u0430\u0440\u0435"
     ],
@@ -190,9 +163,6 @@
         "Kuressaare"
     ],
     "name:slk_x_preferred":[
-        "Kuressaare"
-    ],
-    "name:slo_x_preferred":[
         "Kuressaare"
     ],
     "name:slv_x_preferred":[
@@ -288,7 +258,7 @@
         }
     ],
     "wof:id":101816261,
-    "wof:lastmodified":1527642284,
+    "wof:lastmodified":1561826562,
     "wof:name":"Kuressaare",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
