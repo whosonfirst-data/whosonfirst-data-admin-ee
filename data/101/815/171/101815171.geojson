@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0003,
-    "geom:area_square_m":1879801.487811,
+    "geom:area_square_m":1879801.487812,
     "geom:bbox":"25.7017503464,59.571903464,25.7373977019,59.5912754457",
     "geom:latitude":59.581587,
     "geom:longitude":25.71913,
@@ -22,6 +22,12 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u043e\u043a\u0441\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u043a\u0441\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Loksa"
     ],
     "name:ces_x_preferred":[
         "Loksa"
@@ -50,6 +56,9 @@
     "name:hrv_x_preferred":[
         "Loksa"
     ],
+    "name:hsb_x_preferred":[
+        "Loksa"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0578\u056f\u057d\u0561"
     ],
@@ -72,6 +81,9 @@
         "Loksa"
     ],
     "name:nno_x_preferred":[
+        "Loksa"
+    ],
+    "name:nob_x_preferred":[
         "Loksa"
     ],
     "name:nor_x_preferred":[
@@ -100,6 +112,9 @@
     ],
     "name:swe_x_preferred":[
         "Loksa"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u043e\u043a\u0441\u0430"
     ],
     "name:tur_x_preferred":[
         "Loksa"
@@ -163,7 +178,7 @@
         }
     ],
     "wof:id":101815171,
-    "wof:lastmodified":1527714891,
+    "wof:lastmodified":1563234247,
     "wof:name":"Loksa",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

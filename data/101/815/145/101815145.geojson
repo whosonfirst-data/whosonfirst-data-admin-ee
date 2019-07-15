@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000491,
-    "geom:area_square_m":3113314.612594,
+    "geom:area_square_m":3113314.612593,
     "geom:bbox":"26.0862739847,59.1528410148,26.148292011,59.1694197729",
     "geom:latitude":59.161231,
     "geom:longitude":26.111709,
@@ -20,7 +20,13 @@
     "name:aze_x_preferred":[
         "Tamsalu"
     ],
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u043c\u0441\u0430\u043b\u0443"
+    ],
     "name:ceb_x_preferred":[
+        "Tamsalu"
+    ],
+    "name:ces_x_preferred":[
         "Tamsalu"
     ],
     "name:deu_x_preferred":[
@@ -44,11 +50,17 @@
     "name:hrv_x_preferred":[
         "Tamsalu"
     ],
+    "name:hsb_x_preferred":[
+        "Tamsalu"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u0561\u0574\u057d\u0561\u056c\u0578\u0582"
     ],
     "name:ita_x_preferred":[
         "Tamsalu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30e0\u30b5\u30eb"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10d0\u10db\u10e1\u10d0\u10da\u10e3"
@@ -78,6 +90,15 @@
         "\u0422\u0430\u043c\u0441\u0430\u043b\u0443"
     ],
     "name:srp_x_preferred":[
+        "\u0422\u0430\u043c\u0441\u0430\u043b\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Tamsalu"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u043c\u0441\u0430\u043b\u0443"
+    ],
+    "name:ukr_x_preferred":[
         "\u0422\u0430\u043c\u0441\u0430\u043b\u0443"
     ],
     "name:und_x_preferred":[
@@ -146,7 +167,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714882,
+    "wof:lastmodified":1563234220,
     "wof:name":"Tamsalu",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",

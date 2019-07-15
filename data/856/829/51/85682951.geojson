@@ -30,6 +30,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u064a\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0627\u0631"
+    ],
     "name:aze_x_preferred":[
         "Saaremaa"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:dan_x_preferred":[
         "\u00d8sel"
+    ],
+    "name:dan_x_variant":[
+        "Saare maakond"
     ],
     "name:deu_x_preferred":[
         "Saaremaa"
@@ -130,10 +136,14 @@
         "Saaremaa"
     ],
     "name:fra_x_variant":[
-        "Comt\u00e9 de Saare"
+        "Comt\u00e9 de Saare",
+        "Saare"
     ],
     "name:frr_x_preferred":[
         "Saaremaa"
+    ],
+    "name:frr_x_variant":[
+        "Saare"
     ],
     "name:fry_x_preferred":[
         "Saaremaa"
@@ -197,7 +207,8 @@
         "\uc0ac\ub808\ub9c8 \uc12c"
     ],
     "name:kor_x_variant":[
-        "\uc0ac\ub808 \uc8fc"
+        "\uc0ac\ub808 \uc8fc",
+        "\uc0ac\ub808\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Osilia"
@@ -229,6 +240,9 @@
     "name:myv_x_variant":[
         "\u0421\u0430\u0430\u0440\u0435\u043c\u0430\u0430 \u0451\u043d\u043a\u0441"
     ],
+    "name:nan_x_preferred":[
+        "Saare Ko\u0101n"
+    ],
     "name:nds_x_preferred":[
         "\u00d6sel"
     ],
@@ -255,6 +269,9 @@
     ],
     "name:pol_x_preferred":[
         "Sarema"
+    ],
+    "name:pol_x_variant":[
+        "Saaremaa"
     ],
     "name:por_x_preferred":[
         "Saaremaa"
@@ -314,6 +331,9 @@
     "name:tur_x_variant":[
         "Saare ili"
     ],
+    "name:udm_x_preferred":[
+        "\u0421\u0430\u0430\u0440\u0435\u043c\u0430\u0430 \u0443\u0442\u0435\u043c"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0430\u0440\u0435\u043c\u0430\u0430"
     ],
@@ -325,6 +345,9 @@
     ],
     "name:vie_x_preferred":[
         "Saaremaa"
+    ],
+    "name:vie_x_variant":[
+        "Saare"
     ],
     "name:vro_x_preferred":[
         "Saar\u00f5 maakund"
@@ -450,7 +473,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1561826532,
+    "wof:lastmodified":1563233731,
     "wof:name":"Saaremaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

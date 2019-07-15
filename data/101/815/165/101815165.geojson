@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000129,
+    "geom:area_square_m":815616.759519,
     "geom:bbox":"24.1969354717,59.2275348018,24.2185098461,59.2387922934",
     "geom:latitude":59.233072,
     "geom:longitude":24.206242,
@@ -27,6 +28,9 @@
     "name:est_x_preferred":[
         "Rummu"
     ],
+    "name:fra_x_preferred":[
+        "Rummu"
+    ],
     "name:hye_x_preferred":[
         "\u054c\u0578\u0582\u0574\u0574\u0578\u0582"
     ],
@@ -37,6 +41,12 @@
         "Rummu"
     ],
     "name:rus_x_preferred":[
+        "\u0420\u0443\u043c\u043c\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Rummu"
+    ],
+    "name:ukr_x_preferred":[
         "\u0420\u0443\u043c\u043c\u0443"
     ],
     "name:vol_x_preferred":[
@@ -82,7 +92,7 @@
         }
     ],
     "wof:id":101815165,
-    "wof:lastmodified":1527714884,
+    "wof:lastmodified":1563234227,
     "wof:name":"Rummu",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

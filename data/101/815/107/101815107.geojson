@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000562,
-    "geom:area_square_m":3611006.03138,
+    "geom:area_square_m":3611006.031382,
     "geom:bbox":"23.8079554546,58.6686875432,23.8537630394,58.6968112258",
     "geom:latitude":58.683145,
     "geom:longitude":23.831903,
@@ -22,6 +22,9 @@
     "mz:is_current":-1,
     "name:aze_x_preferred":[
         "Lihula"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u0445\u0443\u043b\u0430"
     ],
     "name:ceb_x_preferred":[
         "Lihula"
@@ -53,6 +56,9 @@
     "name:hrv_x_preferred":[
         "Lihula"
     ],
+    "name:hsb_x_preferred":[
+        "Lihula"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u056b\u0570\u0578\u0582\u056c\u0561"
     ],
@@ -81,9 +87,6 @@
         "Lihula",
         "Gmina Lihula"
     ],
-    "name:pol_x_variant":[
-        "Lihula"
-    ],
     "name:ron_x_preferred":[
         "Lihula"
     ],
@@ -93,11 +96,23 @@
     "name:sco_x_preferred":[
         "Lihula"
     ],
+    "name:spa_x_preferred":[
+        "Lihula"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0445\u0443\u043b\u0430"
+    ],
     "name:swe_x_preferred":[
         "Lihula"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0438\u04bb\u0443\u043b\u0430"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u043e\u0440\u0442\u0435\u0446\u044f \u0456 \u043c\u0438\u0437\u0430 \u041b\u0456\u0445\u0443\u043b\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0456\u0433\u0443\u043b\u0430"
     ],
     "name:und_x_preferred":[
         "Lihula"
@@ -186,7 +201,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1534379291,
+    "wof:lastmodified":1563234229,
     "wof:name":"Lihula",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",

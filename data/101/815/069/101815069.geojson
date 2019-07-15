@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00069,
-    "geom:area_square_m":4506850.658954,
+    "geom:area_square_m":4506850.658957,
     "geom:bbox":"27.4366515934,58.0813530664,27.4970743267,58.1111232023",
     "geom:latitude":58.097098,
     "geom:longitude":27.461309,
@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Rapina"
     ],
+    "name:eng_x_variant":[
+        "R\u00e4pina"
+    ],
     "name:est_x_preferred":[
         "R\u00e4pina"
     ],
@@ -44,11 +47,53 @@
     "name:hrv_x_preferred":[
         "R\u00e4pina"
     ],
+    "name:hsb_x_preferred":[
+        "R\u00e4pina"
+    ],
     "name:hye_x_preferred":[
         "\u054c\u0565\u057a\u056b\u0576\u0561"
     ],
+    "name:ita_x_preferred":[
+        "R\u00e4pina"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d8\u10d0\u10de\u10d8\u10dc\u10d0"
+    ],
+    "name:lav_x_preferred":[
+        "Repina"
+    ],
+    "name:lit_x_preferred":[
+        "Repina"
+    ],
+    "name:myv_x_preferred":[
+        "\u0420\u044f\u043f\u0438\u043d\u0430 \u043e\u0448"
+    ],
+    "name:nds_x_preferred":[
+        "R\u00e4pina"
+    ],
+    "name:nld_x_preferred":[
+        "R\u00e4pina"
+    ],
+    "name:pol_x_preferred":[
+        "R\u00e4pina"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u044f\u043f\u0438\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00e4pina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0458\u0430\u043f\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00e4pina"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u04d9\u043f\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u044f\u043f\u0456\u043d\u0430"
     ],
     "name:und_x_colloquial":[
         "Raepina"
@@ -63,6 +108,15 @@
     ],
     "name:unk_x_variant":[
         "Rapino"
+    ],
+    "name:vol_x_preferred":[
+        "R\u00e4pina"
+    ],
+    "name:vro_x_preferred":[
+        "R\u00e4pin\u00e4"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cf4\u76ae\u7d0d"
     ],
     "qs:a0":"Estonia",
     "qs:a1":"*P\u00f5lvamaa",
@@ -115,7 +169,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714889,
+    "wof:lastmodified":1563234239,
     "wof:name":"R\u00e4pina",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",

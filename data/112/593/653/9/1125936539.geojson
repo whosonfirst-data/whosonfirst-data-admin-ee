@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0422\u043e\u0440\u043c\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Torma"
+    ],
     "name:che_x_preferred":[
         "\u0422\u043e\u0440\u043c\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "Torma kommune"
     ],
     "name:deu_x_preferred":[
         "Torma"
@@ -67,8 +76,14 @@
     "name:swe_x_preferred":[
         "Torma"
     ],
+    "name:swe_x_variant":[
+        "Torma kommun"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0440\u043c\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u723e\u99ac\u9109"
     ],
     "qs_pg:aaroncc":"EE",
     "qs_pg:gn_country":"EE",
@@ -117,7 +132,7 @@
         }
     ],
     "wof:id":1125936539,
-    "wof:lastmodified":1561826575,
+    "wof:lastmodified":1563234331,
     "wof:name":"Torma",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",

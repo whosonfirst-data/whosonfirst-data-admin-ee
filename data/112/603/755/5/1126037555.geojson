@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "K\u00e4rstna"
+    ],
+    "name:deu_x_preferred":[
+        "Kerstenhof"
+    ],
     "name:eng_x_preferred":[
         "K\u00e4rstna"
     ],
@@ -40,11 +46,17 @@
     "name:rus_x_preferred":[
         "\u041a\u044f\u0440\u0441\u0442\u043d\u0430"
     ],
+    "name:spa_x_preferred":[
+        "K\u00e4rstna"
+    ],
     "name:swe_x_preferred":[
         "K\u00e4rstna"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0437\u0430 \u041a\u044f\u0440\u0441\u0442\u043d\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u044f\u0440\u0441\u0442\u043d\u0430"
     ],
     "name:unk_x_variant":[
         "Kyarstna"
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1126037555,
-    "wof:lastmodified":1561826588,
+    "wof:lastmodified":1563234408,
     "wof:name":"K\u00e4rstna",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",

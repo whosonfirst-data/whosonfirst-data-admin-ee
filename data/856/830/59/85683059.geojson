@@ -33,6 +33,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u0432\u0435\u0442 \u0406\u0434\u0430-\u0412\u0456\u0440\u0443"
     ],
+    "name:bel_x_variant":[
+        "\u043f\u0430\u0432\u0435\u0442 \u0406\u0434\u0430-\u0412\u0456\u0440\u0443"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09a6\u09be-\u09ad\u09bf\u09b0\u09c1 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
@@ -44,6 +47,12 @@
     ],
     "name:cat_x_preferred":[
         "Comtat dIda-Viru"
+    ],
+    "name:cat_x_variant":[
+        "comtat d'Ida-Viru"
+    ],
+    "name:ceb_x_preferred":[
+        "Ida-Virumaa"
     ],
     "name:ces_x_preferred":[
         "Ida-Virumaa"
@@ -91,6 +100,12 @@
     "name:fra_x_preferred":[
         "Comt\u00e9 de Viru-Est"
     ],
+    "name:fra_x_variant":[
+        "Viru oriental"
+    ],
+    "name:frr_x_preferred":[
+        "Ida-Viru"
+    ],
     "name:gle_x_preferred":[
         "Virumaa Thoir"
     ],
@@ -133,6 +148,12 @@
     "name:kor_x_preferred":[
         "\uc774\ub2e4\ube44\ub8e8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\ub2e4\ube44\ub8e8\uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Vironia orientalis"
+    ],
     "name:lav_x_preferred":[
         "Austrumviru apri\u0146\u0137is"
     ],
@@ -151,6 +172,9 @@
     "name:myv_x_preferred":[
         "\u0418\u0434\u0430-\u0412\u0438\u0440\u0443\u043c\u0430\u0430 \u0451\u043d\u043a\u0441"
     ],
+    "name:nan_x_preferred":[
+        "Ida-Viru Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Ida-Virumaa"
     ],
@@ -165,6 +189,9 @@
     ],
     "name:pol_x_preferred":[
         "Virumaa Wschodnia"
+    ],
+    "name:pol_x_variant":[
+        "Ida-Virumaa"
     ],
     "name:por_x_preferred":[
         "Ida-Virumaa"
@@ -196,6 +223,9 @@
     "name:swe_x_preferred":[
         "Ida-Viru l\u00e4n"
     ],
+    "name:swe_x_variant":[
+        "Ida-Virumaa"
+    ],
     "name:tam_x_preferred":[
         "\u0b90\u0b9f\u0bbe -\u0bb5\u0bbf\u0bb1\u0bc1  \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
     ],
@@ -207,6 +237,9 @@
     ],
     "name:tur_x_preferred":[
         "Ida-Viru ili"
+    ],
+    "name:udm_x_preferred":[
+        "\u0418\u0434\u0430-\u0412\u0438\u0440\u0443\u043c\u0430\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0406\u0434\u0430-\u0412\u0456\u0440\u0443\u043c\u0430\u0430"
@@ -342,7 +375,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1561826535,
+    "wof:lastmodified":1563233745,
     "wof:name":"Ida-Virumaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u0627\u0646\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0644\u0646\u0647"
+    ],
     "name:aze_x_preferred":[
         "Lyaen\u0435m\u0430\u0430"
     ],
@@ -87,6 +90,12 @@
     "name:fra_x_preferred":[
         "Comt\u00e9 de L\u00e4\u00e4ne"
     ],
+    "name:fra_x_variant":[
+        "L\u00e4\u00e4ne"
+    ],
+    "name:frr_x_preferred":[
+        "L\u00e4\u00e4ne"
+    ],
     "name:gle_x_preferred":[
         "L\u00e4\u00e4nemaa"
     ],
@@ -129,6 +138,9 @@
     "name:kor_x_preferred":[
         "\ub798\ub124 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub798\ub124\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "L\u0113nes apri\u0146\u0137is"
     ],
@@ -146,6 +158,9 @@
     ],
     "name:myv_x_preferred":[
         "\u041b\u044f\u044d\u043d\u0435\u043c\u0430\u0430 \u0451\u043d\u043a\u0441"
+    ],
+    "name:nan_x_preferred":[
+        "L\u00e4\u00e4ne Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "L\u00e4\u00e4nemaa"
@@ -186,6 +201,9 @@
     "name:swe_x_preferred":[
         "L\u00e4\u00e4ne l\u00e4n"
     ],
+    "name:swe_x_variant":[
+        "L\u00e4\u00e4nemaa"
+    ],
     "name:tam_x_preferred":[
         "\u0bb2\u0bbe\u0ba9\u0bc7 \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
     ],
@@ -197,6 +215,9 @@
     ],
     "name:tur_x_preferred":[
         "L\u00e4\u00e4ne ili"
+    ],
+    "name:udm_x_preferred":[
+        "\u041b\u044f\u044d\u043d\u0435\u043c\u0430\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u044f\u0435\u043d\u0435\u043c\u0430\u0430"
@@ -250,7 +271,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1561826535,
+    "wof:lastmodified":1563233746,
     "wof:name":"L\u00e4\u00e4nemaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

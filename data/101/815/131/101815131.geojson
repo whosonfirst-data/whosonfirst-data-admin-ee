@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000281,
-    "geom:area_square_m":1790447.376447,
+    "geom:area_square_m":1790447.376448,
     "geom:bbox":"25.8714132124,59.0299626689,25.9004468995,59.0521931926",
     "geom:latitude":59.040335,
     "geom:longitude":25.885454,
@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "J\u00e4rva-Jaani"
     ],
+    "name:deu_x_preferred":[
+        "J\u00e4rva-Jaani"
+    ],
     "name:eng_x_preferred":[
         "Jarva-Jaani"
     ],
@@ -29,8 +32,17 @@
     "name:est_x_preferred":[
         "J\u00e4rva-Jaani"
     ],
+    "name:fin_x_preferred":[
+        "J\u00e4rva-Jaani"
+    ],
+    "name:fra_x_preferred":[
+        "J\u00e4rva-Jaani"
+    ],
     "name:hye_x_preferred":[
         "\u0535\u057c\u057e\u0561-\u0545\u0561\u0561\u0576\u056b"
+    ],
+    "name:hye_x_variant":[
+        "\u0545\u0565\u057c\u057e\u0561-\u0545\u0561\u0561\u0576\u056b"
     ],
     "name:rus_x_preferred":[
         "\u042f\u0440\u0432\u0430-\u042f\u0430\u043d\u0438"
@@ -38,8 +50,14 @@
     "name:sco_x_preferred":[
         "J\u00e4rva-Jaani"
     ],
+    "name:spa_x_preferred":[
+        "J\u00e4rva-Jaani"
+    ],
     "name:swe_x_preferred":[
         "J\u00e4rva-Jaani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0440\u0432\u0430-\u042f\u0430\u043d\u0456"
     ],
     "name:und_x_colloquial":[
         "Jaerva-Jaani"
@@ -55,6 +73,9 @@
     ],
     "name:vol_x_preferred":[
         "J\u00e4rva-Jaani"
+    ],
+    "name:zho_x_preferred":[
+        "\u8036\u723e\u74e6-\u4e9e\u5c3c"
     ],
     "qs:a0":"Estonia",
     "qs:a1":"*J\u00e4rvamaa",
@@ -103,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714884,
+    "wof:lastmodified":1563234227,
     "wof:name":"J\u00e4rva-Jaani",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",

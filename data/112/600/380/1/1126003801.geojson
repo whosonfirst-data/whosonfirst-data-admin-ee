@@ -37,6 +37,12 @@
     "name:pol_x_preferred":[
         "Laanemetsa"
     ],
+    "name:spa_x_preferred":[
+        "Laanemetsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0430\u043d\u0435\u043c\u0435\u0442\u0441\u0430"
+    ],
     "name:unk_x_variant":[
         "Myza Lanemetsa"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:vro_x_preferred":[
         "Lannam\u00f5tsa"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5167\u6885\u5bdf"
     ],
     "qs_pg:aaroncc":"EE",
     "qs_pg:gn_country":"EE",
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1126003801,
-    "wof:lastmodified":1561826612,
+    "wof:lastmodified":1563234571,
     "wof:name":"Laanemetsa",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",

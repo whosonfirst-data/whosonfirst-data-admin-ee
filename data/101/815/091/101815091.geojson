@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000297,
-    "geom:area_square_m":1930027.727863,
+    "geom:area_square_m":1930027.727865,
     "geom:bbox":"25.8453745095,58.2274931546,25.8842558584,58.2460324262",
     "geom:latitude":58.235917,
     "geom:longitude":25.863866,
@@ -37,7 +37,22 @@
     "name:lit_x_preferred":[
         "Mustla"
     ],
+    "name:nld_x_preferred":[
+        "Mustla"
+    ],
+    "name:pol_x_preferred":[
+        "Mustla"
+    ],
     "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u0442\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Mustla"
+    ],
+    "name:swe_x_preferred":[
+        "Mustla"
+    ],
+    "name:ukr_x_preferred":[
         "\u041c\u0443\u0441\u0442\u043b\u0430"
     ],
     "name:und_x_preferred":[
@@ -48,6 +63,9 @@
     ],
     "name:vol_x_preferred":[
         "Mustla"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u65af\u7279\u62c9"
     ],
     "qs:a0":"Estonia",
     "qs:a1":"*Viljandimaa",
@@ -97,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714879,
+    "wof:lastmodified":1563234215,
     "wof:name":"Mustla",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
