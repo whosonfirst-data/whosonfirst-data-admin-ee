@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00006,
+    "geom:area_square_m":376033.045451,
     "geom:bbox":"25.0040252689,59.6225380579,25.020723425,59.6333944015",
     "geom:latitude":59.62694,
     "geom:longitude":25.013305,
@@ -24,6 +25,9 @@
     "name:deu_x_preferred":[
         "Prangli"
     ],
+    "name:eng_x_preferred":[
+        "Prangli"
+    ],
     "name:est_x_preferred":[
         "Prangli"
     ],
@@ -39,6 +43,12 @@
     "name:hye_x_preferred":[
         "\u054a\u0580\u0561\u0576\u0563\u056c\u056b\u0576"
     ],
+    "name:hye_x_variant":[
+        "\u054a\u057c\u0561\u0576\u0563\u056c\u056b"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30e9\u30f3\u30b0\u30ea\u5cf6"
+    ],
     "name:lav_x_preferred":[
         "Prangli"
     ],
@@ -48,17 +58,29 @@
     "name:nld_x_preferred":[
         "Prangli"
     ],
+    "name:nob_x_preferred":[
+        "Prangli"
+    ],
     "name:nor_x_preferred":[
         "Prangli"
     ],
     "name:pol_x_preferred":[
         "Prangli"
     ],
+    "name:ron_x_preferred":[
+        "Prangli"
+    ],
     "name:rus_x_preferred":[
+        "\u041f\u0440\u0430\u043d\u0433\u043b\u0438"
+    ],
+    "name:srp_x_preferred":[
         "\u041f\u0440\u0430\u043d\u0433\u043b\u0438"
     ],
     "name:swe_x_preferred":[
         "Vrang\u00f6"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u862d\u683c\u5229\u5cf6"
     ],
     "qs:a0":"Estonia",
     "qs:a1":"*Harjumaa",
@@ -98,7 +120,7 @@
         }
     ],
     "wof:id":101912983,
-    "wof:lastmodified":1527653267,
+    "wof:lastmodified":1563234192,
     "wof:name":"Prangli",
     "wof:parent_id":85683045,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000516,
-    "geom:area_square_m":3372697.726697,
+    "geom:area_square_m":3372697.726698,
     "geom:bbox":"26.4653669584,58.0471980961,26.5210955723,58.0732629105",
     "geom:latitude":58.059246,
     "geom:longitude":26.494728,
@@ -18,6 +18,12 @@
     "mz:is_current":-1,
     "name:aze_x_preferred":[
         "Otepya"
+    ],
+    "name:aze_x_variant":[
+        "\u041et\u0435pya"
+    ],
+    "name:bel_x_preferred":[
+        "\u041e\u0442\u044d\u043f\u044f"
     ],
     "name:ceb_x_preferred":[
         "Otep\u00e4\u00e4"
@@ -34,6 +40,9 @@
     "name:eng_x_preferred":[
         "Otepaa"
     ],
+    "name:eng_x_variant":[
+        "Otep\u00e4\u00e4"
+    ],
     "name:epo_x_preferred":[
         "Otep\u00e4\u00e4"
     ],
@@ -46,14 +55,32 @@
     "name:fin_x_preferred":[
         "Otep\u00e4\u00e4"
     ],
+    "name:fra_x_preferred":[
+        "Otep\u00e4\u00e4"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05d8\u05e4\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Otep\u00e4\u00e4"
+    ],
+    "name:hsb_x_preferred":[
+        "Otep\u00e4\u00e4"
     ],
     "name:hye_x_preferred":[
         "\u0555\u057f\u0565\u057a\u0575\u0561\u0565"
     ],
+    "name:ita_x_preferred":[
+        "Otep\u00e4\u00e4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30c6\u30d4\u30e3\u30fc"
+    ],
     "name:kat_x_preferred":[
         "\u10dd\u10e2\u10d4\u10de\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ud14c\ud328"
     ],
     "name:lav_x_preferred":[
         "Otep\u0113"
@@ -61,14 +88,41 @@
     "name:lit_x_preferred":[
         "Otep\u0117"
     ],
+    "name:nld_x_preferred":[
+        "Otep\u00e4\u00e4"
+    ],
+    "name:nno_x_preferred":[
+        "Otep\u00e4\u00e4"
+    ],
+    "name:nob_x_preferred":[
+        "Otep\u00e4\u00e4"
+    ],
+    "name:pol_x_preferred":[
+        "Otep\u00e4\u00e4"
+    ],
+    "name:por_x_preferred":[
+        "Otep\u00e4\u00e4"
+    ],
+    "name:ron_x_preferred":[
+        "Otep\u00e4\u00e4"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0442\u0435\u043f\u044f"
+    ],
+    "name:slv_x_preferred":[
+        "Otep\u00e4\u00e4"
     ],
     "name:spa_x_preferred":[
         "Otep\u00e4\u00e4"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0442\u0435\u043f\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Otep\u00e4\u00e4"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0442\u0435\u043f\u04d9\u04d9"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0442\u0435\u043f\u044f"
@@ -92,6 +146,15 @@
         "Otepea",
         "Otepya",
         "Shloss"
+    ],
+    "name:vie_x_preferred":[
+        "Otep\u00e4\u00e4"
+    ],
+    "name:vol_x_preferred":[
+        "Otep\u00e4\u00e4"
+    ],
+    "name:vro_x_preferred":[
+        "Ot\u00f5mp\u00e4\u00e4"
     ],
     "name:zho_x_preferred":[
         "\u5967\u6cf0\u4f69"
@@ -147,7 +210,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714881,
+    "wof:lastmodified":1563234217,
     "wof:name":"Otep\u00e4\u00e4",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",

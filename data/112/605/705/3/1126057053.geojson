@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0644\u062a\u0633\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u0446\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Kiltsi"
     ],
     "name:deu_x_preferred":[
         "Kiltsi"
@@ -43,8 +49,14 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u044c\u0442\u0441\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0438\u043b\u0441\u0442\u0438"
+    ],
     "name:swe_x_preferred":[
         "Kiltsi"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0438\u043b\u0442\u0441\u0438"
     ],
     "name:unk_x_variant":[
         "Ass\u2019"
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":1126057053,
-    "wof:lastmodified":1561826586,
+    "wof:lastmodified":1563234392,
     "wof:name":"Kiltsi",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",

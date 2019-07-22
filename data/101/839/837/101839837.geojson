@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001543,
-    "geom:area_square_m":9726370.76517,
+    "geom:area_square_m":9726370.765173,
     "geom:bbox":"26.3264758982,59.3205362761,26.3932705783,59.3727856772",
     "geom:latitude":59.346521,
     "geom:longitude":26.361909,
@@ -20,11 +20,15 @@
     "name:aze_x_preferred":[
         "R\u0430kv\u0435r\u0435"
     ],
+    "name:bak_x_preferred":[
+        "\u0420\u0430\u043a\u0432\u0435\u0440\u0435"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u0430\u043a\u0432\u0435\u0440\u044d"
     ],
     "name:bel_x_variant":[
-        "\u0420\u0430\u043a\u0432\u044d\u0440\u044d"
+        "\u0420\u0430\u043a\u0432\u044d\u0440\u044d",
+        "\u0420\u0430\u043a\u0432\u0435\u0440\u044d"
     ],
     "name:bul_x_preferred":[
         "\u0420\u0430\u043a\u0432\u0435\u0440\u0435"
@@ -44,6 +48,9 @@
     "name:chv_x_preferred":[
         "\u0420\u0430\u043a\u0432\u0435\u0440\u0435"
     ],
+    "name:cym_x_preferred":[
+        "Rakvere"
+    ],
     "name:dan_x_preferred":[
         "Rakvere"
     ],
@@ -52,6 +59,12 @@
     ],
     "name:deu_x_variant":[
         "Wesenberg"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03ac\u03ba\u03b2\u03b5\u03c1\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "Rakvere"
     ],
     "name:epo_x_preferred":[
         "Rakvere"
@@ -74,7 +87,13 @@
     "name:glg_x_preferred":[
         "Rakvere"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e7\u05d5\u05d5\u05e8\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Rakvere"
+    ],
+    "name:hsb_x_preferred":[
         "Rakvere"
     ],
     "name:hun_x_preferred":[
@@ -110,6 +129,12 @@
     "name:mhr_x_preferred":[
         "\u0420\u0430\u043a\u0432\u0435\u0440\u0435"
     ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u043a\u0432\u0435\u0440\u0435"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0420\u0430\u043a\u0432\u0435\u0440\u0435"
+    ],
     "name:myv_x_preferred":[
         "\u0420\u0430\u043a\u0432\u0435\u0440\u0435 \u043e\u0448"
     ],
@@ -117,6 +142,9 @@
         "Rakvere"
     ],
     "name:nno_x_preferred":[
+        "Rakvere"
+    ],
+    "name:nob_x_preferred":[
         "Rakvere"
     ],
     "name:nor_x_preferred":[
@@ -148,6 +176,15 @@
     ],
     "name:swe_x_preferred":[
         "Rakvere"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0430\u043a\u0432\u0435\u0440\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Rakvere"
+    ],
+    "name:udm_x_preferred":[
+        "\u0420\u0430\u043a\u0432\u0435\u0440\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043a\u0432\u0435\u0440\u0435"
@@ -230,7 +267,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715402,
+    "wof:lastmodified":1563234252,
     "wof:name":"Rakvere",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",

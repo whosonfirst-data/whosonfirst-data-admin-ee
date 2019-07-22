@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001637,
-    "geom:area_square_m":10775178.165433,
+    "geom:area_square_m":10775178.16544,
     "geom:bbox":"26.9620707676,57.806006921,27.050060001,57.8631283784",
     "geom:latitude":57.835944,
     "geom:longitude":27.012029,
@@ -53,17 +53,44 @@
     "name:eng_x_variant":[
         "V\u00f5ru"
     ],
+    "name:epo_x_preferred":[
+        "V\u00f5ru"
+    ],
     "name:est_x_preferred":[
         "V\u00f5ru vald"
+    ],
+    "name:est_x_variant":[
+        "V\u00f5ru"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0648\u0631\u0648"
     ],
+    "name:fin_x_preferred":[
+        "V\u00f5ru"
+    ],
+    "name:fra_x_preferred":[
+        "V\u00f5ru"
+    ],
     "name:heb_x_preferred":[
         "\u05d5\u05d5\u05e8\u05d5"
     ],
+    "name:hrv_x_preferred":[
+        "V\u00f5ru"
+    ],
+    "name:hsb_x_preferred":[
+        "V\u00f5ru"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00f5ru"
+    ],
     "name:hye_x_preferred":[
         "\u054e\u056b\u057c\u0578\u0582"
+    ],
+    "name:ind_x_preferred":[
+        "V\u00f5ru"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00f5ru"
     ],
     "name:jpn_x_preferred":[
         "\u30f4\u30a9\u30eb"
@@ -81,10 +108,20 @@
         "Veri"
     ],
     "name:lav_x_variant":[
-        "Verava"
+        "Verava",
+        "Veru"
+    ],
+    "name:lit_x_preferred":[
+        "Veru"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0438\u0440\u0443"
     ],
     "name:mrj_x_preferred":[
         "\u0412\u044b\u0440\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "V\u00f5ru"
     ],
     "name:myv_x_preferred":[
         "\u0412\u044b\u0440\u043e \u043e\u0448"
@@ -92,11 +129,50 @@
     "name:nld_x_preferred":[
         "V\u00f5ru vald"
     ],
+    "name:nld_x_variant":[
+        "V\u00f5ru"
+    ],
+    "name:nno_x_preferred":[
+        "V\u00f5ru"
+    ],
+    "name:nob_x_preferred":[
+        "V\u00f5ru"
+    ],
+    "name:pol_x_preferred":[
+        "V\u00f5ru"
+    ],
+    "name:por_x_preferred":[
+        "V\u00f5ru"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u044b\u0440\u0443"
     ],
+    "name:sco_x_preferred":[
+        "V\u00f5ru"
+    ],
+    "name:sgs_x_preferred":[
+        "Veru"
+    ],
+    "name:spa_x_preferred":[
+        "V\u00f5ru"
+    ],
+    "name:sqi_x_preferred":[
+        "V\u00f5ru"
+    ],
     "name:srp_x_preferred":[
         "\u0412\u0438\u0440\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00f5ru"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u044b\u0440\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "V\u00f5ru"
+    ],
+    "name:udm_x_preferred":[
+        "\u0412\u044b\u0440\u0443"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0440\u0443"
@@ -123,6 +199,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u0648\u0631\u0648"
+    ],
+    "name:vol_x_preferred":[
+        "V\u00f5ru"
+    ],
+    "name:vro_x_preferred":[
+        "V\u00f5ro"
     ],
     "name:zho_x_preferred":[
         "\u6c83\u9b6f"
@@ -178,7 +260,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642284,
+    "wof:lastmodified":1563234185,
     "wof:name":"V\u00f5ru",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",

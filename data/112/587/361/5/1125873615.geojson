@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0432\u0438\u043a\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Aaviku"
+    ],
     "name:deu_x_preferred":[
         "Aaviku"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0622\u0648\u06cc\u06a9\u0648\u060c \u0628\u062e\u0634 \u0647\u0627\u0631\u062c\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0648\u06cc\u06a9\u0648"
     ],
     "name:fin_x_preferred":[
         "Aaviku"
@@ -49,11 +55,17 @@
     "name:pol_x_preferred":[
         "Aaviku"
     ],
+    "name:spa_x_preferred":[
+        "Aaviku"
+    ],
     "name:swe_x_preferred":[
         "Aaviku"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0648\u06cc\u06a9\u0648\u060c \u062d\u0627\u0631\u062c\u0648 \u06a9\u0627\u0624\u0646\u0679\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0622\u0648\u06cc\u06a9\u0648"
     ],
     "name:vol_x_preferred":[
         "Aaviku"
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":1125873615,
-    "wof:lastmodified":1561826600,
+    "wof:lastmodified":1563234488,
     "wof:name":"Aaviku",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

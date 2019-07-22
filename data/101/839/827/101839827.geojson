@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000409,
-    "geom:area_square_m":2650546.014529,
+    "geom:area_square_m":2650546.014532,
     "geom:bbox":"24.6044571785,58.362260536,24.6392777755,58.3911676371",
     "geom:latitude":58.377532,
     "geom:longitude":24.621939,
@@ -20,7 +20,22 @@
     "mps:longitude":24.619301,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0438\u043a\u0443\u0441\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Paikuse"
+    ],
+    "name:eng_x_preferred":[
+        "Paikuse"
+    ],
     "name:est_x_preferred":[
+        "Paikuse"
+    ],
+    "name:fin_x_preferred":[
+        "Paikuse"
+    ],
+    "name:fra_x_preferred":[
         "Paikuse"
     ],
     "name:hye_x_preferred":[
@@ -28,6 +43,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0439\u043a\u0443\u0437\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Paikuse"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0439\u043a\u0443\u0437\u0435"
@@ -37,6 +55,9 @@
     ],
     "name:vol_x_preferred":[
         "Paikuse"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d3e\u5eab\u585e"
     ],
     "qs:a0":"Estonia",
     "qs:a1":"*P\u00e4rnumaa",
@@ -101,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1534379291,
+    "wof:lastmodified":1563234248,
     "wof:name":"Paikuse",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000191,
-    "geom:area_square_m":1203471.018341,
+    "geom:area_square_m":1203471.01834,
     "geom:bbox":"27.5604514146,59.3941424057,27.5903348341,59.4164893469",
     "geom:latitude":59.405355,
     "geom:longitude":27.579965,
@@ -23,7 +23,13 @@
     "name:deu_x_preferred":[
         "Voka alevik"
     ],
+    "name:eng_x_preferred":[
+        "Voka"
+    ],
     "name:est_x_preferred":[
+        "Voka"
+    ],
+    "name:fra_x_preferred":[
         "Voka"
     ],
     "name:hye_x_preferred":[
@@ -33,6 +39,12 @@
         "Voka"
     ],
     "name:pol_x_preferred":[
+        "Voka"
+    ],
+    "name:spa_x_preferred":[
+        "Voka"
+    ],
+    "name:swe_x_preferred":[
         "Voka"
     ],
     "name:vol_x_preferred":[
@@ -82,7 +94,7 @@
         }
     ],
     "wof:id":101815199,
-    "wof:lastmodified":1527714885,
+    "wof:lastmodified":1563234230,
     "wof:name":"Voka",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",

@@ -21,11 +21,20 @@
     "name:ces_x_preferred":[
         "J\u00f5el\u00e4htme"
     ],
+    "name:deu_x_preferred":[
+        "J\u00f5el\u00e4htme"
+    ],
     "name:eng_x_preferred":[
         "J\u00f5el\u00e4htme Parish"
     ],
+    "name:eng_x_variant":[
+        "J\u00f5el\u00e4htme"
+    ],
     "name:est_x_preferred":[
         "J\u00f5el\u00e4htme vald"
+    ],
+    "name:est_x_variant":[
+        "J\u00f5el\u00e4htme"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0647\u0633\u062a\u0627\u0646 \u06cc\u0626\u0648\u0644\u0627\u062a\u0645\u0647"
@@ -54,6 +63,9 @@
     "name:pol_x_preferred":[
         "Gmina J\u00f5el\u00e4htme"
     ],
+    "name:pol_x_variant":[
+        "J\u00f5el\u00e4htme"
+    ],
     "name:ron_x_preferred":[
         "Comuna J\u00f5el\u00e4htme"
     ],
@@ -62,6 +74,15 @@
     ],
     "name:sco_x_preferred":[
         "J\u00f5el\u00e4htme Pairish"
+    ],
+    "name:sco_x_variant":[
+        "J\u00f5el\u00e4htme"
+    ],
+    "name:spa_x_preferred":[
+        "J\u00f5el\u00e4htme"
+    ],
+    "name:swe_x_preferred":[
+        "J\u00f5el\u00e4htme"
     ],
     "name:ukr_x_preferred":[
         "\u0419\u0438\u0435\u043b\u044f\u0445\u0442\u043c\u0435"
@@ -125,7 +146,7 @@
         }
     ],
     "wof:id":1125959165,
-    "wof:lastmodified":1561826583,
+    "wof:lastmodified":1563234374,
     "wof:name":"J\u00f5el\u00e4htme",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

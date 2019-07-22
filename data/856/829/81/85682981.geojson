@@ -96,6 +96,12 @@
     "name:fra_x_preferred":[
         "Comt\u00e9 de P\u00e4rnu"
     ],
+    "name:fra_x_variant":[
+        "P\u00e4rnu"
+    ],
+    "name:frr_x_preferred":[
+        "P\u00e4rnu"
+    ],
     "name:gle_x_preferred":[
         "P\u00e4rnumaa"
     ],
@@ -107,6 +113,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e8\u05e0\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e4\u05e8\u05e0\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092a\u093e\u0930\u094d\u0928\u0942 \u0915\u093e\u0909\u0902\u091f\u0940"
@@ -138,6 +147,9 @@
     "name:kor_x_preferred":[
         "\ud328\ub974\ub204 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud328\ub974\ub204\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "P\u0113rnavas apri\u0146\u0137is"
     ],
@@ -156,6 +168,9 @@
     "name:myv_x_preferred":[
         "\u041f\u044f\u0440\u043d\u0443\u043c\u0430\u0430 \u0451\u043d\u043a\u0441"
     ],
+    "name:nan_x_preferred":[
+        "P\u00e4rnu Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "P\u00e4rnumaa"
     ],
@@ -170,6 +185,9 @@
     ],
     "name:pol_x_preferred":[
         "Parnawa"
+    ],
+    "name:pol_x_variant":[
+        "P\u00e4rnumaa"
     ],
     "name:por_x_preferred":[
         "P\u00e4rnumaa"
@@ -201,6 +219,9 @@
     "name:srp_x_preferred":[
         "\u041f\u0458\u0430\u0440\u043d\u0443"
     ],
+    "name:srp_x_variant":[
+        "\u041f\u0430\u0440\u043d\u0443\u043c\u0430"
+    ],
     "name:swe_x_preferred":[
         "P\u00e4rnu l\u00e4n"
     ],
@@ -215,6 +236,9 @@
     ],
     "name:tur_x_preferred":[
         "P\u00e4rnu ili"
+    ],
+    "name:udm_x_preferred":[
+        "\u041f\u044f\u0440\u043d\u0443\u043c\u0430\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u044f\u0440\u043d\u0443\u043c\u0430\u0430"
@@ -348,7 +372,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1561826533,
+    "wof:lastmodified":1563233736,
     "wof:name":"P\u00e4rnumaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

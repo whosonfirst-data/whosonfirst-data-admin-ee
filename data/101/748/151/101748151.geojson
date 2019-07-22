@@ -24,6 +24,9 @@
     "name:afr_x_preferred":[
         "Tartu"
     ],
+    "name:ang_x_preferred":[
+        "Dorpat"
+    ],
     "name:ara_x_preferred":[
         "\u062a\u0627\u0631\u062a\u0648"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:bel_x_variant":[
         "\u0422\u0430\u0440\u0442\u0443"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u09b0\u09a4\u09c1"
     ],
     "name:bre_x_preferred":[
         "Tartu"
@@ -104,6 +110,9 @@
         "Tarton",
         "Tartoon"
     ],
+    "name:fit_x_preferred":[
+        "Tartu"
+    ],
     "name:fra_x_preferred":[
         "Tartu"
     ],
@@ -113,13 +122,22 @@
     "name:glg_x_preferred":[
         "Tartu"
     ],
+    "name:guj_x_preferred":[
+        "\u0aa4\u0abe\u0ab0\u0acd\u0a9f\u0ac1"
+    ],
     "name:hbs_x_preferred":[
         "Tartu"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05e8\u05d8\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u0924\u093e\u0930\u0924\u0942"
+    ],
     "name:hrv_x_preferred":[
+        "Tartu"
+    ],
+    "name:hsb_x_preferred":[
         "Tartu"
     ],
     "name:hun_x_preferred":[
@@ -147,14 +165,20 @@
         "\u30c6\u30a4",
         "\u30bf\u30eb\u30c8\u30a5"
     ],
-    "name:jpn_x_variant":[
-        "\u30bf\u30eb\u30c8\u30a5"
-    ],
     "name:kal_x_preferred":[
         "Tartu"
     ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0cbe\u0cb0\u0ccd\u0c9f\u0cc1"
+    ],
     "name:kat_x_preferred":[
         "\u10e2\u10d0\u10e0\u10e2\u10e3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0430\u0440\u0442\u0443"
+    ],
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u0440\u0442\u0443"
     ],
     "name:kor_x_preferred":[
         "\ud0c0\ub974\ud22c"
@@ -171,10 +195,16 @@
     "name:lmo_x_preferred":[
         "Tartu"
     ],
+    "name:mar_x_preferred":[
+        "\u091f\u093e\u0930\u094d\u091f\u0942"
+    ],
     "name:mdf_x_preferred":[
         "\u0422\u0430\u0440\u0442\u0443"
     ],
     "name:mhr_x_preferred":[
+        "\u0422\u0430\u0440\u0442\u0443"
+    ],
+    "name:mkd_x_preferred":[
         "\u0422\u0430\u0440\u0442\u0443"
     ],
     "name:mon_x_preferred":[
@@ -188,6 +218,9 @@
     ],
     "name:myv_x_preferred":[
         "\u0422\u0430\u0440\u0442\u0443 \u043e\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Tartu"
     ],
     "name:nau_x_preferred":[
         "Tartu"
@@ -204,6 +237,9 @@
     "name:nno_x_preferred":[
         "Tartu"
     ],
+    "name:nob_x_preferred":[
+        "Tartu"
+    ],
     "name:nor_x_preferred":[
         "Tartu"
     ],
@@ -213,8 +249,14 @@
     "name:oss_x_preferred":[
         "\u0422\u0430\u0440\u0442\u0443"
     ],
+    "name:pan_x_preferred":[
+        "\u0a24\u0a3e\u0a30\u0a24\u0a41"
+    ],
     "name:pih_x_preferred":[
         "Taatu"
+    ],
+    "name:pms_x_preferred":[
+        "Tartu"
     ],
     "name:pol_x_preferred":[
         "Tartu"
@@ -233,6 +275,12 @@
     ],
     "name:sco_x_preferred":[
         "Tartu"
+    ],
+    "name:sgs_x_preferred":[
+        "Tartu"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dbb\u0dca\u0da7\u0dd4"
     ],
     "name:slk_x_preferred":[
         "Tartu"
@@ -256,8 +304,17 @@
         "Tartu",
         "Dorpat"
     ],
-    "name:swe_x_variant":[
-        "Dorpat"
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bbe\u0bb0\u0bcd\u0b9f\u0bc1"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0440\u0442\u0443"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c24\u0c30\u0c4d\u0c24\u0c41"
+    ],
+    "name:tgl_x_preferred":[
+        "Tartu"
     ],
     "name:tha_x_preferred":[
         "\u0e15\u0e32\u0e23\u0e4c\u0e15\u0e39"
@@ -291,6 +348,9 @@
     "name:urd_x_preferred":[
         "\u062a\u0627\u0631\u062a\u0648"
     ],
+    "name:uzb_x_preferred":[
+        "Tartu"
+    ],
     "name:vep_x_preferred":[
         "Tartu"
     ],
@@ -300,8 +360,14 @@
     "name:vol_x_preferred":[
         "Tartu"
     ],
+    "name:vro_x_preferred":[
+        "Tarto"
+    ],
     "name:war_x_preferred":[
         "Tartu"
+    ],
+    "name:yue_x_preferred":[
+        "\u5854\u5716"
     ],
     "name:zho_x_preferred":[
         "\u5854\u5c14\u56fe"
@@ -469,7 +535,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1535390461,
+    "wof:lastmodified":1563234195,
     "wof:name":"Tartu",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",

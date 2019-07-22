@@ -30,8 +30,14 @@
     "name:aze_x_preferred":[
         "T\u0430rtum\u0430\u0430"
     ],
+    "name:bar_x_preferred":[
+        "Kroas Tartu"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u0432\u0435\u0442 \u0422\u0430\u0440\u0442\u0443"
+    ],
+    "name:bel_x_variant":[
+        "\u043f\u0430\u0432\u0435\u0442 \u0422\u0430\u0440\u0442\u0443"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b0\u09cd\u09a4\u09c1 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
@@ -44,6 +50,9 @@
     ],
     "name:cat_x_preferred":[
         "Comtat de Tartu"
+    ],
+    "name:ceb_x_preferred":[
+        "Tartumaa"
     ],
     "name:ces_x_preferred":[
         "Tartumaa"
@@ -91,6 +100,12 @@
     "name:fra_x_preferred":[
         "Comt\u00e9 de Tartu"
     ],
+    "name:fra_x_variant":[
+        "Tartu"
+    ],
+    "name:frr_x_preferred":[
+        "Tartu"
+    ],
     "name:gle_x_preferred":[
         "Tartumaa"
     ],
@@ -103,11 +118,17 @@
     "name:heb_x_preferred":[
         "\u05d8\u05e8\u05d8\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d8\u05e8\u05d8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u091f\u0930\u094d\u091f\u0942 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
     "name:hrv_x_preferred":[
         "Okrug Tartumaa"
+    ],
+    "name:hun_x_preferred":[
+        "Tartumaa"
     ],
     "name:hye_x_preferred":[
         "\u054f\u0561\u0580\u057f\u0578\u0582\u0574\u0561\u0561"
@@ -127,8 +148,14 @@
     "name:kat_x_preferred":[
         "\u10e2\u10d0\u10e0\u10e2\u10e3\u10db\u10d0\u10d0"
     ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0430\u0440\u0442\u0443\u043c\u0430\u0430"
+    ],
     "name:kor_x_preferred":[
         "\ud0c0\ub974\ud22c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud0c0\ub974\ud22c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Tartu apri\u0146\u0137is"
@@ -148,6 +175,9 @@
     "name:myv_x_preferred":[
         "\u0422\u0430\u0440\u0442\u0443\u043c\u0430\u0430 \u0451\u043d\u043a\u0441"
     ],
+    "name:nan_x_preferred":[
+        "Tartu Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Tartumaa"
     ],
@@ -165,6 +195,9 @@
     ],
     "name:pol_x_preferred":[
         "Tartu"
+    ],
+    "name:pol_x_variant":[
+        "Tartumaa"
     ],
     "name:por_x_preferred":[
         "Tartumaa"
@@ -196,6 +229,9 @@
     "name:swe_x_preferred":[
         "Tartu l\u00e4n"
     ],
+    "name:swe_x_variant":[
+        "Tartumaa"
+    ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bbe\u0bb0\u0bcd\u0b9f\u0bc1 \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
     ],
@@ -207,6 +243,9 @@
     ],
     "name:tur_x_preferred":[
         "Tartu ili"
+    ],
+    "name:udm_x_preferred":[
+        "\u0422\u0430\u0440\u0442\u0443\u043c\u0430\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0442\u0443\u043c\u0430\u0430"
@@ -340,7 +379,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1561826532,
+    "wof:lastmodified":1563233729,
     "wof:name":"Tartumaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

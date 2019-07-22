@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001176,
-    "geom:area_square_m":7752421.670874,
+    "geom:area_square_m":7752421.670877,
     "geom:bbox":"26.0237809549,57.7652479165,26.0949740221,57.7967143265",
     "geom:latitude":57.779349,
     "geom:longitude":26.052391,
@@ -17,8 +17,14 @@
     "mps:longitude":26.052155,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0644\u063a\u0627"
+    ],
     "name:aze_x_preferred":[
         "Valqa"
+    ],
+    "name:bak_x_preferred":[
+        "\u0412\u0430\u043b\u0433\u0430"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0430\u043b\u0433\u0430"
@@ -47,6 +53,9 @@
     "name:deu_x_variant":[
         "Walk"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03ac\u03bb\u03b3\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Valga"
     ],
@@ -58,6 +67,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0648\u0627\u0644\u06af\u0627\u060c \u0627\u0633\u062a\u0648\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u0627\u0644\u06af\u0627"
     ],
     "name:fin_x_preferred":[
         "Valga"
@@ -72,6 +84,9 @@
         "\u05d5\u05dc\u05d2\u05d4"
     ],
     "name:hrv_x_preferred":[
+        "Valga"
+    ],
+    "name:hsb_x_preferred":[
         "Valga"
     ],
     "name:hun_x_preferred":[
@@ -98,6 +113,9 @@
     "name:lit_x_preferred":[
         "Valga"
     ],
+    "name:mrj_x_preferred":[
+        "\u0412\u0430\u043b\u0433\u0430"
+    ],
     "name:myv_x_preferred":[
         "\u0412\u0430\u043b\u0433\u0430 \u043e\u0448"
     ],
@@ -106,6 +124,9 @@
     ],
     "name:nno_x_preferred":[
         "Valga i Estland"
+    ],
+    "name:nob_x_preferred":[
+        "Valga"
     ],
     "name:nor_x_preferred":[
         "Valga"
@@ -122,6 +143,9 @@
     "name:rus_x_variant":[
         "\u0412\u0430\u043b\u043a\u0430"
     ],
+    "name:sgs_x_preferred":[
+        "Valga"
+    ],
     "name:spa_x_preferred":[
         "Valga"
     ],
@@ -133,6 +157,15 @@
     ],
     "name:swe_x_preferred":[
         "Valga"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u043b\u0433\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Valga"
+    ],
+    "name:udm_x_preferred":[
+        "\u0412\u0430\u043b\u0433\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u0433\u0430"
@@ -152,6 +185,9 @@
     "name:urd_x_preferred":[
         "\u0648\u0627\u0644\u06af\u0627\u060c \u0627\u0633\u062a\u0648\u0646\u06cc\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0648\u0627\u0644\u06af\u0627"
+    ],
     "name:vep_x_preferred":[
         "Valg"
     ],
@@ -159,6 +195,9 @@
         "Valga"
     ],
     "name:vol_x_preferred":[
+        "Valga"
+    ],
+    "name:vro_x_preferred":[
         "Valga"
     ],
     "name:zho_x_preferred":[
@@ -217,7 +256,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714704,
+    "wof:lastmodified":1563234204,
     "wof:name":"Valga",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",

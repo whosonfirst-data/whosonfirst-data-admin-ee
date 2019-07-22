@@ -45,6 +45,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u0430\u043d\u0435-\u0412\u0438\u0440\u0443"
     ],
+    "name:bul_x_variant":[
+        "\u041b\u044f\u044f\u043d\u0435-\u0412\u0438\u0440\u0443"
+    ],
     "name:cat_x_preferred":[
         "Comtat de L\u00e4\u00e4ne-Viru"
     ],
@@ -93,6 +96,12 @@
     "name:fra_x_preferred":[
         "Comt\u00e9 de Viru-Ouest"
     ],
+    "name:fra_x_variant":[
+        "Viru occidental"
+    ],
+    "name:frr_x_preferred":[
+        "L\u00e4\u00e4ne-Viru"
+    ],
     "name:gle_x_preferred":[
         "Virumaa Thiar"
     ],
@@ -135,6 +144,9 @@
     "name:kor_x_preferred":[
         "\ub798\ub124\ube44\ub8e8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub798\ub124\ube44\ub8e8\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Rietumviru apri\u0146\u0137is"
     ],
@@ -153,6 +165,9 @@
     "name:myv_x_preferred":[
         "\u041b\u044f\u044d\u043d\u0435-\u0412\u0438\u0440\u0443\u043c\u0430\u0430 \u0451\u043d\u043a\u0441"
     ],
+    "name:nan_x_preferred":[
+        "L\u00e4\u00e4ne-Viru Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "L\u00e4\u00e4ne-Virumaa"
     ],
@@ -168,8 +183,14 @@
     "name:pol_x_preferred":[
         "Virumaa Zachodnia"
     ],
+    "name:pol_x_variant":[
+        "L\u00e4\u00e4ne-Virumaa"
+    ],
     "name:por_x_preferred":[
         "Viru Ocidental"
+    ],
+    "name:por_x_variant":[
+        "L\u00e4\u00e4ne-Virumaa"
     ],
     "name:ron_x_preferred":[
         "Comitatul L\u00e4\u00e4ne-Viru"
@@ -198,6 +219,9 @@
     "name:swe_x_preferred":[
         "L\u00e4\u00e4ne-Viru l\u00e4n"
     ],
+    "name:swe_x_variant":[
+        "L\u00e4\u00e4ne-Virumaa"
+    ],
     "name:tam_x_preferred":[
         "\u0bb3\u0bbe\u0ba9\u0bc7 -\u0bb5\u0bbf\u0bb1\u0bc1  \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
     ],
@@ -210,8 +234,14 @@
     "name:tur_x_preferred":[
         "L\u00e4\u00e4ne-Viru ili"
     ],
+    "name:udm_x_preferred":[
+        "\u041b\u044f\u044d\u043d\u0435-\u0412\u0438\u0440\u0443\u043c\u0430\u0430"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u044f\u044f\u043d\u0435-\u0412\u0456\u0440\u0443\u043c\u0430\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u044f\u0435\u043d\u0435-\u0412\u0456\u0440\u0443\u043c\u0430\u0430"
     ],
     "name:unk_x_variant":[
         "Rakvereskiy Rayon"
@@ -345,7 +375,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1561826536,
+    "wof:lastmodified":1563233754,
     "wof:name":"L\u00e4\u00e4ne-Virumaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

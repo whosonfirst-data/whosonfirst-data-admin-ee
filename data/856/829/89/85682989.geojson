@@ -46,6 +46,9 @@
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u0989\u09ae\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09b9\u09bf\u0989 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
+    ],
     "name:bos_x_preferred":[
         "Okrug Hiiumaa"
     ],
@@ -138,7 +141,11 @@
         "Hiiumaa"
     ],
     "name:fra_x_variant":[
-        "Comt\u00e9 de Hiiu"
+        "Comt\u00e9 de Hiiu",
+        "Hiiu"
+    ],
+    "name:frr_x_preferred":[
+        "Hiiu"
     ],
     "name:gle_x_preferred":[
         "Hiiumaa"
@@ -207,7 +214,8 @@
         "\ud788\uc6b0\ub9c8 \uc12c"
     ],
     "name:kor_x_variant":[
-        "\ud788\uc6b0 \uc8fc"
+        "\ud788\uc6b0 \uc8fc",
+        "\ud788\uc6b0\uc8fc"
     ],
     "name:lav_x_preferred":[
         "H\u012bjum\u0101"
@@ -265,6 +273,9 @@
     ],
     "name:pol_x_preferred":[
         "Hiuma"
+    ],
+    "name:pol_x_variant":[
+        "Hiiumaa"
     ],
     "name:por_x_preferred":[
         "Hiiumaa"
@@ -327,6 +338,9 @@
     ],
     "name:tur_x_preferred":[
         "Hiiu ili"
+    ],
+    "name:udm_x_preferred":[
+        "\u0425\u0438\u0439\u0443\u043c\u0430\u0430 \u0443\u0442\u0435\u043c"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0456\u044e\u043c\u0430\u0430"
@@ -467,7 +481,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1561826533,
+    "wof:lastmodified":1563233733,
     "wof:name":"Hiiumaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",
