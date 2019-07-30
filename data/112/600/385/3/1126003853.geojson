@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "M\u00e4ksa"
+    ],
     "name:eng_x_preferred":[
         "M\u00e4ksa Parish"
     ],
     "name:est_x_preferred":[
         "M\u00e4ksa vald"
+    ],
+    "name:est_x_variant":[
+        "M\u00e4ksa"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0647\u0633\u062a\u0627\u0646 \u0645\u0627\u06a9\u0633\u0627"
@@ -37,11 +43,17 @@
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10d0\u10d9\u10e1\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
+    "name:nld_x_preferred":[
+        "M\u00e4ksa"
+    ],
     "name:nor_x_preferred":[
         "M\u00e4ksa kommune"
     ],
     "name:pol_x_preferred":[
         "Gmina M\u00e4ksa"
+    ],
+    "name:pol_x_variant":[
+        "M\u00e4ksa"
     ],
     "name:ron_x_preferred":[
         "Comuna M\u00e4ksa"
@@ -49,8 +61,17 @@
     "name:rus_x_preferred":[
         "\u041c\u044f\u043a\u0441\u0430"
     ],
+    "name:spa_x_preferred":[
+        "M\u00e4ksa"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00e4ksa"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u044f\u043a\u0441\u0430"
+    ],
+    "name:vol_x_preferred":[
+        "M\u00e4ksa"
     ],
     "qs_pg:aaroncc":"EE",
     "qs_pg:gn_country":"EE",
@@ -100,7 +121,7 @@
         }
     ],
     "wof:id":1126003853,
-    "wof:lastmodified":1509406314,
+    "wof:lastmodified":1564206666,
     "wof:name":"M\u00e4ksa",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",

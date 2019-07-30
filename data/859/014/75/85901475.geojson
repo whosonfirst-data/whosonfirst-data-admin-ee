@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11490051.322237,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.551828,59.319844,24.551828,59.319844",
     "geom:latitude":59.319844,
     "geom:longitude":24.551828,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "M\u00e4ek\u00fcla"
+    ],
     "name:eng_x_preferred":[
         "Maekula"
     ],
@@ -39,6 +42,12 @@
     ],
     "name:pol_x_preferred":[
         "M\u00e4ek\u00fcla"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00e4ek\u00fcla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u044f\u0435\u043a\u044e\u043b\u0430"
     ],
     "name:und_x_colloquial":[
         "Maeekuela",
@@ -115,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932512,
+    "wof:lastmodified":1564206016,
     "wof:name":"M\u00e4ek\u00fcla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

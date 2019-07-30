@@ -22,6 +22,12 @@
     "name:ceb_x_preferred":[
         "Toila vald"
     ],
+    "name:ceb_x_variant":[
+        "Toila"
+    ],
+    "name:deu_x_preferred":[
+        "Toila"
+    ],
     "name:eng_x_preferred":[
         "Toila"
     ],
@@ -31,11 +37,17 @@
     "name:est_x_preferred":[
         "Toila vald"
     ],
+    "name:est_x_variant":[
+        "Toila"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0647\u0633\u062a\u0627\u0646 \u062a\u0648\u06cc\u0644\u0627"
     ],
     "name:fra_x_preferred":[
         "Commune de Toila"
+    ],
+    "name:fra_x_variant":[
+        "Toila"
     ],
     "name:hye_x_preferred":[
         "\u054f\u0578\u056b\u056c\u0561"
@@ -43,11 +55,17 @@
     "name:kat_x_preferred":[
         "\u10e2\u10dd\u10d8\u10da\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
+    "name:nld_x_preferred":[
+        "Toila"
+    ],
     "name:nor_x_preferred":[
         "Toila kommune"
     ],
     "name:pol_x_preferred":[
         "Gmina Toila"
+    ],
+    "name:pol_x_variant":[
+        "Toila"
     ],
     "name:ron_x_preferred":[
         "Comuna Toila"
@@ -55,11 +73,23 @@
     "name:rus_x_preferred":[
         "\u0422\u043e\u0439\u043b\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Toila"
+    ],
+    "name:swe_x_preferred":[
+        "Toila"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0439\u043b\u0430"
     ],
     "name:unk_x_variant":[
         "Toyla"
+    ],
+    "name:vol_x_preferred":[
+        "Toila"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u4f0a\u62c9"
     ],
     "qs_pg:aaroncc":"EE",
     "qs_pg:gn_country":"EE",
@@ -111,7 +141,7 @@
         }
     ],
     "wof:id":1125871159,
-    "wof:lastmodified":1509397322,
+    "wof:lastmodified":1564206648,
     "wof:name":"Toila",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",

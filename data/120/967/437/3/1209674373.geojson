@@ -27,6 +27,30 @@
     "iso:country":"EE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Singa"
+    ],
+    "name:deu_x_preferred":[
+        "Singa"
+    ],
+    "name:fra_x_preferred":[
+        "Singa"
+    ],
+    "name:ita_x_preferred":[
+        "Singa"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093f\u0902\u0917\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Singa"
+    ],
+    "name:por_x_preferred":[
+        "Singa"
+    ],
+    "name:swe_x_preferred":[
+        "Singa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633135
@@ -36,7 +60,7 @@
         "gn:id":794411
     },
     "wof:country":"EE",
-    "wof:geomhash":"ca190db823b3d9b65d1499cb5fb1ca8b",
+    "wof:geomhash":"1782c4a84cf27f5c9877a082160c4591",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -44,7 +68,7 @@
         }
     ],
     "wof:id":1209674373,
-    "wof:lastmodified":1536279807,
+    "wof:lastmodified":1564206327,
     "wof:name":"Singa",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -54,9 +78,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.553890000000006,
+    26.55389000000001,
     57.6375,
-    26.553890000000006,
+    26.55389000000001,
     57.6375
 ],
   "geometry": {"coordinates":[26.55389000000001,57.6375],"type":"Point"}
