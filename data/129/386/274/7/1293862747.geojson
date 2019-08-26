@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"22.0675,57.95583,22.1075,57.99583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0422\u043e\u0440\u0433\u0443"
     ],
@@ -95,8 +99,7 @@
         "\u0422\u043e\u0440\u0433\u0443"
     ],
     "name:und_x_variant":[
-        "Torken",
-        "Torgu"
+        "Torken"
     ],
     "name:zho_x_preferred":[
         "\u6258\u723e\u53e4\u9109"
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1293862747,
-    "wof:lastmodified":1564206141,
+    "wof:lastmodified":1566584977,
     "wof:name":"Torgu",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",

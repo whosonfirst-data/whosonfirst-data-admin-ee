@@ -9,15 +9,18 @@
     "geom:bbox":"25.61417,59.28583,25.61417,59.28583",
     "geom:latitude":59.28583,
     "geom:longitude":25.61417,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":910,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":910,
     "iso:country":"EE",
+    "lbl:bbox":"25.59417,59.26583,25.63417,59.30583",
     "lbl:latitude":59.28583,
     "lbl:longitude":25.61417,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0410\u044d\u0433\u0432\u0456\u0439\u0434\u0443"
@@ -100,7 +103,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0435\u0433\u0432\u0456\u0439\u0434\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sharlottengof\u2019"
     ],
     "name:vol_x_preferred":[
@@ -121,7 +124,7 @@
     "qs_pg:qs_id":125911,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1125862237,
-    "wof:lastmodified":1563234439,
+    "wof:lastmodified":1566585330,
     "wof:name":"Aegviidu",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

@@ -9,17 +9,19 @@
     "geom:bbox":"24.5275247972,59.3111732391,24.5834130722,59.3341421819",
     "geom:latitude":59.32051,
     "geom:longitude":24.555464,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5022,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":5022,
     "iso:country":"EE",
     "lbl:latitude":59.324216,
     "lbl:longitude":24.560122,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.324216,
     "mps:longitude":24.560122,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Saue"
     ],
@@ -155,13 +157,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0430\u0443\u0435"
     ],
-    "name:und_x_preferred":[
-        "Saue"
-    ],
     "name:und_x_variant":[
-        "Myza Saue"
-    ],
-    "name:unk_x_variant":[
         "Myza Saue"
     ],
     "name:vep_x_preferred":[
@@ -210,7 +206,7 @@
     "qs_pg:woe_id":845401,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":59.323056,
     "wd:longitude":24.562222,
@@ -226,7 +222,6 @@
         "fct:id":"07eb934a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":588780,
         "gp:id":845401,
-        "qs:id":266751,
         "qs_pg:id":266751,
         "wd:id":"Q86206",
         "wk:page":"Saue"
@@ -245,7 +240,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234192,
+    "wof:lastmodified":1566585233,
     "wof:name":"Saue",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

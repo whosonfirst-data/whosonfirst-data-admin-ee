@@ -9,14 +9,15 @@
     "geom:bbox":"24.8245497609,59.4562433069,24.9022199236,59.4955424874",
     "geom:latitude":59.477052,
     "geom:longitude":24.863507,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"EE",
+    "gn:fcode":"PPLX",
     "gn:latitude":59.46667,
     "gn:longitude":24.86667,
+    "gn:population":0,
     "iso:country":"EE",
     "lbl:latitude":59.469872,
     "lbl:longitude":24.856108,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.479334,
     "mps:longitude":24.871273,
     "mz:hierarchy_label":1,
@@ -60,12 +61,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043b\u043e\u043e\u0441\u0442\u0440\u0456\u043c\u0435\u0442\u0441\u0430"
-    ],
-    "name:und_x_preferred":[
-        "Kloostrimetsa"
-    ],
-    "name:unk_x_variant":[
-        "Kloostrimetsa"
     ],
     "qs:gn_adm0_cc":"EE",
     "qs:gn_fcode":"PPLX",
@@ -113,7 +108,7 @@
     "qs_pg:woe_id":843033,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":128,
     "wof:belongsto":[
         85633135,
@@ -123,7 +118,6 @@
     "wof:concordances":{
         "gn:id":591300,
         "gp:id":843033,
-        "qs:id":313619,
         "qs_pg:id":313619,
         "wd:id":"Q1023624",
         "wk:page":"Kloostrimetsa"
@@ -141,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563233721,
+    "wof:lastmodified":1566584895,
     "wof:name":"Kloostrimetsa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

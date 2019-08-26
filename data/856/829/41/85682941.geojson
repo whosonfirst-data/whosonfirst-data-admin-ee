@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":57.936963,
     "lbl:longitude":26.214312,
+    "lbl:min_zoom":8.0,
     "mps:latitude":57.936963,
     "mps:longitude":26.214312,
     "mz:hierarchy_label":1,
@@ -232,7 +233,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u0433\u0430\u043c\u0430\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Valgaskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -317,9 +318,9 @@
     "qs:type":"Maakond",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-12-31",
+    "src:population_date":"2011-12-31",
     "statoids:area_km":"2,044",
     "statoids:area_mi":"789",
     "statoids:as_of_date":"2011-12-31",
@@ -363,11 +364,10 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1563233742,
+    "wof:lastmodified":1566584904,
     "wof:name":"Valgamaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":30123,
     "wof:population_rank":7,

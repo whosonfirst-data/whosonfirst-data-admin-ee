@@ -9,15 +9,18 @@
     "geom:bbox":"25.48472,58.77278,25.48472,58.77278",
     "geom:latitude":58.77278,
     "geom:longitude":25.48472,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":208,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":208,
     "iso:country":"EE",
+    "lbl:bbox":"25.46472,58.75278,25.50472,58.79278",
     "lbl:latitude":58.77278,
     "lbl:longitude":25.48472,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0422\u0430\u0438\u043a\u0441\u0435"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0439\u043a\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taykse"
     ],
     "name:vol_x_preferred":[
@@ -75,7 +78,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":845736,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1126054153,
-    "wof:lastmodified":1563234388,
+    "wof:lastmodified":1566585313,
     "wof:name":"Taikse",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",

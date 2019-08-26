@@ -13,10 +13,13 @@
     "iso:country":"EE",
     "lbl:latitude":58.070291,
     "lbl:longitude":27.080054,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.070291,
     "mps:longitude":27.080054,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "P\u0131lv\u0430"
     ],
@@ -156,18 +159,11 @@
         "Polwa",
         "Polwe"
     ],
-    "name:und_x_preferred":[
-        "P\u00f5lva"
-    ],
     "name:und_x_variant":[
         "Pel've",
-        "Pelva",
         "Pyl'va",
         "P\u00f5lva Alevik",
         "P\u00f6lwa",
-        "P\u00f6lwe"
-    ],
-    "name:unk_x_variant":[
         "P\u00f6lwe"
     ],
     "name:urd_x_preferred":[
@@ -198,7 +194,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":58.053611,
     "wd:longitude":27.055556,
@@ -214,7 +210,6 @@
         "fct:id":"07eb98c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":589375,
         "gp:id":844831,
-        "qs:id":907759,
         "qs_pg:id":907759,
         "wd:id":"Q45100",
         "wk:page":"P\u00f5lva"
@@ -233,7 +228,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234214,
+    "wof:lastmodified":1566585239,
     "wof:name":"P\u00f5lva",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",

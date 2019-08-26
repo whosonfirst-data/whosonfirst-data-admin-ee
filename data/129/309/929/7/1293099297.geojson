@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"25.45556,58.78528,25.49556,58.82528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "N\u00e4suvere"
     ],
@@ -46,8 +50,7 @@
         "\u041d\u044f\u0441\u0443\u0432\u0435\u0440\u0435"
     ],
     "name:und_x_variant":[
-        "Nyasuvere",
-        "N\u00e4suvere"
+        "Nyasuvere"
     ],
     "name:vol_x_preferred":[
         "N\u00e4suvere"
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1293099297,
-    "wof:lastmodified":1564206037,
+    "wof:lastmodified":1566584916,
     "wof:name":"Naesuvere",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",

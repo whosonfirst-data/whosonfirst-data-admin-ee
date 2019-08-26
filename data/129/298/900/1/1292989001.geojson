@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"24.54165,58.50212,24.58165,58.54212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u0440\u044d"
     ],
@@ -99,8 +103,7 @@
     ],
     "name:und_x_variant":[
         "Myza Are",
-        "Are Asundus",
-        "Are"
+        "Are Asundus"
     ],
     "name:zho_x_preferred":[
         "\u963f\u96f7\u9109"
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1292989001,
-    "wof:lastmodified":1564206103,
+    "wof:lastmodified":1566584954,
     "wof:name":"Are",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

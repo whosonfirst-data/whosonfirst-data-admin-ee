@@ -9,15 +9,18 @@
     "geom:bbox":"25.52722,59.45861,25.52722,59.45861",
     "geom:latitude":59.45861,
     "geom:longitude":25.52722,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":112,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":112,
     "iso:country":"EE",
+    "lbl:bbox":"25.50722,59.43861,25.54722,59.47861",
     "lbl:latitude":59.45861,
     "lbl:longitude":25.52722,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Kahala"
@@ -46,7 +49,7 @@
     "name:spa_x_preferred":[
         "Kahala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kakhala"
     ],
     "name:vol_x_preferred":[
@@ -71,7 +74,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":842598,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125890297,
-    "wof:lastmodified":1563234470,
+    "wof:lastmodified":1566585341,
     "wof:name":"Kahala",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

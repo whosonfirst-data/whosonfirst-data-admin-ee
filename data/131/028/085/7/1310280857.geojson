@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"26.52361,58.44472,26.56361,58.48472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "\u00d5vi"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Yvi Pervyye",
-        "\u00d5vi \u00dcks",
-        "\u00d5vi"
+        "\u00d5vi \u00dcks"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1310280857,
-    "wof:lastmodified":1537620358,
+    "wof:lastmodified":1566585192,
     "wof:name":"Ovi",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",

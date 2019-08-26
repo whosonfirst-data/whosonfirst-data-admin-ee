@@ -9,15 +9,18 @@
     "geom:bbox":"26.06278,57.8875,26.06278,57.8875",
     "geom:latitude":57.8875,
     "geom:longitude":26.06278,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":117,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":117,
     "iso:country":"EE",
+    "lbl:bbox":"26.04278,57.8675,26.08278,57.9075",
     "lbl:latitude":57.8875,
     "lbl:longitude":26.06278,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Piiri"
@@ -40,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0439\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u00fcri"
     ],
     "name:vol_x_preferred":[
@@ -65,7 +68,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":844723,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125872437,
-    "wof:lastmodified":1564206647,
+    "wof:lastmodified":1566585345,
     "wof:name":"Piiri",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"23.78444,58.94889,23.82444,58.98889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "V\u00f5ntk\u00fcla"
     ],
@@ -50,9 +54,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0438\u043d\u0442\u043a\u044e\u043b\u0430"
-    ],
-    "name:und_x_variant":[
-        "V\u00f5ntk\u00fcla"
     ],
     "name:vol_x_preferred":[
         "V\u00f5ntk\u00fcla"
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1242769539,
-    "wof:lastmodified":1564206779,
+    "wof:lastmodified":1566585445,
     "wof:name":"Vontkuela",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",

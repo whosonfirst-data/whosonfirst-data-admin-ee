@@ -9,15 +9,18 @@
     "geom:bbox":"26.27528,58.57833,26.27528,58.57833",
     "geom:latitude":58.57833,
     "geom:longitude":26.27528,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":646,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":646,
     "iso:country":"EE",
+    "lbl:bbox":"26.25528,58.55833,26.29528,58.59833",
     "lbl:latitude":58.57833,
     "lbl:longitude":26.27528,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Puurmani"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0443\u0440\u043c\u0430\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Purmani"
     ],
     "name:vol_x_preferred":[
@@ -77,7 +80,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":844947,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1126037789,
-    "wof:lastmodified":1564206636,
+    "wof:lastmodified":1566585323,
     "wof:name":"Puurmani",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"27.51528,59.26917,27.51528,59.26917",
     "geom:latitude":59.26917,
     "geom:longitude":27.51528,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":199,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":199,
     "iso:country":"EE",
+    "lbl:bbox":"27.49528,59.24917,27.53528,59.28917",
     "lbl:latitude":59.26917,
     "lbl:longitude":27.51528,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Kurtna"
@@ -52,7 +55,7 @@
     "name:spa_x_preferred":[
         "Kurtna"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kurtna Asundus"
     ],
     "name:vol_x_preferred":[
@@ -77,7 +80,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":843413,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125890373,
-    "wof:lastmodified":1563234468,
+    "wof:lastmodified":1566585340,
     "wof:name":"Kurtna",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",

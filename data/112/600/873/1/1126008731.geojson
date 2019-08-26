@@ -9,15 +9,18 @@
     "geom:bbox":"25.26417,59.5125,25.26417,59.5125",
     "geom:latitude":59.5125,
     "geom:longitude":25.26417,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":99,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":99,
     "iso:country":"EE",
+    "lbl:bbox":"25.24417,59.4925,25.28417,59.5325",
     "lbl:latitude":59.5125,
     "lbl:longitude":25.26417,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kaberneeme"
@@ -43,7 +46,7 @@
     "name:spa_x_preferred":[
         "Kaberneeme"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaberneyeme"
     ],
     "name:vol_x_preferred":[
@@ -70,7 +73,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":842549,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1126008731,
-    "wof:lastmodified":1563234549,
+    "wof:lastmodified":1566585366,
     "wof:name":"Kaberneeme",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

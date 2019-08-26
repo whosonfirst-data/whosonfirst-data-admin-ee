@@ -9,15 +9,18 @@
     "geom:bbox":"26.19056,58.17583,26.19056,58.17583",
     "geom:latitude":58.17583,
     "geom:longitude":26.19056,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":152,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":152,
     "iso:country":"EE",
+    "lbl:bbox":"26.17056,58.15583,26.21056,58.19583",
     "lbl:latitude":58.17583,
     "lbl:longitude":26.19056,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0430\u043f\u0435\u0442\u0443\u043a\u043c\u0435"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043f\u0435\u0442\u0443\u043a\u043c\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lepetukma"
     ],
     "name:vol_x_preferred":[
@@ -80,7 +83,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":843519,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125870693,
-    "wof:lastmodified":1563234492,
+    "wof:lastmodified":1566585348,
     "wof:name":"Lapetukme",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",

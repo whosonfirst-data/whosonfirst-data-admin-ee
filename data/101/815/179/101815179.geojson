@@ -9,17 +9,19 @@
     "geom:bbox":"24.3037163275,59.1111164239,24.3162969747,59.1264060276",
     "geom:latitude":59.119528,
     "geom:longitude":24.30967,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1058,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":1058,
     "iso:country":"EE",
     "lbl:latitude":59.119016,
     "lbl:longitude":24.309575,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.119016,
     "mps:longitude":24.309575,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0420\u044b\u0439\u0437\u0456\u043f\u0435\u0440\u044d"
     ],
@@ -68,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0439\u0437\u0456\u043f\u0435\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Risipere"
     ],
     "name:vol_x_preferred":[
@@ -109,7 +111,7 @@
     "qs_pg:woe_id":845167,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":312,
     "wof:belongsto":[
@@ -121,7 +123,6 @@
     "wof:concordances":{
         "gn:id":589024,
         "gp:id":845167,
-        "qs:id":125894,
         "qs_pg:id":125894,
         "wd:id":"Q2006948",
         "wk:page":"Riisipere"
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":101815179,
-    "wof:lastmodified":1563234244,
+    "wof:lastmodified":1566585247,
     "wof:name":"Riisipere",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

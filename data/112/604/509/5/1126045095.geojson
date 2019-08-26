@@ -9,15 +9,18 @@
     "geom:bbox":"24.79722,59.55694,24.79722,59.55694",
     "geom:latitude":59.55694,
     "geom:longitude":24.79722,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":316,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":316,
     "iso:country":"EE",
+    "lbl:bbox":"24.77722,59.53694,24.81722,59.57694",
     "lbl:latitude":59.55694,
     "lbl:longitude":24.79722,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0420\u043e\u0445\u0443\u043d\u0435\u043c\u0435"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Rohuneeme"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rokhuneme"
     ],
     "name:vol_x_preferred":[
@@ -70,7 +73,7 @@
     "qs_pg:qs_id":550129,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1126045095,
-    "wof:lastmodified":1563234403,
+    "wof:lastmodified":1566585318,
     "wof:name":"Rohuneeme",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

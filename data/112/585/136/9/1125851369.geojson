@@ -9,15 +9,18 @@
     "geom:bbox":"26.60194,58.86528,26.60194,58.86528",
     "geom:latitude":58.86528,
     "geom:longitude":26.60194,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":306,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":306,
     "iso:country":"EE",
+    "lbl:bbox":"26.58194,58.84528,26.62194,58.88528",
     "lbl:latitude":58.86528,
     "lbl:longitude":26.60194,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0430\u0434\u0430\u043b\u0430"
@@ -49,9 +52,6 @@
     "name:swe_x_preferred":[
         "Sadala"
     ],
-    "name:unk_x_variant":[
-        "Sadala"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0688\u0627\u0644\u0627"
     ],
@@ -75,7 +75,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":845424,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":1125851369,
-    "wof:lastmodified":1563234591,
+    "wof:lastmodified":1566585380,
     "wof:name":"Savala",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",

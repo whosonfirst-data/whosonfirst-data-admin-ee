@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"24.35167,59.31554,24.39167,59.35554",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "T\u00f5mmiku"
     ],
@@ -47,9 +51,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0438\u043c\u043c\u0456\u043a\u0443"
-    ],
-    "name:und_x_variant":[
-        "T\u00f5mmiku"
     ],
     "name:vol_x_preferred":[
         "T\u00f5mmiku"
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1327351345,
-    "wof:lastmodified":1564205839,
+    "wof:lastmodified":1566584791,
     "wof:name":"Tommiku",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

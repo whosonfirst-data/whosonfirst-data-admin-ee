@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":58.734509,
     "lbl:longitude":26.563692,
+    "lbl:min_zoom":8.0,
     "mps:latitude":58.734509,
     "mps:longitude":26.563692,
     "mz:hierarchy_label":1,
@@ -220,7 +221,7 @@
         "J\u00f5gevamaa"
     ],
     "name:tam_x_preferred":[
-        "\u0b9c\u0bcb\u0b95\u0bc7\u0bb5\u0bbe  \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
+        "\u0b9c\u0bcb\u0b95\u0bc7\u0bb5\u0bbe \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
     ],
     "name:tat_x_preferred":[
         "\u0415\u0433\u0435\u0432\u0430\u043c\u0430\u0430"
@@ -243,7 +244,7 @@
     "name:ukr_x_variant":[
         "\u0419\u0438\u0491\u0435\u0432\u0430\u043c\u0430\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yygevaskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -328,9 +329,9 @@
     "qs:type":"Maakond",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-12-31",
+    "src:population_date":"2011-12-31",
     "statoids:area_km":"2,604",
     "statoids:area_mi":"1,005",
     "statoids:as_of_date":"2011-12-31",
@@ -374,11 +375,10 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1563233751,
+    "wof:lastmodified":1566584908,
     "wof:name":"J\u00f5gevamaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":31376,
     "wof:population_rank":7,

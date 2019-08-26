@@ -9,17 +9,19 @@
     "geom:bbox":"26.3812071247,58.2088330302,26.4431952384,58.241486968",
     "geom:latitude":58.224156,
     "geom:longitude":26.409161,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5819,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":5819,
     "iso:country":"EE",
     "lbl:latitude":58.222356,
     "lbl:longitude":26.407048,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.222356,
     "mps:longitude":26.407048,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Elva"
     ],
@@ -146,15 +148,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u0432\u0430"
     ],
-    "name:und_x_preferred":[
-        "Elva"
-    ],
-    "name:und_x_variant":[
-        "Elwa"
-    ],
-    "name:unk_x_variant":[
-        "Elwa"
-    ],
     "name:vep_x_preferred":[
         "Elv"
     ],
@@ -201,7 +194,7 @@
     "qs_pg:woe_id":842121,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":58.2275,
     "wd:longitude":26.415833,
@@ -217,7 +210,6 @@
         "fct:id":"07eba7ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":592279,
         "gp:id":842121,
-        "qs:id":907678,
         "qs_pg:id":907678,
         "wd:id":"Q213071",
         "wk:page":"Elva, Estonia"
@@ -236,7 +228,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234206,
+    "wof:lastmodified":1566585236,
     "wof:name":"Elva",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",

@@ -9,13 +9,14 @@
     "geom:bbox":"24.4456698711,58.3415022222,24.5830479577,58.4322007565",
     "geom:latitude":58.389681,
     "geom:longitude":24.513518,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":44192,
+    "gn:country":"EE",
+    "gn:fcode":"PPLA",
     "gn:population":44192,
     "iso:country":"EE",
     "lbl:latitude":58.39107,
     "lbl:longitude":24.510262,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":58.39107,
     "mps:longitude":24.510262,
     "mz:hierarchy_label":1,
@@ -262,21 +263,10 @@
         "Paernu",
         "Pernava"
     ],
-    "name:und_x_preferred":[
-        "Pernavia",
-        "P\u00e4rnu"
-    ],
     "name:und_x_variant":[
-        "P\u0113rnava",
         "Pjarnu",
         "Pernov",
-        "Piarnu",
-        "Pernau",
-        "Pyaonu",
-        "Pyarnu"
-    ],
-    "name:unk_x_variant":[
-        "P\u0113rnava"
+        "Pyaonu"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0631\u0646\u0648"
@@ -428,7 +418,7 @@
     "qs_pg:woe_id":844634,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":10.0,
     "wd:latitude":58.384444,
@@ -445,7 +435,6 @@
         "fct:id":"07eb59f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":589580,
         "gp:id":844634,
-        "qs:id":907760,
         "qs_pg:id":907760,
         "wd:id":"Q102365",
         "wk:page":"P\u00e4rnu"
@@ -464,7 +453,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234201,
+    "wof:lastmodified":1566585235,
     "wof:name":"P\u00e4rnu",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

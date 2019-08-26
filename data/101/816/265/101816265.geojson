@@ -13,10 +13,13 @@
     "iso:country":"EE",
     "lbl:latitude":58.098539,
     "lbl:longitude":25.551825,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.098539,
     "mps:longitude":25.551825,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Karksi-Nuia"
     ],
@@ -96,18 +99,12 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u043a\u0441\u0456-\u041d\u0443\u0439\u0430"
     ],
-    "name:und_x_preferred":[
-        "Karksi-Nuia"
-    ],
     "name:und_x_variant":[
         "Karkus",
         "Nuia",
         "Nuiya",
         "Nuya",
         "Nuyya"
-    ],
-    "name:unk_x_variant":[
-        "Nuiya"
     ],
     "name:vol_x_preferred":[
         "Karksi-Nuia"
@@ -132,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":58.104722,
     "wd:longitude":25.5475,
@@ -148,7 +145,6 @@
         "fct:id":"07ebcfae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":589922,
         "gp:id":842762,
-        "qs:id":125897,
         "qs_pg:id":125897,
         "wd:id":"Q1023750",
         "wk:page":"Karksi-Nuia"
@@ -167,7 +163,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234189,
+    "wof:lastmodified":1566585233,
     "wof:name":"Karksi-Nuia",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",

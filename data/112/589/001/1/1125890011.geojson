@@ -9,15 +9,18 @@
     "geom:bbox":"23.5275,59.01111,23.5275,59.01111",
     "geom:latitude":59.01111,
     "geom:longitude":23.5275,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":234,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":234,
     "iso:country":"EE",
+    "lbl:bbox":"23.5075,58.99111,23.5475,59.03111",
     "lbl:latitude":59.01111,
     "lbl:longitude":23.5275,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "P\u00fcrksi"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u044e\u0440\u043a\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pyurksi"
     ],
     "name:vol_x_preferred":[
@@ -80,7 +83,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":844926,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125890011,
-    "wof:lastmodified":1563234468,
+    "wof:lastmodified":1566585340,
     "wof:name":"P\u00fcrksi",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",

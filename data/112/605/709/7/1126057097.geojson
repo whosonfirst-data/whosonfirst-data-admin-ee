@@ -9,15 +9,18 @@
     "geom:bbox":"24.42917,58.65556,24.42917,58.65556",
     "geom:latitude":58.65556,
     "geom:longitude":24.42917,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":102,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":102,
     "iso:country":"EE",
+    "lbl:bbox":"24.40917,58.63556,24.44917,58.67556",
     "lbl:latitude":58.65556,
     "lbl:longitude":24.42917,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0430\u043d\u0433\u0435\u0440\u043c\u0430"
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "Langerma"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Langermaa"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +77,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":843511,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1126057097,
-    "wof:lastmodified":1563234386,
+    "wof:lastmodified":1566585312,
     "wof:name":"Langerma",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"23.74056,58.55944,23.74056,58.55944",
     "geom:latitude":58.55944,
     "geom:longitude":23.74056,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":212,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":212,
     "iso:country":"EE",
+    "lbl:bbox":"23.72056,58.53944,23.76056,58.57944",
     "lbl:latitude":58.55944,
     "lbl:longitude":23.74056,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0412\u0430\u0442\u043b\u0430"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0442\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Vatla"
     ],
     "name:vol_x_preferred":[
@@ -78,7 +81,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":846358,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1125936993,
-    "wof:lastmodified":1563234327,
+    "wof:lastmodified":1566585289,
     "wof:name":"Vatla",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",

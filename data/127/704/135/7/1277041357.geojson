@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"26.68611,58.22167,26.72611,58.26167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "M\u00e4ek\u00fcla"
     ],
@@ -44,9 +48,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u044f\u0435\u043a\u044e\u043b\u0430"
-    ],
-    "name:und_x_variant":[
-        "M\u00e4ek\u00fcla"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0626\u06cc\u06a9\u0648\u0644\u0627"
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1277041357,
-    "wof:lastmodified":1564206206,
+    "wof:lastmodified":1566585017,
     "wof:name":"Maeekuela",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",

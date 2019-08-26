@@ -9,15 +9,18 @@
     "geom:bbox":"25.67167,58.94528,25.67167,58.94528",
     "geom:latitude":58.94528,
     "geom:longitude":25.67167,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":282,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":282,
     "iso:country":"EE",
+    "lbl:bbox":"25.65167,58.92528,25.69167,58.96528",
     "lbl:latitude":58.94528,
     "lbl:longitude":25.67167,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0412\u0438\u0441\u0443"
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0439\u0437\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Vizu"
     ],
     "name:vol_x_preferred":[
@@ -71,7 +74,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":846445,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125908909,
-    "wof:lastmodified":1563234503,
+    "wof:lastmodified":1566585351,
     "wof:name":"Viisu",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",

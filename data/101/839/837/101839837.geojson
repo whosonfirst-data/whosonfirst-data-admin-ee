@@ -13,10 +13,13 @@
     "iso:country":"EE",
     "lbl:latitude":59.344227,
     "lbl:longitude":26.359459,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.344227,
     "mps:longitude":26.359459,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:aze_x_preferred":[
         "R\u0430kv\u0435r\u0435"
     ],
@@ -189,16 +192,10 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043a\u0432\u0435\u0440\u0435"
     ],
-    "name:und_x_preferred":[
-        "Rakvere"
-    ],
     "name:und_x_variant":[
         "Rakvere vald",
         "Rakwere",
         "Vezenberg"
-    ],
-    "name:unk_x_variant":[
-        "Rakwere"
     ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u06a9\u0648\u06cc\u0631\u06c1"
@@ -231,7 +228,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":82.0,
     "wd:latitude":59.350556,
@@ -248,7 +245,6 @@
         "fct:id":"07eb7e64-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":589165,
         "gp:id":845029,
-        "qs:id":491898,
         "qs_pg:id":491898,
         "wd:id":"Q191889",
         "wk:page":"Rakvere"
@@ -267,7 +263,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234252,
+    "wof:lastmodified":1566585249,
     "wof:name":"Rakvere",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",

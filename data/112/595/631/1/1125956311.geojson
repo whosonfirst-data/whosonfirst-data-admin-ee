@@ -9,15 +9,18 @@
     "geom:bbox":"27.44028,58.17333,27.44028,58.17333",
     "geom:latitude":58.17333,
     "geom:longitude":27.44028,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":124,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":124,
     "iso:country":"EE",
+    "lbl:bbox":"27.42028,58.15333,27.46028,58.19333",
     "lbl:latitude":58.17333,
     "lbl:longitude":27.44028,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Naha"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nakha"
     ],
     "name:vol_x_preferred":[
@@ -75,7 +78,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":844197,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125956311,
-    "wof:lastmodified":1563234374,
+    "wof:lastmodified":1566585306,
     "wof:name":"Naha",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",

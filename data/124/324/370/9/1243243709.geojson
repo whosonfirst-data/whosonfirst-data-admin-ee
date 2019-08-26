@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"27.46861,58.04778,27.50861,58.08778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "S\u00fclgoja"
     ],
@@ -38,9 +42,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u044e\u043b\u0433\u043e\u044f"
-    ],
-    "name:und_x_variant":[
-        "S\u00fclgoja"
     ],
     "name:vol_x_preferred":[
         "S\u00fclgoja"
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1243243709,
-    "wof:lastmodified":1564206734,
+    "wof:lastmodified":1566585420,
     "wof:name":"Suelgoja",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",

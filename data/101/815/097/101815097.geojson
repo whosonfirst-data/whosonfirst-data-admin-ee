@@ -9,17 +9,19 @@
     "geom:bbox":"26.2968794528,58.3298988059,26.3241617566,58.3460544817",
     "geom:latitude":58.338472,
     "geom:longitude":26.311903,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1072,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":1072,
     "iso:country":"EE",
     "lbl:latitude":58.339401,
     "lbl:longitude":26.312833,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.339401,
     "mps:longitude":26.312833,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Puhja"
     ],
@@ -50,16 +52,10 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0433'\u044f"
     ],
-    "name:und_x_preferred":[
-        "Puhja"
-    ],
     "name:und_x_variant":[
         "Pukhiya",
         "Kawelecht",
         "Pukh'ya"
-    ],
-    "name:unk_x_variant":[
-        "Kawelecht"
     ],
     "name:vol_x_preferred":[
         "Puhja"
@@ -99,7 +95,7 @@
     "qs_pg:woe_id":844891,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":141,
     "wof:belongsto":[
@@ -112,7 +108,6 @@
         "fct:id":"07ea18ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":589307,
         "gp:id":844891,
-        "qs:id":1127056,
         "qs_pg:id":1127056,
         "wd:id":"Q3470336"
     },
@@ -130,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234218,
+    "wof:lastmodified":1566585240,
     "wof:name":"Puhja",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"24.78833,58.68972,24.78833,58.68972",
     "geom:latitude":58.68972,
     "geom:longitude":24.78833,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":155,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":155,
     "iso:country":"EE",
+    "lbl:bbox":"24.76833,58.66972,24.80833,58.70972",
     "lbl:latitude":58.68972,
     "lbl:longitude":24.78833,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041a\u0430\u0438\u0441\u043c\u0430"
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "Kaisma"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaysma"
     ],
     "name:vol_x_preferred":[
@@ -64,7 +67,7 @@
     "qs_pg:qs_id":550154,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1126045159,
-    "wof:lastmodified":1563234405,
+    "wof:lastmodified":1566585319,
     "wof:name":"Kaisma",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

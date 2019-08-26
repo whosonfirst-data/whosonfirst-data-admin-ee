@@ -9,17 +9,19 @@
     "geom:bbox":"26.507379529,58.2663322439,26.5525000099,58.2866160873",
     "geom:latitude":58.276715,
     "geom:longitude":26.53333,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1476,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":1476,
     "iso:country":"EE",
     "lbl:latitude":58.281619,
     "lbl:longitude":26.54273,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.281619,
     "mps:longitude":26.54273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "N\u00f5o"
     ],
@@ -63,17 +65,10 @@
         "Nueggen",
         "Nuggen"
     ],
-    "name:und_x_preferred":[
-        "N\u00f5o"
-    ],
     "name:und_x_variant":[
         "Niggen'",
         "Neo",
-        "Nyo",
-        "N\u00fcggen"
-    ],
-    "name:unk_x_variant":[
-        "Neo"
+        "Nyo"
     ],
     "name:vol_x_preferred":[
         "N\u00f5o"
@@ -116,7 +111,7 @@
     "qs_pg:woe_id":844297,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":316,
     "wof:belongsto":[
@@ -129,7 +124,6 @@
         "fct:id":"07ebd62a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":589933,
         "gp:id":844297,
-        "qs:id":262026,
         "qs_pg:id":262026,
         "wd:id":"Q3477614",
         "wk:page":"N\u00f5o"
@@ -148,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234217,
+    "wof:lastmodified":1566585240,
     "wof:name":"N\u00f5o",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",

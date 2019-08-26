@@ -9,14 +9,18 @@
     "geom:bbox":"26.46583,59.52556,26.46583,59.52556",
     "geom:latitude":59.52556,
     "geom:longitude":26.46583,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"EE",
+    "lbl:bbox":"26.44583,59.50556,26.48583,59.54556",
     "lbl:latitude":59.52556,
     "lbl:longitude":26.46583,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Toolse"
@@ -57,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u043e\u0440\u0442\u0435\u0446\u044f \u0422\u043e\u043e\u043b\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tolse"
     ],
     "name:vol_x_preferred":[
@@ -84,7 +88,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":845901,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1125912513,
-    "wof:lastmodified":1563234523,
+    "wof:lastmodified":1566585357,
     "wof:name":"Toolse",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",

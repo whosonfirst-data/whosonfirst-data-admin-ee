@@ -9,15 +9,18 @@
     "geom:bbox":"24.78528,59.135,24.78528,59.135",
     "geom:latitude":59.135,
     "geom:longitude":24.78528,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":193,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":193,
     "iso:country":"EE",
+    "lbl:bbox":"24.76528,59.115,24.80528,59.155",
     "lbl:latitude":59.135,
     "lbl:longitude":24.78528,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u043e\u0445\u0443"
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Lohu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lokhu"
     ],
     "name:vol_x_preferred":[
@@ -83,7 +86,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":843723,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1126037677,
-    "wof:lastmodified":1563234421,
+    "wof:lastmodified":1566585324,
     "wof:name":"Lohu",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",

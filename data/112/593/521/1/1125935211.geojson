@@ -9,15 +9,18 @@
     "geom:bbox":"25.92667,58.81028,25.92667,58.81028",
     "geom:latitude":58.81028,
     "geom:longitude":25.92667,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":251,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":251,
     "iso:country":"EE",
+    "lbl:bbox":"25.90667,58.79028,25.94667,58.83028",
     "lbl:latitude":58.81028,
     "lbl:longitude":25.92667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "P\u00e4inurme"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u044f\u0439\u043d\u0443\u0440\u043c\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pyaynurme"
     ],
     "name:vol_x_preferred":[
@@ -72,7 +75,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":844527,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125935211,
-    "wof:lastmodified":1563234311,
+    "wof:lastmodified":1566585283,
     "wof:name":"P\u00e4inurme",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",

@@ -9,16 +9,19 @@
     "geom:bbox":"26.6909034805,58.3192280683,26.7177373094,58.3285594855",
     "geom:latitude":58.323767,
     "geom:longitude":26.703501,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"EE",
     "lbl:latitude":58.323562,
     "lbl:longitude":26.704822,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.323562,
     "mps:longitude":26.704822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "T\u00f5rvandi"
     ],
@@ -86,7 +89,7 @@
     "qs_pg:woe_id":845939,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":794043,
         "gp:id":845939,
-        "qs:id":42724,
         "qs_pg:id":42724,
         "wd:id":"Q3470414",
         "wk:page":"T\u00f5rvandi"
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101839835,
-    "wof:lastmodified":1563234250,
+    "wof:lastmodified":1566585249,
     "wof:name":"T\u00f5rvandi",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",

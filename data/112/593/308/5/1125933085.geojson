@@ -9,15 +9,18 @@
     "geom:bbox":"24.87667,58.97333,24.87667,58.97333",
     "geom:latitude":58.97333,
     "geom:longitude":24.87667,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":100,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":100,
     "iso:country":"EE",
+    "lbl:bbox":"24.85667,58.95333,24.89667,58.99333",
     "lbl:latitude":58.97333,
     "lbl:longitude":24.87667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hertu"
@@ -40,7 +43,7 @@
     "name:spa_x_preferred":[
         "Hertu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khertu"
     ],
     "name:vol_x_preferred":[
@@ -63,7 +66,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":842241,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125933085,
-    "wof:lastmodified":1563234293,
+    "wof:lastmodified":1566585276,
     "wof:name":"Hertu",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",

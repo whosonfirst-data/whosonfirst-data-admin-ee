@@ -13,10 +13,13 @@
     "iso:country":"EE",
     "lbl:latitude":59.002881,
     "lbl:longitude":24.791224,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.002881,
     "mps:longitude":24.791224,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0628\u0644\u0627"
     ],
@@ -146,19 +149,13 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043f\u043b\u0430"
     ],
-    "name:und_x_preferred":[
-        "Rapla",
-        "Raplak\u00fcla"
-    ],
     "name:und_x_variant":[
+        "Raplak\u00fcla",
         "Odenkam",
         "Odenwald",
         "Rapla-Kyulya",
         "Raplakula",
         "Rappel"
-    ],
-    "name:unk_x_variant":[
-        "Odenkam"
     ],
     "name:urd_x_preferred":[
         "\u0631\u067e\u0644\u0627"
@@ -194,7 +191,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":255,
     "wof:belongsto":[
@@ -207,7 +204,6 @@
         "fct:id":"07eb3878-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":589116,
         "gp:id":845074,
-        "qs:id":907773,
         "qs_pg:id":907773,
         "wd:id":"Q215971",
         "wk:page":"Rapla"
@@ -226,7 +222,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234222,
+    "wof:lastmodified":1566585241,
     "wof:name":"Rapla",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",

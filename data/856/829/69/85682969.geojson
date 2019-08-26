@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":58.372199,
     "lbl:longitude":27.497247,
+    "lbl:min_zoom":8.0,
     "mps:latitude":58.372199,
     "mps:longitude":27.497247,
     "mz:hierarchy_label":1,
@@ -252,7 +253,7 @@
     "qs:type":"Maakond",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633135
@@ -277,7 +278,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1563233729,
+    "wof:lastmodified":1566584900,
     "wof:name":"Tartumaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

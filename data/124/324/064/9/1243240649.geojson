@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"26.71,57.98722,26.75,58.02722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "J\u00f5ksi"
     ],
@@ -41,9 +45,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0419\u0438\u043a\u0441\u0456"
-    ],
-    "name:und_x_variant":[
-        "J\u00f5ksi"
     ],
     "name:vol_x_preferred":[
         "J\u00f5ksi"
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1243240649,
-    "wof:lastmodified":1564206733,
+    "wof:lastmodified":1566585419,
     "wof:name":"Joksi",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",

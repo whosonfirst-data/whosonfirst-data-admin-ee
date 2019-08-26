@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"25.75444,58.33417,25.79444,58.37417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vasara"
     ],
@@ -42,7 +46,6 @@
     ],
     "name:und_x_variant":[
         "Vasarak\u00fcla",
-        "Vasara",
         "Vazara"
     ],
     "src:geom":"geonames",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1226006537,
-    "wof:lastmodified":1564207001,
+    "wof:lastmodified":1566585582,
     "wof:name":"Vasara",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",

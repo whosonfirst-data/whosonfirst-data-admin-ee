@@ -9,15 +9,18 @@
     "geom:bbox":"22.95222,58.865,22.95222,58.865",
     "geom:latitude":58.865,
     "geom:longitude":22.95222,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":316,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":316,
     "iso:country":"EE",
+    "lbl:bbox":"22.93222,58.845,22.97222,58.885",
     "lbl:latitude":58.865,
     "lbl:longitude":22.95222,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Suurem\u00f5isa"
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0443\u0440\u0435\u043c\u0438\u0439\u0437\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Suur Asundus"
     ],
     "name:vol_x_preferred":[
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":550120,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1126045069,
-    "wof:lastmodified":1564206633,
+    "wof:lastmodified":1566585318,
     "wof:name":"Suurem\u00f5isa",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",

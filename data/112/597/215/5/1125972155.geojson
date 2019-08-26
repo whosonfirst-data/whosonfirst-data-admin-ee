@@ -9,15 +9,18 @@
     "geom:bbox":"24.41083,59.42944,24.41083,59.42944",
     "geom:latitude":59.42944,
     "geom:longitude":24.41083,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":101,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":101,
     "iso:country":"EE",
+    "lbl:bbox":"24.39083,59.40944,24.43083,59.44944",
     "lbl:latitude":59.42944,
     "lbl:longitude":24.41083,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0438\u043a\u0432\u0430"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Liikva"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liykva"
     ],
     "name:vol_x_preferred":[
@@ -75,7 +78,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":843649,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125972155,
-    "wof:lastmodified":1563234514,
+    "wof:lastmodified":1566585354,
     "wof:name":"Liikva",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

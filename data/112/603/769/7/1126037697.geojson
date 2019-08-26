@@ -9,15 +9,18 @@
     "geom:bbox":"26.08361,58.43194,26.08361,58.43194",
     "geom:latitude":58.43194,
     "geom:longitude":26.08361,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":134,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":134,
     "iso:country":"EE",
+    "lbl:bbox":"26.06361,58.41194,26.10361,58.45194",
     "lbl:latitude":58.43194,
     "lbl:longitude":26.08361,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041c\u0435\u043b\u0435\u0441\u043a\u0438"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043b\u0435\u0441\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Meleski Vabrik"
     ],
     "name:vol_x_preferred":[
@@ -77,7 +80,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":843981,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1126037697,
-    "wof:lastmodified":1563234423,
+    "wof:lastmodified":1566585325,
     "wof:name":"Meleski",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",

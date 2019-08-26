@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"21.9525,58.41778,21.9925,58.45778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "K\u00f5ruse"
     ],
@@ -47,8 +51,7 @@
         "K\u00f5ruse"
     ],
     "name:und_x_variant":[
-        "Kyruse",
-        "K\u00f5ruse"
+        "Kyruse"
     ],
     "name:vol_x_preferred":[
         "K\u00f5ruse"
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1226216345,
-    "wof:lastmodified":1564206906,
+    "wof:lastmodified":1566585525,
     "wof:name":"Koruse",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",

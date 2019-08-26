@@ -9,15 +9,17 @@
     "geom:bbox":"27.63333,57.98306,27.63333,57.98306",
     "geom:latitude":57.98306,
     "geom:longitude":27.63333,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":107,
+    "gn:country":"EE",
+    "gn:fcode":"PPLX",
     "gn:population":107,
     "iso:country":"EE",
+    "lbl:bbox":"27.62833,57.97806,27.63833,57.98806",
     "lbl:latitude":57.98306,
     "lbl:longitude":27.63333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "V\u00e4ike-R\u00f5sna"
@@ -46,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u044f\u0439\u043a\u0435-\u0420\u0438\u0441\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vyayke Rysna"
     ],
     "name:vol_x_preferred":[
@@ -64,7 +66,7 @@
     "qs_pg:qs_id":81099,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1126104483,
-    "wof:lastmodified":1564206627,
+    "wof:lastmodified":1566585309,
     "wof:name":"V\u00e4ike-R\u00f5sna",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

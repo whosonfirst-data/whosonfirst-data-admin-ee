@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"27.61306,57.94306,27.65306,57.98306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "M\u00e4\u00e4sovitsa"
     ],
@@ -44,9 +48,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u044f\u044f\u0441\u043e\u0432\u0456\u0446\u0430"
-    ],
-    "name:und_x_variant":[
-        "M\u00e4\u00e4sovitsa"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0633\u0648\u0648\u06cc\u0679\u0633\u0627"
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1277154157,
-    "wof:lastmodified":1564206198,
+    "wof:lastmodified":1566585012,
     "wof:name":"Maeaesovitsa",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",

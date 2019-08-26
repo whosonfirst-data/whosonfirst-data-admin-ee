@@ -9,15 +9,18 @@
     "geom:bbox":"27.63806,57.95806,27.63806,57.95806",
     "geom:latitude":57.95806,
     "geom:longitude":27.63806,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":563,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":563,
     "iso:country":"EE",
+    "lbl:bbox":"27.61806,57.93806,27.65806,57.97806",
     "lbl:latitude":57.95806,
     "lbl:longitude":27.63806,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "V\u00e4rska"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u044f\u0440\u0441\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verhulitsa"
     ],
     "name:vol_x_preferred":[
@@ -83,7 +86,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":29398876,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125854817,
-    "wof:lastmodified":1564206674,
+    "wof:lastmodified":1566585381,
     "wof:name":"V\u00e4rska",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",

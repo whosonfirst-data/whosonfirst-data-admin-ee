@@ -9,15 +9,18 @@
     "geom:bbox":"24.27361,58.76972,24.27361,58.76972",
     "geom:latitude":58.76972,
     "geom:longitude":24.27361,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":572,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":572,
     "iso:country":"EE",
+    "lbl:bbox":"24.25361,58.74972,24.29361,58.78972",
     "lbl:latitude":58.76972,
     "lbl:longitude":24.27361,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Vana-Vigala"
@@ -193,7 +196,7 @@
     "name:tur_x_preferred":[
         "Vana-Vigala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vigala Vana"
     ],
     "name:vec_x_preferred":[
@@ -225,7 +228,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":846266,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -255,7 +258,7 @@
         }
     ],
     "wof:id":1125957475,
-    "wof:lastmodified":1563234359,
+    "wof:lastmodified":1566585301,
     "wof:name":"Vana Vigala",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",

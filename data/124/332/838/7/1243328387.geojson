@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"25.56472,58.4225,25.60472,58.4625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "V\u00f5istre"
     ],
@@ -47,8 +51,7 @@
         "\u0412\u0438\u0439\u0441\u0442\u0440\u0435"
     ],
     "name:und_x_variant":[
-        "Vyistre",
-        "V\u00f5istre"
+        "Vyistre"
     ],
     "name:vol_x_preferred":[
         "V\u00f5istre"
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1243328387,
-    "wof:lastmodified":1564206757,
+    "wof:lastmodified":1566585433,
     "wof:name":"Voistre",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"EE",
     "lbl:latitude":59.358017,
     "lbl:longitude":27.048227,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":59.358017,
     "mps:longitude":27.048227,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "P\u00fcssi"
     ],
@@ -116,16 +119,10 @@
     "name:tat_x_preferred":[
         "\u041f\u04af\u0441\u0441\u0438"
     ],
-    "name:und_x_preferred":[
-        "P\u00fcssi"
-    ],
     "name:und_x_variant":[
         "Neu-Isenhof",
         "Puessi",
         "Pyussi"
-    ],
-    "name:unk_x_variant":[
-        "Neu-Isenhof"
     ],
     "name:vol_x_preferred":[
         "P\u00fcssi"
@@ -149,7 +146,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":59.360278,
     "wd:longitude":27.049167,
@@ -165,7 +162,6 @@
         "fct:id":"07eb77a2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":589253,
         "gp:id":844936,
-        "qs:id":234514,
         "qs_pg:id":234514,
         "wd:id":"Q172263",
         "wk:page":"P\u00fcssi"
@@ -184,7 +180,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234216,
+    "wof:lastmodified":1566585239,
     "wof:name":"P\u00fcssi",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",

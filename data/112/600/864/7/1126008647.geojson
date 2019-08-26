@@ -9,15 +9,18 @@
     "geom:bbox":"25.69306,59.62306,25.69306,59.62306",
     "geom:latitude":59.62306,
     "geom:longitude":25.69306,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":174,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":174,
     "iso:country":"EE",
+    "lbl:bbox":"25.67306,59.60306,25.71306,59.64306",
     "lbl:latitude":59.62306,
     "lbl:longitude":25.69306,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0443\u0440\u043f\u0435\u0430"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Suurpea"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Surpe"
     ],
     "name:vol_x_preferred":[
@@ -77,7 +80,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":845681,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1126008647,
-    "wof:lastmodified":1563234568,
+    "wof:lastmodified":1566585372,
     "wof:name":"Suurpea",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

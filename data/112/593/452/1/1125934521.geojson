@@ -9,15 +9,18 @@
     "geom:bbox":"23.23639,58.49,23.23639,58.49",
     "geom:latitude":58.49,
     "geom:longitude":23.23639,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":97,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":97,
     "iso:country":"EE",
+    "lbl:bbox":"23.21639,58.47,23.25639,58.51",
     "lbl:latitude":58.49,
     "lbl:longitude":23.23639,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "K\u00f5rkvere"
@@ -43,7 +46,7 @@
     "name:spa_x_preferred":[
         "K\u00f5rkvere"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kyrkvere"
     ],
     "name:vol_x_preferred":[
@@ -66,7 +69,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":843229,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125934521,
-    "wof:lastmodified":1563234304,
+    "wof:lastmodified":1566585281,
     "wof:name":"K\u00f5rkvere",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",

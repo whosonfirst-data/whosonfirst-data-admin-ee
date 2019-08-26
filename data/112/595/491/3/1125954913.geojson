@@ -9,15 +9,18 @@
     "geom:bbox":"27.42917,59.0125,27.42917,59.0125",
     "geom:latitude":59.0125,
     "geom:longitude":27.42917,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":136,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":136,
     "iso:country":"EE",
+    "lbl:bbox":"27.40917,58.9925,27.44917,59.0325",
     "lbl:latitude":59.0125,
     "lbl:longitude":27.42917,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Alaj\u00f5e"
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Alaj\u00f5e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alayye"
     ],
     "name:vol_x_preferred":[
@@ -66,7 +69,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":841876,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125954913,
-    "wof:lastmodified":1564206622,
+    "wof:lastmodified":1566585299,
     "wof:name":"Alaj\u00f5e",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",

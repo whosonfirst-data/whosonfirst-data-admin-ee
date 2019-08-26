@@ -9,15 +9,18 @@
     "geom:bbox":"26.25361,57.86889,26.25361,57.86889",
     "geom:latitude":57.86889,
     "geom:longitude":26.25361,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":267,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":267,
     "iso:country":"EE",
+    "lbl:bbox":"26.23361,57.84889,26.27361,57.88889",
     "lbl:latitude":57.86889,
     "lbl:longitude":26.25361,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0430\u0442\u0440\u0435"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0430\u0442\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Latre"
     ],
     "name:urd_x_preferred":[
@@ -81,7 +84,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":843458,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125955645,
-    "wof:lastmodified":1563234363,
+    "wof:lastmodified":1566585302,
     "wof:name":"Laatre",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",

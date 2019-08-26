@@ -13,10 +13,13 @@
     "iso:country":"EE",
     "lbl:latitude":59.341327,
     "lbl:longitude":26.140374,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.341327,
     "mps:longitude":26.140374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0434\u0440\u044b\u043d\u0430"
     ],
@@ -65,9 +68,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0434\u0440\u0456\u043d\u0430"
     ],
-    "name:und_x_preferred":[
-        "Kadrina"
-    ],
     "name:und_x_variant":[
         "Katharinen",
         "Katrinen'",
@@ -76,9 +76,6 @@
         "Skt.-Katharinen",
         "St-Katharinen",
         "St.-Katharinen"
-    ],
-    "name:unk_x_variant":[
-        "Sankt-Katharinen"
     ],
     "name:vol_x_preferred":[
         "Kadrina"
@@ -102,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":59.341667,
     "wd:longitude":26.130833,
@@ -118,7 +115,6 @@
         "fct:id":"07ebc68a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":591783,
         "gp:id":842581,
-        "qs:id":125908,
         "qs_pg:id":125908,
         "wd:id":"Q3043378",
         "wk:page":"Kadrina"
@@ -137,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234246,
+    "wof:lastmodified":1566585247,
     "wof:name":"Kadrina",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"EE",
     "lbl:latitude":59.419902,
     "lbl:longitude":27.513652,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":59.419902,
     "mps:longitude":27.513652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "P\u00fchaj\u00f5e"
     ],
@@ -44,7 +47,7 @@
     "name:spa_x_preferred":[
         "P\u00fchaj\u00f5e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pyukhaiyye"
     ],
     "name:vol_x_preferred":[
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":59.4125,
     "wd:longitude":27.540278,
@@ -81,10 +84,12 @@
     "wof:concordances":{
         "gn:id":589318,
         "gp:id":844885,
-        "qs:id":550134,
-        "qs_pg:id":1086712,
+        "qs_pg:id":550134,
         "wd:id":"Q179358",
         "wk:page":"P\u00fchaj\u00f5e"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1086712
     },
     "wof:country":"EE",
     "wof:geomhash":"7378d0646cd9a13850a6dfc2a629e353",
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":101912987,
-    "wof:lastmodified":1563234193,
+    "wof:lastmodified":1566585234,
     "wof:name":"P\u00fchaj\u00f5e",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",

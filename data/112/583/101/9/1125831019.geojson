@@ -9,15 +9,18 @@
     "geom:bbox":"26.55333,59.21722,26.55333,59.21722",
     "geom:latitude":59.21722,
     "geom:longitude":26.55333,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":107,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":107,
     "iso:country":"EE",
+    "lbl:bbox":"26.53333,59.19722,26.57333,59.23722",
     "lbl:latitude":59.21722,
     "lbl:longitude":26.55333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Myza Kyuti"
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "K\u00fcti"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00fcti Asundus"
     ],
     "name:vol_x_preferred":[
@@ -61,7 +64,7 @@
     "qs_pg:qs_id":81110,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125831019,
-    "wof:lastmodified":1563234619,
+    "wof:lastmodified":1566585388,
     "wof:name":"Myza Kyuti",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",

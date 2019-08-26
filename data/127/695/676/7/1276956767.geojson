@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"24.78667,58.65278,24.82667,58.69278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Sohlu"
     ],
@@ -41,8 +45,7 @@
     ],
     "name:und_x_variant":[
         "Kaysma-Sokhlu",
-        "Kaisma-Sohlu",
-        "Sohlu"
+        "Kaisma-Sohlu"
     ],
     "name:vol_x_preferred":[
         "Sohlu"
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1276956767,
-    "wof:lastmodified":1564206192,
+    "wof:lastmodified":1566585008,
     "wof:name":"Sohlu",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

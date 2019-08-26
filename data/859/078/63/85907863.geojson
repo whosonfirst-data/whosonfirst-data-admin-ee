@@ -13,6 +13,7 @@
     "iso:country":"EE",
     "lbl:latitude":59.427145,
     "lbl:longitude":24.777081,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.414449,
     "mps:longitude":24.779168,
     "mz:hierarchy_label":1,
@@ -57,12 +58,6 @@
     "name:swe_x_preferred":[
         "Juhkentali"
     ],
-    "name:und_x_preferred":[
-        "Juhkentali"
-    ],
-    "name:unk_x_variant":[
-        "Juhkentali"
-    ],
     "qs:gn_adm0_cc":"EE",
     "qs:gn_id":0,
     "qs:gn_local":588409,
@@ -88,7 +83,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":59.4251,
     "wd:longitude":24.7695,
     "wd:wordcount":148,
@@ -99,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23701396,
-        "qs:id":891827,
+        "qs_pg:id":891827,
         "wd:id":"Q59957"
     },
     "wof:country":"EE",
@@ -115,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563233723,
+    "wof:lastmodified":1566584897,
     "wof:name":"Juhkentali",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"24.19417,58.94583,24.23417,58.98583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Sooniste"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Myza Soniste",
-        "Sooniste Asundus",
-        "Sooniste"
+        "Sooniste Asundus"
     ],
     "name:vol_x_preferred":[
         "Sooniste"
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1276739411,
-    "wof:lastmodified":1564206168,
+    "wof:lastmodified":1566584994,
     "wof:name":"Sooniste",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",

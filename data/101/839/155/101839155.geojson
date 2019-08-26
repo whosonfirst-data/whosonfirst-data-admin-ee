@@ -13,10 +13,13 @@
     "iso:country":"EE",
     "lbl:latitude":59.362511,
     "lbl:longitude":26.402993,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.362511,
     "mps:longitude":26.402993,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "S\u00f5meru"
     ],
@@ -56,9 +59,6 @@
     "name:swe_x_preferred":[
         "S\u00f5meru"
     ],
-    "name:und_x_preferred":[
-        "S\u00f5meru"
-    ],
     "name:vol_x_preferred":[
         "S\u00f5meru"
     ],
@@ -81,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":72,
     "wof:belongsto":[
@@ -94,7 +94,6 @@
         "fct:id":"07eba3b2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":793457,
         "gp:id":845554,
-        "qs:id":180013,
         "qs_pg:id":180013,
         "wd:id":"Q3462156",
         "wk:page":"S\u00f5meru"
@@ -113,7 +112,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234250,
+    "wof:lastmodified":1566585249,
     "wof:name":"S\u00f5meru",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",

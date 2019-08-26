@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"24.29333,58.87194,24.33333,58.91194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "M\u00f5raste"
     ],
@@ -47,8 +51,7 @@
         "M\u00f5raste"
     ],
     "name:und_x_variant":[
-        "Myraste",
-        "M\u00f5raste"
+        "Myraste"
     ],
     "name:vol_x_preferred":[
         "M\u00f5raste"
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1293760055,
-    "wof:lastmodified":1564206073,
+    "wof:lastmodified":1566584937,
     "wof:name":"Moraste",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",

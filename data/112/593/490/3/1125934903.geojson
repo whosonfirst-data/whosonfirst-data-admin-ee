@@ -9,15 +9,18 @@
     "geom:bbox":"26.98139,58.32889,26.98139,58.32889",
     "geom:latitude":58.32889,
     "geom:longitude":26.98139,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":484,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":484,
     "iso:country":"EE",
+    "lbl:bbox":"26.96139,58.30889,27.00139,58.34889",
     "lbl:latitude":58.32889,
     "lbl:longitude":26.98139,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041c\u0435\u043b\u0438\u0441\u0442\u0435"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043b\u043b\u0456\u0441\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Meliste"
     ],
     "name:vol_x_preferred":[
@@ -75,7 +78,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":843982,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125934903,
-    "wof:lastmodified":1563234303,
+    "wof:lastmodified":1566585281,
     "wof:name":"Melliste",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"25.8025,59.55944,25.8025,59.55944",
     "geom:latitude":59.55944,
     "geom:longitude":25.8025,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":235,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":235,
     "iso:country":"EE",
+    "lbl:bbox":"25.7825,59.53944,25.8225,59.57944",
     "lbl:latitude":59.55944,
     "lbl:longitude":25.8025,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0412\u0438\u0445\u0430\u0441\u043e"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Vihasoo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vikhaso"
     ],
     "name:vol_x_preferred":[
@@ -77,7 +80,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":846419,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1126017817,
-    "wof:lastmodified":1563234543,
+    "wof:lastmodified":1566585364,
     "wof:name":"Vihasoo",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

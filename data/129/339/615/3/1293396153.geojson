@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"25.44583,58.77667,25.48583,58.81667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u0440\u0438"
     ],
@@ -74,8 +78,7 @@
     ],
     "name:und_x_variant":[
         "Myza Tori",
-        "Tori Asundus",
-        "Tori"
+        "Tori Asundus"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1293396153,
-    "wof:lastmodified":1564206048,
+    "wof:lastmodified":1566584923,
     "wof:name":"Tori",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",

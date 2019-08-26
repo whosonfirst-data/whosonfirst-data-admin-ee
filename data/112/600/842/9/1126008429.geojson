@@ -9,15 +9,18 @@
     "geom:bbox":"25.96361,58.08167,25.96361,58.08167",
     "geom:latitude":58.08167,
     "geom:longitude":25.96361,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":134,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":134,
     "iso:country":"EE",
+    "lbl:bbox":"25.94361,58.06167,25.98361,58.10167",
     "lbl:latitude":58.08167,
     "lbl:longitude":25.96361,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0435\u0431\u0438\u043a\u0443"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0435\u0431\u0456\u043a\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Lebiku"
     ],
     "name:vol_x_preferred":[
@@ -74,7 +77,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":843557,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1126008429,
-    "wof:lastmodified":1563234548,
+    "wof:lastmodified":1566585366,
     "wof:name":"Leebiku",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
