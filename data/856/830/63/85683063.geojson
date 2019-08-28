@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":58.016215,
     "lbl:longitude":27.660825,
+    "lbl:min_zoom":8.0,
     "mps:latitude":58.016215,
     "mps:longitude":27.660825,
     "mz:hierarchy_label":1,
@@ -46,9 +47,6 @@
         "\u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u041e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "name:swe_x_preferred":[
-        "Pskov"
-    ],
-    "name:unk_x_variant":[
         "Pskov"
     ],
     "ne:abbrev":"",
@@ -123,10 +121,10 @@
     "reversegeo:longitude":27.658302,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
-    "src:reversegeo:centroid":"mz",
+    "src:population_date":"2010-10-14",
+    "src:reversegeo_centroid":"mz",
     "statoids:area_km":"55,300",
     "statoids:area_mi":"21,400",
     "statoids:as_of_date":"2010-10-14",
@@ -169,11 +167,10 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1553550712,
+    "wof:lastmodified":1566584909,
     "wof:name":"Peipsi j\u00e4rv",
     "wof:parent_id":-1,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":673423,
     "wof:population_rank":11,

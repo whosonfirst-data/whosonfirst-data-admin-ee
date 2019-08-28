@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"23.53167,58.815,23.57167,58.855",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Allika"
     ],
@@ -46,8 +50,7 @@
         "\u0410\u043b\u043b\u0456\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Alliku",
-        "Allika"
+        "Alliku"
     ],
     "name:vol_x_preferred":[
         "Allika"
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1309709183,
-    "wof:lastmodified":1564206581,
+    "wof:lastmodified":1566585256,
     "wof:name":"Allika",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",

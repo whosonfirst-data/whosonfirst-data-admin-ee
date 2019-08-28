@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"24.30361,59.28722,24.34361,59.32722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Niitv\u00e4lja"
     ],
@@ -47,9 +51,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0456\u0439\u0442\u0432\u044f\u043b\u044c\u044f"
-    ],
-    "name:und_x_variant":[
-        "Niitv\u00e4lja"
     ],
     "name:vol_x_preferred":[
         "Niitv\u00e4lja"
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1310219261,
-    "wof:lastmodified":1564206512,
+    "wof:lastmodified":1566585197,
     "wof:name":"Niitvaelja",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

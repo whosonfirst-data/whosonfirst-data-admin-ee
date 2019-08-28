@@ -13,6 +13,8 @@
     "iso:country":"EE",
     "lbl:latitude":59.398705,
     "lbl:longitude":27.247722,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.398705,
     "mps:longitude":27.247722,
     "mz:hierarchy_label":1,
@@ -188,18 +190,13 @@
         "Tuerpsal",
         "Turpsal"
     ],
-    "name:und_x_preferred":[
-        "Kohtla-J\u00e4rve"
-    ],
     "name:und_x_variant":[
         "Kochtel",
         "Kokhtla",
         "Kokhtla-Yarve",
         "Kotayarvi",
         "Tyurpsal'",
-        "T\u00fcrpsal"
-    ],
-    "name:unk_x_variant":[
+        "T\u00fcrpsal",
         "Tyurpsal\u2019"
     ],
     "name:vep_x_preferred":[
@@ -322,7 +319,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":59.4,
     "wd:longitude":27.283333,
@@ -338,7 +335,6 @@
         "fct:id":"07e8333a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":591260,
         "gp:id":843078,
-        "qs:id":940378,
         "qs_pg:id":940378,
         "wd:id":"Q201391",
         "wk:page":"Kohtla-J\u00e4rve"
@@ -357,7 +353,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234194,
+    "wof:lastmodified":1566585234,
     "wof:name":"Kohtla-J\u00e4rve",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",

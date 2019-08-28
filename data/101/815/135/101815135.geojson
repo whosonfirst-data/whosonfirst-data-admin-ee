@@ -13,10 +13,13 @@
     "iso:country":"EE",
     "lbl:latitude":58.886172,
     "lbl:longitude":25.560616,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.886172,
     "mps:longitude":25.560616,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u062f\u0647"
     ],
@@ -176,19 +179,12 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0439\u0434\u0435"
     ],
-    "name:und_x_preferred":[
-        "Paide"
-    ],
     "name:und_x_variant":[
         "Paide vald",
         "Payde",
         "Veisenshtein",
         "Veisenshteyn",
-        "Veysenshteyn",
-        "Weissenstein"
-    ],
-    "name:unk_x_variant":[
-        "Payde"
+        "Veysenshteyn"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u06cc\u062f\u06d2"
@@ -218,7 +214,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":58.883333,
     "wd:longitude":25.566667,
@@ -235,7 +231,6 @@
         "gn:id":589709,
         "gp:id":844516,
         "loc:id":"n90667804",
-        "qs:id":313651,
         "qs_pg:id":313651,
         "wd:id":"Q45114",
         "wk:page":"Paide"
@@ -254,7 +249,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234205,
+    "wof:lastmodified":1566585236,
     "wof:name":"Paide",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",

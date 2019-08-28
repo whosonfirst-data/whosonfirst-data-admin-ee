@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"22.35142,58.87982,22.39142,58.91982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tammistu"
     ],
@@ -45,8 +49,7 @@
     "name:und_x_variant":[
         "Tammiste K\u00fcla",
         "Tumista",
-        "Tammiste",
-        "Tammistu"
+        "Tammiste"
     ],
     "name:vol_x_preferred":[
         "Tammistu"
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1259882905,
-    "wof:lastmodified":1564206882,
+    "wof:lastmodified":1566585509,
     "wof:name":"Tammistu",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",

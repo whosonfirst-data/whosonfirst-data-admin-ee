@@ -9,15 +9,18 @@
     "geom:bbox":"24.46801,58.87143,24.46801,58.87143",
     "geom:latitude":58.87143,
     "geom:longitude":24.46801,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":102,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":102,
     "iso:country":"EE",
+    "lbl:bbox":"24.44801,58.85143,24.48801,58.89143",
     "lbl:latitude":58.87143,
     "lbl:longitude":24.46801,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0425\u0430\u0438\u043c\u0440\u0435"
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Haimre"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Khaymre"
     ],
     "name:vol_x_preferred":[
@@ -88,7 +91,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":842181,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1125959145,
-    "wof:lastmodified":1563234362,
+    "wof:lastmodified":1566585302,
     "wof:name":"Haimre",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",

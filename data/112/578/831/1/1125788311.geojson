@@ -9,15 +9,18 @@
     "geom:bbox":"24.48306,58.65889,24.48306,58.65889",
     "geom:latitude":58.65889,
     "geom:longitude":24.48306,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":488,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":488,
     "iso:country":"EE",
+    "lbl:bbox":"24.46306,58.63889,24.50306,58.67889",
     "lbl:latitude":58.65889,
     "lbl:longitude":24.48306,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0438\u0431\u0430\u0446\u0435"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Libatse"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Libatse"
     ],
     "name:vol_x_preferred":[
@@ -79,7 +82,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":843634,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125788311,
-    "wof:lastmodified":1563234606,
+    "wof:lastmodified":1566585384,
     "wof:name":"Libatse",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

@@ -14,6 +14,7 @@
     "iso:country":"EE",
     "lbl:latitude":59.449612,
     "lbl:longitude":24.738042,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.453173,
     "mps:longitude":24.735224,
     "mz:hierarchy_label":1,
@@ -61,12 +62,6 @@
     "name:swe_x_preferred":[
         "Kalamaja"
     ],
-    "name:und_x_preferred":[
-        "Kalamaja"
-    ],
-    "name:unk_x_variant":[
-        "Kalamaja"
-    ],
     "qs:gn_adm0_cc":"EE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":588409,
@@ -93,9 +88,8 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":513,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85633135,
         101748153
@@ -104,7 +98,7 @@
     "wof:concordances":{
         "gn:id":6698303,
         "gp:id":23701386,
-        "qs:id":212422,
+        "qs_pg:id":212422,
         "wd:id":"Q337759",
         "wk:page":"Kalamaja"
     },
@@ -124,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563233723,
+    "wof:lastmodified":1566584897,
     "wof:name":"Kalamaja",
     "wof:parent_id":101748153,
     "wof:placetype":"neighbourhood",

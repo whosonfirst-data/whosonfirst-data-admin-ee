@@ -9,14 +9,18 @@
     "geom:bbox":"25.8625,59.53111,25.8625,59.53111",
     "geom:latitude":59.53111,
     "geom:longitude":25.8625,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"EE",
+    "lbl:bbox":"25.8425,59.51111,25.8825,59.55111",
     "lbl:latitude":59.53111,
     "lbl:longitude":25.8625,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aze_x_preferred":[
         "V\u0131hma"
@@ -105,7 +109,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0433\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vykhma"
     ],
     "name:vol_x_preferred":[
@@ -135,7 +139,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":846535,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":1125962933,
-    "wof:lastmodified":1564206653,
+    "wof:lastmodified":1566585356,
     "wof:name":"V\u00f5hma",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"26.32944,58.23944,26.36944,58.27944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "M\u00e4lgi"
     ],
@@ -44,9 +48,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u044f\u043b\u0491\u0456"
-    ],
-    "name:und_x_variant":[
-        "M\u00e4lgi"
     ],
     "name:vol_x_preferred":[
         "M\u00e4lgi"
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1209280667,
-    "wof:lastmodified":1564206360,
+    "wof:lastmodified":1566585105,
     "wof:name":"Maelgi",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",

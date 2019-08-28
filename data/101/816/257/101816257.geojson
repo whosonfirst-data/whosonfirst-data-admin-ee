@@ -13,10 +13,13 @@
     "iso:country":"EE",
     "lbl:latitude":57.843318,
     "lbl:longitude":27.009029,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.843318,
     "mps:longitude":27.009029,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:aze_x_preferred":[
         "V\u0131ru"
     ],
@@ -181,20 +184,9 @@
         "Woeru",
         "Woru"
     ],
-    "name:und_x_preferred":[
-        "Vyru",
-        "V\u00f5ru"
-    ],
     "name:und_x_variant":[
-        "Verava",
-        "Veri",
+        "Vyru",
         "Verro",
-        "Veru",
-        "V\u00f5ru vald",
-        "Werro",
-        "W\u00f6ru"
-    ],
-    "name:unk_x_variant":[
         "W\u00f6ru"
     ],
     "name:urd_x_preferred":[
@@ -225,7 +217,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":57.848611,
     "wd:longitude":26.992778,
@@ -241,7 +233,6 @@
         "fct:id":"07ebc2b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":587450,
         "gp:id":846598,
-        "qs:id":313742,
         "qs_pg:id":313742,
         "wd:id":"Q205271",
         "wk:page":"V\u00f5ru"
@@ -260,7 +251,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234185,
+    "wof:lastmodified":1566585232,
     "wof:name":"V\u00f5ru",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",

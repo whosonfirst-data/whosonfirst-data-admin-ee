@@ -9,17 +9,19 @@
     "geom:bbox":"24.4891570717,58.6024585054,24.5238467369,58.6162839344",
     "geom:latitude":58.610131,
     "geom:longitude":24.505382,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1341,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":1341,
     "iso:country":"EE",
     "lbl:latitude":58.608241,
     "lbl:longitude":24.503674,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.608241,
     "mps:longitude":24.503674,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "P\u00e4rnu-Jaagupi"
     ],
@@ -62,7 +64,7 @@
     "name:swe_x_preferred":[
         "P\u00e4rnu-Jaagupi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jakobi"
     ],
     "name:vol_x_preferred":[
@@ -103,7 +105,7 @@
     "qs_pg:woe_id":844635,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":58.611111,
     "wd:longitude":24.503333,
@@ -118,7 +120,6 @@
     "wof:concordances":{
         "gn:id":589578,
         "gp:id":844635,
-        "qs:id":125895,
         "qs_pg:id":125895,
         "wd:id":"Q3477447",
         "wk:page":"P\u00e4rnu-Jaagupi"
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":101815073,
-    "wof:lastmodified":1563234233,
+    "wof:lastmodified":1566585244,
     "wof:name":"P\u00e4rnu-Jaagupi",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

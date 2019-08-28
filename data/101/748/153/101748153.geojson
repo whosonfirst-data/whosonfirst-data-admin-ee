@@ -13,6 +13,8 @@
     "iso:country":"EE",
     "lbl:latitude":59.401347,
     "lbl:longitude":24.693912,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":59.401347,
     "mps:longitude":24.693912,
     "mz:hierarchy_label":1,
@@ -579,24 +581,10 @@
         "Raaveli",
         "Raeaeveli"
     ],
-    "name:und_x_preferred":[
-        "Castrum Danorum",
-        "Tallinn",
-        "\u0e17\u0e32\u0e25\u0e25\u0e34\u0e19\u0e19\u0e4c"
-    ],
     "name:und_x_variant":[
         "Kallinn",
         "Kolyvan",
-        "Reval",
-        "Revel'",
-        "R\u00e4\u00e4veli",
-        "Talin",
-        "Talinas",
-        "Tallina",
-        "Tallinna"
-    ],
-    "name:unk_x_variant":[
-        "Kolyvan"
+        "Revel'"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0644\u06cc\u0646"
@@ -752,7 +740,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":5861,
     "wof:belongsto":[
@@ -769,7 +757,7 @@
         "gn:id":588409,
         "gp:id":845743,
         "nyt:id":"N25406082566127510731",
-        "qs:id":241086,
+        "qs_pg:id":241086,
         "wd:id":"Q1770",
         "wk:page":"Tallinn"
     },
@@ -787,7 +775,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234198,
+    "wof:lastmodified":1566585235,
     "wof:megacity":0,
     "wof:name":"Tallinn",
     "wof:parent_id":85683055,

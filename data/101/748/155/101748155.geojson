@@ -13,6 +13,8 @@
     "iso:country":"EE",
     "lbl:latitude":59.373162,
     "lbl:longitude":28.177214,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":59.373162,
     "mps:longitude":28.177214,
     "mz:hierarchy_label":1,
@@ -252,15 +254,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0440\u0432\u0430"
     ],
-    "name:und_x_preferred":[
-        "Narva"
-    ],
-    "name:und_x_variant":[
-        "Narwa"
-    ],
-    "name:unk_x_variant":[
-        "Narwa"
-    ],
     "name:uzb_x_preferred":[
         "Narva"
     ],
@@ -390,7 +383,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":85.0,
     "wd:elevation":25.0,
@@ -408,10 +401,12 @@
         "fct:id":"07eb944e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":590031,
         "gp:id":844210,
-        "qs:id":275106,
-        "qs_pg:id":1086552,
+        "qs_pg:id":275106,
         "wd:id":"Q102158",
         "wk:page":"Narva"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1086552
     },
     "wof:country":"EE",
     "wof:geomhash":"fc69dfdcc206e74fb8bdbf36beb34a11",
@@ -427,7 +422,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234200,
+    "wof:lastmodified":1566585235,
     "wof:name":"Narva",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",

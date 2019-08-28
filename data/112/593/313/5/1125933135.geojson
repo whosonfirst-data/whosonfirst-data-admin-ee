@@ -9,15 +9,18 @@
     "geom:bbox":"25.70361,58.27333,25.70361,58.27333",
     "geom:latitude":58.27333,
     "geom:longitude":25.70361,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":213,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":213,
     "iso:country":"EE",
+    "lbl:bbox":"25.68361,58.25333,25.72361,58.29333",
     "lbl:latitude":58.27333,
     "lbl:longitude":25.70361,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0425\u043e\u043b\u0441\u0442\u0440\u0435"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043b\u0441\u0442\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Kholstre"
     ],
     "name:vol_x_preferred":[
@@ -78,7 +81,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":842278,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1125933135,
-    "wof:lastmodified":1563234314,
+    "wof:lastmodified":1566585284,
     "wof:name":"Holstre",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",

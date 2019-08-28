@@ -9,15 +9,17 @@
     "geom:bbox":"23.55,58.81667,23.55,58.81667",
     "geom:latitude":58.81667,
     "geom:longitude":23.55,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":290,
+    "gn:country":"EE",
+    "gn:fcode":"PPLX",
     "gn:population":290,
     "iso:country":"EE",
+    "lbl:bbox":"23.545,58.81167,23.555,58.82167",
     "lbl:latitude":58.81667,
     "lbl:longitude":23.55,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Panga"
@@ -73,7 +75,7 @@
     "qs_pg:qs_id":550137,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":1126105607,
-    "wof:lastmodified":1564206625,
+    "wof:lastmodified":1566585307,
     "wof:name":"Panga",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

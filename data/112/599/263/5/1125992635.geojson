@@ -9,15 +9,18 @@
     "geom:bbox":"25.30556,59.37861,25.30556,59.37861",
     "geom:latitude":59.37861,
     "geom:longitude":25.30556,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":123,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":123,
     "iso:country":"EE",
+    "lbl:bbox":"25.28556,59.35861,25.32556,59.39861",
     "lbl:latitude":59.37861,
     "lbl:longitude":25.30556,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Annia"
@@ -58,9 +61,6 @@
     "name:ukr_x_variant":[
         "\u0410\u043d\u0456\u044f\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "Anija"
-    ],
     "name:vol_x_preferred":[
         "Anijala"
     ],
@@ -81,7 +81,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":841951,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":1125992635,
-    "wof:lastmodified":1564206649,
+    "wof:lastmodified":1566585349,
     "wof:name":"Anijala",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

@@ -9,17 +9,19 @@
     "geom:bbox":"24.6044571785,58.362260536,24.6392777755,58.3911676371",
     "geom:latitude":58.377532,
     "geom:longitude":24.621939,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1996,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":1996,
     "iso:country":"EE",
     "lbl:latitude":58.378795,
     "lbl:longitude":24.619301,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.378795,
     "mps:longitude":24.619301,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0438\u043a\u0443\u0441\u0435"
     ],
@@ -49,9 +51,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0439\u043a\u0443\u0437\u0435"
-    ],
-    "name:und_x_preferred":[
-        "Paikuse"
     ],
     "name:vol_x_preferred":[
         "Paikuse"
@@ -91,7 +90,7 @@
     "qs_pg:woe_id":844524,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":49,
     "wof:belongsto":[
@@ -104,7 +103,6 @@
         "fct:id":"07eb6a1e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":589703,
         "gp:id":844524,
-        "qs:id":966833,
         "qs_pg:id":966833,
         "wd:id":"Q2028872"
     },
@@ -122,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234248,
+    "wof:lastmodified":1566585248,
     "wof:name":"Paikuse",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

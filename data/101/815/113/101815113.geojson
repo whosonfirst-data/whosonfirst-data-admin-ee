@@ -9,15 +9,18 @@
     "geom:bbox":"26.5848101233,58.5435775205,26.6103156784,58.5568082419",
     "geom:latitude":58.550201,
     "geom:longitude":26.595769,
-    "geonames:id":"587488,793956",
+    "gn:id":"587488,793956",
     "gn:population":1062,
     "iso:country":"EE",
     "lbl:latitude":58.551596,
     "lbl:longitude":26.594512,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.551596,
     "mps:longitude":26.594512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0422\u0430\u0431\u0456\u0432\u0435\u0440\u044d"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":793956,
         "gp:id":846563,
-        "qs:id":255665,
         "qs_pg:id":255665,
         "wd:id":"Q80193",
         "wk:page":"Tabivere Parish"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101815113,
-    "wof:lastmodified":1563234245,
+    "wof:lastmodified":1566585247,
     "wof:name":"Tabivere",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",

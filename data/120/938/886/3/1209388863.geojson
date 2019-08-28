@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"26.85444,57.72083,26.89444,57.76083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633135
@@ -36,7 +40,7 @@
         "gn:id":8619705
     },
     "wof:country":"EE",
-    "wof:geomhash":"f46bc52b6da725d73adb66d2a819a488",
+    "wof:geomhash":"768b87ac1da77ec86083a71f82e1852c",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209388863,
-    "wof:lastmodified":1536288530,
+    "wof:lastmodified":1566585045,
     "wof:name":"Nitso",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.874440000000003,
+    26.87444,
     57.74083,
-    26.874440000000003,
+    26.87444,
     57.74083
 ],
   "geometry": {"coordinates":[26.87444,57.74083],"type":"Point"}

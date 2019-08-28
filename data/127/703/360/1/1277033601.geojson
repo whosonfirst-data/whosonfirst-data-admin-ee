@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"27.13111,57.745,27.17111,57.785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Holsta"
     ],
@@ -47,8 +51,7 @@
         "\u0425\u043e\u043b\u0441\u0442\u0430"
     ],
     "name:und_x_variant":[
-        "Kholsta",
-        "Holsta"
+        "Kholsta"
     ],
     "name:vol_x_preferred":[
         "Holsta"
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1277033601,
-    "wof:lastmodified":1564206205,
+    "wof:lastmodified":1566585017,
     "wof:name":"Holsta",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",

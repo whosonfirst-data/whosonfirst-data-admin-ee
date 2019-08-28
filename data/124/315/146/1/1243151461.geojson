@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"24.60167,58.80528,24.64167,58.84528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "N\u00e4\u00e4ri"
     ],
@@ -43,9 +47,6 @@
         "N\u00e4\u00e4ri"
     ],
     "name:spa_x_preferred":[
-        "N\u00e4\u00e4ri"
-    ],
-    "name:und_x_variant":[
         "N\u00e4\u00e4ri"
     ],
     "name:vol_x_preferred":[
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1243151461,
-    "wof:lastmodified":1564206740,
+    "wof:lastmodified":1566585424,
     "wof:name":"Nyari",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",

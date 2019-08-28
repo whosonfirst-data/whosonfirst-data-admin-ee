@@ -9,17 +9,19 @@
     "geom:bbox":"24.5979129157,59.3380668871,24.6439139322,59.3648386792",
     "geom:latitude":59.350161,
     "geom:longitude":24.616689,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4135,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":4135,
     "iso:country":"EE",
     "lbl:latitude":59.344151,
     "lbl:longitude":24.618331,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.344151,
     "mps:longitude":24.618331,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0430\u0433\u0440\u0438"
     ],
@@ -68,9 +70,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0430\u0433\u0440\u0456"
     ],
-    "name:und_x_preferred":[
-        "Laagri"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u06af\u0631\u06cc"
     ],
@@ -115,7 +114,7 @@
     "qs_pg:woe_id":843445,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":70,
     "wof:belongsto":[
@@ -128,7 +127,6 @@
         "fct:id":"07ebc022-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":794964,
         "gp:id":843445,
-        "qs:id":491886,
         "qs_pg:id":491886,
         "wd:id":"Q720023",
         "wk:page":"Laagri"
@@ -147,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234183,
+    "wof:lastmodified":1566585232,
     "wof:name":"Laagri",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

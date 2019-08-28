@@ -9,15 +9,18 @@
     "geom:bbox":"26.31667,57.65,26.31667,57.65",
     "geom:latitude":57.65,
     "geom:longitude":26.31667,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":94,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":94,
     "iso:country":"EE",
+    "lbl:bbox":"26.29667,57.63,26.33667,57.67",
     "lbl:latitude":57.65,
     "lbl:longitude":26.31667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Laanemetsa"
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0430\u043d\u0435\u043c\u0435\u0442\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Lanemetsa"
     ],
     "name:urd_x_preferred":[
@@ -77,7 +80,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":843454,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1126003801,
-    "wof:lastmodified":1563234571,
+    "wof:lastmodified":1566585373,
     "wof:name":"Laanemetsa",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",

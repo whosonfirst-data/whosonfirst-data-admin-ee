@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"25.91583,58.79944,25.95583,58.83944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "L\u00e4hevere"
     ],
@@ -44,9 +48,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u044f\u0433\u0435\u0432\u0435\u0440\u0435"
-    ],
-    "name:und_x_variant":[
-        "L\u00e4hevere"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u06c1\u06cc\u0648\u06cc\u0631\u06cc"
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1260309887,
-    "wof:lastmodified":1564206419,
+    "wof:lastmodified":1566585141,
     "wof:name":"Laehevere",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",

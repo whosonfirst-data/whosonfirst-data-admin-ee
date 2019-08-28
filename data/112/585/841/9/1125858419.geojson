@@ -9,15 +9,18 @@
     "geom:bbox":"25.615,58.32833,25.615,58.32833",
     "geom:latitude":58.32833,
     "geom:longitude":25.615,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":176,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":176,
     "iso:country":"EE",
+    "lbl:bbox":"25.595,58.30833,25.635,58.34833",
     "lbl:latitude":58.32833,
     "lbl:longitude":25.615,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Vardja"
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0440\u0434\u044c\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vard\u2019ya"
     ],
     "qs_pg:aaroncc":"EE",
@@ -63,7 +66,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":846320,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125858419,
-    "wof:lastmodified":1564206673,
+    "wof:lastmodified":1566585380,
     "wof:name":"Vardja",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",

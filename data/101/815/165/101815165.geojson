@@ -12,10 +12,13 @@
     "iso:country":"EE",
     "lbl:latitude":59.233315,
     "lbl:longitude":24.204444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.233315,
     "mps:longitude":24.204444,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rummu"
     ],
@@ -66,7 +69,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":88,
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,7 @@
     "wof:concordances":{
         "gn:id":588923,
         "gp:id":845261,
-        "qs:id":1156237,
+        "qs_pg:id":1156237,
         "wd:id":"Q999846",
         "wk:page":"Rummu"
     },
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101815165,
-    "wof:lastmodified":1563234227,
+    "wof:lastmodified":1566585242,
     "wof:name":"Rummu",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

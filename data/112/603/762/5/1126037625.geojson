@@ -9,15 +9,18 @@
     "geom:bbox":"24.15417,58.5825,24.15417,58.5825",
     "geom:latitude":58.5825,
     "geom:longitude":24.15417,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":303,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":303,
     "iso:country":"EE",
+    "lbl:bbox":"24.13417,58.5625,24.17417,58.6025",
     "lbl:latitude":58.5825,
     "lbl:longitude":24.15417,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u0433\u0430"
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "Koonga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Konga"
     ],
     "name:vol_x_preferred":[
@@ -74,7 +77,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":843183,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1126037625,
-    "wof:lastmodified":1563234412,
+    "wof:lastmodified":1566585322,
     "wof:name":"Koonga",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

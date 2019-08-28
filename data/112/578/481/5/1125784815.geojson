@@ -9,15 +9,18 @@
     "geom:bbox":"27.62667,59.39639,27.62667,59.39639",
     "geom:latitude":59.39639,
     "geom:longitude":27.62667,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":125,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":125,
     "iso:country":"EE",
+    "lbl:bbox":"27.60667,59.37639,27.64667,59.41639",
     "lbl:latitude":59.39639,
     "lbl:longitude":27.62667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Konju"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Konju"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kon\u2019yu"
     ],
     "name:vol_x_preferred":[
@@ -77,7 +80,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":843153,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125784815,
-    "wof:lastmodified":1563234605,
+    "wof:lastmodified":1566585383,
     "wof:name":"Konju",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",

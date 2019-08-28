@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"25.16,58.93194,25.2,58.97194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "P\u00f5lliku"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Pyllika",
-        "P\u00f5llika",
-        "P\u00f5lliku"
+        "P\u00f5llika"
     ],
     "name:vol_x_preferred":[
         "P\u00f5lliku"
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1310687607,
-    "wof:lastmodified":1564206523,
+    "wof:lastmodified":1566585203,
     "wof:name":"Polliku",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",

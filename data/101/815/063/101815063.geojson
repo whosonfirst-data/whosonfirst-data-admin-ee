@@ -12,10 +12,13 @@
     "iso:country":"EE",
     "lbl:latitude":58.060076,
     "lbl:longitude":26.497156,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.060076,
     "mps:longitude":26.497156,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Otepya"
     ],
@@ -134,17 +137,13 @@
         "Odenpah",
         "Otepaeae"
     ],
-    "name:und_x_preferred":[
-        "Nuustaku",
-        "Otep\u00e4\u00e4"
-    ],
     "name:und_x_variant":[
+        "Nuustaku",
         "Nustago",
         "Odenpe",
         "Odenp\u00e4",
         "Odenp\u00e4h",
         "Otepea",
-        "Otepya",
         "Shloss"
     ],
     "name:vie_x_preferred":[
@@ -175,7 +174,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":58.057222,
     "wd:longitude":26.498333,
@@ -191,7 +190,6 @@
         "fct:id":"07eba6f0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":589782,
         "gp:id":844342,
-        "qs:id":1219165,
         "qs_pg:id":1219165,
         "wd:id":"Q339347",
         "wk:page":"Otep\u00e4\u00e4"
@@ -210,7 +208,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234217,
+    "wof:lastmodified":1566585240,
     "wof:name":"Otep\u00e4\u00e4",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"24.73611,58.33583,24.73611,58.33583",
     "geom:latitude":58.33583,
     "geom:longitude":24.73611,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":365,
+    "gn:country":"EE",
+    "gn:fcode":"PPLX",
     "gn:population":365,
     "iso:country":"EE",
+    "lbl:bbox":"24.73111,58.33083,24.74111,58.34083",
     "lbl:latitude":58.33583,
     "lbl:longitude":24.73611,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Kabli"
@@ -52,7 +54,7 @@
     "qs_pg:qs_id":550155,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1126105631,
-    "wof:lastmodified":1564206628,
+    "wof:lastmodified":1566585309,
     "wof:name":"Kabli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

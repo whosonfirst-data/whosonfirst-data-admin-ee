@@ -9,18 +9,20 @@
     "geom:bbox":"24.4862433084,58.4222214396,24.5181395094,58.4340431492",
     "geom:latitude":58.429634,
     "geom:longitude":24.499224,
-    "geonames:id":"588773,588774",
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1062,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
+    "gn:id":"588773,588774",
     "gn:population":1062,
     "iso:country":"EE",
     "lbl:latitude":58.429293,
     "lbl:longitude":24.498982,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.429293,
     "mps:longitude":24.498982,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sauga"
     ],
@@ -42,7 +44,7 @@
     "name:swe_x_preferred":[
         "Sauga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Sauga"
     ],
     "name:vol_x_preferred":[
@@ -85,7 +87,7 @@
     "qs_pg:woe_id":845406,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":57,
     "wof:belongsto":[
@@ -97,7 +99,6 @@
     "wof:concordances":{
         "gn:id":588774,
         "gp:id":845406,
-        "qs:id":235319,
         "qs_pg:id":235319,
         "wd:id":"Q3470339",
         "wk:page":"Sauga"
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":101753879,
-    "wof:lastmodified":1563234183,
+    "wof:lastmodified":1566585231,
     "wof:name":"Sauga",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

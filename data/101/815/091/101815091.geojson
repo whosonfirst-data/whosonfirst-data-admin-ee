@@ -12,10 +12,13 @@
     "iso:country":"EE",
     "lbl:latitude":58.237319,
     "lbl:longitude":25.857092,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.237319,
     "mps:longitude":25.857092,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mustla"
     ],
@@ -55,10 +58,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0441\u0442\u043b\u0430"
     ],
-    "name:und_x_preferred":[
-        "Tarvast"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tarvast"
     ],
     "name:vol_x_preferred":[
@@ -81,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":58.235,
     "wd:longitude":25.863056,
@@ -97,7 +97,7 @@
         "fct:id":"07e8a504-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":590078,
         "gp:id":844170,
-        "qs:id":111108,
+        "qs_pg:id":111108,
         "wd:id":"Q2640042",
         "wk:page":"Mustla"
     },
@@ -115,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234215,
+    "wof:lastmodified":1566585239,
     "wof:name":"Mustla",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",

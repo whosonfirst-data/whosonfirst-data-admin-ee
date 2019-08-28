@@ -9,14 +9,18 @@
     "geom:bbox":"23.27222,58.97306,23.27222,58.97306",
     "geom:latitude":58.97306,
     "geom:longitude":23.27222,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"EE",
+    "lbl:bbox":"23.25222,58.95306,23.29222,58.99306",
     "lbl:latitude":58.97306,
     "lbl:longitude":23.27222,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Rumpo"
@@ -45,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u043c\u043f\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rumpu"
     ],
     "name:vol_x_preferred":[
@@ -72,7 +76,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":845264,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
     "woe:name_adm1":"L\u00e4\u00e4nemaa",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":1125816815,
-    "wof:lastmodified":1563234443,
+    "wof:lastmodified":1566585331,
     "wof:name":"Rumpo",
     "wof:parent_id":85682993,
     "wof:placetype":"locality",

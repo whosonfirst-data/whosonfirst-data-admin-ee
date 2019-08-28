@@ -9,14 +9,18 @@
     "geom:bbox":"23.04389,58.86694,23.04389,58.86694",
     "geom:latitude":58.86694,
     "geom:longitude":23.04389,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"EE",
+    "lbl:bbox":"23.02389,58.84694,23.06389,58.88694",
     "lbl:latitude":58.86694,
     "lbl:longitude":23.04389,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Heltermaa"
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "Heltermaa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khel\u2019terma"
     ],
     "name:vol_x_preferred":[
@@ -75,7 +79,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":842238,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
     "woe:name_adm1":"Hiiumaa",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1125990349,
-    "wof:lastmodified":1563234499,
+    "wof:lastmodified":1566585349,
     "wof:name":"Heltermaa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

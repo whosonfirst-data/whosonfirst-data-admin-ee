@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"26.24194,59.235,26.28194,59.275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Taru"
     ],
@@ -37,8 +41,7 @@
         "Taru"
     ],
     "name:und_x_variant":[
-        "T\u00e4ru",
-        "Taru"
+        "T\u00e4ru"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1226564461,
-    "wof:lastmodified":1564206930,
+    "wof:lastmodified":1566585541,
     "wof:name":"Taru",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",

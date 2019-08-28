@@ -9,15 +9,18 @@
     "geom:bbox":"25.01528,58.5875,25.01528,58.5875",
     "geom:latitude":58.5875,
     "geom:longitude":25.01528,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":309,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":309,
     "iso:country":"EE",
+    "lbl:bbox":"24.99528,58.5675,25.03528,58.6075",
     "lbl:latitude":58.5875,
     "lbl:longitude":25.01528,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0412\u0438\u0445\u0442\u0440\u0430"
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "Vihtra"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Vikhtra"
     ],
     "name:vol_x_preferred":[
@@ -71,7 +74,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":846423,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125908853,
-    "wof:lastmodified":1563234503,
+    "wof:lastmodified":1566585351,
     "wof:name":"Vihtra",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

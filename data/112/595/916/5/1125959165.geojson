@@ -9,14 +9,18 @@
     "geom:bbox":"25.1417,59.44106,25.1417,59.44106",
     "geom:latitude":59.44106,
     "geom:longitude":25.1417,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"EE",
+    "lbl:bbox":"25.1217,59.42106,25.1617,59.46106",
     "lbl:latitude":59.44106,
     "lbl:longitude":25.1417,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "J\u00f5el\u00e4htme"
@@ -87,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u0419\u0438\u0435\u043b\u044f\u0445\u0442\u043c\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Ioyelekhtme"
     ],
     "name:vol_x_preferred":[
@@ -117,7 +121,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":842448,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
     "woe:name_adm1":"Harjumaa",
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":1125959165,
-    "wof:lastmodified":1563234374,
+    "wof:lastmodified":1566585306,
     "wof:name":"J\u00f5el\u00e4htme",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

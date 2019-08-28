@@ -9,14 +9,18 @@
     "geom:bbox":"24.98972,58.47833,24.98972,58.47833",
     "geom:latitude":58.47833,
     "geom:longitude":24.98972,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"EE",
+    "lbl:bbox":"24.96972,58.45833,25.00972,58.49833",
     "lbl:latitude":58.47833,
     "lbl:longitude":24.98972,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Riisa"
@@ -42,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0439\u0437\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Riisak\u00fcla"
     ],
     "name:vol_x_preferred":[
@@ -69,7 +73,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":845166,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
     "woe:name_adm1":"P\u00e4rnumaa",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1125817041,
-    "wof:lastmodified":1563234446,
+    "wof:lastmodified":1566585333,
     "wof:name":"Riisa",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

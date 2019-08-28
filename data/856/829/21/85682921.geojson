@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":57.802892,
     "lbl:longitude":23.244447,
+    "lbl:min_zoom":8.0,
     "mps:latitude":57.802892,
     "mps:longitude":23.244447,
     "mz:hierarchy_label":1,
@@ -210,7 +211,7 @@
     "qs:type":"Maakond",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2775,
     "wof:belongsto":[
         102191581,
@@ -236,7 +237,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1563233736,
+    "wof:lastmodified":1566584902,
     "wof:name":"Saaremaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

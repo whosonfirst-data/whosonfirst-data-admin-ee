@@ -13,10 +13,13 @@
     "iso:country":"EE",
     "lbl:latitude":59.356275,
     "lbl:longitude":27.412086,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.356275,
     "mps:longitude":27.412086,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:aze_x_preferred":[
         "Y\u0131hvi"
     ],
@@ -159,11 +162,6 @@
         "Joehwi",
         "Johwi"
     ],
-    "name:und_x_preferred":[
-        "Jehvi",
-        "Jehvis",
-        "J\u00f5hvi"
-    ],
     "name:und_x_variant":[
         "Ievve",
         "Iohvi",
@@ -178,9 +176,6 @@
         "Levve",
         "Yokhvi",
         "Yykhvi"
-    ],
-    "name:unk_x_variant":[
-        "Yokhvi"
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0648\u06c1\u0648\u06cc"
@@ -213,7 +208,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":8.0,
     "wd:latitude":59.3575,
@@ -230,7 +225,6 @@
         "fct:id":"07eb7d60-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":591893,
         "gp:id":842471,
-        "qs:id":894604,
         "qs_pg:id":894604,
         "wd:id":"Q211059",
         "wk:page":"J\u00f5hvi"
@@ -249,7 +243,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234234,
+    "wof:lastmodified":1566585244,
     "wof:name":"J\u00f5hvi",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",

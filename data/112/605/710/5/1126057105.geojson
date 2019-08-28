@@ -9,15 +9,18 @@
     "geom:bbox":"27.21472,57.9475,27.21472,57.9475",
     "geom:latitude":57.9475,
     "geom:longitude":27.21472,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":250,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":250,
     "iso:country":"EE",
+    "lbl:bbox":"27.19472,57.9275,27.23472,57.9675",
     "lbl:latitude":57.9475,
     "lbl:longitude":27.21472,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0435\u0432\u0438"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0435\u0432\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Levi"
     ],
     "name:vol_x_preferred":[
@@ -83,7 +86,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":843569,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1126057105,
-    "wof:lastmodified":1563234397,
+    "wof:lastmodified":1566585316,
     "wof:name":"Leevi",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",

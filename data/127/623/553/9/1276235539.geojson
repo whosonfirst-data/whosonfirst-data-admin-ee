@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"27.16889,59.27833,27.20889,59.31833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "V\u00f5rnu"
     ],
@@ -43,9 +47,6 @@
         "V\u00f5rnu"
     ],
     "name:spa_x_preferred":[
-        "V\u00f5rnu"
-    ],
-    "name:und_x_variant":[
         "V\u00f5rnu"
     ],
     "name:vol_x_preferred":[
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1276235539,
-    "wof:lastmodified":1564206217,
+    "wof:lastmodified":1566585023,
     "wof:name":"Vornu",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",

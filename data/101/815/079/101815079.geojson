@@ -9,15 +9,18 @@
     "geom:bbox":"25.0101114437,58.6411613564,25.0565703384,58.6636259537",
     "geom:latitude":58.652016,
     "geom:longitude":25.033409,
-    "geonames:id":"587440,588531",
+    "gn:id":"587440,588531",
     "gn:population":2544,
     "iso:country":"EE",
     "lbl:latitude":58.652245,
     "lbl:longitude":25.031825,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.652245,
     "mps:longitude":25.031825,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "V\u00e4ndra"
     ],
@@ -105,7 +108,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u044f\u043d\u0434\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alt-Fennern"
     ],
     "name:vol_x_preferred":[
@@ -128,7 +131,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":99,
     "wof:belongsto":[
@@ -140,7 +143,7 @@
     "wof:concordances":{
         "gn:id":587440,
         "gp:id":846302,
-        "qs:id":1274726,
+        "qs_pg:id":1274726,
         "wd:id":"Q1805635",
         "wk:page":"V\u00e4ndra"
     },
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101815079,
-    "wof:lastmodified":1563234213,
+    "wof:lastmodified":1566585238,
     "wof:name":"V\u00e4ndra",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

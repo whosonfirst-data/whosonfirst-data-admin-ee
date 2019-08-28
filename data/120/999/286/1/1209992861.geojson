@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"24.71417,59.06056,24.75417,59.10056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "\u00c4herdi"
     ],
@@ -44,8 +48,7 @@
     ],
     "name:und_x_variant":[
         "Akherdi",
-        "Aherdi",
-        "\u00c4herdi"
+        "Aherdi"
     ],
     "name:vol_x_preferred":[
         "\u00c4herdi"
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1209992861,
-    "wof:lastmodified":1564206285,
+    "wof:lastmodified":1566585061,
     "wof:name":"AEherdi",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",

@@ -9,13 +9,14 @@
     "geom:bbox":"26.6709107752,58.3292883301,26.8197040973,58.4080162143",
     "geom:latitude":58.373635,
     "geom:longitude":26.731958,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":101092,
+    "gn:country":"EE",
+    "gn:fcode":"PPLA",
     "gn:population":101092,
     "iso:country":"EE",
     "lbl:latitude":58.373824,
     "lbl:longitude":26.723421,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":58.373824,
     "mps:longitude":26.723421,
     "mz:hierarchy_label":1,
@@ -331,18 +332,9 @@
     "name:und_x_colloquial":[
         "Terbata"
     ],
-    "name:und_x_preferred":[
-        "Tarbatum",
-        "Tartu"
-    ],
     "name:und_x_variant":[
-        "Derpt",
         "Yur'yev",
         "Yurev",
-        "T\u0113rbata",
-        "Tartto"
-    ],
-    "name:unk_x_variant":[
         "T\u0113rbata"
     ],
     "name:urd_x_preferred":[
@@ -498,7 +490,7 @@
     "qs_pg:woe_id":845805,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":39.0,
     "wd:elevation":79.0,
@@ -516,7 +508,6 @@
         "fct:id":"07ebc874-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":588335,
         "gp:id":845805,
-        "qs:id":278228,
         "qs_pg:id":278228,
         "wd:id":"Q13972",
         "wk:page":"Tartu"
@@ -535,7 +526,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234195,
+    "wof:lastmodified":1566585234,
     "wof:name":"Tartu",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"25.10361,59.42556,25.10361,59.42556",
     "geom:latitude":59.42556,
     "geom:longitude":25.10361,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":790,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":790,
     "iso:country":"EE",
+    "lbl:bbox":"25.08361,59.40556,25.12361,59.44556",
     "lbl:latitude":59.42556,
     "lbl:longitude":25.10361,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0438\u0432\u0435\u0440\u0435"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0456\u0432\u0435\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Kostifer"
     ],
     "name:vol_x_preferred":[
@@ -82,7 +85,7 @@
     "qs_pg:qs_id":81112,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125831039,
-    "wof:lastmodified":1563234614,
+    "wof:lastmodified":1566585386,
     "wof:name":"Kostivere",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

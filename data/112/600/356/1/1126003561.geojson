@@ -9,15 +9,18 @@
     "geom:bbox":"26.11722,59.41694,26.11722,59.41694",
     "geom:latitude":59.41694,
     "geom:longitude":26.11722,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":315,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":315,
     "iso:country":"EE",
+    "lbl:bbox":"26.09722,59.39694,26.13722,59.43694",
     "lbl:latitude":59.41694,
     "lbl:longitude":26.11722,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0410\u0441\u043f\u0435\u0440\u0435"
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Aaspere"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Aspere"
     ],
     "name:urd_x_preferred":[
@@ -77,7 +80,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":841805,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1126003561,
-    "wof:lastmodified":1563234561,
+    "wof:lastmodified":1566585369,
     "wof:name":"Aaspere",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",

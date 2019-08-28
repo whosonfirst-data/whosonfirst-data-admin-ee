@@ -9,17 +9,19 @@
     "geom:bbox":"24.9352950886,58.143673856,24.9904841139,58.1593868659",
     "geom:latitude":58.150428,
     "geom:longitude":24.960944,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2175,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":2175,
     "iso:country":"EE",
     "lbl:latitude":58.148905,
     "lbl:longitude":24.956763,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.148905,
     "mps:longitude":24.956763,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Kilingi-N\u0131mm\u0435"
     ],
@@ -104,10 +106,8 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u043b\u0456\u043d\u0433\u0456-\u041d\u0438\u043c\u043c\u0435"
     ],
-    "name:und_x_preferred":[
-        "Saarde"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Saarde",
         "Saara"
     ],
     "name:vol_x_preferred":[
@@ -150,7 +150,7 @@
     "qs_pg:woe_id":842955,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":58.149722,
     "wd:longitude":24.961389,
@@ -166,7 +166,6 @@
         "fct:id":"07eb9af2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":591381,
         "gp:id":842955,
-        "qs:id":1349548,
         "qs_pg:id":1349548,
         "wd:id":"Q1146736",
         "wk:page":"Kilingi-N\u00f5mme"
@@ -185,7 +184,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234190,
+    "wof:lastmodified":1566585233,
     "wof:name":"Kilingi-N\u00f5mme",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

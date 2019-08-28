@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"25.73,58.63,25.77,58.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Palu"
     ],
@@ -134,8 +138,7 @@
         "\u041f\u0430\u043b\u0443"
     ],
     "name:und_x_variant":[
-        "Paluk\u00fcla",
-        "Palu"
+        "Paluk\u00fcla"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0644\u0648"
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":1209068165,
-    "wof:lastmodified":1564206271,
+    "wof:lastmodified":1566585052,
     "wof:name":"Palu",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",

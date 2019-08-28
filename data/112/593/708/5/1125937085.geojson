@@ -9,15 +9,18 @@
     "geom:bbox":"24.58361,58.14472,24.58361,58.14472",
     "geom:latitude":58.14472,
     "geom:longitude":24.58361,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":95,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":95,
     "iso:country":"EE",
+    "lbl:bbox":"24.56361,58.12472,24.60361,58.16472",
     "lbl:latitude":58.14472,
     "lbl:longitude":24.58361,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "V\u00f5idu"
@@ -40,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0439\u0434\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vyydu"
     ],
     "name:vol_x_preferred":[
@@ -63,7 +66,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":846546,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125937085,
-    "wof:lastmodified":1563234292,
+    "wof:lastmodified":1566585276,
     "wof:name":"V\u00f5idu",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

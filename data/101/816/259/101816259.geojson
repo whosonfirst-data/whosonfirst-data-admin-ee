@@ -13,10 +13,13 @@
     "iso:country":"EE",
     "lbl:latitude":58.003837,
     "lbl:longitude":25.924231,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.003837,
     "mps:longitude":25.924231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "T\u0131rv\u0430"
     ],
@@ -125,18 +128,12 @@
         "Torrwa",
         "Torwa"
     ],
-    "name:und_x_preferred":[
-        "T\u00f5rva"
-    ],
     "name:und_x_variant":[
         "Helmut",
         "Khel'met",
-        "Terva",
         "Tyrva",
         "T\u00f6rrwa",
-        "T\u00f6rwa"
-    ],
-    "name:unk_x_variant":[
+        "T\u00f6rwa",
         "Khel\u2019met"
     ],
     "name:vol_x_preferred":[
@@ -161,7 +158,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":58.002778,
     "wd:longitude":25.922778,
@@ -177,7 +174,6 @@
         "fct:id":"07ebe5fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":588204,
         "gp:id":845937,
-        "qs:id":125888,
         "qs_pg:id":125888,
         "wd:id":"Q819514",
         "wk:page":"T\u00f5rva"
@@ -196,7 +192,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234186,
+    "wof:lastmodified":1566585232,
     "wof:name":"T\u00f5rva",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",

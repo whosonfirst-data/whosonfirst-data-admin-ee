@@ -9,15 +9,18 @@
     "geom:bbox":"26.61361,57.86389,26.61361,57.86389",
     "geom:latitude":57.86389,
     "geom:longitude":26.61361,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":224,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":224,
     "iso:country":"EE",
+    "lbl:bbox":"26.59361,57.84389,26.63361,57.88389",
     "lbl:latitude":57.86389,
     "lbl:longitude":26.61361,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0412\u0430\u0431\u0438\u043d\u0430"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0430\u0431\u0456\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Vabina"
     ],
     "name:vol_x_preferred":[
@@ -77,7 +80,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":846128,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1126017769,
-    "wof:lastmodified":1563234536,
+    "wof:lastmodified":1566585362,
     "wof:name":"Vaabina",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",

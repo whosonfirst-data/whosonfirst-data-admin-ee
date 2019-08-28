@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"25.35667,59.07028,25.39667,59.11028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "N\u00f5mmeri"
     ],
@@ -46,8 +50,7 @@
     "name:und_x_variant":[
         "Nymme",
         "N\u00f5mme",
-        "N\u00f5mmek\u00fcla",
-        "N\u00f5mmeri"
+        "N\u00f5mmek\u00fcla"
     ],
     "name:vol_x_preferred":[
         "N\u00f5mmeri"
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1243568203,
-    "wof:lastmodified":1564206758,
+    "wof:lastmodified":1566585435,
     "wof:name":"Nommeri",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

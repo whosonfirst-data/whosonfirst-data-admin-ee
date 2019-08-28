@@ -9,17 +9,19 @@
     "geom:bbox":"24.6352321734,58.3865156385,24.6716950659,58.4163372527",
     "geom:latitude":58.40265,
     "geom:longitude":24.655925,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4036,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":4036,
     "iso:country":"EE",
     "lbl:latitude":58.40499,
     "lbl:longitude":24.658687,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.40499,
     "mps:longitude":24.658687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Sindi"
     ],
@@ -122,15 +124,9 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043d\u0434\u0456"
     ],
-    "name:und_x_preferred":[
-        "Sindi"
-    ],
     "name:und_x_variant":[
         "Zintenhof",
         "Zinten",
-        "Tsintengof"
-    ],
-    "name:unk_x_variant":[
         "Tsintengof"
     ],
     "name:vep_x_preferred":[
@@ -176,7 +172,7 @@
     "qs_pg:woe_id":845504,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":58.403056,
     "wd:longitude":24.647778,
@@ -192,7 +188,6 @@
         "fct:id":"07ebe8ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":588673,
         "gp:id":845504,
-        "qs:id":57567,
         "qs_pg:id":57567,
         "wd:id":"Q730707",
         "wk:page":"Sindi, Estonia"
@@ -211,7 +206,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234249,
+    "wof:lastmodified":1566585248,
     "wof:name":"Sindi",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

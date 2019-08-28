@@ -9,15 +9,18 @@
     "geom:bbox":"26.19694,57.86,26.19694,57.86",
     "geom:latitude":57.86,
     "geom:longitude":26.19694,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":515,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":515,
     "iso:country":"EE",
+    "lbl:bbox":"26.17694,57.84,26.21694,57.88",
     "lbl:latitude":57.86,
     "lbl:longitude":26.19694,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0426\u0438\u0440\u0433\u0443\u043b\u0438\u043d\u0430"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0441\u0456\u0440\u0491\u0443\u043b\u0456\u0439\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Raa"
     ],
     "name:vol_x_preferred":[
@@ -74,7 +77,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":845958,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1126003953,
-    "wof:lastmodified":1563234559,
+    "wof:lastmodified":1566585369,
     "wof:name":"Tsirguliina",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",

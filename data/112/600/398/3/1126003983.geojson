@@ -9,15 +9,18 @@
     "geom:bbox":"26.88167,58.52083,26.88167,58.52083",
     "geom:latitude":58.52083,
     "geom:longitude":26.88167,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":406,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":406,
     "iso:country":"EE",
+    "lbl:bbox":"26.86167,58.50083,26.90167,58.54083",
     "lbl:latitude":58.52083,
     "lbl:longitude":26.88167,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0412\u0430\u0440\u0430"
@@ -76,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Vara"
     ],
     "qs_pg:aaroncc":"EE",
@@ -98,7 +101,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":846310,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1126003983,
-    "wof:lastmodified":1563234546,
+    "wof:lastmodified":1566585365,
     "wof:name":"Vara",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",

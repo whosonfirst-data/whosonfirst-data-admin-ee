@@ -9,15 +9,18 @@
     "geom:bbox":"27.29361,57.72972,27.29361,57.72972",
     "geom:latitude":57.72972,
     "geom:longitude":27.29361,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":773,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":773,
     "iso:country":"EE",
+    "lbl:bbox":"27.27361,57.70972,27.31361,57.74972",
     "lbl:latitude":57.72972,
     "lbl:longitude":27.29361,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0412\u0430\u0441\u0446\u0435\u043b\u0438\u043d\u0430"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0441\u0442\u0441\u0435\u043b\u0456\u0439\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neuhausen"
     ],
     "name:vol_x_preferred":[
@@ -89,7 +92,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":846170,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1125872449,
-    "wof:lastmodified":1563234483,
+    "wof:lastmodified":1566585345,
     "wof:name":"Vastseliina",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",

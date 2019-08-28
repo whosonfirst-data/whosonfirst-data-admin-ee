@@ -12,8 +12,10 @@
     "gn:latitude":58.6,
     "gn:longitude":24.4,
     "iso:country":"EE",
+    "lbl:bbox":"24.546828,59.314844,24.556828,59.324844",
     "lbl:latitude":59.319844,
     "lbl:longitude":24.551828,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.316778,
     "mps:longitude":24.554378,
     "mz:hierarchy_label":0,
@@ -54,16 +56,10 @@
         "Vanamoisa-Maeekuela",
         "Vanamoisa-Maekula"
     ],
-    "name:und_x_preferred":[
-        "M\u00e4ek\u00fcla"
-    ],
     "name:und_x_variant":[
         "Vanamyyza-Myaekyula",
-        "Vanam\u00f5isa-M\u00e4ek\u00fcla"
-    ],
-    "name:unk_x_variant":[
-        "Myaekyula",
-        "M\u00e4ek\u00fcla"
+        "Vanam\u00f5isa-M\u00e4ek\u00fcla",
+        "Myaekyula"
     ],
     "name:vol_x_preferred":[
         "M\u00e4ek\u00fcla"
@@ -97,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -107,7 +103,7 @@
     "wof:concordances":{
         "gn:id":590415,
         "gp:id":843863,
-        "qs:id":994388
+        "qs_pg:id":994388
     },
     "wof:country":"EE",
     "wof:geomhash":"2af6879fb9b2cc4c1439922ae34c14a3",
@@ -124,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1564206016,
+    "wof:lastmodified":1566584896,
     "wof:name":"M\u00e4ek\u00fcla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

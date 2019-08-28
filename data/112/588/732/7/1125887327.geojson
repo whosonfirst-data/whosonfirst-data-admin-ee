@@ -9,15 +9,18 @@
     "geom:bbox":"24.22972,59.38639,24.22972,59.38639",
     "geom:latitude":59.38639,
     "geom:longitude":24.22972,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":277,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":277,
     "iso:country":"EE",
+    "lbl:bbox":"24.20972,59.36639,24.24972,59.40639",
     "lbl:latitude":59.38639,
     "lbl:longitude":24.22972,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0430\u0443\u043b\u0430\u0441\u043c\u0430"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0443\u043b\u0430\u0441\u043c\u0430\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Laulasma"
     ],
     "name:vol_x_preferred":[
@@ -82,7 +85,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":843544,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125887327,
-    "wof:lastmodified":1563234456,
+    "wof:lastmodified":1566585336,
     "wof:name":"Laulasmaa",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

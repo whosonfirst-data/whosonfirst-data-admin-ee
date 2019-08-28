@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"25.19917,59.28056,25.23917,59.32056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Metsanurga"
     ],
@@ -46,8 +50,7 @@
         "\u041c\u0435\u0442\u0441\u0430\u043d\u0443\u0440\u0491\u0430"
     ],
     "name:und_x_variant":[
-        "Metsnurga",
-        "Metsanurga"
+        "Metsnurga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1343578873,
-    "wof:lastmodified":1564205958,
+    "wof:lastmodified":1566584864,
     "wof:name":"Metsanurga",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

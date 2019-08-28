@@ -9,17 +9,19 @@
     "geom:bbox":"24.8807893493,59.487539662,24.9253016881,59.5211564268",
     "geom:latitude":59.501507,
     "geom:longitude":24.90409,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":513,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":513,
     "iso:country":"EE",
     "lbl:latitude":59.500377,
     "lbl:longitude":24.906281,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":59.500377,
     "mps:longitude":24.906281,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Randvere"
     ],
@@ -99,7 +101,7 @@
     "qs_pg:woe_id":845043,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -110,7 +112,6 @@
     "wof:concordances":{
         "gn:id":589147,
         "gp:id":845043,
-        "qs:id":491912,
         "qs_pg:id":491912,
         "wd:id":"Q744734",
         "wk:page":"Randvere, Harju County"
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":101753889,
-    "wof:lastmodified":1563234182,
+    "wof:lastmodified":1566585231,
     "wof:name":"Randvere",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

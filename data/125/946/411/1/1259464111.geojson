@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tallinn",
     "iso:country":"EE",
+    "lbl:bbox":"24.08639,58.37694,24.12639,58.41694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Soomra"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Taga-Soomra",
-        "Taga-Somra",
-        "Soomra"
+        "Taga-Somra"
     ],
     "name:vol_x_preferred":[
         "Soomra"
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1259464111,
-    "wof:lastmodified":1564206834,
+    "wof:lastmodified":1566585481,
     "wof:name":"Soomra",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",

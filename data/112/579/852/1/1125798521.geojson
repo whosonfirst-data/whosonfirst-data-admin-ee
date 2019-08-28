@@ -9,15 +9,18 @@
     "geom:bbox":"25.58306,58.23972,25.58306,58.23972",
     "geom:latitude":58.23972,
     "geom:longitude":25.58306,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":142,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":142,
     "iso:country":"EE",
+    "lbl:bbox":"25.56306,58.21972,25.60306,58.25972",
     "lbl:latitude":58.23972,
     "lbl:longitude":25.58306,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0443\u043b\u0446\u0438"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043b\u0442\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Peebu"
     ],
     "name:vol_x_preferred":[
@@ -75,7 +78,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":845628,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125798521,
-    "wof:lastmodified":1563234608,
+    "wof:lastmodified":1566585385,
     "wof:name":"Sultsi",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",

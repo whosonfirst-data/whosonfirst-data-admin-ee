@@ -9,15 +9,18 @@
     "geom:bbox":"24.50672,59.2743,24.50672,59.2743",
     "geom:latitude":59.2743,
     "geom:longitude":24.50672,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":223,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":223,
     "iso:country":"EE",
+    "lbl:bbox":"24.48672,59.2543,24.52672,59.2943",
     "lbl:latitude":59.2743,
     "lbl:longitude":24.50672,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "J\u00f5gisoo"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0419\u0438\u0491\u0456\u0441\u043e\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yygisu"
     ],
     "name:vie_x_preferred":[
@@ -77,7 +80,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":842469,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1126019563,
-    "wof:lastmodified":1563234540,
+    "wof:lastmodified":1566585363,
     "wof:name":"J\u00f5gisoo",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

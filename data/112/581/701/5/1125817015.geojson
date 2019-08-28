@@ -9,14 +9,18 @@
     "geom:bbox":"23.62833,59.20194,23.62833,59.20194",
     "geom:latitude":59.20194,
     "geom:longitude":23.62833,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"EE",
+    "lbl:bbox":"23.60833,59.18194,23.64833,59.22194",
     "lbl:latitude":59.20194,
     "lbl:longitude":23.62833,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Perak\u00fcla"
@@ -42,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0430\u043a\u044e\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Perakyula"
     ],
     "name:vol_x_preferred":[
@@ -69,7 +73,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":844687,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
     "woe:name_adm1":"L\u00e4\u00e4nemaa",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1125817015,
-    "wof:lastmodified":1563234442,
+    "wof:lastmodified":1566585331,
     "wof:name":"Perak\u00fcla",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",

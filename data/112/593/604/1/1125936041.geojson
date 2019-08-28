@@ -9,15 +9,18 @@
     "geom:bbox":"26.70583,58.14972,26.70583,58.14972",
     "geom:latitude":58.14972,
     "geom:longitude":26.70583,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":192,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":192,
     "iso:country":"EE",
+    "lbl:bbox":"26.68583,58.12972,26.72583,58.16972",
     "lbl:latitude":58.14972,
     "lbl:longitude":26.70583,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0438\u0446\u0430"
@@ -52,9 +55,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0430\u0440\u0456\u0442\u0441\u0430"
     ],
-    "name:unk_x_variant":[
-        "Maaritsa"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0631\u06cc\u0679\u0633\u0627"
     ],
@@ -78,7 +78,7 @@
     "qs_pg:woe_adm0":23424805,
     "qs_pg:woe_id":845307,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1125936041,
-    "wof:lastmodified":1563234306,
+    "wof:lastmodified":1566585281,
     "wof:name":"S\u00e4\u00e4ritsa",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",

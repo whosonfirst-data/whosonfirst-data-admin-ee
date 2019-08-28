@@ -9,17 +9,19 @@
     "geom:bbox":"25.4117599029,59.4409653724,25.4591605107,59.4585570253",
     "geom:latitude":59.448687,
     "geom:longitude":25.437323,
-    "gn:gn_country":"EE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1238,
+    "gn:country":"EE",
+    "gn:fcode":"PPL",
     "gn:population":1238,
     "iso:country":"EE",
     "lbl:latitude":59.446768,
     "lbl:longitude":25.445223,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.446768,
     "mps:longitude":25.445223,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0443\u0443\u0441\u0430\u043b\u0443"
     ],
@@ -104,15 +106,10 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0443\u0441\u0430\u043b\u0443"
     ],
-    "name:und_x_preferred":[
-        "Kuusalu"
-    ],
     "name:und_x_variant":[
         "Kusalu",
         "Kusal",
-        "Kuzal'"
-    ],
-    "name:unk_x_variant":[
+        "Kuzal'",
         "Kuzal\u2019"
     ],
     "name:zho_x_preferred":[
@@ -152,7 +149,7 @@
     "qs_pg:woe_id":843426,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -164,7 +161,6 @@
         "fct:id":"07eb5c7c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":590888,
         "gp:id":843426,
-        "qs:id":125901,
         "qs_pg:id":125901,
         "wd:id":"Q990542",
         "wk:page":"Kuusalu Parish"
@@ -183,7 +179,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234208,
+    "wof:lastmodified":1566585237,
     "wof:name":"Kuusalu",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

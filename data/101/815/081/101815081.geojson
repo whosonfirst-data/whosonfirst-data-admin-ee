@@ -13,10 +13,13 @@
     "iso:country":"EE",
     "lbl:latitude":58.631201,
     "lbl:longitude":25.554653,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.631201,
     "mps:longitude":25.554653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "V\u0131hma"
     ],
@@ -125,18 +128,12 @@
         "Woehma",
         "Wohma"
     ],
-    "name:und_x_preferred":[
-        "V\u00f5hma"
-    ],
     "name:und_x_variant":[
         "Myasto Vykhma",
         "Vechma",
         "Vekhma",
         "W\u00f6chma",
         "W\u00f6hma"
-    ],
-    "name:unk_x_variant":[
-        "Myasto Vykhma"
     ],
     "name:vol_x_preferred":[
         "V\u00f5hma"
@@ -160,7 +157,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":58.629167,
     "wd:longitude":25.557778,
@@ -176,7 +173,6 @@
         "fct:id":"07eb141a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":587517,
         "gp:id":846534,
-        "qs:id":1082835,
         "qs_pg:id":1082835,
         "wd:id":"Q171333",
         "wk:page":"V\u00f5hma"
@@ -195,7 +191,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563234235,
+    "wof:lastmodified":1566585244,
     "wof:name":"V\u00f5hma",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
