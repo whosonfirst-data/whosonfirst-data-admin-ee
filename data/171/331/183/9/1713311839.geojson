@@ -1,0 +1,74 @@
+{
+  "id": 1713311839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "ee-mamt:akood":1382,
+    "ee-mamt:animi":"Arup\u00e4\u00e4lse K\u00fcla",
+    "ee-mamt:tyyp":8,
+    "geom:area":0.000094,
+    "geom:area_square_m":594082.649997,
+    "geom:bbox":"27.001418,59.295164,27.017457,59.305766",
+    "geom:latitude":59.300649,
+    "geom:longitude":27.00981,
+    "iso:country":"EE",
+    "label:eng_x_preferred_placetype":[
+        "village"
+    ],
+    "label:est_x_preferred_longname":[
+        "Arup\u00e4\u00e4lse k\u00fcla"
+    ],
+    "label:est_x_preferred_placetype":[
+        "k\u00fcla"
+    ],
+    "lbl:latitude":59.300128,
+    "lbl:longitude":27.010478,
+    "mps:latitude":59.300128,
+    "mps:longitude":27.010478,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Arup\u00e4\u00e4lse"
+    ],
+    "name:est_x_preferred":[
+        "Arup\u00e4\u00e4lse"
+    ],
+    "name:est_x_variant":[
+        "Arup\u00e4\u00e4lse k\u00fcla"
+    ],
+    "src:geom":"ee-mamt",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ee-mamt:okood":1382
+    },
+    "wof:country":"EE",
+    "wof:created":1595460428,
+    "wof:geomhash":"2b4b0a2dadfe6b699c45586c328ab27c",
+    "wof:hierarchy":[],
+    "wof:id":1713311839,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1595460428,
+    "wof:name":"Arup\u00e4\u00e4lse",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.001418,
+    59.295164,
+    27.017457,
+    59.305766
+],
+  "geometry": {"coordinates":[[[27.009302,59.305766],[27.009693,59.302958],[27.015277,59.303509],[27.016065,59.301647],[27.017357,59.295698],[27.017457,59.295164],[27.001418,59.299891],[27.001518,59.300239],[27.001614,59.301045],[27.002874,59.30321],[27.005355,59.305039],[27.005896,59.305404],[27.009302,59.305766]]],"type":"Polygon"}
+}
