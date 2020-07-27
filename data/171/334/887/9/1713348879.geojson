@@ -22,12 +22,21 @@
     "label:est_x_preferred_placetype":[
         "linnaosa"
     ],
-    "lbl:latitude":59.418776,
-    "lbl:longitude":24.71672,
+    "lbl:latitude":59.419283,
+    "lbl:longitude":24.692072,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.418776,
     "mps:longitude":24.71672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ces_x_preferred":[
+        "Kristiine"
+    ],
+    "name:deu_x_preferred":[
+        "Kristiine"
+    ],
     "name:eng_x_preferred":[
         "Kristiine"
     ],
@@ -37,12 +46,77 @@
     "name:est_x_variant":[
         "Kristiine linnaosa"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06cc\u0633\u062a\u06cc\u0646\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Kristiine"
+    ],
+    "name:ita_x_preferred":[
+        "Kristiine"
+    ],
+    "name:lav_x_preferred":[
+        "Krist\u012bne"
+    ],
+    "name:lit_x_preferred":[
+        "Kristyn\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Kristiine"
+    ],
+    "name:pol_x_preferred":[
+        "Kristiine"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0441\u0442\u0438\u0439\u043d\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Kristiine"
+    ],
+    "name:spa_x_preferred":[
+        "Kristiine"
+    ],
+    "name:swe_x_preferred":[
+        "Kristiine"
+    ],
+    "name:udm_x_preferred":[
+        "\u041a\u0440\u0438\u0441\u0442\u0438\u0439\u043d\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Kristiine"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u91cc\u65af\u5b63\u5185\u533a"
+    ],
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kristiine",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Harjumaa",
+    "qs_pg:photos":55,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":55,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":189708,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":29397804,
     "src:geom":"ee-mamt",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Harjumaa",
+    "woe:placetype":"Town",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":339
+        "ee-mamt:okood":339,
+        "gp:id":29397804,
+        "qs_pg:id":189708
     },
     "wof:country":"EE",
     "wof:created":1595888772,
@@ -55,7 +129,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1595889389,
+    "wof:lastmodified":1595892022,
     "wof:name":"Kristiine",
     "wof:parent_id":-1,
     "wof:placetype":"borough",
