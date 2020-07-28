@@ -3,9 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2018-08-15",
+    "edtf:deprecated":"2020-07-28",
     "edtf:inception":"uuuu",
-    "edtf:superseded":"2018-08-15",
+    "edtf:superseded":"2020-07-28",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"25.07722,59.36444,25.07722,59.36444",
@@ -165,7 +165,7 @@
         }
     ],
     "wof:id":1126002839,
-    "wof:lastmodified":1561826611,
+    "wof:lastmodified":1595975675,
     "wof:name":"Aruk\u00fcla",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -173,7 +173,8 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[
-        101815177
+        101815177,
+        "101815177"
     ],
     "wof:supersedes":[],
     "wof:tags":[]

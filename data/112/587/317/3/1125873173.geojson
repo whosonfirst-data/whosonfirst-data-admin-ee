@@ -3,9 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2018-08-15",
+    "edtf:deprecated":"2020-07-28",
     "edtf:inception":"uuuu",
-    "edtf:superseded":"2018-08-15",
+    "edtf:superseded":"2020-07-28",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"25.32111,59.33611,25.32111,59.33611",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125873173,
-    "wof:lastmodified":1534379292,
+    "wof:lastmodified":1595975676,
     "wof:name":"Kehra",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -103,7 +103,8 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[
-        101815175
+        101815175,
+        "101815175"
     ],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -3,9 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2018-08-15",
+    "edtf:deprecated":"2020-07-28",
     "edtf:inception":"uuuu",
-    "edtf:superseded":"2018-08-15",
+    "edtf:superseded":"2020-07-28",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"24.63444,58.37917,24.63444,58.37917",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1125880413,
-    "wof:lastmodified":1534379291,
+    "wof:lastmodified":1595975680,
     "wof:name":"Paikuse",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -80,7 +80,8 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[
-        101839827
+        101839827,
+        "101839827"
     ],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -3,9 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2018-08-15",
+    "edtf:deprecated":"2020-07-28",
     "edtf:inception":"uuuu",
-    "edtf:superseded":"2018-08-15",
+    "edtf:superseded":"2020-07-28",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"28.04083,59.45889,28.04083,59.45889",
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":1125862229,
-    "wof:lastmodified":1561826593,
+    "wof:lastmodified":1595975686,
     "wof:name":"Narva-J\u00f5esuu",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -156,7 +156,8 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[
-        101815201
+        101815201,
+        "101815201"
     ],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -3,9 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2018-08-15",
+    "edtf:deprecated":"2020-07-28",
     "edtf:inception":"uuuu",
-    "edtf:superseded":"2018-08-15",
+    "edtf:superseded":"2020-07-28",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"24.65778,59.30222,24.65778,59.30222",
@@ -144,7 +144,7 @@
         }
     ],
     "wof:id":1125977813,
-    "wof:lastmodified":1561826605,
+    "wof:lastmodified":1595975685,
     "wof:name":"Saku",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -152,7 +152,8 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[
-        101815185
+        101815185,
+        "101815185"
     ],
     "wof:supersedes":[],
     "wof:tags":[]
