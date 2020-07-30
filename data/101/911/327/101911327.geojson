@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000099,
+    "geom:area":0.0,
     "geom:area_square_m":616656.962618,
-    "geom:bbox":"25.907018,59.59568,25.924686,59.611326",
-    "geom:latitude":59.603181,
-    "geom:longitude":25.917376,
+    "geom:bbox":"25.918714,59.602132,25.918714,59.602132",
+    "geom:latitude":59.602132,
+    "geom:longitude":25.918714,
     "gn:population":112,
     "iso:country":"EE",
     "lbl:latitude":59.602132,
@@ -74,9 +74,10 @@
     "qs:pop":0,
     "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet perfect local_admin match geoplanet",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -102,9 +103,10 @@
     ],
     "wof:country":"EE",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "wof:geomhash":"ad1325dfbe21c09262a7e44c97b65ffb",
+    "wof:geomhash":"fe00aa120e32283363e4d7ea1ae099b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +122,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130320,
+    "wof:lastmodified":1596149064,
     "wof:name":"K\u00e4smu",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -132,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.907018,
-    59.59568,
-    25.924686,
-    59.611326
+    25.918714,
+    59.602132,
+    25.918714,
+    59.602132
 ],
-  "geometry": {"coordinates":[[[25.924203,59.604885],[25.922961,59.602265],[25.924686,59.602065],[25.924272,59.601192],[25.922547,59.601392],[25.921305,59.598772],[25.91958,59.598973],[25.918752,59.597226],[25.917027,59.597426],[25.916199,59.59568],[25.914474,59.59588],[25.915715,59.5985],[25.91399,59.5987],[25.914817,59.600447],[25.913092,59.600647],[25.913506,59.60152],[25.91178,59.60172],[25.912194,59.602593],[25.907018,59.603194],[25.907845,59.60494],[25.914747,59.60414],[25.915161,59.605013],[25.916887,59.604813],[25.918129,59.607432],[25.916403,59.607633],[25.917231,59.609379],[25.915505,59.609579],[25.916333,59.611326],[25.919785,59.610925],[25.919371,59.610052],[25.921097,59.609852],[25.91944,59.606359],[25.921166,59.606159],[25.920752,59.605286],[25.924203,59.604885]]],"type":"Polygon"}
+  "geometry": {"coordinates":[25.918714,59.602132],"type":"Point"}
 }
