@@ -67,7 +67,7 @@
         "wk:page":"V%C3%B5ivere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"7c2cd5f1c42812e69f56d503aa3cbd11",
+    "wof:geomhash":"976800edea8b01d2655a2feeeec86aca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1360070805,
-    "wof:lastmodified":1566585216,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126986,
     "wof:name":"Voivere",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -87,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.35222000000001,
+    26.35222,
     59.04778,
-    26.35222000000001,
+    26.35222,
     59.04778
 ],
-  "geometry": {"coordinates":[26.35222000000001,59.04778],"type":"Point"}
+  "geometry": {"coordinates":[26.35222,59.04778],"type":"Point"}
 }

@@ -75,7 +75,7 @@
         "wk:page":"Reigi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"cab97222dd403d9ab25a058afa12f3aa",
+    "wof:geomhash":"f0ecf07a0466cb9105259242e6939c81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1309715131,
-    "wof:lastmodified":1566585260,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126994,
     "wof:name":"Reigi",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -96,9 +102,9 @@
 },
   "bbox": [
     22.52351,
-    58.99888000000001,
+    58.99888,
     22.52351,
-    58.99888000000001
+    58.99888
 ],
-  "geometry": {"coordinates":[22.52351,58.99888000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.52351,58.99888],"type":"Point"}
 }

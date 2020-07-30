@@ -61,7 +61,7 @@
         "wk:page":"T%C3%B5rvase"
     },
     "wof:country":"EE",
-    "wof:geomhash":"6e58b59440358780147276fa38a8ce84",
+    "wof:geomhash":"d01729e38fe0049f58d3701fe7cf18a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1242652679,
-    "wof:lastmodified":1566585450,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127024,
     "wof:name":"Torvase",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     26.47667,
-    57.59028000000001,
+    57.59028,
     26.47667,
-    57.59028000000001
+    57.59028
 ],
-  "geometry": {"coordinates":[26.47667,57.59028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.47667,57.59028],"type":"Point"}
 }

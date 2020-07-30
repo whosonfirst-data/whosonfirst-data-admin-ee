@@ -63,7 +63,7 @@
         "gn:id":793941
     },
     "wof:country":"EE",
-    "wof:geomhash":"42bc753d3ad09ec02c78a23895583236",
+    "wof:geomhash":"842253bfde71d01449dcce5afc02b53f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1192980297,
-    "wof:lastmodified":1566585123,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126971,
     "wof:name":"Sooviku",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     25.89667,
-    58.24528000000001,
+    58.24528,
     25.89667,
-    58.24528000000001
+    58.24528
 ],
-  "geometry": {"coordinates":[25.89667,58.24528000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.89667,58.24528],"type":"Point"}
 }

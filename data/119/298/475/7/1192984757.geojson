@@ -64,7 +64,7 @@
         "wk:page":"Virulase"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c102976be79ea31fce3ae4706a7b2112",
+    "wof:geomhash":"981e36720d9eebba3fbadf59bcbcd22b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1192984757,
-    "wof:lastmodified":1566585123,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126971,
     "wof:name":"Virulase",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.63611,
-    58.25083000000001,
+    58.25083,
     26.63611,
-    58.25083000000001
+    58.25083
 ],
-  "geometry": {"coordinates":[26.63611,58.25083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.63611,58.25083],"type":"Point"}
 }

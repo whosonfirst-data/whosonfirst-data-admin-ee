@@ -58,7 +58,7 @@
         "wk:page":"Koiduk%C3%BCla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"74f80197aa02c5c05a946b189f6b6e72",
+    "wof:geomhash":"88e05ac440e14fadde62cc635b88d918",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1226631761,
-    "wof:lastmodified":1566585573,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127043,
     "wof:name":"Koidukuela",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     26.30611,
-    59.22528000000001,
+    59.22528,
     26.30611,
-    59.22528000000001
+    59.22528
 ],
-  "geometry": {"coordinates":[26.30611,59.22528000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.30611,59.22528],"type":"Point"}
 }

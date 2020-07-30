@@ -58,7 +58,7 @@
         "wk:page":"Kodesmaa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b7dd4039e742570ecb2d53bb84972168",
+    "wof:geomhash":"101f1b52a2acf152bbc041dda2a69836",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1293371175,
-    "wof:lastmodified":1566584920,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126939,
     "wof:name":"Kodesmaa",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     24.50028,
-    58.63198000000001,
+    58.63198,
     24.50028,
-    58.63198000000001
+    58.63198
 ],
-  "geometry": {"coordinates":[24.50028,58.63198000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.50028,58.63198],"type":"Point"}
 }

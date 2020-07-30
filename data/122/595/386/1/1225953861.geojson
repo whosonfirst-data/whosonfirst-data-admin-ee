@@ -75,7 +75,7 @@
         "gn:id":8618663
     },
     "wof:country":"EE",
-    "wof:geomhash":"725f05b87acf9f7ef512048d68c510c2",
+    "wof:geomhash":"d258c0eb7b5817ce3af76c4987b4003b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1225953861,
-    "wof:lastmodified":1566585517,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127035,
     "wof:name":"Rummu",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -96,9 +102,9 @@
 },
   "bbox": [
     25.31028,
-    59.44583000000001,
+    59.44583,
     25.31028,
-    59.44583000000001
+    59.44583
 ],
-  "geometry": {"coordinates":[25.31028,59.44583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.31028,59.44583],"type":"Point"}
 }

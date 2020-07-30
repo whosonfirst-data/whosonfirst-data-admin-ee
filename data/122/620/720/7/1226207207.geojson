@@ -42,7 +42,7 @@
         "gn:id":8620470
     },
     "wof:country":"EE",
-    "wof:geomhash":"07669142bd7c55a3932a13d0316830de",
+    "wof:geomhash":"c9cb8c5a0c687b048351e663d7cd8140",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226207207,
-    "wof:lastmodified":1566585533,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127037,
     "wof:name":"Kamarapera",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.14139,
-    58.08971999999999,
+    58.08972,
     25.14139,
-    58.08971999999999
+    58.08972
 ],
-  "geometry": {"coordinates":[25.14139,58.08971999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.14139,58.08972],"type":"Point"}
 }

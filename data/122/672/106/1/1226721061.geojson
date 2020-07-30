@@ -64,7 +64,7 @@
         "wk:page":"M%C3%A4gi-Kurdla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"985d2eb196364d83238f2f5271fd218f",
+    "wof:geomhash":"8397d5b6a79e67a30063858211eb255c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1226721061,
-    "wof:lastmodified":1566585518,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127035,
     "wof:name":"Maegi-Kurdla",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     23.03194,
-    58.42528000000001,
+    58.42528,
     23.03194,
-    58.42528000000001
+    58.42528
 ],
-  "geometry": {"coordinates":[23.03194,58.42528000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.03194,58.42528],"type":"Point"}
 }

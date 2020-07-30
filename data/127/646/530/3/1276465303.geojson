@@ -48,7 +48,7 @@
         "wk:page":"M%C3%B5isak%C3%BCla%2C_Hanila_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"d594f019cd696b7262bc6861450a6c9e",
+    "wof:geomhash":"aacf966e68f05d9cda068fe28a22a86a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1276465303,
-    "wof:lastmodified":1566585026,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126956,
     "wof:name":"Moisakuela",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     23.55306,
-    58.68083000000001,
+    58.68083,
     23.55306,
-    58.68083000000001
+    58.68083
 ],
-  "geometry": {"coordinates":[23.55306,58.68083000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.55306,58.68083],"type":"Point"}
 }

@@ -40,7 +40,7 @@
         "gn:id":794003
     },
     "wof:country":"EE",
-    "wof:geomhash":"28cb5d146f6418cdbd6e0d65229c7bf3",
+    "wof:geomhash":"36875ac53ca0c56750c33b30a64ac273",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -48,7 +48,13 @@
         }
     ],
     "wof:id":1209290413,
-    "wof:lastmodified":1566585094,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126966,
     "wof:name":"Utukolga",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -58,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.17917000000001,
+    26.17917,
     58.23917,
-    26.17917000000001,
+    26.17917,
     58.23917
 ],
-  "geometry": {"coordinates":[26.17917000000001,58.23917],"type":"Point"}
+  "geometry": {"coordinates":[26.17917,58.23917],"type":"Point"}
 }

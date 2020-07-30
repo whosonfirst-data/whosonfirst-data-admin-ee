@@ -46,7 +46,7 @@
         "gn:id":8620285
     },
     "wof:country":"EE",
-    "wof:geomhash":"2fadf09cddfa820ee1cde7129ee11df8",
+    "wof:geomhash":"96621ad9b57a76b8c5fc7bab20a06c7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1310164601,
-    "wof:lastmodified":1566585191,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126982,
     "wof:name":"Peraemotsa",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.12667,
-    57.69278000000001,
+    57.69278,
     27.12667,
-    57.69278000000001
+    57.69278
 ],
-  "geometry": {"coordinates":[27.12667,57.69278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.12667,57.69278],"type":"Point"}
 }

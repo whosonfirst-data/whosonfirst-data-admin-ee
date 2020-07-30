@@ -54,7 +54,7 @@
         "gn:id":8618797
     },
     "wof:country":"EE",
-    "wof:geomhash":"e0416fbd0c54ac4f01cf69bdd1af6acf",
+    "wof:geomhash":"c68a6d023ec2e96b28d84479c4b97623",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +64,13 @@
         }
     ],
     "wof:id":1226564461,
-    "wof:lastmodified":1566585541,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127038,
     "wof:name":"Taru",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -74,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.26194000000001,
+    26.26194,
     59.255,
-    26.26194000000001,
+    26.26194,
     59.255
 ],
-  "geometry": {"coordinates":[26.26194000000001,59.255],"type":"Point"}
+  "geometry": {"coordinates":[26.26194,59.255],"type":"Point"}
 }

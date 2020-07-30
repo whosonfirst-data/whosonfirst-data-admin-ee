@@ -73,7 +73,7 @@
         "wk:page":"Metsakasti"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c3b08d0e61b83f89d936a9f688f9ee72",
+    "wof:geomhash":"dfcc44a3a8f40e92e8672fa58236de37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +83,13 @@
         }
     ],
     "wof:id":1209829693,
-    "wof:lastmodified":1566585075,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Metsakasti",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -94,9 +100,9 @@
 },
   "bbox": [
     24.89083,
-    59.49333000000001,
+    59.49333,
     24.89083,
-    59.49333000000001
+    59.49333
 ],
-  "geometry": {"coordinates":[24.89083,59.49333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.89083,59.49333],"type":"Point"}
 }

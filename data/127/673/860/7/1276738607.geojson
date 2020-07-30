@@ -71,7 +71,7 @@
         "wk:page":"Lahepera"
     },
     "wof:country":"EE",
-    "wof:geomhash":"644509eae5994827c47a3576ecca42ec",
+    "wof:geomhash":"285f584139a23c009207e65a2e88853c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +81,13 @@
         }
     ],
     "wof:id":1276738607,
-    "wof:lastmodified":1566584994,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126951,
     "wof:name":"Lahepera",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -92,9 +98,9 @@
 },
   "bbox": [
     27.1475,
-    58.57944000000001,
+    58.57944,
     27.1475,
-    58.57944000000001
+    58.57944
 ],
-  "geometry": {"coordinates":[27.1475,58.57944000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.1475,58.57944],"type":"Point"}
 }

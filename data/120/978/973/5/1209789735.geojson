@@ -46,7 +46,7 @@
         "gn:id":8620252
     },
     "wof:country":"EE",
-    "wof:geomhash":"0a7a1c9b3bf598e5bdb7d29c44a8734b",
+    "wof:geomhash":"a515202a01a3f73ca12046c03def087d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1209789735,
-    "wof:lastmodified":1566585072,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126963,
     "wof:name":"Jaervekuelae",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.00694,
-    57.68389000000001,
+    57.68389,
     27.00694,
-    57.68389000000001
+    57.68389
 ],
-  "geometry": {"coordinates":[27.00694,57.68389000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.00694,57.68389],"type":"Point"}
 }

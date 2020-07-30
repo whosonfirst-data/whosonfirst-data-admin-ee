@@ -64,7 +64,7 @@
         "wk:page":"Eiste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"468e54b7e064b325b5aeb383e8a58bee",
+    "wof:geomhash":"dae689ef5b971a5d410def062834f7f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1310584729,
-    "wof:lastmodified":1566585211,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126985,
     "wof:name":"Eiste",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     22.72083,
-    58.37583000000001,
+    58.37583,
     22.72083,
-    58.37583000000001
+    58.37583
 ],
-  "geometry": {"coordinates":[22.72083,58.37583000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.72083,58.37583],"type":"Point"}
 }

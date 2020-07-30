@@ -68,7 +68,7 @@
         "wk:page":"V%C3%B5ide"
     },
     "wof:country":"EE",
-    "wof:geomhash":"31a77d6db798f3b5ae06977c4555e94b",
+    "wof:geomhash":"b9f873cadd832c32cec7b1ddf084dbaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +78,13 @@
         }
     ],
     "wof:id":1243556625,
-    "wof:lastmodified":1566585398,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127016,
     "wof:name":"Voide",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -89,9 +95,9 @@
 },
   "bbox": [
     27.28472,
-    59.25666999999999,
+    59.25667,
     27.28472,
-    59.25666999999999
+    59.25667
 ],
-  "geometry": {"coordinates":[27.28472,59.25666999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.28472,59.25667],"type":"Point"}
 }

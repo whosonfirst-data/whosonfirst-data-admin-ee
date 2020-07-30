@@ -73,7 +73,7 @@
         "wk:page":"Joosu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"53ec96fd40b5db73b8c789f99ba8b73b",
+    "wof:geomhash":"2518fa3572437e82e2c8113d63e73436",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +83,13 @@
         }
     ],
     "wof:id":1209893259,
-    "wof:lastmodified":1566585101,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126967,
     "wof:name":"Joosu",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -94,9 +100,9 @@
 },
   "bbox": [
     27.04806,
-    57.93083000000001,
+    57.93083,
     27.04806,
-    57.93083000000001
+    57.93083
 ],
-  "geometry": {"coordinates":[27.04806,57.93083000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.04806,57.93083],"type":"Point"}
 }

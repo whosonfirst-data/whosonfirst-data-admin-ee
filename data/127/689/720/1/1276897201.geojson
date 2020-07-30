@@ -42,7 +42,7 @@
         "gn:id":793363
     },
     "wof:country":"EE",
-    "wof:geomhash":"0cfd9b1d7b3ea42912f2fbf4157c1c27",
+    "wof:geomhash":"1b56e3145166b3d1c100dd87ab41f94c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276897201,
-    "wof:lastmodified":1566584991,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126950,
     "wof:name":"Piirivarbe",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.05778,
-    58.67528000000001,
+    58.67528,
     27.05778,
-    58.67528000000001
+    58.67528
 ],
-  "geometry": {"coordinates":[27.05778,58.67528000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.05778,58.67528],"type":"Point"}
 }

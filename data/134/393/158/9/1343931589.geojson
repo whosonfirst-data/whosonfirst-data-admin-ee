@@ -71,7 +71,7 @@
         "wk:page":"S%C3%B5mera"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b216dda34335ee2f8907646ceb1cf69d",
+    "wof:geomhash":"c6304c7e6e5c46bec074c9e011d64f49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +81,13 @@
         }
     ],
     "wof:id":1343931589,
-    "wof:lastmodified":1566584868,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126932,
     "wof:name":"Somera",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -92,9 +98,9 @@
 },
   "bbox": [
     22.25889,
-    58.29528000000001,
+    58.29528,
     22.25889,
-    58.29528000000001
+    58.29528
 ],
-  "geometry": {"coordinates":[22.25889,58.29528000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.25889,58.29528],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "gn:id":8619904
     },
     "wof:country":"EE",
-    "wof:geomhash":"42bb88f64c246243d061c1571df7f9dd",
+    "wof:geomhash":"d3561f6b37a7276abf5512dc97e3ed72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343920523,
-    "wof:lastmodified":1566584861,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126931,
     "wof:name":"Tantsumaee",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.91194,
-    57.99028000000001,
+    57.99028,
     25.91194,
-    57.99028000000001
+    57.99028
 ],
-  "geometry": {"coordinates":[25.91194,57.99028000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.91194,57.99028],"type":"Point"}
 }

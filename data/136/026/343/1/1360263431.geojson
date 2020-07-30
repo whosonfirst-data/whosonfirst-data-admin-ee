@@ -42,7 +42,7 @@
         "gn:id":591564
     },
     "wof:country":"EE",
-    "wof:geomhash":"620f98be7f09a09858f43517db353584",
+    "wof:geomhash":"530fd04f4531d740153fa9ec1d75113f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360263431,
-    "wof:lastmodified":1566585227,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126988,
     "wof:name":"Karuga",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.14417000000001,
-    58.34721999999999,
-    24.14417000000001,
-    58.34721999999999
+    24.14417,
+    58.34722,
+    24.14417,
+    58.34722
 ],
-  "geometry": {"coordinates":[24.14417000000001,58.34721999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.14417,58.34722],"type":"Point"}
 }

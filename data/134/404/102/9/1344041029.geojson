@@ -73,7 +73,7 @@
         "wk:page":"Vaigu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1e8388fddf8ad23a91cb66d5f72d8893",
+    "wof:geomhash":"cc0cd66dbdd5be32c4ce43582436563b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +83,13 @@
         }
     ],
     "wof:id":1344041029,
-    "wof:lastmodified":1566584882,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126934,
     "wof:name":"Vaigu",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -94,9 +100,9 @@
 },
   "bbox": [
     22.03333,
-    58.46666999999999,
+    58.46667,
     22.03333,
-    58.46666999999999
+    58.46667
 ],
-  "geometry": {"coordinates":[22.03333,58.46666999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.03333,58.46667],"type":"Point"}
 }

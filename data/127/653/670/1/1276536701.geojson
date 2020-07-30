@@ -46,7 +46,7 @@
         "gn:id":590798
     },
     "wof:country":"EE",
-    "wof:geomhash":"a9a00f54483cc9a58c73955a819f12ea",
+    "wof:geomhash":"e8e7aa4cd8d685e573c8090610cfcebb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1276536701,
-    "wof:lastmodified":1566585040,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126958,
     "wof:name":"Lambakuela",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.86667000000001,
+    24.86667,
     58.31667,
-    24.86667000000001,
+    24.86667,
     58.31667
 ],
-  "geometry": {"coordinates":[24.86667000000001,58.31667],"type":"Point"}
+  "geometry": {"coordinates":[24.86667,58.31667],"type":"Point"}
 }

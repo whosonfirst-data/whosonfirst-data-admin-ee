@@ -77,7 +77,7 @@
         "wk:page":"Muusika"
     },
     "wof:country":"EE",
-    "wof:geomhash":"da06296778352d058aaaf9a8d312d988",
+    "wof:geomhash":"418f37a94f24efd3c54f7ac93c45d011",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +87,13 @@
         }
     ],
     "wof:id":1226260517,
-    "wof:lastmodified":1566585527,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127036,
     "wof:name":"Muusika",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -98,9 +104,9 @@
 },
   "bbox": [
     24.47056,
-    59.21666999999999,
+    59.21667,
     24.47056,
-    59.21666999999999
+    59.21667
 ],
-  "geometry": {"coordinates":[24.47056,59.21666999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.47056,59.21667],"type":"Point"}
 }

@@ -49,7 +49,7 @@
         "gn:id":591967
     },
     "wof:country":"EE",
-    "wof:geomhash":"67fe9ad5bfab558bf9114be2c4d97ef5",
+    "wof:geomhash":"947de9deeee0ff5213fbf858fd7dfeb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +59,13 @@
         }
     ],
     "wof:id":1243549993,
-    "wof:lastmodified":1566585391,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127015,
     "wof:name":"Jaervajoe",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -70,9 +76,9 @@
 },
   "bbox": [
     26.15667,
-    59.19583000000001,
+    59.19583,
     26.15667,
-    59.19583000000001
+    59.19583
 ],
-  "geometry": {"coordinates":[26.15667,59.19583000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.15667,59.19583],"type":"Point"}
 }

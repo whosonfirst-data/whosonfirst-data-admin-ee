@@ -72,7 +72,7 @@
         "gn:id":588650
     },
     "wof:country":"EE",
-    "wof:geomhash":"4e0d8fc78a7d547f7bd35c2fd7aecba7",
+    "wof:geomhash":"80bbfd1e91d5486a33517e874b397f42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +82,13 @@
         }
     ],
     "wof:id":1360262229,
-    "wof:lastmodified":1566585227,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126988,
     "wof:name":"Soe",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -93,9 +99,9 @@
 },
   "bbox": [
     27.55806,
-    57.92471999999999,
+    57.92472,
     27.55806,
-    57.92471999999999
+    57.92472
 ],
-  "geometry": {"coordinates":[27.55806,57.92471999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.55806,57.92472],"type":"Point"}
 }

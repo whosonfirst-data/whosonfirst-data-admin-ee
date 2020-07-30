@@ -72,7 +72,7 @@
         "gn:id":588050
     },
     "wof:country":"EE",
-    "wof:geomhash":"7df80e7e5c053af2250d3470ed984f30",
+    "wof:geomhash":"972be1bafb70887144c2418e8e129ee0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +82,13 @@
         }
     ],
     "wof:id":1226120627,
-    "wof:lastmodified":1566585565,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127042,
     "wof:name":"Ura",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -93,9 +99,9 @@
 },
   "bbox": [
     24.71667,
-    58.18333000000001,
+    58.18333,
     24.71667,
-    58.18333000000001
+    58.18333
 ],
-  "geometry": {"coordinates":[24.71667,58.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.71667,58.18333],"type":"Point"}
 }

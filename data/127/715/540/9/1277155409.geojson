@@ -42,7 +42,7 @@
         "gn:id":587973
     },
     "wof:country":"EE",
-    "wof:geomhash":"788c6d68f898acb86918e8b2bc6b66ad",
+    "wof:geomhash":"2bae1f7886a2da446c0d847853c6dd43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1277155409,
-    "wof:lastmodified":1566585013,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126954,
     "wof:name":"Vaarja",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     24.83333,
-    58.11666999999999,
+    58.11667,
     24.83333,
-    58.11666999999999
+    58.11667
 ],
-  "geometry": {"coordinates":[24.83333,58.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.83333,58.11667],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "gn:id":8620236
     },
     "wof:country":"EE",
-    "wof:geomhash":"4364e73f4445be5a4eb1aac62104dc75",
+    "wof:geomhash":"d8a6ed37a8863d24c240c371fd32a1c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1242838761,
-    "wof:lastmodified":1566585444,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127023,
     "wof:name":"Toudsimaee",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.15306,
-    57.89944000000001,
+    57.89944,
     27.15306,
-    57.89944000000001
+    57.89944
 ],
-  "geometry": {"coordinates":[27.15306,57.89944000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.15306,57.89944],"type":"Point"}
 }

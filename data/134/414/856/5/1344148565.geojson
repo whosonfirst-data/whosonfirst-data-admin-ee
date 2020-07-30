@@ -73,7 +73,7 @@
         "wk:page":"Ubasalu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"fc42e14185174d91303f01df54d025a7",
+    "wof:geomhash":"3718514616a369acbec79b69b8d3b3b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +83,13 @@
         }
     ],
     "wof:id":1344148565,
-    "wof:lastmodified":1566584841,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126928,
     "wof:name":"Ubasalu",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -94,9 +100,9 @@
 },
   "bbox": [
     23.98722,
-    58.87694000000001,
+    58.87694,
     23.98722,
-    58.87694000000001
+    58.87694
 ],
-  "geometry": {"coordinates":[23.98722,58.87694000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.98722,58.87694],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "gn:id":590586
     },
     "wof:country":"EE",
-    "wof:geomhash":"314f066db1fe99f527922d434e2ef5fb",
+    "wof:geomhash":"d4bf6b4b01f40294539d60f57656b00b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1343626449,
-    "wof:lastmodified":1566584825,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126926,
     "wof:name":"Liiduvere",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     25.39861,
-    58.48833000000001,
+    58.48833,
     25.39861,
-    58.48833000000001
+    58.48833
 ],
-  "geometry": {"coordinates":[25.39861,58.48833000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.39861,58.48833],"type":"Point"}
 }

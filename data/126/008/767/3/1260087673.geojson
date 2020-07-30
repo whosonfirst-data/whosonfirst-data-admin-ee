@@ -47,7 +47,7 @@
         "gn:id":589050
     },
     "wof:country":"EE",
-    "wof:geomhash":"a98a0b9111492bd83644efc58ae427b2",
+    "wof:geomhash":"3b1f6a5f4c3092fd1cf0e7f422dff33f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1260087673,
-    "wof:lastmodified":1566585141,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126975,
     "wof:name":"Repniku",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     27.93333,
-    59.36666999999999,
+    59.36667,
     27.93333,
-    59.36666999999999
+    59.36667
 ],
-  "geometry": {"coordinates":[27.93333,59.36666999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.93333,59.36667],"type":"Point"}
 }

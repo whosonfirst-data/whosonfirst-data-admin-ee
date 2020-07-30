@@ -61,7 +61,7 @@
         "wk:page":"Veskim%C3%A4e%2C_Tartu_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"7cab8ea80560310d8eba52e8b2c5efb3",
+    "wof:geomhash":"d4f1c34ec6d9936e4e62c1783bbd4b33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1344132703,
-    "wof:lastmodified":1566584840,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126928,
     "wof:name":"Veskimaee",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -81,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.99889000000001,
+    26.99889,
     58.37556,
-    26.99889000000001,
+    26.99889,
     58.37556
 ],
-  "geometry": {"coordinates":[26.99889000000001,58.37556],"type":"Point"}
+  "geometry": {"coordinates":[26.99889,58.37556],"type":"Point"}
 }

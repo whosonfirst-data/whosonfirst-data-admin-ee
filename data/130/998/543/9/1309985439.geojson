@@ -60,7 +60,7 @@
         "gn:id":588811
     },
     "wof:country":"EE",
-    "wof:geomhash":"73b0218794348e0cef13f4c7d718dce7",
+    "wof:geomhash":"fa9eed8f2d6a75c899541ffebf938d38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1309985439,
-    "wof:lastmodified":1566585250,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126993,
     "wof:name":"Salutaguse",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -81,9 +87,9 @@
 },
   "bbox": [
     24.11833,
-    58.93333000000001,
+    58.93333,
     24.11833,
-    58.93333000000001
+    58.93333
 ],
-  "geometry": {"coordinates":[24.11833,58.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.11833,58.93333],"type":"Point"}
 }

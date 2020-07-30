@@ -42,7 +42,7 @@
         "gn:id":589974
     },
     "wof:country":"EE",
-    "wof:geomhash":"274cc0fccab7521f0f4d282399483f55",
+    "wof:geomhash":"a5f1bbc35d8cd01cf6620baec23f6405",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276201987,
-    "wof:lastmodified":1566584997,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126951,
     "wof:name":"Noela",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.58333,
-    58.43333000000001,
+    58.43333,
     26.58333,
-    58.43333000000001
+    58.43333
 ],
-  "geometry": {"coordinates":[26.58333,58.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.58333,58.43333],"type":"Point"}
 }

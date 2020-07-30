@@ -46,7 +46,7 @@
         "gn:id":8620818
     },
     "wof:country":"EE",
-    "wof:geomhash":"46687f121bffc30216378581aff6c75c",
+    "wof:geomhash":"f97c4de61f33829e435c908c39f2b6aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1309699473,
-    "wof:lastmodified":1566585264,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126995,
     "wof:name":"Arojaerve",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.29528,
-    58.20721999999999,
+    58.20722,
     27.29528,
-    58.20721999999999
+    58.20722
 ],
-  "geometry": {"coordinates":[27.29528,58.20721999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.29528,58.20722],"type":"Point"}
 }

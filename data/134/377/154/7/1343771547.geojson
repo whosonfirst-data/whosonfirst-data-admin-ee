@@ -42,7 +42,7 @@
         "gn:id":588139
     },
     "wof:country":"EE",
-    "wof:geomhash":"96af8c53653999a1c48d64a8b1c0a729",
+    "wof:geomhash":"56873e6754b5a5ae006d7dd267bdd8db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343771547,
-    "wof:lastmodified":1566584852,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126930,
     "wof:name":"Turvaste",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     24.11361,
-    59.09583000000001,
+    59.09583,
     24.11361,
-    59.09583000000001
+    59.09583
 ],
-  "geometry": {"coordinates":[24.11361,59.09583000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.11361,59.09583],"type":"Point"}
 }

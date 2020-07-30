@@ -64,7 +64,7 @@
         "wk:page":"Vellavere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"511609e5fbb2f3ed902aa0187b3ffa27",
+    "wof:geomhash":"807021103e31c745b2741d7d987fa407",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1293255437,
-    "wof:lastmodified":1566584942,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126942,
     "wof:name":"Vellavere",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.3975,
-    58.25666999999999,
+    58.25667,
     26.3975,
-    58.25666999999999
+    58.25667
 ],
-  "geometry": {"coordinates":[26.3975,58.25666999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.3975,58.25667],"type":"Point"}
 }

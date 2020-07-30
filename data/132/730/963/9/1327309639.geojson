@@ -42,7 +42,7 @@
         "gn:id":8620494
     },
     "wof:country":"EE",
-    "wof:geomhash":"7d31d274ef360c1c357b254349c35be3",
+    "wof:geomhash":"6c554a690bd4d842129bb4d26dfcff31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327309639,
-    "wof:lastmodified":1566584759,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126916,
     "wof:name":"Mudsi",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.26722,
-    58.14333000000001,
+    58.14333,
     26.26722,
-    58.14333000000001
+    58.14333
 ],
-  "geometry": {"coordinates":[26.26722,58.14333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.26722,58.14333],"type":"Point"}
 }

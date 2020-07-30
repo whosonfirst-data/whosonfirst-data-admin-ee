@@ -46,7 +46,7 @@
         "gn:id":8618973
     },
     "wof:country":"EE",
-    "wof:geomhash":"6b16b092bad01df55d26864486627333",
+    "wof:geomhash":"5ed498142f08c71a5096340de9dbc824",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1259970519,
-    "wof:lastmodified":1566585472,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127028,
     "wof:name":"Arukuela",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     26.1925,
-    59.05139000000001,
+    59.05139,
     26.1925,
-    59.05139000000001
+    59.05139
 ],
-  "geometry": {"coordinates":[26.1925,59.05139000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.1925,59.05139],"type":"Point"}
 }

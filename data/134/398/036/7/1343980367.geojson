@@ -81,7 +81,7 @@
         "gn:id":8618641
     },
     "wof:country":"EE",
-    "wof:geomhash":"5ccff22f3bd86a19dacab91cb8062321",
+    "wof:geomhash":"2eb52c3806bce1eea94a3039b8143ebf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +91,13 @@
         }
     ],
     "wof:id":1343980367,
-    "wof:lastmodified":1566584828,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126927,
     "wof:name":"Ilmandu",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -102,9 +108,9 @@
 },
   "bbox": [
     26.12778,
-    59.07333000000001,
+    59.07333,
     26.12778,
-    59.07333000000001
+    59.07333
 ],
-  "geometry": {"coordinates":[26.12778,59.07333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.12778,59.07333],"type":"Point"}
 }

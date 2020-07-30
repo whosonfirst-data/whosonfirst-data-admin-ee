@@ -55,7 +55,7 @@
         "wk:page":"Simunam%C3%A4e"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b6d6c5b59d0334896d3999ea42e34dff",
+    "wof:geomhash":"e316b6fd007bd3c870f090da8d731f08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1259368565,
-    "wof:lastmodified":1566585464,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127026,
     "wof:name":"Simunamaee",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -76,9 +82,9 @@
 },
   "bbox": [
     26.58972,
-    59.51221999999999,
+    59.51222,
     26.58972,
-    59.51221999999999
+    59.51222
 ],
-  "geometry": {"coordinates":[26.58972,59.51221999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.58972,59.51222],"type":"Point"}
 }

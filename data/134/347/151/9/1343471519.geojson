@@ -61,7 +61,7 @@
         "wk:page":"H%C3%BCti%2C_Hiiu_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"bf6a61f20513e0c2d63fb5a7c21db273",
+    "wof:geomhash":"606c1c9ef39479d39f0224b3c371a2fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1343471519,
-    "wof:lastmodified":1566584859,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126931,
     "wof:name":"Khyuti",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     22.49605,
-    58.90773000000001,
+    58.90773,
     22.49605,
-    58.90773000000001
+    58.90773
 ],
-  "geometry": {"coordinates":[22.49605,58.90773000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.49605,58.90773],"type":"Point"}
 }

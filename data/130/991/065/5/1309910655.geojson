@@ -46,7 +46,7 @@
         "gn:id":591102
     },
     "wof:country":"EE",
-    "wof:geomhash":"3218f8c1add7bffe9efe4b9a229f2044",
+    "wof:geomhash":"b88330509949e8a22a7f929cc47b8481",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1309910655,
-    "wof:lastmodified":1566585252,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126993,
     "wof:name":"Korkkuela",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     26.00278,
-    58.79389000000001,
+    58.79389,
     26.00278,
-    58.79389000000001
+    58.79389
 ],
-  "geometry": {"coordinates":[26.00278,58.79389000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.00278,58.79389],"type":"Point"}
 }

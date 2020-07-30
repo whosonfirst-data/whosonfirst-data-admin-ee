@@ -43,7 +43,7 @@
         "gn:id":8618181
     },
     "wof:country":"EE",
-    "wof:geomhash":"108ae0c374176759f40e7320090bcea0",
+    "wof:geomhash":"42541c08937a0920378241c4615d2657",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -51,7 +51,13 @@
         }
     ],
     "wof:id":1209200929,
-    "wof:lastmodified":1566585096,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126967,
     "wof:name":"Maidemaa",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -61,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.08917000000001,
+    25.08917,
     58.765,
-    25.08917000000001,
+    25.08917,
     58.765
 ],
-  "geometry": {"coordinates":[25.08917000000001,58.765],"type":"Point"}
+  "geometry": {"coordinates":[25.08917,58.765],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "gn:id":8620771
     },
     "wof:country":"EE",
-    "wof:geomhash":"8341bd7df2b113810a82a35deea89149",
+    "wof:geomhash":"216f9f17bb6f6b6b2a09e184987fa911",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1243429661,
-    "wof:lastmodified":1566585458,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127026,
     "wof:name":"Undi",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -77,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.21417000000001,
+    26.21417,
     58.10972,
-    26.21417000000001,
+    26.21417,
     58.10972
 ],
-  "geometry": {"coordinates":[26.21417000000001,58.10972],"type":"Point"}
+  "geometry": {"coordinates":[26.21417,58.10972],"type":"Point"}
 }

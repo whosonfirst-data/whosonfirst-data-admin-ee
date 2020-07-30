@@ -45,7 +45,7 @@
         "gn:id":591558
     },
     "wof:country":"EE",
-    "wof:geomhash":"2d7295122aaa936d1a956055e581ff91",
+    "wof:geomhash":"9a67d8a7c10d417f06fd945ebb657404",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1360246795,
-    "wof:lastmodified":1566585213,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126985,
     "wof:name":"Karuli",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     25.8,
-    58.13333000000001,
+    58.13333,
     25.8,
-    58.13333000000001
+    58.13333
 ],
-  "geometry": {"coordinates":[25.8,58.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.8,58.13333],"type":"Point"}
 }

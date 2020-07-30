@@ -71,7 +71,7 @@
         "wk:page":"Unipiha"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b955e5d431e03bc3318a92c64f2d3e13",
+    "wof:geomhash":"31a74474780594867ada5968ca77a2dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +81,13 @@
         }
     ],
     "wof:id":1343728419,
-    "wof:lastmodified":1566584891,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126936,
     "wof:name":"Unipiha",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -92,9 +98,9 @@
 },
   "bbox": [
     26.60139,
-    58.25944000000001,
+    58.25944,
     26.60139,
-    58.25944000000001
+    58.25944
 ],
-  "geometry": {"coordinates":[26.60139,58.25944000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.60139,58.25944],"type":"Point"}
 }

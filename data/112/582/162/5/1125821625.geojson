@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"25.1786235,59.1592345,25.1786235,59.1592345",
+    "geom:bbox":"25.178624,59.159234,25.178624,59.159234",
     "geom:latitude":59.159234,
     "geom:longitude":25.178624,
     "gn:country":null,
@@ -80,7 +80,7 @@
     },
     "wof:country":"EE",
     "wof:created":1497292096,
-    "wof:geomhash":"2f3fcc7dfe6dd1e3941002a68e1bba19",
+    "wof:geomhash":"1186220c707b7d1cbdaa7c28bd4826ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +90,13 @@
         }
     ],
     "wof:id":1125821625,
-    "wof:lastmodified":1566585376,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127012,
     "wof:name":"Marguse",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -100,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.1786235,
-    59.1592345,
-    25.1786235,
-    59.1592345
+    25.178624,
+    59.159234,
+    25.178624,
+    59.159234
 ],
-  "geometry": {"coordinates":[25.1786235,59.1592345],"type":"Point"}
+  "geometry": {"coordinates":[25.178624,59.159234],"type":"Point"}
 }

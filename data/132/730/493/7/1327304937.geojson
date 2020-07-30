@@ -65,7 +65,7 @@
         "wk:page":"Rahtla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"aaaed2f462d51c2bd74e6a1f0231eec5",
+    "wof:geomhash":"4aeb34058b2acc8bc1afce250f36e8df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1327304937,
-    "wof:lastmodified":1566584760,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126916,
     "wof:name":"Rahtla",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     22.18667,
-    58.45444000000001,
+    58.45444,
     22.18667,
-    58.45444000000001
+    58.45444
 ],
-  "geometry": {"coordinates":[22.18667,58.45444000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.18667,58.45444],"type":"Point"}
 }

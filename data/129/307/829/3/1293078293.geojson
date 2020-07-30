@@ -58,7 +58,7 @@
         "wk:page":"P%C3%A4%C3%A4sna"
     },
     "wof:country":"EE",
-    "wof:geomhash":"2d172b3ffd8d08e7973c4508728c4d0b",
+    "wof:geomhash":"3f2c4ab281bcc0d4001d3f753c053cbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1293078293,
-    "wof:lastmodified":1566584911,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126938,
     "wof:name":"Paeaesna",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -78,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.28972000000001,
+    27.28972,
     58.01611,
-    27.28972000000001,
+    27.28972,
     58.01611
 ],
-  "geometry": {"coordinates":[27.28972000000001,58.01611],"type":"Point"}
+  "geometry": {"coordinates":[27.28972,58.01611],"type":"Point"}
 }

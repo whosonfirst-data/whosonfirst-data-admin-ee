@@ -228,7 +228,7 @@
         "gn:id":8620169
     },
     "wof:country":"EE",
-    "wof:geomhash":"c9c674f3aba4f875b093c78e6a57e714",
+    "wof:geomhash":"30d9db177e52cde6c33807ee36f4aa30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -238,7 +238,13 @@
         }
     ],
     "wof:id":1309686173,
-    "wof:lastmodified":1566585262,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126994,
     "wof:name":"Saaremaa",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -249,9 +255,9 @@
 },
   "bbox": [
     27.14139,
-    57.80083000000001,
+    57.80083,
     27.14139,
-    57.80083000000001
+    57.80083
 ],
-  "geometry": {"coordinates":[27.14139,57.80083000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.14139,57.80083],"type":"Point"}
 }

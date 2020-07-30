@@ -42,7 +42,7 @@
         "gn:id":592304
     },
     "wof:country":"EE",
-    "wof:geomhash":"f754c98a64e723faa1626cd0a23d3ba3",
+    "wof:geomhash":"4554b0f69406d64ab8787f10dee4511c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1193118425,
-    "wof:lastmodified":1566585126,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126972,
     "wof:name":"Ehala",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     23.81667,
-    58.53333000000001,
+    58.53333,
     23.81667,
-    58.53333000000001
+    58.53333
 ],
-  "geometry": {"coordinates":[23.81667,58.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.81667,58.53333],"type":"Point"}
 }

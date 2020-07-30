@@ -64,7 +64,7 @@
         "wk:page":"Uneste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"9062e46bdb55f966b54f238fa0d0c707",
+    "wof:geomhash":"32b9a6057874b9812fc846cf90a77f3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1243355195,
-    "wof:lastmodified":1566585434,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127022,
     "wof:name":"Uneste",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     23.66778,
-    58.88721999999999,
+    58.88722,
     23.66778,
-    58.88721999999999
+    58.88722
 ],
-  "geometry": {"coordinates":[23.66778,58.88721999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.66778,58.88722],"type":"Point"}
 }

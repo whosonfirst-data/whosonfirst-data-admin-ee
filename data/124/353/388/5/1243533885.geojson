@@ -73,7 +73,7 @@
         "wk:page":"Paek%C3%BCla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"599b03b3e75f13c8c8ef206172695dd4",
+    "wof:geomhash":"99548b4f3151746c43fcc025974ccfb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +83,13 @@
         }
     ],
     "wof:id":1243533885,
-    "wof:lastmodified":1566585394,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127016,
     "wof:name":"Paekuela",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -94,9 +100,9 @@
 },
   "bbox": [
     24.36639,
-    58.86221999999999,
+    58.86222,
     24.36639,
-    58.86221999999999
+    58.86222
 ],
-  "geometry": {"coordinates":[24.36639,58.86221999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.36639,58.86222],"type":"Point"}
 }

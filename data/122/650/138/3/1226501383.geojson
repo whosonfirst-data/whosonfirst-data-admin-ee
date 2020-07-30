@@ -46,7 +46,7 @@
         "gn:id":8619730
     },
     "wof:country":"EE",
-    "wof:geomhash":"d3795d4ddeeb32938a8325af0343dc36",
+    "wof:geomhash":"cf4f464aa5b613bd0b958b25c351c06b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1226501383,
-    "wof:lastmodified":1566585547,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127039,
     "wof:name":"Tsiamaee",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     26.76806,
-    57.58278000000001,
+    57.58278,
     26.76806,
-    57.58278000000001
+    57.58278
 ],
-  "geometry": {"coordinates":[26.76806,57.58278000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.76806,57.58278],"type":"Point"}
 }

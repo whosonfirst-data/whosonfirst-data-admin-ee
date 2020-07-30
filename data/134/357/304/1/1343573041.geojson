@@ -64,7 +64,7 @@
         "wk:page":"Auvere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"5c507311078f638dec3a0b9352c1379a",
+    "wof:geomhash":"0d50953f63628fa37cbef5b8f6de9b13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1343573041,
-    "wof:lastmodified":1566584864,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126932,
     "wof:name":"Auvere",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     27.9375,
-    59.34583000000001,
+    59.34583,
     27.9375,
-    59.34583000000001
+    59.34583
 ],
-  "geometry": {"coordinates":[27.9375,59.34583000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.9375,59.34583],"type":"Point"}
 }

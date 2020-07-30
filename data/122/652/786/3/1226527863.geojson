@@ -55,7 +55,7 @@
         "wk:page":"Liiguste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1590ed10ca9e43fdf4c1b5a9c0ea857f",
+    "wof:geomhash":"b9ce62a8a84d5e46892fe4f1a63055c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1226527863,
-    "wof:lastmodified":1566585571,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127043,
     "wof:name":"Liiguste",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -76,9 +82,9 @@
 },
   "bbox": [
     26.12361,
-    59.44221999999999,
+    59.44222,
     26.12361,
-    59.44221999999999
+    59.44222
 ],
-  "geometry": {"coordinates":[26.12361,59.44221999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.12361,59.44222],"type":"Point"}
 }

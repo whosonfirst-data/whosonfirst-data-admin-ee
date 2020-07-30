@@ -64,7 +64,7 @@
         "wk:page":"K%C3%B5lun%C3%B5mme"
     },
     "wof:country":"EE",
-    "wof:geomhash":"150cad70fba4b0a60462d54f4a843b98",
+    "wof:geomhash":"30cea5c83489204c0ed986f39b007a15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1243080625,
-    "wof:lastmodified":1566585395,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127016,
     "wof:name":"Kolunomme",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     22.87821,
-    58.97128000000001,
+    58.97128,
     22.87821,
-    58.97128000000001
+    58.97128
 ],
-  "geometry": {"coordinates":[22.87821,58.97128000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.87821,58.97128],"type":"Point"}
 }

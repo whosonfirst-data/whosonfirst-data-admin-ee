@@ -65,7 +65,7 @@
         "wk:page":"Metstaga"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b07290eb8f9da44959d0bee2026b2127",
+    "wof:geomhash":"17fb0e509be21024e9e34108be17ec3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1326588807,
-    "wof:lastmodified":1566584774,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126918,
     "wof:name":"Metstaga",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     26.75278,
-    57.64471999999999,
+    57.64472,
     26.75278,
-    57.64471999999999
+    57.64472
 ],
-  "geometry": {"coordinates":[26.75278,57.64471999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.75278,57.64472],"type":"Point"}
 }

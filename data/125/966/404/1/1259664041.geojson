@@ -46,7 +46,7 @@
         "gn:id":592569
     },
     "wof:country":"EE",
-    "wof:geomhash":"f415f40e680b40a85157fa88d4c458ff",
+    "wof:geomhash":"cde0152edbefdc9f16864eaed3799102",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1259664041,
-    "wof:lastmodified":1566585493,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127031,
     "wof:name":"Ala-Hanikase",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.40389,
-    57.86833000000001,
+    57.86833,
     27.40389,
-    57.86833000000001
+    57.86833
 ],
-  "geometry": {"coordinates":[27.40389,57.86833000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.40389,57.86833],"type":"Point"}
 }

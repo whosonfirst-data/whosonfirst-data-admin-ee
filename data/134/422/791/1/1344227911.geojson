@@ -65,7 +65,7 @@
         "wk:page":"Leval%C3%B5pme"
     },
     "wof:country":"EE",
-    "wof:geomhash":"d7f0cea41b5fe1a33d093ef5fd2c02bf",
+    "wof:geomhash":"17c9ee4fa157b14643a3c72aeb4118ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1344227911,
-    "wof:lastmodified":1566584837,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126928,
     "wof:name":"Levalopme",
     "wof:parent_id":85682951,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     23.25028,
-    58.62139000000001,
+    58.62139,
     23.25028,
-    58.62139000000001
+    58.62139
 ],
-  "geometry": {"coordinates":[23.25028,58.62139000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.25028,58.62139],"type":"Point"}
 }

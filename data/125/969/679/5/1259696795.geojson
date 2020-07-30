@@ -64,7 +64,7 @@
         "wk:page":"Metsak%C3%BCla%2C_Hiiu_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"0798a2c9e13e7045415f51b8c2d85974",
+    "wof:geomhash":"030b8478d4f0dd96e75b781bd5b11e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1259696795,
-    "wof:lastmodified":1566585500,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127033,
     "wof:name":"Metsakuela",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     22.58545,
-    58.94566999999999,
+    58.94567,
     22.58545,
-    58.94566999999999
+    58.94567
 ],
-  "geometry": {"coordinates":[22.58545,58.94566999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.58545,58.94567],"type":"Point"}
 }

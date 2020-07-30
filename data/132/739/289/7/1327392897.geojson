@@ -42,7 +42,7 @@
         "gn:id":794382
     },
     "wof:country":"EE",
-    "wof:geomhash":"a314489b9a964e8620caa5610f97cc41",
+    "wof:geomhash":"7eba39ce2574f8f0af9b748d5d9968f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327392897,
-    "wof:lastmodified":1566584758,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126916,
     "wof:name":"Sadrametsa",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.80722,
-    57.65833000000001,
+    57.65833,
     26.80722,
-    57.65833000000001
+    57.65833
 ],
-  "geometry": {"coordinates":[26.80722,57.65833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.80722,57.65833],"type":"Point"}
 }

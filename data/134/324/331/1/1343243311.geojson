@@ -64,7 +64,7 @@
         "wk:page":"Kiisamaa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"41d9fe116d66d048a3a47bbbd43ad0b9",
+    "wof:geomhash":"cc4e1b6cf04a721ad0e6179203fc5204",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1343243311,
-    "wof:lastmodified":1566584854,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126930,
     "wof:name":"Kiisamaa",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     24.18806,
-    58.53471999999999,
+    58.53472,
     24.18806,
-    58.53471999999999
+    58.53472
 ],
-  "geometry": {"coordinates":[24.18806,58.53471999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.18806,58.53472],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Kobilu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"2bbc64b95858e9a9421861ef4fe61728",
+    "wof:geomhash":"c7c8b74bc176dc77890903bd02998e20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1242939349,
-    "wof:lastmodified":1566585413,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127019,
     "wof:name":"Kobilu",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.30167,
-    58.29833000000001,
+    58.29833,
     26.30167,
-    58.29833000000001
+    58.29833
 ],
-  "geometry": {"coordinates":[26.30167,58.29833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.30167,58.29833],"type":"Point"}
 }

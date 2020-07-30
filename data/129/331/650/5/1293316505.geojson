@@ -42,7 +42,7 @@
         "gn:id":588701
     },
     "wof:country":"EE",
-    "wof:geomhash":"f1ad7ccfda0306d42585054fc9f8f128",
+    "wof:geomhash":"dad5baa60388cadba94fb88bbba19b1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293316505,
-    "wof:lastmodified":1566584917,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126938,
     "wof:name":"Sigapusma",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.86667000000001,
+    25.86667,
     58.85,
-    25.86667000000001,
+    25.86667,
     58.85
 ],
-  "geometry": {"coordinates":[25.86667000000001,58.85],"type":"Point"}
+  "geometry": {"coordinates":[25.86667,58.85],"type":"Point"}
 }

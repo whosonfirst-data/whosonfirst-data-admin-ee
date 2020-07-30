@@ -62,7 +62,7 @@
         "wk:page":"Tabria"
     },
     "wof:country":"EE",
-    "wof:geomhash":"3191fc6d826da0aa57de06291c6f4579",
+    "wof:geomhash":"913f8961024e233e6e17b7eee7ad07fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,13 @@
         }
     ],
     "wof:id":1310679211,
-    "wof:lastmodified":1566585210,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126985,
     "wof:name":"Tabria",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -82,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.67222000000001,
+    24.67222,
     58.58139,
-    24.67222000000001,
+    24.67222,
     58.58139
 ],
-  "geometry": {"coordinates":[24.67222000000001,58.58139],"type":"Point"}
+  "geometry": {"coordinates":[24.67222,58.58139],"type":"Point"}
 }

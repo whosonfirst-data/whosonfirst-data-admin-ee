@@ -65,7 +65,7 @@
         "wk:page":"Tubala"
     },
     "wof:country":"EE",
-    "wof:geomhash":"f62346ac7ecc96b2dfa8be3072993e5c",
+    "wof:geomhash":"223ef0a902fe4f78030ee288a878ed63",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1209323379,
-    "wof:lastmodified":1566585085,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126965,
     "wof:name":"Tubala",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     22.77397,
-    58.95574000000001,
+    58.95574,
     22.77397,
-    58.95574000000001
+    58.95574
 ],
-  "geometry": {"coordinates":[22.77397,58.95574000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.77397,58.95574],"type":"Point"}
 }

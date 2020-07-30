@@ -46,7 +46,7 @@
         "gn:id":588501
     },
     "wof:country":"EE",
-    "wof:geomhash":"59685fdb8492ce6b168af3f8ccae89b5",
+    "wof:geomhash":"8087f76b228195a8662cb498e26c63c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243151429,
-    "wof:lastmodified":1566585423,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127020,
     "wof:name":"Suurkuela",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     24.5375,
-    59.00944000000001,
+    59.00944,
     24.5375,
-    59.00944000000001
+    59.00944
 ],
-  "geometry": {"coordinates":[24.5375,59.00944000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.5375,59.00944],"type":"Point"}
 }

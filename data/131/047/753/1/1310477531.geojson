@@ -67,7 +67,7 @@
         "wk:page":"Toruk%C3%BCla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"d67468e9fefe9cc1e08bf5215de4e329",
+    "wof:geomhash":"6570fd273d6a7accf054a0d7b28c4322",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1310477531,
-    "wof:lastmodified":1566585167,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126978,
     "wof:name":"Torukuela",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -88,9 +94,9 @@
 },
   "bbox": [
     27.15472,
-    58.59278000000001,
+    58.59278,
     27.15472,
-    58.59278000000001
+    58.59278
 ],
-  "geometry": {"coordinates":[27.15472,58.59278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.15472,58.59278],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "gn:id":589968
     },
     "wof:country":"EE",
-    "wof:geomhash":"6defbab9d1a192ee79f512ce54f59cab",
+    "wof:geomhash":"210d07dff5506b4205a914834260ab58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226813957,
-    "wof:lastmodified":1566585521,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127036,
     "wof:name":"Nomme",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.88333,
-    58.36666999999999,
+    58.36667,
     25.88333,
-    58.36666999999999
+    58.36667
 ],
-  "geometry": {"coordinates":[25.88333,58.36666999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.88333,58.36667],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "gn:id":592206
     },
     "wof:country":"EE",
-    "wof:geomhash":"2e93b7e3fcae3576d810750dd6397ec6",
+    "wof:geomhash":"d5ee01c6192cdfe1ba564c11c02b3803",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243160153,
-    "wof:lastmodified":1566585456,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127025,
     "wof:name":"Haeidaste",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     24.03333,
-    58.43333000000001,
+    58.43333,
     24.03333,
-    58.43333000000001
+    58.43333
 ],
-  "geometry": {"coordinates":[24.03333,58.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.03333,58.43333],"type":"Point"}
 }

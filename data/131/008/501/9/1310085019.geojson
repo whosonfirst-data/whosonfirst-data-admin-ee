@@ -64,7 +64,7 @@
         "wk:page":"Lau%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"8cff7d3d02d2fb4fe9f4bed298829157",
+    "wof:geomhash":"ed2b670ed5fdaa1b23f834e593b5e9bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1310085019,
-    "wof:lastmodified":1566585178,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126980,
     "wof:name":"Lau",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     24.97861,
-    58.99028000000001,
+    58.99028,
     24.97861,
-    58.99028000000001
+    58.99028
 ],
-  "geometry": {"coordinates":[24.97861,58.99028000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.97861,58.99028],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "gn:id":8619192
     },
     "wof:country":"EE",
-    "wof:geomhash":"0d3db62a3bcf5fc3103da668404b8773",
+    "wof:geomhash":"d1a2253e3adb86438536e917c4c00389",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209579987,
-    "wof:lastmodified":1566585078,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Ihaerde",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.13722000000001,
+    27.13722,
     57.75111,
-    27.13722000000001,
+    27.13722,
     57.75111
 ],
-  "geometry": {"coordinates":[27.13722000000001,57.75111],"type":"Point"}
+  "geometry": {"coordinates":[27.13722,57.75111],"type":"Point"}
 }

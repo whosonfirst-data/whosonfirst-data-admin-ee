@@ -42,7 +42,7 @@
         "gn:id":8618960
     },
     "wof:country":"EE",
-    "wof:geomhash":"f3da6b0dd098680fc683947b9fca625b",
+    "wof:geomhash":"239cf67cd3ae931c701e951e25b63ab8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276217575,
-    "wof:lastmodified":1566584989,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126950,
     "wof:name":"Sivi",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.68306,
-    59.03528000000001,
+    59.03528,
     26.68306,
-    59.03528000000001
+    59.03528
 ],
-  "geometry": {"coordinates":[26.68306,59.03528000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.68306,59.03528],"type":"Point"}
 }

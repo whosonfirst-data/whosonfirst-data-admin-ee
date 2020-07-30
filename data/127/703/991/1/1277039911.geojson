@@ -69,7 +69,7 @@
         "wk:page":"Kangrussaare"
     },
     "wof:country":"EE",
-    "wof:geomhash":"4dd6e0216b676403e13daf5734d10787",
+    "wof:geomhash":"d0eb3042cab53d65439c0d46fad0cec9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1277039911,
-    "wof:lastmodified":1566585015,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126954,
     "wof:name":"Kangrussaare",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -90,9 +96,9 @@
 },
   "bbox": [
     25.72972,
-    58.62028000000001,
+    58.62028,
     25.72972,
-    58.62028000000001
+    58.62028
 ],
-  "geometry": {"coordinates":[25.72972,58.62028000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.72972,58.62028],"type":"Point"}
 }

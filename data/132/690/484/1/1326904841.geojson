@@ -42,7 +42,7 @@
         "gn:id":588540
     },
     "wof:country":"EE",
-    "wof:geomhash":"aa94ae116ffd91bf2deaa5078f10396d",
+    "wof:geomhash":"8987705f070660426ea689622bc489f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326904841,
-    "wof:lastmodified":1566584807,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126923,
     "wof:name":"Surva",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.81389,
-    58.40528000000001,
+    58.40528,
     25.81389,
-    58.40528000000001
+    58.40528
 ],
-  "geometry": {"coordinates":[25.81389,58.40528000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.81389,58.40528],"type":"Point"}
 }

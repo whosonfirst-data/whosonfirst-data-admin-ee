@@ -46,7 +46,7 @@
         "gn:id":589857
     },
     "wof:country":"EE",
-    "wof:geomhash":"d540aaec12e1aebb97216ca2f80f1518",
+    "wof:geomhash":"4b9d5301646f1862f4aebf68535f805b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1309673825,
-    "wof:lastmodified":1566585264,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126995,
     "wof:name":"Ojakuela",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     25.285,
-    58.54971999999999,
+    58.54972,
     25.285,
-    58.54971999999999
+    58.54972
 ],
-  "geometry": {"coordinates":[25.285,58.54971999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.285,58.54972],"type":"Point"}
 }

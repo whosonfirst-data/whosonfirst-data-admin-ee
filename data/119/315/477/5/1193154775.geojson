@@ -68,7 +68,7 @@
         "wk:page":"V%C3%B5erdla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"bcea42458b16f57550a54cd1948ba6cb",
+    "wof:geomhash":"c2dc3ce19d7a9a03b4193774e6d4cd6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +78,13 @@
         }
     ],
     "wof:id":1193154775,
-    "wof:lastmodified":1566585116,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126970,
     "wof:name":"Voerdla",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -89,9 +95,9 @@
 },
   "bbox": [
     25.06631,
-    59.45478000000001,
+    59.45478,
     25.06631,
-    59.45478000000001
+    59.45478
 ],
-  "geometry": {"coordinates":[25.06631,59.45478000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.06631,59.45478],"type":"Point"}
 }

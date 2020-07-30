@@ -64,7 +64,7 @@
         "gn:id":794411
     },
     "wof:country":"EE",
-    "wof:geomhash":"1782c4a84cf27f5c9877a082160c4591",
+    "wof:geomhash":"e5c9fb3facf4bf8c8a6d8099e716ce88",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -72,7 +72,13 @@
         }
     ],
     "wof:id":1209674373,
-    "wof:lastmodified":1566585086,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126965,
     "wof:name":"Singa",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -82,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.55389000000001,
+    26.55389,
     57.6375,
-    26.55389000000001,
+    26.55389,
     57.6375
 ],
-  "geometry": {"coordinates":[26.55389000000001,57.6375],"type":"Point"}
+  "geometry": {"coordinates":[26.55389,57.6375],"type":"Point"}
 }

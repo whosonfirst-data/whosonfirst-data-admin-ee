@@ -42,7 +42,7 @@
         "gn:id":8620882
     },
     "wof:country":"EE",
-    "wof:geomhash":"4a45339f74d44d47c9357b129c68c2f5",
+    "wof:geomhash":"0dafdcb42c26864c95dbee2099e8d931",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1344134051,
-    "wof:lastmodified":1566584840,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126928,
     "wof:name":"Suuna-Kiistu",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.66583,
-    58.05833000000001,
+    58.05833,
     26.66583,
-    58.05833000000001
+    58.05833
 ],
-  "geometry": {"coordinates":[26.66583,58.05833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.66583,58.05833],"type":"Point"}
 }

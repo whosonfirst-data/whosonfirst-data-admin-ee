@@ -44,7 +44,7 @@
         "gn:id":8620730
     },
     "wof:country":"EE",
-    "wof:geomhash":"b8b47779489b2cc99ef7957887657fac",
+    "wof:geomhash":"c5bb4c1511d731a193d0a0d06be8d831",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209495281,
-    "wof:lastmodified":1566585074,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126963,
     "wof:name":"Kitsoruusuu",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.11639000000001,
+    27.11639,
     58.11944,
-    27.11639000000001,
+    27.11639,
     58.11944
 ],
-  "geometry": {"coordinates":[27.11639000000001,58.11944],"type":"Point"}
+  "geometry": {"coordinates":[27.11639,58.11944],"type":"Point"}
 }

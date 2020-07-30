@@ -47,7 +47,7 @@
         "gn:id":589335
     },
     "wof:country":"EE",
-    "wof:geomhash":"e784d8c4a571732e0e90860065e9b7a4",
+    "wof:geomhash":"844177e66fcdefc5f2cc9db81fe0b23d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1243431545,
-    "wof:lastmodified":1566585462,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127026,
     "wof:name":"Pritsu",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     26.33333,
-    58.13333000000001,
+    58.13333,
     26.33333,
-    58.13333000000001
+    58.13333
 ],
-  "geometry": {"coordinates":[26.33333,58.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.33333,58.13333],"type":"Point"}
 }

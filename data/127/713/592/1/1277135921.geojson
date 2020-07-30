@@ -64,7 +64,7 @@
         "wk:page":"K%C3%B5o%2C_V%C3%B5ru_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"61979a64b971dc5174c99b9aed222bad",
+    "wof:geomhash":"21ec03dc9cb89c9d1cae3553d68a24e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1277135921,
-    "wof:lastmodified":1566585010,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126953,
     "wof:name":"Koo",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     27.19472,
-    57.68389000000001,
+    57.68389,
     27.19472,
-    57.68389000000001
+    57.68389
 ],
-  "geometry": {"coordinates":[27.19472,57.68389000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.19472,57.68389],"type":"Point"}
 }

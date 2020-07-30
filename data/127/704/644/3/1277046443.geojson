@@ -189,7 +189,7 @@
         "gn:id":588689
     },
     "wof:country":"EE",
-    "wof:geomhash":"e46ba7ef3e4353a6889792a99c42b5a5",
+    "wof:geomhash":"03ca2e4e2d05c400cc519a5ee879a90c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,7 +199,13 @@
         }
     ],
     "wof:id":1277046443,
-    "wof:lastmodified":1566585017,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126954,
     "wof:name":"Silla",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -210,9 +216,9 @@
 },
   "bbox": [
     22.83333,
-    58.36666999999999,
+    58.36667,
     22.83333,
-    58.36666999999999
+    58.36667
 ],
-  "geometry": {"coordinates":[22.83333,58.36666999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.83333,58.36667],"type":"Point"}
 }

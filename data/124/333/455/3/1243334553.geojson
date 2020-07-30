@@ -63,7 +63,7 @@
         "gn:id":592384
     },
     "wof:country":"EE",
-    "wof:geomhash":"fa7869fb8ab34526fc3ee8a26cc73d16",
+    "wof:geomhash":"fa8fea33a8f0dd82b4bdfdd16ab61816",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1243334553,
-    "wof:lastmodified":1566585439,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127023,
     "wof:name":"Aruste",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     22.68472,
-    58.39528000000001,
+    58.39528,
     22.68472,
-    58.39528000000001
+    58.39528
 ],
-  "geometry": {"coordinates":[22.68472,58.39528000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.68472,58.39528],"type":"Point"}
 }

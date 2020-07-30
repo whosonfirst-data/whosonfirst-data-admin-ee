@@ -45,7 +45,7 @@
         "gn:id":591569
     },
     "wof:country":"EE",
-    "wof:geomhash":"f55ca958a9d4a5897c20c081bd9f2953",
+    "wof:geomhash":"b55dc1b95e93c5ee9b69fff1912bfa53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1276321769,
-    "wof:lastmodified":1566585006,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126952,
     "wof:name":"Kyaru",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     23.91083,
-    58.54389000000001,
+    58.54389,
     23.91083,
-    58.54389000000001
+    58.54389
 ],
-  "geometry": {"coordinates":[23.91083,58.54389000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.91083,58.54389],"type":"Point"}
 }

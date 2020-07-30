@@ -46,7 +46,7 @@
         "gn:id":8618888
     },
     "wof:country":"EE",
-    "wof:geomhash":"8f80246641498e6ddeea1e3ce9251d5d",
+    "wof:geomhash":"a972d9f84d3507149831897852106897",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1276414325,
-    "wof:lastmodified":1566585026,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126956,
     "wof:name":"Kannussaaro",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     26.61861,
-    57.74028000000001,
+    57.74028,
     26.61861,
-    57.74028000000001
+    57.74028
 ],
-  "geometry": {"coordinates":[26.61861,57.74028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.61861,57.74028],"type":"Point"}
 }

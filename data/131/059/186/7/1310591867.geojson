@@ -52,7 +52,7 @@
         "wk:page":"Kannastiku"
     },
     "wof:country":"EE",
-    "wof:geomhash":"825bdeca58b9e84dcd8e3a206ce0a1ae",
+    "wof:geomhash":"2f73febf05418089676ba66463444ef9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +62,13 @@
         }
     ],
     "wof:id":1310591867,
-    "wof:lastmodified":1566585201,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126983,
     "wof:name":"Kannastiku",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -73,9 +79,9 @@
 },
   "bbox": [
     26.48222,
-    59.22833000000001,
+    59.22833,
     26.48222,
-    59.22833000000001
+    59.22833
 ],
-  "geometry": {"coordinates":[26.48222,59.22833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.48222,59.22833],"type":"Point"}
 }

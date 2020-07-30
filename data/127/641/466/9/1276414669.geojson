@@ -64,7 +64,7 @@
         "wk:page":"K%C3%A4revere%2C_Viljandi_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"d18058d4babd9835760991ac2739482d",
+    "wof:geomhash":"f70f8159c7b6b17d16a80b70fd17afca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1276414669,
-    "wof:lastmodified":1566585026,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126956,
     "wof:name":"Kaerevere",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     25.49361,
-    58.54083000000001,
+    58.54083,
     25.49361,
-    58.54083000000001
+    58.54083
 ],
-  "geometry": {"coordinates":[25.49361,58.54083000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.49361,58.54083],"type":"Point"}
 }

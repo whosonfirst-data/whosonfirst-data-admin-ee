@@ -64,7 +64,7 @@
         "wk:page":"Piibe"
     },
     "wof:country":"EE",
-    "wof:geomhash":"d4f807c25daf5a33c3676830b5528f35",
+    "wof:geomhash":"3a791f9808b1ab7ebf651338a78ab956",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1242563091,
-    "wof:lastmodified":1566585414,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127019,
     "wof:name":"Piibe",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.15722,
-    58.94694000000001,
+    58.94694,
     26.15722,
-    58.94694000000001
+    58.94694
 ],
-  "geometry": {"coordinates":[26.15722,58.94694000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.15722,58.94694],"type":"Point"}
 }

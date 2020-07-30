@@ -46,7 +46,7 @@
         "gn:id":8619431
     },
     "wof:country":"EE",
-    "wof:geomhash":"053f8fe353f6194cd783f4c6b18033ca",
+    "wof:geomhash":"8efa3d714d7b92bc41e029f792db320d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1309984467,
-    "wof:lastmodified":1566585250,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126993,
     "wof:name":"Alekuela",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     25.06472,
-    58.62583000000001,
+    58.62583,
     25.06472,
-    58.62583000000001
+    58.62583
 ],
-  "geometry": {"coordinates":[25.06472,58.62583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.06472,58.62583],"type":"Point"}
 }

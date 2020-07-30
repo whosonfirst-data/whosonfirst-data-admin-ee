@@ -46,7 +46,7 @@
         "gn:id":587521
     },
     "wof:country":"EE",
-    "wof:geomhash":"0c1dc649fa7e60a841725a4f0fd57b34",
+    "wof:geomhash":"8651c1c39879e2b3916a7ef41d51d7e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1310386615,
-    "wof:lastmodified":1566585170,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126979,
     "wof:name":"Vohma",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     24.1275,
-    58.32666999999999,
+    58.32667,
     24.1275,
-    58.32666999999999
+    58.32667
 ],
-  "geometry": {"coordinates":[24.1275,58.32666999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.1275,58.32667],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "gn:id":589481
     },
     "wof:country":"EE",
-    "wof:geomhash":"872be6e2416fcefa5914926db50bb826",
+    "wof:geomhash":"16be15f59f27999efd6072913eea8acb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1310383579,
-    "wof:lastmodified":1566585170,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126979,
     "wof:name":"Piiri",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -87,9 +93,9 @@
 },
   "bbox": [
     24.63333,
-    58.46666999999999,
+    58.46667,
     24.63333,
-    58.46666999999999
+    58.46667
 ],
-  "geometry": {"coordinates":[24.63333,58.46666999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.63333,58.46667],"type":"Point"}
 }

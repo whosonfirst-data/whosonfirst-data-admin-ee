@@ -61,7 +61,7 @@
         "wk:page":"Kuhu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"47a058bff80744e7be2fc97f57385be1",
+    "wof:geomhash":"016ac1fd314a77e3fcbbcff55f0d1d18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1260162057,
-    "wof:lastmodified":1566585147,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126976,
     "wof:name":"Kuhu",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     24.22556,
-    58.55583000000001,
+    58.55583,
     24.22556,
-    58.55583000000001
+    58.55583
 ],
-  "geometry": {"coordinates":[24.22556,58.55583000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.22556,58.55583],"type":"Point"}
 }

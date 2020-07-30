@@ -67,7 +67,7 @@
         "wk:page":"P%C3%BChatu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"281fbdfa0d378c2da6800e041bf1661e",
+    "wof:geomhash":"1a942b5767b1c54ef3fbc146d6aeb814",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1343248447,
-    "wof:lastmodified":1566584855,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126930,
     "wof:name":"Puehatu",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -87,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.53972000000001,
-    58.94139000000001,
-    24.53972000000001,
-    58.94139000000001
+    24.53972,
+    58.94139,
+    24.53972,
+    58.94139
 ],
-  "geometry": {"coordinates":[24.53972000000001,58.94139000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.53972,58.94139],"type":"Point"}
 }

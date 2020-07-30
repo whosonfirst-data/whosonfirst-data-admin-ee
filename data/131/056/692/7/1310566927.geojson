@@ -86,7 +86,7 @@
         "gn:id":590508
     },
     "wof:country":"EE",
-    "wof:geomhash":"3a541ec21ace618053cf9d3917fa98cd",
+    "wof:geomhash":"01d96e2c61033f5b82c38f6e05c30fe6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +96,13 @@
         }
     ],
     "wof:id":1310566927,
-    "wof:lastmodified":1566585206,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126984,
     "wof:name":"Lota",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -107,9 +113,9 @@
 },
   "bbox": [
     26.21583,
-    57.94694000000001,
+    57.94694,
     26.21583,
-    57.94694000000001
+    57.94694
 ],
-  "geometry": {"coordinates":[26.21583,57.94694000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.21583,57.94694],"type":"Point"}
 }

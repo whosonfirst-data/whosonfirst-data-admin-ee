@@ -61,7 +61,7 @@
         "wk:page":"Kadjaste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"93142d65e4836aab2208dec481646133",
+    "wof:geomhash":"5998392546d64f7103ed4c1e483af960",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1343442161,
-    "wof:lastmodified":1566584892,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126936,
     "wof:name":"Kadjaste",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     25.11139,
-    58.65694000000001,
+    58.65694,
     25.11139,
-    58.65694000000001
+    58.65694
 ],
-  "geometry": {"coordinates":[25.11139,58.65694000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.11139,58.65694],"type":"Point"}
 }

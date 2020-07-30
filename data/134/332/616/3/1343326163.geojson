@@ -72,7 +72,7 @@
         "gn:id":8619333
     },
     "wof:country":"EE",
-    "wof:geomhash":"acfc394ff5d5970a7d6238530654f1c4",
+    "wof:geomhash":"13a73ae0ec1fd483c7e42c52adc66888",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +82,13 @@
         }
     ],
     "wof:id":1343326163,
-    "wof:lastmodified":1566584864,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126932,
     "wof:name":"Pulli",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -92,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.96417000000001,
+    26.96417,
     57.67806,
-    26.96417000000001,
+    26.96417,
     57.67806
 ],
-  "geometry": {"coordinates":[26.96417000000001,57.67806],"type":"Point"}
+  "geometry": {"coordinates":[26.96417,57.67806],"type":"Point"}
 }

@@ -75,7 +75,7 @@
         "gn:id":589697
     },
     "wof:country":"EE",
-    "wof:geomhash":"ac9192a4116d99054cd461cb35609435",
+    "wof:geomhash":"d50ea0c9f94c0d1e4527ab4ed053ed2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1243519291,
-    "wof:lastmodified":1566585437,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127022,
     "wof:name":"Paistu",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -96,9 +102,9 @@
 },
   "bbox": [
     25.4,
-    58.43333000000001,
+    58.43333,
     25.4,
-    58.43333000000001
+    58.43333
 ],
-  "geometry": {"coordinates":[25.4,58.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.4,58.43333],"type":"Point"}
 }

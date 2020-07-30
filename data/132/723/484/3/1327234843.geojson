@@ -61,7 +61,7 @@
         "wk:page":"Laasi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ce4e148a496e9dfb40ef491817b18b70",
+    "wof:geomhash":"7dbe7f098f6991245d57ea5a904790d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1327234843,
-    "wof:lastmodified":1566584786,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126920,
     "wof:name":"Laasi",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     22.32769,
-    58.89523000000001,
+    58.89523,
     22.32769,
-    58.89523000000001
+    58.89523
 ],
-  "geometry": {"coordinates":[22.32769,58.89523000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.32769,58.89523],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "gn:id":588948
     },
     "wof:country":"EE",
-    "wof:geomhash":"ea8c2fefd1489d367214c9c73a4d6fd7",
+    "wof:geomhash":"6f74bdb3d65a782052d768f5a8470413",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1210012035,
-    "wof:lastmodified":1566585110,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126969,
     "wof:name":"Rosenthali",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     26.63333,
-    59.18333000000001,
+    59.18333,
     26.63333,
-    59.18333000000001
+    59.18333
 ],
-  "geometry": {"coordinates":[26.63333,59.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.63333,59.18333],"type":"Point"}
 }

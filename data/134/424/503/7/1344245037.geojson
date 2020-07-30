@@ -62,7 +62,7 @@
         "wk:page":"S%C3%B5%C3%B5rike"
     },
     "wof:country":"EE",
-    "wof:geomhash":"4afa4c43828883aa59dcbfab0dc5227f",
+    "wof:geomhash":"b981757d97c78277fae87286e82a71cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,13 @@
         }
     ],
     "wof:id":1344245037,
-    "wof:lastmodified":1566584844,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126929,
     "wof:name":"Soorike",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -83,9 +89,9 @@
 },
   "bbox": [
     24.34278,
-    58.64471999999999,
+    58.64472,
     24.34278,
-    58.64471999999999
+    58.64472
 ],
-  "geometry": {"coordinates":[24.34278,58.64471999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.34278,58.64472],"type":"Point"}
 }

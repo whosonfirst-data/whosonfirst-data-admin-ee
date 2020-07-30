@@ -42,7 +42,7 @@
         "gn:id":8620184
     },
     "wof:country":"EE",
-    "wof:geomhash":"b7acbcb9bc642b3f1c63c8b8f80ba149",
+    "wof:geomhash":"be879a9003329ffdb6d471ff49160626",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276828141,
-    "wof:lastmodified":1566585020,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126955,
     "wof:name":"Kolodsi",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.1425,
-    57.74583000000001,
+    57.74583,
     27.1425,
-    57.74583000000001
+    57.74583
 ],
-  "geometry": {"coordinates":[27.1425,57.74583000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.1425,57.74583],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Vatsa%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"f4102b3bd7f7cb42704f1bb04aa055e0",
+    "wof:geomhash":"bfc344c1707e29f72edca97df179d826",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1293060157,
-    "wof:lastmodified":1566584922,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126939,
     "wof:name":"Vatsa",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     27.315,
-    57.69583000000001,
+    57.69583,
     27.315,
-    57.69583000000001
+    57.69583
 ],
-  "geometry": {"coordinates":[27.315,57.69583000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.315,57.69583],"type":"Point"}
 }

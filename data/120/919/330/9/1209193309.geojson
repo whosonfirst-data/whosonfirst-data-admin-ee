@@ -72,7 +72,7 @@
         "wk:page":"Maleva"
     },
     "wof:country":"EE",
-    "wof:geomhash":"71202c18988e6f4d12d6eee45bbcd3e2",
+    "wof:geomhash":"764f324bf6d47cc431337c07236cff27",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1209193309,
-    "wof:lastmodified":1566585101,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126967,
     "wof:name":"Maleva",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -91,9 +97,9 @@
 },
   "bbox": [
     22.51667,
-    58.31583000000001,
+    58.31583,
     22.51667,
-    58.31583000000001
+    58.31583
 ],
-  "geometry": {"coordinates":[22.51667,58.31583000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.51667,58.31583],"type":"Point"}
 }

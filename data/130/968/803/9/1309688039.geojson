@@ -64,7 +64,7 @@
         "wk:page":"Rupsi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"cbf3926de68ebf67d3996a21293ea215",
+    "wof:geomhash":"012e791a5f25395436d890b4c4d33d75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1309688039,
-    "wof:lastmodified":1566585262,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126994,
     "wof:name":"Rupsi",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     27.11222,
-    58.57194000000001,
+    58.57194,
     27.11222,
-    58.57194000000001
+    58.57194
 ],
-  "geometry": {"coordinates":[27.11222,58.57194000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.11222,58.57194],"type":"Point"}
 }

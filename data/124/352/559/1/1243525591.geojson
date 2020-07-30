@@ -63,7 +63,7 @@
         "gn:id":590832
     },
     "wof:country":"EE",
-    "wof:geomhash":"a0f09bdc2d20bf4519f592c9898c41ed",
+    "wof:geomhash":"57c8a9e721159f8f4ed9374f84b4cb72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1243525591,
-    "wof:lastmodified":1566585396,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127016,
     "wof:name":"Lahe",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     22.66444,
-    58.23778000000001,
+    58.23778,
     22.66444,
-    58.23778000000001
+    58.23778
 ],
-  "geometry": {"coordinates":[22.66444,58.23778000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.66444,58.23778],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "gn:id":8620241
     },
     "wof:country":"EE",
-    "wof:geomhash":"fa083ef1150be8f45b719b92d263a9c9",
+    "wof:geomhash":"bfcc8fc2f11a3bf2b529da1570aca515",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1259542471,
-    "wof:lastmodified":1566585468,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127027,
     "wof:name":"Maee-Hannuste",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.01889000000001,
+    27.01889,
     57.76778,
-    27.01889000000001,
+    27.01889,
     57.76778
 ],
-  "geometry": {"coordinates":[27.01889000000001,57.76778],"type":"Point"}
+  "geometry": {"coordinates":[27.01889,57.76778],"type":"Point"}
 }

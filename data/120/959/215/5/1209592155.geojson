@@ -65,7 +65,7 @@
         "wk:page":"L%C3%BCmandu%2C_M%C3%A4rjamaa_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ec353a97f2c4d3d8d0ca15150712a570",
+    "wof:geomhash":"560a6051c8502e83bc5e35f52495207e",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1209592155,
-    "wof:lastmodified":1566585084,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126965,
     "wof:name":"Luemandu",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     24.38667,
-    59.00389000000001,
+    59.00389,
     24.38667,
-    59.00389000000001
+    59.00389
 ],
-  "geometry": {"coordinates":[24.38667,59.00389000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.38667,59.00389],"type":"Point"}
 }

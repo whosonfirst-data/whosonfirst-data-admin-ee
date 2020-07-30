@@ -64,7 +64,7 @@
         "wk:page":"Taadikvere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"583aebd4683d5cffb6007da25e4cfb4b",
+    "wof:geomhash":"a6630f2e62e46d1b35e1d671cac35e66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1193016441,
-    "wof:lastmodified":1566585114,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126970,
     "wof:name":"Taadikvere",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     25.74361,
-    58.71333000000001,
+    58.71333,
     25.74361,
-    58.71333000000001
+    58.71333
 ],
-  "geometry": {"coordinates":[25.74361,58.71333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.74361,58.71333],"type":"Point"}
 }

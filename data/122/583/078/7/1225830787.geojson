@@ -55,7 +55,7 @@
         "wk:page":"Kloodi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"403ea19407f4ffed88c9b0cc29e5ebc6",
+    "wof:geomhash":"e35bddac52038b1e1ae23f35fec7fd55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1225830787,
-    "wof:lastmodified":1566585587,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127045,
     "wof:name":"Kloodi",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -76,9 +82,9 @@
 },
   "bbox": [
     26.29,
-    59.37971999999999,
+    59.37972,
     26.29,
-    59.37971999999999
+    59.37972
 ],
-  "geometry": {"coordinates":[26.29,59.37971999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.29,59.37972],"type":"Point"}
 }

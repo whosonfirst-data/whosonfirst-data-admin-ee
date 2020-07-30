@@ -51,7 +51,7 @@
         "gn:id":8618913
     },
     "wof:country":"EE",
-    "wof:geomhash":"25c4a8c3658094776f896d7b35d64a30",
+    "wof:geomhash":"e599eb9f7300c81c7e76799fbf621897",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1310709541,
-    "wof:lastmodified":1566585162,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126978,
     "wof:name":"Sope",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -72,9 +78,9 @@
 },
   "bbox": [
     27.04528,
-    59.42778000000001,
+    59.42778,
     27.04528,
-    59.42778000000001
+    59.42778
 ],
-  "geometry": {"coordinates":[27.04528,59.42778000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.04528,59.42778],"type":"Point"}
 }

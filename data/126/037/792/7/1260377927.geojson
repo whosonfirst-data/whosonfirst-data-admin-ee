@@ -68,7 +68,7 @@
         "wk:page":"Vaartsi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"e66efd7926f926c47692f79d5c5323f6",
+    "wof:geomhash":"d24e8c0e4cfc7831673bacebf9812b7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +78,13 @@
         }
     ],
     "wof:id":1260377927,
-    "wof:lastmodified":1566585143,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126975,
     "wof:name":"Vaartsi",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -89,9 +95,9 @@
 },
   "bbox": [
     27.60389,
-    57.85333000000001,
+    57.85333,
     27.60389,
-    57.85333000000001
+    57.85333
 ],
-  "geometry": {"coordinates":[27.60389,57.85333000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.60389,57.85333],"type":"Point"}
 }

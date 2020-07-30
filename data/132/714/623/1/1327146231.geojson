@@ -73,7 +73,7 @@
         "wk:page":"Kuningak%C3%BCla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"465bdf51956a52bd91fbcfc863f66da5",
+    "wof:geomhash":"dcdbd9c58edb7fc3352d0271ea37d682",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +83,13 @@
         }
     ],
     "wof:id":1327146231,
-    "wof:lastmodified":1566584782,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126919,
     "wof:name":"Kuningakuela",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -94,9 +100,9 @@
 },
   "bbox": [
     27.79083,
-    59.12083000000001,
+    59.12083,
     27.79083,
-    59.12083000000001
+    59.12083
 ],
-  "geometry": {"coordinates":[27.79083,59.12083000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.79083,59.12083],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "gn:id":8619997
     },
     "wof:country":"EE",
-    "wof:geomhash":"e3d375c8ef3309dcf80d4545f438bd4d",
+    "wof:geomhash":"a61891d0f46cea72479736b2e337baec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1310182373,
-    "wof:lastmodified":1566585189,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126982,
     "wof:name":"Luigelaasi",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.29583,
-    58.07333000000001,
+    58.07333,
     27.29583,
-    58.07333000000001
+    58.07333
 ],
-  "geometry": {"coordinates":[27.29583,58.07333000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.29583,58.07333],"type":"Point"}
 }

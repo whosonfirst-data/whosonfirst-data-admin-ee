@@ -57,7 +57,7 @@
         "gn:id":793368
     },
     "wof:country":"EE",
-    "wof:geomhash":"aba102e10bf34b4b01e358d65201a06c",
+    "wof:geomhash":"6e6bf641dce234b7ed2241adc42f1bf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1292902727,
-    "wof:lastmodified":1566584957,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126945,
     "wof:name":"Murru",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -77,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.92917000000001,
+    26.92917,
     58.78722,
-    26.92917000000001,
+    26.92917,
     58.78722
 ],
-  "geometry": {"coordinates":[26.92917000000001,58.78722],"type":"Point"}
+  "geometry": {"coordinates":[26.92917,58.78722],"type":"Point"}
 }

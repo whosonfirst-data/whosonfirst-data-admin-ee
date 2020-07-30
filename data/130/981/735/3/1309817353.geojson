@@ -68,7 +68,7 @@
         "wk:page":"K%C3%BClmaallika"
     },
     "wof:country":"EE",
-    "wof:geomhash":"4347c4d341c87b90fff87185e1b7c44e",
+    "wof:geomhash":"baec39b54a65a195cf696ae305d512f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +78,13 @@
         }
     ],
     "wof:id":1309817353,
-    "wof:lastmodified":1566585271,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126996,
     "wof:name":"Kuelmaallika",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -88,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.36667000000001,
+    25.36667,
     59.41667,
-    25.36667000000001,
+    25.36667,
     59.41667
 ],
-  "geometry": {"coordinates":[25.36667000000001,59.41667],"type":"Point"}
+  "geometry": {"coordinates":[25.36667,59.41667],"type":"Point"}
 }

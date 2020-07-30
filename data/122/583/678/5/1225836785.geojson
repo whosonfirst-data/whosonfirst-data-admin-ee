@@ -67,7 +67,7 @@
         "wk:page":"N%C3%B5mmemaa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"a6603151cac71dae729c18db673f57a7",
+    "wof:geomhash":"a9f11fc87db2c88daf3d146d55433909",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1225836785,
-    "wof:lastmodified":1566585587,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127045,
     "wof:name":"Nommemaa",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -88,9 +94,9 @@
 },
   "bbox": [
     23.75194,
-    59.15528000000001,
+    59.15528,
     23.75194,
-    59.15528000000001
+    59.15528
 ],
-  "geometry": {"coordinates":[23.75194,59.15528000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.75194,59.15528],"type":"Point"}
 }

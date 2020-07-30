@@ -46,7 +46,7 @@
         "gn:id":591980
     },
     "wof:country":"EE",
-    "wof:geomhash":"7106117fd8f2cea3c0f44574dd01b5aa",
+    "wof:geomhash":"e8b9f6c99c69459f12e37898aee0f407",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1226256915,
-    "wof:lastmodified":1566585556,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127040,
     "wof:name":"Jaennima",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     24.06667,
-    59.18333000000001,
+    59.18333,
     24.06667,
-    59.18333000000001
+    59.18333
 ],
-  "geometry": {"coordinates":[24.06667,59.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.06667,59.18333],"type":"Point"}
 }

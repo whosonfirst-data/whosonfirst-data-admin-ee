@@ -51,7 +51,7 @@
         "gn:id":588006
     },
     "wof:country":"EE",
-    "wof:geomhash":"a201bbcfed8f64f032ddf3a58347f120",
+    "wof:geomhash":"99d41798168ffab30294f8ab3df72b8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1310102377,
-    "wof:lastmodified":1566585194,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126983,
     "wof:name":"Uue-Virtsu",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -72,9 +78,9 @@
 },
   "bbox": [
     23.64194,
-    58.63721999999999,
+    58.63722,
     23.64194,
-    58.63721999999999
+    58.63722
 ],
-  "geometry": {"coordinates":[23.64194,58.63721999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.64194,58.63722],"type":"Point"}
 }

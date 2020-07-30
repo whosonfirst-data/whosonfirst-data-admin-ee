@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.2354695,58.530746,22.2354695,58.530746",
+    "geom:bbox":"22.23547,58.530746,22.23547,58.530746",
     "geom:latitude":58.530746,
     "geom:longitude":22.23547,
     "gn:country":"EE",
@@ -80,7 +80,7 @@
     },
     "wof:country":"EE",
     "wof:created":1497291016,
-    "wof:geomhash":"418c415de083f7a0d14ebe5a19cdc2c1",
+    "wof:geomhash":"1cfaf39b27e32527c7875df425b6e1de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +90,13 @@
         }
     ],
     "wof:id":1125795063,
-    "wof:lastmodified":1566585384,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127014,
     "wof:name":"Ninase",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -100,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.2354695,
+    22.23547,
     58.530746,
-    22.2354695,
+    22.23547,
     58.530746
 ],
-  "geometry": {"coordinates":[22.2354695,58.530746],"type":"Point"}
+  "geometry": {"coordinates":[22.23547,58.530746],"type":"Point"}
 }

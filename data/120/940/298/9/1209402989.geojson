@@ -62,7 +62,7 @@
         "wk:page":"J%C3%A4rve%2C_P%C3%A4rnu_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"d1069dee6502b04de354919d2b67d8c1",
+    "wof:geomhash":"78b39ca89ef6839a63e6b32b64a96bfe",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1209402989,
-    "wof:lastmodified":1566585070,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126963,
     "wof:name":"Jaerve",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -81,9 +87,9 @@
 },
   "bbox": [
     24.15972,
-    58.61666999999999,
+    58.61667,
     24.15972,
-    58.61666999999999
+    58.61667
 ],
-  "geometry": {"coordinates":[24.15972,58.61666999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.15972,58.61667],"type":"Point"}
 }

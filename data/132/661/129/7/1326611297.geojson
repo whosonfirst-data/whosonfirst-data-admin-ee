@@ -46,7 +46,7 @@
         "gn:id":589449
     },
     "wof:country":"EE",
-    "wof:geomhash":"31e95816d30c36194141fbf1fe610190",
+    "wof:geomhash":"67e70ec6786d35b5a5eec4190dff18b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1326611297,
-    "wof:lastmodified":1566584776,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126919,
     "wof:name":"Pikksaare",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     24.73417,
-    58.05833000000001,
+    58.05833,
     24.73417,
-    58.05833000000001
+    58.05833
 ],
-  "geometry": {"coordinates":[24.73417,58.05833000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.73417,58.05833],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "gn:id":8619931
     },
     "wof:country":"EE",
-    "wof:geomhash":"27feab30efeecb766243a6225d4e04d7",
+    "wof:geomhash":"4d99425fb659f442b316e1bad5a420a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1209975665,
-    "wof:lastmodified":1566585058,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126961,
     "wof:name":"Liitva",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.96333,
-    57.86389000000001,
+    57.86389,
     26.96333,
-    57.86389000000001
+    57.86389
 ],
-  "geometry": {"coordinates":[26.96333,57.86389000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.96333,57.86389],"type":"Point"}
 }

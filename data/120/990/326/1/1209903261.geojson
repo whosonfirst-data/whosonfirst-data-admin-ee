@@ -42,7 +42,7 @@
         "gn:id":8620692
     },
     "wof:country":"EE",
-    "wof:geomhash":"e12a3cec30b6693e494754d9a8e9f9f8",
+    "wof:geomhash":"75f4b4e34840f2c161ba451a3b8c9d45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209903261,
-    "wof:lastmodified":1566585060,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126961,
     "wof:name":"Maekipaeaelne",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.09222,
-    58.18083000000001,
+    58.18083,
     27.09222,
-    58.18083000000001
+    58.18083
 ],
-  "geometry": {"coordinates":[27.09222,58.18083000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.09222,58.18083],"type":"Point"}
 }

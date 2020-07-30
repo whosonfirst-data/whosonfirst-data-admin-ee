@@ -64,7 +64,7 @@
         "wk:page":"K%C3%BClaaseme"
     },
     "wof:country":"EE",
-    "wof:geomhash":"98c40fd43e09828f0b665a74df10b9a8",
+    "wof:geomhash":"60a4a979971bcfc9fb40c17592bca1be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1344223255,
-    "wof:lastmodified":1566584837,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126928,
     "wof:name":"Kuelaaseme",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.39306,
-    58.28778000000001,
+    58.28778,
     26.39306,
-    58.28778000000001
+    58.28778
 ],
-  "geometry": {"coordinates":[26.39306,58.28778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.39306,58.28778],"type":"Point"}
 }

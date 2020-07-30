@@ -42,7 +42,7 @@
         "gn:id":589791
     },
     "wof:country":"EE",
-    "wof:geomhash":"2656fd39877183cc16a139f075599fb5",
+    "wof:geomhash":"d492b16a7533fdec193e386124554844",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293770949,
-    "wof:lastmodified":1566584930,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126941,
     "wof:name":"Ortuse",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.05,
-    57.96666999999999,
+    57.96667,
     27.05,
-    57.96666999999999
+    57.96667
 ],
-  "geometry": {"coordinates":[27.05,57.96666999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.05,57.96667],"type":"Point"}
 }

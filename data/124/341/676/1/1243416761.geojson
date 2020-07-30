@@ -42,7 +42,7 @@
         "gn:id":8620299
     },
     "wof:country":"EE",
-    "wof:geomhash":"66043e877e82741b7b575658c303d5c0",
+    "wof:geomhash":"417c5aec1b4de62d2b8d6a101158eec5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243416761,
-    "wof:lastmodified":1566585419,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127020,
     "wof:name":"Tambre Linnaosa",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.09333,
-    57.78194000000001,
+    57.78194,
     26.09333,
-    57.78194000000001
+    57.78194
 ],
-  "geometry": {"coordinates":[26.09333,57.78194000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.09333,57.78194],"type":"Point"}
 }

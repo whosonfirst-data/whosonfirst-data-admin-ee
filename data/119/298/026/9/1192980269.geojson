@@ -47,7 +47,7 @@
         "gn:id":588437
     },
     "wof:country":"EE",
-    "wof:geomhash":"4bb915284b3eea8e5cbf6c53476569cb",
+    "wof:geomhash":"a4e4688225fb5a0afc7425566c40cfc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1192980269,
-    "wof:lastmodified":1566585123,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126971,
     "wof:name":"Tagamoisa",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     25.82444,
-    58.15833000000001,
+    58.15833,
     25.82444,
-    58.15833000000001
+    58.15833
 ],
-  "geometry": {"coordinates":[25.82444,58.15833000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.82444,58.15833],"type":"Point"}
 }

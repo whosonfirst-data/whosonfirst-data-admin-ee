@@ -52,7 +52,7 @@
         "gn:id":589350
     },
     "wof:country":"EE",
-    "wof:geomhash":"0568f270911fe856a86ea6ada05548ff",
+    "wof:geomhash":"1618710195def3bcb7bbae37ec1484da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +62,13 @@
         }
     ],
     "wof:id":1277140171,
-    "wof:lastmodified":1566585011,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126953,
     "wof:name":"Praaga",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -73,9 +79,9 @@
 },
   "bbox": [
     27.23583,
-    58.43389000000001,
+    58.43389,
     27.23583,
-    58.43389000000001
+    58.43389
 ],
-  "geometry": {"coordinates":[27.23583,58.43389000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.23583,58.43389],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "gn:id":794607
     },
     "wof:country":"EE",
-    "wof:geomhash":"dc06d50113aae2584f38badfba5d86ea",
+    "wof:geomhash":"20e34f54aba6a57a7e7b65d99cc16c5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1276618939,
-    "wof:lastmodified":1566585007,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126953,
     "wof:name":"Vilimeeste",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -81,9 +87,9 @@
 },
   "bbox": [
     25.75917,
-    58.24333000000001,
+    58.24333,
     25.75917,
-    58.24333000000001
+    58.24333
 ],
-  "geometry": {"coordinates":[25.75917,58.24333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.75917,58.24333],"type":"Point"}
 }

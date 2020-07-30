@@ -62,7 +62,7 @@
         "wk:page":"R%C3%B5usa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"2c47fcd834dfe646d01dd8fbd25a4f2a",
+    "wof:geomhash":"89312f5ddb21d92433344c175e42b064",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,13 @@
         }
     ],
     "wof:id":1276852217,
-    "wof:lastmodified":1566585021,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126955,
     "wof:name":"Rousa",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -83,9 +89,9 @@
 },
   "bbox": [
     25.10944,
-    58.66833000000001,
+    58.66833,
     25.10944,
-    58.66833000000001
+    58.66833
 ],
-  "geometry": {"coordinates":[25.10944,58.66833000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.10944,58.66833],"type":"Point"}
 }

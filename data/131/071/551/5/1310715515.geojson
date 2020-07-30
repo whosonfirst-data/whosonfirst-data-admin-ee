@@ -42,7 +42,7 @@
         "gn:id":587794
     },
     "wof:country":"EE",
-    "wof:geomhash":"eb3a8d9367fb8f0ccae004c9144accc1",
+    "wof:geomhash":"4b6c1d0c5825f763c556895f6ad28f18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310715515,
-    "wof:lastmodified":1566585165,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126978,
     "wof:name":"Vanapere",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     24.92114,
-    59.41543000000001,
+    59.41543,
     24.92114,
-    59.41543000000001
+    59.41543
 ],
-  "geometry": {"coordinates":[24.92114,59.41543000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.92114,59.41543],"type":"Point"}
 }

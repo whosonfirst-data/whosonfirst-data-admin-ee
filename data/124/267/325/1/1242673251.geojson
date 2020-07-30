@@ -58,7 +58,7 @@
         "wk:page":"Koplitaguse"
     },
     "wof:country":"EE",
-    "wof:geomhash":"edb094156e922da785625b4c1d3f23ce",
+    "wof:geomhash":"60709b9b2c3cff5367c1e987f8ad1c82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1242673251,
-    "wof:lastmodified":1566585411,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127018,
     "wof:name":"Koplitaguse",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     26.27917,
-    59.24166999999999,
+    59.24167,
     26.27917,
-    59.24166999999999
+    59.24167
 ],
-  "geometry": {"coordinates":[26.27917,59.24166999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.27917,59.24167],"type":"Point"}
 }

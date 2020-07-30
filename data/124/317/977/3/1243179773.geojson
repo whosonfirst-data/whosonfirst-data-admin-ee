@@ -67,7 +67,7 @@
         "wk:page":"Roostoja"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1bfbec0a3e4dd3605929e17bfc636de6",
+    "wof:geomhash":"ed8c5acacbec6e3c8884ffb9afee7422",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1243179773,
-    "wof:lastmodified":1566585460,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127026,
     "wof:name":"Roostoja",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -88,9 +94,9 @@
 },
   "bbox": [
     27.13639,
-    59.06639000000001,
+    59.06639,
     27.13639,
-    59.06639000000001
+    59.06639
 ],
-  "geometry": {"coordinates":[27.13639,59.06639000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.13639,59.06639],"type":"Point"}
 }

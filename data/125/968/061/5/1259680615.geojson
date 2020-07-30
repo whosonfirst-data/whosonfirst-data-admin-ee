@@ -73,7 +73,7 @@
         "wk:page":"V%C3%A4%C3%A4nla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"4d801ff3e69ca4c6c9fb607a2b3d960a",
+    "wof:geomhash":"41a894e6248c6f4204bb0dae08e4b9a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +83,13 @@
         }
     ],
     "wof:id":1259680615,
-    "wof:lastmodified":1566585489,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127031,
     "wof:name":"Vyaanla",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -93,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.83167000000001,
+    23.83167,
     58.97028,
-    23.83167000000001,
+    23.83167,
     58.97028
 ],
-  "geometry": {"coordinates":[23.83167000000001,58.97028],"type":"Point"}
+  "geometry": {"coordinates":[23.83167,58.97028],"type":"Point"}
 }

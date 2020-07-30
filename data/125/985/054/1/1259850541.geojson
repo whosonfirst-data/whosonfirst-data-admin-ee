@@ -66,7 +66,7 @@
         "wk:page":"K%C3%BCdema"
     },
     "wof:country":"EE",
-    "wof:geomhash":"aa7cb67523634dd85649de0b42df5a1c",
+    "wof:geomhash":"e854b4fee9da906efd3183353e17051e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1259850541,
-    "wof:lastmodified":1566585484,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127029,
     "wof:name":"Kuedema",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -87,9 +93,9 @@
 },
   "bbox": [
     22.30028,
-    58.47528000000001,
+    58.47528,
     22.30028,
-    58.47528000000001
+    58.47528
 ],
-  "geometry": {"coordinates":[22.30028,58.47528000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.30028,58.47528],"type":"Point"}
 }

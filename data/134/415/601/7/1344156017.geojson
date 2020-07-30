@@ -58,7 +58,7 @@
         "wk:page":"Toovere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"71fe621ef3e6b05b1e20e674ad86f528",
+    "wof:geomhash":"8366078bd83193c4ce0783496ae57675",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1344156017,
-    "wof:lastmodified":1566584842,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126929,
     "wof:name":"Toovere",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     26.60278,
-    58.71528000000001,
+    58.71528,
     26.60278,
-    58.71528000000001
+    58.71528
 ],
-  "geometry": {"coordinates":[26.60278,58.71528000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.60278,58.71528],"type":"Point"}
 }

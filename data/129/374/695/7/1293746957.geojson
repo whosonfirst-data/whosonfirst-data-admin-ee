@@ -42,7 +42,7 @@
         "gn:id":8618116
     },
     "wof:country":"EE",
-    "wof:geomhash":"1adda519150c8faab8674b4421e385d8",
+    "wof:geomhash":"4eb09ddf1bbd90505f64b8e4839d9f11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293746957,
-    "wof:lastmodified":1566584969,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126947,
     "wof:name":"Kaegari",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.01028,
-    58.35028000000001,
+    58.35028,
     27.01028,
-    58.35028000000001
+    58.35028
 ],
-  "geometry": {"coordinates":[27.01028,58.35028000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.01028,58.35028],"type":"Point"}
 }

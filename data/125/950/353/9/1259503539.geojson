@@ -58,7 +58,7 @@
         "wk:page":"Kitsemetsa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"07b10ffa2bee30133fcfd7ab3c809d9a",
+    "wof:geomhash":"80ec7e132583ed2d57ba07ea12d5c3b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1259503539,
-    "wof:lastmodified":1566585487,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127030,
     "wof:name":"Kitsemetsa",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     26.32833,
-    58.92639000000001,
+    58.92639,
     26.32833,
-    58.92639000000001
+    58.92639
 ],
-  "geometry": {"coordinates":[26.32833,58.92639000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.32833,58.92639],"type":"Point"}
 }

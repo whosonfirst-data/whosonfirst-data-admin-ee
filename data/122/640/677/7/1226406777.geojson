@@ -64,7 +64,7 @@
         "wk:page":"K%C3%BCndja"
     },
     "wof:country":"EE",
-    "wof:geomhash":"e44dd309e6e83c487ca71978acc31933",
+    "wof:geomhash":"5d8e5f959a046c2e2e36d13ec664f766",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1226406777,
-    "wof:lastmodified":1566585562,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127041,
     "wof:name":"Kuendja",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     27.1925,
-    57.70166999999999,
+    57.70167,
     27.1925,
-    57.70166999999999
+    57.70167
 ],
-  "geometry": {"coordinates":[27.1925,57.70166999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.1925,57.70167],"type":"Point"}
 }

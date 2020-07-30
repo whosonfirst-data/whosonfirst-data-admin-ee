@@ -52,7 +52,7 @@
         "wk:page":"Unukse"
     },
     "wof:country":"EE",
-    "wof:geomhash":"7a0a95c7dc3dfc6356444ce09a024eba",
+    "wof:geomhash":"5133c09231924b11dbe1c870eb6ad63c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +62,13 @@
         }
     ],
     "wof:id":1242896145,
-    "wof:lastmodified":1566585401,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127017,
     "wof:name":"Unukse",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -73,9 +79,9 @@
 },
   "bbox": [
     26.70222,
-    59.46778000000001,
+    59.46778,
     26.70222,
-    59.46778000000001
+    59.46778
 ],
-  "geometry": {"coordinates":[26.70222,59.46778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.70222,59.46778],"type":"Point"}
 }

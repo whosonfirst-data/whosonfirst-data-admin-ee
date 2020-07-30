@@ -65,7 +65,7 @@
         "wk:page":"Lutike"
     },
     "wof:country":"EE",
-    "wof:geomhash":"d7ff188c5934d7254859103ec2bca167",
+    "wof:geomhash":"4082f1b21ec73de534fb40aa8fac3905",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1293355951,
-    "wof:lastmodified":1566584947,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126943,
     "wof:name":"Lutike",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     26.5625,
-    58.14194000000001,
+    58.14194,
     26.5625,
-    58.14194000000001
+    58.14194
 ],
-  "geometry": {"coordinates":[26.5625,58.14194000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.5625,58.14194],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "gn:id":8619004
     },
     "wof:country":"EE",
-    "wof:geomhash":"31f70211a41b22d749eb61694ecbd023",
+    "wof:geomhash":"962e1cbb0a55f505c3e71ec84dd10a36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310079611,
-    "wof:lastmodified":1566585172,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126979,
     "wof:name":"Kikkoja",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.55139,
-    57.57666999999999,
+    57.57667,
     26.55139,
-    57.57666999999999
+    57.57667
 ],
-  "geometry": {"coordinates":[26.55139,57.57666999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.55139,57.57667],"type":"Point"}
 }

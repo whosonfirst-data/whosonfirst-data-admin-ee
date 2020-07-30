@@ -45,7 +45,7 @@
         "gn:id":591856
     },
     "wof:country":"EE",
-    "wof:geomhash":"9f9a66ba34043185cbd7e2382f305994",
+    "wof:geomhash":"ebf6eb438b56c510f63aabccdcddd166",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1310711439,
-    "wof:lastmodified":1566585165,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126978,
     "wof:name":"Kyaaniku",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     25.23333,
-    59.46666999999999,
+    59.46667,
     25.23333,
-    59.46666999999999
+    59.46667
 ],
-  "geometry": {"coordinates":[25.23333,59.46666999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.23333,59.46667],"type":"Point"}
 }

@@ -59,7 +59,7 @@
         "wk:page":"Mooritsa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1fcab72024dfab1989a15d5528d3282a",
+    "wof:geomhash":"8cdc5974afca8921b2758481b4d6adc5",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1209337195,
-    "wof:lastmodified":1566585094,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126966,
     "wof:name":"Mooritsa",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -78,9 +84,9 @@
 },
   "bbox": [
     26.50806,
-    58.72528000000001,
+    58.72528,
     26.50806,
-    58.72528000000001
+    58.72528
 ],
-  "geometry": {"coordinates":[26.50806,58.72528000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.50806,58.72528],"type":"Point"}
 }

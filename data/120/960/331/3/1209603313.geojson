@@ -43,7 +43,7 @@
         "gn:id":591923
     },
     "wof:country":"EE",
-    "wof:geomhash":"eb3f35f9c565c19b948c0981848d14f8",
+    "wof:geomhash":"8330e9cc38161ef47548ae67c9b85727",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -51,7 +51,13 @@
         }
     ],
     "wof:id":1209603313,
-    "wof:lastmodified":1566585088,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126965,
     "wof:name":"Yyeertse",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -61,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.11667000000001,
-    58.68333000000001,
-    25.11667000000001,
-    58.68333000000001
+    25.11667,
+    58.68333,
+    25.11667,
+    58.68333
 ],
-  "geometry": {"coordinates":[25.11667000000001,58.68333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.11667,58.68333],"type":"Point"}
 }

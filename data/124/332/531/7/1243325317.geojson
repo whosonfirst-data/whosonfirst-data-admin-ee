@@ -47,7 +47,7 @@
         "gn:id":590857
     },
     "wof:country":"EE",
-    "wof:geomhash":"60bfd3319928d53bb0f705ec1b5e4a2a",
+    "wof:geomhash":"d50fdf9fe6e4e2864ef05de2689de48f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1243325317,
-    "wof:lastmodified":1566585433,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127022,
     "wof:name":"Laanekuru",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     25.45139,
-    58.31444000000001,
+    58.31444,
     25.45139,
-    58.31444000000001
+    58.31444
 ],
-  "geometry": {"coordinates":[25.45139,58.31444000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.45139,58.31444],"type":"Point"}
 }

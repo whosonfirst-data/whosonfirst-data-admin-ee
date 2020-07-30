@@ -47,7 +47,7 @@
         "wk:page":"Peraj%C3%A4rve"
     },
     "wof:country":"EE",
-    "wof:geomhash":"752b6e1acc8019b5a3a7745ebbc7b99e",
+    "wof:geomhash":"fc4e774bc8c244f6bec9cd3b198428c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1259648069,
-    "wof:lastmodified":1566585474,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127028,
     "wof:name":"Perajaerve",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     26.51667,
-    57.68333000000001,
+    57.68333,
     26.51667,
-    57.68333000000001
+    57.68333
 ],
-  "geometry": {"coordinates":[26.51667,57.68333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.51667,57.68333],"type":"Point"}
 }

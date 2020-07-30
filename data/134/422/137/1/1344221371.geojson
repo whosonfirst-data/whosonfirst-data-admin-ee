@@ -61,7 +61,7 @@
         "wk:page":"M%C3%B5isam%C3%A4e"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c6cebdfc8a80d9a8bd869c86ea501516",
+    "wof:geomhash":"eb3c13cb1f4d25ce40336f8699226980",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1344221371,
-    "wof:lastmodified":1566584837,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126928,
     "wof:name":"Moisamaee",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -81,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.10222000000001,
+    27.10222,
     57.77333,
-    27.10222000000001,
+    27.10222,
     57.77333
 ],
-  "geometry": {"coordinates":[27.10222000000001,57.77333],"type":"Point"}
+  "geometry": {"coordinates":[27.10222,57.77333],"type":"Point"}
 }

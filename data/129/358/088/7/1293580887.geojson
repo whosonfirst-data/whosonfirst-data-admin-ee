@@ -46,7 +46,7 @@
         "gn:id":589227
     },
     "wof:country":"EE",
-    "wof:geomhash":"58495a6943c0706be133fa21715031e5",
+    "wof:geomhash":"d402a8305ec2a1e8ac365675c60cbee5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1293580887,
-    "wof:lastmodified":1566584951,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126944,
     "wof:name":"Raana",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     23.85194,
-    58.79389000000001,
+    58.79389,
     23.85194,
-    58.79389000000001
+    58.79389
 ],
-  "geometry": {"coordinates":[23.85194,58.79389000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.85194,58.79389],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Saksa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"d49e1b6ca6927b26ddfade2543843721",
+    "wof:geomhash":"ad5917d237e4f29b3ef9f8494113981c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1293870041,
-    "wof:lastmodified":1566584967,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126947,
     "wof:name":"Saksa",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     24.87167,
-    58.94694000000001,
+    58.94694,
     24.87167,
-    58.94694000000001
+    58.94694
 ],
-  "geometry": {"coordinates":[24.87167,58.94694000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.87167,58.94694],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "gn:id":591068
     },
     "wof:country":"EE",
-    "wof:geomhash":"4d9c2ef1141375cb65dbcbaeabef5a97",
+    "wof:geomhash":"1467479fd8a72f602ebba461b31645b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1343743249,
-    "wof:lastmodified":1566584888,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126935,
     "wof:name":"Koti",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -81,9 +87,9 @@
 },
   "bbox": [
     24.25972,
-    58.29278000000001,
+    58.29278,
     24.25972,
-    58.29278000000001
+    58.29278
 ],
-  "geometry": {"coordinates":[24.25972,58.29278000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.25972,58.29278],"type":"Point"}
 }

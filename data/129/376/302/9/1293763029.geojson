@@ -78,7 +78,7 @@
         "gn:id":592416
     },
     "wof:country":"EE",
-    "wof:geomhash":"9ffee2c5702dbfe97b79240d52f229a8",
+    "wof:geomhash":"c99508ac87ab9a5ecbb02f613a85220e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +88,13 @@
         }
     ],
     "wof:id":1293763029,
-    "wof:lastmodified":1566584937,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126942,
     "wof:name":"Aru",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -99,9 +105,9 @@
 },
   "bbox": [
     25.03333,
-    58.78333000000001,
+    58.78333,
     25.03333,
-    58.78333000000001
+    58.78333
 ],
-  "geometry": {"coordinates":[25.03333,58.78333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.03333,58.78333],"type":"Point"}
 }

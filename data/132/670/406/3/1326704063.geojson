@@ -61,7 +61,7 @@
         "wk:page":"L%C3%B6%C3%B6ne"
     },
     "wof:country":"EE",
-    "wof:geomhash":"fe635cbd76c39d3b2c52e4ee4815fae2",
+    "wof:geomhash":"a08859448f447833ead35766233b93a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1326704063,
-    "wof:lastmodified":1566584800,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126922,
     "wof:name":"Lyne",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     22.75417,
-    58.41583000000001,
+    58.41583,
     22.75417,
-    58.41583000000001
+    58.41583
 ],
-  "geometry": {"coordinates":[22.75417,58.41583000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.75417,58.41583],"type":"Point"}
 }

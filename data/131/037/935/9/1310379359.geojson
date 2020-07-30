@@ -42,7 +42,7 @@
         "gn:id":8620130
     },
     "wof:country":"EE",
-    "wof:geomhash":"a0098fabf949f5fc8a32d1a2a5aaa8d5",
+    "wof:geomhash":"0d460bac2939332cb0264cbd22410f97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310379359,
-    "wof:lastmodified":1566585179,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126980,
     "wof:name":"Suuro-Kiislova",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.42222000000001,
+    27.42222,
     57.70889,
-    27.42222000000001,
+    27.42222,
     57.70889
 ],
-  "geometry": {"coordinates":[27.42222000000001,57.70889],"type":"Point"}
+  "geometry": {"coordinates":[27.42222,57.70889],"type":"Point"}
 }

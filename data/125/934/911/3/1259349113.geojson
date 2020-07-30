@@ -42,7 +42,7 @@
         "gn:id":591620
     },
     "wof:country":"EE",
-    "wof:geomhash":"597428ec57e3ac4511d658dfe14bc9be",
+    "wof:geomhash":"d30c38542ae5babdada09f0d083158f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259349113,
-    "wof:lastmodified":1566585502,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127033,
     "wof:name":"Kargaja",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.16056,
-    58.47528000000001,
+    58.47528,
     27.16056,
-    58.47528000000001
+    58.47528
 ],
-  "geometry": {"coordinates":[27.16056,58.47528000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.16056,58.47528],"type":"Point"}
 }

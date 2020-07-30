@@ -48,7 +48,7 @@
         "gn:id":591282
     },
     "wof:country":"EE",
-    "wof:geomhash":"791f3821e9e2a9b54464f6bef147d33e",
+    "wof:geomhash":"5b851a66032bac6bb30733eced024a39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1327133461,
-    "wof:lastmodified":1566584780,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126919,
     "wof:name":"Kodukuela",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     26.58861,
-    58.72278000000001,
+    58.72278,
     26.58861,
-    58.72278000000001
+    58.72278
 ],
-  "geometry": {"coordinates":[26.58861,58.72278000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.58861,58.72278],"type":"Point"}
 }

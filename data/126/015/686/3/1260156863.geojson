@@ -64,7 +64,7 @@
         "wk:page":"P%C3%BChi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"87a5153529c2def0599af0b1545d7827",
+    "wof:geomhash":"5f7b21702cbdf69003e80899f89586ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1260156863,
-    "wof:lastmodified":1566585131,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126973,
     "wof:name":"Puehi",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -84,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.64417000000001,
+    26.64417,
     58.22778,
-    26.64417000000001,
+    26.64417,
     58.22778
 ],
-  "geometry": {"coordinates":[26.64417000000001,58.22778],"type":"Point"}
+  "geometry": {"coordinates":[26.64417,58.22778],"type":"Point"}
 }

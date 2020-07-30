@@ -58,7 +58,7 @@
         "wk:page":"L%C3%BC%C3%BCste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"e07fb8ccdfd2404e44820df46c6e21c1",
+    "wof:geomhash":"b5c9e4001915e6ba61fe4604261cafc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1209696973,
-    "wof:lastmodified":1566585091,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126966,
     "wof:name":"Lyuyste",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     25.15,
-    58.63333000000001,
+    58.63333,
     25.15,
-    58.63333000000001
+    58.63333
 ],
-  "geometry": {"coordinates":[25.15,58.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.15,58.63333],"type":"Point"}
 }

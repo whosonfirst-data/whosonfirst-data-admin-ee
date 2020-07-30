@@ -45,7 +45,7 @@
         "gn:id":8620693
     },
     "wof:country":"EE",
-    "wof:geomhash":"b195401bb2fbc99b28943154c43b0d9a",
+    "wof:geomhash":"f1ace072a4204cf3992e277ca7f0a2ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1310382719,
-    "wof:lastmodified":1566585171,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126979,
     "wof:name":"Salatski",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     27.09417,
-    58.18944000000001,
+    58.18944,
     27.09417,
-    58.18944000000001
+    58.18944
 ],
-  "geometry": {"coordinates":[27.09417,58.18944000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.09417,58.18944],"type":"Point"}
 }

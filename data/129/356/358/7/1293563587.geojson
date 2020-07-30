@@ -45,7 +45,7 @@
         "gn:id":589233
     },
     "wof:country":"EE",
-    "wof:geomhash":"810d7981a6fc312c0f6c8deff3cd70aa",
+    "wof:geomhash":"2d370e1f480eb340243e715b55cb59f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1293563587,
-    "wof:lastmodified":1566584950,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126944,
     "wof:name":"Ryagu",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     25.17417,
-    58.13028000000001,
+    58.13028,
     25.17417,
-    58.13028000000001
+    58.13028
 ],
-  "geometry": {"coordinates":[25.17417,58.13028000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.17417,58.13028],"type":"Point"}
 }

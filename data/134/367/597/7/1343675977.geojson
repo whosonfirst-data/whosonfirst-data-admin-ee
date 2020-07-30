@@ -66,7 +66,7 @@
         "gn:id":591015
     },
     "wof:country":"EE",
-    "wof:geomhash":"2e66f0cacc2e682b06b3bcf1b6b7c596",
+    "wof:geomhash":"b8cab08bb8d6ddb2b9ae50da6093cc5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1343675977,
-    "wof:lastmodified":1566584868,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126932,
     "wof:name":"Kuke",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -87,9 +93,9 @@
 },
   "bbox": [
     24.13444,
-    59.01694000000001,
+    59.01694,
     24.13444,
-    59.01694000000001
+    59.01694
 ],
-  "geometry": {"coordinates":[24.13444,59.01694000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.13444,59.01694],"type":"Point"}
 }

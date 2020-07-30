@@ -45,7 +45,7 @@
         "gn:id":8619210
     },
     "wof:country":"EE",
-    "wof:geomhash":"7c68842b236b034d1f3badcd8fab449e",
+    "wof:geomhash":"5e96615a9fba5a26302ff128ffcd71a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1226308605,
-    "wof:lastmodified":1566585574,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127043,
     "wof:name":"Nilbi",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.0425,
-    57.93528000000001,
+    57.93528,
     26.0425,
-    57.93528000000001
+    57.93528
 ],
-  "geometry": {"coordinates":[26.0425,57.93528000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.0425,57.93528],"type":"Point"}
 }

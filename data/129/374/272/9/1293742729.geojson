@@ -64,7 +64,7 @@
         "wk:page":"Hannuste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"6519d6ae6bf7109b0ac2bf5fc7aa8822",
+    "wof:geomhash":"04ad38390cca74d74ffc35103a584b6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1293742729,
-    "wof:lastmodified":1566584968,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126947,
     "wof:name":"Hannuste",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     27.01806,
-    57.76833000000001,
+    57.76833,
     27.01806,
-    57.76833000000001
+    57.76833
 ],
-  "geometry": {"coordinates":[27.01806,57.76833000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.01806,57.76833],"type":"Point"}
 }

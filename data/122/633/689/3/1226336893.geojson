@@ -50,7 +50,7 @@
         "wk:page":"Vanak%C3%BCla%2C_Noarootsi_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"56f2593820b9cfbc19be43339b449d44",
+    "wof:geomhash":"b42132a4dc6b21974cb06d998c94d1a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +60,13 @@
         }
     ],
     "wof:id":1226336893,
-    "wof:lastmodified":1566585535,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127037,
     "wof:name":"Vanakuela",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -71,9 +77,9 @@
 },
   "bbox": [
     23.58722,
-    59.11833000000001,
+    59.11833,
     23.58722,
-    59.11833000000001
+    59.11833
 ],
-  "geometry": {"coordinates":[23.58722,59.11833000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.58722,59.11833],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"V%C3%B5hma%2C_L%C3%A4%C3%A4ne_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"9c21f3c8654de8f01207ff13f45e5de1",
+    "wof:geomhash":"32917a3db16ff93f22b1bce5bdf79452",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1310400091,
-    "wof:lastmodified":1566585166,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126978,
     "wof:name":"Vohma",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     24.10528,
-    58.72221999999999,
+    58.72222,
     24.10528,
-    58.72221999999999
+    58.72222
 ],
-  "geometry": {"coordinates":[24.10528,58.72221999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.10528,58.72222],"type":"Point"}
 }

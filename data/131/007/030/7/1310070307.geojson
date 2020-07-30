@@ -68,7 +68,7 @@
         "wk:page":"Laane%2C_Viljandi_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"da8012efd273a24390735ae0596f6730",
+    "wof:geomhash":"1f261aefce5bc1014fae3400812db1ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +78,13 @@
         }
     ],
     "wof:id":1310070307,
-    "wof:lastmodified":1566585171,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126979,
     "wof:name":"Laane",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -89,9 +95,9 @@
 },
   "bbox": [
     25.27722,
-    58.35583000000001,
+    58.35583,
     25.27722,
-    58.35583000000001
+    58.35583
 ],
-  "geometry": {"coordinates":[25.27722,58.35583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.27722,58.35583],"type":"Point"}
 }

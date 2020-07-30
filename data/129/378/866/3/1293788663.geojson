@@ -61,7 +61,7 @@
         "wk:page":"V%C3%B5ikvere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ab96a4630433ec4deed8f783848ca570",
+    "wof:geomhash":"ec90cd9bb65aa7543f4a2dfd529423df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1293788663,
-    "wof:lastmodified":1566584940,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126942,
     "wof:name":"Voikvere",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     26.46583,
-    58.74028000000001,
+    58.74028,
     26.46583,
-    58.74028000000001
+    58.74028
 ],
-  "geometry": {"coordinates":[26.46583,58.74028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.46583,58.74028],"type":"Point"}
 }

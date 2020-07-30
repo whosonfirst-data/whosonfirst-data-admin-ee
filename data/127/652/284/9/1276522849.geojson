@@ -58,7 +58,7 @@
         "wk:page":"Sooblase"
     },
     "wof:country":"EE",
-    "wof:geomhash":"8e9816b80891c271cc29dd9ccc98e1f0",
+    "wof:geomhash":"b1e2ef55cb4970905f983e79beead3e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1276522849,
-    "wof:lastmodified":1566585033,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126957,
     "wof:name":"Sooblase",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -78,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.35972000000001,
+    26.35972,
     57.61028,
-    26.35972000000001,
+    26.35972,
     57.61028
 ],
-  "geometry": {"coordinates":[26.35972000000001,57.61028],"type":"Point"}
+  "geometry": {"coordinates":[26.35972,57.61028],"type":"Point"}
 }

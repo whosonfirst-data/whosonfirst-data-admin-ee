@@ -65,7 +65,7 @@
         "wk:page":"Koogiste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"f4d0e1ec85cf1dc002c4d449ebd5c072",
+    "wof:geomhash":"54b50249476ae6e0e0897ec4f97716f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1293863207,
-    "wof:lastmodified":1566584978,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126948,
     "wof:name":"Koogiste",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     25.02722,
-    58.77916999999999,
+    58.77917,
     25.02722,
-    58.77916999999999
+    58.77917
 ],
-  "geometry": {"coordinates":[25.02722,58.77916999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.02722,58.77917],"type":"Point"}
 }

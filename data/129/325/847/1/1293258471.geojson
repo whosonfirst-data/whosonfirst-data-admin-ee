@@ -42,7 +42,7 @@
         "gn:id":793965
     },
     "wof:country":"EE",
-    "wof:geomhash":"414216b20d50b953587a651fcf7a9a03",
+    "wof:geomhash":"e62a911cda6786dfd7efbfd2e37cc8b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293258471,
-    "wof:lastmodified":1566584942,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126942,
     "wof:name":"Jousa",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.77917,
-    58.54389000000001,
+    58.54389,
     26.77917,
-    58.54389000000001
+    58.54389
 ],
-  "geometry": {"coordinates":[26.77917,58.54389000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.77917,58.54389],"type":"Point"}
 }

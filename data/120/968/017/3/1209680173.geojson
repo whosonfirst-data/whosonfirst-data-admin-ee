@@ -59,7 +59,7 @@
         "wk:page":"Husari"
     },
     "wof:country":"EE",
-    "wof:geomhash":"16fb6d06ffa1eeeebe7d310d48b2504d",
+    "wof:geomhash":"0ed73a586c285b9c60ee1714320851bd",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1209680173,
-    "wof:lastmodified":1566585081,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Husari",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -77,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.17222000000001,
+    27.17222,
     57.84389,
-    27.17222000000001,
+    27.17222,
     57.84389
 ],
-  "geometry": {"coordinates":[27.17222000000001,57.84389],"type":"Point"}
+  "geometry": {"coordinates":[27.17222,57.84389],"type":"Point"}
 }

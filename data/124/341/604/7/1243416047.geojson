@@ -46,7 +46,7 @@
         "gn:id":590632
     },
     "wof:country":"EE",
-    "wof:geomhash":"760a4d2c79902063e84f3b73222aa893",
+    "wof:geomhash":"4421f9b72f43d406b38ed3a822bb617a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243416047,
-    "wof:lastmodified":1566585418,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127020,
     "wof:name":"Liivaku",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     25.63944,
-    58.15221999999999,
+    58.15222,
     25.63944,
-    58.15221999999999
+    58.15222
 ],
-  "geometry": {"coordinates":[25.63944,58.15221999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.63944,58.15222],"type":"Point"}
 }

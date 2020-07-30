@@ -55,7 +55,7 @@
         "wk:page":"N%C3%B5mme%2C_L%C3%A4%C3%A4ne-Viru_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"0b45833527cced626eb04036d00ab03e",
+    "wof:geomhash":"5beecdcf7efe6c45b1fd65068a833601",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1293879157,
-    "wof:lastmodified":1566584967,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126947,
     "wof:name":"Nomme",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -76,9 +82,9 @@
 },
   "bbox": [
     26.21778,
-    59.04083000000001,
+    59.04083,
     26.21778,
-    59.04083000000001
+    59.04083
 ],
-  "geometry": {"coordinates":[26.21778,59.04083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.21778,59.04083],"type":"Point"}
 }

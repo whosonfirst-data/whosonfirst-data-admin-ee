@@ -64,7 +64,7 @@
         "wk:page":"M%C3%A4llu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"7850a5d32e7b6d98930cc1c7fc0a4f97",
+    "wof:geomhash":"876986fb6f29d9114f41a78bdb2cf012",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1344243163,
-    "wof:lastmodified":1566584845,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126929,
     "wof:name":"Maellu",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     24.68306,
-    59.01278000000001,
+    59.01278,
     24.68306,
-    59.01278000000001
+    59.01278
 ],
-  "geometry": {"coordinates":[24.68306,59.01278000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.68306,59.01278],"type":"Point"}
 }

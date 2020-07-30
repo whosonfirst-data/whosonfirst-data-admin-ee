@@ -300,7 +300,7 @@
         "gn:id":8620833
     },
     "wof:country":"EE",
-    "wof:geomhash":"c78babc48189a344bc104ee780374077",
+    "wof:geomhash":"87297c5b4667d995d5c59dea0ccc37ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -310,7 +310,13 @@
         }
     ],
     "wof:id":1309689493,
-    "wof:lastmodified":1566585262,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126994,
     "wof:name":"Parma",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -321,9 +327,9 @@
 },
   "bbox": [
     27.4975,
-    58.05583000000001,
+    58.05583,
     27.4975,
-    58.05583000000001
+    58.05583
 ],
-  "geometry": {"coordinates":[27.4975,58.05583000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.4975,58.05583],"type":"Point"}
 }

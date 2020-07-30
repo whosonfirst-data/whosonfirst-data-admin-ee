@@ -61,7 +61,7 @@
         "wk:page":"Sakurgi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ade65e2c5560b0332d4c876b1adb6aab",
+    "wof:geomhash":"f22b0b142c9115ccd92c72fb0e70472b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1277039419,
-    "wof:lastmodified":1566585016,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126954,
     "wof:name":"Sakurgi",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     26.54417,
-    57.61389000000001,
+    57.61389,
     26.54417,
-    57.61389000000001
+    57.61389
 ],
-  "geometry": {"coordinates":[26.54417,57.61389000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.54417,57.61389],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "gn:id":796111
     },
     "wof:country":"EE",
-    "wof:geomhash":"2014e38c05a061f030a3b4e9ef8d6732",
+    "wof:geomhash":"b7a6664e4a4a622f8c2399cfa7513a63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1344127801,
-    "wof:lastmodified":1566584843,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126929,
     "wof:name":"Metsalouka",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     22.06667,
-    58.18333000000001,
+    58.18333,
     22.06667,
-    58.18333000000001
+    58.18333
 ],
-  "geometry": {"coordinates":[22.06667,58.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.06667,58.18333],"type":"Point"}
 }

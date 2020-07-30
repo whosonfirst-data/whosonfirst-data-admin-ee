@@ -46,7 +46,7 @@
         "gn:id":589038
     },
     "wof:country":"EE",
-    "wof:geomhash":"469daffd3a2b7f7857177bc6f7121e2b",
+    "wof:geomhash":"bcf132cd6693f13009313482e2623218",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1310216663,
-    "wof:lastmodified":1566585196,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126983,
     "wof:name":"Ridakuela",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.9,
-    59.38333000000001,
+    59.38333,
     27.9,
-    59.38333000000001
+    59.38333
 ],
-  "geometry": {"coordinates":[27.9,59.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.9,59.38333],"type":"Point"}
 }

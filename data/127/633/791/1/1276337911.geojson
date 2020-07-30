@@ -64,7 +64,7 @@
         "wk:page":"Ogandi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"fc5dc059c4c4dcc21010f38b62f7630c",
+    "wof:geomhash":"5f7e8dff84858ba60794f42d4ad38908",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1276337911,
-    "wof:lastmodified":1566584998,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126951,
     "wof:name":"Ogandi",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     22.55579,
-    59.01598000000001,
+    59.01598,
     22.55579,
-    59.01598000000001
+    59.01598
 ],
-  "geometry": {"coordinates":[22.55579,59.01598000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.55579,59.01598],"type":"Point"}
 }

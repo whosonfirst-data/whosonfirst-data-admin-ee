@@ -46,7 +46,7 @@
         "gn:id":8619308
     },
     "wof:country":"EE",
-    "wof:geomhash":"4ccc41054a628777391f76a27e16bd7b",
+    "wof:geomhash":"6bbd7fed0d4ba70e7ec0c6b88d0fd041",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1276186557,
-    "wof:lastmodified":1566584996,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126951,
     "wof:name":"Lobinakuela",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     25.35028,
-    58.16583000000001,
+    58.16583,
     25.35028,
-    58.16583000000001
+    58.16583
 ],
-  "geometry": {"coordinates":[25.35028,58.16583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.35028,58.16583],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Kostiranna"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b9a2f85d45d2a31610d951ece6ef2845",
+    "wof:geomhash":"88fbd24d32f3b2d8e8616f6855746ce5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1259897555,
-    "wof:lastmodified":1566585505,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127033,
     "wof:name":"Kostiranna",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     25.11266,
-    59.48719000000001,
+    59.48719,
     25.11266,
-    59.48719000000001
+    59.48719
 ],
-  "geometry": {"coordinates":[25.11266,59.48719000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.11266,59.48719],"type":"Point"}
 }

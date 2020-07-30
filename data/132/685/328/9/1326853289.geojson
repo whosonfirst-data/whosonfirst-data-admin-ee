@@ -42,7 +42,7 @@
         "gn:id":8618195
     },
     "wof:country":"EE",
-    "wof:geomhash":"fac6b205bc430da83ba12b34ecba73c2",
+    "wof:geomhash":"3f5ecf644886afc1f07d9e54c4f82c96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326853289,
-    "wof:lastmodified":1566584796,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126922,
     "wof:name":"Laastiku",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.49139000000001,
+    26.49139,
     58.55333,
-    26.49139000000001,
+    26.49139,
     58.55333
 ],
-  "geometry": {"coordinates":[26.49139000000001,58.55333],"type":"Point"}
+  "geometry": {"coordinates":[26.49139,58.55333],"type":"Point"}
 }

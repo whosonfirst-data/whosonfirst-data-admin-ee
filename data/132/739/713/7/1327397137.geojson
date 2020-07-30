@@ -69,7 +69,7 @@
         "gn:id":794006
     },
     "wof:country":"EE",
-    "wof:geomhash":"78c5d360457f8dac29f7c99af108bd26",
+    "wof:geomhash":"dcb1ec07dd87aebf5028531197910d32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1327397137,
-    "wof:lastmodified":1566584758,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126916,
     "wof:name":"Kulli",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -90,9 +96,9 @@
 },
   "bbox": [
     26.26944,
-    58.24166999999999,
+    58.24167,
     26.26944,
-    58.24166999999999
+    58.24167
 ],
-  "geometry": {"coordinates":[26.26944,58.24166999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.26944,58.24167],"type":"Point"}
 }

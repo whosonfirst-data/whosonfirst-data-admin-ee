@@ -43,7 +43,7 @@
         "gn:id":590485
     },
     "wof:country":"EE",
-    "wof:geomhash":"5cad19a0334e2f0e6e498f71fd461157",
+    "wof:geomhash":"eb21f11d5c03e1402daa55bd5741eb16",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -51,7 +51,13 @@
         }
     ],
     "wof:id":1209235659,
-    "wof:lastmodified":1566585069,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126963,
     "wof:name":"Luksi",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -61,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.53972000000001,
+    23.53972,
     59.10611,
-    23.53972000000001,
+    23.53972,
     59.10611
 ],
-  "geometry": {"coordinates":[23.53972000000001,59.10611],"type":"Point"}
+  "geometry": {"coordinates":[23.53972,59.10611],"type":"Point"}
 }

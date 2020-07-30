@@ -42,7 +42,7 @@
         "gn:id":590509
     },
     "wof:country":"EE",
-    "wof:geomhash":"bec96e5eca186933695508e20d288a30",
+    "wof:geomhash":"46af0fa7ae72a032efe6a52279450685",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293683587,
-    "wof:lastmodified":1566584946,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126943,
     "wof:name":"Lopi",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     23.53333,
-    58.78333000000001,
+    58.78333,
     23.53333,
-    58.78333000000001
+    58.78333
 ],
-  "geometry": {"coordinates":[23.53333,58.78333000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.53333,58.78333],"type":"Point"}
 }

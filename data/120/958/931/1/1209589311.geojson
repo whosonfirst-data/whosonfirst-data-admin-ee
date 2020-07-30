@@ -64,7 +64,7 @@
         "wk:page":"Orin%C3%B5mme"
     },
     "wof:country":"EE",
-    "wof:geomhash":"5facadc4409db80d0e2c2a75f0bfc9a8",
+    "wof:geomhash":"2cd066977061d6b3d66647f40f1d8188",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -72,7 +72,13 @@
         }
     ],
     "wof:id":1209589311,
-    "wof:lastmodified":1566585087,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126965,
     "wof:name":"Orinomme",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -83,9 +89,9 @@
 },
   "bbox": [
     23.03639,
-    58.57666999999999,
+    58.57667,
     23.03639,
-    58.57666999999999
+    58.57667
 ],
-  "geometry": {"coordinates":[23.03639,58.57666999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.03639,58.57667],"type":"Point"}
 }

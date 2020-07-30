@@ -46,7 +46,7 @@
         "gn:id":589015
     },
     "wof:country":"EE",
-    "wof:geomhash":"43db4006cb3ebb451fce22a37e67949e",
+    "wof:geomhash":"26529990ae4f8d3274443a61c1c249a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1326495043,
-    "wof:lastmodified":1566584794,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126922,
     "wof:name":"Riste",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     25.46528,
-    58.38583000000001,
+    58.38583,
     25.46528,
-    58.38583000000001
+    58.38583
 ],
-  "geometry": {"coordinates":[25.46528,58.38583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.46528,58.38583],"type":"Point"}
 }

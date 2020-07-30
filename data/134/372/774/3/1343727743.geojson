@@ -58,7 +58,7 @@
         "wk:page":"Astuvere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"4238aa200261463ec2cccfea336cd11b",
+    "wof:geomhash":"47e6bedd14610ef44ef1867375d37c02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1343727743,
-    "wof:lastmodified":1566584892,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126936,
     "wof:name":"Astuvere",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -78,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.30417000000001,
+    26.30417,
     58.09972,
-    26.30417000000001,
+    26.30417,
     58.09972
 ],
-  "geometry": {"coordinates":[26.30417000000001,58.09972],"type":"Point"}
+  "geometry": {"coordinates":[26.30417,58.09972],"type":"Point"}
 }

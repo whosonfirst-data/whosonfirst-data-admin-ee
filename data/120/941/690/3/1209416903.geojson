@@ -68,7 +68,7 @@
         "wk:page":"Laekannu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"913fb3d04136cefbacf962cf85742595",
+    "wof:geomhash":"108e861847bf4d4219d82d7c0a0ec5d7",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1209416903,
-    "wof:lastmodified":1566585067,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126962,
     "wof:name":"Laekannu",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -86,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.76222000000001,
+    26.76222,
     58.94556,
-    26.76222000000001,
+    26.76222,
     58.94556
 ],
-  "geometry": {"coordinates":[26.76222000000001,58.94556],"type":"Point"}
+  "geometry": {"coordinates":[26.76222,58.94556],"type":"Point"}
 }

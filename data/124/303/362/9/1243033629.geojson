@@ -46,7 +46,7 @@
         "gn:id":591447
     },
     "wof:country":"EE",
-    "wof:geomhash":"9f643ade4a5e61ad34de221ff806b091",
+    "wof:geomhash":"53a4bb7fc4953a24722202b2ec01d934",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243033629,
-    "wof:lastmodified":1566585430,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127021,
     "wof:name":"Keskkuela",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.96417000000001,
+    25.96417,
     58.01389,
-    25.96417000000001,
+    25.96417,
     58.01389
 ],
-  "geometry": {"coordinates":[25.96417000000001,58.01389],"type":"Point"}
+  "geometry": {"coordinates":[25.96417,58.01389],"type":"Point"}
 }

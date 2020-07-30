@@ -66,7 +66,7 @@
         "wk:page":"J%C3%B5etaguse%2C_L%C3%A4%C3%A4ne-Viru_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b3f8b8b078fdef61947a69569e21e6e0",
+    "wof:geomhash":"3a248e94b8c49b28539ffc8b5d845ec1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1344142477,
-    "wof:lastmodified":1566584841,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126928,
     "wof:name":"Joetaguse",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -86,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.17222000000001,
+    26.17222,
     59.31194,
-    26.17222000000001,
+    26.17222,
     59.31194
 ],
-  "geometry": {"coordinates":[26.17222000000001,59.31194],"type":"Point"}
+  "geometry": {"coordinates":[26.17222,59.31194],"type":"Point"}
 }

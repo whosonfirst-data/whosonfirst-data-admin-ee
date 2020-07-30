@@ -47,7 +47,7 @@
         "gn:id":588017
     },
     "wof:country":"EE",
-    "wof:geomhash":"9e69123a98ccfef3c83c159b09d8751e",
+    "wof:geomhash":"3d0a72c4cea803ad9fb5edf2770162fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1343481019,
-    "wof:lastmodified":1566584853,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126930,
     "wof:name":"Uuekuela",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.86667000000001,
+    25.86667,
     59.51667,
-    25.86667000000001,
+    25.86667,
     59.51667
 ],
-  "geometry": {"coordinates":[25.86667000000001,59.51667],"type":"Point"}
+  "geometry": {"coordinates":[25.86667,59.51667],"type":"Point"}
 }

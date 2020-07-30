@@ -64,7 +64,7 @@
         "wk:page":"Kikkaoja"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b6738e7e4a8c79ddc52ca3dbde9d2402",
+    "wof:geomhash":"4ab5dc81e4cfdc5915be3f5a7eb3a3dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1310659627,
-    "wof:lastmodified":1566585169,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126979,
     "wof:name":"Kikkaoja",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.68889,
-    57.71666999999999,
+    57.71667,
     26.68889,
-    57.71666999999999
+    57.71667
 ],
-  "geometry": {"coordinates":[26.68889,57.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.68889,57.71667],"type":"Point"}
 }

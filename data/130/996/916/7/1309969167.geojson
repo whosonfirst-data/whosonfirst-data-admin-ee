@@ -64,7 +64,7 @@
         "wk:page":"Uuta"
     },
     "wof:country":"EE",
-    "wof:geomhash":"4516bcf0376eeb4d21a9693c0a1f33d0",
+    "wof:geomhash":"9e62c850a7dfc6454991c345847bfb9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1309969167,
-    "wof:lastmodified":1566585252,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126993,
     "wof:name":"Uuta",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.44111,
-    58.21944000000001,
+    58.21944,
     26.44111,
-    58.21944000000001
+    58.21944
 ],
-  "geometry": {"coordinates":[26.44111,58.21944000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.44111,58.21944],"type":"Point"}
 }

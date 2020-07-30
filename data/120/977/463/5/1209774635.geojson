@@ -46,7 +46,7 @@
         "gn:id":8620258
     },
     "wof:country":"EE",
-    "wof:geomhash":"e81199326b5d50f3d15840b58c72f697",
+    "wof:geomhash":"5df651c4c9f7e97a06c715f94ce87b6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1209774635,
-    "wof:lastmodified":1566585064,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126962,
     "wof:name":"Kurgjaerve",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.015,
-    57.72221999999999,
+    57.72222,
     27.015,
-    57.72221999999999
+    57.72222
 ],
-  "geometry": {"coordinates":[27.015,57.72221999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.015,57.72222],"type":"Point"}
 }

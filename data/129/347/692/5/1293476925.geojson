@@ -70,7 +70,7 @@
         "wk:page":"Vanam%C3%B5isa%2C_P%C3%B5lva_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"87073ebb0b73a45f7feb5ac8a010ba83",
+    "wof:geomhash":"ab0a36dcf2c4007bd7933852f3ccd7d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1293476925,
-    "wof:lastmodified":1566584939,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126942,
     "wof:name":"Vanamoisa",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -90,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.10194000000001,
+    27.10194,
     58.22417,
-    27.10194000000001,
+    27.10194,
     58.22417
 ],
-  "geometry": {"coordinates":[27.10194000000001,58.22417],"type":"Point"}
+  "geometry": {"coordinates":[27.10194,58.22417],"type":"Point"}
 }

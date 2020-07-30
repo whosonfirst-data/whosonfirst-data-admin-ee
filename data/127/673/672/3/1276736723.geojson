@@ -46,7 +46,7 @@
         "gn:id":8620204
     },
     "wof:country":"EE",
-    "wof:geomhash":"62a983cfb1ade8b74d9e584286a9d15b",
+    "wof:geomhash":"d240161d159127f1f5d4f5bbebdda8df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1276736723,
-    "wof:lastmodified":1566584994,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126951,
     "wof:name":"Hallamaee",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.00833,
-    57.79083000000001,
+    57.79083,
     27.00833,
-    57.79083000000001
+    57.79083
 ],
-  "geometry": {"coordinates":[27.00833,57.79083000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.00833,57.79083],"type":"Point"}
 }

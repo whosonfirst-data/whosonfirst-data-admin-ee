@@ -96,7 +96,7 @@
         "gn:id":8620344
     },
     "wof:country":"EE",
-    "wof:geomhash":"453ccd8568cc5d24490d9eba425d59e6",
+    "wof:geomhash":"1835afc5398080f6b1b21b1b5abb5baa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +106,13 @@
         }
     ],
     "wof:id":1344231501,
-    "wof:lastmodified":1566584846,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126929,
     "wof:name":"Kolda",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -117,9 +123,9 @@
 },
   "bbox": [
     25.63222,
-    58.12083000000001,
+    58.12083,
     25.63222,
-    58.12083000000001
+    58.12083
 ],
-  "geometry": {"coordinates":[25.63222,58.12083000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.63222,58.12083],"type":"Point"}
 }

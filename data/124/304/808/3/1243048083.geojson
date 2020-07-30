@@ -46,7 +46,7 @@
         "gn:id":8620111
     },
     "wof:country":"EE",
-    "wof:geomhash":"1223c18e2406014f5114c2e3d8d8940e",
+    "wof:geomhash":"5fc62b159a4d9e2d1ff4a34d51cd7493",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243048083,
-    "wof:lastmodified":1566585432,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127022,
     "wof:name":"Kesk-Nedsaejae",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.55528,
-    57.88639000000001,
+    57.88639,
     27.55528,
-    57.88639000000001
+    57.88639
 ],
-  "geometry": {"coordinates":[27.55528,57.88639000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.55528,57.88639],"type":"Point"}
 }

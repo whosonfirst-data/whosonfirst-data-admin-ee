@@ -46,7 +46,7 @@
         "gn:id":8620397
     },
     "wof:country":"EE",
-    "wof:geomhash":"6c1800485e22ebdd0bd561fe1448ff28",
+    "wof:geomhash":"8186f74fb60bf450922898d2fb08963e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1310170229,
-    "wof:lastmodified":1566585191,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126982,
     "wof:name":"Vahekuela",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     25.52167,
-    58.41028000000001,
+    58.41028,
     25.52167,
-    58.41028000000001
+    58.41028
 ],
-  "geometry": {"coordinates":[25.52167,58.41028000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.52167,58.41028],"type":"Point"}
 }

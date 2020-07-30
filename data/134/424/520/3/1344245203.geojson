@@ -61,7 +61,7 @@
         "wk:page":"P%C3%B6%C3%B6ravere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1f937b824330faa87526872a7fe6dd78",
+    "wof:geomhash":"a8f90ad5dc2de6471f220349960f2bc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1344245203,
-    "wof:lastmodified":1566584845,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126929,
     "wof:name":"Poeoeravere",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     24.61611,
-    58.67778000000001,
+    58.67778,
     24.61611,
-    58.67778000000001
+    58.67778
 ],
-  "geometry": {"coordinates":[24.61611,58.67778000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.61611,58.67778],"type":"Point"}
 }

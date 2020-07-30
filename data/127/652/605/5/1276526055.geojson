@@ -68,7 +68,7 @@
         "wk:page":"Mihkli"
     },
     "wof:country":"EE",
-    "wof:geomhash":"0716cb1faaa27e6f31400c1d33dc9b96",
+    "wof:geomhash":"a3bdc98ba6b86a2bcf4d493e6b348e09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +78,13 @@
         }
     ],
     "wof:id":1276526055,
-    "wof:lastmodified":1566585033,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126957,
     "wof:name":"Mihkli",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -89,9 +95,9 @@
 },
   "bbox": [
     24.11611,
-    58.60778000000001,
+    58.60778,
     24.11611,
-    58.60778000000001
+    58.60778
 ],
-  "geometry": {"coordinates":[24.11611,58.60778000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.11611,58.60778],"type":"Point"}
 }

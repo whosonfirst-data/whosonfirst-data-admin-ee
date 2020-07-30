@@ -62,7 +62,7 @@
         "wk:page":"K%C3%B5rsa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b2526134611abe5ec7daee7a1a1e6466",
+    "wof:geomhash":"799905b992e17963900a221f9c8a8a70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,13 @@
         }
     ],
     "wof:id":1343639741,
-    "wof:lastmodified":1566584835,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126928,
     "wof:name":"Korsa",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -83,9 +89,9 @@
 },
   "bbox": [
     24.7075,
-    58.41278000000001,
+    58.41278,
     24.7075,
-    58.41278000000001
+    58.41278
 ],
-  "geometry": {"coordinates":[24.7075,58.41278000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.7075,58.41278],"type":"Point"}
 }

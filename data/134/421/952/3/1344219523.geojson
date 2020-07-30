@@ -46,7 +46,7 @@
         "gn:id":8619398
     },
     "wof:country":"EE",
-    "wof:geomhash":"f7e4bacb817f6d84d3be95784de42609",
+    "wof:geomhash":"e34e86fcafe969de6b5d8974d87878df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1344219523,
-    "wof:lastmodified":1566584876,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126934,
     "wof:name":"Kaernae",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.42194000000001,
+    26.42194,
     57.76944,
-    26.42194000000001,
+    26.42194,
     57.76944
 ],
-  "geometry": {"coordinates":[26.42194000000001,57.76944],"type":"Point"}
+  "geometry": {"coordinates":[26.42194,57.76944],"type":"Point"}
 }

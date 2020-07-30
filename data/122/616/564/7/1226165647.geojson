@@ -66,7 +66,7 @@
         "gn:id":588995
     },
     "wof:country":"EE",
-    "wof:geomhash":"94c64abceb48ec00bc900123f050b7e2",
+    "wof:geomhash":"b7a2f801c30b26a1d8a7fbbe4f511e3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1226165647,
-    "wof:lastmodified":1566585534,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127037,
     "wof:name":"Roela",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -87,9 +93,9 @@
 },
   "bbox": [
     26.7625,
-    58.70778000000001,
+    58.70778,
     26.7625,
-    58.70778000000001
+    58.70778
 ],
-  "geometry": {"coordinates":[26.7625,58.70778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.7625,58.70778],"type":"Point"}
 }

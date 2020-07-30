@@ -75,7 +75,7 @@
         "gn:id":8618545
     },
     "wof:country":"EE",
-    "wof:geomhash":"cec1cc0a9ad784f8ab008f48c9255f6b",
+    "wof:geomhash":"ed9b8bb7a3edaa82d5ac940ca9bfe640",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1344136199,
-    "wof:lastmodified":1566584838,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126928,
     "wof:name":"Purga",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -96,9 +102,9 @@
 },
   "bbox": [
     24.39583,
-    59.01694000000001,
+    59.01694,
     24.39583,
-    59.01694000000001
+    59.01694
 ],
-  "geometry": {"coordinates":[24.39583,59.01694000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.39583,59.01694],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "gn:id":589506
     },
     "wof:country":"EE",
-    "wof:geomhash":"fabb80e155ba772cb8dbce63659f3ca8",
+    "wof:geomhash":"042344047e8fe5b7db6176202d0c3386",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1293548385,
-    "wof:lastmodified":1566584919,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126939,
     "wof:name":"Petruse",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.17917000000001,
+    27.17917,
     57.715,
-    27.17917000000001,
+    27.17917,
     57.715
 ],
-  "geometry": {"coordinates":[27.17917000000001,57.715],"type":"Point"}
+  "geometry": {"coordinates":[27.17917,57.715],"type":"Point"}
 }

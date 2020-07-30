@@ -71,7 +71,7 @@
         "wk:page":"Tamsa%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ed70b6dd19194c41d0ca8aca06dac853",
+    "wof:geomhash":"ab624d9b1fa85c67427ba723ccaacbcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +81,13 @@
         }
     ],
     "wof:id":1259349027,
-    "wof:lastmodified":1566585501,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127033,
     "wof:name":"Tamsa",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -92,9 +98,9 @@
 },
   "bbox": [
     26.48528,
-    58.21471999999999,
+    58.21472,
     26.48528,
-    58.21471999999999
+    58.21472
 ],
-  "geometry": {"coordinates":[26.48528,58.21471999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.48528,58.21472],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Kivioru"
     },
     "wof:country":"EE",
-    "wof:geomhash":"e58ab8dbb9b7f7de87aa12f3a8bc8fe7",
+    "wof:geomhash":"98a7c26109277eb9819e3574ca6f8ac1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1276306613,
-    "wof:lastmodified":1566585036,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126957,
     "wof:name":"Kivioru",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     27.31194,
-    57.58278000000001,
+    57.58278,
     27.31194,
-    57.58278000000001
+    57.58278
 ],
-  "geometry": {"coordinates":[27.31194,57.58278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.31194,57.58278],"type":"Point"}
 }

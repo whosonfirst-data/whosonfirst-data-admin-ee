@@ -62,7 +62,7 @@
         "wk:page":"M%C3%B5%C3%B5lu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b8e48743fcfcc8c1f068565f392bf449",
+    "wof:geomhash":"d7a5fb0bed88f649597547c63a7d0a1b",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1209574429,
-    "wof:lastmodified":1566585079,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Moolu",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -81,9 +87,9 @@
 },
   "bbox": [
     26.96667,
-    57.69833000000001,
+    57.69833,
     26.96667,
-    57.69833000000001
+    57.69833
 ],
-  "geometry": {"coordinates":[26.96667,57.69833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.96667,57.69833],"type":"Point"}
 }

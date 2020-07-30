@@ -48,7 +48,7 @@
         "gn:id":590059
     },
     "wof:country":"EE",
-    "wof:geomhash":"2161600749545d279f6d7688a8b55ee6",
+    "wof:geomhash":"ef776c31d3e1c95e161fa9ea252428e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1209806239,
-    "wof:lastmodified":1566585100,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126967,
     "wof:name":"Muuga-Noavere",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.61667000000001,
+    26.61667,
     59.1,
-    26.61667000000001,
+    26.61667,
     59.1
 ],
-  "geometry": {"coordinates":[26.61667000000001,59.1],"type":"Point"}
+  "geometry": {"coordinates":[26.61667,59.1],"type":"Point"}
 }

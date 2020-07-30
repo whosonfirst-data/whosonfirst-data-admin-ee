@@ -47,7 +47,7 @@
         "gn:id":590875
     },
     "wof:country":"EE",
-    "wof:geomhash":"05c9a3fbf59527a55f3529a27d544f41",
+    "wof:geomhash":"e214216ac08353553b59db1da27224d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1343832445,
-    "wof:lastmodified":1566584850,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126930,
     "wof:name":"Kuustle",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     25.45,
-    58.11666999999999,
+    58.11667,
     25.45,
-    58.11666999999999
+    58.11667
 ],
-  "geometry": {"coordinates":[25.45,58.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.45,58.11667],"type":"Point"}
 }

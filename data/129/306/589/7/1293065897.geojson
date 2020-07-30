@@ -66,7 +66,7 @@
         "wk:page":"Vihi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"68cd898e1098624c8d9d54bc8749a70a",
+    "wof:geomhash":"93bc579ce732d54073aee28a9204b583",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1293065897,
-    "wof:lastmodified":1566584922,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126939,
     "wof:name":"Vihi",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -87,9 +93,9 @@
 },
   "bbox": [
     25.37389,
-    58.58083000000001,
+    58.58083,
     25.37389,
-    58.58083000000001
+    58.58083
 ],
-  "geometry": {"coordinates":[25.37389,58.58083000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.37389,58.58083],"type":"Point"}
 }

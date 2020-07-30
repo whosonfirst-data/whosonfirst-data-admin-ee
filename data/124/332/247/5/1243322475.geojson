@@ -42,7 +42,7 @@
         "gn:id":794259
     },
     "wof:country":"EE",
-    "wof:geomhash":"ec3e4d25a45939b7d6f31d0829ca24d6",
+    "wof:geomhash":"fe127b61b02a0628331d5a03a248833d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243322475,
-    "wof:lastmodified":1566585433,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127022,
     "wof:name":"Hilande",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.39556,
-    57.82944000000001,
+    57.82944,
     27.39556,
-    57.82944000000001
+    57.82944
 ],
-  "geometry": {"coordinates":[27.39556,57.82944000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.39556,57.82944],"type":"Point"}
 }

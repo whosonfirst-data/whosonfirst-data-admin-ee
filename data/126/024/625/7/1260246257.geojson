@@ -46,7 +46,7 @@
         "gn:id":8620255
     },
     "wof:country":"EE",
-    "wof:geomhash":"e4bf1d94771844ff8140b4994096b5b4",
+    "wof:geomhash":"5cc7b2c5ef01fee01899263a56116427",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1260246257,
-    "wof:lastmodified":1566585131,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126973,
     "wof:name":"Haeraemaee",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.99889000000001,
-    57.69416999999999,
-    26.99889000000001,
-    57.69416999999999
+    26.99889,
+    57.69417,
+    26.99889,
+    57.69417
 ],
-  "geometry": {"coordinates":[26.99889000000001,57.69416999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.99889,57.69417],"type":"Point"}
 }

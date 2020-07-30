@@ -61,7 +61,7 @@
         "wk:page":"Kuriste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1f57c181bb98e1f761a614bf2b91c310",
+    "wof:geomhash":"272607982b12a2be74ae6e84d17afaa1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1343569825,
-    "wof:lastmodified":1566584867,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126932,
     "wof:name":"Kuriste",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     22.6375,
-    58.79389000000001,
+    58.79389,
     22.6375,
-    58.79389000000001
+    58.79389
 ],
-  "geometry": {"coordinates":[22.6375,58.79389000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.6375,58.79389],"type":"Point"}
 }

@@ -67,7 +67,7 @@
         "wk:page":"M%C3%A4hkli"
     },
     "wof:country":"EE",
-    "wof:geomhash":"94d941dbdffb5114a89cee5fd15c03c4",
+    "wof:geomhash":"fdfb2394f97a04c374ddf94277722977",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1260054139,
-    "wof:lastmodified":1566585155,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126977,
     "wof:name":"Maehkli",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -88,9 +94,9 @@
 },
   "bbox": [
     26.47139,
-    57.73083000000001,
+    57.73083,
     26.47139,
-    57.73083000000001
+    57.73083
 ],
-  "geometry": {"coordinates":[26.47139,57.73083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.47139,57.73083],"type":"Point"}
 }

@@ -70,7 +70,7 @@
         "wk:page":"J%C3%B5gela"
     },
     "wof:country":"EE",
-    "wof:geomhash":"5a7cdaeb48ff5c27cd3367c0e2880798",
+    "wof:geomhash":"56b07aa30522c942288feb6ecae94bce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1259361973,
-    "wof:lastmodified":1566585465,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127026,
     "wof:name":"Jogela",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -91,9 +97,9 @@
 },
   "bbox": [
     22.025,
-    58.26221999999999,
+    58.26222,
     22.025,
-    58.26221999999999
+    58.26222
 ],
-  "geometry": {"coordinates":[22.025,58.26221999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.025,58.26222],"type":"Point"}
 }

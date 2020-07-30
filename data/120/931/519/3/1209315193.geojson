@@ -63,7 +63,7 @@
         "wk:page":"Peedu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b7caead9fc5d272f7f76298c2d77b951",
+    "wof:geomhash":"9fc7d4ad0989893b0a9bd52faf5c735f",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1209315193,
-    "wof:lastmodified":1566585044,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126958,
     "wof:name":"Peedu",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     25.61528,
-    59.19833000000001,
+    59.19833,
     25.61528,
-    59.19833000000001
+    59.19833
 ],
-  "geometry": {"coordinates":[25.61528,59.19833000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.61528,59.19833],"type":"Point"}
 }

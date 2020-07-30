@@ -64,7 +64,7 @@
         "wk:page":"Paloveere%2C_Vastseliina_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"d0dab1a5c5c056d0fab31599fb0dc687",
+    "wof:geomhash":"dc64609adebe72bb9ce2f3799d9d8a32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1309970393,
-    "wof:lastmodified":1566585253,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126993,
     "wof:name":"Paloveere",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     27.16722,
-    57.72833000000001,
+    57.72833,
     27.16722,
-    57.72833000000001
+    57.72833
 ],
-  "geometry": {"coordinates":[27.16722,57.72833000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.16722,57.72833],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Suursoo"
     },
     "wof:country":"EE",
-    "wof:geomhash":"30397e2fb7d05fc10e736797ace0536c",
+    "wof:geomhash":"66e56e17dc2f89cabbefe47cac41bfbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1193151189,
-    "wof:lastmodified":1566585116,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126970,
     "wof:name":"Suursoo",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -84,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.06562000000001,
+    25.06562,
     59.29138,
-    25.06562000000001,
+    25.06562,
     59.29138
 ],
-  "geometry": {"coordinates":[25.06562000000001,59.29138],"type":"Point"}
+  "geometry": {"coordinates":[25.06562,59.29138],"type":"Point"}
 }

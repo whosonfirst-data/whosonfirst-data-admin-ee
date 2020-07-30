@@ -48,7 +48,7 @@
         "wk:page":"Randvere%2C_L%C3%A4%C3%A4ne-Saare_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1517db28aadaf2b378e0fac9320c3d1e",
+    "wof:geomhash":"7d9b33d1ed30146ffb656d677f30f455",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1276625569,
-    "wof:lastmodified":1566585037,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126957,
     "wof:name":"Randvere",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.41472000000001,
+    22.41472,
     58.30444,
-    22.41472000000001,
+    22.41472,
     58.30444
 ],
-  "geometry": {"coordinates":[22.41472000000001,58.30444],"type":"Point"}
+  "geometry": {"coordinates":[22.41472,58.30444],"type":"Point"}
 }

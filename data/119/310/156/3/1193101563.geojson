@@ -66,7 +66,7 @@
         "gn:id":8619331
     },
     "wof:country":"EE",
-    "wof:geomhash":"65e7debee92d8a78f266e8d0b7a73aef",
+    "wof:geomhash":"57e421101189f174c5d110b641d1d34b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1193101563,
-    "wof:lastmodified":1566585128,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126972,
     "wof:name":"Jugu",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -87,9 +93,9 @@
 },
   "bbox": [
     26.97194,
-    57.68278000000001,
+    57.68278,
     26.97194,
-    57.68278000000001
+    57.68278
 ],
-  "geometry": {"coordinates":[26.97194,57.68278000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.97194,57.68278],"type":"Point"}
 }

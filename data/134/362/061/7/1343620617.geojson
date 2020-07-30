@@ -64,7 +64,7 @@
         "wk:page":"Palli%2C_V%C3%B5ru_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c264e005ef629f5bc79e9ed58c075028",
+    "wof:geomhash":"1dfff42bc390064a502033f3d3536ac6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1343620617,
-    "wof:lastmodified":1566584825,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126926,
     "wof:name":"Palli",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.97528,
-    57.64333000000001,
+    57.64333,
     26.97528,
-    57.64333000000001
+    57.64333
 ],
-  "geometry": {"coordinates":[26.97528,57.64333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.97528,57.64333],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Juraski"
     },
     "wof:country":"EE",
-    "wof:geomhash":"f4e0cb172456bcfe5889a0d5fc396c95",
+    "wof:geomhash":"56ae4e0515fa6c521368b1707b53173b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1225804103,
-    "wof:lastmodified":1566585550,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127040,
     "wof:name":"Juraski",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -84,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.24139000000001,
+    27.24139,
     57.74417,
-    27.24139000000001,
+    27.24139,
     57.74417
 ],
-  "geometry": {"coordinates":[27.24139000000001,57.74417],"type":"Point"}
+  "geometry": {"coordinates":[27.24139,57.74417],"type":"Point"}
 }

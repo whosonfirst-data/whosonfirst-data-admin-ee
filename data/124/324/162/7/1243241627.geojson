@@ -48,7 +48,7 @@
         "gn:id":794762
     },
     "wof:country":"EE",
-    "wof:geomhash":"1f42e8b45292e2888e05e4752c03ca0d",
+    "wof:geomhash":"ffc36b4e0ac3cd3aeb0b1a9c620a30d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1243241627,
-    "wof:lastmodified":1566585420,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127020,
     "wof:name":"Tammaru",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     24.2175,
-    58.60778000000001,
+    58.60778,
     24.2175,
-    58.60778000000001
+    58.60778
 ],
-  "geometry": {"coordinates":[24.2175,58.60778000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.2175,58.60778],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "gn:id":588203
     },
     "wof:country":"EE",
-    "wof:geomhash":"0f67aeb0a797f70d184f87603f9b4ba5",
+    "wof:geomhash":"0146d2e63b7d8607c9e2dcf6cec29072",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1276227811,
-    "wof:lastmodified":1566585019,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126955,
     "wof:name":"Torvaaugu",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     25.38333,
-    58.63333000000001,
+    58.63333,
     25.38333,
-    58.63333000000001
+    58.63333
 ],
-  "geometry": {"coordinates":[25.38333,58.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.38333,58.63333],"type":"Point"}
 }

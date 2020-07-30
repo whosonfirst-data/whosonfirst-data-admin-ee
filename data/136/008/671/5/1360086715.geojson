@@ -129,7 +129,7 @@
         "gn:id":592349
     },
     "wof:country":"EE",
-    "wof:geomhash":"67de7b54b5d87e28b36bbc59ceaf9006",
+    "wof:geomhash":"c25229413ed5e52f0e97ea50f10bcbc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +139,13 @@
         }
     ],
     "wof:id":1360086715,
-    "wof:lastmodified":1566585218,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126986,
     "wof:name":"Auga",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -149,10 +155,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.99589000000001,
+    27.99589,
     59.431,
-    27.99589000000001,
+    27.99589,
     59.431
 ],
-  "geometry": {"coordinates":[27.99589000000001,59.431],"type":"Point"}
+  "geometry": {"coordinates":[27.99589,59.431],"type":"Point"}
 }

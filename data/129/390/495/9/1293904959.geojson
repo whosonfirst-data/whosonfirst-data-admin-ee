@@ -65,7 +65,7 @@
         "wk:page":"K%C3%A4pla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"3cffb72c318fad2ea735ec6126c07f45",
+    "wof:geomhash":"d1644c809729e8a3ee7a93bf4cde2516",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1293904959,
-    "wof:lastmodified":1566584926,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126940,
     "wof:name":"Kaebla",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     23.60639,
-    58.84721999999999,
+    58.84722,
     23.60639,
-    58.84721999999999
+    58.84722
 ],
-  "geometry": {"coordinates":[23.60639,58.84721999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.60639,58.84722],"type":"Point"}
 }

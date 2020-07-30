@@ -61,7 +61,7 @@
         "wk:page":"Aruaia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"88ff4f05ebf9fb969af2015fc33f0a0a",
+    "wof:geomhash":"dd0b2cdb7b69f0877a33f89c40308163",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1293850253,
-    "wof:lastmodified":1566584935,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126941,
     "wof:name":"Aruaia",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     27.07694,
-    58.36083000000001,
+    58.36083,
     27.07694,
-    58.36083000000001
+    58.36083
 ],
-  "geometry": {"coordinates":[27.07694,58.36083000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.07694,58.36083],"type":"Point"}
 }

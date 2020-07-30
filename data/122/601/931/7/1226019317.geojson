@@ -42,7 +42,7 @@
         "gn:id":793863
     },
     "wof:country":"EE",
-    "wof:geomhash":"c533aa1b2f9a7996b3a2d896c901d988",
+    "wof:geomhash":"8bd7111b3824792fe391942f56c981a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226019317,
-    "wof:lastmodified":1566585575,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127043,
     "wof:name":"Torrekuela",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.44944,
-    58.33971999999999,
+    58.33972,
     25.44944,
-    58.33971999999999
+    58.33972
 ],
-  "geometry": {"coordinates":[25.44944,58.33971999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.44944,58.33972],"type":"Point"}
 }

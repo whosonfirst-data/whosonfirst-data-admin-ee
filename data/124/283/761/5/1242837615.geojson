@@ -69,7 +69,7 @@
         "gn:id":590645
     },
     "wof:country":"EE",
-    "wof:geomhash":"db45e443994721d27355b0e545532b2a",
+    "wof:geomhash":"9107df1cf397d6de492d5e2706cc688e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1242837615,
-    "wof:lastmodified":1566585444,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127023,
     "wof:name":"Liiva",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -90,9 +96,9 @@
 },
   "bbox": [
     26.8225,
-    58.18666999999999,
+    58.18667,
     26.8225,
-    58.18666999999999
+    58.18667
 ],
-  "geometry": {"coordinates":[26.8225,58.18666999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.8225,58.18667],"type":"Point"}
 }

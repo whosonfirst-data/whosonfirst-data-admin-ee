@@ -46,7 +46,7 @@
         "gn:id":8619811
     },
     "wof:country":"EE",
-    "wof:geomhash":"02fa49484c8a55d0326597ed7a94a410",
+    "wof:geomhash":"75a8631bb437a4802e5db28a5a710853",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1326907697,
-    "wof:lastmodified":1566584808,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126924,
     "wof:name":"Vaeiko-Raeaeptsuevae",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.66833,
-    57.85028000000001,
+    57.85028,
     27.66833,
-    57.85028000000001
+    57.85028
 ],
-  "geometry": {"coordinates":[27.66833,57.85028000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.66833,57.85028],"type":"Point"}
 }

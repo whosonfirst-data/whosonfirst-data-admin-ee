@@ -64,7 +64,7 @@
         "wk:page":"Aruaru"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c579b1f381db7fe07b285fff49f5aae4",
+    "wof:geomhash":"19744d4e7427ab3bbd62e36c01afda70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1326647773,
-    "wof:lastmodified":1566584806,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126923,
     "wof:name":"Aruaru",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     25.15944,
-    59.38444000000001,
+    59.38444,
     25.15944,
-    59.38444000000001
+    59.38444
 ],
-  "geometry": {"coordinates":[25.15944,59.38444000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.15944,59.38444],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Magari%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"70f3301e2839c6e15c4ab0cb6c08c649",
+    "wof:geomhash":"23802ed0397152046fd7fad2f6a4ae4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1276958823,
-    "wof:lastmodified":1566585009,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126953,
     "wof:name":"Magari",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     26.84889,
-    57.97278000000001,
+    57.97278,
     26.84889,
-    57.97278000000001
+    57.97278
 ],
-  "geometry": {"coordinates":[26.84889,57.97278000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.84889,57.97278],"type":"Point"}
 }

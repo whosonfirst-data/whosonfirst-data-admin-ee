@@ -48,7 +48,7 @@
         "gn:id":590263
     },
     "wof:country":"EE",
-    "wof:geomhash":"ef4fb5ef9df88c9c139b405c7870fba6",
+    "wof:geomhash":"ee89f34374487819eab3506f35ce9cc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1344140417,
-    "wof:lastmodified":1566584840,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126928,
     "wof:name":"Metsaere",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.78972000000001,
+    22.78972,
     58.48694,
-    22.78972000000001,
+    22.78972,
     58.48694
 ],
-  "geometry": {"coordinates":[22.78972000000001,58.48694],"type":"Point"}
+  "geometry": {"coordinates":[22.78972,58.48694],"type":"Point"}
 }

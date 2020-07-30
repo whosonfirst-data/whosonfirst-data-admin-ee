@@ -64,7 +64,7 @@
         "wk:page":"Lipametsa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"e491e7b98d31ee806569cbae8f07271d",
+    "wof:geomhash":"ef545570cfa0eadfad1e6aeb46477ad0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1327009241,
-    "wof:lastmodified":1566584763,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126917,
     "wof:name":"Lipametsa",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     24.70056,
-    58.92333000000001,
+    58.92333,
     24.70056,
-    58.92333000000001
+    58.92333
 ],
-  "geometry": {"coordinates":[24.70056,58.92333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.70056,58.92333],"type":"Point"}
 }

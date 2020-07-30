@@ -48,7 +48,7 @@
         "gn:id":589245
     },
     "wof:country":"EE",
-    "wof:geomhash":"ec3ff80b65837a79d5b8ecf43a3f2861",
+    "wof:geomhash":"36cb8f69a6b2c85f30d2ede7cf85eb8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1293764775,
-    "wof:lastmodified":1566584935,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126941,
     "wof:name":"Puujala",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     24.85,
-    58.13333000000001,
+    58.13333,
     24.85,
-    58.13333000000001
+    58.13333
 ],
-  "geometry": {"coordinates":[24.85,58.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.85,58.13333],"type":"Point"}
 }

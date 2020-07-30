@@ -45,7 +45,7 @@
         "gn:id":8619375
     },
     "wof:country":"EE",
-    "wof:geomhash":"3707ca6a2a363584281c516f9d0b5dc4",
+    "wof:geomhash":"573b9317011bc3b32a6e1bc87a2a529a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1343626013,
-    "wof:lastmodified":1566584826,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126926,
     "wof:name":"Lakovitsa",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.68694,
-    57.89194000000001,
+    57.89194,
     26.68694,
-    57.89194000000001
+    57.89194
 ],
-  "geometry": {"coordinates":[26.68694,57.89194000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.68694,57.89194],"type":"Point"}
 }

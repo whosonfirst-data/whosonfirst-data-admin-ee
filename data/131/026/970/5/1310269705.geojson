@@ -48,7 +48,7 @@
         "gn:id":8620435
     },
     "wof:country":"EE",
-    "wof:geomhash":"563097c9a9325766da72ed956c0fd8e7",
+    "wof:geomhash":"1718e01dba8acbd2fe26633fe2080706",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1310269705,
-    "wof:lastmodified":1566585195,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126983,
     "wof:name":"Turva",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     25.79056,
-    58.26083000000001,
+    58.26083,
     25.79056,
-    58.26083000000001
+    58.26083
 ],
-  "geometry": {"coordinates":[25.79056,58.26083000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.79056,58.26083],"type":"Point"}
 }

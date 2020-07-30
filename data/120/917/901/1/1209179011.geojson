@@ -62,7 +62,7 @@
         "wk:page":"Saviaugu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"7a0c01268b24366f1c74f93b869d5d7a",
+    "wof:geomhash":"4a49d44904229338b39c67528d2d8c34",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1209179011,
-    "wof:lastmodified":1566585103,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126968,
     "wof:name":"Saviaugu",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -81,9 +87,9 @@
 },
   "bbox": [
     25.68806,
-    58.62583000000001,
+    58.62583,
     25.68806,
-    58.62583000000001
+    58.62583
 ],
-  "geometry": {"coordinates":[25.68806,58.62583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.68806,58.62583],"type":"Point"}
 }

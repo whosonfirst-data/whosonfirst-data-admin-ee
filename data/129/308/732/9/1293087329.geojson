@@ -61,7 +61,7 @@
         "wk:page":"Saunak%C3%BCla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"41a7ad8f8103b626e1241389585cb28a",
+    "wof:geomhash":"dc94386047ede53c9aee680cad35c40c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1293087329,
-    "wof:lastmodified":1566584921,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126939,
     "wof:name":"Saunakuela",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     24.80889,
-    58.97278000000001,
+    58.97278,
     24.80889,
-    58.97278000000001
+    58.97278
 ],
-  "geometry": {"coordinates":[24.80889,58.97278000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.80889,58.97278],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Paganamaa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"88c0e6b9fab611000d174aae58072896",
+    "wof:geomhash":"70ed4a2dcf06fa2376014664cfdd6f7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1209774603,
-    "wof:lastmodified":1566585065,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126962,
     "wof:name":"Paganamaa",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     26.84449,
-    57.60378000000001,
+    57.60378,
     26.84449,
-    57.60378000000001
+    57.60378
 ],
-  "geometry": {"coordinates":[26.84449,57.60378000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.84449,57.60378],"type":"Point"}
 }

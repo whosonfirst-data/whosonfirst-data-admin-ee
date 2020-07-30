@@ -57,7 +57,7 @@
         "gn:id":590096
     },
     "wof:country":"EE",
-    "wof:geomhash":"d324c65f0c6fd70bc978f744b37b893f",
+    "wof:geomhash":"5e05ac88cb4e3eebe1a95a1e1d0534ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1209890579,
-    "wof:lastmodified":1566585101,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126967,
     "wof:name":"Musta",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -78,9 +84,9 @@
 },
   "bbox": [
     25.58333,
-    58.18333000000001,
+    58.18333,
     25.58333,
-    58.18333000000001
+    58.18333
 ],
-  "geometry": {"coordinates":[25.58333,58.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.58333,58.18333],"type":"Point"}
 }

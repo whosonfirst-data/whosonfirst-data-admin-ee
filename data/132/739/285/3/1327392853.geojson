@@ -45,7 +45,7 @@
         "gn:id":8620211
     },
     "wof:country":"EE",
-    "wof:geomhash":"c60f5e2f959476188cb238f6295a1752",
+    "wof:geomhash":"07a31503d153cc07b5ee3c4040992f14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1327392853,
-    "wof:lastmodified":1566584758,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126916,
     "wof:name":"Tallima",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.97694000000001,
+    26.97694,
     57.76917,
-    26.97694000000001,
+    26.97694,
     57.76917
 ],
-  "geometry": {"coordinates":[26.97694000000001,57.76917],"type":"Point"}
+  "geometry": {"coordinates":[26.97694,57.76917],"type":"Point"}
 }

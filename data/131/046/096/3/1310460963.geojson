@@ -45,7 +45,7 @@
         "gn:id":8619064
     },
     "wof:country":"EE",
-    "wof:geomhash":"a4663b1f6fee4bd6841c8983c3919503",
+    "wof:geomhash":"5b416f766bba970d6fced646d7e5cda7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1310460963,
-    "wof:lastmodified":1566585159,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126977,
     "wof:name":"Andsi",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.60028,
-    57.59778000000001,
+    57.59778,
     26.60028,
-    57.59778000000001
+    57.59778
 ],
-  "geometry": {"coordinates":[26.60028,57.59778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.60028,57.59778],"type":"Point"}
 }

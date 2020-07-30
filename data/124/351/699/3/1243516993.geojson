@@ -46,7 +46,7 @@
         "gn:id":590329
     },
     "wof:country":"EE",
-    "wof:geomhash":"335df9e4e350a65e1778318667892bba",
+    "wof:geomhash":"ec7a02cb514e8ec484df0d93700b43dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243516993,
-    "wof:lastmodified":1566585436,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127022,
     "wof:name":"Maerdi",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.41472000000001,
+    26.41472,
     57.98972,
-    26.41472000000001,
+    26.41472,
     57.98972
 ],
-  "geometry": {"coordinates":[26.41472000000001,57.98972],"type":"Point"}
+  "geometry": {"coordinates":[26.41472,57.98972],"type":"Point"}
 }

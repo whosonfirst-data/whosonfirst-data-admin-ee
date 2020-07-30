@@ -64,7 +64,7 @@
         "wk:page":"Kurgla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"a057c4165e6c357b0b04830ea527b77f",
+    "wof:geomhash":"375026ae33fb74ffb72e72d6045dec05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1293214605,
-    "wof:lastmodified":1566584975,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126948,
     "wof:name":"Kurgla",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     25.08083,
-    59.39118000000001,
+    59.39118,
     25.08083,
-    59.39118000000001
+    59.39118
 ],
-  "geometry": {"coordinates":[25.08083,59.39118000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.08083,59.39118],"type":"Point"}
 }

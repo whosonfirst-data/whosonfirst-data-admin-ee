@@ -63,7 +63,7 @@
         "gn:id":8618409
     },
     "wof:country":"EE",
-    "wof:geomhash":"f3b0dc137a923b7bb8d3267577551739",
+    "wof:geomhash":"940dc2a27fffe8c0608c79f7d84f8573",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1193049671,
-    "wof:lastmodified":1566585121,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126971,
     "wof:name":"Kogri",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     26.95083,
-    58.62889000000001,
+    58.62889,
     26.95083,
-    58.62889000000001
+    58.62889
 ],
-  "geometry": {"coordinates":[26.95083,58.62889000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.95083,58.62889],"type":"Point"}
 }

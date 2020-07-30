@@ -43,7 +43,7 @@
         "gn:id":8618603
     },
     "wof:country":"EE",
-    "wof:geomhash":"40b835984c6a4f7e67439e17509fcb2a",
+    "wof:geomhash":"996f014a1dafe584a152efd561c29f97",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -51,7 +51,13 @@
         }
     ],
     "wof:id":1209113745,
-    "wof:lastmodified":1566585094,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126966,
     "wof:name":"Kodassaare",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -62,9 +68,9 @@
 },
   "bbox": [
     26.95611,
-    58.93528000000001,
+    58.93528,
     26.95611,
-    58.93528000000001
+    58.93528
 ],
-  "geometry": {"coordinates":[26.95611,58.93528000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.95611,58.93528],"type":"Point"}
 }

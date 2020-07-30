@@ -63,7 +63,7 @@
         "gn:id":8620310
     },
     "wof:country":"EE",
-    "wof:geomhash":"be8826207afda5bf75b98d4c3843e498",
+    "wof:geomhash":"9ffae11e41a9f35c146de6cc4f9ba7bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1343627089,
-    "wof:lastmodified":1566584825,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126926,
     "wof:name":"Viki",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     26.18472,
-    58.01833000000001,
+    58.01833,
     26.18472,
-    58.01833000000001
+    58.01833
 ],
-  "geometry": {"coordinates":[26.18472,58.01833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.18472,58.01833],"type":"Point"}
 }

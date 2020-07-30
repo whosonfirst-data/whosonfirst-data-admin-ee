@@ -67,7 +67,7 @@
         "wk:page":"Kerema%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"d626f2822b4ebededeb11154116999c9",
+    "wof:geomhash":"692ff5072cb7f822116d04d070aaf594",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1310710451,
-    "wof:lastmodified":1566585165,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126978,
     "wof:name":"Kerema",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -88,9 +94,9 @@
 },
   "bbox": [
     22.9519,
-    58.89879000000001,
+    58.89879,
     22.9519,
-    58.89879000000001
+    58.89879
 ],
-  "geometry": {"coordinates":[22.9519,58.89879000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.9519,58.89879],"type":"Point"}
 }

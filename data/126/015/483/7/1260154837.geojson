@@ -45,7 +45,7 @@
         "gn:id":8620238
     },
     "wof:country":"EE",
-    "wof:geomhash":"ecb7007b7d21afe539c231e0f5beb18f",
+    "wof:geomhash":"2a3536119c568f0ea9f27a8daef8bd4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1260154837,
-    "wof:lastmodified":1566585131,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126973,
     "wof:name":"Kuuda",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     27.0075,
-    57.74166999999999,
+    57.74167,
     27.0075,
-    57.74166999999999
+    57.74167
 ],
-  "geometry": {"coordinates":[27.0075,57.74166999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.0075,57.74167],"type":"Point"}
 }

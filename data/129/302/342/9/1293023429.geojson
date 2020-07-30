@@ -46,7 +46,7 @@
         "gn:id":8619523
     },
     "wof:country":"EE",
-    "wof:geomhash":"38567e849777f8a15dc82f6722cb3b95",
+    "wof:geomhash":"1fc8179de0f7199788f25696b79a0188",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1293023429,
-    "wof:lastmodified":1566584954,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126945,
     "wof:name":"Maegise-Olukvere",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     26.71639,
-    58.75333000000001,
+    58.75333,
     26.71639,
-    58.75333000000001
+    58.75333
 ],
-  "geometry": {"coordinates":[26.71639,58.75333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.71639,58.75333],"type":"Point"}
 }

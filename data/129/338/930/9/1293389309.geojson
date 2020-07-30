@@ -72,7 +72,7 @@
         "gn:id":793421
     },
     "wof:country":"EE",
-    "wof:geomhash":"889f09c6bb40d58d84d8bf4ab8e1e924",
+    "wof:geomhash":"c6e1c8df3371f76949c398fd051322ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +82,13 @@
         }
     ],
     "wof:id":1293389309,
-    "wof:lastmodified":1566584912,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126938,
     "wof:name":"Oti",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -93,9 +99,9 @@
 },
   "bbox": [
     26.71083,
-    58.92028000000001,
+    58.92028,
     26.71083,
-    58.92028000000001
+    58.92028
 ],
-  "geometry": {"coordinates":[26.71083,58.92028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.71083,58.92028],"type":"Point"}
 }

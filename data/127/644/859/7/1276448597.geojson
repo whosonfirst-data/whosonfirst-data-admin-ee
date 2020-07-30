@@ -61,7 +61,7 @@
         "wk:page":"M%C3%A4rjandi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"6cebf4bbbeb945da02072a20434313f6",
+    "wof:geomhash":"10c8a29d5522080dd356a481c181dbbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1276448597,
-    "wof:lastmodified":1566584987,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126950,
     "wof:name":"Maerjandi",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     25.78389,
-    59.17028000000001,
+    59.17028,
     25.78389,
-    59.17028000000001
+    59.17028
 ],
-  "geometry": {"coordinates":[25.78389,59.17028000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.78389,59.17028],"type":"Point"}
 }

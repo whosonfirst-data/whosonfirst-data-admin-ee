@@ -42,7 +42,7 @@
         "gn:id":8620550
     },
     "wof:country":"EE",
-    "wof:geomhash":"b1af190fe9fdb780aa94e6914c470b21",
+    "wof:geomhash":"11c85ec718403050a54e4b7d6dc0ed70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276405135,
-    "wof:lastmodified":1566585022,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126955,
     "wof:name":"Maeekuela",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.55389000000001,
+    26.55389,
     58.05611,
-    26.55389000000001,
+    26.55389,
     58.05611
 ],
-  "geometry": {"coordinates":[26.55389000000001,58.05611],"type":"Point"}
+  "geometry": {"coordinates":[26.55389,58.05611],"type":"Point"}
 }

@@ -67,7 +67,7 @@
         "wk:page":"Angerja"
     },
     "wof:country":"EE",
-    "wof:geomhash":"f2800365b36c37a354cfa089417b2b62",
+    "wof:geomhash":"2b78de48f84eb8e29ca259bc4362d894",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1209200915,
-    "wof:lastmodified":1566585096,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126967,
     "wof:name":"Angerja",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     24.85194,
-    59.17778000000001,
+    59.17778,
     24.85194,
-    59.17778000000001
+    59.17778
 ],
-  "geometry": {"coordinates":[24.85194,59.17778000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.85194,59.17778],"type":"Point"}
 }

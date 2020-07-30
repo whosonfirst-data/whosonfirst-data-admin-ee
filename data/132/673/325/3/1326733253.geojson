@@ -64,7 +64,7 @@
         "wk:page":"Sepaste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"6a857ef360c016ef059d849f3bb71caa",
+    "wof:geomhash":"c93653eaed29605e8abaab84a02aef54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1326733253,
-    "wof:lastmodified":1566584769,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126918,
     "wof:name":"Sepaste",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     22.51667,
-    58.71666999999999,
+    58.71667,
     22.51667,
-    58.71666999999999
+    58.71667
 ],
-  "geometry": {"coordinates":[22.51667,58.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.51667,58.71667],"type":"Point"}
 }

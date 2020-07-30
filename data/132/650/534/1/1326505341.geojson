@@ -42,7 +42,7 @@
         "gn:id":8620325
     },
     "wof:country":"EE",
-    "wof:geomhash":"5f7034e1fe055309b7981d980cc37552",
+    "wof:geomhash":"10d17bb239462fa24d8199ec9062a76f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326505341,
-    "wof:lastmodified":1566584777,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126919,
     "wof:name":"AEidu",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.38333,
-    58.05833000000001,
+    58.05833,
     26.38333,
-    58.05833000000001
+    58.05833
 ],
-  "geometry": {"coordinates":[26.38333,58.05833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.38333,58.05833],"type":"Point"}
 }

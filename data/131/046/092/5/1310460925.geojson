@@ -63,7 +63,7 @@
         "gn:id":589777
     },
     "wof:country":"EE",
-    "wof:geomhash":"64c944fc6da58536706efd6886262bce",
+    "wof:geomhash":"ceae03fb6924830498e5da07a3de0085",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1310460925,
-    "wof:lastmodified":1566585160,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126977,
     "wof:name":"Otsa",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     26.88333,
-    57.78333000000001,
+    57.78333,
     26.88333,
-    57.78333000000001
+    57.78333
 ],
-  "geometry": {"coordinates":[26.88333,57.78333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.88333,57.78333],"type":"Point"}
 }

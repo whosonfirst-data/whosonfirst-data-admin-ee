@@ -42,7 +42,7 @@
         "gn:id":8620826
     },
     "wof:country":"EE",
-    "wof:geomhash":"76b9954c4b7f0ca6785c329a5f8f3bda",
+    "wof:geomhash":"0c3a45d251b91ee45c5385acaca94047",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343838127,
-    "wof:lastmodified":1566584850,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126930,
     "wof:name":"Palopaeae",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.33139000000001,
+    27.33139,
     58.07556,
-    27.33139000000001,
+    27.33139,
     58.07556
 ],
-  "geometry": {"coordinates":[27.33139000000001,58.07556],"type":"Point"}
+  "geometry": {"coordinates":[27.33139,58.07556],"type":"Point"}
 }

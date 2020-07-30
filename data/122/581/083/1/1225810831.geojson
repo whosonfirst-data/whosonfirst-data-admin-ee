@@ -47,7 +47,7 @@
         "gn:id":591365
     },
     "wof:country":"EE",
-    "wof:geomhash":"905fd3356fa6dd949098b3fc98d45983",
+    "wof:geomhash":"09eea3ecaec749cfbcd34bcecb76ed46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1225810831,
-    "wof:lastmodified":1566585548,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127039,
     "wof:name":"Kirbu",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     26.34611,
-    57.77028000000001,
+    57.77028,
     26.34611,
-    57.77028000000001
+    57.77028
 ],
-  "geometry": {"coordinates":[26.34611,57.77028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.34611,57.77028],"type":"Point"}
 }

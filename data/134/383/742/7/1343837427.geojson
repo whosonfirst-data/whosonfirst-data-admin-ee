@@ -46,7 +46,7 @@
         "gn:id":591653
     },
     "wof:country":"EE",
-    "wof:geomhash":"e3e762d87d9d7916bd7899676db8fcb7",
+    "wof:geomhash":"1a23bb358801662e3d25809e6e44250d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1343837427,
-    "wof:lastmodified":1566584852,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126930,
     "wof:name":"Kaomaee",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.11667000000001,
+    25.11667,
     59.07722,
-    25.11667000000001,
+    25.11667,
     59.07722
 ],
-  "geometry": {"coordinates":[25.11667000000001,59.07722],"type":"Point"}
+  "geometry": {"coordinates":[25.11667,59.07722],"type":"Point"}
 }

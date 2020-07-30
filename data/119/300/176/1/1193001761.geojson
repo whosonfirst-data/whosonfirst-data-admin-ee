@@ -64,7 +64,7 @@
         "wk:page":"Sauaru"
     },
     "wof:country":"EE",
-    "wof:geomhash":"25b7d1e45e242b400bef857f2e69c07e",
+    "wof:geomhash":"552e125df432809592e2af8f3674d457",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1193001761,
-    "wof:lastmodified":1566585114,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126970,
     "wof:name":"Sauaru",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     22.69278,
-    58.32528000000001,
+    58.32528,
     22.69278,
-    58.32528000000001
+    58.32528
 ],
-  "geometry": {"coordinates":[22.69278,58.32528000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.69278,58.32528],"type":"Point"}
 }

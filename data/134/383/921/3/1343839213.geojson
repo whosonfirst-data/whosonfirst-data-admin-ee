@@ -46,7 +46,7 @@
         "gn:id":588518
     },
     "wof:country":"EE",
-    "wof:geomhash":"22d102bf8cedadca823757abeca40647",
+    "wof:geomhash":"ea89968ad26978ffc84c95e8c85129d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1343839213,
-    "wof:lastmodified":1566584851,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126930,
     "wof:name":"Suuretueki",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     23.91667,
-    58.36666999999999,
+    58.36667,
     23.91667,
-    58.36666999999999
+    58.36667
 ],
-  "geometry": {"coordinates":[23.91667,58.36666999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.91667,58.36667],"type":"Point"}
 }

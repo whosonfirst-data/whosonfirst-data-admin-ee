@@ -64,7 +64,7 @@
         "wk:page":"Talvikese"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ad10af37dee4f2b3ddebcbac47e604b7",
+    "wof:geomhash":"23484cb31c144bf981490546c7ec3441",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1226010999,
-    "wof:lastmodified":1566585576,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127043,
     "wof:name":"Talvikese",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.81583,
-    58.19833000000001,
+    58.19833,
     26.81583,
-    58.19833000000001
+    58.19833
 ],
-  "geometry": {"coordinates":[26.81583,58.19833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.81583,58.19833],"type":"Point"}
 }

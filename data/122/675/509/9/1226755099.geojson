@@ -70,7 +70,7 @@
         "wk:page":"T%C3%A4rivere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"12a0d33440872830e13efe5c1aa910f7",
+    "wof:geomhash":"a085a86b7bb05a551bf1dbece80f8296",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1226755099,
-    "wof:lastmodified":1566585519,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127035,
     "wof:name":"Taerivere",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -91,9 +97,9 @@
 },
   "bbox": [
     27.31333,
-    59.12278000000001,
+    59.12278,
     27.31333,
-    59.12278000000001
+    59.12278
 ],
-  "geometry": {"coordinates":[27.31333,59.12278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.31333,59.12278],"type":"Point"}
 }

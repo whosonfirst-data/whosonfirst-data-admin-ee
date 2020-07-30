@@ -40,7 +40,7 @@
         "gn:id":592060
     },
     "wof:country":"EE",
-    "wof:geomhash":"c7851adfe7a9a80923ddde857ee4caa3",
+    "wof:geomhash":"9c9a2d777d6fe9e80cff43f8348fda36",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -48,7 +48,13 @@
         }
     ],
     "wof:id":1209175935,
-    "wof:lastmodified":1566585103,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126968,
     "wof:name":"Ilbaku",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -59,9 +65,9 @@
 },
   "bbox": [
     25.36694,
-    58.47083000000001,
+    58.47083,
     25.36694,
-    58.47083000000001
+    58.47083
 ],
-  "geometry": {"coordinates":[25.36694,58.47083000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.36694,58.47083],"type":"Point"}
 }

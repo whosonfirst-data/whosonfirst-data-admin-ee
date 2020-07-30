@@ -42,7 +42,7 @@
         "gn:id":590582
     },
     "wof:country":"EE",
-    "wof:geomhash":"75f59def7522eafe4186989a077d7caf",
+    "wof:geomhash":"399ba8c66570d34787f755156eeacbea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259707789,
-    "wof:lastmodified":1566585479,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127029,
     "wof:name":"Liutsalu",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.90167000000001,
+    25.90167,
     59.10722,
-    25.90167000000001,
+    25.90167,
     59.10722
 ],
-  "geometry": {"coordinates":[25.90167000000001,59.10722],"type":"Point"}
+  "geometry": {"coordinates":[25.90167,59.10722],"type":"Point"}
 }

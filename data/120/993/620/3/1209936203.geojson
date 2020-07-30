@@ -45,7 +45,7 @@
         "gn:id":8618723
     },
     "wof:country":"EE",
-    "wof:geomhash":"50227d3ceb75616eb7f4f07df371b6a7",
+    "wof:geomhash":"bcfc3dfcb325855476404864b7d069f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1209936203,
-    "wof:lastmodified":1566585086,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126965,
     "wof:name":"Saariku",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.34611,
-    59.48833000000001,
+    59.48833,
     26.34611,
-    59.48833000000001
+    59.48833
 ],
-  "geometry": {"coordinates":[26.34611,59.48833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.34611,59.48833],"type":"Point"}
 }

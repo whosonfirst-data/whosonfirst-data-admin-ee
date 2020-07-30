@@ -47,7 +47,7 @@
         "gn:id":591218
     },
     "wof:country":"EE",
-    "wof:geomhash":"e0918ad17ada20bb06cd7ecc4b86321d",
+    "wof:geomhash":"8868de8475b19f21835301d8ac746d1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1226322911,
-    "wof:lastmodified":1566585545,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127039,
     "wof:name":"Koksina",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     27.51667,
-    57.96666999999999,
+    57.96667,
     27.51667,
-    57.96666999999999
+    57.96667
 ],
-  "geometry": {"coordinates":[27.51667,57.96666999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.51667,57.96667],"type":"Point"}
 }

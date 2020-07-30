@@ -61,7 +61,7 @@
         "wk:page":"Perek%C3%BCla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1d8bcfaff0e365ca7512d5d941007afa",
+    "wof:geomhash":"7feabe5dd94f246014d375cf6d29a1e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1343339873,
-    "wof:lastmodified":1566584874,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126933,
     "wof:name":"Perekuela",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     24.31917,
-    58.60639000000001,
+    58.60639,
     24.31917,
-    58.60639000000001
+    58.60639
 ],
-  "geometry": {"coordinates":[24.31917,58.60639000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.31917,58.60639],"type":"Point"}
 }

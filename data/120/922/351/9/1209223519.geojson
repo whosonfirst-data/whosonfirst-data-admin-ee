@@ -59,7 +59,7 @@
         "wk:page":"Hausma"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ae6d3fe3acf8975f8efea45e0c5e7cca",
+    "wof:geomhash":"73ff2f13cc5fa4d7b6f92c47b6423081",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1209223519,
-    "wof:lastmodified":1566585076,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Hausma",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -78,9 +84,9 @@
 },
   "bbox": [
     22.78886,
-    58.99851999999999,
+    58.99852,
     22.78886,
-    58.99851999999999
+    58.99852
 ],
-  "geometry": {"coordinates":[22.78886,58.99851999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.78886,58.99852],"type":"Point"}
 }

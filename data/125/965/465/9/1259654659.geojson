@@ -105,7 +105,7 @@
         "gn:id":587583
     },
     "wof:country":"EE",
-    "wof:geomhash":"2eae0fefaf85a456d37b02bcea8a98a9",
+    "wof:geomhash":"9e1498c5f0a45195f2e48633f1d354d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,7 +115,13 @@
         }
     ],
     "wof:id":1259654659,
-    "wof:lastmodified":1566585470,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127027,
     "wof:name":"Vilsandi",
     "wof:parent_id":85682933,
     "wof:placetype":"locality",
@@ -126,9 +132,9 @@
 },
   "bbox": [
     21.84944,
-    58.37583000000001,
+    58.37583,
     21.84944,
-    58.37583000000001
+    58.37583
 ],
-  "geometry": {"coordinates":[21.84944,58.37583000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.84944,58.37583],"type":"Point"}
 }

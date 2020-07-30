@@ -55,7 +55,7 @@
         "wk:page":"Marana%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"3c5a26505271e16552cdfb209b1476a5",
+    "wof:geomhash":"646cbdac0bd04d4a9f299ad595b2984e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1293089169,
-    "wof:lastmodified":1566584921,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126939,
     "wof:name":"Marana",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -76,9 +82,9 @@
 },
   "bbox": [
     24.93333,
-    58.16028000000001,
+    58.16028,
     24.93333,
-    58.16028000000001
+    58.16028
 ],
-  "geometry": {"coordinates":[24.93333,58.16028000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.93333,58.16028],"type":"Point"}
 }

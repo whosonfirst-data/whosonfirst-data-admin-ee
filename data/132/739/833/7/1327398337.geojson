@@ -61,7 +61,7 @@
         "wk:page":"Koloreino"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b0ca9e8edea8868b9cd9115fb6c9a1b5",
+    "wof:geomhash":"badbbbdb49aefa3e8382aaf1573c0de9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1327398337,
-    "wof:lastmodified":1566584758,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126916,
     "wof:name":"Koloreino",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -81,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.15167000000001,
+    27.15167,
     57.78667,
-    27.15167000000001,
+    27.15167,
     57.78667
 ],
-  "geometry": {"coordinates":[27.15167000000001,57.78667],"type":"Point"}
+  "geometry": {"coordinates":[27.15167,57.78667],"type":"Point"}
 }

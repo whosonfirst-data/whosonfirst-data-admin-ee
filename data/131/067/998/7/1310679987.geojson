@@ -65,7 +65,7 @@
         "wk:page":"Turja"
     },
     "wof:country":"EE",
-    "wof:geomhash":"f309b8d94998e40e2c1ede8d58957b99",
+    "wof:geomhash":"32dd978ab57349428626c2b69021c1af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1310679987,
-    "wof:lastmodified":1566585209,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126985,
     "wof:name":"Turja",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     22.94083,
-    58.34166999999999,
+    58.34167,
     22.94083,
-    58.34166999999999
+    58.34167
 ],
-  "geometry": {"coordinates":[22.94083,58.34166999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.94083,58.34167],"type":"Point"}
 }

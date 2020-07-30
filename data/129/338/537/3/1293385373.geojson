@@ -45,7 +45,7 @@
         "gn:id":8618910
     },
     "wof:country":"EE",
-    "wof:geomhash":"d584fe60766330f0ea9387c2efefc3e6",
+    "wof:geomhash":"36c334c916bc17501c68019ede4af044",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1293385373,
-    "wof:lastmodified":1566584912,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126938,
     "wof:name":"Vasivere",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.24833,
-    59.29333000000001,
+    59.29333,
     26.24833,
-    59.29333000000001
+    59.29333
 ],
-  "geometry": {"coordinates":[26.24833,59.29333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.24833,59.29333],"type":"Point"}
 }

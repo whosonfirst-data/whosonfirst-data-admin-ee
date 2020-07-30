@@ -64,7 +64,7 @@
         "wk:page":"Oina%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"146dddce13a60b4b257b0ad4811dce02",
+    "wof:geomhash":"b1da36b1d679d01108512b272a82d6e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1360268927,
-    "wof:lastmodified":1566585226,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126988,
     "wof:name":"Oina",
     "wof:parent_id":85682951,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     23.33222,
-    58.56721999999999,
+    58.56722,
     23.33222,
-    58.56721999999999
+    58.56722
 ],
-  "geometry": {"coordinates":[23.33222,58.56721999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.33222,58.56722],"type":"Point"}
 }

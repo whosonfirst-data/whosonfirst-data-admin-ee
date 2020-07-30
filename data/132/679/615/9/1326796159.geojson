@@ -42,7 +42,7 @@
         "gn:id":794549
     },
     "wof:country":"EE",
-    "wof:geomhash":"d8564b4129d78c355eb8bd17877d1f1b",
+    "wof:geomhash":"15878ce68e74767a6fcd0df2665ee8d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326796159,
-    "wof:lastmodified":1566584799,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126922,
     "wof:name":"Kibena",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.24111,
-    58.04083000000001,
+    58.04083,
     26.24111,
-    58.04083000000001
+    58.04083
 ],
-  "geometry": {"coordinates":[26.24111,58.04083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.24111,58.04083],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "gn:id":8620039
     },
     "wof:country":"EE",
-    "wof:geomhash":"861950bd7b6db6db1d1cf8f3beca57de",
+    "wof:geomhash":"66de63408f75376e8580ac363ccef7d7",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -69,7 +69,13 @@
         }
     ],
     "wof:id":1209689951,
-    "wof:lastmodified":1566585080,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Kauksi",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -80,9 +86,9 @@
 },
   "bbox": [
     26.60889,
-    57.80139000000001,
+    57.80139,
     26.60889,
-    57.80139000000001
+    57.80139
 ],
-  "geometry": {"coordinates":[26.60889,57.80139000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.60889,57.80139],"type":"Point"}
 }

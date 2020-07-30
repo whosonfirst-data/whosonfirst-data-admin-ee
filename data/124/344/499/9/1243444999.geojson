@@ -64,7 +64,7 @@
         "wk:page":"Metsiku"
     },
     "wof:country":"EE",
-    "wof:geomhash":"e8a62dbf9318c8794bc4dc4b14eb4590",
+    "wof:geomhash":"a44455d41fec1d72e84a54924b9460cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1243444999,
-    "wof:lastmodified":1566585461,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127026,
     "wof:name":"Metsiku",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -84,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.15167000000001,
-    59.49028000000001,
-    26.15167000000001,
-    59.49028000000001
+    26.15167,
+    59.49028,
+    26.15167,
+    59.49028
 ],
-  "geometry": {"coordinates":[26.15167000000001,59.49028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.15167,59.49028],"type":"Point"}
 }

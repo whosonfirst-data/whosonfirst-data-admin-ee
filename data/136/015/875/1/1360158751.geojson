@@ -64,7 +64,7 @@
         "wk:page":"Kaugu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"f702c64d8f2bf01b0eeeba9e07fddace",
+    "wof:geomhash":"389a8ee2ca12b5bf7b17a6645e3896f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1360158751,
-    "wof:lastmodified":1566585213,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126985,
     "wof:name":"Kaugu",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -84,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.80389000000001,
+    26.80389,
     57.72389,
-    26.80389000000001,
+    26.80389,
     57.72389
 ],
-  "geometry": {"coordinates":[26.80389000000001,57.72389],"type":"Point"}
+  "geometry": {"coordinates":[26.80389,57.72389],"type":"Point"}
 }

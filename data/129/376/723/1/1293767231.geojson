@@ -52,7 +52,7 @@
         "wk:page":"Kakuna"
     },
     "wof:country":"EE",
-    "wof:geomhash":"0472a654ff226fc67c37323e329d824f",
+    "wof:geomhash":"a55f08a91f86ebd97bc8f18aab50cfbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +62,13 @@
         }
     ],
     "wof:id":1293767231,
-    "wof:lastmodified":1566584936,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126942,
     "wof:name":"Kakuna",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -73,9 +79,9 @@
 },
   "bbox": [
     23.26972,
-    58.46333000000001,
+    58.46333,
     23.26972,
-    58.46333000000001
+    58.46333
 ],
-  "geometry": {"coordinates":[23.26972,58.46333000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.26972,58.46333],"type":"Point"}
 }

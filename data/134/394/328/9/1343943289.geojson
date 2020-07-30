@@ -45,7 +45,7 @@
         "gn:id":8619267
     },
     "wof:country":"EE",
-    "wof:geomhash":"e303b22f6678d13dbfd8dc20c2cc0044",
+    "wof:geomhash":"85261a2408f0c4fdd126d8901a6f61c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1343943289,
-    "wof:lastmodified":1566584871,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126933,
     "wof:name":"Kuura",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.62194,
-    59.50083000000001,
+    59.50083,
     26.62194,
-    59.50083000000001
+    59.50083
 ],
-  "geometry": {"coordinates":[26.62194,59.50083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.62194,59.50083],"type":"Point"}
 }

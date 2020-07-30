@@ -42,7 +42,7 @@
         "gn:id":8620864
     },
     "wof:country":"EE",
-    "wof:geomhash":"6809ad93aea853a80a52d899d331c8a8",
+    "wof:geomhash":"759c2a165c9042ffa2e324452e4c893e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326607295,
-    "wof:lastmodified":1566584774,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126918,
     "wof:name":"Suudla",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.75056,
-    58.05583000000001,
+    58.05583,
     26.75056,
-    58.05583000000001
+    58.05583
 ],
-  "geometry": {"coordinates":[26.75056,58.05583000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.75056,58.05583],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "gn:id":8620180
     },
     "wof:country":"EE",
-    "wof:geomhash":"92018138bd2cd0bc0ee23a3c7ee3a5c9",
+    "wof:geomhash":"06d078de422c356038f3a15a86073065",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1276720721,
-    "wof:lastmodified":1566584984,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126949,
     "wof:name":"Maeessaare",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.27528,
-    57.86333000000001,
+    57.86333,
     27.27528,
-    57.86333000000001
+    57.86333
 ],
-  "geometry": {"coordinates":[27.27528,57.86333000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.27528,57.86333],"type":"Point"}
 }

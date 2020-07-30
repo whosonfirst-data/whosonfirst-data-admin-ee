@@ -58,7 +58,7 @@
         "wk:page":"Kallik%C3%BCla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"2bcd94915fbb81b2558930c7c91df54c",
+    "wof:geomhash":"dcdaf75bc0ebe19f4e476f29c510741d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1260055185,
-    "wof:lastmodified":1566585156,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126977,
     "wof:name":"Kallikuela",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     26.44361,
-    57.60639000000001,
+    57.60639,
     26.44361,
-    57.60639000000001
+    57.60639
 ],
-  "geometry": {"coordinates":[26.44361,57.60639000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.44361,57.60639],"type":"Point"}
 }

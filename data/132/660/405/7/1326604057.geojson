@@ -45,7 +45,7 @@
         "gn:id":8620215
     },
     "wof:country":"EE",
-    "wof:geomhash":"dc94e5f108632697f6155b1909857612",
+    "wof:geomhash":"20862266011cd5dc9fcee97305a42e7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1326604057,
-    "wof:lastmodified":1566584773,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126918,
     "wof:name":"Kaaratautsa",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.02667000000001,
+    27.02667,
     57.7475,
-    27.02667000000001,
+    27.02667,
     57.7475
 ],
-  "geometry": {"coordinates":[27.02667000000001,57.7475],"type":"Point"}
+  "geometry": {"coordinates":[27.02667,57.7475],"type":"Point"}
 }

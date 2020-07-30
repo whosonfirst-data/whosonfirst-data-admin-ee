@@ -64,7 +64,7 @@
         "wk:page":"Ibaste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"004a479a5dd538ed8b4ddb220297663f",
+    "wof:geomhash":"18605f83130698de9000fc3b7ca668cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1276213839,
-    "wof:lastmodified":1566584988,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126950,
     "wof:name":"Ibaste",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     27.10806,
-    58.23721999999999,
+    58.23722,
     27.10806,
-    58.23721999999999
+    58.23722
 ],
-  "geometry": {"coordinates":[27.10806,58.23721999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.10806,58.23722],"type":"Point"}
 }

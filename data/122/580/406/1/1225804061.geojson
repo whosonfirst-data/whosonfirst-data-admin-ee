@@ -58,7 +58,7 @@
         "wk:page":"K%C3%A4%C3%A4raku"
     },
     "wof:country":"EE",
-    "wof:geomhash":"9ed5b5d31c5cc079914097333369061a",
+    "wof:geomhash":"10d786126b08aecf11eb5c8e910d5c74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1225804061,
-    "wof:lastmodified":1566585550,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127040,
     "wof:name":"Kaeaeraku",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     27.06667,
-    57.68278000000001,
+    57.68278,
     27.06667,
-    57.68278000000001
+    57.68278
 ],
-  "geometry": {"coordinates":[27.06667,57.68278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.06667,57.68278],"type":"Point"}
 }

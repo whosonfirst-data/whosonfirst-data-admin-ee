@@ -87,7 +87,7 @@
         "gn:id":589207
     },
     "wof:country":"EE",
-    "wof:geomhash":"2ac5bca2b725315e9f204c0a57f66e9f",
+    "wof:geomhash":"d344814dce2d07283b6f91528ddd812c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +97,13 @@
         }
     ],
     "wof:id":1259957959,
-    "wof:lastmodified":1566585491,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127031,
     "wof:name":"Rae",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -108,9 +114,9 @@
 },
   "bbox": [
     24.78444,
-    58.12139000000001,
+    58.12139,
     24.78444,
-    58.12139000000001
+    58.12139
 ],
-  "geometry": {"coordinates":[24.78444,58.12139000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.78444,58.12139],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Lahu%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"a063f0c0ce2a556801eb04ca7ab24f53",
+    "wof:geomhash":"5b123e5196d4a2d7382cb33a9d775eaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1293409703,
-    "wof:lastmodified":1566584939,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126942,
     "wof:name":"Lahu",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     26.15556,
-    58.96778000000001,
+    58.96778,
     26.15556,
-    58.96778000000001
+    58.96778
 ],
-  "geometry": {"coordinates":[26.15556,58.96778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.15556,58.96778],"type":"Point"}
 }

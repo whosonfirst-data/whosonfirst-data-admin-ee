@@ -75,7 +75,7 @@
         "gn:id":591686
     },
     "wof:country":"EE",
-    "wof:geomhash":"0eb05096c2ecbc514bef89ca46ea7c8a",
+    "wof:geomhash":"a4542bb4aacf392b9adb0bf7ed71a68c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1292974867,
-    "wof:lastmodified":1566584958,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126945,
     "wof:name":"Kamara",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -96,9 +102,9 @@
 },
   "bbox": [
     27.26667,
-    57.78333000000001,
+    57.78333,
     27.26667,
-    57.78333000000001
+    57.78333
 ],
-  "geometry": {"coordinates":[27.26667,57.78333000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.26667,57.78333],"type":"Point"}
 }

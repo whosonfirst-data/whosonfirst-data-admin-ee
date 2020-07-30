@@ -42,7 +42,7 @@
         "gn:id":794300
     },
     "wof:country":"EE",
-    "wof:geomhash":"dfe6c0beae36ec0c48cd706d1ba36e1c",
+    "wof:geomhash":"784c6c8eee2994f4a82de741a2a26ff8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243041981,
-    "wof:lastmodified":1566585432,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127022,
     "wof:name":"Roosisaare",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.94611,
-    57.84444000000001,
+    57.84444,
     26.94611,
-    57.84444000000001
+    57.84444
 ],
-  "geometry": {"coordinates":[26.94611,57.84444000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.94611,57.84444],"type":"Point"}
 }

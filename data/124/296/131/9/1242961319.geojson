@@ -42,7 +42,7 @@
         "gn:id":8620509
     },
     "wof:country":"EE",
-    "wof:geomhash":"2ddc7739b6dd1162f37a84c68fb25fe4",
+    "wof:geomhash":"63badae351e2fb578c2a56a63b90e8fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242961319,
-    "wof:lastmodified":1566585449,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127024,
     "wof:name":"Kaegiste",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     24.495,
-    58.11333000000001,
+    58.11333,
     24.495,
-    58.11333000000001
+    58.11333
 ],
-  "geometry": {"coordinates":[24.495,58.11333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.495,58.11333],"type":"Point"}
 }

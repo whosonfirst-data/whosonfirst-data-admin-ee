@@ -43,7 +43,7 @@
         "wk:page":"Nurme%2C_Valjala_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ca8eeb0bbadb20f309e0095d340286a2",
+    "wof:geomhash":"10e2eb025700ab0ef50ff3664cd19a0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1243151031,
-    "wof:lastmodified":1566585423,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127020,
     "wof:name":"Nurme",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -63,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.91472000000001,
+    22.91472,
     58.35556,
-    22.91472000000001,
+    22.91472,
     58.35556
 ],
-  "geometry": {"coordinates":[22.91472000000001,58.35556],"type":"Point"}
+  "geometry": {"coordinates":[22.91472,58.35556],"type":"Point"}
 }

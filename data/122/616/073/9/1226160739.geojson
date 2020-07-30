@@ -70,7 +70,7 @@
         "wk:page":"S%C3%B5meru%2C_Kiili_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1d0cff0248633c74a1ac3ff880dd1c43",
+    "wof:geomhash":"512bd34016dbf61bea3dc6c96a834b88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1226160739,
-    "wof:lastmodified":1566585534,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127037,
     "wof:name":"Someru",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -91,9 +97,9 @@
 },
   "bbox": [
     24.90306,
-    59.24528000000001,
+    59.24528,
     24.90306,
-    59.24528000000001
+    59.24528
 ],
-  "geometry": {"coordinates":[24.90306,59.24528000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.90306,59.24528],"type":"Point"}
 }

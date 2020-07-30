@@ -42,7 +42,7 @@
         "gn:id":592027
     },
     "wof:country":"EE",
-    "wof:geomhash":"cbd434bf82752734ccd4e97c6f256c1c",
+    "wof:geomhash":"cbc3b8d27d7f6360241d9803e071d622",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209918155,
-    "wof:lastmodified":1566585048,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126959,
     "wof:name":"Ingu",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     24.35,
-    59.18333000000001,
+    59.18333,
     24.35,
-    59.18333000000001
+    59.18333
 ],
-  "geometry": {"coordinates":[24.35,59.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.35,59.18333],"type":"Point"}
 }

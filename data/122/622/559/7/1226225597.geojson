@@ -76,7 +76,7 @@
         "wk:page":"Kuusn%C3%B5mme"
     },
     "wof:country":"EE",
-    "wof:geomhash":"16a5ddbed7382caed414063e5ef3b721",
+    "wof:geomhash":"9a22eaa35c63dc68798fe8e0c27e0a76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +86,13 @@
         }
     ],
     "wof:id":1226225597,
-    "wof:lastmodified":1566585557,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127041,
     "wof:name":"Kuusnomme",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -97,9 +103,9 @@
 },
   "bbox": [
     21.985,
-    58.31333000000001,
+    58.31333,
     21.985,
-    58.31333000000001
+    58.31333
 ],
-  "geometry": {"coordinates":[21.985,58.31333000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.985,58.31333],"type":"Point"}
 }

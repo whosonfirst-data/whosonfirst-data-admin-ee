@@ -40,7 +40,7 @@
         "gn:id":592558
     },
     "wof:country":"EE",
-    "wof:geomhash":"d66e98b004340f4e07c7dd0ff0f76e9d",
+    "wof:geomhash":"40e21767582733264bde63125df2680d",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -48,7 +48,13 @@
         }
     ],
     "wof:id":1209574427,
-    "wof:lastmodified":1566585079,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Ala-Suhka",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -59,9 +65,9 @@
 },
   "bbox": [
     27.13333,
-    57.68333000000001,
+    57.68333,
     27.13333,
-    57.68333000000001
+    57.68333
 ],
-  "geometry": {"coordinates":[27.13333,57.68333000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.13333,57.68333],"type":"Point"}
 }

@@ -75,7 +75,7 @@
         "gn:id":8620800
     },
     "wof:country":"EE",
-    "wof:geomhash":"97e2ea2973308b2f7f44bd91858d57ea",
+    "wof:geomhash":"e53c829d3a6d1a512071af9291a83778",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1293847231,
-    "wof:lastmodified":1566584932,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126941,
     "wof:name":"Lauri",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -96,9 +102,9 @@
 },
   "bbox": [
     26.35,
-    58.20583000000001,
+    58.20583,
     26.35,
-    58.20583000000001
+    58.20583
 ],
-  "geometry": {"coordinates":[26.35,58.20583000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.35,58.20583],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "gn:id":589128
     },
     "wof:country":"EE",
-    "wof:geomhash":"7034f27f1a938756b80151fc6110d917",
+    "wof:geomhash":"e20b0db126c41111067746355073da93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1225948411,
-    "wof:lastmodified":1566585513,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127034,
     "wof:name":"Rannakuela",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.10222000000001,
-    59.27721999999999,
-    24.10222000000001,
-    59.27721999999999
+    24.10222,
+    59.27722,
+    24.10222,
+    59.27722
 ],
-  "geometry": {"coordinates":[24.10222000000001,59.27721999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.10222,59.27722],"type":"Point"}
 }

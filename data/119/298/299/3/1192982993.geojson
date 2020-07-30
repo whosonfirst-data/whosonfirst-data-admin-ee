@@ -64,7 +64,7 @@
         "wk:page":"Litsmetsa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"4b0025f2b0d7379f258164b1cfd3c578",
+    "wof:geomhash":"aa21d097689954d4a034f2ffd8d66f66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1192982993,
-    "wof:lastmodified":1566585123,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126971,
     "wof:name":"Litsmetsa",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.6275,
-    57.75833000000001,
+    57.75833,
     26.6275,
-    57.75833000000001
+    57.75833
 ],
-  "geometry": {"coordinates":[26.6275,57.75833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.6275,57.75833],"type":"Point"}
 }

@@ -59,7 +59,7 @@
         "wk:page":"Eisma"
     },
     "wof:country":"EE",
-    "wof:geomhash":"9723bd1485f9a57dd237094f6b8490aa",
+    "wof:geomhash":"ebc0a34ab7a32f59a108bf031b3ae9df",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1209500517,
-    "wof:lastmodified":1566585077,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Eisma",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -78,9 +84,9 @@
 },
   "bbox": [
     26.30472,
-    59.56028000000001,
+    59.56028,
     26.30472,
-    59.56028000000001
+    59.56028
 ],
-  "geometry": {"coordinates":[26.30472,59.56028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.30472,59.56028],"type":"Point"}
 }

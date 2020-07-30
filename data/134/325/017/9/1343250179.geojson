@@ -65,7 +65,7 @@
         "wk:page":"Aesoo"
     },
     "wof:country":"EE",
-    "wof:geomhash":"82ce42a95420829806dc7e29935e3279",
+    "wof:geomhash":"bfeaad83e5f817e75d0b571f3ca03ccb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1343250179,
-    "wof:lastmodified":1566584861,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126931,
     "wof:name":"Aesoo",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -85,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.08167000000001,
+    25.08167,
     58.51889,
-    25.08167000000001,
+    25.08167,
     58.51889
 ],
-  "geometry": {"coordinates":[25.08167000000001,58.51889],"type":"Point"}
+  "geometry": {"coordinates":[25.08167,58.51889],"type":"Point"}
 }

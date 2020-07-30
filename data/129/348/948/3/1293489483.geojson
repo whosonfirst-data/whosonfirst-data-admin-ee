@@ -67,7 +67,7 @@
         "wk:page":"Tammessaare"
     },
     "wof:country":"EE",
-    "wof:geomhash":"7b0e7f0e41b91bb0b73c4626eae9a5ec",
+    "wof:geomhash":"849c869c1e7ca01ccc6a1f5a1186ace6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1293489483,
-    "wof:lastmodified":1566584931,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126941,
     "wof:name":"Tammessaare",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -87,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.01222000000001,
+    27.01222,
     59.00306,
-    27.01222000000001,
+    27.01222,
     59.00306
 ],
-  "geometry": {"coordinates":[27.01222000000001,59.00306],"type":"Point"}
+  "geometry": {"coordinates":[27.01222,59.00306],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "gn:id":8619334
     },
     "wof:country":"EE",
-    "wof:geomhash":"b2adf110e0ba32ce622249f6b3ffa7df",
+    "wof:geomhash":"678f4c2ab7b87c8f597f6c2ba0e5b3d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1293463789,
-    "wof:lastmodified":1566584928,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126940,
     "wof:name":"Savioru",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.96833,
-    57.65833000000001,
+    57.65833,
     26.96833,
-    57.65833000000001
+    57.65833
 ],
-  "geometry": {"coordinates":[26.96833,57.65833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.96833,57.65833],"type":"Point"}
 }

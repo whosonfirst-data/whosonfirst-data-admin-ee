@@ -64,7 +64,7 @@
         "wk:page":"Sambu%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"951bf0f7544cedad8f98208a66ba946e",
+    "wof:geomhash":"abe9d2bae7f20f8cc8006d5790f88d3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1344171095,
-    "wof:lastmodified":1566584876,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126934,
     "wof:name":"Sambu",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     25.21611,
-    59.38583000000001,
+    59.38583,
     25.21611,
-    59.38583000000001
+    59.38583
 ],
-  "geometry": {"coordinates":[25.21611,59.38583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.21611,59.38583],"type":"Point"}
 }

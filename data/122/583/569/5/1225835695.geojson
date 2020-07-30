@@ -59,7 +59,7 @@
         "wk:page":"Miila"
     },
     "wof:country":"EE",
-    "wof:geomhash":"0c84be8c9e97fee157714f4ad1d5e4d8",
+    "wof:geomhash":"69140478fe0b71c14c781c72fa9c6fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +69,13 @@
         }
     ],
     "wof:id":1225835695,
-    "wof:lastmodified":1566585586,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127045,
     "wof:name":"Miila",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -80,9 +86,9 @@
 },
   "bbox": [
     26.65472,
-    59.33083000000001,
+    59.33083,
     26.65472,
-    59.33083000000001
+    59.33083
 ],
-  "geometry": {"coordinates":[26.65472,59.33083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.65472,59.33083],"type":"Point"}
 }

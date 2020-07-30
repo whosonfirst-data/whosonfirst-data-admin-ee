@@ -45,7 +45,7 @@
         "gn:id":8620128
     },
     "wof:country":"EE",
-    "wof:geomhash":"c998f08bfc0f3c857f438b7f4f282015",
+    "wof:geomhash":"981bdb45f3120527f9f6558e7a619219",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1225918229,
-    "wof:lastmodified":1566585554,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127040,
     "wof:name":"Olehkova",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     27.45944,
-    57.72278000000001,
+    57.72278,
     27.45944,
-    57.72278000000001
+    57.72278
 ],
-  "geometry": {"coordinates":[27.45944,57.72278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.45944,57.72278],"type":"Point"}
 }

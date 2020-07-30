@@ -46,7 +46,7 @@
         "gn:id":588108
     },
     "wof:country":"EE",
-    "wof:geomhash":"e2928c5c4a7f30433da314c588874eeb",
+    "wof:geomhash":"47bf0cf19a02b7c4eca15975fbd79dad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1276766665,
-    "wof:lastmodified":1566585019,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126955,
     "wof:name":"Ugla",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     23.81694,
-    59.26694000000001,
+    59.26694,
     23.81694,
-    59.26694000000001
+    59.26694
 ],
-  "geometry": {"coordinates":[23.81694,59.26694000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.81694,59.26694],"type":"Point"}
 }

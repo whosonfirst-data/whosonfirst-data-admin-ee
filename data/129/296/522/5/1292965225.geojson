@@ -45,7 +45,7 @@
         "gn:id":8619067
     },
     "wof:country":"EE",
-    "wof:geomhash":"ce5455feb2667d567167f6ccb5b28b5e",
+    "wof:geomhash":"00d5ecd8a88e2e1549e2fcc1f65b37d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1292965225,
-    "wof:lastmodified":1566584956,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126945,
     "wof:name":"Piili",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.65944,
-    57.58833000000001,
+    57.58833,
     26.65944,
-    57.58833000000001
+    57.58833
 ],
-  "geometry": {"coordinates":[26.65944,57.58833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.65944,57.58833],"type":"Point"}
 }

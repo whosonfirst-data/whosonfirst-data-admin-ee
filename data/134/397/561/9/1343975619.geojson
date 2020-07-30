@@ -45,7 +45,7 @@
         "gn:id":8619671
     },
     "wof:country":"EE",
-    "wof:geomhash":"11ba4d39c0ee4e49345d41e37d78793e",
+    "wof:geomhash":"79cb60ac13ffd602cb6871006ab0daa7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1343975619,
-    "wof:lastmodified":1566584833,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126927,
     "wof:name":"Metsanurk",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     24.87889,
-    59.31721999999999,
+    59.31722,
     24.87889,
-    59.31721999999999
+    59.31722
 ],
-  "geometry": {"coordinates":[24.87889,59.31721999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.87889,59.31722],"type":"Point"}
 }

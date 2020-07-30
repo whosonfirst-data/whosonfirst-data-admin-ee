@@ -72,7 +72,7 @@
         "gn:id":8620081
     },
     "wof:country":"EE",
-    "wof:geomhash":"ce45631705a6061323e1f7139c1e92f3",
+    "wof:geomhash":"b20fe83c053e7095a62ec32e599e6dbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +82,13 @@
         }
     ],
     "wof:id":1276229747,
-    "wof:lastmodified":1566585019,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126955,
     "wof:name":"Vanalinn",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -92,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.26222000000001,
+    27.26222,
     59.39389,
-    27.26222000000001,
+    27.26222,
     59.39389
 ],
-  "geometry": {"coordinates":[27.26222000000001,59.39389],"type":"Point"}
+  "geometry": {"coordinates":[27.26222,59.39389],"type":"Point"}
 }

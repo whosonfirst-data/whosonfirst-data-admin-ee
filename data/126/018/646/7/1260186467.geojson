@@ -45,7 +45,7 @@
         "gn:id":590410
     },
     "wof:country":"EE",
-    "wof:geomhash":"0e8acf3e5ed31567c7f7dab8005321db",
+    "wof:geomhash":"069d792f471c3779a48033e3fb5686a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1260186467,
-    "wof:lastmodified":1566585147,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126975,
     "wof:name":"Myaekyula",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     24.38333,
-    59.18333000000001,
+    59.18333,
     24.38333,
-    59.18333000000001
+    59.18333
 ],
-  "geometry": {"coordinates":[24.38333,59.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.38333,59.18333],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "gn:id":589283
     },
     "wof:country":"EE",
-    "wof:geomhash":"b33037bb8ca41f2ec420bee69c284463",
+    "wof:geomhash":"a037ddb69b3966cf841d675d45eb0f9d",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1209476833,
-    "wof:lastmodified":1566585073,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126963,
     "wof:name":"Pullisaare",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -64,9 +70,9 @@
 },
   "bbox": [
     25.91667,
-    58.46666999999999,
+    58.46667,
     25.91667,
-    58.46666999999999
+    58.46667
 ],
-  "geometry": {"coordinates":[25.91667,58.46666999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.91667,58.46667],"type":"Point"}
 }

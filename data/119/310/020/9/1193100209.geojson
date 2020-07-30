@@ -42,7 +42,7 @@
         "gn:id":794089
     },
     "wof:country":"EE",
-    "wof:geomhash":"5e1a5ba498e6830cb0ec652d469d6dd0",
+    "wof:geomhash":"71bc741c3e88a1dcfa7c40a757c50720",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1193100209,
-    "wof:lastmodified":1566585129,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126972,
     "wof:name":"Vanaussaia",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.15611,
-    58.51083000000001,
+    58.51083,
     27.15611,
-    58.51083000000001
+    58.51083
 ],
-  "geometry": {"coordinates":[27.15611,58.51083000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.15611,58.51083],"type":"Point"}
 }

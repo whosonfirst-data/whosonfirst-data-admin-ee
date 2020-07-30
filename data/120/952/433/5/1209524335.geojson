@@ -63,7 +63,7 @@
         "wk:page":"Koidma"
     },
     "wof:country":"EE",
-    "wof:geomhash":"76ace5392f4021e6213625b72fbf695c",
+    "wof:geomhash":"5467909c9ffb073900c27a24694c0420",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1209524335,
-    "wof:lastmodified":1566585060,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126961,
     "wof:name":"Koidma",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     22.61561,
-    58.98161999999999,
+    58.98162,
     22.61561,
-    58.98161999999999
+    58.98162
 ],
-  "geometry": {"coordinates":[22.61561,58.98161999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.61561,58.98162],"type":"Point"}
 }

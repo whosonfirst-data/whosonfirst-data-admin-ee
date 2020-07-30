@@ -68,7 +68,7 @@
         "wk:page":"M%C3%A4gipe"
     },
     "wof:country":"EE",
-    "wof:geomhash":"e868502403d85a2d19f7e767253d4c35",
+    "wof:geomhash":"940d27c4283fec7e014b0800c6a595d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +78,13 @@
         }
     ],
     "wof:id":1209724431,
-    "wof:lastmodified":1566585109,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126969,
     "wof:name":"Maegipe",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -89,9 +95,9 @@
 },
   "bbox": [
     22.21025,
-    58.92133000000001,
+    58.92133,
     22.21025,
-    58.92133000000001
+    58.92133
 ],
-  "geometry": {"coordinates":[22.21025,58.92133000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.21025,58.92133],"type":"Point"}
 }

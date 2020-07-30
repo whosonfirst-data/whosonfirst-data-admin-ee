@@ -62,7 +62,7 @@
         "wk:page":"Lasinurme"
     },
     "wof:country":"EE",
-    "wof:geomhash":"9d363b63733350921744aa384287741e",
+    "wof:geomhash":"2fd89fb59e066962287a896aa4460fcb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,13 @@
         }
     ],
     "wof:id":1193134259,
-    "wof:lastmodified":1566585117,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126970,
     "wof:name":"Lasinurme",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -82,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.33889000000001,
+    26.33889,
     58.94056,
-    26.33889000000001,
+    26.33889,
     58.94056
 ],
-  "geometry": {"coordinates":[26.33889000000001,58.94056],"type":"Point"}
+  "geometry": {"coordinates":[26.33889,58.94056],"type":"Point"}
 }

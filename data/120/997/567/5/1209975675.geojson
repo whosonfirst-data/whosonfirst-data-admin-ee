@@ -42,7 +42,7 @@
         "gn:id":794514
     },
     "wof:country":"EE",
-    "wof:geomhash":"7bfe5f016eaa9be07e958b5cf833012b",
+    "wof:geomhash":"4a23765df47417eda9b93a4faa6ef09d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209975675,
-    "wof:lastmodified":1566585058,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126961,
     "wof:name":"Sarapuu",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.4175,
-    57.91028000000001,
+    57.91028,
     26.4175,
-    57.91028000000001
+    57.91028
 ],
-  "geometry": {"coordinates":[26.4175,57.91028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.4175,57.91028],"type":"Point"}
 }

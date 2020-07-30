@@ -63,7 +63,7 @@
         "gn:id":591480
     },
     "wof:country":"EE",
-    "wof:geomhash":"526c2065d79c26c4a38df86f9923faff",
+    "wof:geomhash":"138cbb2b891d98571306664a22d4f822",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1226205589,
-    "wof:lastmodified":1566585532,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127037,
     "wof:name":"Keeri",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     26.49694,
-    58.32083000000001,
+    58.32083,
     26.49694,
-    58.32083000000001
+    58.32083
 ],
-  "geometry": {"coordinates":[26.49694,58.32083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.49694,58.32083],"type":"Point"}
 }

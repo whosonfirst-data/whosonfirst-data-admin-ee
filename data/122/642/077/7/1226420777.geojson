@@ -46,7 +46,7 @@
         "gn:id":591921
     },
     "wof:country":"EE",
-    "wof:geomhash":"33aa4c897c32e21b3e089e31fc05cef1",
+    "wof:geomhash":"7f6cf47c94fa77164cc9d920ce5a3a63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1226420777,
-    "wof:lastmodified":1566585528,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127036,
     "wof:name":"Joekuela",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.61667000000001,
-    58.53333000000001,
-    24.61667000000001,
-    58.53333000000001
+    24.61667,
+    58.53333,
+    24.61667,
+    58.53333
 ],
-  "geometry": {"coordinates":[24.61667000000001,58.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.61667,58.53333],"type":"Point"}
 }

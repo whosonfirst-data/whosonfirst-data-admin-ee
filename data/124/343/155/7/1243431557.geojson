@@ -69,7 +69,7 @@
         "gn:id":8620609
     },
     "wof:country":"EE",
-    "wof:geomhash":"0fe2f3e30c4c951644ae76956e4b1027",
+    "wof:geomhash":"599e8c2a96ce59c00277ebc6196837f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1243431557,
-    "wof:lastmodified":1566585462,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127026,
     "wof:name":"Lutsu",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -89,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.71389000000001,
+    26.71389,
     58.13806,
-    26.71389000000001,
+    26.71389,
     58.13806
 ],
-  "geometry": {"coordinates":[26.71389000000001,58.13806],"type":"Point"}
+  "geometry": {"coordinates":[26.71389,58.13806],"type":"Point"}
 }

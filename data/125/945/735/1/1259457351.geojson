@@ -46,7 +46,7 @@
         "gn:id":590381
     },
     "wof:country":"EE",
-    "wof:geomhash":"fcfd5cc8d052d0360240e636a53c81ff",
+    "wof:geomhash":"f63c14d94d1ecbb49d0b128461a39477",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1259457351,
-    "wof:lastmodified":1566585507,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127034,
     "wof:name":"Maehma",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     25.77778,
-    58.39528000000001,
+    58.39528,
     25.77778,
-    58.39528000000001
+    58.39528
 ],
-  "geometry": {"coordinates":[25.77778,58.39528000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.77778,58.39528],"type":"Point"}
 }

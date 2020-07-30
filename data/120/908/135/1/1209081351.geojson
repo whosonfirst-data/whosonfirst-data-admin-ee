@@ -45,7 +45,7 @@
         "gn:id":592372
     },
     "wof:country":"EE",
-    "wof:geomhash":"582bbeba5da1afb4424b4e804735b7be",
+    "wof:geomhash":"92f536344bd3435bf596436247afde65",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1209081351,
-    "wof:lastmodified":1566585054,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126960,
     "wof:name":"Asu",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -64,9 +70,9 @@
 },
   "bbox": [
     25.90583,
-    57.93389000000001,
+    57.93389,
     25.90583,
-    57.93389000000001
+    57.93389
 ],
-  "geometry": {"coordinates":[25.90583,57.93389000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.90583,57.93389],"type":"Point"}
 }

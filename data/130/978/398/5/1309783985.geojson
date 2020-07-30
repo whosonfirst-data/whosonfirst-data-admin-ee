@@ -61,7 +61,7 @@
         "wk:page":"%C3%84nnikse"
     },
     "wof:country":"EE",
-    "wof:geomhash":"164583b161341cfad08aa8b7e4587a94",
+    "wof:geomhash":"f7566454c7011b4379a025596d32f172",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1309783985,
-    "wof:lastmodified":1566585257,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126994,
     "wof:name":"AEnnikse",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     23.8175,
-    58.48278000000001,
+    58.48278,
     23.8175,
-    58.48278000000001
+    58.48278
 ],
-  "geometry": {"coordinates":[23.8175,58.48278000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.8175,58.48278],"type":"Point"}
 }

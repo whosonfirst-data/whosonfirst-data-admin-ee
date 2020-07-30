@@ -42,7 +42,7 @@
         "gn:id":8619305
     },
     "wof:country":"EE",
-    "wof:geomhash":"a12a9ca5843f29cd0e40853e6d07810f",
+    "wof:geomhash":"d959116b2989e6396f91528aca940684",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360165829,
-    "wof:lastmodified":1566585223,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126987,
     "wof:name":"Uuejoe-Voidu",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     24.60833,
-    58.16278000000001,
+    58.16278,
     24.60833,
-    58.16278000000001
+    58.16278
 ],
-  "geometry": {"coordinates":[24.60833,58.16278000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.60833,58.16278],"type":"Point"}
 }

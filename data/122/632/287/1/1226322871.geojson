@@ -46,7 +46,7 @@
         "gn:id":8620831
     },
     "wof:country":"EE",
-    "wof:geomhash":"588cf20f7fa993cb84e27ec8d5ad7b53",
+    "wof:geomhash":"52aad0d384c1bf47c006fdf4b5aa6300",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1226322871,
-    "wof:lastmodified":1566585544,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127039,
     "wof:name":"Kuersae",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.50389,
-    58.06639000000001,
+    58.06639,
     27.50389,
-    58.06639000000001
+    58.06639
 ],
-  "geometry": {"coordinates":[27.50389,58.06639000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.50389,58.06639],"type":"Point"}
 }

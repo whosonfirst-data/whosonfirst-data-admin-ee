@@ -65,7 +65,7 @@
         "wk:page":"N%C3%B5rava"
     },
     "wof:country":"EE",
-    "wof:geomhash":"2dbea97bb97edee45305a61b1ff31a9e",
+    "wof:geomhash":"a17da4ea27d7c24622052d1577d7da7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1276562207,
-    "wof:lastmodified":1566585000,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126952,
     "wof:name":"Norava",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     25.02806,
-    59.17028000000001,
+    59.17028,
     25.02806,
-    59.17028000000001
+    59.17028
 ],
-  "geometry": {"coordinates":[25.02806,59.17028000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.02806,59.17028],"type":"Point"}
 }

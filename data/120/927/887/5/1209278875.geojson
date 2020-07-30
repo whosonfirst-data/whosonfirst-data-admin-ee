@@ -40,7 +40,7 @@
         "gn:id":8618668
     },
     "wof:country":"EE",
-    "wof:geomhash":"90a67628867732b929c3ce546e192d06",
+    "wof:geomhash":"9a86cfb34802faa3a470a47a9df18307",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -48,7 +48,13 @@
         }
     ],
     "wof:id":1209278875,
-    "wof:lastmodified":1566585097,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126967,
     "wof:name":"Ihaendue",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -59,9 +65,9 @@
 },
   "bbox": [
     26.78389,
-    57.73139000000001,
+    57.73139,
     26.78389,
-    57.73139000000001
+    57.73139
 ],
-  "geometry": {"coordinates":[26.78389,57.73139000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.78389,57.73139],"type":"Point"}
 }

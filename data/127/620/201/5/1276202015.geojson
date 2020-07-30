@@ -45,7 +45,7 @@
         "gn:id":8619441
     },
     "wof:country":"EE",
-    "wof:geomhash":"c601b01c86f5c7b2d83deacdb323f872",
+    "wof:geomhash":"1dfec55c0d1e349f82d7067d2a2e7b9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1276202015,
-    "wof:lastmodified":1566584997,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126951,
     "wof:name":"Postova",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     27.01028,
-    58.56444000000001,
+    58.56444,
     27.01028,
-    58.56444000000001
+    58.56444
 ],
-  "geometry": {"coordinates":[27.01028,58.56444000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.01028,58.56444],"type":"Point"}
 }

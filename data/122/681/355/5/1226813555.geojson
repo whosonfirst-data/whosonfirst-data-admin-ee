@@ -58,7 +58,7 @@
         "wk:page":"Plaani"
     },
     "wof:country":"EE",
-    "wof:geomhash":"feb6cd221600f3ba8f5d2521ef819611",
+    "wof:geomhash":"e0e7c7a908887a9526d6c1fa9076e6b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1226813555,
-    "wof:lastmodified":1566585520,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127035,
     "wof:name":"Plaani",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     27.08667,
-    57.66889000000001,
+    57.66889,
     27.08667,
-    57.66889000000001
+    57.66889
 ],
-  "geometry": {"coordinates":[27.08667,57.66889000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.08667,57.66889],"type":"Point"}
 }

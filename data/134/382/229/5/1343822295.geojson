@@ -47,7 +47,7 @@
         "gn:id":589932
     },
     "wof:country":"EE",
-    "wof:geomhash":"10809e28fa8651a54af7dfd669c38f99",
+    "wof:geomhash":"9cd531da5d362e99b2ea7452fe5087ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1343822295,
-    "wof:lastmodified":1566584858,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126931,
     "wof:name":"Noodaskuela",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     27.15694,
-    57.81333000000001,
+    57.81333,
     27.15694,
-    57.81333000000001
+    57.81333
 ],
-  "geometry": {"coordinates":[27.15694,57.81333000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.15694,57.81333],"type":"Point"}
 }

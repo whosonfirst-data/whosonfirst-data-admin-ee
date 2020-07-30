@@ -42,7 +42,7 @@
         "gn:id":793854
     },
     "wof:country":"EE",
-    "wof:geomhash":"348e738b696fd89d592349072fa069b6",
+    "wof:geomhash":"145c75e84cae4f15c77f74827be03100",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276831123,
-    "wof:lastmodified":1566585030,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126956,
     "wof:name":"Raeaeka",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.38639,
-    58.56583000000001,
+    58.56583,
     25.38639,
-    58.56583000000001
+    58.56583
 ],
-  "geometry": {"coordinates":[25.38639,58.56583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.38639,58.56583],"type":"Point"}
 }

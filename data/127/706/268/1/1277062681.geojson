@@ -42,7 +42,7 @@
         "gn:id":591315
     },
     "wof:country":"EE",
-    "wof:geomhash":"483f1e4577c42db53d2a4f14018f88e5",
+    "wof:geomhash":"46463c6702efbd075cc95b3e5d1eb892",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1277062681,
-    "wof:lastmodified":1566584981,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126949,
     "wof:name":"Kivinuki",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     24.4,
-    58.68333000000001,
+    58.68333,
     24.4,
-    58.68333000000001
+    58.68333
 ],
-  "geometry": {"coordinates":[24.4,58.68333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.4,58.68333],"type":"Point"}
 }

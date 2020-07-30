@@ -46,7 +46,7 @@
         "gn:id":591598
     },
     "wof:country":"EE",
-    "wof:geomhash":"9445d17b330e412048fd6b5b4ccfac27",
+    "wof:geomhash":"6ced5c090abe53372f6830d7edce62ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1360185321,
-    "wof:lastmodified":1566585221,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126987,
     "wof:name":"Karjakuela",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     25.23194,
-    58.75083000000001,
+    58.75083,
     25.23194,
-    58.75083000000001
+    58.75083
 ],
-  "geometry": {"coordinates":[25.23194,58.75083000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.23194,58.75083],"type":"Point"}
 }

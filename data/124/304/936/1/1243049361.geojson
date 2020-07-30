@@ -63,7 +63,7 @@
         "wk:page":"Metsavere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"2db9d1f43412b21725cad83af7bf10c3",
+    "wof:geomhash":"a940eaff11f9a1481587261bfe40145d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1243049361,
-    "wof:lastmodified":1566585431,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127022,
     "wof:name":"Metsavere",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     24.675,
-    58.66583000000001,
+    58.66583,
     24.675,
-    58.66583000000001
+    58.66583
 ],
-  "geometry": {"coordinates":[24.675,58.66583000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.675,58.66583],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "gn:id":590364
     },
     "wof:country":"EE",
-    "wof:geomhash":"d8a0856e0185c322917cccd316b6124f",
+    "wof:geomhash":"783cfe0567c4c6734f7d8942737c2a0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276308511,
-    "wof:lastmodified":1566585036,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126957,
     "wof:name":"Maeksa",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.63333,
-    58.38333000000001,
+    58.38333,
     26.63333,
-    58.38333000000001
+    58.38333
 ],
-  "geometry": {"coordinates":[26.63333,58.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.63333,58.38333],"type":"Point"}
 }

@@ -88,7 +88,7 @@
         "gn:id":8620663
     },
     "wof:country":"EE",
-    "wof:geomhash":"cd91f882add54a3f5028fb461b58f44a",
+    "wof:geomhash":"ec3826fcf54c17a12a7190d8fd65f622",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -96,7 +96,13 @@
         }
     ],
     "wof:id":1209279985,
-    "wof:lastmodified":1566585097,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126967,
     "wof:name":"Elva",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -107,9 +113,9 @@
 },
   "bbox": [
     26.43361,
-    58.10028000000001,
+    58.10028,
     26.43361,
-    58.10028000000001
+    58.10028
 ],
-  "geometry": {"coordinates":[26.43361,58.10028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.43361,58.10028],"type":"Point"}
 }

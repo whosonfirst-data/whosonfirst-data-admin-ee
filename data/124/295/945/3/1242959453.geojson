@@ -69,7 +69,7 @@
         "wk:page":"Haakla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"64ee604735db07820cb04bd05b0af31c",
+    "wof:geomhash":"bf08c2fa9a7d6c72f92fbf6766455aca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1242959453,
-    "wof:lastmodified":1566585410,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127018,
     "wof:name":"Haakla",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -90,9 +96,9 @@
 },
   "bbox": [
     24.91639,
-    58.82083000000001,
+    58.82083,
     24.91639,
-    58.82083000000001
+    58.82083
 ],
-  "geometry": {"coordinates":[24.91639,58.82083000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.91639,58.82083],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Aasu%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"e37defb77a4484db4e7f59ca15dd1298",
+    "wof:geomhash":"672f7234428f196444eac0dec7ca34f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1293193951,
-    "wof:lastmodified":1566584974,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126948,
     "wof:name":"Aasu",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -81,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.33167000000001,
+    26.33167,
     59.40917,
-    26.33167000000001,
+    26.33167,
     59.40917
 ],
-  "geometry": {"coordinates":[26.33167000000001,59.40917],"type":"Point"}
+  "geometry": {"coordinates":[26.33167,59.40917],"type":"Point"}
 }

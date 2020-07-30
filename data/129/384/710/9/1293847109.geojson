@@ -45,7 +45,7 @@
         "gn:id":8618220
     },
     "wof:country":"EE",
-    "wof:geomhash":"ac8c447e89390d96d3aeeabcbcead7bb",
+    "wof:geomhash":"4a89939b82a32550c53c3b9af9b31996",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1293847109,
-    "wof:lastmodified":1566584933,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126941,
     "wof:name":"Sookurgu",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     27.14083,
-    58.48139000000001,
+    58.48139,
     27.14083,
-    58.48139000000001
+    58.48139
 ],
-  "geometry": {"coordinates":[27.14083,58.48139000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.14083,58.48139],"type":"Point"}
 }

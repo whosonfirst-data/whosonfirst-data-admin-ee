@@ -55,7 +55,7 @@
         "wk:page":"R%C3%A4itsvere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"3e3925457fbf35c865850fa88e4f2703",
+    "wof:geomhash":"d26b4a4306de3c5bc2d0ffe8d75d881f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1276330151,
-    "wof:lastmodified":1566584998,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126951,
     "wof:name":"Raeitsvere",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -76,9 +82,9 @@
 },
   "bbox": [
     26.2225,
-    59.00666999999999,
+    59.00667,
     26.2225,
-    59.00666999999999
+    59.00667
 ],
-  "geometry": {"coordinates":[26.2225,59.00666999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.2225,59.00667],"type":"Point"}
 }

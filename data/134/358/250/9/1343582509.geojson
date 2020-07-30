@@ -46,7 +46,7 @@
         "gn:id":592519
     },
     "wof:country":"EE",
-    "wof:geomhash":"5b14171b0b378db9f1d77a2e1c92f800",
+    "wof:geomhash":"e8813a25c2b788352ea76fbeb55c0454",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1343582509,
-    "wof:lastmodified":1566584867,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126932,
     "wof:name":"Altkuela",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     24.08611,
-    58.70778000000001,
+    58.70778,
     24.08611,
-    58.70778000000001
+    58.70778
 ],
-  "geometry": {"coordinates":[24.08611,58.70778000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.08611,58.70778],"type":"Point"}
 }

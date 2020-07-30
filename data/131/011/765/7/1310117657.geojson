@@ -70,7 +70,7 @@
         "wk:page":"Ongassaare"
     },
     "wof:country":"EE",
-    "wof:geomhash":"bdcca321fded77516c46f84e19e71dba",
+    "wof:geomhash":"ef603e43821e805aa987b1e541e4e97c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1310117657,
-    "wof:lastmodified":1566585189,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126982,
     "wof:name":"Ongassaare",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -91,9 +97,9 @@
 },
   "bbox": [
     27.47472,
-    59.19694000000001,
+    59.19694,
     27.47472,
-    59.19694000000001
+    59.19694
 ],
-  "geometry": {"coordinates":[27.47472,59.19694000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.47472,59.19694],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Uralaane"
     },
     "wof:country":"EE",
-    "wof:geomhash":"56d81f0a37bcf69fdfb2e860010e4e45",
+    "wof:geomhash":"e524c252cfde901617fd412610560297",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1243329127,
-    "wof:lastmodified":1566585433,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127022,
     "wof:name":"Uralaane",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     25.98111,
-    58.06916999999999,
+    58.06917,
     25.98111,
-    58.06916999999999
+    58.06917
 ],
-  "geometry": {"coordinates":[25.98111,58.06916999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.98111,58.06917],"type":"Point"}
 }

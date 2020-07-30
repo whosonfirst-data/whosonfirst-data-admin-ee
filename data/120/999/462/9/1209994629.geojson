@@ -45,7 +45,7 @@
         "gn:id":8620004
     },
     "wof:country":"EE",
-    "wof:geomhash":"ad183431985b08ba8c306f4026d16619",
+    "wof:geomhash":"3a120f756f53501ef7bd0b33f1726b84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1209994629,
-    "wof:lastmodified":1566585062,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126961,
     "wof:name":"Viruna-Teoste",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     23.99944,
-    58.47833000000001,
+    58.47833,
     23.99944,
-    58.47833000000001
+    58.47833
 ],
-  "geometry": {"coordinates":[23.99944,58.47833000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.99944,58.47833],"type":"Point"}
 }

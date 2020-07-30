@@ -61,7 +61,7 @@
         "wk:page":"Heisri"
     },
     "wof:country":"EE",
-    "wof:geomhash":"160fbbfd9a97e54a036c36e3d207f686",
+    "wof:geomhash":"d93a6f05ce7a33023a8dd0386b238952",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1226219619,
-    "wof:lastmodified":1566585526,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127036,
     "wof:name":"Heisri",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     26.78722,
-    58.02778000000001,
+    58.02778,
     26.78722,
-    58.02778000000001
+    58.02778
 ],
-  "geometry": {"coordinates":[26.78722,58.02778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.78722,58.02778],"type":"Point"}
 }

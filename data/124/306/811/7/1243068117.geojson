@@ -46,7 +46,7 @@
         "gn:id":592305
     },
     "wof:country":"EE",
-    "wof:geomhash":"b1db7c6d1debedd6cfd9343a92884482",
+    "wof:geomhash":"5240f5ae9923421bab06ed59ee6617e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243068117,
-    "wof:lastmodified":1566585395,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127016,
     "wof:name":"Ees-Voobu",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     25.46667,
-    59.03333000000001,
+    59.03333,
     25.46667,
-    59.03333000000001
+    59.03333
 ],
-  "geometry": {"coordinates":[25.46667,59.03333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.46667,59.03333],"type":"Point"}
 }

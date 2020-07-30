@@ -46,7 +46,7 @@
         "gn:id":588713
     },
     "wof:country":"EE",
-    "wof:geomhash":"f3ebfd5073a552e485737ad5d2ef88dd",
+    "wof:geomhash":"d82d9ab5badcd2695fec6a8489832b0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1209836967,
-    "wof:lastmodified":1566585065,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126962,
     "wof:name":"Sepamaa",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     23.52861,
-    58.63333000000001,
+    58.63333,
     23.52861,
-    58.63333000000001
+    58.63333
 ],
-  "geometry": {"coordinates":[23.52861,58.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.52861,58.63333],"type":"Point"}
 }

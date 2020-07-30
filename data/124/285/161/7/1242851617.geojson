@@ -61,7 +61,7 @@
         "wk:page":"Kunksilla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"7940ba0e29ff75eeb15447aecf255387",
+    "wof:geomhash":"268fb96a0050bcf7fa61f547f2187a36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1242851617,
-    "wof:lastmodified":1566585446,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127024,
     "wof:name":"Kunksilla",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     27.21917,
-    57.93083000000001,
+    57.93083,
     27.21917,
-    57.93083000000001
+    57.93083
 ],
-  "geometry": {"coordinates":[27.21917,57.93083000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.21917,57.93083],"type":"Point"}
 }

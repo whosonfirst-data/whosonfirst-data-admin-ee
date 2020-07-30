@@ -42,7 +42,7 @@
         "gn:id":591362
     },
     "wof:country":"EE",
-    "wof:geomhash":"1c67f0b59b943b1c83ab9baf635a27fb",
+    "wof:geomhash":"bb439e3074542b77519c5552d47f08f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360048765,
-    "wof:lastmodified":1566585228,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126988,
     "wof:name":"Kirepi",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.06083,
-    58.54278000000001,
+    58.54278,
     27.06083,
-    58.54278000000001
+    58.54278
 ],
-  "geometry": {"coordinates":[27.06083,58.54278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.06083,58.54278],"type":"Point"}
 }

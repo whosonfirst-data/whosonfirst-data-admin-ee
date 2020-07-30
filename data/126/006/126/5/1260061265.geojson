@@ -69,7 +69,7 @@
         "gn:id":591568
     },
     "wof:country":"EE",
-    "wof:geomhash":"cf2fdce16d01ca8b9a86c79bd74dec35",
+    "wof:geomhash":"19af572ce6a2c72ff5ccdc3f47d6bbbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1260061265,
-    "wof:lastmodified":1566585144,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126975,
     "wof:name":"Karu",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -90,9 +96,9 @@
 },
   "bbox": [
     24.8,
-    58.71666999999999,
+    58.71667,
     24.8,
-    58.71666999999999
+    58.71667
 ],
-  "geometry": {"coordinates":[24.8,58.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.8,58.71667],"type":"Point"}
 }

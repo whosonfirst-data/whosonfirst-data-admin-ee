@@ -44,7 +44,7 @@
         "gn:id":8620674
     },
     "wof:country":"EE",
-    "wof:geomhash":"ee721bd0b389479b7ace18b4238c0646",
+    "wof:geomhash":"65b632752b53daed9e5e935c786aab7d",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209492481,
-    "wof:lastmodified":1566585075,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126963,
     "wof:name":"Jaerve",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.00028,
-    58.13778000000001,
+    58.13778,
     27.00028,
-    58.13778000000001
+    58.13778
 ],
-  "geometry": {"coordinates":[27.00028,58.13778000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.00028,58.13778],"type":"Point"}
 }

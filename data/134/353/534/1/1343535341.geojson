@@ -45,7 +45,7 @@
         "gn:id":8619009
     },
     "wof:country":"EE",
-    "wof:geomhash":"b5295ac7c72cd2acb2b734ed0cf28b66",
+    "wof:geomhash":"79e2f86fc9ceccad69fbc69bef5c8380",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1343535341,
-    "wof:lastmodified":1566584829,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126927,
     "wof:name":"Konnuvere",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.50222,
-    57.60028000000001,
+    57.60028,
     26.50222,
-    57.60028000000001
+    57.60028
 ],
-  "geometry": {"coordinates":[26.50222,57.60028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.50222,57.60028],"type":"Point"}
 }

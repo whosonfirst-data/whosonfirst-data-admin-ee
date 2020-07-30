@@ -72,7 +72,7 @@
         "gn:id":591765
     },
     "wof:country":"EE",
-    "wof:geomhash":"6463060a3ff79c9bf295bdbb71f4fb8f",
+    "wof:geomhash":"5e6a20321e63a3b670709fbb0f52349e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +82,13 @@
         }
     ],
     "wof:id":1293181071,
-    "wof:lastmodified":1566584960,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126946,
     "wof:name":"Kahkva",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -93,9 +99,9 @@
 },
   "bbox": [
     27.46694,
-    57.95028000000001,
+    57.95028,
     27.46694,
-    57.95028000000001
+    57.95028
 ],
-  "geometry": {"coordinates":[27.46694,57.95028000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.46694,57.95028],"type":"Point"}
 }

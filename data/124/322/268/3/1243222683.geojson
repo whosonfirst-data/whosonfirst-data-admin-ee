@@ -61,7 +61,7 @@
         "wk:page":"Tellaste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"fcd1bb80335918f8efc49ead59d811c3",
+    "wof:geomhash":"b490b3ffe29255e7936c27f05c0a203c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1243222683,
-    "wof:lastmodified":1566585428,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127021,
     "wof:name":"Tellaste",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     27.34722,
-    57.77778000000001,
+    57.77778,
     27.34722,
-    57.77778000000001
+    57.77778
 ],
-  "geometry": {"coordinates":[27.34722,57.77778000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.34722,57.77778],"type":"Point"}
 }

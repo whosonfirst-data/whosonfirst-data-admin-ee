@@ -61,7 +61,7 @@
         "wk:page":"Sakla%2C_Hiiu_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"82d026d172ce3c8b56c69565a4b02024",
+    "wof:geomhash":"692a896bf4f6bbc9aad6dfe2f1a6eab0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1276456515,
-    "wof:lastmodified":1566584990,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126950,
     "wof:name":"Sakla",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     22.83987,
-    58.95268000000001,
+    58.95268,
     22.83987,
-    58.95268000000001
+    58.95268
 ],
-  "geometry": {"coordinates":[22.83987,58.95268000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.83987,58.95268],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "gn:id":590312
     },
     "wof:country":"EE",
-    "wof:geomhash":"8b3ed4d7ef770aa6972c798bae03468e",
+    "wof:geomhash":"2fc534c7ac7acc86b9cb525ff158b0ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1276852029,
-    "wof:lastmodified":1566585021,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126955,
     "wof:name":"Massu",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     24.97472,
-    58.62416999999999,
+    58.62417,
     24.97472,
-    58.62416999999999
+    58.62417
 ],
-  "geometry": {"coordinates":[24.97472,58.62416999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.97472,58.62417],"type":"Point"}
 }

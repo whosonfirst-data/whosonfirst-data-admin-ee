@@ -64,7 +64,7 @@
         "wk:page":"Sooaluste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ccf5ffb5750fbe2826755668c7f4e58b",
+    "wof:geomhash":"2f86635b3261b8140f89c38074b686de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1193257733,
-    "wof:lastmodified":1566585120,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126971,
     "wof:name":"Sooaluste",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -84,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.80417000000001,
+    24.80417,
     58.90778,
-    24.80417000000001,
+    24.80417,
     58.90778
 ],
-  "geometry": {"coordinates":[24.80417000000001,58.90778],"type":"Point"}
+  "geometry": {"coordinates":[24.80417,58.90778],"type":"Point"}
 }

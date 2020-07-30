@@ -65,7 +65,7 @@
         "wk:page":"K%C3%BClasema"
     },
     "wof:country":"EE",
-    "wof:geomhash":"4d8f46e471e7073645f6f113b9f4e780",
+    "wof:geomhash":"2d3c69713c9c6615d081ef105e96ece4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1276424407,
-    "wof:lastmodified":1566584991,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126950,
     "wof:name":"Kuelasema",
     "wof:parent_id":85682951,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     23.19083,
-    58.63444000000001,
+    58.63444,
     23.19083,
-    58.63444000000001
+    58.63444
 ],
-  "geometry": {"coordinates":[23.19083,58.63444000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.19083,58.63444],"type":"Point"}
 }

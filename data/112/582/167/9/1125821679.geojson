@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.86923,58.4867175,21.86923,58.4867175",
+    "geom:bbox":"21.86923,58.486717,21.86923,58.486717",
     "geom:latitude":58.486717,
     "geom:longitude":21.86923,
     "gn:country":"EE",
@@ -76,7 +76,7 @@
     },
     "wof:country":"EE",
     "wof:created":1497292098,
-    "wof:geomhash":"34c4fcf30dd735eee1ebdb70b869da74",
+    "wof:geomhash":"a3d2484b977ae4675f2740be65595693",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -86,7 +86,13 @@
         }
     ],
     "wof:id":1125821679,
-    "wof:lastmodified":1566585375,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127012,
     "wof:name":"Neeme",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -97,9 +103,9 @@
 },
   "bbox": [
     21.86923,
-    58.4867175,
+    58.486717,
     21.86923,
-    58.4867175
+    58.486717
 ],
-  "geometry": {"coordinates":[21.86923,58.4867175],"type":"Point"}
+  "geometry": {"coordinates":[21.86923,58.486717],"type":"Point"}
 }

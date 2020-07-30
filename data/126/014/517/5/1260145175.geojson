@@ -42,7 +42,7 @@
         "gn:id":8620452
     },
     "wof:country":"EE",
-    "wof:geomhash":"0958aef1107447e99ad2c9430eb86dec",
+    "wof:geomhash":"f25cc35e2b40ea97e3707b471b02b37d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260145175,
-    "wof:lastmodified":1566585133,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126973,
     "wof:name":"Maeaeraste",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.26083,
-    58.18833000000001,
+    58.18833,
     25.26083,
-    58.18833000000001
+    58.18833
 ],
-  "geometry": {"coordinates":[25.26083,58.18833000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.26083,58.18833],"type":"Point"}
 }

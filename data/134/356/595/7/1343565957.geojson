@@ -46,7 +46,7 @@
         "gn:id":588991
     },
     "wof:country":"EE",
-    "wof:geomhash":"d3df1ee1024c5573ff053fae7eddc0ca",
+    "wof:geomhash":"922208bfd48079034e90137da1e30a91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1343565957,
-    "wof:lastmodified":1566584866,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126932,
     "wof:name":"Rohkuse",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     26.71667,
-    58.71666999999999,
+    58.71667,
     26.71667,
-    58.71666999999999
+    58.71667
 ],
-  "geometry": {"coordinates":[26.71667,58.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.71667,58.71667],"type":"Point"}
 }

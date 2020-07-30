@@ -59,7 +59,7 @@
         "wk:page":"Sirguvere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"49445fd5f0f57cf52e82577c37e75e01",
+    "wof:geomhash":"c0f3b5a07b20f6320785157c596b7c73",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1209520373,
-    "wof:lastmodified":1566585060,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126961,
     "wof:name":"Sirguvere",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -78,9 +84,9 @@
 },
   "bbox": [
     26.75611,
-    58.74333000000001,
+    58.74333,
     26.75611,
-    58.74333000000001
+    58.74333
 ],
-  "geometry": {"coordinates":[26.75611,58.74333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.75611,58.74333],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Kapra%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"dc0eed383fd51acac8af823a37abca35",
+    "wof:geomhash":"794711e768f14dd66be15f9553cc3fc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1344028845,
-    "wof:lastmodified":1566584880,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126934,
     "wof:name":"Kapra",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     23.03333,
-    58.48583000000001,
+    58.48583,
     23.03333,
-    58.48583000000001
+    58.48583
 ],
-  "geometry": {"coordinates":[23.03333,58.48583000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.03333,58.48583],"type":"Point"}
 }

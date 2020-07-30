@@ -60,7 +60,7 @@
         "wk:page":"Koonu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"a8ee8cfc5a1c48e418ff9e3619dff040",
+    "wof:geomhash":"a211267dac48e502dbbf5ff915087030",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1293091873,
-    "wof:lastmodified":1566584916,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126938,
     "wof:name":"Koonu",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -80,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.26917000000001,
-    59.15278000000001,
-    26.26917000000001,
-    59.15278000000001
+    26.26917,
+    59.15278,
+    26.26917,
+    59.15278
 ],
-  "geometry": {"coordinates":[26.26917000000001,59.15278000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.26917,59.15278],"type":"Point"}
 }

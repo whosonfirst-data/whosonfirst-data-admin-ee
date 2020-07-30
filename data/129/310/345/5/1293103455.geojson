@@ -45,7 +45,7 @@
         "gn:id":8618602
     },
     "wof:country":"EE",
-    "wof:geomhash":"9aa09ff0afa75798d5322918f10d2fe3",
+    "wof:geomhash":"a0a99c1688e24a964f7ef1d940253b7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1293103455,
-    "wof:lastmodified":1566584973,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126948,
     "wof:name":"Kilbavere",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.68444,
-    58.90221999999999,
+    58.90222,
     26.68444,
-    58.90221999999999
+    58.90222
 ],
-  "geometry": {"coordinates":[26.68444,58.90221999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.68444,58.90222],"type":"Point"}
 }

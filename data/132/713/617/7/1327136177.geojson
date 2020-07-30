@@ -64,7 +64,7 @@
         "wk:page":"Atsalama"
     },
     "wof:country":"EE",
-    "wof:geomhash":"8687b00473caad305ca9872f216abc5c",
+    "wof:geomhash":"db529eba9d673fd8117771ac2581d208",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1327136177,
-    "wof:lastmodified":1566584780,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126919,
     "wof:name":"Atsalama",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -84,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.39389000000001,
+    27.39389,
     59.23861,
-    27.39389000000001,
+    27.39389,
     59.23861
 ],
-  "geometry": {"coordinates":[27.39389000000001,59.23861],"type":"Point"}
+  "geometry": {"coordinates":[27.39389,59.23861],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Lebavere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"3dc46e1bd25b894d56fd623c29be4868",
+    "wof:geomhash":"b96f87cd899221745e6478b3ed423c60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1242700599,
-    "wof:lastmodified":1566585442,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127023,
     "wof:name":"Lebavere",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -78,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.79722000000001,
+    25.79722,
     58.60833,
-    25.79722000000001,
+    25.79722,
     58.60833
 ],
-  "geometry": {"coordinates":[25.79722000000001,58.60833],"type":"Point"}
+  "geometry": {"coordinates":[25.79722,58.60833],"type":"Point"}
 }

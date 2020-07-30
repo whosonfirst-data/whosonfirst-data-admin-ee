@@ -44,7 +44,7 @@
         "gn:id":8620249
     },
     "wof:country":"EE",
-    "wof:geomhash":"8775678cae629e0ffc204d20a5a00d75",
+    "wof:geomhash":"57321fdf3575c27f20776325191fd757",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209674389,
-    "wof:lastmodified":1566585087,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126965,
     "wof:name":"Hallimaee",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.01944,
-    57.69833000000001,
+    57.69833,
     27.01944,
-    57.69833000000001
+    57.69833
 ],
-  "geometry": {"coordinates":[27.01944,57.69833000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.01944,57.69833],"type":"Point"}
 }

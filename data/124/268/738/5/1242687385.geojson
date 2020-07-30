@@ -66,7 +66,7 @@
         "gn:id":591833
     },
     "wof:country":"EE",
-    "wof:geomhash":"68350c3b9ae0b6a9faeb0cea727618d1",
+    "wof:geomhash":"8d85d91042070090d3a8d2632e2dd6f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1242687385,
-    "wof:lastmodified":1566585405,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127017,
     "wof:name":"Kaasiku",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -87,9 +93,9 @@
 },
   "bbox": [
     24.84021,
-    59.48368000000001,
+    59.48368,
     24.84021,
-    59.48368000000001
+    59.48368
 ],
-  "geometry": {"coordinates":[24.84021,59.48368000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.84021,59.48368],"type":"Point"}
 }

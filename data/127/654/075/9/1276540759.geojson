@@ -64,7 +64,7 @@
         "wk:page":"V%C3%A4ike-Ahli"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b14107acd7976a0f40b4f6d6aff3ae9c",
+    "wof:geomhash":"9624ddba417f9f90381bf7251ff70abd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1276540759,
-    "wof:lastmodified":1566585041,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126958,
     "wof:name":"Vaeike-Ahli",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     23.53333,
-    58.88333000000001,
+    58.88333,
     23.53333,
-    58.88333000000001
+    58.88333
 ],
-  "geometry": {"coordinates":[23.53333,58.88333000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.53333,58.88333],"type":"Point"}
 }

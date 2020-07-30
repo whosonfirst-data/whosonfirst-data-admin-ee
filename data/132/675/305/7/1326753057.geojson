@@ -74,7 +74,7 @@
         "gn:id":590494
     },
     "wof:country":"EE",
-    "wof:geomhash":"b1d5d4ba5df1cae3cf7ac8942d1052f0",
+    "wof:geomhash":"ade13b08a88b5b9347b11f34cf9d9408",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +84,13 @@
         }
     ],
     "wof:id":1326753057,
-    "wof:lastmodified":1566584764,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126917,
     "wof:name":"Luige",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -94,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.98472000000001,
-    58.75833000000001,
-    25.98472000000001,
-    58.75833000000001
+    25.98472,
+    58.75833,
+    25.98472,
+    58.75833
 ],
-  "geometry": {"coordinates":[25.98472000000001,58.75833000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.98472,58.75833],"type":"Point"}
 }

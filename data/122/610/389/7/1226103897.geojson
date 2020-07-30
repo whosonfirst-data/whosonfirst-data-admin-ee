@@ -47,7 +47,7 @@
         "gn:id":588227
     },
     "wof:country":"EE",
-    "wof:geomhash":"fbe0b8dcbc3a4e0644088e47f8dcd359",
+    "wof:geomhash":"4eecfa51835bfa02ebd5704a6828fa8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1226103897,
-    "wof:lastmodified":1566585524,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127036,
     "wof:name":"Toonoja",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.11667000000001,
+    25.11667,
     58.5,
-    25.11667000000001,
+    25.11667,
     58.5
 ],
-  "geometry": {"coordinates":[25.11667000000001,58.5],"type":"Point"}
+  "geometry": {"coordinates":[25.11667,58.5],"type":"Point"}
 }

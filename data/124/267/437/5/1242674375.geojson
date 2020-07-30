@@ -47,7 +47,7 @@
         "wk:page":"Alak%C3%BCla%2C_L%C3%A4%C3%A4ne_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"571a0ff5ae0110e36ee65cd0f6cf2844",
+    "wof:geomhash":"987ed0cb4b4a621f6bc81ba67479f9b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1242674375,
-    "wof:lastmodified":1566585411,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127018,
     "wof:name":"Alakuela",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     23.79278,
-    58.69221999999999,
+    58.69222,
     23.79278,
-    58.69221999999999
+    58.69222
 ],
-  "geometry": {"coordinates":[23.79278,58.69221999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.79278,58.69222],"type":"Point"}
 }

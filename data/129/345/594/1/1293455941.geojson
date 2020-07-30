@@ -47,7 +47,7 @@
         "gn:id":588507
     },
     "wof:country":"EE",
-    "wof:geomhash":"36711db4e4c7ccb1bab5f92230249c65",
+    "wof:geomhash":"47c48b05a2c95ea76f6c3857050af499",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1293455941,
-    "wof:lastmodified":1566584966,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126947,
     "wof:name":"Suur Kolkja",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     27.21806,
-    58.54389000000001,
+    58.54389,
     27.21806,
-    58.54389000000001
+    58.54389
 ],
-  "geometry": {"coordinates":[27.21806,58.54389000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.21806,58.54389],"type":"Point"}
 }

@@ -65,7 +65,7 @@
         "wk:page":"Hellamaa%2C_Hiiu_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"a7370912ad4cbadace6a1485cf9994d1",
+    "wof:geomhash":"d8408a0309d435df174a8d8c6aeb57a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1226351325,
-    "wof:lastmodified":1566585544,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127039,
     "wof:name":"Hellamaa",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     22.93214,
-    58.94094000000001,
+    58.94094,
     22.93214,
-    58.94094000000001
+    58.94094
 ],
-  "geometry": {"coordinates":[22.93214,58.94094000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.93214,58.94094],"type":"Point"}
 }

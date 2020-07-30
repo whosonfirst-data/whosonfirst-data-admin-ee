@@ -46,7 +46,7 @@
         "gn:id":592274
     },
     "wof:country":"EE",
-    "wof:geomhash":"6ae4912404afc0a1b9aacc2ce8e5e52a",
+    "wof:geomhash":"2ed6d1bc60fd9eef400dab848863fe6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1293082123,
-    "wof:lastmodified":1566584921,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126939,
     "wof:name":"Emmu-Arukuela",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     24.1,
-    58.63333000000001,
+    58.63333,
     24.1,
-    58.63333000000001
+    58.63333
 ],
-  "geometry": {"coordinates":[24.1,58.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.1,58.63333],"type":"Point"}
 }

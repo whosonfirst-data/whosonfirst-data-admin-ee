@@ -55,7 +55,7 @@
         "wk:page":"Nurkse"
     },
     "wof:country":"EE",
-    "wof:geomhash":"4b0456794ee368dd5d4eae840640fbac",
+    "wof:geomhash":"06e0c17fac92bcecbb819795ff69f384",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1209811083,
-    "wof:lastmodified":1566585108,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126969,
     "wof:name":"Nurkse",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -76,9 +82,9 @@
 },
   "bbox": [
     26.58,
-    59.30028000000001,
+    59.30028,
     26.58,
-    59.30028000000001
+    59.30028
 ],
-  "geometry": {"coordinates":[26.58,59.30028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.58,59.30028],"type":"Point"}
 }

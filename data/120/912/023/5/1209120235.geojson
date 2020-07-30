@@ -127,7 +127,7 @@
         "gn:id":590846
     },
     "wof:country":"EE",
-    "wof:geomhash":"fc66af9ea59fa4a58acd37ca1165f18a",
+    "wof:geomhash":"bdc12e5c3ad0953aa5a4144a464a0c88",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -135,7 +135,13 @@
         }
     ],
     "wof:id":1209120235,
-    "wof:lastmodified":1566585068,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126962,
     "wof:name":"Lae",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -146,9 +152,9 @@
 },
   "bbox": [
     25.22667,
-    59.33694000000001,
+    59.33694,
     25.22667,
-    59.33694000000001
+    59.33694
 ],
-  "geometry": {"coordinates":[25.22667,59.33694000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.22667,59.33694],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "gn:id":793895
     },
     "wof:country":"EE",
-    "wof:geomhash":"bfa9631874890bef471e076bb5771b49",
+    "wof:geomhash":"7261d79233017448339883cb1055e00a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326604425,
-    "wof:lastmodified":1566584773,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126918,
     "wof:name":"UElemoisa",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.50972,
-    58.18083000000001,
+    58.18083,
     25.50972,
-    58.18083000000001
+    58.18083
 ],
-  "geometry": {"coordinates":[25.50972,58.18083000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.50972,58.18083],"type":"Point"}
 }

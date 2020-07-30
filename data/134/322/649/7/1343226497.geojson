@@ -45,7 +45,7 @@
         "gn:id":8620121
     },
     "wof:country":"EE",
-    "wof:geomhash":"527f688ae64dadd2fd9ebc4b60dcc826",
+    "wof:geomhash":"c42752e75d613bbe98dc9fcd1aa862cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1343226497,
-    "wof:lastmodified":1566584860,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126931,
     "wof:name":"Masluva",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     27.465,
-    57.80416999999999,
+    57.80417,
     27.465,
-    57.80416999999999
+    57.80417
 ],
-  "geometry": {"coordinates":[27.465,57.80416999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.465,57.80417],"type":"Point"}
 }

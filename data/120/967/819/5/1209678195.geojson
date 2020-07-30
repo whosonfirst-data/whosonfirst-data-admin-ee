@@ -43,7 +43,7 @@
         "gn:id":8620529
     },
     "wof:country":"EE",
-    "wof:geomhash":"256aa78d0736eee79c15b6ae6e05ed3d",
+    "wof:geomhash":"9d4346c447151a4b0cb285edcbfe1f5d",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -51,7 +51,13 @@
         }
     ],
     "wof:id":1209678195,
-    "wof:lastmodified":1566585086,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126965,
     "wof:name":"Sootla",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -62,9 +68,9 @@
 },
   "bbox": [
     26.14944,
-    58.11083000000001,
+    58.11083,
     26.14944,
-    58.11083000000001
+    58.11083
 ],
-  "geometry": {"coordinates":[26.14944,58.11083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.14944,58.11083],"type":"Point"}
 }

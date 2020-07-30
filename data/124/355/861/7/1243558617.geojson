@@ -46,7 +46,7 @@
         "gn:id":8619034
     },
     "wof:country":"EE",
-    "wof:geomhash":"a357e746adfb1ab6a0c2781988358ba5",
+    "wof:geomhash":"b3ae1e1989e1a6af9b4626e81096c654",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243558617,
-    "wof:lastmodified":1566585397,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127016,
     "wof:name":"Ile-Joe",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     24.93926,
-    59.41063000000001,
+    59.41063,
     24.93926,
-    59.41063000000001
+    59.41063
 ],
-  "geometry": {"coordinates":[24.93926,59.41063000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.93926,59.41063],"type":"Point"}
 }

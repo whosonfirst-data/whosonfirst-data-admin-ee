@@ -70,7 +70,7 @@
         "gn:id":8619666
     },
     "wof:country":"EE",
-    "wof:geomhash":"4ed9d514768275514594c78d42b06e58",
+    "wof:geomhash":"6718ceace6b4efe9d1872f3528c1497d",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -78,7 +78,13 @@
         }
     ],
     "wof:id":1209626867,
-    "wof:lastmodified":1566585049,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126959,
     "wof:name":"Kaleva",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -88,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.32444000000001,
+    27.32444,
     59.12472,
-    27.32444000000001,
+    27.32444,
     59.12472
 ],
-  "geometry": {"coordinates":[27.32444000000001,59.12472],"type":"Point"}
+  "geometry": {"coordinates":[27.32444,59.12472],"type":"Point"}
 }

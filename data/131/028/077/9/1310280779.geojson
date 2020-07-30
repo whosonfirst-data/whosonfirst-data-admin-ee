@@ -51,7 +51,7 @@
         "gn:id":590544
     },
     "wof:country":"EE",
-    "wof:geomhash":"3f8c9cb4f22e41364589b27471b640ef",
+    "wof:geomhash":"1142afc62809bae8ee542d9e4ab6a286",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1310280779,
-    "wof:lastmodified":1566585192,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126982,
     "wof:name":"Lombi",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -72,9 +78,9 @@
 },
   "bbox": [
     26.91667,
-    58.43333000000001,
+    58.43333,
     26.91667,
-    58.43333000000001
+    58.43333
 ],
-  "geometry": {"coordinates":[26.91667,58.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.91667,58.43333],"type":"Point"}
 }

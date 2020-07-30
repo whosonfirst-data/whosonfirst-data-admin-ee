@@ -47,7 +47,7 @@
         "wk:page":"Kokre"
     },
     "wof:country":"EE",
-    "wof:geomhash":"60efc8920108488d07af7d5790eb1bdc",
+    "wof:geomhash":"eb9cf9ee2b729eef360e6f8d16c1e7ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1225866343,
-    "wof:lastmodified":1566585547,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127039,
     "wof:name":"Kokre",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     23.88056,
-    58.87833000000001,
+    58.87833,
     23.88056,
-    58.87833000000001
+    58.87833
 ],
-  "geometry": {"coordinates":[23.88056,58.87833000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.88056,58.87833],"type":"Point"}
 }

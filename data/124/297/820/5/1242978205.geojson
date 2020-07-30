@@ -45,7 +45,7 @@
         "gn:id":8619165
     },
     "wof:country":"EE",
-    "wof:geomhash":"dcf23098550f03df3455825512002eee",
+    "wof:geomhash":"0c8dfa408364bf5dc97b2b5b97966317",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1242978205,
-    "wof:lastmodified":1566585453,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127025,
     "wof:name":"Kirbulinna",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     27.34417,
-    59.32333000000001,
+    59.32333,
     27.34417,
-    59.32333000000001
+    59.32333
 ],
-  "geometry": {"coordinates":[27.34417,59.32333000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.34417,59.32333],"type":"Point"}
 }

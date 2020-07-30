@@ -45,7 +45,7 @@
         "gn:id":8620330
     },
     "wof:country":"EE",
-    "wof:geomhash":"aa5ef78a7b43e4495881f5390928aba0",
+    "wof:geomhash":"2749b2b89267eb23c732a4ed8e75ff9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1225919401,
-    "wof:lastmodified":1566585554,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127040,
     "wof:name":"Leesiku",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.24944,
-    58.09028000000001,
+    58.09028,
     26.24944,
-    58.09028000000001
+    58.09028
 ],
-  "geometry": {"coordinates":[26.24944,58.09028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.24944,58.09028],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "gn:id":8619197
     },
     "wof:country":"EE",
-    "wof:geomhash":"c126b0ff99d3a623ce12c48f3c7171f4",
+    "wof:geomhash":"b003a71a2d43495976831e960d2d36d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276628991,
-    "wof:lastmodified":1566585038,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126957,
     "wof:name":"Kanamotsa",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.15056,
-    57.71666999999999,
+    57.71667,
     27.15056,
-    57.71666999999999
+    57.71667
 ],
-  "geometry": {"coordinates":[27.15056,57.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.15056,57.71667],"type":"Point"}
 }

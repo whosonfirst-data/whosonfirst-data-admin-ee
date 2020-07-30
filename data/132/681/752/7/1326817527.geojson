@@ -64,7 +64,7 @@
         "wk:page":"M%C3%B5tsavaara"
     },
     "wof:country":"EE",
-    "wof:geomhash":"e9240f96d964d664632b455256ca7615",
+    "wof:geomhash":"85d1eefb7afa9a39774a7db55d2cb04d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1326817527,
-    "wof:lastmodified":1566584765,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126917,
     "wof:name":"Motsavaara",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     27.33722,
-    58.01278000000001,
+    58.01278,
     27.33722,
-    58.01278000000001
+    58.01278
 ],
-  "geometry": {"coordinates":[27.33722,58.01278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.33722,58.01278],"type":"Point"}
 }

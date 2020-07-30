@@ -42,7 +42,7 @@
         "gn:id":8620290
     },
     "wof:country":"EE",
-    "wof:geomhash":"451e5b843886b6ea77fbfabd123f9ef0",
+    "wof:geomhash":"05bc873a62af89f2a2b72ba087020e40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327409085,
-    "wof:lastmodified":1566584782,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126920,
     "wof:name":"Meiga",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.38139,
-    57.80139000000001,
+    57.80139,
     26.38139,
-    57.80139000000001
+    57.80139
 ],
-  "geometry": {"coordinates":[26.38139,57.80139000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.38139,57.80139],"type":"Point"}
 }

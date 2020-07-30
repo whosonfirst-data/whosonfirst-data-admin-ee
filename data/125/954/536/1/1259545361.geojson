@@ -65,7 +65,7 @@
         "wk:page":"Iia%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"8d67b70c1e6cc18131f7a9aa94301476",
+    "wof:geomhash":"38fea31f1775bb848008408345436b84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1259545361,
-    "wof:lastmodified":1566585468,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127027,
     "wof:name":"Iia",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     25.19,
-    58.33416999999999,
+    58.33417,
     25.19,
-    58.33416999999999
+    58.33417
 ],
-  "geometry": {"coordinates":[25.19,58.33416999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.19,58.33417],"type":"Point"}
 }

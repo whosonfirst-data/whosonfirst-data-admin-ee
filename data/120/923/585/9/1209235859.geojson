@@ -45,7 +45,7 @@
         "gn:id":592637
     },
     "wof:country":"EE",
-    "wof:geomhash":"8d937482c39c49834fcba6dc78903d82",
+    "wof:geomhash":"67e09e560c83af36809f52d81407c01c",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1209235859,
-    "wof:lastmodified":1566585069,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126963,
     "wof:name":"Erenurt",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -64,9 +70,9 @@
 },
   "bbox": [
     23.76667,
-    58.71666999999999,
+    58.71667,
     23.76667,
-    58.71666999999999
+    58.71667
 ],
-  "geometry": {"coordinates":[23.76667,58.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.76667,58.71667],"type":"Point"}
 }

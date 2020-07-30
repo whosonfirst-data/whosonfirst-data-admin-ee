@@ -108,7 +108,7 @@
         "gn:id":8620267
     },
     "wof:country":"EE",
-    "wof:geomhash":"cecf67714cc1df1cf5d1ea46028e9b55",
+    "wof:geomhash":"9ef33f4cf737cd3de7d9d5bf461bff4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +118,13 @@
         }
     ],
     "wof:id":1343236089,
-    "wof:lastmodified":1566584856,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126931,
     "wof:name":"Hansi",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -129,9 +135,9 @@
 },
   "bbox": [
     26.91,
-    57.77778000000001,
+    57.77778,
     26.91,
-    57.77778000000001
+    57.77778
 ],
-  "geometry": {"coordinates":[26.91,57.77778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.91,57.77778],"type":"Point"}
 }

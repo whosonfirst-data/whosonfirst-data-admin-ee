@@ -41,7 +41,7 @@
         "gn:id":8619892
     },
     "wof:country":"EE",
-    "wof:geomhash":"778593ed9e8127b443eacd688ec2d803",
+    "wof:geomhash":"55b9501ae9600bc0d2ba2da29d17db83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +51,13 @@
         }
     ],
     "wof:id":1343360787,
-    "wof:lastmodified":1566584823,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126926,
     "wof:name":"Kannuka",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -62,9 +68,9 @@
 },
   "bbox": [
     27.79556,
-    59.39194000000001,
+    59.39194,
     27.79556,
-    59.39194000000001
+    59.39194
 ],
-  "geometry": {"coordinates":[27.79556,59.39194000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.79556,59.39194],"type":"Point"}
 }

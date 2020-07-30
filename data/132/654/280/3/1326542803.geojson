@@ -75,7 +75,7 @@
         "wk:page":"Aadma"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b3fd9a11939fa1db962e6d2d8c645d0b",
+    "wof:geomhash":"57f645c6606e617107100c920ab001c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1326542803,
-    "wof:lastmodified":1566584813,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126924,
     "wof:name":"Aadma",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -96,9 +102,9 @@
 },
   "bbox": [
     22.66389,
-    58.79833000000001,
+    58.79833,
     22.66389,
-    58.79833000000001
+    58.79833
 ],
-  "geometry": {"coordinates":[22.66389,58.79833000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.66389,58.79833],"type":"Point"}
 }

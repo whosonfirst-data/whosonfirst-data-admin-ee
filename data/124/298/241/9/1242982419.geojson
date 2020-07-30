@@ -61,7 +61,7 @@
         "wk:page":"Sirtsi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b348379ef606e5477a5e43d947682dcf",
+    "wof:geomhash":"8d970f2454aaa4996fb17dd071fd7e7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1242982419,
-    "wof:lastmodified":1566585448,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127024,
     "wof:name":"Sirtsi",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     26.91694,
-    59.27028000000001,
+    59.27028,
     26.91694,
-    59.27028000000001
+    59.27028
 ],
-  "geometry": {"coordinates":[26.91694,59.27028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.91694,59.27028],"type":"Point"}
 }

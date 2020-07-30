@@ -62,7 +62,7 @@
         "wk:page":"Kihme"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c4291412cc97e2fcf978d9ffee9ad0a9",
+    "wof:geomhash":"6d1c174acd9accf5ebdb6b9deafdd1df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,13 @@
         }
     ],
     "wof:id":1276228211,
-    "wof:lastmodified":1566585019,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126954,
     "wof:name":"Kihme",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -82,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.69972000000001,
+    25.69972,
     59.05667,
-    25.69972000000001,
+    25.69972,
     59.05667
 ],
-  "geometry": {"coordinates":[25.69972000000001,59.05667],"type":"Point"}
+  "geometry": {"coordinates":[25.69972,59.05667],"type":"Point"}
 }

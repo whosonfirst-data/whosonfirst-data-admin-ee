@@ -42,7 +42,7 @@
         "gn:id":589210
     },
     "wof:country":"EE",
-    "wof:geomhash":"641324c2d89921fc7db543194d00b584",
+    "wof:geomhash":"8f5ad0821ffd8cc6ee2ab5a7c3ca670f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310391681,
-    "wof:lastmodified":1566585181,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126981,
     "wof:name":"Rabivere-Krimmi",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     24.71639,
-    59.11278000000001,
+    59.11278,
     24.71639,
-    59.11278000000001
+    59.11278
 ],
-  "geometry": {"coordinates":[24.71639,59.11278000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.71639,59.11278],"type":"Point"}
 }

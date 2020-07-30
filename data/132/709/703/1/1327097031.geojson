@@ -60,7 +60,7 @@
         "gn:id":794548
     },
     "wof:country":"EE",
-    "wof:geomhash":"b30dfa27b4fa8c675e721d93a0dbaddb",
+    "wof:geomhash":"13256a3121d22a7863d99ddc1b8e62c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1327097031,
-    "wof:lastmodified":1566584760,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126916,
     "wof:name":"Pringi",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -81,9 +87,9 @@
 },
   "bbox": [
     26.29278,
-    58.00389000000001,
+    58.00389,
     26.29278,
-    58.00389000000001
+    58.00389
 ],
-  "geometry": {"coordinates":[26.29278,58.00389000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.29278,58.00389],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "gn:id":8619581
     },
     "wof:country":"EE",
-    "wof:geomhash":"431b57e210f64176f810b527682bd934",
+    "wof:geomhash":"7a4f1288f483357c4e44c3c020e7fcdc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +64,13 @@
         }
     ],
     "wof:id":1360060599,
-    "wof:lastmodified":1566585220,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126987,
     "wof:name":"Robi",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -74,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.23472000000001,
+    26.23472,
     57.88139,
-    26.23472000000001,
+    26.23472,
     57.88139
 ],
-  "geometry": {"coordinates":[26.23472000000001,57.88139],"type":"Point"}
+  "geometry": {"coordinates":[26.23472,57.88139],"type":"Point"}
 }

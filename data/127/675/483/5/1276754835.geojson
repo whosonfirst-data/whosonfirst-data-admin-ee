@@ -58,7 +58,7 @@
         "wk:page":"V%C3%B5duvere%2C_L%C3%A4%C3%A4ne-Viru_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"65b3e3c8f3a92618684ea31725cd1eff",
+    "wof:geomhash":"a400b60cc2ce689cb145b07ccab7d197",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1276754835,
-    "wof:lastmodified":1566584985,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126949,
     "wof:name":"Voduvere",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     26.10694,
-    59.32471999999999,
+    59.32472,
     26.10694,
-    59.32471999999999
+    59.32472
 ],
-  "geometry": {"coordinates":[26.10694,59.32471999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.10694,59.32472],"type":"Point"}
 }

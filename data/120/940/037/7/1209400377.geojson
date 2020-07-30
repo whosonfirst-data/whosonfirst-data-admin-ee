@@ -44,7 +44,7 @@
         "gn:id":8618387
     },
     "wof:country":"EE",
-    "wof:geomhash":"659c7a26d1c7b2cdc8a314756a28eca4",
+    "wof:geomhash":"ff29d3e6d99c8281cd4bb8dfbe3c2c4e",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209400377,
-    "wof:lastmodified":1566585069,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126963,
     "wof:name":"Kobakuela",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.98472000000001,
-    59.10583000000001,
-    25.98472000000001,
-    59.10583000000001
+    25.98472,
+    59.10583,
+    25.98472,
+    59.10583
 ],
-  "geometry": {"coordinates":[25.98472000000001,59.10583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.98472,59.10583],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"25.1573445,59.4655105,25.1573445,59.4655105",
+    "geom:bbox":"25.157345,59.465511,25.157345,59.465511",
     "geom:latitude":59.465511,
     "geom:longitude":25.157345,
     "gn:country":null,
@@ -77,7 +77,7 @@
     },
     "wof:country":"EE",
     "wof:created":1497292047,
-    "wof:geomhash":"b53afc0e5abbb5128bedda9db46c1560",
+    "wof:geomhash":"7ab90970174e9ad3c9ac2a06416fa237",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +87,13 @@
         }
     ],
     "wof:id":1125820677,
-    "wof:lastmodified":1566585376,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127012,
     "wof:name":"J\u00f5esuu",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -97,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.1573445,
-    59.4655105,
-    25.1573445,
-    59.4655105
+    25.157345,
+    59.465511,
+    25.157345,
+    59.465511
 ],
-  "geometry": {"coordinates":[25.1573445,59.4655105],"type":"Point"}
+  "geometry": {"coordinates":[25.157345,59.465511],"type":"Point"}
 }

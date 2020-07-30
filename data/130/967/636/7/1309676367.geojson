@@ -66,7 +66,7 @@
         "gn:id":8619767
     },
     "wof:country":"EE",
-    "wof:geomhash":"23095f1c7791d1c5ae8617163daba7d3",
+    "wof:geomhash":"ba833254ac3f16c956c11be23159a86f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1309676367,
-    "wof:lastmodified":1566585264,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126995,
     "wof:name":"Peebu",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -87,9 +93,9 @@
 },
   "bbox": [
     26.62444,
-    57.84778000000001,
+    57.84778,
     26.62444,
-    57.84778000000001
+    57.84778
 ],
-  "geometry": {"coordinates":[26.62444,57.84778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.62444,57.84778],"type":"Point"}
 }

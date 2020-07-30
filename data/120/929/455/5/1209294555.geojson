@@ -55,7 +55,7 @@
         "gn:id":8620865
     },
     "wof:country":"EE",
-    "wof:geomhash":"c9fd31760f591b80a02cc155981c6bf3",
+    "wof:geomhash":"f54970472a5d478b09a1940d0430849c",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -63,7 +63,13 @@
         }
     ],
     "wof:id":1209294555,
-    "wof:lastmodified":1566585095,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126966,
     "wof:name":"Reinu",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -74,9 +80,9 @@
 },
   "bbox": [
     26.72361,
-    58.08221999999999,
+    58.08222,
     26.72361,
-    58.08221999999999
+    58.08222
 ],
-  "geometry": {"coordinates":[26.72361,58.08221999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.72361,58.08222],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "gn:id":8620291
     },
     "wof:country":"EE",
-    "wof:geomhash":"f3cb44c3b65b2bad8077897c5636c610",
+    "wof:geomhash":"0ef1298d8500275cef58dba9d96a9ffb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1293176091,
-    "wof:lastmodified":1566584971,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126947,
     "wof:name":"Puusmotsa",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     26.3975,
-    57.79278000000001,
+    57.79278,
     26.3975,
-    57.79278000000001
+    57.79278
 ],
-  "geometry": {"coordinates":[26.3975,57.79278000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.3975,57.79278],"type":"Point"}
 }

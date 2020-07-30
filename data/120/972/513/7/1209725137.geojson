@@ -47,7 +47,7 @@
         "gn:id":588091
     },
     "wof:country":"EE",
-    "wof:geomhash":"61472d35a62adcade7c0bd18fa3388b9",
+    "wof:geomhash":"141a41caa50092351609960419bc7d40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1209725137,
-    "wof:lastmodified":1566585109,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126969,
     "wof:name":"UElevaltkuela",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     24.4,
-    59.38333000000001,
+    59.38333,
     24.4,
-    59.38333000000001
+    59.38333
 ],
-  "geometry": {"coordinates":[24.4,59.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.4,59.38333],"type":"Point"}
 }

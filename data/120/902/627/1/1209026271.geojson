@@ -45,7 +45,7 @@
         "gn:id":589099
     },
     "wof:country":"EE",
-    "wof:geomhash":"9620d94c4a7455526276901151e1ef5f",
+    "wof:geomhash":"84850f363da636934929f9ab30ff4fc2",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1209026271,
-    "wof:lastmodified":1566585092,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126966,
     "wof:name":"Rauakorve",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -63,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.90167000000001,
-    59.25083000000001,
-    25.90167000000001,
-    59.25083000000001
+    25.90167,
+    59.25083,
+    25.90167,
+    59.25083
 ],
-  "geometry": {"coordinates":[25.90167000000001,59.25083000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.90167,59.25083],"type":"Point"}
 }

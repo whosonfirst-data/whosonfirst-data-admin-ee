@@ -61,7 +61,7 @@
         "wk:page":"Hintsiko"
     },
     "wof:country":"EE",
-    "wof:geomhash":"fe93221a528882a95df1d8fde01a6cb1",
+    "wof:geomhash":"c944d78296fee12e01ac6f755a891466",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1344022393,
-    "wof:lastmodified":1566584880,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126934,
     "wof:name":"Hintsiko",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     26.70778,
-    57.59583000000001,
+    57.59583,
     26.70778,
-    57.59583000000001
+    57.59583
 ],
-  "geometry": {"coordinates":[26.70778,57.59583000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.70778,57.59583],"type":"Point"}
 }

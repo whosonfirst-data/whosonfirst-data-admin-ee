@@ -58,7 +58,7 @@
         "wk:page":"Kuklase"
     },
     "wof:country":"EE",
-    "wof:geomhash":"0e2dc7ec2c3b95dbc0e4e60fb9c697ea",
+    "wof:geomhash":"b24d7c7e95dc80f9b7ab09922dfa294d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1343635383,
-    "wof:lastmodified":1566584834,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126927,
     "wof:name":"Kuklase",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     27.09694,
-    57.60583000000001,
+    57.60583,
     27.09694,
-    57.60583000000001
+    57.60583
 ],
-  "geometry": {"coordinates":[27.09694,57.60583000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.09694,57.60583],"type":"Point"}
 }

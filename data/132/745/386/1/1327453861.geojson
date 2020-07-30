@@ -46,7 +46,7 @@
         "gn:id":589198
     },
     "wof:country":"EE",
-    "wof:geomhash":"d9e96e757c66f9a1a8c22d8ee9108d3d",
+    "wof:geomhash":"12e26b3cdff95e595b81b813f47458c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1327453861,
-    "wof:lastmodified":1566584818,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126925,
     "wof:name":"Raegavere",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     25.795,
-    59.22971999999999,
+    59.22972,
     25.795,
-    59.22971999999999
+    59.22972
 ],
-  "geometry": {"coordinates":[25.795,59.22971999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.795,59.22972],"type":"Point"}
 }

@@ -75,7 +75,7 @@
         "wk:page":"Vana-Nurtu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"73915a03b262e330344b40e7bb6795f2",
+    "wof:geomhash":"de4039e86ecbf083e07dc263a7176a64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1343340989,
-    "wof:lastmodified":1566584871,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126933,
     "wof:name":"Vana-Nurtu",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -96,9 +102,9 @@
 },
   "bbox": [
     24.62861,
-    58.80278000000001,
+    58.80278,
     24.62861,
-    58.80278000000001
+    58.80278
 ],
-  "geometry": {"coordinates":[24.62861,58.80278000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.62861,58.80278],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Jaluse"
     },
     "wof:country":"EE",
-    "wof:geomhash":"3b828d731fa80858e3ce1d67836392e7",
+    "wof:geomhash":"7162ac7d351e8c49e8d32ab17a28269f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1326916599,
-    "wof:lastmodified":1566584811,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126924,
     "wof:name":"Jaluse",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -90,9 +96,9 @@
 },
   "bbox": [
     24.96222,
-    59.12028000000001,
+    59.12028,
     24.96222,
-    59.12028000000001
+    59.12028
 ],
-  "geometry": {"coordinates":[24.96222,59.12028000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.96222,59.12028],"type":"Point"}
 }

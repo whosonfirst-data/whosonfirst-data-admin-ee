@@ -61,7 +61,7 @@
         "wk:page":"Soena"
     },
     "wof:country":"EE",
-    "wof:geomhash":"74e6c2f8168e987ae6b1560cca886b4f",
+    "wof:geomhash":"10ba0a808b7fa786f2c26e664029065f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1226219509,
-    "wof:lastmodified":1566585525,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127036,
     "wof:name":"Soena",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     27.39167,
-    57.84444000000001,
+    57.84444,
     27.39167,
-    57.84444000000001
+    57.84444
 ],
-  "geometry": {"coordinates":[27.39167,57.84444000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.39167,57.84444],"type":"Point"}
 }

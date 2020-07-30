@@ -63,7 +63,7 @@
         "gn:id":588386
     },
     "wof:country":"EE",
-    "wof:geomhash":"dd4214cb270d9b9cfdaa355e07165ff1",
+    "wof:geomhash":"f72ca18f7f3ab2f8bc110c8e2ff80359",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1276546195,
-    "wof:lastmodified":1566585041,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126958,
     "wof:name":"Tammiku",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     26.32,
-    58.60778000000001,
+    58.60778,
     26.32,
-    58.60778000000001
+    58.60778
 ],
-  "geometry": {"coordinates":[26.32,58.60778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.32,58.60778],"type":"Point"}
 }

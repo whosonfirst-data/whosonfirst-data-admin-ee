@@ -59,7 +59,7 @@
         "wk:page":"Hulaku"
     },
     "wof:country":"EE",
-    "wof:geomhash":"7e411c1490d97839622e156e6c4913eb",
+    "wof:geomhash":"f26885244cf8cbaaa23dc4a41f7840e3",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1209589601,
-    "wof:lastmodified":1566585088,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126965,
     "wof:name":"Hulaku",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -78,9 +84,9 @@
 },
   "bbox": [
     27.13139,
-    57.63778000000001,
+    57.63778,
     27.13139,
-    57.63778000000001
+    57.63778
 ],
-  "geometry": {"coordinates":[27.13139,57.63778000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.13139,57.63778],"type":"Point"}
 }

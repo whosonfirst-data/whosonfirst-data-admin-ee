@@ -43,7 +43,7 @@
         "gn:id":8620087
     },
     "wof:country":"EE",
-    "wof:geomhash":"641e2873db726684d901dadc029d7e6f",
+    "wof:geomhash":"19f6a63dc9d40ab29373706fa4a84115",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -51,7 +51,13 @@
         }
     ],
     "wof:id":1209693185,
-    "wof:lastmodified":1566585091,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126966,
     "wof:name":"Kolovere",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -61,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.81139000000001,
+    26.81139,
     57.98528,
-    26.81139000000001,
+    26.81139,
     57.98528
 ],
-  "geometry": {"coordinates":[26.81139000000001,57.98528],"type":"Point"}
+  "geometry": {"coordinates":[26.81139,57.98528],"type":"Point"}
 }

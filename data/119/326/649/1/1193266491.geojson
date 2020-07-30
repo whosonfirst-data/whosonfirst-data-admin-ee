@@ -61,7 +61,7 @@
         "wk:page":"Urumarja"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ef549885e371fc001198407c3ea4f20c",
+    "wof:geomhash":"b37a20de0c3394470c47907eb7d0bb84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1193266491,
-    "wof:lastmodified":1566585130,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126973,
     "wof:name":"Urumarja",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     24.74417,
-    58.42916999999999,
+    58.42917,
     24.74417,
-    58.42916999999999
+    58.42917
 ],
-  "geometry": {"coordinates":[24.74417,58.42916999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.74417,58.42917],"type":"Point"}
 }

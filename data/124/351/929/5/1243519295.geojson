@@ -42,7 +42,7 @@
         "gn:id":8620436
     },
     "wof:country":"EE",
-    "wof:geomhash":"2373a2a1e4c02cc4d411542ec2c9f5be",
+    "wof:geomhash":"8cc17c34f47c8cb66631f24c31b1bd7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243519295,
-    "wof:lastmodified":1566585437,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127022,
     "wof:name":"Saarevalla",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.85333,
-    58.28194000000001,
+    58.28194,
     25.85333,
-    58.28194000000001
+    58.28194
 ],
-  "geometry": {"coordinates":[25.85333,58.28194000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.85333,58.28194],"type":"Point"}
 }

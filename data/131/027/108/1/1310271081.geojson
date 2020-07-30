@@ -47,7 +47,7 @@
         "gn:id":592193
     },
     "wof:country":"EE",
-    "wof:geomhash":"193ae9e7ab4d1439ccab4cebd67e5fb7",
+    "wof:geomhash":"592e34dea0387f4d7cc2f8aed11113d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1310271081,
-    "wof:lastmodified":1566585187,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126981,
     "wof:name":"Hammaste",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     27.00639,
-    58.28471999999999,
+    58.28472,
     27.00639,
-    58.28471999999999
+    58.28472
 ],
-  "geometry": {"coordinates":[27.00639,58.28471999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.00639,58.28472],"type":"Point"}
 }

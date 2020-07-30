@@ -53,7 +53,7 @@
         "gn:id":589361
     },
     "wof:country":"EE",
-    "wof:geomhash":"1169fcf9c58b838985326b53d78d2701",
+    "wof:geomhash":"6c4fee7ba9808d484a3d0570411ca48d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +63,13 @@
         }
     ],
     "wof:id":1326792385,
-    "wof:lastmodified":1566584799,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126922,
     "wof:name":"Porga",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -74,9 +80,9 @@
 },
   "bbox": [
     25.815,
-    58.12278000000001,
+    58.12278,
     25.815,
-    58.12278000000001
+    58.12278
 ],
-  "geometry": {"coordinates":[25.815,58.12278000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.815,58.12278],"type":"Point"}
 }

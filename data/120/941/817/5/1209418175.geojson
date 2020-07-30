@@ -66,7 +66,7 @@
         "wk:page":"Kaleste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"4d39046e7dfea613191637aeddc00ad9",
+    "wof:geomhash":"f2a0f793b7525fbf822b469fd822d486",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1209418175,
-    "wof:lastmodified":1566585067,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126962,
     "wof:name":"Kaleste",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     22.13228,
-    58.91314000000001,
+    58.91314,
     22.13228,
-    58.91314000000001
+    58.91314
 ],
-  "geometry": {"coordinates":[22.13228,58.91314000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.13228,58.91314],"type":"Point"}
 }

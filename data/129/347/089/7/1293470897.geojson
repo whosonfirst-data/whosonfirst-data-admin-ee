@@ -65,7 +65,7 @@
         "wk:page":"Sook%C3%BCla%2C_P%C3%A4rnu_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"aa56d510760814254d960e2aa1caa1d4",
+    "wof:geomhash":"6e5f1e027b3c74058c3e73e870cb1947",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1293470897,
-    "wof:lastmodified":1566584940,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126942,
     "wof:name":"Sookuela",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     24.57361,
-    58.12083000000001,
+    58.12083,
     24.57361,
-    58.12083000000001
+    58.12083
 ],
-  "geometry": {"coordinates":[24.57361,58.12083000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.57361,58.12083],"type":"Point"}
 }

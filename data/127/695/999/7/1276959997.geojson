@@ -46,7 +46,7 @@
         "gn:id":588613
     },
     "wof:country":"EE",
-    "wof:geomhash":"373116b5f1e4edffc1c1b595e90f50c7",
+    "wof:geomhash":"cb5f38216d9e0428c403ae5335ee6f72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1276959997,
-    "wof:lastmodified":1566585007,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126953,
     "wof:name":"Sookuela",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.61667000000001,
+    24.61667,
     58.51667,
-    24.61667000000001,
+    24.61667,
     58.51667
 ],
-  "geometry": {"coordinates":[24.61667000000001,58.51667],"type":"Point"}
+  "geometry": {"coordinates":[24.61667,58.51667],"type":"Point"}
 }

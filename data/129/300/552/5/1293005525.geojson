@@ -64,7 +64,7 @@
         "wk:page":"Kaiavere%2C_Tabivere_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"7b02a97ddd0bda9a5f87718a9ca6c8d0",
+    "wof:geomhash":"2139fc7f2469ee7dce77e3769e906ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1293005525,
-    "wof:lastmodified":1566584913,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126938,
     "wof:name":"Kaiavere",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.68917,
-    58.58694000000001,
+    58.58694,
     26.68917,
-    58.58694000000001
+    58.58694
 ],
-  "geometry": {"coordinates":[26.68917,58.58694000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.68917,58.58694],"type":"Point"}
 }

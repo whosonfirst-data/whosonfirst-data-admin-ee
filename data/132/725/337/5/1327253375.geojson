@@ -66,7 +66,7 @@
         "gn:id":8618899
     },
     "wof:country":"EE",
-    "wof:geomhash":"839b62a420aa0e34b6cbb93b52a22a0f",
+    "wof:geomhash":"2f0483c8e84a144e7e5ac5fc51118f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1327253375,
-    "wof:lastmodified":1566584780,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126919,
     "wof:name":"Sirgu",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -87,9 +93,9 @@
 },
   "bbox": [
     26.14389,
-    59.36083000000001,
+    59.36083,
     26.14389,
-    59.36083000000001
+    59.36083
 ],
-  "geometry": {"coordinates":[26.14389,59.36083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.14389,59.36083],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "gn:id":588900
     },
     "wof:country":"EE",
-    "wof:geomhash":"3dd8616e429e92e6c6196d196ee3777a",
+    "wof:geomhash":"d41818ec0aa7489b890eb7d16792d5ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1326495031,
-    "wof:lastmodified":1566584794,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126922,
     "wof:name":"Saapakuela",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     25.28528,
-    58.16721999999999,
+    58.16722,
     25.28528,
-    58.16721999999999
+    58.16722
 ],
-  "geometry": {"coordinates":[25.28528,58.16721999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.28528,58.16722],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Naartse"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c931559252c2db118b657d3b112fc090",
+    "wof:geomhash":"a0da264e2a1a0d6bc250e8b05e3c1cb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1343449039,
-    "wof:lastmodified":1566584893,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126937,
     "wof:name":"Naartse",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     24.25944,
-    58.62416999999999,
+    58.62417,
     24.25944,
-    58.62416999999999
+    58.62417
 ],
-  "geometry": {"coordinates":[24.25944,58.62416999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.25944,58.62417],"type":"Point"}
 }

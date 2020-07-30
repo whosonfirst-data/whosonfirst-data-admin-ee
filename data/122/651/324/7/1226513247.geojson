@@ -68,7 +68,7 @@
         "wk:page":"Soela"
     },
     "wof:country":"EE",
-    "wof:geomhash":"a304fed145bf336bdd79e1fb39d21698",
+    "wof:geomhash":"fba44ad6370dfc41e4317396b7a70657",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +78,13 @@
         }
     ],
     "wof:id":1226513247,
-    "wof:lastmodified":1566585540,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127038,
     "wof:name":"Soela",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -89,9 +95,9 @@
 },
   "bbox": [
     22.59472,
-    58.61221999999999,
+    58.61222,
     22.59472,
-    58.61221999999999
+    58.61222
 ],
-  "geometry": {"coordinates":[22.59472,58.61221999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.59472,58.61222],"type":"Point"}
 }

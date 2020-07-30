@@ -58,7 +58,7 @@
         "wk:page":"Kanamardi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"e053a2a282d31a977d3022c459cc1c15",
+    "wof:geomhash":"668298bf0f779e02fd57183cf8b24820",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1309987361,
-    "wof:lastmodified":1566585250,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126993,
     "wof:name":"Kanamardi",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     23.93333,
-    58.46666999999999,
+    58.46667,
     23.93333,
-    58.46666999999999
+    58.46667
 ],
-  "geometry": {"coordinates":[23.93333,58.46666999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.93333,58.46667],"type":"Point"}
 }

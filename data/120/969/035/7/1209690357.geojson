@@ -44,7 +44,7 @@
         "gn:id":589564
     },
     "wof:country":"EE",
-    "wof:geomhash":"7900609285d50bf7fa4202080a0ece38",
+    "wof:geomhash":"a637b7e873bd042149528960c3d8d392",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209690357,
-    "wof:lastmodified":1566585091,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126966,
     "wof:name":"Paessaste",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.2,
-    58.11666999999999,
+    58.11667,
     25.2,
-    58.11666999999999
+    58.11667
 ],
-  "geometry": {"coordinates":[25.2,58.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.2,58.11667],"type":"Point"}
 }

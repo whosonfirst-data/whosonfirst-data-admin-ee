@@ -67,7 +67,7 @@
         "wk:page":"Kursi%2C_Harju_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"4cf4421ab296213209250b008ac97446",
+    "wof:geomhash":"6ca5e0175098e7224f4b293b733fc521",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1226456243,
-    "wof:lastmodified":1566585528,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127036,
     "wof:name":"Kursi",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -88,9 +94,9 @@
 },
   "bbox": [
     25.5125,
-    59.43333000000001,
+    59.43333,
     25.5125,
-    59.43333000000001
+    59.43333
 ],
-  "geometry": {"coordinates":[25.5125,59.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.5125,59.43333],"type":"Point"}
 }

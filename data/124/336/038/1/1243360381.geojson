@@ -56,7 +56,7 @@
         "wk:page":"Pada-Aruk%C3%BCla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c7fce7b066e69c0e521c8b39b8116266",
+    "wof:geomhash":"56c6b40bda19abce2e991e849d4801c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +66,13 @@
         }
     ],
     "wof:id":1243360381,
-    "wof:lastmodified":1566585390,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127015,
     "wof:name":"Pada-Arukuela",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -77,9 +83,9 @@
 },
   "bbox": [
     26.76639,
-    59.43333000000001,
+    59.43333,
     26.76639,
-    59.43333000000001
+    59.43333
 ],
-  "geometry": {"coordinates":[26.76639,59.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.76639,59.43333],"type":"Point"}
 }

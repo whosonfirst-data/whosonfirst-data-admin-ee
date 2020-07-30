@@ -70,7 +70,7 @@
         "wk:page":"Linnakse"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c538737b02eea8a360294ab0a2f3ef98",
+    "wof:geomhash":"8f9044fe23ce049ef6290ed741d817bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1327148599,
-    "wof:lastmodified":1566584782,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126919,
     "wof:name":"Linnakse",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -91,9 +97,9 @@
 },
   "bbox": [
     25.18194,
-    59.34583000000001,
+    59.34583,
     25.18194,
-    59.34583000000001
+    59.34583
 ],
-  "geometry": {"coordinates":[25.18194,59.34583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.18194,59.34583],"type":"Point"}
 }

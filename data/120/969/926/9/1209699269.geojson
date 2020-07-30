@@ -47,7 +47,7 @@
         "gn:id":591666
     },
     "wof:country":"EE",
-    "wof:geomhash":"d6320cdf9252b9ee16fa422e7f9a53ee",
+    "wof:geomhash":"ce77ce62be9b23615efc10402546a9e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1209699269,
-    "wof:lastmodified":1566585091,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126966,
     "wof:name":"Kangruselja",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     22.80667,
-    58.35583000000001,
+    58.35583,
     22.80667,
-    58.35583000000001
+    58.35583
 ],
-  "geometry": {"coordinates":[22.80667,58.35583000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.80667,58.35583],"type":"Point"}
 }

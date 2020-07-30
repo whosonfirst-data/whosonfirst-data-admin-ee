@@ -74,7 +74,7 @@
         "wk:page":"Vaila%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"164a3a020ab4997858b5455405eb2533",
+    "wof:geomhash":"ddee037a802c4d7677ce54b4968e9ffd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +84,13 @@
         }
     ],
     "wof:id":1327351523,
-    "wof:lastmodified":1566584792,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126921,
     "wof:name":"Vaila",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -94,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.36667000000001,
+    24.36667,
     59.39639,
-    24.36667000000001,
+    24.36667,
     59.39639
 ],
-  "geometry": {"coordinates":[24.36667000000001,59.39639],"type":"Point"}
+  "geometry": {"coordinates":[24.36667,59.39639],"type":"Point"}
 }

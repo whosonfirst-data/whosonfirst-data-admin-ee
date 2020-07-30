@@ -46,7 +46,7 @@
         "gn:id":591022
     },
     "wof:country":"EE",
-    "wof:geomhash":"bf40ddbf4d0743e25c30cf707d8015d2",
+    "wof:geomhash":"a72f0e5f39dd1987af8943c43e291e43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1209936255,
-    "wof:lastmodified":1566585086,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126965,
     "wof:name":"Kuivakaare",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     25.96667,
-    59.11666999999999,
+    59.11667,
     25.96667,
-    59.11666999999999
+    59.11667
 ],
-  "geometry": {"coordinates":[25.96667,59.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.96667,59.11667],"type":"Point"}
 }

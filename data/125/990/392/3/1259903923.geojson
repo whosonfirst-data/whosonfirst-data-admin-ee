@@ -84,7 +84,7 @@
         "gn:id":589833
     },
     "wof:country":"EE",
-    "wof:geomhash":"8bddb49f56212e21c8043c43eef285f0",
+    "wof:geomhash":"c4930d95d5d7c1b991affcc9be9a0e13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +94,13 @@
         }
     ],
     "wof:id":1259903923,
-    "wof:lastmodified":1566585473,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127028,
     "wof:name":"Olustvere",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -105,9 +111,9 @@
 },
   "bbox": [
     25.56667,
-    58.71666999999999,
+    58.71667,
     25.56667,
-    58.71666999999999
+    58.71667
 ],
-  "geometry": {"coordinates":[25.56667,58.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.56667,58.71667],"type":"Point"}
 }

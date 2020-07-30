@@ -65,7 +65,7 @@
         "wk:page":"M%C3%B5isaaseme"
     },
     "wof:country":"EE",
-    "wof:geomhash":"8c1bf0ad63e53e6652946d0740950676",
+    "wof:geomhash":"47ef8b96cc973dc87ee82370070933e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1343637867,
-    "wof:lastmodified":1566584835,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126928,
     "wof:name":"Moisaaseme",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     24.76583,
-    59.05833000000001,
+    59.05833,
     24.76583,
-    59.05833000000001
+    59.05833
 ],
-  "geometry": {"coordinates":[24.76583,59.05833000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.76583,59.05833],"type":"Point"}
 }

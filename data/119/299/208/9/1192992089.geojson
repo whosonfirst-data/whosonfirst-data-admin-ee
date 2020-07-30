@@ -65,7 +65,7 @@
         "wk:page":"M%C3%B5ega"
     },
     "wof:country":"EE",
-    "wof:geomhash":"2ec8da1ea175c4a990294263ee08d6d5",
+    "wof:geomhash":"061856025523b8ac36fd3ec3fdb4c2bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1192992089,
-    "wof:lastmodified":1566585125,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126971,
     "wof:name":"Moega",
     "wof:parent_id":85682951,
     "wof:placetype":"locality",
@@ -85,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.32472000000001,
+    23.32472,
     58.59472,
-    23.32472000000001,
+    23.32472,
     58.59472
 ],
-  "geometry": {"coordinates":[23.32472000000001,58.59472],"type":"Point"}
+  "geometry": {"coordinates":[23.32472,58.59472],"type":"Point"}
 }

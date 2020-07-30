@@ -83,7 +83,7 @@
         "gn:id":591824
     },
     "wof:country":"EE",
-    "wof:geomhash":"266f2773a429f3075838361cad23997c",
+    "wof:geomhash":"5db0c5229a99ad457226a822cdc89a27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +93,13 @@
         }
     ],
     "wof:id":1259459259,
-    "wof:lastmodified":1566585507,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127034,
     "wof:name":"Kabala",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -104,9 +110,9 @@
 },
   "bbox": [
     24.65,
-    58.93333000000001,
+    58.93333,
     24.65,
-    58.93333000000001
+    58.93333
 ],
-  "geometry": {"coordinates":[24.65,58.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.65,58.93333],"type":"Point"}
 }

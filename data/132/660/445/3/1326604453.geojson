@@ -57,7 +57,7 @@
         "gn:id":589013
     },
     "wof:country":"EE",
-    "wof:geomhash":"962dca00db83826bd8d7f3c32ea16f95",
+    "wof:geomhash":"d4bb3cf44d39673bed8005c6f22b961e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1326604453,
-    "wof:lastmodified":1566584773,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126918,
     "wof:name":"Risti",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -78,9 +84,9 @@
 },
   "bbox": [
     25.4375,
-    58.16583000000001,
+    58.16583,
     25.4375,
-    58.16583000000001
+    58.16583
 ],
-  "geometry": {"coordinates":[25.4375,58.16583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.4375,58.16583],"type":"Point"}
 }

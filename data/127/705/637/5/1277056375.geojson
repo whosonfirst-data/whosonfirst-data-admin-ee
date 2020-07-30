@@ -52,7 +52,7 @@
         "wk:page":"Popsik%C3%BCla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1f39e09b29d5967187cae489502e1e42",
+    "wof:geomhash":"47cae3735f19650bf38206187a9af07f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +62,13 @@
         }
     ],
     "wof:id":1277056375,
-    "wof:lastmodified":1566585015,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126954,
     "wof:name":"Popsikuela",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -73,9 +79,9 @@
 },
   "bbox": [
     26.93944,
-    58.15083000000001,
+    58.15083,
     26.93944,
-    58.15083000000001
+    58.15083
 ],
-  "geometry": {"coordinates":[26.93944,58.15083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.93944,58.15083],"type":"Point"}
 }

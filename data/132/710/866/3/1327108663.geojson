@@ -77,7 +77,7 @@
         "gn:id":589790
     },
     "wof:country":"EE",
-    "wof:geomhash":"74a92ca4089ceb6877877cd4f6d4c287",
+    "wof:geomhash":"d26b5d631b0e0b1ab103a2d01a737636",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +87,13 @@
         }
     ],
     "wof:id":1327108663,
-    "wof:lastmodified":1566584817,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126925,
     "wof:name":"Oru",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -98,9 +104,9 @@
 },
   "bbox": [
     26.95,
-    57.68333000000001,
+    57.68333,
     26.95,
-    57.68333000000001
+    57.68333
 ],
-  "geometry": {"coordinates":[26.95,57.68333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.95,57.68333],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "gn:id":588927
     },
     "wof:country":"EE",
-    "wof:geomhash":"782b07b2a673944b06698d716eadbe1e",
+    "wof:geomhash":"f3a14f119feaa113d431bd832035a363",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1226667433,
-    "wof:lastmodified":1566585545,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127039,
     "wof:name":"Rumba",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     24.14778,
-    58.73778000000001,
+    58.73778,
     24.14778,
-    58.73778000000001
+    58.73778
 ],
-  "geometry": {"coordinates":[24.14778,58.73778000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.14778,58.73778],"type":"Point"}
 }

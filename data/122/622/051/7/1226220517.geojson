@@ -76,7 +76,7 @@
         "gn:id":588723
     },
     "wof:country":"EE",
-    "wof:geomhash":"4920ba261fd4b71373c8970a1fde92ee",
+    "wof:geomhash":"59604fd0b5975a74346c6a7b5f67c60b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +86,13 @@
         }
     ],
     "wof:id":1226220517,
-    "wof:lastmodified":1566585557,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127041,
     "wof:name":"Selja",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -97,9 +103,9 @@
 },
   "bbox": [
     24.55,
-    58.43333000000001,
+    58.43333,
     24.55,
-    58.43333000000001
+    58.43333
 ],
-  "geometry": {"coordinates":[24.55,58.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.55,58.43333],"type":"Point"}
 }

@@ -109,7 +109,7 @@
         "gn:id":591324
     },
     "wof:country":"EE",
-    "wof:geomhash":"e351f8324d5bf975160c1e5015f19df5",
+    "wof:geomhash":"5e386166a01a04a9715af65b58489a76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,7 +119,13 @@
         }
     ],
     "wof:id":1259757669,
-    "wof:lastmodified":1566585510,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127034,
     "wof:name":"Kivi",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -130,9 +136,9 @@
 },
   "bbox": [
     25.81667,
-    58.38333000000001,
+    58.38333,
     25.81667,
-    58.38333000000001
+    58.38333
 ],
-  "geometry": {"coordinates":[25.81667,58.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.81667,58.38333],"type":"Point"}
 }

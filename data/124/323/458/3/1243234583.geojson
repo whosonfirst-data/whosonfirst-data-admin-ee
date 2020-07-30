@@ -49,7 +49,7 @@
         "wk:page":"Simisti"
     },
     "wof:country":"EE",
-    "wof:geomhash":"56e53b48be17a084b729b231c0b3b730",
+    "wof:geomhash":"e5ad1644d51086ae907851bf0b4db772",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +59,13 @@
         }
     ],
     "wof:id":1243234583,
-    "wof:lastmodified":1566585422,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127020,
     "wof:name":"Simisti",
     "wof:parent_id":85682951,
     "wof:placetype":"locality",
@@ -70,9 +76,9 @@
 },
   "bbox": [
     23.31722,
-    58.55416999999999,
+    58.55417,
     23.31722,
-    58.55416999999999
+    58.55417
 ],
-  "geometry": {"coordinates":[23.31722,58.55416999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.31722,58.55417],"type":"Point"}
 }

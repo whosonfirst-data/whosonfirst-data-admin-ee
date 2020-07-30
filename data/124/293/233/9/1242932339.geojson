@@ -45,7 +45,7 @@
         "gn:id":8618725
     },
     "wof:country":"EE",
-    "wof:geomhash":"674f83ed2a473b1df36560916610aa6f",
+    "wof:geomhash":"c4626ef9cdf31a8f535da75e9842f536",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1242932339,
-    "wof:lastmodified":1566585412,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127019,
     "wof:name":"Laisi",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     27.11,
-    57.57528000000001,
+    57.57528,
     27.11,
-    57.57528000000001
+    57.57528
 ],
-  "geometry": {"coordinates":[27.11,57.57528000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.11,57.57528],"type":"Point"}
 }

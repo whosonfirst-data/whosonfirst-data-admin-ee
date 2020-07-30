@@ -75,7 +75,7 @@
         "gn:id":588037
     },
     "wof:country":"EE",
-    "wof:geomhash":"e4772f748321aaf1564cbb437fdd8d5e",
+    "wof:geomhash":"0622a9bf169a8aef2fdc5a3a3b0fc67c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1310083951,
-    "wof:lastmodified":1566585178,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126980,
     "wof:name":"Uru",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -95,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.73472000000001,
+    24.73472,
     58.55056,
-    24.73472000000001,
+    24.73472,
     58.55056
 ],
-  "geometry": {"coordinates":[24.73472000000001,58.55056],"type":"Point"}
+  "geometry": {"coordinates":[24.73472,58.55056],"type":"Point"}
 }

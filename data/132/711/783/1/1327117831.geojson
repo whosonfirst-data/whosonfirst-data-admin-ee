@@ -65,7 +65,7 @@
         "wk:page":"Viira%2C_Muhu_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"df3ac93e364b8c9c1b751a46ce90f742",
+    "wof:geomhash":"7ddd43dc361142e87d0fa1c9d7e652f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1327117831,
-    "wof:lastmodified":1566584819,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126925,
     "wof:name":"Viira",
     "wof:parent_id":85682951,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     23.21944,
-    58.60333000000001,
+    58.60333,
     23.21944,
-    58.60333000000001
+    58.60333
 ],
-  "geometry": {"coordinates":[23.21944,58.60333000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.21944,58.60333],"type":"Point"}
 }

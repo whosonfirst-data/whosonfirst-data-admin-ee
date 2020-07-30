@@ -45,7 +45,7 @@
         "gn:id":8619735
     },
     "wof:country":"EE",
-    "wof:geomhash":"bfdde2824a06d0d5a3819056746a3cfa",
+    "wof:geomhash":"6b82e14edcc00e41f2653e9221247d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1293848301,
-    "wof:lastmodified":1566584933,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126941,
     "wof:name":"Kaudsi",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.58167000000001,
+    26.58167,
     57.70222,
-    26.58167000000001,
+    26.58167,
     57.70222
 ],
-  "geometry": {"coordinates":[26.58167000000001,57.70222],"type":"Point"}
+  "geometry": {"coordinates":[26.58167,57.70222],"type":"Point"}
 }

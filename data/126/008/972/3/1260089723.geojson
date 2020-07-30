@@ -60,7 +60,7 @@
         "gn:id":589428
     },
     "wof:country":"EE",
-    "wof:geomhash":"dc198b88a513075c14bc1971673cf3fb",
+    "wof:geomhash":"e60903a421314e299e7048e324f8b275",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1260089723,
-    "wof:lastmodified":1566585142,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126975,
     "wof:name":"Pirga",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -81,9 +87,9 @@
 },
   "bbox": [
     25.38417,
-    59.37278000000001,
+    59.37278,
     25.38417,
-    59.37278000000001
+    59.37278
 ],
-  "geometry": {"coordinates":[25.38417,59.37278000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.38417,59.37278],"type":"Point"}
 }

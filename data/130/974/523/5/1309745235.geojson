@@ -64,7 +64,7 @@
         "wk:page":"Vetepere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c5b55af99f29a94f9a01416953c61b37",
+    "wof:geomhash":"3e8d380f16f66e3b22923f0f938cdc1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1309745235,
-    "wof:lastmodified":1566585267,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126995,
     "wof:name":"Vetepere",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     25.62333,
-    59.13166999999999,
+    59.13167,
     25.62333,
-    59.13166999999999
+    59.13167
 ],
-  "geometry": {"coordinates":[25.62333,59.13166999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.62333,59.13167],"type":"Point"}
 }

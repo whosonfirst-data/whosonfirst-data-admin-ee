@@ -64,7 +64,7 @@
         "wk:page":"M%C3%A4ek%C3%BCla%2C_Suure-Jaani_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"4e7d563173e79f5d48f57eeb057c0337",
+    "wof:geomhash":"b895ca31adc7d8b5b8f706547df333be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1343435399,
-    "wof:lastmodified":1566584894,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126937,
     "wof:name":"Maeekuela",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     25.61556,
-    58.49528000000001,
+    58.49528,
     25.61556,
-    58.49528000000001
+    58.49528
 ],
-  "geometry": {"coordinates":[25.61556,58.49528000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.61556,58.49528],"type":"Point"}
 }

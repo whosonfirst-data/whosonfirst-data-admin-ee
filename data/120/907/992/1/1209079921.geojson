@@ -41,7 +41,7 @@
         "wk:page":"Randvere%2C_Laimjala_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"a2e76731782e4ae0119bce364e86a733",
+    "wof:geomhash":"f2f15f59366a4244eb7745c8d105c833",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -49,7 +49,13 @@
         }
     ],
     "wof:id":1209079921,
-    "wof:lastmodified":1566585046,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126959,
     "wof:name":"Randvere",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -60,9 +66,9 @@
 },
   "bbox": [
     23.01667,
-    58.38333000000001,
+    58.38333,
     23.01667,
-    58.38333000000001
+    58.38333
 ],
-  "geometry": {"coordinates":[23.01667,58.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.01667,58.38333],"type":"Point"}
 }

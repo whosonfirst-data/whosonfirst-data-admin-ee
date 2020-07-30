@@ -48,7 +48,7 @@
         "gn:id":589424
     },
     "wof:country":"EE",
-    "wof:geomhash":"0d75493af4a8ce5c2f6f2b259ae1c923",
+    "wof:geomhash":"6a696800b76ab3687b1dd2ffd43f7563",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1293651043,
-    "wof:lastmodified":1566584917,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126938,
     "wof:name":"Pirmastu",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     25.68389,
-    58.30583000000001,
+    58.30583,
     25.68389,
-    58.30583000000001
+    58.30583
 ],
-  "geometry": {"coordinates":[25.68389,58.30583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.68389,58.30583],"type":"Point"}
 }

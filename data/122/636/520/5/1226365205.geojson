@@ -42,7 +42,7 @@
         "gn:id":8618064
     },
     "wof:country":"EE",
-    "wof:geomhash":"42729e71e7cb88c13b4bb16b828c370e",
+    "wof:geomhash":"7600b96116ce899b88be027a98c7f788",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226365205,
-    "wof:lastmodified":1566585583,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127045,
     "wof:name":"Vestli",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.57389,
-    58.56916999999999,
+    58.56917,
     26.57389,
-    58.56916999999999
+    58.56917
 ],
-  "geometry": {"coordinates":[26.57389,58.56916999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.57389,58.56917],"type":"Point"}
 }

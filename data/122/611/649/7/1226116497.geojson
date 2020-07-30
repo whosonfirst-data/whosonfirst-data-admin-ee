@@ -47,7 +47,7 @@
         "gn:id":591213
     },
     "wof:country":"EE",
-    "wof:geomhash":"6c4b162f1c764810e09dd2b37cbb80ca",
+    "wof:geomhash":"e87e23cfea52520c95fa682c58cff173",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1226116497,
-    "wof:lastmodified":1566585534,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127037,
     "wof:name":"Kolbi",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     26.51083,
-    57.88028000000001,
+    57.88028,
     26.51083,
-    57.88028000000001
+    57.88028
 ],
-  "geometry": {"coordinates":[26.51083,57.88028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.51083,57.88028],"type":"Point"}
 }

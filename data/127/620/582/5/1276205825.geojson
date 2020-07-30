@@ -64,7 +64,7 @@
         "wk:page":"Lestima"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b02a896288388568f473c000cfe4508b",
+    "wof:geomhash":"35c269542fc5e4db3a2a34e762231edd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1276205825,
-    "wof:lastmodified":1566584997,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126951,
     "wof:name":"Lestima",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     24.47611,
-    59.05416999999999,
+    59.05417,
     24.47611,
-    59.05416999999999
+    59.05417
 ],
-  "geometry": {"coordinates":[24.47611,59.05416999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.47611,59.05417],"type":"Point"}
 }

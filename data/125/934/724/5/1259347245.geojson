@@ -52,7 +52,7 @@
         "gn:id":8619371
     },
     "wof:country":"EE",
-    "wof:geomhash":"9a882940f58e04c9125066c27c8e6f5f",
+    "wof:geomhash":"74ee102b7daf657bc8e2c152ae255edd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +62,13 @@
         }
     ],
     "wof:id":1259347245,
-    "wof:lastmodified":1566585501,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127033,
     "wof:name":"Pundo",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -73,9 +79,9 @@
 },
   "bbox": [
     26.50389,
-    57.91889000000001,
+    57.91889,
     26.50389,
-    57.91889000000001
+    57.91889
 ],
-  "geometry": {"coordinates":[26.50389,57.91889000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.50389,57.91889],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "gn:id":794639
     },
     "wof:country":"EE",
-    "wof:geomhash":"b5454780dc21160b97099563ed5a3810",
+    "wof:geomhash":"4138924da8102a28cc19c42a7be31121",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276985379,
-    "wof:lastmodified":1566585039,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126958,
     "wof:name":"Torve",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.38278,
-    58.61528000000001,
+    58.61528,
     26.38278,
-    58.61528000000001
+    58.61528
 ],
-  "geometry": {"coordinates":[26.38278,58.61528000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.38278,58.61528],"type":"Point"}
 }

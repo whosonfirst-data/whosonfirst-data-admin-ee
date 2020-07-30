@@ -43,7 +43,7 @@
         "wk:page":"Eametsa%2C_Halinga_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"de38b368bd0b31120539f3db6d4accf5",
+    "wof:geomhash":"daec88bbeb2fc78d6f863dcfb5388bd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1243535671,
-    "wof:lastmodified":1566585392,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127015,
     "wof:name":"Eametsa",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -64,9 +70,9 @@
 },
   "bbox": [
     24.65861,
-    58.62083000000001,
+    58.62083,
     24.65861,
-    58.62083000000001
+    58.62083
 ],
-  "geometry": {"coordinates":[24.65861,58.62083000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.65861,58.62083],"type":"Point"}
 }

@@ -40,7 +40,7 @@
         "gn:id":591497
     },
     "wof:country":"EE",
-    "wof:geomhash":"e94d074f65b0686bbf6596b833b851e5",
+    "wof:geomhash":"6ebb9158fe8d3a62a25767f2d2d1ed6e",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -48,7 +48,13 @@
         }
     ],
     "wof:id":1209082639,
-    "wof:lastmodified":1566585056,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126960,
     "wof:name":"Kauri",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -59,9 +65,9 @@
 },
   "bbox": [
     24.38333,
-    58.88333000000001,
+    58.88333,
     24.38333,
-    58.88333000000001
+    58.88333
 ],
-  "geometry": {"coordinates":[24.38333,58.88333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.38333,58.88333],"type":"Point"}
 }

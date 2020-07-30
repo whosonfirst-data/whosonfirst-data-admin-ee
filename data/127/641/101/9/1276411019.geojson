@@ -48,7 +48,7 @@
         "wk:page":"M%C3%B5isak%C3%BCla%2C_Torgu_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b6c3b8a2d142527beb2e788cf9cdab7c",
+    "wof:geomhash":"42fcfed0376d33823bf61db93d50ded2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1276411019,
-    "wof:lastmodified":1566585025,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126956,
     "wof:name":"Moisakuela",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     22.08389,
-    57.98889000000001,
+    57.98889,
     22.08389,
-    57.98889000000001
+    57.98889
 ],
-  "geometry": {"coordinates":[22.08389,57.98889000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.08389,57.98889],"type":"Point"}
 }

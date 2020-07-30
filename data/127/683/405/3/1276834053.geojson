@@ -72,7 +72,7 @@
         "gn:id":8620173
     },
     "wof:country":"EE",
-    "wof:geomhash":"57754452a056e50a402ef465c8b341f9",
+    "wof:geomhash":"2f78483ffca4f940356a2ed784c5e59d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +82,13 @@
         }
     ],
     "wof:id":1276834053,
-    "wof:lastmodified":1566585030,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126956,
     "wof:name":"Lalli",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -93,9 +99,9 @@
 },
   "bbox": [
     27.25,
-    57.73778000000001,
+    57.73778,
     27.25,
-    57.73778000000001
+    57.73778
 ],
-  "geometry": {"coordinates":[27.25,57.73778000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.25,57.73778],"type":"Point"}
 }

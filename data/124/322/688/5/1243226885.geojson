@@ -68,7 +68,7 @@
         "wk:page":"Nasja"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c0c2cb50a301d99c0ab8edc620864f8e",
+    "wof:geomhash":"62adee8916592f7c5a6c16154f4bc43f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +78,13 @@
         }
     ],
     "wof:id":1243226885,
-    "wof:lastmodified":1566585428,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127021,
     "wof:name":"Nasja",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -88,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.32444000000001,
+    26.32444,
     58.37361,
-    26.32444000000001,
+    26.32444,
     58.37361
 ],
-  "geometry": {"coordinates":[26.32444000000001,58.37361],"type":"Point"}
+  "geometry": {"coordinates":[26.32444,58.37361],"type":"Point"}
 }

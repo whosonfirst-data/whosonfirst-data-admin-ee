@@ -47,7 +47,7 @@
         "gn:id":591075
     },
     "wof:country":"EE",
-    "wof:geomhash":"72d46f784f4309e475405e8c63500f64",
+    "wof:geomhash":"5f7f35d0b356413514f14a64de7b84b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1226360207,
-    "wof:lastmodified":1566585583,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127045,
     "wof:name":"Kosenomme",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.61667000000001,
+    25.61667,
     59.3,
-    25.61667000000001,
+    25.61667,
     59.3
 ],
-  "geometry": {"coordinates":[25.61667000000001,59.3],"type":"Point"}
+  "geometry": {"coordinates":[25.61667,59.3],"type":"Point"}
 }

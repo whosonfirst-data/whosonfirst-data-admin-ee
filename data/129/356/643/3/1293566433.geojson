@@ -64,7 +64,7 @@
         "wk:page":"Ulitina"
     },
     "wof:country":"EE",
-    "wof:geomhash":"21c0fc55fc6a620e37d5c7de7eb16daf",
+    "wof:geomhash":"f4e94298c8e1f8728f10e8883ae58307",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1293566433,
-    "wof:lastmodified":1566584948,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126944,
     "wof:name":"Ulitina",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     27.74333,
-    57.86083000000001,
+    57.86083,
     27.74333,
-    57.86083000000001
+    57.86083
 ],
-  "geometry": {"coordinates":[27.74333,57.86083000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.74333,57.86083],"type":"Point"}
 }

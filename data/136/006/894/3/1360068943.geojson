@@ -47,7 +47,7 @@
         "gn:id":589717
     },
     "wof:country":"EE",
-    "wof:geomhash":"dcb00d23c1f1f08c4c4e80b012e245d1",
+    "wof:geomhash":"a6e72cd4effa6866f693ebc9234ef05e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1360068943,
-    "wof:lastmodified":1566585219,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126987,
     "wof:name":"Paehkla Asundus",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     22.47528,
-    58.30139000000001,
+    58.30139,
     22.47528,
-    58.30139000000001
+    58.30139
 ],
-  "geometry": {"coordinates":[22.47528,58.30139000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.47528,58.30139],"type":"Point"}
 }

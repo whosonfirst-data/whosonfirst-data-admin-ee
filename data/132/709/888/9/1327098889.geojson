@@ -45,7 +45,7 @@
         "gn:id":8619324
     },
     "wof:country":"EE",
-    "wof:geomhash":"2207b21167db3f7aa2dcec7b403c0b04",
+    "wof:geomhash":"d66b47dbd6c99cfcb64dea0e9899d8b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1327098889,
-    "wof:lastmodified":1566584760,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126916,
     "wof:name":"Vaarkali",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     27.03333,
-    57.62833000000001,
+    57.62833,
     27.03333,
-    57.62833000000001
+    57.62833
 ],
-  "geometry": {"coordinates":[27.03333,57.62833000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.03333,57.62833],"type":"Point"}
 }

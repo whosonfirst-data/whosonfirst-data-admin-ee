@@ -45,7 +45,7 @@
         "gn:id":8619965
     },
     "wof:country":"EE",
-    "wof:geomhash":"e7e97630c8652168dc87332b2c534c8c",
+    "wof:geomhash":"96afbdacf86d76cbec763d4729a39392",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1326595409,
-    "wof:lastmodified":1566584775,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126918,
     "wof:name":"Lindsi",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     25.86556,
-    57.90833000000001,
+    57.90833,
     25.86556,
-    57.90833000000001
+    57.90833
 ],
-  "geometry": {"coordinates":[25.86556,57.90833000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.86556,57.90833],"type":"Point"}
 }

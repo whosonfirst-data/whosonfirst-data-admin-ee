@@ -45,7 +45,7 @@
         "gn:id":8619616
     },
     "wof:country":"EE",
-    "wof:geomhash":"2ba3c4aafd248831e9d0ad98341e0658",
+    "wof:geomhash":"2dd3ed6bb8780d24074b3b7b7950e38c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1259468443,
-    "wof:lastmodified":1566585480,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127029,
     "wof:name":"Potsu",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.20667000000001,
+    26.20667,
     59.46056,
-    26.20667000000001,
+    26.20667,
     59.46056
 ],
-  "geometry": {"coordinates":[26.20667000000001,59.46056],"type":"Point"}
+  "geometry": {"coordinates":[26.20667,59.46056],"type":"Point"}
 }

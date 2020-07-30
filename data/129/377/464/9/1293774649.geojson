@@ -55,7 +55,7 @@
         "wk:page":"Eesk%C3%BCla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"df82f87993315a52aa436d58d7cbaa3e",
+    "wof:geomhash":"e4e8f172728cc91286506531ef18e290",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1293774649,
-    "wof:lastmodified":1566584930,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126941,
     "wof:name":"Eeskuela",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -76,9 +82,9 @@
 },
   "bbox": [
     26.29583,
-    59.30028000000001,
+    59.30028,
     26.29583,
-    59.30028000000001
+    59.30028
 ],
-  "geometry": {"coordinates":[26.29583,59.30028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.29583,59.30028],"type":"Point"}
 }

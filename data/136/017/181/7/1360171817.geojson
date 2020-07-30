@@ -70,7 +70,7 @@
         "wk:page":"Kliima"
     },
     "wof:country":"EE",
-    "wof:geomhash":"76602f7dff3ab69113905a10c14520b0",
+    "wof:geomhash":"e0b8ff7fb10b3c58c25a80639eb7d549",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1360171817,
-    "wof:lastmodified":1566585224,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126987,
     "wof:name":"Kliima",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -90,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.48444000000001,
+    27.48444,
     57.86778,
-    27.48444000000001,
+    27.48444,
     57.86778
 ],
-  "geometry": {"coordinates":[27.48444000000001,57.86778],"type":"Point"}
+  "geometry": {"coordinates":[27.48444,57.86778],"type":"Point"}
 }

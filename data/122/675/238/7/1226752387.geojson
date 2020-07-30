@@ -62,7 +62,7 @@
         "wk:page":"R%C3%B5stla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"6679de090cb2bf658f618026d6af7771",
+    "wof:geomhash":"db728cbfb06ca8e1a0ea938755a2ee63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,13 @@
         }
     ],
     "wof:id":1226752387,
-    "wof:lastmodified":1566585520,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127035,
     "wof:name":"Rostla",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -83,9 +89,9 @@
 },
   "bbox": [
     25.835,
-    58.63028000000001,
+    58.63028,
     25.835,
-    58.63028000000001
+    58.63028
 ],
-  "geometry": {"coordinates":[25.835,58.63028000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.835,58.63028],"type":"Point"}
 }

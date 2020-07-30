@@ -45,7 +45,7 @@
         "gn:id":8619303
     },
     "wof:country":"EE",
-    "wof:geomhash":"94e5e7e5922d67d8f1ae9fd744c360fe",
+    "wof:geomhash":"bb5758dc48d5a333d3183371e0bcc49a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1310679141,
-    "wof:lastmodified":1566585209,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126985,
     "wof:name":"Peratsaare",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     24.72556,
-    58.02444000000001,
+    58.02444,
     24.72556,
-    58.02444000000001
+    58.02444
 ],
-  "geometry": {"coordinates":[24.72556,58.02444000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.72556,58.02444],"type":"Point"}
 }

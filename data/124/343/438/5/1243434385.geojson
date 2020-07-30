@@ -61,7 +61,7 @@
         "wk:page":"M%C3%A4nnisalu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"5126cbaef36abd9dcd962ee0a8ed1e79",
+    "wof:geomhash":"ce06fba6474ab7385ae3dc3b5ceba532",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1243434385,
-    "wof:lastmodified":1566585462,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127026,
     "wof:name":"Maennisalu",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -81,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.40139000000001,
+    27.40139,
     58.01556,
-    27.40139000000001,
+    27.40139,
     58.01556
 ],
-  "geometry": {"coordinates":[27.40139000000001,58.01556],"type":"Point"}
+  "geometry": {"coordinates":[27.40139,58.01556],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "gn:id":587927
     },
     "wof:country":"EE",
-    "wof:geomhash":"d6b0c85cea511a3da36bdf7e4331338f",
+    "wof:geomhash":"c3d57a179bebc79b68b33781ea26b56b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1277139505,
-    "wof:lastmodified":1566585011,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126953,
     "wof:name":"Vaeikekuela",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.86667000000001,
-    58.13333000000001,
-    25.86667000000001,
-    58.13333000000001
+    25.86667,
+    58.13333,
+    25.86667,
+    58.13333
 ],
-  "geometry": {"coordinates":[25.86667000000001,58.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.86667,58.13333],"type":"Point"}
 }

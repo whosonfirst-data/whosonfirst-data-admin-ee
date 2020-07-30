@@ -47,7 +47,7 @@
         "gn:id":589473
     },
     "wof:country":"EE",
-    "wof:geomhash":"117ff92d15ed20be76e3324a66d57d99",
+    "wof:geomhash":"ad4c2420c4459a31941836b00db3d4cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1293764797,
-    "wof:lastmodified":1566584935,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126941,
     "wof:name":"Piista",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     24.97972,
-    58.57083000000001,
+    58.57083,
     24.97972,
-    58.57083000000001
+    58.57083
 ],
-  "geometry": {"coordinates":[24.97972,58.57083000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.97972,58.57083],"type":"Point"}
 }

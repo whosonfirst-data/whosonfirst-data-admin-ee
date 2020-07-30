@@ -43,7 +43,7 @@
         "wk:page":"Mustla%2C_Laimjala_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"2d60b7ca2d20cdcea8010dff037746a3",
+    "wof:geomhash":"8f949dae73ee4695d0b8b5019c1a99fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1193252099,
-    "wof:lastmodified":1566585119,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126970,
     "wof:name":"Mustla",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -64,9 +70,9 @@
 },
   "bbox": [
     23.04583,
-    58.43278000000001,
+    58.43278,
     23.04583,
-    58.43278000000001
+    58.43278
 ],
-  "geometry": {"coordinates":[23.04583,58.43278000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.04583,58.43278],"type":"Point"}
 }

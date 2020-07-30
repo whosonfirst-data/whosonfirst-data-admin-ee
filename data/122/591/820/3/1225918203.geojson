@@ -61,7 +61,7 @@
         "wk:page":"Halla%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"76549ce2117bcebbbdc7b50cb7193999",
+    "wof:geomhash":"874b977de097e899efdd14d5415a8c6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1225918203,
-    "wof:lastmodified":1566585553,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127040,
     "wof:name":"Halla",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     27.19361,
-    57.75194000000001,
+    57.75194,
     27.19361,
-    57.75194000000001
+    57.75194
 ],
-  "geometry": {"coordinates":[27.19361,57.75194000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.19361,57.75194],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "gn:id":588751
     },
     "wof:country":"EE",
-    "wof:geomhash":"6816df5a904dccd662ddca0b5b3b226f",
+    "wof:geomhash":"83b7b379db65e25ac29cb5ff405f70f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1242958847,
-    "wof:lastmodified":1566585409,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127018,
     "wof:name":"Savilope",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     26.68361,
-    59.00194000000001,
+    59.00194,
     26.68361,
-    59.00194000000001
+    59.00194
 ],
-  "geometry": {"coordinates":[26.68361,59.00194000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.68361,59.00194],"type":"Point"}
 }

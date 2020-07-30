@@ -47,7 +47,7 @@
         "gn:id":591774
     },
     "wof:country":"EE",
-    "wof:geomhash":"075a1c8ac18b4763caa3f7fd12591672",
+    "wof:geomhash":"501532bd94f5a357cdbcc3d0a4a21429",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1293470935,
-    "wof:lastmodified":1566584940,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126942,
     "wof:name":"Kaessoo",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     24.88333,
-    58.53333000000001,
+    58.53333,
     24.88333,
-    58.53333000000001
+    58.53333
 ],
-  "geometry": {"coordinates":[24.88333,58.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.88333,58.53333],"type":"Point"}
 }

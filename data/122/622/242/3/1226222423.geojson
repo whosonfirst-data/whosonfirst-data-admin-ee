@@ -42,7 +42,7 @@
         "gn:id":8620234
     },
     "wof:country":"EE",
-    "wof:geomhash":"9f483ed5090211703ba10502de313d1a",
+    "wof:geomhash":"4417b1f9289bdbfc23caed18e6ac527d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226222423,
-    "wof:lastmodified":1566585557,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127041,
     "wof:name":"Joosu-Morgi",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.06667,
-    57.91278000000001,
+    57.91278,
     27.06667,
-    57.91278000000001
+    57.91278
 ],
-  "geometry": {"coordinates":[27.06667,57.91278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.06667,57.91278],"type":"Point"}
 }

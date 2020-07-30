@@ -48,7 +48,7 @@
         "gn:id":591841
     },
     "wof:country":"EE",
-    "wof:geomhash":"4e1d05be03c5f5376645ff57abf9cf91",
+    "wof:geomhash":"3db7bec46523865952a5ebbf640b9f6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1327317187,
-    "wof:lastmodified":1566584762,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126917,
     "wof:name":"Kaarma-Suure",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     22.52639,
-    58.26139000000001,
+    58.26139,
     22.52639,
-    58.26139000000001
+    58.26139
 ],
-  "geometry": {"coordinates":[22.52639,58.26139000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.52639,58.26139],"type":"Point"}
 }

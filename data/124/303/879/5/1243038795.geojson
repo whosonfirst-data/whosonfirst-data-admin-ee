@@ -71,7 +71,7 @@
         "wk:page":"Kandla%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"84d3ec65463823a7e306047bed8bb38d",
+    "wof:geomhash":"d4c6a5a4c3cab9423ade55b24b9dd809",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +81,13 @@
         }
     ],
     "wof:id":1243038795,
-    "wof:lastmodified":1566585431,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127021,
     "wof:name":"Kandla",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -92,9 +98,9 @@
 },
   "bbox": [
     22.29306,
-    58.36666999999999,
+    58.36667,
     22.29306,
-    58.36666999999999
+    58.36667
 ],
-  "geometry": {"coordinates":[22.29306,58.36666999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.29306,58.36667],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"N%C3%A4ssuma"
     },
     "wof:country":"EE",
-    "wof:geomhash":"9f7ca67dba68dbffe1105cef25ac5458",
+    "wof:geomhash":"6d7e47c67d00e846886a5608a1691d21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1343332693,
-    "wof:lastmodified":1566584873,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126933,
     "wof:name":"Naessuma",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -84,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.82472000000001,
+    22.82472,
     58.28139,
-    22.82472000000001,
+    22.82472,
     58.28139
 ],
-  "geometry": {"coordinates":[22.82472000000001,58.28139],"type":"Point"}
+  "geometry": {"coordinates":[22.82472,58.28139],"type":"Point"}
 }

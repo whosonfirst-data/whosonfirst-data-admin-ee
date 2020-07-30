@@ -42,7 +42,7 @@
         "gn:id":590099
     },
     "wof:country":"EE",
-    "wof:geomhash":"59a4a1a60fa3ede169c06f3c4e9f07c0",
+    "wof:geomhash":"2cab96a6638f9471a33be455fd3e7d60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1277054195,
-    "wof:lastmodified":1566585014,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126954,
     "wof:name":"Murru-Metsa",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     24.01667,
-    58.38333000000001,
+    58.38333,
     24.01667,
-    58.38333000000001
+    58.38333
 ],
-  "geometry": {"coordinates":[24.01667,58.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.01667,58.38333],"type":"Point"}
 }

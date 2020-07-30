@@ -63,7 +63,7 @@
         "gn:id":592442
     },
     "wof:country":"EE",
-    "wof:geomhash":"c53aca9a17c0f04154e1b0c1f147c72d",
+    "wof:geomhash":"5ff49dd91628764e3d088a7775fc9c83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1344233517,
-    "wof:lastmodified":1566584846,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126929,
     "wof:name":"Aravere",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     24.61639,
-    58.93666999999999,
+    58.93667,
     24.61639,
-    58.93666999999999
+    58.93667
 ],
-  "geometry": {"coordinates":[24.61639,58.93666999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.61639,58.93667],"type":"Point"}
 }

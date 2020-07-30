@@ -45,7 +45,7 @@
         "gn:id":8620620
     },
     "wof:country":"EE",
-    "wof:geomhash":"14598107efa4e97951c205fc309e6486",
+    "wof:geomhash":"defb345a8d2dfdd229d7b0b141f7f59c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1276213917,
-    "wof:lastmodified":1566584987,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126950,
     "wof:name":"Taraski",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.81806,
-    58.16778000000001,
+    58.16778,
     26.81806,
-    58.16778000000001
+    58.16778
 ],
-  "geometry": {"coordinates":[26.81806,58.16778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.81806,58.16778],"type":"Point"}
 }

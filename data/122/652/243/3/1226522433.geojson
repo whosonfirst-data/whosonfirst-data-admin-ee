@@ -46,7 +46,7 @@
         "gn:id":8619654
     },
     "wof:country":"EE",
-    "wof:geomhash":"f741cca71a282031da37528cce0bc5d0",
+    "wof:geomhash":"27cf4ee5b31b7dd541870c8afd8af12b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1226522433,
-    "wof:lastmodified":1566585570,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127042,
     "wof:name":"Suuro-Kolodavitsa",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.56611,
-    57.84583000000001,
+    57.84583,
     27.56611,
-    57.84583000000001
+    57.84583
 ],
-  "geometry": {"coordinates":[27.56611,57.84583000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.56611,57.84583],"type":"Point"}
 }

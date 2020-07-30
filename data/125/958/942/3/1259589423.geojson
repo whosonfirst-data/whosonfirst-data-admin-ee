@@ -58,7 +58,7 @@
         "wk:page":"Pr%C3%A4%C3%A4ma"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c91e909859a3920d2b553645b92d3814",
+    "wof:geomhash":"a78b1ebfb4f31c1156d1fdabdb4b7d30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1259589423,
-    "wof:lastmodified":1566585497,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127032,
     "wof:name":"Pryayema",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -78,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.53972000000001,
+    25.53972,
     58.89222,
-    25.53972000000001,
+    25.53972,
     58.89222
 ],
-  "geometry": {"coordinates":[25.53972000000001,58.89222],"type":"Point"}
+  "geometry": {"coordinates":[25.53972,58.89222],"type":"Point"}
 }

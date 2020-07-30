@@ -60,7 +60,7 @@
         "gn:id":793939
     },
     "wof:country":"EE",
-    "wof:geomhash":"0ebaf385924f74b2ee2e456699441118",
+    "wof:geomhash":"f40f6c09afbcec1f0306dcb7cd66f4ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1277138625,
-    "wof:lastmodified":1566585011,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126953,
     "wof:name":"Kalbuse",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -81,9 +87,9 @@
 },
   "bbox": [
     25.87528,
-    58.27916999999999,
+    58.27917,
     25.87528,
-    58.27916999999999
+    58.27917
 ],
-  "geometry": {"coordinates":[25.87528,58.27916999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.87528,58.27917],"type":"Point"}
 }

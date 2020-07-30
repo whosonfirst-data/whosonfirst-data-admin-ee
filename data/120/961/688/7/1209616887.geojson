@@ -44,7 +44,7 @@
         "gn:id":8619859
     },
     "wof:country":"EE",
-    "wof:geomhash":"c8a69e457b9332390bd7d19bd3241ab4",
+    "wof:geomhash":"9cf4761fd62461acb4b06da5d7a1fa6f",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209616887,
-    "wof:lastmodified":1566585081,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Mummassaare",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.90027000000001,
+    27.90027,
     59.39581,
-    27.90027000000001,
+    27.90027,
     59.39581
 ],
-  "geometry": {"coordinates":[27.90027000000001,59.39581],"type":"Point"}
+  "geometry": {"coordinates":[27.90027,59.39581],"type":"Point"}
 }

@@ -49,7 +49,7 @@
         "wk:page":"Tigase"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ba63b3de59d1f227f3ef604b30031da2",
+    "wof:geomhash":"753c1ab695e8e0304eea0102dcf5e0a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +59,13 @@
         }
     ],
     "wof:id":1226725843,
-    "wof:lastmodified":1566585518,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127035,
     "wof:name":"Tigase",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -70,9 +76,9 @@
 },
   "bbox": [
     26.97611,
-    58.35583000000001,
+    58.35583,
     26.97611,
-    58.35583000000001
+    58.35583
 ],
-  "geometry": {"coordinates":[26.97611,58.35583000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.97611,58.35583],"type":"Point"}
 }

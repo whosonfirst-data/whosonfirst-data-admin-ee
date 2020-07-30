@@ -43,7 +43,7 @@
         "gn:id":8619744
     },
     "wof:country":"EE",
-    "wof:geomhash":"731383f46082f0dbcc4c4673e5b80d3c",
+    "wof:geomhash":"1e321a233bae7fb65aab360dd6736f3e",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -51,7 +51,13 @@
         }
     ],
     "wof:id":1209680167,
-    "wof:lastmodified":1566585081,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Paeboja",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -61,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.76889000000001,
-    57.73139000000001,
-    26.76889000000001,
-    57.73139000000001
+    26.76889,
+    57.73139,
+    26.76889,
+    57.73139
 ],
-  "geometry": {"coordinates":[26.76889000000001,57.73139000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.76889,57.73139],"type":"Point"}
 }

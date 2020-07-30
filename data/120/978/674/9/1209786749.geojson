@@ -46,7 +46,7 @@
         "gn:id":590776
     },
     "wof:country":"EE",
-    "wof:geomhash":"461528b0b7e5bbbbc64bed818e3992e4",
+    "wof:geomhash":"8817f2793f76a3636041a37394e187b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1209786749,
-    "wof:lastmodified":1566585071,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126963,
     "wof:name":"Lasnamaa",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     22.73556,
-    58.30416999999999,
+    58.30417,
     22.73556,
-    58.30416999999999
+    58.30417
 ],
-  "geometry": {"coordinates":[22.73556,58.30416999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.73556,58.30417],"type":"Point"}
 }

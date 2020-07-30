@@ -67,7 +67,7 @@
         "wk:page":"Lepiku%2C_Hiiu_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"da814444a0d675d7a4c4498555bcb560",
+    "wof:geomhash":"74f7bd3b254f672f3e5fdc2dd8d379bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1360298203,
-    "wof:lastmodified":1566585223,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126987,
     "wof:name":"Lepiku",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -87,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.54357000000001,
+    22.54357,
     58.69607,
-    22.54357000000001,
+    22.54357,
     58.69607
 ],
-  "geometry": {"coordinates":[22.54357000000001,58.69607],"type":"Point"}
+  "geometry": {"coordinates":[22.54357,58.69607],"type":"Point"}
 }

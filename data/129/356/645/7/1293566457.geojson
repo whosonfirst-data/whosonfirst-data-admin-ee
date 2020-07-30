@@ -42,7 +42,7 @@
         "gn:id":587709
     },
     "wof:country":"EE",
-    "wof:geomhash":"cca9b0cf8b9d4b5744655efb700f44f9",
+    "wof:geomhash":"5678777fb0834f772afdfdd509082db6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293566457,
-    "wof:lastmodified":1566584949,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126944,
     "wof:name":"Vastse-Otepaeae",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.65,
-    58.03333000000001,
+    58.03333,
     26.65,
-    58.03333000000001
+    58.03333
 ],
-  "geometry": {"coordinates":[26.65,58.03333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.65,58.03333],"type":"Point"}
 }

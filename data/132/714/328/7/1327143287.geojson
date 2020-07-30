@@ -64,7 +64,7 @@
         "wk:page":"Mangu%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"93589d824e2823c03b7e081313d966a5",
+    "wof:geomhash":"0cc1ff92406c54032350daf755e29474",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1327143287,
-    "wof:lastmodified":1566584782,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126920,
     "wof:name":"Mangu",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     22.58067,
-    59.03151999999999,
+    59.03152,
     22.58067,
-    59.03151999999999
+    59.03152
 ],
-  "geometry": {"coordinates":[22.58067,59.03151999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.58067,59.03152],"type":"Point"}
 }

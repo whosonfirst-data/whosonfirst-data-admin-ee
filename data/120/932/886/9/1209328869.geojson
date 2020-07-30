@@ -62,7 +62,7 @@
         "wk:page":"S%C3%B5meru%2C_Kose_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"f8dd0a783113017af7388df2f6947de1",
+    "wof:geomhash":"f54c76b6aea4484bf9ee04cd9d9a4f7a",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1209328869,
-    "wof:lastmodified":1566585085,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126965,
     "wof:name":"Someru",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -81,9 +87,9 @@
 },
   "bbox": [
     25.27083,
-    59.15971999999999,
+    59.15972,
     25.27083,
-    59.15971999999999
+    59.15972
 ],
-  "geometry": {"coordinates":[25.27083,59.15971999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.27083,59.15972],"type":"Point"}
 }

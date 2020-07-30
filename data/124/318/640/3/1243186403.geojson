@@ -64,7 +64,7 @@
         "wk:page":"Mustu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"298d097e203a65faf8c3d6a114d62bfa",
+    "wof:geomhash":"0157071f56db5ce37e7c671d6c2748db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1243186403,
-    "wof:lastmodified":1566585455,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127025,
     "wof:name":"Mustu",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     24.38694,
-    59.10028000000001,
+    59.10028,
     24.38694,
-    59.10028000000001
+    59.10028
 ],
-  "geometry": {"coordinates":[24.38694,59.10028000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.38694,59.10028],"type":"Point"}
 }

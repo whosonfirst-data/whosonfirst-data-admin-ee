@@ -59,7 +59,7 @@
         "wk:page":"Valgeranna"
     },
     "wof:country":"EE",
-    "wof:geomhash":"2d75cdc67f4304a304cb41fbd833f0bc",
+    "wof:geomhash":"9ca05e9f60b217c2d344ff96a136a4f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +69,13 @@
         }
     ],
     "wof:id":1260061187,
-    "wof:lastmodified":1566585144,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126975,
     "wof:name":"Valgeranna",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -80,9 +86,9 @@
 },
   "bbox": [
     24.38333,
-    58.38721999999999,
+    58.38722,
     24.38333,
-    58.38721999999999
+    58.38722
 ],
-  "geometry": {"coordinates":[24.38333,58.38721999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.38333,58.38722],"type":"Point"}
 }

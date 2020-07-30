@@ -41,7 +41,7 @@
         "gn:id":8618414
     },
     "wof:country":"EE",
-    "wof:geomhash":"586d3cfed527bdaa26757fb09de77836",
+    "wof:geomhash":"c3ad6a9537c13d9a813e59452e456be1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +51,13 @@
         }
     ],
     "wof:id":1293275697,
-    "wof:lastmodified":1566584960,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126946,
     "wof:name":"Kesse",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -62,9 +68,9 @@
 },
   "bbox": [
     23.43722,
-    58.63444000000001,
+    58.63444,
     23.43722,
-    58.63444000000001
+    58.63444
 ],
-  "geometry": {"coordinates":[23.43722,58.63444000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.43722,58.63444],"type":"Point"}
 }

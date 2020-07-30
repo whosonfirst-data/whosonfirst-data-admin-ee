@@ -45,7 +45,7 @@
         "gn:id":8618730
     },
     "wof:country":"EE",
-    "wof:geomhash":"f0a44c7d3115aeeb160d1741c683861d",
+    "wof:geomhash":"00870b740a33ae8d3d171d328615e15a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1293842807,
-    "wof:lastmodified":1566584932,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126941,
     "wof:name":"Pakla",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.72,
-    57.72221999999999,
+    57.72222,
     26.72,
-    57.72221999999999
+    57.72222
 ],
-  "geometry": {"coordinates":[26.72,57.72221999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.72,57.72222],"type":"Point"}
 }

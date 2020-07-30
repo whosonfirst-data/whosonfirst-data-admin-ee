@@ -78,7 +78,7 @@
         "gn:id":8619684
     },
     "wof:country":"EE",
-    "wof:geomhash":"7e3798412928cfd69e849064fef704dd",
+    "wof:geomhash":"d869d9fa38b44c25435f5afe6f0041a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +88,13 @@
         }
     ],
     "wof:id":1226233005,
-    "wof:lastmodified":1566585563,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127041,
     "wof:name":"Matsu",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -99,9 +105,9 @@
 },
   "bbox": [
     26.25889,
-    59.49333000000001,
+    59.49333,
     26.25889,
-    59.49333000000001
+    59.49333
 ],
-  "geometry": {"coordinates":[26.25889,59.49333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.25889,59.49333],"type":"Point"}
 }

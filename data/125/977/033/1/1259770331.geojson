@@ -77,7 +77,7 @@
         "wk:page":"Beresje"
     },
     "wof:country":"EE",
-    "wof:geomhash":"9302359d217d4c6de954562ad29fc97d",
+    "wof:geomhash":"8d1355f927b9ae6175da6cdd472c6cad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +87,13 @@
         }
     ],
     "wof:id":1259770331,
-    "wof:lastmodified":1566585477,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127028,
     "wof:name":"Beresje",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -98,9 +104,9 @@
 },
   "bbox": [
     27.59056,
-    58.08278000000001,
+    58.08278,
     27.59056,
-    58.08278000000001
+    58.08278
 ],
-  "geometry": {"coordinates":[27.59056,58.08278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.59056,58.08278],"type":"Point"}
 }

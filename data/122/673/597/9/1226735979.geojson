@@ -61,7 +61,7 @@
         "wk:page":"Kenni"
     },
     "wof:country":"EE",
-    "wof:geomhash":"a4642ef2761f83a8b3b579ed384b8b7f",
+    "wof:geomhash":"81f8f0ff9e4d97314f5fa9150f9bea16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1226735979,
-    "wof:lastmodified":1566585531,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127037,
     "wof:name":"Kenni",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     24.88889,
-    58.75833000000001,
+    58.75833,
     24.88889,
-    58.75833000000001
+    58.75833
 ],
-  "geometry": {"coordinates":[24.88889,58.75833000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.88889,58.75833],"type":"Point"}
 }

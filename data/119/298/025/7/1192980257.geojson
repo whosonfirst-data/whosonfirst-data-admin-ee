@@ -42,7 +42,7 @@
         "gn:id":590602
     },
     "wof:country":"EE",
-    "wof:geomhash":"a74c66043292aa07816000536a150d2d",
+    "wof:geomhash":"02f349f57fce1571e99638ac1ed7ef92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1192980257,
-    "wof:lastmodified":1566585122,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126971,
     "wof:name":"Linnu",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.47167,
-    58.60471999999999,
+    58.60472,
     25.47167,
-    58.60471999999999
+    58.60472
 ],
-  "geometry": {"coordinates":[25.47167,58.60471999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.47167,58.60472],"type":"Point"}
 }

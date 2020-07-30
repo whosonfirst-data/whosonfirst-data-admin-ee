@@ -42,7 +42,7 @@
         "gn:id":793366
     },
     "wof:country":"EE",
-    "wof:geomhash":"876802a5e04798904ce4cf6e46d6fe97",
+    "wof:geomhash":"47f46f101e6abd9774df739b8d2eea8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1309837759,
-    "wof:lastmodified":1566585255,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126993,
     "wof:name":"AEteniidi",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.10833,
-    58.71944000000001,
+    58.71944,
     27.10833,
-    58.71944000000001
+    58.71944
 ],
-  "geometry": {"coordinates":[27.10833,58.71944000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.10833,58.71944],"type":"Point"}
 }

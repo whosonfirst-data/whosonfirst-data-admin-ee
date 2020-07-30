@@ -61,7 +61,7 @@
         "wk:page":"K%C3%A4rbu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"f0eed0c58ca453e81ff53377598c10f5",
+    "wof:geomhash":"95ca08334080a3fe070ee6e147583104",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1259957985,
-    "wof:lastmodified":1566585490,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127031,
     "wof:name":"Kaerbu",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     24.235,
-    58.43083000000001,
+    58.43083,
     24.235,
-    58.43083000000001
+    58.43083
 ],
-  "geometry": {"coordinates":[24.235,58.43083000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.235,58.43083],"type":"Point"}
 }

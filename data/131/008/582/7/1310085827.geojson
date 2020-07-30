@@ -42,7 +42,7 @@
         "gn:id":8619833
     },
     "wof:country":"EE",
-    "wof:geomhash":"f1ad47acecca94bd1368d0f2c5227bde",
+    "wof:geomhash":"214c375dc15a819a2fa4255c772af6ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310085827,
-    "wof:lastmodified":1566585178,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126980,
     "wof:name":"Vaeiko-Usinitsa",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.51278,
-    57.99166999999999,
+    57.99167,
     27.51278,
-    57.99166999999999
+    57.99167
 ],
-  "geometry": {"coordinates":[27.51278,57.99166999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.51278,57.99167],"type":"Point"}
 }

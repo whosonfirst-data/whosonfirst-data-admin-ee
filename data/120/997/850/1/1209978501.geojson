@@ -84,7 +84,7 @@
         "gn:id":8620789
     },
     "wof:country":"EE",
-    "wof:geomhash":"95df078c13eefb13d329ee030da771ff",
+    "wof:geomhash":"18357df958ffc01e412ba11561d0241b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +94,13 @@
         }
     ],
     "wof:id":1209978501,
-    "wof:lastmodified":1566585058,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126961,
     "wof:name":"Kiisa",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -105,9 +111,9 @@
 },
   "bbox": [
     25.58611,
-    58.05083000000001,
+    58.05083,
     25.58611,
-    58.05083000000001
+    58.05083
 ],
-  "geometry": {"coordinates":[25.58611,58.05083000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.58611,58.05083],"type":"Point"}
 }

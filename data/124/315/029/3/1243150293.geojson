@@ -45,7 +45,7 @@
         "gn:id":8620496
     },
     "wof:country":"EE",
-    "wof:geomhash":"b608159fe53dcec5821bf5fdec91f2df",
+    "wof:geomhash":"900775ff836053528284d296b7bf8664",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1243150293,
-    "wof:lastmodified":1566585424,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127020,
     "wof:name":"Matsita",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     24.7525,
-    58.20028000000001,
+    58.20028,
     24.7525,
-    58.20028000000001
+    58.20028
 ],
-  "geometry": {"coordinates":[24.7525,58.20028000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.7525,58.20028],"type":"Point"}
 }

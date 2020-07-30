@@ -58,7 +58,7 @@
         "wk:page":"Arase%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"026ded9a3ac3326758b8fb55eb36d0cc",
+    "wof:geomhash":"f7515d3ccda4482f4c64cce17b4e02cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1326508241,
-    "wof:lastmodified":1566584778,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126919,
     "wof:name":"Arase",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     24.49833,
-    58.68083000000001,
+    58.68083,
     24.49833,
-    58.68083000000001
+    58.68083
 ],
-  "geometry": {"coordinates":[24.49833,58.68083000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.49833,58.68083],"type":"Point"}
 }

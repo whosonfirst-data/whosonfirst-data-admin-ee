@@ -42,7 +42,7 @@
         "gn:id":793383
     },
     "wof:country":"EE",
-    "wof:geomhash":"13338e2bf8c409920e87bff2f71f233f",
+    "wof:geomhash":"6e81a994b2544a3b2d90c3e89726bb52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326529261,
-    "wof:lastmodified":1566584805,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126923,
     "wof:name":"Iravere",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.62222,
-    58.81028000000001,
+    58.81028,
     26.62222,
-    58.81028000000001
+    58.81028
 ],
-  "geometry": {"coordinates":[26.62222,58.81028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.62222,58.81028],"type":"Point"}
 }

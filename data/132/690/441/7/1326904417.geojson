@@ -45,7 +45,7 @@
         "gn:id":8620235
     },
     "wof:country":"EE",
-    "wof:geomhash":"9c8b2dd6dab69f9f8dafdf65676afe8d",
+    "wof:geomhash":"4445952d90ea68e7af73fa07199ea40c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1326904417,
-    "wof:lastmodified":1566584807,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126924,
     "wof:name":"Punsaku",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     27.11361,
-    57.89333000000001,
+    57.89333,
     27.11361,
-    57.89333000000001
+    57.89333
 ],
-  "geometry": {"coordinates":[27.11361,57.89333000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.11361,57.89333],"type":"Point"}
 }

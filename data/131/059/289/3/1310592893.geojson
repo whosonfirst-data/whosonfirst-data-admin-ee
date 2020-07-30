@@ -70,7 +70,7 @@
         "wk:page":"Koidu%2C_L%C3%A4%C3%A4ne_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"826c937b68b95480d2dec21667e555a0",
+    "wof:geomhash":"75c2b60f2b6dcff8f421ec33557b1f84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1310592893,
-    "wof:lastmodified":1566585201,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126983,
     "wof:name":"Koidu-Lopi",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -91,9 +97,9 @@
 },
   "bbox": [
     23.54861,
-    58.79333000000001,
+    58.79333,
     23.54861,
-    58.79333000000001
+    58.79333
 ],
-  "geometry": {"coordinates":[23.54861,58.79333000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.54861,58.79333],"type":"Point"}
 }

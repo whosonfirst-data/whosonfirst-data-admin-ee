@@ -61,7 +61,7 @@
         "wk:page":"Pille"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b1b6f8913e458ceac538b81af72c954c",
+    "wof:geomhash":"873ee593862d9171a64476ac0ca27f1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1343626059,
-    "wof:lastmodified":1566584825,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126926,
     "wof:name":"Pille",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     27.10556,
-    57.92778000000001,
+    57.92778,
     27.10556,
-    57.92778000000001
+    57.92778
 ],
-  "geometry": {"coordinates":[27.10556,57.92778000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.10556,57.92778],"type":"Point"}
 }

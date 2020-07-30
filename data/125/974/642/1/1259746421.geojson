@@ -61,7 +61,7 @@
         "wk:page":"Kolga%2C_Tartu_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"e3eaf90ecc4254344a220d3362109e52",
+    "wof:geomhash":"349ed9e470bdbe7bafe44fedf307c60e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1259746421,
-    "wof:lastmodified":1566585503,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127033,
     "wof:name":"Kolga",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     26.56556,
-    58.26833000000001,
+    58.26833,
     26.56556,
-    58.26833000000001
+    58.26833
 ],
-  "geometry": {"coordinates":[26.56556,58.26833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.56556,58.26833],"type":"Point"}
 }

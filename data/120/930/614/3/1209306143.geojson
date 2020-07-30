@@ -52,7 +52,7 @@
         "gn:id":589725
     },
     "wof:country":"EE",
-    "wof:geomhash":"7203ed0179768808d7a0cf470d399655",
+    "wof:geomhash":"78a1347f0b8cf4124e4e921f0c5b683e",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -60,7 +60,13 @@
         }
     ],
     "wof:id":1209306143,
-    "wof:lastmodified":1566585054,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126960,
     "wof:name":"Paga",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -71,9 +77,9 @@
 },
   "bbox": [
     23.61194,
-    58.71944000000001,
+    58.71944,
     23.61194,
-    58.71944000000001
+    58.71944
 ],
-  "geometry": {"coordinates":[23.61194,58.71944000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.61194,58.71944],"type":"Point"}
 }

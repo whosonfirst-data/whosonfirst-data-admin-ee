@@ -51,7 +51,7 @@
         "gn:id":8620697
     },
     "wof:country":"EE",
-    "wof:geomhash":"8aac424e65e8c5f88b2129eebdfbd240",
+    "wof:geomhash":"75505bd1cfb78710d10d5759da8a200d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1293188015,
-    "wof:lastmodified":1566584960,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126946,
     "wof:name":"Hilba",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -71,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.85972000000001,
+    26.85972,
     58.06528,
-    26.85972000000001,
+    26.85972,
     58.06528
 ],
-  "geometry": {"coordinates":[26.85972000000001,58.06528],"type":"Point"}
+  "geometry": {"coordinates":[26.85972,58.06528],"type":"Point"}
 }

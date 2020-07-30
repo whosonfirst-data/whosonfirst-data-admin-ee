@@ -46,7 +46,7 @@
         "gn:id":8619453
     },
     "wof:country":"EE",
-    "wof:geomhash":"05d2289894debc65062d2ed82ae335d8",
+    "wof:geomhash":"f579f0d4f7fc49ed5e7f27169e42f40e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1226105373,
-    "wof:lastmodified":1566585524,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127036,
     "wof:name":"Laeaetsa",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     26.9075,
-    58.44833000000001,
+    58.44833,
     26.9075,
-    58.44833000000001
+    58.44833
 ],
-  "geometry": {"coordinates":[26.9075,58.44833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.9075,58.44833],"type":"Point"}
 }

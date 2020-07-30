@@ -74,7 +74,7 @@
         "wk:page":"Luidja"
     },
     "wof:country":"EE",
-    "wof:geomhash":"42d24ce51bd3d935c1cc682787cb63fa",
+    "wof:geomhash":"3e6d7f1c02398ec279031bcbd1b05cac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +84,13 @@
         }
     ],
     "wof:id":1327038965,
-    "wof:lastmodified":1566584793,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126921,
     "wof:name":"Luidja",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -97,9 +103,9 @@
 },
   "bbox": [
     22.3889,
-    58.93183000000001,
+    58.93183,
     22.3889,
-    58.93183000000001
+    58.93183
 ],
-  "geometry": {"coordinates":[22.3889,58.93183000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.3889,58.93183],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Ilum%C3%A4e"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b739587ff90d8cc3a0adc1fd4e434743",
+    "wof:geomhash":"18bd0a64c8945d051738b58097c218f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1243162777,
-    "wof:lastmodified":1566585457,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127025,
     "wof:name":"Ilumaee",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -90,9 +96,9 @@
 },
   "bbox": [
     25.89333,
-    59.53333000000001,
+    59.53333,
     25.89333,
-    59.53333000000001
+    59.53333
 ],
-  "geometry": {"coordinates":[25.89333,59.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.89333,59.53333],"type":"Point"}
 }

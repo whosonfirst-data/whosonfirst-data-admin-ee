@@ -44,7 +44,7 @@
         "gn:id":8620212
     },
     "wof:country":"EE",
-    "wof:geomhash":"db5c8286519bad9253c513d390291b65",
+    "wof:geomhash":"fd65f581aaef395176f51ca283998058",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209065347,
-    "wof:lastmodified":1566585052,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126960,
     "wof:name":"Tinueste",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.97194,
-    57.79333000000001,
+    57.79333,
     26.97194,
-    57.79333000000001
+    57.79333
 ],
-  "geometry": {"coordinates":[26.97194,57.79333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.97194,57.79333],"type":"Point"}
 }

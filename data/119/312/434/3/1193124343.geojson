@@ -69,7 +69,7 @@
         "gn:id":8620824
     },
     "wof:country":"EE",
-    "wof:geomhash":"c94cca08efb110913d5eb027a9888687",
+    "wof:geomhash":"7ad6418e925df80602e133c44aa0d03b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1193124343,
-    "wof:lastmodified":1566585116,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126970,
     "wof:name":"Jaama",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -90,9 +96,9 @@
 },
   "bbox": [
     27.43583,
-    58.10778000000001,
+    58.10778,
     27.43583,
-    58.10778000000001
+    58.10778
 ],
-  "geometry": {"coordinates":[27.43583,58.10778000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.43583,58.10778],"type":"Point"}
 }

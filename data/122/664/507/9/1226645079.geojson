@@ -61,7 +61,7 @@
         "wk:page":"Kallivere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"e0462040ba42edf0bd59439539e79afd",
+    "wof:geomhash":"48c97ed285056da02fb518d67ab86050",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1226645079,
-    "wof:lastmodified":1566585572,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127043,
     "wof:name":"Kallivere",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     26.715,
-    58.72221999999999,
+    58.72222,
     26.715,
-    58.72221999999999
+    58.72222
 ],
-  "geometry": {"coordinates":[26.715,58.72221999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.715,58.72222],"type":"Point"}
 }

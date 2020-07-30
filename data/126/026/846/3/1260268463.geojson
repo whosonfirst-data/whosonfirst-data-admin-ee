@@ -64,7 +64,7 @@
         "wk:page":"Arbavere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1eeccee3c4a32f2a3f558a0e4e79804c",
+    "wof:geomhash":"294812141630748a9956c3008e16af01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1260268463,
-    "wof:lastmodified":1566585151,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126976,
     "wof:name":"Arbavere",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     25.975,
-    59.44083000000001,
+    59.44083,
     25.975,
-    59.44083000000001
+    59.44083
 ],
-  "geometry": {"coordinates":[25.975,59.44083000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.975,59.44083],"type":"Point"}
 }

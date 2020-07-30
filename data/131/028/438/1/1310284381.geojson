@@ -47,7 +47,7 @@
         "gn:id":590489
     },
     "wof:country":"EE",
-    "wof:geomhash":"344acbc38a351e16b54708d1b226a55e",
+    "wof:geomhash":"000365b3cbb326a58ad460c39473d0f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1310284381,
-    "wof:lastmodified":1566585193,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126982,
     "wof:name":"Luiste Asundus",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.22722000000001,
-    58.87139000000001,
-    24.22722000000001,
-    58.87139000000001
+    24.22722,
+    58.87139,
+    24.22722,
+    58.87139
 ],
-  "geometry": {"coordinates":[24.22722000000001,58.87139000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.22722,58.87139],"type":"Point"}
 }

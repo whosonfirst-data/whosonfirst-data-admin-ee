@@ -63,7 +63,7 @@
         "gn:id":591214
     },
     "wof:country":"EE",
-    "wof:geomhash":"a909c1c01efcfe152f5625888d194f41",
+    "wof:geomhash":"9516b64c1e68fd03595efc9ae1ec228a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1326848005,
-    "wof:lastmodified":1566584801,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126923,
     "wof:name":"Kokuta",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     24.45528,
-    59.26221999999999,
+    59.26222,
     24.45528,
-    59.26221999999999
+    59.26222
 ],
-  "geometry": {"coordinates":[24.45528,59.26221999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.45528,59.26222],"type":"Point"}
 }

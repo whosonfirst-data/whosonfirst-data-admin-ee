@@ -48,7 +48,7 @@
         "gn:id":592101
     },
     "wof:country":"EE",
-    "wof:geomhash":"ce895b47da1755417f087133818d7604",
+    "wof:geomhash":"ebf8f63608b551df10997de68e55cdc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1226019045,
-    "wof:lastmodified":1566585576,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127044,
     "wof:name":"Holopi",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     27.1325,
-    57.82194000000001,
+    57.82194,
     27.1325,
-    57.82194000000001
+    57.82194
 ],
-  "geometry": {"coordinates":[27.1325,57.82194000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.1325,57.82194],"type":"Point"}
 }

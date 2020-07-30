@@ -48,7 +48,7 @@
         "gn:id":8619148
     },
     "wof:country":"EE",
-    "wof:geomhash":"71ed917fd301050d69348ac767d5f8a5",
+    "wof:geomhash":"f9cf64d3e3e37b8a7285829cf31bd5fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1360051061,
-    "wof:lastmodified":1566585230,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126988,
     "wof:name":"Lilu",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.38694000000001,
+    26.38694,
     57.77694,
-    26.38694000000001,
+    26.38694,
     57.77694
 ],
-  "geometry": {"coordinates":[26.38694000000001,57.77694],"type":"Point"}
+  "geometry": {"coordinates":[26.38694,57.77694],"type":"Point"}
 }

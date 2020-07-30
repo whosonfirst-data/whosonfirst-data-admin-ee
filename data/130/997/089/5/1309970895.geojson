@@ -46,7 +46,7 @@
         "gn:id":592545
     },
     "wof:country":"EE",
-    "wof:geomhash":"ba2b5754fcea26ca82ed4ce057811a54",
+    "wof:geomhash":"ded879ed6b85b26541bb5e78e9be6991",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1309970895,
-    "wof:lastmodified":1566585253,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126993,
     "wof:name":"Allakuela",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     25.55,
-    58.53333000000001,
+    58.53333,
     25.55,
-    58.53333000000001
+    58.53333
 ],
-  "geometry": {"coordinates":[25.55,58.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.55,58.53333],"type":"Point"}
 }

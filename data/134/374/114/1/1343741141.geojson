@@ -54,7 +54,7 @@
         "gn:id":8620702
     },
     "wof:country":"EE",
-    "wof:geomhash":"8292594770099a3aa519c77172553887",
+    "wof:geomhash":"bb02da18f6d4579c48cbbf09f63ce593",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +64,13 @@
         }
     ],
     "wof:id":1343741141,
-    "wof:lastmodified":1566584888,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126936,
     "wof:name":"Metsapere",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -75,9 +81,9 @@
 },
   "bbox": [
     21.95139,
-    58.26694000000001,
+    58.26694,
     21.95139,
-    58.26694000000001
+    58.26694
 ],
-  "geometry": {"coordinates":[21.95139,58.26694000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.95139,58.26694],"type":"Point"}
 }

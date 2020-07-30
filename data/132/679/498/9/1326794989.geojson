@@ -45,7 +45,7 @@
         "gn:id":8620259
     },
     "wof:country":"EE",
-    "wof:geomhash":"405eb5e1479fd98c3bcdd962c725cc18",
+    "wof:geomhash":"b8553a98dab5cb87115cad8873d5da4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1326794989,
-    "wof:lastmodified":1566584799,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126922,
     "wof:name":"Lutika",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     27.01972,
-    57.71333000000001,
+    57.71333,
     27.01972,
-    57.71333000000001
+    57.71333
 ],
-  "geometry": {"coordinates":[27.01972,57.71333000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.01972,57.71333],"type":"Point"}
 }

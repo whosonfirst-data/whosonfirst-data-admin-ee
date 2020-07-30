@@ -65,7 +65,7 @@
         "wk:page":"Jauni"
     },
     "wof:country":"EE",
-    "wof:geomhash":"a2b21e58bfbad82839afef61e5e0b0a6",
+    "wof:geomhash":"b88f7c75a342b431a61c1ac9af01e79b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1259361957,
-    "wof:lastmodified":1566585463,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127026,
     "wof:name":"Jauni",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     22.22778,
-    58.43833000000001,
+    58.43833,
     22.22778,
-    58.43833000000001
+    58.43833
 ],
-  "geometry": {"coordinates":[22.22778,58.43833000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.22778,58.43833],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Raugi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"5c543a64ff357735f54e2dfce481ef0f",
+    "wof:geomhash":"85cea67c32281d0042aefdc76bd947c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1226525851,
-    "wof:lastmodified":1566585571,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127043,
     "wof:name":"Raugi",
     "wof:parent_id":85682951,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     23.29194,
-    58.64944000000001,
+    58.64944,
     23.29194,
-    58.64944000000001
+    58.64944
 ],
-  "geometry": {"coordinates":[23.29194,58.64944000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.29194,58.64944],"type":"Point"}
 }

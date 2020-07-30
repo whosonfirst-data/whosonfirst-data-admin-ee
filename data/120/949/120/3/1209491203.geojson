@@ -62,7 +62,7 @@
         "wk:page":"Savimetsa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"eedbc1506d93419d34099f84b4ac6871",
+    "wof:geomhash":"fd2befe16170150b00fd499b5c66636d",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1209491203,
-    "wof:lastmodified":1566585075,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126963,
     "wof:name":"Savimetsa",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -81,9 +87,9 @@
 },
   "bbox": [
     27.20111,
-    58.56166999999999,
+    58.56167,
     27.20111,
-    58.56166999999999
+    58.56167
 ],
-  "geometry": {"coordinates":[27.20111,58.56166999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.20111,58.56167],"type":"Point"}
 }

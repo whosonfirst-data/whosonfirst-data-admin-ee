@@ -61,7 +61,7 @@
         "wk:page":"Ivaski"
     },
     "wof:country":"EE",
-    "wof:geomhash":"fb2bef394001772b7b6efdf3e7d885ac",
+    "wof:geomhash":"1b005c2d26bed91c5c926c4ed5128560",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1360047167,
-    "wof:lastmodified":1566585229,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126988,
     "wof:name":"Ivaski",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     25.37694,
-    58.42583000000001,
+    58.42583,
     25.37694,
-    58.42583000000001
+    58.42583
 ],
-  "geometry": {"coordinates":[25.37694,58.42583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.37694,58.42583],"type":"Point"}
 }

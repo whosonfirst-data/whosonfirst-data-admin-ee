@@ -64,7 +64,7 @@
         "wk:page":"P%C3%A4rlij%C3%B5e"
     },
     "wof:country":"EE",
-    "wof:geomhash":"189fa7a3e1be7a488ee510b72984e43d",
+    "wof:geomhash":"1996e88c92bb3609506d45b598131a1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1243222665,
-    "wof:lastmodified":1566585428,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127021,
     "wof:name":"Paerlijoe",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.88167,
-    57.66583000000001,
+    57.66583,
     26.88167,
-    57.66583000000001
+    57.66583
 ],
-  "geometry": {"coordinates":[26.88167,57.66583000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.88167,57.66583],"type":"Point"}
 }

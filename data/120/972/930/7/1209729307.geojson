@@ -73,7 +73,7 @@
         "wk:page":"Allika%2C_Kernu_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"2a50df9f25731b8840e3a6c5fe041b71",
+    "wof:geomhash":"43c48ba68e1ae33973fa3077e0ebe170",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +83,13 @@
         }
     ],
     "wof:id":1209729307,
-    "wof:lastmodified":1566585108,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126969,
     "wof:name":"Allika",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -94,9 +100,9 @@
 },
   "bbox": [
     24.47917,
-    59.18528000000001,
+    59.18528,
     24.47917,
-    59.18528000000001
+    59.18528
 ],
-  "geometry": {"coordinates":[24.47917,59.18528000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.47917,59.18528],"type":"Point"}
 }

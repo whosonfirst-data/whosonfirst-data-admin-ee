@@ -73,7 +73,7 @@
         "wk:page":"J%C3%A4rvselja"
     },
     "wof:country":"EE",
-    "wof:geomhash":"bef88f3f2ae06d5dbd2b7bfc86055a55",
+    "wof:geomhash":"273c0065927f2c0640d84aa1effda11e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +83,13 @@
         }
     ],
     "wof:id":1259746385,
-    "wof:lastmodified":1566585504,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127033,
     "wof:name":"Jaervselja",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -94,9 +100,9 @@
 },
   "bbox": [
     27.31,
-    58.26833000000001,
+    58.26833,
     27.31,
-    58.26833000000001
+    58.26833
 ],
-  "geometry": {"coordinates":[27.31,58.26833000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.31,58.26833],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "gn:id":793934
     },
     "wof:country":"EE",
-    "wof:geomhash":"b8d1e7a7b7de2cb8ceb8d37b2d233ff1",
+    "wof:geomhash":"fa8b30c8bbd691259b30d3ac40fc60b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1344022899,
-    "wof:lastmodified":1566584879,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126934,
     "wof:name":"Muksi",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -81,9 +87,9 @@
 },
   "bbox": [
     25.72694,
-    58.15694000000001,
+    58.15694,
     25.72694,
-    58.15694000000001
+    58.15694
 ],
-  "geometry": {"coordinates":[25.72694,58.15694000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.72694,58.15694],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "gn:id":8619275
     },
     "wof:country":"EE",
-    "wof:geomhash":"134db7cbbfa05d86161d90ab64ab7912",
+    "wof:geomhash":"f3f1f18f79d15ed5de2bd2cbd31911f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1326995011,
-    "wof:lastmodified":1566584804,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126923,
     "wof:name":"Savikuela",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     25.67833,
-    58.24166999999999,
+    58.24167,
     25.67833,
-    58.24166999999999
+    58.24167
 ],
-  "geometry": {"coordinates":[25.67833,58.24166999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.67833,58.24167],"type":"Point"}
 }

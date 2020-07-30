@@ -46,7 +46,7 @@
         "gn:id":8620731
     },
     "wof:country":"EE",
-    "wof:geomhash":"0fc4479d586316d81c1cc54db8753ee6",
+    "wof:geomhash":"6d809f9988feff48298d13b934adc6b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243250493,
-    "wof:lastmodified":1566585429,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127021,
     "wof:name":"Lepaekurm",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.08694,
-    58.10639000000001,
+    58.10639,
     27.08694,
-    58.10639000000001
+    58.10639
 ],
-  "geometry": {"coordinates":[27.08694,58.10639000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.08694,58.10639],"type":"Point"}
 }

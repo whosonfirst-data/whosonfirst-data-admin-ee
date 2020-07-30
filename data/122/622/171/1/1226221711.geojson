@@ -61,7 +61,7 @@
         "wk:page":"Tiduvere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"d9b4248a283fdb160256b6a77db3b857",
+    "wof:geomhash":"00708699d17c683bb8b1e6ca76acdbbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1226221711,
-    "wof:lastmodified":1566585558,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127041,
     "wof:name":"Tiduvere",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     24.30194,
-    58.78778000000001,
+    58.78778,
     24.30194,
-    58.78778000000001
+    58.78778
 ],
-  "geometry": {"coordinates":[24.30194,58.78778000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.30194,58.78778],"type":"Point"}
 }

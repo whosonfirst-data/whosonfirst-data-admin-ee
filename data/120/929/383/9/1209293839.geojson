@@ -66,7 +66,7 @@
         "wk:page":"Loe%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ff47654c991a3898f800f6a9732fb1fd",
+    "wof:geomhash":"40a8620ae51f963cdfe812e70cb2a0d2",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1209293839,
-    "wof:lastmodified":1566585095,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126966,
     "wof:name":"Loe",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     24.62028,
-    58.89944000000001,
+    58.89944,
     24.62028,
-    58.89944000000001
+    58.89944
 ],
-  "geometry": {"coordinates":[24.62028,58.89944000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.62028,58.89944],"type":"Point"}
 }

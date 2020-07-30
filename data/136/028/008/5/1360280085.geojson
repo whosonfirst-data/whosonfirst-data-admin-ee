@@ -66,7 +66,7 @@
         "wk:page":"Sinalepa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"241ca21586400dd182cbcf56cf1b4053",
+    "wof:geomhash":"87243c6ecf0e171560a86f71214f1773",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1360280085,
-    "wof:lastmodified":1566585225,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126988,
     "wof:name":"Sinalepa",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -87,9 +93,9 @@
 },
   "bbox": [
     23.59472,
-    58.82666999999999,
+    58.82667,
     23.59472,
-    58.82666999999999
+    58.82667
 ],
-  "geometry": {"coordinates":[23.59472,58.82666999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.59472,58.82667],"type":"Point"}
 }

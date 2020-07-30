@@ -58,7 +58,7 @@
         "wk:page":"S%C3%BCvalepa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"39a860765f82389ac2d5d343a78a04bc",
+    "wof:geomhash":"ca68e2d57bc54ed9f09cba008af43a6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1343881137,
-    "wof:lastmodified":1566584895,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126937,
     "wof:name":"Suevalepa",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     26.67861,
-    58.68278000000001,
+    58.68278,
     26.67861,
-    58.68278000000001
+    58.68278
 ],
-  "geometry": {"coordinates":[26.67861,58.68278000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.67861,58.68278],"type":"Point"}
 }

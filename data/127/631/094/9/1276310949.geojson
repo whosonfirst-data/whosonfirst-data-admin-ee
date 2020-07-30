@@ -46,7 +46,7 @@
         "gn:id":591896
     },
     "wof:country":"EE",
-    "wof:geomhash":"a2cf977a47d65554a7c5788bee8c6f6e",
+    "wof:geomhash":"b81ca9705a321d7c50582d404a55d0c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1276310949,
-    "wof:lastmodified":1566585042,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126958,
     "wof:name":"Johve",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     24.85194,
-    58.43278000000001,
+    58.43278,
     24.85194,
-    58.43278000000001
+    58.43278
 ],
-  "geometry": {"coordinates":[24.85194,58.43278000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.85194,58.43278],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "gn:id":8620671
     },
     "wof:country":"EE",
-    "wof:geomhash":"8d4d425873f186fd7e8396050bf4b083",
+    "wof:geomhash":"15c68c885058aed1f8f3d9c78578ba7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1193255493,
-    "wof:lastmodified":1566585120,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126971,
     "wof:name":"Kivikuelae",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.19806,
-    58.08694000000001,
+    58.08694,
     27.19806,
-    58.08694000000001
+    58.08694
 ],
-  "geometry": {"coordinates":[27.19806,58.08694000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.19806,58.08694],"type":"Point"}
 }

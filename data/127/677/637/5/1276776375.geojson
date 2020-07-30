@@ -64,7 +64,7 @@
         "wk:page":"Valipe"
     },
     "wof:country":"EE",
-    "wof:geomhash":"f03f475379e762f61a6547fa6fd74dc2",
+    "wof:geomhash":"aa327db35037ad1b0284d9b107770db1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1276776375,
-    "wof:lastmodified":1566585031,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126956,
     "wof:name":"Valipe",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     22.96159,
-    58.86646999999999,
+    58.86647,
     22.96159,
-    58.86646999999999
+    58.86647
 ],
-  "geometry": {"coordinates":[22.96159,58.86646999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.96159,58.86647],"type":"Point"}
 }

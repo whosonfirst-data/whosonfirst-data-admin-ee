@@ -46,7 +46,7 @@
         "gn:id":588043
     },
     "wof:country":"EE",
-    "wof:geomhash":"1ba80aa9771d6cb5807708ed88b5b70a",
+    "wof:geomhash":"0cf6507836f00a58bef599d21cf4df06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1276642209,
-    "wof:lastmodified":1566585034,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126957,
     "wof:name":"Urge-Saunakuela",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     24.78333,
-    59.18333000000001,
+    59.18333,
     24.78333,
-    59.18333000000001
+    59.18333
 ],
-  "geometry": {"coordinates":[24.78333,59.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.78333,59.18333],"type":"Point"}
 }

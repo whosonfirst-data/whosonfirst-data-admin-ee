@@ -61,7 +61,7 @@
         "wk:page":"Aaviku%2C_L%C3%A4%C3%A4ne-Viru_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"554daf508b9ba62af76d59ebe2afb0bb",
+    "wof:geomhash":"f752d0dcde7200a0d177acc007ad1b1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1343943377,
-    "wof:lastmodified":1566584870,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126933,
     "wof:name":"Aaviku",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     26.28722,
-    59.48833000000001,
+    59.48833,
     26.28722,
-    59.48833000000001
+    59.48833
 ],
-  "geometry": {"coordinates":[26.28722,59.48833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.28722,59.48833],"type":"Point"}
 }

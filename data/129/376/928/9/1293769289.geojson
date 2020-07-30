@@ -55,7 +55,7 @@
         "wk:page":"Uku%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"d48756e2baf3e31215020e5e62b73717",
+    "wof:geomhash":"8410304eedb27a2adfbbb49d2c5fb415",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1293769289,
-    "wof:lastmodified":1566584937,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126942,
     "wof:name":"Uku",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -76,9 +82,9 @@
 },
   "bbox": [
     26.01972,
-    59.38028000000001,
+    59.38028,
     26.01972,
-    59.38028000000001
+    59.38028
 ],
-  "geometry": {"coordinates":[26.01972,59.38028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.01972,59.38028],"type":"Point"}
 }

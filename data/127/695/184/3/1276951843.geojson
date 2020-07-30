@@ -75,7 +75,7 @@
         "wk:page":"J%C3%A4maja"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1b5ad5591a57d80918351be0e9ec8276",
+    "wof:geomhash":"ccf0fe77856e4305fcf59d5767917162",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1276951843,
-    "wof:lastmodified":1566585009,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126953,
     "wof:name":"Jaemaja",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -96,9 +102,9 @@
 },
   "bbox": [
     22.05667,
-    58.00528000000001,
+    58.00528,
     22.05667,
-    58.00528000000001
+    58.00528
 ],
-  "geometry": {"coordinates":[22.05667,58.00528000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.05667,58.00528],"type":"Point"}
 }

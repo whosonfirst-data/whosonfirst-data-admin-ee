@@ -58,7 +58,7 @@
         "wk:page":"Soodi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"451d1286ed88cb22c5e6709c0a1d3d36",
+    "wof:geomhash":"d646d3595277466ae322e873f3f03dea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1192977521,
-    "wof:lastmodified":1566585123,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126971,
     "wof:name":"Soodi",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     27.05667,
-    57.75389000000001,
+    57.75389,
     27.05667,
-    57.75389000000001
+    57.75389
 ],
-  "geometry": {"coordinates":[27.05667,57.75389000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.05667,57.75389],"type":"Point"}
 }

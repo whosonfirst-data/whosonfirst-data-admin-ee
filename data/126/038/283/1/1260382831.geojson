@@ -71,7 +71,7 @@
         "wk:page":"Ingk%C3%BCla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"50c035eb175f4604d71f950dcc8251c4",
+    "wof:geomhash":"e4bdfa101cf7d8466175f735edfcfdea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +81,13 @@
         }
     ],
     "wof:id":1260382831,
-    "wof:lastmodified":1566585136,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126974,
     "wof:name":"Ingkuela",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -91,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.65167000000001,
+    23.65167,
     59.03139,
-    23.65167000000001,
+    23.65167,
     59.03139
 ],
-  "geometry": {"coordinates":[23.65167000000001,59.03139],"type":"Point"}
+  "geometry": {"coordinates":[23.65167,59.03139],"type":"Point"}
 }

@@ -73,7 +73,7 @@
         "wk:page":"Varesm%C3%A4e"
     },
     "wof:country":"EE",
-    "wof:geomhash":"2f6f9a14be933d1c59942b329a914097",
+    "wof:geomhash":"895d9ed5b542cfd6707407a622a2708c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +83,13 @@
         }
     ],
     "wof:id":1276528211,
-    "wof:lastmodified":1566585032,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126957,
     "wof:name":"Varesmaee",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -94,9 +100,9 @@
 },
   "bbox": [
     27.52528,
-    58.05416999999999,
+    58.05417,
     27.52528,
-    58.05416999999999
+    58.05417
 ],
-  "geometry": {"coordinates":[27.52528,58.05416999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.52528,58.05417],"type":"Point"}
 }

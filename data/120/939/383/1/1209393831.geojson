@@ -63,7 +63,7 @@
         "wk:page":"Siiksaare"
     },
     "wof:country":"EE",
-    "wof:geomhash":"7ed6bc1a66eb35c360d95b93cbaba3b3",
+    "wof:geomhash":"a76f2f7bf697323e68415c385c8ef4b3",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1209393831,
-    "wof:lastmodified":1566585051,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126960,
     "wof:name":"Siiksaare",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     22.90944,
-    58.32333000000001,
+    58.32333,
     22.90944,
-    58.32333000000001
+    58.32333
 ],
-  "geometry": {"coordinates":[22.90944,58.32333000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.90944,58.32333],"type":"Point"}
 }

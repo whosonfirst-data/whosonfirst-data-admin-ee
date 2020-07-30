@@ -42,7 +42,7 @@
         "gn:id":8618328
     },
     "wof:country":"EE",
-    "wof:geomhash":"4571f10798d83d6d16eb448ba28be62c",
+    "wof:geomhash":"c429ed141b9b07f93febea8fc45ba13b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260043125,
-    "wof:lastmodified":1566585152,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126976,
     "wof:name":"Leetsi",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.51333,
-    58.42028000000001,
+    58.42028,
     26.51333,
-    58.42028000000001
+    58.42028
 ],
-  "geometry": {"coordinates":[26.51333,58.42028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.51333,58.42028],"type":"Point"}
 }

@@ -84,7 +84,7 @@
         "gn:id":591079
     },
     "wof:country":"EE",
-    "wof:geomhash":"a075dbf92a7a5dca94e61238c92d6831",
+    "wof:geomhash":"e57fe045a2660924922a35194c034fce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +94,13 @@
         }
     ],
     "wof:id":1310489723,
-    "wof:lastmodified":1566585162,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126978,
     "wof:name":"Kose",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -105,9 +111,9 @@
 },
   "bbox": [
     25.1,
-    58.63333000000001,
+    58.63333,
     25.1,
-    58.63333000000001
+    58.63333
 ],
-  "geometry": {"coordinates":[25.1,58.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.1,58.63333],"type":"Point"}
 }

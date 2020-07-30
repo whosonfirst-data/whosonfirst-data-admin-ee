@@ -45,7 +45,7 @@
         "gn:id":592587
     },
     "wof:country":"EE",
-    "wof:geomhash":"55379d123b0b3c8b42ee60bdaffe5154",
+    "wof:geomhash":"fe636e78eabc150836aa5663e0c6dd95",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1209578785,
-    "wof:lastmodified":1566585079,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Ahunapalu",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -64,9 +70,9 @@
 },
   "bbox": [
     27.27611,
-    58.32471999999999,
+    58.32472,
     27.27611,
-    58.32471999999999
+    58.32472
 ],
-  "geometry": {"coordinates":[27.27611,58.32471999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.27611,58.32472],"type":"Point"}
 }

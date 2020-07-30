@@ -64,7 +64,7 @@
         "wk:page":"Tuuka"
     },
     "wof:country":"EE",
-    "wof:geomhash":"e82716e13fedcd85943814b48adab97b",
+    "wof:geomhash":"719595efaddcc76be3f03e66c0a42a27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1326789455,
-    "wof:lastmodified":1566584798,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126922,
     "wof:name":"Tuuka",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     27.12611,
-    57.66028000000001,
+    57.66028,
     27.12611,
-    57.66028000000001
+    57.66028
 ],
-  "geometry": {"coordinates":[27.12611,57.66028000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.12611,57.66028],"type":"Point"}
 }

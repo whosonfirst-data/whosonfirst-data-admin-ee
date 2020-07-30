@@ -64,7 +64,7 @@
         "wk:page":"Kiilaspere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"3699b2f831f4350b8245dd05abb0e55a",
+    "wof:geomhash":"1f7d98c791521cfbfe9d9ef3584d152f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1242653937,
-    "wof:lastmodified":1566585450,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127024,
     "wof:name":"Kiilaspere",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     24.44583,
-    58.81166999999999,
+    58.81167,
     24.44583,
-    58.81166999999999
+    58.81167
 ],
-  "geometry": {"coordinates":[24.44583,58.81166999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.44583,58.81167],"type":"Point"}
 }

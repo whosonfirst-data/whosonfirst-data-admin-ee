@@ -65,7 +65,7 @@
         "wk:page":"Peederga"
     },
     "wof:country":"EE",
-    "wof:geomhash":"730da5c9f18c1be4bafb454e650da084",
+    "wof:geomhash":"88dd665547190cd33a8245832b385477",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1243038887,
-    "wof:lastmodified":1566585431,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127021,
     "wof:name":"Pederga",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     22.58139,
-    58.55416999999999,
+    58.55417,
     22.58139,
-    58.55416999999999
+    58.55417
 ],
-  "geometry": {"coordinates":[22.58139,58.55416999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.58139,58.55417],"type":"Point"}
 }

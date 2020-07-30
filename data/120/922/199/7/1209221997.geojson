@@ -68,7 +68,7 @@
         "wk:page":"Varinurme"
     },
     "wof:country":"EE",
-    "wof:geomhash":"0c320b9d03131654858ad59b17cf0082",
+    "wof:geomhash":"91c23f910e39096f8e5a68b891487200",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1209221997,
-    "wof:lastmodified":1566585076,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Varinurme",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -87,9 +93,9 @@
 },
   "bbox": [
     26.90389,
-    59.35471999999999,
+    59.35472,
     26.90389,
-    59.35471999999999
+    59.35472
 ],
-  "geometry": {"coordinates":[26.90389,59.35471999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.90389,59.35472],"type":"Point"}
 }

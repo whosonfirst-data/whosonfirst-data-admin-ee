@@ -42,7 +42,7 @@
         "gn:id":794315
     },
     "wof:country":"EE",
-    "wof:geomhash":"b8a9cf392810c4dc25915ca41bc59ecd",
+    "wof:geomhash":"f89ed0f6a2f8eb3f9db2d77a68386be2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259757265,
-    "wof:lastmodified":1566585510,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127034,
     "wof:name":"Listaku",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.15167000000001,
+    27.15167,
     57.87611,
-    27.15167000000001,
+    27.15167,
     57.87611
 ],
-  "geometry": {"coordinates":[27.15167000000001,57.87611],"type":"Point"}
+  "geometry": {"coordinates":[27.15167,57.87611],"type":"Point"}
 }

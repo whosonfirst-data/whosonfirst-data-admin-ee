@@ -68,7 +68,7 @@
         "wk:page":"M%C3%B5raste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b31c41048ae50bae638d1fedd46e01a4",
+    "wof:geomhash":"a696506fc8d9ddde9133f8e51bb6868a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +78,13 @@
         }
     ],
     "wof:id":1293760055,
-    "wof:lastmodified":1566584937,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126942,
     "wof:name":"Moraste",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -89,9 +95,9 @@
 },
   "bbox": [
     24.31333,
-    58.89194000000001,
+    58.89194,
     24.31333,
-    58.89194000000001
+    58.89194
 ],
-  "geometry": {"coordinates":[24.31333,58.89194000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.31333,58.89194],"type":"Point"}
 }

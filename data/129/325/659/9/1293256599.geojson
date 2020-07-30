@@ -42,7 +42,7 @@
         "gn:id":8620126
     },
     "wof:country":"EE",
-    "wof:geomhash":"ecf34d4f183bb0c8e5996ad358805635",
+    "wof:geomhash":"eaea5fefb65c3925c66c960fbf7b737c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293256599,
-    "wof:lastmodified":1566584941,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126942,
     "wof:name":"Marinova",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.51889000000001,
+    27.51889,
     57.74417,
-    27.51889000000001,
+    27.51889,
     57.74417
 ],
-  "geometry": {"coordinates":[27.51889000000001,57.74417],"type":"Point"}
+  "geometry": {"coordinates":[27.51889,57.74417],"type":"Point"}
 }

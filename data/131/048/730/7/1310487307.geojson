@@ -52,7 +52,7 @@
         "wk:page":"M%C3%BC%C3%BCriku"
     },
     "wof:country":"EE",
-    "wof:geomhash":"8838969a9604d0865561e137628590fb",
+    "wof:geomhash":"343c5e1869692c2c33268e3adc858fcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +62,13 @@
         }
     ],
     "wof:id":1310487307,
-    "wof:lastmodified":1566585161,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126978,
     "wof:name":"Mueueriku",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -73,9 +79,9 @@
 },
   "bbox": [
     26.28611,
-    59.12889000000001,
+    59.12889,
     26.28611,
-    59.12889000000001
+    59.12889
 ],
-  "geometry": {"coordinates":[26.28611,59.12889000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.28611,59.12889],"type":"Point"}
 }

@@ -56,7 +56,7 @@
         "wk:page":"Marina%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"750b3b4958f96b929185bdd71a8d88bb",
+    "wof:geomhash":"5896457428b1d9fbc44b52a2c6b59db6",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -64,7 +64,13 @@
         }
     ],
     "wof:id":1209087457,
-    "wof:lastmodified":1566585056,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126960,
     "wof:name":"Marina",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -74,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.77667000000001,
+    24.77667,
     58.09639,
-    24.77667000000001,
+    24.77667,
     58.09639
 ],
-  "geometry": {"coordinates":[24.77667000000001,58.09639],"type":"Point"}
+  "geometry": {"coordinates":[24.77667,58.09639],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "gn:id":8620119
     },
     "wof:country":"EE",
-    "wof:geomhash":"2ccee644f9fda012401a2b575a8a5b4b",
+    "wof:geomhash":"170e43fdb11b0555f5ef8947d433504a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1327108627,
-    "wof:lastmodified":1566584817,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126925,
     "wof:name":"Triginae",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.52556,
-    57.79278000000001,
+    57.79278,
     27.52556,
-    57.79278000000001
+    57.79278
 ],
-  "geometry": {"coordinates":[27.52556,57.79278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.52556,57.79278],"type":"Point"}
 }

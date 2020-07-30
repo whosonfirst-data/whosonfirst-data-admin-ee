@@ -64,7 +64,7 @@
         "wk:page":"Kornitsa%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"564e898a9111cb5cc847a78072b8c082",
+    "wof:geomhash":"3ce9977efe42361e4e8eeef45b66e595",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1225918243,
-    "wof:lastmodified":1566585554,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127040,
     "wof:name":"Kornitsa",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -84,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.30389000000001,
+    27.30389,
     57.75722,
-    27.30389000000001,
+    27.30389,
     57.75722
 ],
-  "geometry": {"coordinates":[27.30389000000001,57.75722],"type":"Point"}
+  "geometry": {"coordinates":[27.30389,57.75722],"type":"Point"}
 }

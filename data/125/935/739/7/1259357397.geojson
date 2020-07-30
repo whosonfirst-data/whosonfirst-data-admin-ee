@@ -47,7 +47,7 @@
         "wk:page":"M%C3%A4ek%C3%BCla%2C_Karksi_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c1d87b8e0fea5160a676c22c5d297078",
+    "wof:geomhash":"e2aa65a172e81fed36450a8a781ad383",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1259357397,
-    "wof:lastmodified":1566585494,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127032,
     "wof:name":"Raengle",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     25.7025,
-    58.11528000000001,
+    58.11528,
     25.7025,
-    58.11528000000001
+    58.11528
 ],
-  "geometry": {"coordinates":[25.7025,58.11528000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.7025,58.11528],"type":"Point"}
 }

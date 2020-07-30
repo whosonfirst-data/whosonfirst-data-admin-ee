@@ -71,7 +71,7 @@
         "wk:page":"Pala%2C_Kuusalu_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"985642444bfacb85be4d8c32ac108883",
+    "wof:geomhash":"c4a7ad09bd68fa4fc626fb287960dc20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +81,13 @@
         }
     ],
     "wof:id":1343279577,
-    "wof:lastmodified":1566584883,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126935,
     "wof:name":"Pala",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -92,9 +98,9 @@
 },
   "bbox": [
     25.85,
-    59.36666999999999,
+    59.36667,
     25.85,
-    59.36666999999999
+    59.36667
 ],
-  "geometry": {"coordinates":[25.85,59.36666999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.85,59.36667],"type":"Point"}
 }

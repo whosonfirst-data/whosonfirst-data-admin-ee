@@ -66,7 +66,7 @@
         "gn:id":793429
     },
     "wof:country":"EE",
-    "wof:geomhash":"7e2ba7d281646275dece8d435ba477df",
+    "wof:geomhash":"ce88d40f48d46c6703c774240e2f95bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1326715841,
-    "wof:lastmodified":1566584797,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126922,
     "wof:name":"Allika",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -87,9 +93,9 @@
 },
   "bbox": [
     26.53583,
-    59.24528000000001,
+    59.24528,
     26.53583,
-    59.24528000000001
+    59.24528
 ],
-  "geometry": {"coordinates":[26.53583,59.24528000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.53583,59.24528],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "gn:id":8619325
     },
     "wof:country":"EE",
-    "wof:geomhash":"6b7897a9e297e10bdab5918b08ee547a",
+    "wof:geomhash":"06792f9ffbee8d432c708f4d64c2de04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1293563155,
-    "wof:lastmodified":1566584949,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126944,
     "wof:name":"Pillardi",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.95611,
-    57.60778000000001,
+    57.60778,
     26.95611,
-    57.60778000000001
+    57.60778
 ],
-  "geometry": {"coordinates":[26.95611,57.60778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.95611,57.60778],"type":"Point"}
 }

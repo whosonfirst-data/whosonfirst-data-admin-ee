@@ -69,7 +69,7 @@
         "wk:page":"Marna%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c013e9c387aa00a621625d57f8e78244",
+    "wof:geomhash":"c41bca4219fc034d233d4bdf3dc5c373",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1243516197,
-    "wof:lastmodified":1566585436,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127022,
     "wof:name":"Marna",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -90,9 +96,9 @@
 },
   "bbox": [
     25.45139,
-    58.32944000000001,
+    58.32944,
     25.45139,
-    58.32944000000001
+    58.32944
 ],
-  "geometry": {"coordinates":[25.45139,58.32944000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.45139,58.32944],"type":"Point"}
 }

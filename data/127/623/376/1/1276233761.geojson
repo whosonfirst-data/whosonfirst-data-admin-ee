@@ -47,7 +47,7 @@
         "gn:id":588528
     },
     "wof:country":"EE",
-    "wof:geomhash":"cf376340d0b738b34306649c00cd1aee",
+    "wof:geomhash":"378295f9b443fe9b5f4130be2358e54e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1276233761,
-    "wof:lastmodified":1566585023,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126955,
     "wof:name":"Suurekuela",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     25.69917,
-    58.78028000000001,
+    58.78028,
     25.69917,
-    58.78028000000001
+    58.78028
 ],
-  "geometry": {"coordinates":[25.69917,58.78028000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.69917,58.78028],"type":"Point"}
 }

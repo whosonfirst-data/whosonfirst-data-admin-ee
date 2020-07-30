@@ -42,7 +42,7 @@
         "gn:id":8620629
     },
     "wof:country":"EE",
-    "wof:geomhash":"c5a244bcf9abaa1634577eba1723a1e7",
+    "wof:geomhash":"147c2fd8844cc9b852dacc0921285c0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259859595,
-    "wof:lastmodified":1566585485,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127030,
     "wof:name":"Motskuelae",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.57694,
-    58.01833000000001,
+    58.01833,
     27.57694,
-    58.01833000000001
+    58.01833
 ],
-  "geometry": {"coordinates":[27.57694,58.01833000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.57694,58.01833],"type":"Point"}
 }

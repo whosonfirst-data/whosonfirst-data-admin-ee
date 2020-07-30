@@ -65,7 +65,7 @@
         "wk:page":"L%C3%B5pi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"23ec0dd1740e6e213bb8beaa325516e8",
+    "wof:geomhash":"cafe158e20c9cab7e553b6767240d01a",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1209686835,
-    "wof:lastmodified":1566585081,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Lopi",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     22.74083,
-    58.47528000000001,
+    58.47528,
     22.74083,
-    58.47528000000001
+    58.47528
 ],
-  "geometry": {"coordinates":[22.74083,58.47528000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.74083,58.47528],"type":"Point"}
 }

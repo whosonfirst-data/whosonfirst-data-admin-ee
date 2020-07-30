@@ -61,7 +61,7 @@
         "wk:page":"Lohkuse"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c91232a2134cf1501c1136b0438ecffc",
+    "wof:geomhash":"669a82b533f62d658563a6d2d8bc265a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1310013357,
-    "wof:lastmodified":1566585180,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126981,
     "wof:name":"Lohkuse",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     27.03694,
-    59.34583000000001,
+    59.34583,
     27.03694,
-    59.34583000000001
+    59.34583
 ],
-  "geometry": {"coordinates":[27.03694,59.34583000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.03694,59.34583],"type":"Point"}
 }

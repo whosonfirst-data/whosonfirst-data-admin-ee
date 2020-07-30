@@ -64,7 +64,7 @@
         "wk:page":"Tarakvere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"f87d80434c55977c6d4d44da5343ba2f",
+    "wof:geomhash":"0c2c1713b7d8b2140c9831559e91473f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1310204171,
-    "wof:lastmodified":1566585185,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126981,
     "wof:name":"Tarakvere",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.775,
-    58.78028000000001,
+    58.78028,
     26.775,
-    58.78028000000001
+    58.78028
 ],
-  "geometry": {"coordinates":[26.775,58.78028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.775,58.78028],"type":"Point"}
 }

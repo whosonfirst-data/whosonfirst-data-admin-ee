@@ -47,7 +47,7 @@
         "gn:id":590608
     },
     "wof:country":"EE",
-    "wof:geomhash":"2a6db28145f1249ffad7c9264678def2",
+    "wof:geomhash":"f8b3ad9f31ecdc0e61dc27f94b001be5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1225804093,
-    "wof:lastmodified":1566585550,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127040,
     "wof:name":"Linnamaee",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     26.72056,
-    57.87889000000001,
+    57.87889,
     26.72056,
-    57.87889000000001
+    57.87889
 ],
-  "geometry": {"coordinates":[26.72056,57.87889000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.72056,57.87889],"type":"Point"}
 }

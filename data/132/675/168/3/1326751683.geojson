@@ -71,7 +71,7 @@
         "wk:page":"Saunja%2C_L%C3%A4%C3%A4ne_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c9f178f04efe53bbc2db248f54c4c582",
+    "wof:geomhash":"c6251502ba69ecb7ddc21ce38f6e9aab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +81,13 @@
         }
     ],
     "wof:id":1326751683,
-    "wof:lastmodified":1566584764,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126917,
     "wof:name":"Saunja",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -92,9 +98,9 @@
 },
   "bbox": [
     23.665,
-    58.98833000000001,
+    58.98833,
     23.665,
-    58.98833000000001
+    58.98833
 ],
-  "geometry": {"coordinates":[23.665,58.98833000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.665,58.98833],"type":"Point"}
 }

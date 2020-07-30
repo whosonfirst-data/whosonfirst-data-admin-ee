@@ -46,7 +46,7 @@
         "gn:id":590928
     },
     "wof:country":"EE",
-    "wof:geomhash":"06da93c62019604aa3f09421280a37cb",
+    "wof:geomhash":"1a506360f171235acbab98b35255987d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1326718411,
-    "wof:lastmodified":1566584797,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126922,
     "wof:name":"Kurgoja-Raba",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     24.93722,
-    58.13444000000001,
+    58.13444,
     24.93722,
-    58.13444000000001
+    58.13444
 ],
-  "geometry": {"coordinates":[24.93722,58.13444000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.93722,58.13444],"type":"Point"}
 }

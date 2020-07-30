@@ -63,7 +63,7 @@
         "wk:page":"Vaiste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"daadf5feaffe245edde63e60eb87aeb0",
+    "wof:geomhash":"c12f2a3804a24e7753fa1d2e95e5628e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1309993917,
-    "wof:lastmodified":1566585254,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126993,
     "wof:name":"Ees-Vaiste",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -83,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.86667000000001,
+    23.86667,
     58.35,
-    23.86667000000001,
+    23.86667,
     58.35
 ],
-  "geometry": {"coordinates":[23.86667000000001,58.35],"type":"Point"}
+  "geometry": {"coordinates":[23.86667,58.35],"type":"Point"}
 }

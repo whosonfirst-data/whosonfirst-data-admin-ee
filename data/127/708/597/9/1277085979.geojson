@@ -64,7 +64,7 @@
         "wk:page":"K%C3%A4rasi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c71f06e25771b09519f4fa7afa767329",
+    "wof:geomhash":"dd0e7c94031b1fd31e05c05bb06c5f7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1277085979,
-    "wof:lastmodified":1566584982,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126949,
     "wof:name":"Kaerasi",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.93722,
-    58.95721999999999,
+    58.95722,
     26.93722,
-    58.95721999999999
+    58.95722
 ],
-  "geometry": {"coordinates":[26.93722,58.95721999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.93722,58.95722],"type":"Point"}
 }

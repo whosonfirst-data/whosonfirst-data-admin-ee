@@ -45,7 +45,7 @@
         "gn:id":8619606
     },
     "wof:country":"EE",
-    "wof:geomhash":"6751741144902ac423454ba1ca7c0687",
+    "wof:geomhash":"06a24b9e1fa524524e9ddd19976d4da2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1226201389,
-    "wof:lastmodified":1566585533,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127037,
     "wof:name":"Pilpa",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.67444,
-    57.65083000000001,
+    57.65083,
     26.67444,
-    57.65083000000001
+    57.65083
 ],
-  "geometry": {"coordinates":[26.67444,57.65083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.67444,57.65083],"type":"Point"}
 }

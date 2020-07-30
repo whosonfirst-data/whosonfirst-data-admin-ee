@@ -64,7 +64,7 @@
         "wk:page":"Leila%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"07d2cbc7a6200c4b3050967feb52cab4",
+    "wof:geomhash":"6bec80779ec4c05d3ba8364bb1cb1ad4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1242674369,
-    "wof:lastmodified":1566585411,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127018,
     "wof:name":"Leila",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     24.09528,
-    58.92528000000001,
+    58.92528,
     24.09528,
-    58.92528000000001
+    58.92528
 ],
-  "geometry": {"coordinates":[24.09528,58.92528000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.09528,58.92528],"type":"Point"}
 }

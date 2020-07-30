@@ -56,7 +56,7 @@
         "wk:page":"M%C3%A4gestiku"
     },
     "wof:country":"EE",
-    "wof:geomhash":"0d20ed42a95026b9fd4a6c54fcd47568",
+    "wof:geomhash":"804efeca5e1eca417df4e1b1413ffd93",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -64,7 +64,13 @@
         }
     ],
     "wof:id":1209380433,
-    "wof:lastmodified":1566585045,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126959,
     "wof:name":"Maegestiku",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -75,9 +81,9 @@
 },
   "bbox": [
     26.39222,
-    58.08971999999999,
+    58.08972,
     26.39222,
-    58.08971999999999
+    58.08972
 ],
-  "geometry": {"coordinates":[26.39222,58.08971999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.39222,58.08972],"type":"Point"}
 }

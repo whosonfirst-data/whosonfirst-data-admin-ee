@@ -61,7 +61,7 @@
         "wk:page":"Uuemaa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"29123790283439e3f16689d276354e87",
+    "wof:geomhash":"3a83920ef3da95ed55cf56f5038caeb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1326511331,
-    "wof:lastmodified":1566584770,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126918,
     "wof:name":"Uuemaa",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     24.61333,
-    57.99028000000001,
+    57.99028,
     24.61333,
-    57.99028000000001
+    57.99028
 ],
-  "geometry": {"coordinates":[24.61333,57.99028000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.61333,57.99028],"type":"Point"}
 }

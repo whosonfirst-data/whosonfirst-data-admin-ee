@@ -63,7 +63,7 @@
         "wk:page":"Vatku"
     },
     "wof:country":"EE",
-    "wof:geomhash":"f618b32a548bbc98732475bfc0e5d555",
+    "wof:geomhash":"fb70ac5cef8da292f1134bd25e3d2d8f",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1209635269,
-    "wof:lastmodified":1566585058,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126961,
     "wof:name":"Vatku",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     25.81833,
-    59.53778000000001,
+    59.53778,
     25.81833,
-    59.53778000000001
+    59.53778
 ],
-  "geometry": {"coordinates":[25.81833,59.53778000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.81833,59.53778],"type":"Point"}
 }

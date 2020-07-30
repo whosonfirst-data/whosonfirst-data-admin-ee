@@ -59,7 +59,7 @@
         "wk:page":"Hirla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"5d866e98bfd9743233ca5ce46364d240",
+    "wof:geomhash":"e969c5369c12bc3b92cba4b820a89949",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +69,13 @@
         }
     ],
     "wof:id":1259669327,
-    "wof:lastmodified":1566585492,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127031,
     "wof:name":"Hirla",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -79,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.35194000000001,
-    59.03333000000001,
-    26.35194000000001,
-    59.03333000000001
+    26.35194,
+    59.03333,
+    26.35194,
+    59.03333
 ],
-  "geometry": {"coordinates":[26.35194000000001,59.03333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.35194,59.03333],"type":"Point"}
 }

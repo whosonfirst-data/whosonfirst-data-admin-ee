@@ -64,7 +64,7 @@
         "wk:page":"Suurmetsa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"39b85dfd0a11238cc9ea1b17015d02f2",
+    "wof:geomhash":"add7b72a33e68d8114248ecf31ce4106",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1309692383,
-    "wof:lastmodified":1566585264,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126995,
     "wof:name":"Suurmetsa",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     27.26111,
-    58.12833000000001,
+    58.12833,
     27.26111,
-    58.12833000000001
+    58.12833
 ],
-  "geometry": {"coordinates":[27.26111,58.12833000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.26111,58.12833],"type":"Point"}
 }

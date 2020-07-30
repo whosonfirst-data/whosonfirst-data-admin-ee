@@ -62,7 +62,7 @@
         "wk:page":"Pehka"
     },
     "wof:country":"EE",
-    "wof:geomhash":"55a2017fccac467cdb5287c7e3b7c04b",
+    "wof:geomhash":"db6da52db8fb3cb1e797b77273e32e4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,13 @@
         }
     ],
     "wof:id":1242673015,
-    "wof:lastmodified":1566585411,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127018,
     "wof:name":"Pehka",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -83,9 +89,9 @@
 },
   "bbox": [
     26.36472,
-    59.48778000000001,
+    59.48778,
     26.36472,
-    59.48778000000001
+    59.48778
 ],
-  "geometry": {"coordinates":[26.36472,59.48778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.36472,59.48778],"type":"Point"}
 }

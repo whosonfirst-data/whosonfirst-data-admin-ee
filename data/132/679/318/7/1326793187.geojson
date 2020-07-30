@@ -42,7 +42,7 @@
         "gn:id":8620573
     },
     "wof:country":"EE",
-    "wof:geomhash":"a435d810f987030e7395f316375b35cc",
+    "wof:geomhash":"44f05eda5294d2e257a23f36ba50ecd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326793187,
-    "wof:lastmodified":1566584799,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126922,
     "wof:name":"Mortsuka",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.47194,
-    58.14333000000001,
+    58.14333,
     26.47194,
-    58.14333000000001
+    58.14333
 ],
-  "geometry": {"coordinates":[26.47194,58.14333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.47194,58.14333],"type":"Point"}
 }

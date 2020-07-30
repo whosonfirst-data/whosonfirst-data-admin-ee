@@ -67,7 +67,7 @@
         "wk:page":"Riidak%C3%BCla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1e1bc972d4331bff7ce6253b1bbe4689",
+    "wof:geomhash":"77aa0c2868d0fdb650fda118e8a56752",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1242886997,
-    "wof:lastmodified":1566585401,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127017,
     "wof:name":"Riidakuela",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -88,9 +94,9 @@
 },
   "bbox": [
     22.58,
-    58.71944000000001,
+    58.71944,
     22.58,
-    58.71944000000001
+    58.71944
 ],
-  "geometry": {"coordinates":[22.58,58.71944000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.58,58.71944],"type":"Point"}
 }

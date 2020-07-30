@@ -48,7 +48,7 @@
         "gn:id":589929
     },
     "wof:country":"EE",
-    "wof:geomhash":"da00f653447a294b8880f16073543111",
+    "wof:geomhash":"ced3ca196a1cd259341e134aab633546",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1193254217,
-    "wof:lastmodified":1566585119,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126970,
     "wof:name":"Noorma",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     26.16417,
-    58.25833000000001,
+    58.25833,
     26.16417,
-    58.25833000000001
+    58.25833
 ],
-  "geometry": {"coordinates":[26.16417,58.25833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.16417,58.25833],"type":"Point"}
 }

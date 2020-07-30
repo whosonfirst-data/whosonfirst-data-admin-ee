@@ -41,7 +41,7 @@
         "gn:id":8619832
     },
     "wof:country":"EE",
-    "wof:geomhash":"34128f83261b109ca8c7aa876a258b24",
+    "wof:geomhash":"7f0ef1ee294271375d71a68b8d4ee91c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +51,13 @@
         }
     ],
     "wof:id":1293397583,
-    "wof:lastmodified":1566584923,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126939,
     "wof:name":"Korgesoo",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -61,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.08167000000001,
+    28.08167,
     59.32889,
-    28.08167000000001,
+    28.08167,
     59.32889
 ],
-  "geometry": {"coordinates":[28.08167000000001,59.32889],"type":"Point"}
+  "geometry": {"coordinates":[28.08167,59.32889],"type":"Point"}
 }

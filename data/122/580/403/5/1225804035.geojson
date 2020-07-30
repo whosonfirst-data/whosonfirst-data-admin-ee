@@ -61,7 +61,7 @@
         "wk:page":"Tabina%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1e725cf29c7eaa024fb69d42456894d5",
+    "wof:geomhash":"580e7d0d351f6b92625d80dfbd58dd9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1225804035,
-    "wof:lastmodified":1566585551,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127040,
     "wof:name":"Tabina",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     27.31306,
-    57.81333000000001,
+    57.81333,
     27.31306,
-    57.81333000000001
+    57.81333
 ],
-  "geometry": {"coordinates":[27.31306,57.81333000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.31306,57.81333],"type":"Point"}
 }

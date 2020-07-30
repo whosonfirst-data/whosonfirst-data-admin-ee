@@ -42,7 +42,7 @@
         "gn:id":588848
     },
     "wof:country":"EE",
-    "wof:geomhash":"91d0d5d9c5c7cd346abe8627a8528836",
+    "wof:geomhash":"9547c9520cb457f24723156741b4899a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343766239,
-    "wof:lastmodified":1566584857,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126931,
     "wof:name":"Saha-Liiva",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     24.96667,
-    59.43333000000001,
+    59.43333,
     24.96667,
-    59.43333000000001
+    59.43333
 ],
-  "geometry": {"coordinates":[24.96667,59.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.96667,59.43333],"type":"Point"}
 }

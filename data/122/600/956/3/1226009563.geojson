@@ -61,7 +61,7 @@
         "wk:page":"Jakobim%C3%B5isa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ff32ded17ff38df6bb4b1d1146049a8e",
+    "wof:geomhash":"5b31c060c1e45d1c33a9f48a763b64ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1226009563,
-    "wof:lastmodified":1566585581,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127044,
     "wof:name":"Jakobimoisa",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     25.88639,
-    58.20778000000001,
+    58.20778,
     25.88639,
-    58.20778000000001
+    58.20778
 ],
-  "geometry": {"coordinates":[25.88639,58.20778000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.88639,58.20778],"type":"Point"}
 }

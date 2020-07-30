@@ -47,7 +47,7 @@
         "wk:page":"N%C3%B5mme%2C_Leisi_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c7d8b69bea48bb3146dc1d7b7d452886",
+    "wof:geomhash":"c54841a7e690ba29d68c9beca3a8bda8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1226225521,
-    "wof:lastmodified":1566585557,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127041,
     "wof:name":"Nomme",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.63722000000001,
-    58.50083000000001,
-    22.63722000000001,
-    58.50083000000001
+    22.63722,
+    58.50083,
+    22.63722,
+    58.50083
 ],
-  "geometry": {"coordinates":[22.63722000000001,58.50083000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.63722,58.50083],"type":"Point"}
 }

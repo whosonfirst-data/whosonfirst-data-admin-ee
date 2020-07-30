@@ -45,7 +45,7 @@
         "gn:id":8618803
     },
     "wof:country":"EE",
-    "wof:geomhash":"44e1ae85127bf5b0d80f45779f9ed629",
+    "wof:geomhash":"23553245f8e7f64b7706318a5fa44c55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1276154995,
-    "wof:lastmodified":1566585025,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126955,
     "wof:name":"Kaste",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.6075,
-    58.53778000000001,
+    58.53778,
     26.6075,
-    58.53778000000001
+    58.53778
 ],
-  "geometry": {"coordinates":[26.6075,58.53778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.6075,58.53778],"type":"Point"}
 }

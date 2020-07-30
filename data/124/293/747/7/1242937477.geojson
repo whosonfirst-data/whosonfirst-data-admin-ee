@@ -46,7 +46,7 @@
         "gn:id":8619935
     },
     "wof:country":"EE",
-    "wof:geomhash":"7963cf42c889cfd4c9f5096da1cd84d4",
+    "wof:geomhash":"3a94bc2b7d1065dc9adfad7266d7f8ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1242937477,
-    "wof:lastmodified":1566585413,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127019,
     "wof:name":"Tsopa",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     26.95833,
-    57.87694000000001,
+    57.87694,
     26.95833,
-    57.87694000000001
+    57.87694
 ],
-  "geometry": {"coordinates":[26.95833,57.87694000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.95833,57.87694],"type":"Point"}
 }

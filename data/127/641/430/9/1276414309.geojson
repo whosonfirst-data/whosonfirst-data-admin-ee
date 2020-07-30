@@ -45,7 +45,7 @@
         "gn:id":8619906
     },
     "wof:country":"EE",
-    "wof:geomhash":"3f3d2b3558d19669a8b95acd883edf8c",
+    "wof:geomhash":"6c0312b95cb60bf5d83108a0521ce1bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1276414309,
-    "wof:lastmodified":1566585025,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126956,
     "wof:name":"Sapi",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.30417000000001,
+    27.30417,
     57.66861,
-    27.30417000000001,
+    27.30417,
     57.66861
 ],
-  "geometry": {"coordinates":[27.30417000000001,57.66861],"type":"Point"}
+  "geometry": {"coordinates":[27.30417,57.66861],"type":"Point"}
 }

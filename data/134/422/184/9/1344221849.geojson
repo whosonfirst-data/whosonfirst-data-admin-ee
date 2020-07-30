@@ -64,7 +64,7 @@
         "wk:page":"Kerita%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"d1c6f11081cba1730400cf625d0a5e9d",
+    "wof:geomhash":"feb5a469126f86e9f7c16f234ff2d294",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1344221849,
-    "wof:lastmodified":1566584837,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126928,
     "wof:name":"Kerita",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     25.55472,
-    58.49333000000001,
+    58.49333,
     25.55472,
-    58.49333000000001
+    58.49333
 ],
-  "geometry": {"coordinates":[25.55472,58.49333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.55472,58.49333],"type":"Point"}
 }

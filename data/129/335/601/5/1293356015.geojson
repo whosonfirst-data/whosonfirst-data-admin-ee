@@ -47,7 +47,7 @@
         "gn:id":588061
     },
     "wof:country":"EE",
-    "wof:geomhash":"acda8b51f256bb3e8f3e2da93652b5a3",
+    "wof:geomhash":"99a70ccb17063349fbbe9ca32e764565",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1293356015,
-    "wof:lastmodified":1566584947,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126944,
     "wof:name":"Unikuela",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.11667000000001,
+    26.11667,
     57.92139,
-    26.11667000000001,
+    26.11667,
     57.92139
 ],
-  "geometry": {"coordinates":[26.11667000000001,57.92139],"type":"Point"}
+  "geometry": {"coordinates":[26.11667,57.92139],"type":"Point"}
 }

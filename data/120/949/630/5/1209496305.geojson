@@ -44,7 +44,7 @@
         "gn:id":592451
     },
     "wof:country":"EE",
-    "wof:geomhash":"690d0bf9d157e92175a2f782a94b4a2a",
+    "wof:geomhash":"76103316858d2828bf50be3c637b29dd",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209496305,
-    "wof:lastmodified":1566585075,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Araka",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     23.97083,
-    58.34444000000001,
+    58.34444,
     23.97083,
-    58.34444000000001
+    58.34444
 ],
-  "geometry": {"coordinates":[23.97083,58.34444000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.97083,58.34444],"type":"Point"}
 }

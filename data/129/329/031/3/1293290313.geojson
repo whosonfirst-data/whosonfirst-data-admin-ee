@@ -48,7 +48,7 @@
         "gn:id":589927
     },
     "wof:country":"EE",
-    "wof:geomhash":"8334c83d8ec8e4b634f939a17d1f4e5e",
+    "wof:geomhash":"6cd54729a9da10a6d1314d25520bb4c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1293290313,
-    "wof:lastmodified":1566584964,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126946,
     "wof:name":"Notke",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.11667000000001,
-    59.46666999999999,
-    26.11667000000001,
-    59.46666999999999
+    26.11667,
+    59.46667,
+    26.11667,
+    59.46667
 ],
-  "geometry": {"coordinates":[26.11667000000001,59.46666999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.11667,59.46667],"type":"Point"}
 }

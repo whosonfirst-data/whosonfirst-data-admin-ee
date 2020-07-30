@@ -55,7 +55,7 @@
         "wk:page":"Veeriku%2C_Saare_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"36bdc7c37542d8683ed6ad9d4c037be9",
+    "wof:geomhash":"6f8b09d5e75040fb808688f7944718ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1226413437,
-    "wof:lastmodified":1566585568,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127042,
     "wof:name":"Veeriku",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -76,9 +82,9 @@
 },
   "bbox": [
     22.86028,
-    58.41778000000001,
+    58.41778,
     22.86028,
-    58.41778000000001
+    58.41778
 ],
-  "geometry": {"coordinates":[22.86028,58.41778000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.86028,58.41778],"type":"Point"}
 }

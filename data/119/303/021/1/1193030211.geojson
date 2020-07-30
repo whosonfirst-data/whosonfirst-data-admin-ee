@@ -77,7 +77,7 @@
         "wk:page":"Kustja"
     },
     "wof:country":"EE",
-    "wof:geomhash":"2483de58e62d5f904994b7a576ae8c78",
+    "wof:geomhash":"9545da7f52089c5a6f15a17ac1657201",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +87,13 @@
         }
     ],
     "wof:id":1193030211,
-    "wof:lastmodified":1566585121,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126971,
     "wof:name":"Kustja",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -98,9 +104,9 @@
 },
   "bbox": [
     24.46444,
-    59.11221999999999,
+    59.11222,
     24.46444,
-    59.11221999999999
+    59.11222
 ],
-  "geometry": {"coordinates":[24.46444,59.11221999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.46444,59.11222],"type":"Point"}
 }

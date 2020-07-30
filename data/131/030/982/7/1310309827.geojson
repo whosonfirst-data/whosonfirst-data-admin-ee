@@ -45,7 +45,7 @@
         "gn:id":8618484
     },
     "wof:country":"EE",
-    "wof:geomhash":"32692d301da54527be452bb1b48d1cbe",
+    "wof:geomhash":"5340ecc65cea10ff37345d0ffafa8821",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1310309827,
-    "wof:lastmodified":1566585176,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126980,
     "wof:name":"Aoveski",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.665,
-    58.76694000000001,
+    58.76694,
     26.665,
-    58.76694000000001
+    58.76694
 ],
-  "geometry": {"coordinates":[26.665,58.76694000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.665,58.76694],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Leina%2C_P%C3%A4rnu_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"3da0b0680959ecbb9945f956cd6c69a9",
+    "wof:geomhash":"382cc3b01b406c2002c7728266c9760b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1225823555,
-    "wof:lastmodified":1566585583,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127045,
     "wof:name":"Leina",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -89,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.52667000000001,
+    24.52667,
     58.22139,
-    24.52667000000001,
+    24.52667,
     58.22139
 ],
-  "geometry": {"coordinates":[24.52667000000001,58.22139],"type":"Point"}
+  "geometry": {"coordinates":[24.52667,58.22139],"type":"Point"}
 }

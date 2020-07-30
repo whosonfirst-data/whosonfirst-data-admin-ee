@@ -51,7 +51,7 @@
         "gn:id":591720
     },
     "wof:country":"EE",
-    "wof:geomhash":"8a886156c457d322752627cbfa4e1928",
+    "wof:geomhash":"edc0428577ba4f1f3dbe5d677aa9ccc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1276739341,
-    "wof:lastmodified":1566584995,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126951,
     "wof:name":"Kalda",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -72,9 +78,9 @@
 },
   "bbox": [
     24.87611,
-    59.11333000000001,
+    59.11333,
     24.87611,
-    59.11333000000001
+    59.11333
 ],
-  "geometry": {"coordinates":[24.87611,59.11333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.87611,59.11333],"type":"Point"}
 }

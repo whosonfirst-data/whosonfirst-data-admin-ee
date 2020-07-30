@@ -61,7 +61,7 @@
         "wk:page":"P%C3%A4%C3%A4v%C3%A4kese"
     },
     "wof:country":"EE",
-    "wof:geomhash":"4f8c12c1576ea20f1c1ec484a8b05796",
+    "wof:geomhash":"375059363551d45f87c06432009bcda9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1327016921,
-    "wof:lastmodified":1566584757,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126916,
     "wof:name":"Paeaevaekese",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     27.49306,
-    57.93333000000001,
+    57.93333,
     27.49306,
-    57.93333000000001
+    57.93333
 ],
-  "geometry": {"coordinates":[27.49306,57.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.49306,57.93333],"type":"Point"}
 }

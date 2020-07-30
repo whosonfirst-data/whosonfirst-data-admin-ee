@@ -48,7 +48,7 @@
         "gn:id":588010
     },
     "wof:country":"EE",
-    "wof:geomhash":"063b4bc3d31239b97430bf9a585f8a4a",
+    "wof:geomhash":"849655aaa1f8d5962d261ba96eb798fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1276566135,
-    "wof:lastmodified":1566585001,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126952,
     "wof:name":"Uue-Riisipere",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     24.28333,
-    59.11666999999999,
+    59.11667,
     24.28333,
-    59.11666999999999
+    59.11667
 ],
-  "geometry": {"coordinates":[24.28333,59.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.28333,59.11667],"type":"Point"}
 }

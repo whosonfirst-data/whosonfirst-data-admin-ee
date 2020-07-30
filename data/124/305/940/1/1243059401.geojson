@@ -65,7 +65,7 @@
         "wk:page":"Puise"
     },
     "wof:country":"EE",
-    "wof:geomhash":"dd38b14395bb75027080ddd55a161346",
+    "wof:geomhash":"e1a6390a739e813764f64acdbd95a2b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1243059401,
-    "wof:lastmodified":1566585441,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127023,
     "wof:name":"Puise",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -85,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.47722000000001,
+    23.47722,
     58.77806,
-    23.47722000000001,
+    23.47722,
     58.77806
 ],
-  "geometry": {"coordinates":[23.47722000000001,58.77806],"type":"Point"}
+  "geometry": {"coordinates":[23.47722,58.77806],"type":"Point"}
 }

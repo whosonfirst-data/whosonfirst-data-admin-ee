@@ -67,7 +67,7 @@
         "wk:page":"Anna%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"58f8bb71a50e3bbe4c901da96da76c97",
+    "wof:geomhash":"c165b21b11f1842062c987f1629127c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1276118351,
-    "wof:lastmodified":1566584998,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126951,
     "wof:name":"Anna",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -87,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.58167000000001,
+    25.58167,
     59.01194,
-    25.58167000000001,
+    25.58167,
     59.01194
 ],
-  "geometry": {"coordinates":[25.58167000000001,59.01194],"type":"Point"}
+  "geometry": {"coordinates":[25.58167,59.01194],"type":"Point"}
 }

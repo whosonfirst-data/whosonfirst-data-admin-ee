@@ -46,7 +46,7 @@
         "gn:id":588001
     },
     "wof:country":"EE",
-    "wof:geomhash":"8dd2a4cbc99ff5246a6735a18f942163",
+    "wof:geomhash":"b27e808d420b92b6a588de596e737331",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1310083805,
-    "wof:lastmodified":1566585178,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126980,
     "wof:name":"Uulukuela",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.61667000000001,
+    24.61667,
     58.3,
-    24.61667000000001,
+    24.61667,
     58.3
 ],
-  "geometry": {"coordinates":[24.61667000000001,58.3],"type":"Point"}
+  "geometry": {"coordinates":[24.61667,58.3],"type":"Point"}
 }

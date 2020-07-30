@@ -42,7 +42,7 @@
         "gn:id":587674
     },
     "wof:country":"EE",
-    "wof:geomhash":"e48039d8654e8caf8f42d1a1b62c0af8",
+    "wof:geomhash":"913fd7fc23d5f07242a4ad83c982df77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259507485,
-    "wof:lastmodified":1566585487,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127030,
     "wof:name":"Venevere",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.47472,
-    58.91889000000001,
+    58.91889,
     25.47472,
-    58.91889000000001
+    58.91889
 ],
-  "geometry": {"coordinates":[25.47472,58.91889000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.47472,58.91889],"type":"Point"}
 }

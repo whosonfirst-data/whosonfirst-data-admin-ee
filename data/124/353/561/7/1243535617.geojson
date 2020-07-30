@@ -47,7 +47,7 @@
         "gn:id":591382
     },
     "wof:country":"EE",
-    "wof:geomhash":"4fcb0c3b7cc778afa93db55b79b5ed94",
+    "wof:geomhash":"cda16d6c6751014b549dd4175529a773",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1243535617,
-    "wof:lastmodified":1566585393,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127015,
     "wof:name":"Kilingi",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     24.98333,
-    58.13333000000001,
+    58.13333,
     24.98333,
-    58.13333000000001
+    58.13333
 ],
-  "geometry": {"coordinates":[24.98333,58.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.98333,58.13333],"type":"Point"}
 }

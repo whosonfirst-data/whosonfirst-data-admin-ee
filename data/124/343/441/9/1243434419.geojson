@@ -42,7 +42,7 @@
         "gn:id":592152
     },
     "wof:country":"EE",
-    "wof:geomhash":"1f87c2fd8dd5292993a361f997dbe435",
+    "wof:geomhash":"a9cb383698e0e81d28402ecc48596a63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243434419,
-    "wof:lastmodified":1566585462,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127026,
     "wof:name":"Helbi",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.5,
-    57.96666999999999,
+    57.96667,
     27.5,
-    57.96666999999999
+    57.96667
 ],
-  "geometry": {"coordinates":[27.5,57.96666999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.5,57.96667],"type":"Point"}
 }

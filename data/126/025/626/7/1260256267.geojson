@@ -70,7 +70,7 @@
         "wk:page":"L%C3%B5up%C3%B5llu"
     },
     "wof:country":"EE",
-    "wof:geomhash":"2a6e7ff077ab7ca453f32c8d2c2fd012",
+    "wof:geomhash":"a73b7f797c2dbc8f995c5af446b7a14b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1260256267,
-    "wof:lastmodified":1566585134,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126974,
     "wof:name":"Loupollu",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -91,9 +97,9 @@
 },
   "bbox": [
     22.13306,
-    58.04833000000001,
+    58.04833,
     22.13306,
-    58.04833000000001
+    58.04833
 ],
-  "geometry": {"coordinates":[22.13306,58.04833000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.13306,58.04833],"type":"Point"}
 }

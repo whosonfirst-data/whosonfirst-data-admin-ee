@@ -42,7 +42,7 @@
         "gn:id":8618199
     },
     "wof:country":"EE",
-    "wof:geomhash":"f2a007b0ef565eba3f8b8cd2e406d9f2",
+    "wof:geomhash":"7f93d3a6f487d071a907f423f1854eef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327200251,
-    "wof:lastmodified":1566584821,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126926,
     "wof:name":"Vaeljakuela",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.08139000000001,
+    27.08139,
     58.6475,
-    27.08139000000001,
+    27.08139,
     58.6475
 ],
-  "geometry": {"coordinates":[27.08139000000001,58.6475],"type":"Point"}
+  "geometry": {"coordinates":[27.08139,58.6475],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Karin%C3%B5mme"
     },
     "wof:country":"EE",
-    "wof:geomhash":"457289444068876b7899edf6d57865ea",
+    "wof:geomhash":"4792671910405bf7dc3c646d8821c665",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1225826499,
-    "wof:lastmodified":1566585585,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127045,
     "wof:name":"Karinomme",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     23.97222,
-    58.62139000000001,
+    58.62139,
     23.97222,
-    58.62139000000001
+    58.62139
 ],
-  "geometry": {"coordinates":[23.97222,58.62139000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.97222,58.62139],"type":"Point"}
 }

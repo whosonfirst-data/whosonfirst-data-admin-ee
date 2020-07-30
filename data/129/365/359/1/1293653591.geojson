@@ -64,7 +64,7 @@
         "wk:page":"Punsa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"19af91a623cf9855a20a18bf1cd83d55",
+    "wof:geomhash":"fed846e14835988f16fdc460ce56cb59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1293653591,
-    "wof:lastmodified":1566584918,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126939,
     "wof:name":"Punsa",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.62472,
-    57.64471999999999,
+    57.64472,
     26.62472,
-    57.64471999999999
+    57.64472
 ],
-  "geometry": {"coordinates":[26.62472,57.64471999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.62472,57.64472],"type":"Point"}
 }

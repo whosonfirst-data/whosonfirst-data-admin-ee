@@ -46,7 +46,7 @@
         "gn:id":8619851
     },
     "wof:country":"EE",
-    "wof:geomhash":"9e57e755d76915335f1f57f85412ebb0",
+    "wof:geomhash":"200902ca32433c723864ec932624203e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243041931,
-    "wof:lastmodified":1566585432,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127022,
     "wof:name":"Vorstimaee",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.09,
-    57.65278000000001,
+    57.65278,
     27.09,
-    57.65278000000001
+    57.65278
 ],
-  "geometry": {"coordinates":[27.09,57.65278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.09,57.65278],"type":"Point"}
 }

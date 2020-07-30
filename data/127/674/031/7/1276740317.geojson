@@ -58,7 +58,7 @@
         "wk:page":"Logina"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b156d9f0659ee976ecc8bacc2617c4d6",
+    "wof:geomhash":"9f917caba8df66cf2a4feae645240a99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1276740317,
-    "wof:lastmodified":1566584992,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126950,
     "wof:name":"Logina",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     26.89083,
-    58.23083000000001,
+    58.23083,
     26.89083,
-    58.23083000000001
+    58.23083
 ],
-  "geometry": {"coordinates":[26.89083,58.23083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.89083,58.23083],"type":"Point"}
 }

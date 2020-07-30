@@ -73,7 +73,7 @@
         "wk:page":"Kaika%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1b8daeec9eaeecffa777b0887d834701",
+    "wof:geomhash":"62753d726f59bfcfad7a4b87489e186e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +83,13 @@
         }
     ],
     "wof:id":1225804047,
-    "wof:lastmodified":1566585551,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127040,
     "wof:name":"Kaika",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -94,9 +100,9 @@
 },
   "bbox": [
     26.53028,
-    57.75389000000001,
+    57.75389,
     26.53028,
-    57.75389000000001
+    57.75389
 ],
-  "geometry": {"coordinates":[26.53028,57.75389000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.53028,57.75389],"type":"Point"}
 }

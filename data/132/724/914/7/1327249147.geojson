@@ -45,7 +45,7 @@
         "gn:id":590803
     },
     "wof:country":"EE",
-    "wof:geomhash":"546bb5cbb3a156921f0296a4d6a3cb70",
+    "wof:geomhash":"262d913f83d73326bc731df5e056eca5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1327249147,
-    "wof:lastmodified":1566584785,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126920,
     "wof:name":"Lakeseyde",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     25.28333,
-    59.18333000000001,
+    59.18333,
     25.28333,
-    59.18333000000001
+    59.18333
 ],
-  "geometry": {"coordinates":[25.28333,59.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.28333,59.18333],"type":"Point"}
 }

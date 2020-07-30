@@ -61,7 +61,7 @@
         "wk:page":"Soosalu%2C_P%C3%A4rnu_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"23d06f619808d015c358878cde489e50",
+    "wof:geomhash":"9396d2102ac2d72c0fbf1042c7aa7773",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1259761299,
-    "wof:lastmodified":1566585487,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127030,
     "wof:name":"Soosalu",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     24.60389,
-    58.60028000000001,
+    58.60028,
     24.60389,
-    58.60028000000001
+    58.60028
 ],
-  "geometry": {"coordinates":[24.60389,58.60028000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.60389,58.60028],"type":"Point"}
 }

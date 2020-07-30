@@ -71,7 +71,7 @@
         "wk:page":"J%C3%B5epera%2C_V%C3%B5ru_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"f8197a7942390cc9e5f8ae81446c0391",
+    "wof:geomhash":"f65d760b91e80d048934f0754c91b516",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +81,13 @@
         }
     ],
     "wof:id":1260240499,
-    "wof:lastmodified":1566585130,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126973,
     "wof:name":"Joepera",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -92,9 +98,9 @@
 },
   "bbox": [
     26.5825,
-    57.75944000000001,
+    57.75944,
     26.5825,
-    57.75944000000001
+    57.75944
 ],
-  "geometry": {"coordinates":[26.5825,57.75944000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.5825,57.75944],"type":"Point"}
 }

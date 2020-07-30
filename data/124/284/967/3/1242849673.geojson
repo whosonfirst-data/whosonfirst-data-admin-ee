@@ -78,7 +78,7 @@
         "gn:id":8620311
     },
     "wof:country":"EE",
-    "wof:geomhash":"0ad674d48f360053eda1b94307d1b29b",
+    "wof:geomhash":"e0c66bf5868e5c74489e49b4e5e41ab7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +88,13 @@
         }
     ],
     "wof:id":1242849673,
-    "wof:lastmodified":1566585443,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127023,
     "wof:name":"Konna",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -99,9 +105,9 @@
 },
   "bbox": [
     26.26667,
-    58.04833000000001,
+    58.04833,
     26.26667,
-    58.04833000000001
+    58.04833
 ],
-  "geometry": {"coordinates":[26.26667,58.04833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.26667,58.04833],"type":"Point"}
 }

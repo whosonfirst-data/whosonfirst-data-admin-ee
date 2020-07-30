@@ -138,7 +138,7 @@
         "gn:id":8620615
     },
     "wof:country":"EE",
-    "wof:geomhash":"24140e424fa82b0672a3115e09291537",
+    "wof:geomhash":"4a27e08c8ed15c3735a4f26c8c84dcbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,7 +148,13 @@
         }
     ],
     "wof:id":1259370991,
-    "wof:lastmodified":1566585472,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127028,
     "wof:name":"Kallaste",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -159,9 +165,9 @@
 },
   "bbox": [
     24.88028,
-    58.13444000000001,
+    58.13444,
     24.88028,
-    58.13444000000001
+    58.13444
 ],
-  "geometry": {"coordinates":[24.88028,58.13444000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.88028,58.13444],"type":"Point"}
 }

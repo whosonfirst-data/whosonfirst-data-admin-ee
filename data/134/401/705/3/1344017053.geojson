@@ -61,7 +61,7 @@
         "wk:page":"Rummi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"43660d5a9503d02ffa492a743c2da9bd",
+    "wof:geomhash":"5bc4c797dedd9404c06792c0f3ab939e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1344017053,
-    "wof:lastmodified":1566584848,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126929,
     "wof:name":"Rummi",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     26.70917,
-    57.90083000000001,
+    57.90083,
     26.70917,
-    57.90083000000001
+    57.90083
 ],
-  "geometry": {"coordinates":[26.70917,57.90083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.70917,57.90083],"type":"Point"}
 }

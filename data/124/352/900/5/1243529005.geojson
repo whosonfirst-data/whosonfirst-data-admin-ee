@@ -42,7 +42,7 @@
         "gn:id":590106
     },
     "wof:country":"EE",
-    "wof:geomhash":"6920969433e2f2cdab631802098ab250",
+    "wof:geomhash":"22cdf7fef5bd6237c7a501bfa8f1b557",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243529005,
-    "wof:lastmodified":1566585396,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127016,
     "wof:name":"Murikatsi",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.83333,
-    58.11666999999999,
+    58.11667,
     25.83333,
-    58.11666999999999
+    58.11667
 ],
-  "geometry": {"coordinates":[25.83333,58.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.83333,58.11667],"type":"Point"}
 }

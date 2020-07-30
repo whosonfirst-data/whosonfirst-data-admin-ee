@@ -147,7 +147,7 @@
         "gn:id":8618232
     },
     "wof:country":"EE",
-    "wof:geomhash":"a6f20dbde6ea0f5b99b5c4d4592abb32",
+    "wof:geomhash":"bafaf85953350a31670c9bab995dfc9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,7 +157,13 @@
         }
     ],
     "wof:id":1343981993,
-    "wof:lastmodified":1566584829,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126927,
     "wof:name":"Raja",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -168,9 +174,9 @@
 },
   "bbox": [
     25.63028,
-    58.70778000000001,
+    58.70778,
     25.63028,
-    58.70778000000001
+    58.70778
 ],
-  "geometry": {"coordinates":[25.63028,58.70778000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.63028,58.70778],"type":"Point"}
 }

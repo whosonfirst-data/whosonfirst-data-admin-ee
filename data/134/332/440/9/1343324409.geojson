@@ -46,7 +46,7 @@
         "gn:id":8619781
     },
     "wof:country":"EE",
-    "wof:geomhash":"43df527248f238cfb08431699ebd110f",
+    "wof:geomhash":"7a684f885ecd1c15a93107efe44ae4be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1343324409,
-    "wof:lastmodified":1566584864,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126932,
     "wof:name":"Liivakuela",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.11667000000001,
+    26.11667,
     57.90611,
-    26.11667000000001,
+    26.11667,
     57.90611
 ],
-  "geometry": {"coordinates":[26.11667000000001,57.90611],"type":"Point"}
+  "geometry": {"coordinates":[26.11667,57.90611],"type":"Point"}
 }

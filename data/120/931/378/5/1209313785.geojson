@@ -40,7 +40,7 @@
         "gn:id":589219
     },
     "wof:country":"EE",
-    "wof:geomhash":"2f03fc80792c97eb364ce081407c7538",
+    "wof:geomhash":"d53685e97f1ef5da51ed3612dcd2b881",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -48,7 +48,13 @@
         }
     ],
     "wof:id":1209313785,
-    "wof:lastmodified":1566585044,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126959,
     "wof:name":"Raatvere",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -59,9 +65,9 @@
 },
   "bbox": [
     27.05583,
-    58.74028000000001,
+    58.74028,
     27.05583,
-    58.74028000000001
+    58.74028
 ],
-  "geometry": {"coordinates":[27.05583,58.74028000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.05583,58.74028],"type":"Point"}
 }

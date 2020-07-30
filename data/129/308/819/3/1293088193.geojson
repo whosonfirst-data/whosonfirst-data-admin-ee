@@ -45,7 +45,7 @@
         "gn:id":8619793
     },
     "wof:country":"EE",
-    "wof:geomhash":"ace3f0aaffd59d7f271d464a24b60d4f",
+    "wof:geomhash":"a04c4176c4ea3e7c7bcbf08cb1a349fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1293088193,
-    "wof:lastmodified":1566584921,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126939,
     "wof:name":"Vedo",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.01222000000001,
+    27.01222,
     57.98611,
-    27.01222000000001,
+    27.01222,
     57.98611
 ],
-  "geometry": {"coordinates":[27.01222000000001,57.98611],"type":"Point"}
+  "geometry": {"coordinates":[27.01222,57.98611],"type":"Point"}
 }

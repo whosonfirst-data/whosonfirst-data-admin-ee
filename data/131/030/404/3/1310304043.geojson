@@ -64,7 +64,7 @@
         "wk:page":"M%C3%B5rtsi"
     },
     "wof:country":"EE",
-    "wof:geomhash":"67371cd61b858c55a9c527d0592eec4a",
+    "wof:geomhash":"0d1fe468e89df47390732e681a321d3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1310304043,
-    "wof:lastmodified":1566585177,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126980,
     "wof:name":"Mortsi",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.05833,
-    58.70721999999999,
+    58.70722,
     26.05833,
-    58.70721999999999
+    58.70722
 ],
-  "geometry": {"coordinates":[26.05833,58.70721999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.05833,58.70722],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "gn:id":8620321
     },
     "wof:country":"EE",
-    "wof:geomhash":"ece959dded112907e09b76195a468b69",
+    "wof:geomhash":"f1de1b66c45c67117481a38b33674cdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1260351507,
-    "wof:lastmodified":1566585153,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126977,
     "wof:name":"Porja",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     26.08111,
-    58.06166999999999,
+    58.06167,
     26.08111,
-    58.06166999999999
+    58.06167
 ],
-  "geometry": {"coordinates":[26.08111,58.06166999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.08111,58.06167],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "gn:id":590726
     },
     "wof:country":"EE",
-    "wof:geomhash":"2a7c7171ef33c8d31b573d29509a597c",
+    "wof:geomhash":"da30883a38eae6895f99b873f9c29254",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1327241157,
-    "wof:lastmodified":1566584786,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126920,
     "wof:name":"Lehmja",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -87,9 +93,9 @@
 },
   "bbox": [
     24.55681,
-    59.34271999999999,
+    59.34272,
     24.55681,
-    59.34271999999999
+    59.34272
 ],
-  "geometry": {"coordinates":[24.55681,59.34271999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.55681,59.34272],"type":"Point"}
 }

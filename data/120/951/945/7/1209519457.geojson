@@ -62,7 +62,7 @@
         "wk:page":"Suuresta"
     },
     "wof:country":"EE",
-    "wof:geomhash":"eeb41c0d3601229559f3a12ac3e564ed",
+    "wof:geomhash":"f18dd00ecb682a8a29ea94b4004d49f8",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1209519457,
-    "wof:lastmodified":1566585092,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126966,
     "wof:name":"Suuresta",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -81,9 +87,9 @@
 },
   "bbox": [
     24.96967,
-    59.30023000000001,
+    59.30023,
     24.96967,
-    59.30023000000001
+    59.30023
 ],
-  "geometry": {"coordinates":[24.96967,59.30023000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.96967,59.30023],"type":"Point"}
 }

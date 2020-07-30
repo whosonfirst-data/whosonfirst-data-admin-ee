@@ -63,7 +63,7 @@
         "gn:id":8620012
     },
     "wof:country":"EE",
-    "wof:geomhash":"dc92d51b81163414107c8241b36f0a3d",
+    "wof:geomhash":"fd8cb3423e7dc84b950dd434077ddb97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1226519539,
-    "wof:lastmodified":1566585539,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127038,
     "wof:name":"Vahi",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     26.77722,
-    58.11221999999999,
+    58.11222,
     26.77722,
-    58.11221999999999
+    58.11222
 ],
-  "geometry": {"coordinates":[26.77722,58.11221999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.77722,58.11222],"type":"Point"}
 }

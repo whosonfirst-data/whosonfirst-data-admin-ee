@@ -46,7 +46,7 @@
         "gn:id":8620451
     },
     "wof:country":"EE",
-    "wof:geomhash":"44e8ef798dd91f7ee741737f76a80499",
+    "wof:geomhash":"6a099a03186a5df06ba160c1feee364f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1260259941,
-    "wof:lastmodified":1566585135,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126974,
     "wof:name":"Torvhavva",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.17722,
-    58.05278000000001,
+    58.05278,
     27.17722,
-    58.05278000000001
+    58.05278
 ],
-  "geometry": {"coordinates":[27.17722,58.05278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.17722,58.05278],"type":"Point"}
 }

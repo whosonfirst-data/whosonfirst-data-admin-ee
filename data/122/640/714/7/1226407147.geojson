@@ -64,7 +64,7 @@
         "wk:page":"Tobraselja"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c1bba85f7f2f01857fa1d778d9fc10d3",
+    "wof:geomhash":"379b590e5a24ee91b59265378f90a0a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1226407147,
-    "wof:lastmodified":1566585561,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127041,
     "wof:name":"Tobraselja",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -84,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.60972000000001,
+    25.60972,
     58.41389,
-    25.60972000000001,
+    25.60972,
     58.41389
 ],
-  "geometry": {"coordinates":[25.60972000000001,58.41389],"type":"Point"}
+  "geometry": {"coordinates":[25.60972,58.41389],"type":"Point"}
 }

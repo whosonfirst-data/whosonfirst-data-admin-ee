@@ -67,7 +67,7 @@
         "wk:page":"Saarde%2C_V%C3%B5ru_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"6907a681c7e6681d62b6b1c5a1612d60",
+    "wof:geomhash":"c6409eb5f18c9506d4c13ec0e465663d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1310565615,
-    "wof:lastmodified":1566585205,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126984,
     "wof:name":"Saarde",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -88,9 +94,9 @@
 },
   "bbox": [
     27.35056,
-    57.69971999999999,
+    57.69972,
     27.35056,
-    57.69971999999999
+    57.69972
 ],
-  "geometry": {"coordinates":[27.35056,57.69971999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.35056,57.69972],"type":"Point"}
 }

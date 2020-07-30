@@ -42,7 +42,7 @@
         "gn:id":794132
     },
     "wof:country":"EE",
-    "wof:geomhash":"5efb2f35ba642ecd054cd90f32ec784b",
+    "wof:geomhash":"e44de8afc48ddd014febb62671ce84ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326896719,
-    "wof:lastmodified":1566584767,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126917,
     "wof:name":"Imste",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.07472000000001,
-    58.26694000000001,
-    27.07472000000001,
-    58.26694000000001
+    27.07472,
+    58.26694,
+    27.07472,
+    58.26694
 ],
-  "geometry": {"coordinates":[27.07472000000001,58.26694000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.07472,58.26694],"type":"Point"}
 }

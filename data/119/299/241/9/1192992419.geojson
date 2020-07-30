@@ -46,7 +46,7 @@
         "gn:id":8619784
     },
     "wof:country":"EE",
-    "wof:geomhash":"0a044430e0a451cd835086600929196b",
+    "wof:geomhash":"fb8b79d54ffc2c5409e83912e3a94eb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1192992419,
-    "wof:lastmodified":1566585124,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126971,
     "wof:name":"Vaeiko-Ulaskova",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.43417,
-    57.75083000000001,
+    57.75083,
     27.43417,
-    57.75083000000001
+    57.75083
 ],
-  "geometry": {"coordinates":[27.43417,57.75083000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.43417,57.75083],"type":"Point"}
 }

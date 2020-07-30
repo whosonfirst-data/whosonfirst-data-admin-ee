@@ -46,7 +46,7 @@
         "gn:id":591190
     },
     "wof:country":"EE",
-    "wof:geomhash":"4f5233771529efd3be24cd8a07de989a",
+    "wof:geomhash":"297b3a37c2fe85bc2cc75e42bdaefdc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1193019181,
-    "wof:lastmodified":1566585115,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126970,
     "wof:name":"Kommuselja",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.61667000000001,
-    58.71666999999999,
-    22.61667000000001,
-    58.71666999999999
+    22.61667,
+    58.71667,
+    22.61667,
+    58.71667
 ],
-  "geometry": {"coordinates":[22.61667000000001,58.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.61667,58.71667],"type":"Point"}
 }

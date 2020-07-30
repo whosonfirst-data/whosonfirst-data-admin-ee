@@ -75,7 +75,7 @@
         "gn:id":8619985
     },
     "wof:country":"EE",
-    "wof:geomhash":"cb51364c84f6dedba50a3bffb74ee2b0",
+    "wof:geomhash":"be0e8486f7120435d3e8b6a54ad1cb69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1276952257,
-    "wof:lastmodified":1566585009,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126953,
     "wof:name":"Uuri",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -96,9 +102,9 @@
 },
   "bbox": [
     27.15861,
-    57.65416999999999,
+    57.65417,
     27.15861,
-    57.65416999999999
+    57.65417
 ],
-  "geometry": {"coordinates":[27.15861,57.65416999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.15861,57.65417],"type":"Point"}
 }

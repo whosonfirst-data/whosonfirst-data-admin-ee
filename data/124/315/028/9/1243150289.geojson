@@ -61,7 +61,7 @@
         "wk:page":"Maikse"
     },
     "wof:country":"EE",
-    "wof:geomhash":"dec599c82fe53cecdcc27223617fc6f6",
+    "wof:geomhash":"1eced9af099b6da7308191301e8b9df1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1243150289,
-    "wof:lastmodified":1566585424,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127020,
     "wof:name":"Maikse",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     24.15667,
-    58.56721999999999,
+    58.56722,
     24.15667,
-    58.56721999999999
+    58.56722
 ],
-  "geometry": {"coordinates":[24.15667,58.56721999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.15667,58.56722],"type":"Point"}
 }

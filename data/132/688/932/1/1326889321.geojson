@@ -42,7 +42,7 @@
         "gn:id":588275
     },
     "wof:country":"EE",
-    "wof:geomhash":"4269ebc7a8c803863d2cdeed2eab4849",
+    "wof:geomhash":"a6f3783841911d0d5ab5306f0759ff9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326889321,
-    "wof:lastmodified":1566584766,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126917,
     "wof:name":"Tobrova",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.46389000000001,
+    27.46389,
     57.77639,
-    27.46389000000001,
+    27.46389,
     57.77639
 ],
-  "geometry": {"coordinates":[27.46389000000001,57.77639],"type":"Point"}
+  "geometry": {"coordinates":[27.46389,57.77639],"type":"Point"}
 }

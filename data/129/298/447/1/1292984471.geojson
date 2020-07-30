@@ -65,7 +65,7 @@
         "wk:page":"Ruhve"
     },
     "wof:country":"EE",
-    "wof:geomhash":"9f38d0c871d9504a598b6df0bf5a2ff5",
+    "wof:geomhash":"38715d7680c0fadac4c5d22a2aaa346b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1292984471,
-    "wof:lastmodified":1566584954,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126945,
     "wof:name":"Ruhve",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     23.03667,
-    58.37583000000001,
+    58.37583,
     23.03667,
-    58.37583000000001
+    58.37583
 ],
-  "geometry": {"coordinates":[23.03667,58.37583000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.03667,58.37583],"type":"Point"}
 }

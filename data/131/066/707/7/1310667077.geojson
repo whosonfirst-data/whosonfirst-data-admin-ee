@@ -165,7 +165,7 @@
         "gn:id":8620799
     },
     "wof:country":"EE",
-    "wof:geomhash":"fd4a0153e40b04c15f90d861a69840ea",
+    "wof:geomhash":"4c4b15298f08a01e6a21ddc7f54ff7fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,7 +175,13 @@
         }
     ],
     "wof:id":1310667077,
-    "wof:lastmodified":1566585198,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126983,
     "wof:name":"Palu",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -186,9 +192,9 @@
 },
   "bbox": [
     26.36944,
-    58.24028000000001,
+    58.24028,
     26.36944,
-    58.24028000000001
+    58.24028
 ],
-  "geometry": {"coordinates":[26.36944,58.24028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.36944,58.24028],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "gn:id":8620643
     },
     "wof:country":"EE",
-    "wof:geomhash":"7e544ffbcdb3bf1d0ea5c24c8a5330aa",
+    "wof:geomhash":"1fb15850698ed5fa7a144327b32e3164",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1226620007,
-    "wof:lastmodified":1566585577,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127044,
     "wof:name":"Roomassaare",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     22.50472,
-    58.23083000000001,
+    58.23083,
     22.50472,
-    58.23083000000001
+    58.23083
 ],
-  "geometry": {"coordinates":[22.50472,58.23083000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.50472,58.23083],"type":"Point"}
 }

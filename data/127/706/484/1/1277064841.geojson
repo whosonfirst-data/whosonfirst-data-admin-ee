@@ -45,7 +45,7 @@
         "gn:id":590424
     },
     "wof:country":"EE",
-    "wof:geomhash":"d3098913f48f321595f15e12284136d6",
+    "wof:geomhash":"8473e269308becb8eb4578d6b865abea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1277064841,
-    "wof:lastmodified":1566584981,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126949,
     "wof:name":"Myae",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     24.08333,
-    58.28333000000001,
+    58.28333,
     24.08333,
-    58.28333000000001
+    58.28333
 ],
-  "geometry": {"coordinates":[24.08333,58.28333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.08333,58.28333],"type":"Point"}
 }

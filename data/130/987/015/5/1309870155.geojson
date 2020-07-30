@@ -46,7 +46,7 @@
         "gn:id":8619263
     },
     "wof:country":"EE",
-    "wof:geomhash":"6118a79e5b351dea440460fef9300ad4",
+    "wof:geomhash":"eda30b7f491479ca29df7a0cf06d8f56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1309870155,
-    "wof:lastmodified":1566585265,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126995,
     "wof:name":"Siksali",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.0625,
-    57.62416999999999,
+    57.62417,
     27.0625,
-    57.62416999999999
+    57.62417
 ],
-  "geometry": {"coordinates":[27.0625,57.62416999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.0625,57.62417],"type":"Point"}
 }

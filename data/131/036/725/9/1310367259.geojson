@@ -70,7 +70,7 @@
         "wk:page":"Turva%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ccd94cd5832520d0c9925d32ad567d52",
+    "wof:geomhash":"def8ff41aac335f4c9b0d4330f7d79c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1310367259,
-    "wof:lastmodified":1566585174,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126980,
     "wof:name":"Turva",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -91,9 +97,9 @@
 },
   "bbox": [
     25.4625,
-    58.29389000000001,
+    58.29389,
     25.4625,
-    58.29389000000001
+    58.29389
 ],
-  "geometry": {"coordinates":[25.4625,58.29389000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.4625,58.29389],"type":"Point"}
 }

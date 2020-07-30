@@ -70,7 +70,7 @@
         "wk:page":"Vanam%C3%B5isa%2C_Muhu_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"165a3684868a21f1025b6be81f445f54",
+    "wof:geomhash":"18e70498e1410a77811062f3dade5b84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1260053799,
-    "wof:lastmodified":1566585155,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126977,
     "wof:name":"Vanamoisa",
     "wof:parent_id":85682951,
     "wof:placetype":"locality",
@@ -91,9 +97,9 @@
 },
   "bbox": [
     23.19639,
-    58.59278000000001,
+    58.59278,
     23.19639,
-    58.59278000000001
+    58.59278
 ],
-  "geometry": {"coordinates":[23.19639,58.59278000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.19639,58.59278],"type":"Point"}
 }

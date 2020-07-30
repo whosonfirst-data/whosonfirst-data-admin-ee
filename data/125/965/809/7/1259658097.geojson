@@ -42,7 +42,7 @@
         "gn:id":8620384
     },
     "wof:country":"EE",
-    "wof:geomhash":"e291b6126d0e3ff2b23339c94160cb48",
+    "wof:geomhash":"fd93633c909ab594e2ba836d6925161c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259658097,
-    "wof:lastmodified":1566585470,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127027,
     "wof:name":"Altnurga",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.92639,
-    58.35639000000001,
+    58.35639,
     25.92639,
-    58.35639000000001
+    58.35639
 ],
-  "geometry": {"coordinates":[25.92639,58.35639000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.92639,58.35639],"type":"Point"}
 }

@@ -43,7 +43,7 @@
         "wk:page":"Liiva%2C_Pihtla_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"34342f4e16003e85c3d6678f89599783",
+    "wof:geomhash":"f0fd9e0bd52b8fd4d133624e1efef7b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1343332681,
-    "wof:lastmodified":1566584873,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126933,
     "wof:name":"Liiva",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -64,9 +70,9 @@
 },
   "bbox": [
     22.68333,
-    58.38333000000001,
+    58.38333,
     22.68333,
-    58.38333000000001
+    58.38333
 ],
-  "geometry": {"coordinates":[22.68333,58.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.68333,58.38333],"type":"Point"}
 }

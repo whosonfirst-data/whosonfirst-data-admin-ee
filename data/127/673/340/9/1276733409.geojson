@@ -61,7 +61,7 @@
         "wk:page":"Poka%2C_Saare_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"4332245d30ae946967c9beabbfe0bef4",
+    "wof:geomhash":"483baf249e11175a07f952e0f3fe2b23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1276733409,
-    "wof:lastmodified":1566584995,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126951,
     "wof:name":"Poka",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -81,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.51222000000001,
+    22.51222,
     58.58556,
-    22.51222000000001,
+    22.51222,
     58.58556
 ],
-  "geometry": {"coordinates":[22.51222000000001,58.58556],"type":"Point"}
+  "geometry": {"coordinates":[22.51222,58.58556],"type":"Point"}
 }

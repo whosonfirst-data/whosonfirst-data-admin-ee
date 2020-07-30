@@ -63,7 +63,7 @@
         "wk:page":"Liiva%2C_P%C3%A4rnu_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"a48197f61df6f37e73159b5d61ecbb09",
+    "wof:geomhash":"15ece2e8e174bbfed325aa85f83868d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1326918449,
-    "wof:lastmodified":1566584810,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126924,
     "wof:name":"Liiva",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     24.28806,
-    58.43083000000001,
+    58.43083,
     24.28806,
-    58.43083000000001
+    58.43083
 ],
-  "geometry": {"coordinates":[24.28806,58.43083000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.28806,58.43083],"type":"Point"}
 }

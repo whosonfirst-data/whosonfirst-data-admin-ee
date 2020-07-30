@@ -46,7 +46,7 @@
         "gn:id":8618765
     },
     "wof:country":"EE",
-    "wof:geomhash":"85cea9dad79ea0375e42f1a86a32506b",
+    "wof:geomhash":"0d5f25f7af4779f237ed08e55f2ab14f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1309899113,
-    "wof:lastmodified":1566585269,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126995,
     "wof:name":"Vonnusvere",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     26.37694,
-    59.11528000000001,
+    59.11528,
     26.37694,
-    59.11528000000001
+    59.11528
 ],
-  "geometry": {"coordinates":[26.37694,59.11528000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.37694,59.11528],"type":"Point"}
 }

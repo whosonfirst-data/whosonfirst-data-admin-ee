@@ -40,7 +40,7 @@
         "gn:id":8620193
     },
     "wof:country":"EE",
-    "wof:geomhash":"fcfd0148008b2feb22238b74e5821a73",
+    "wof:geomhash":"0147525bfbe9d9d7e6a14cc1b78d4cb2",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -48,7 +48,13 @@
         }
     ],
     "wof:id":1209680171,
-    "wof:lastmodified":1566585081,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Palgi",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -58,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.11639000000001,
-    57.78194000000001,
-    27.11639000000001,
-    57.78194000000001
+    27.11639,
+    57.78194,
+    27.11639,
+    57.78194
 ],
-  "geometry": {"coordinates":[27.11639000000001,57.78194000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.11639,57.78194],"type":"Point"}
 }

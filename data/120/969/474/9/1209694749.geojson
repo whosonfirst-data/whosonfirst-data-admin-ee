@@ -58,7 +58,7 @@
         "gn:id":591691
     },
     "wof:country":"EE",
-    "wof:geomhash":"cd92493a506a2283dc1601676b4ec083",
+    "wof:geomhash":"d8de1f54b26f88b0068148d6b082e683",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -66,7 +66,13 @@
         }
     ],
     "wof:id":1209694749,
-    "wof:lastmodified":1566585091,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126966,
     "wof:name":"Kalmu",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -77,9 +83,9 @@
 },
   "bbox": [
     22.65,
-    58.29083000000001,
+    58.29083,
     22.65,
-    58.29083000000001
+    58.29083
 ],
-  "geometry": {"coordinates":[22.65,58.29083000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.65,58.29083],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "gn:id":794253
     },
     "wof:country":"EE",
-    "wof:geomhash":"1d32416319c4626e0f41e5dffebfcb86",
+    "wof:geomhash":"d82ca84492fe8583dc8e9f9bff5c18e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326594243,
-    "wof:lastmodified":1566584775,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126918,
     "wof:name":"Moeldre",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.27167,
-    57.66278000000001,
+    57.66278,
     27.27167,
-    57.66278000000001
+    57.66278
 ],
-  "geometry": {"coordinates":[27.27167,57.66278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.27167,57.66278],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "gn:id":589876
     },
     "wof:country":"EE",
-    "wof:geomhash":"436b0e0cafaf24f1d0391fe148f81d53",
+    "wof:geomhash":"7298574dd04d99dd52bacf824693ff2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1259497365,
-    "wof:lastmodified":1566585485,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127030,
     "wof:name":"Ohtra",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.11667000000001,
+    24.11667,
     59.33333,
-    24.11667000000001,
+    24.11667,
     59.33333
 ],
-  "geometry": {"coordinates":[24.11667000000001,59.33333],"type":"Point"}
+  "geometry": {"coordinates":[24.11667,59.33333],"type":"Point"}
 }

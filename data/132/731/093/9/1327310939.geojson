@@ -42,7 +42,7 @@
         "gn:id":8620089
     },
     "wof:country":"EE",
-    "wof:geomhash":"06e73039c9fad0debecbf7cc52b36aa4",
+    "wof:geomhash":"8b63e45e05bc0a787da0cbc79121c423",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327310939,
-    "wof:lastmodified":1566584762,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126917,
     "wof:name":"Tegova",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.51194000000001,
-    57.94221999999999,
-    27.51194000000001,
-    57.94221999999999
+    27.51194,
+    57.94222,
+    27.51194,
+    57.94222
 ],
-  "geometry": {"coordinates":[27.51194000000001,57.94221999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.51194,57.94222],"type":"Point"}
 }

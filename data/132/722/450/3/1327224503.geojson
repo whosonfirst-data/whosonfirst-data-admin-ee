@@ -62,7 +62,7 @@
         "wk:page":"P%C3%B5ima"
     },
     "wof:country":"EE",
-    "wof:geomhash":"e9657ea3699d38cd6850c701b3a83527",
+    "wof:geomhash":"bfbc655c7f02c070dca9467c960ee1d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,13 @@
         }
     ],
     "wof:id":1327224503,
-    "wof:lastmodified":1566584779,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126919,
     "wof:name":"Poima",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -82,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.01222000000001,
+    26.01222,
     59.31944,
-    26.01222000000001,
+    26.01222,
     59.31944
 ],
-  "geometry": {"coordinates":[26.01222000000001,59.31944],"type":"Point"}
+  "geometry": {"coordinates":[26.01222,59.31944],"type":"Point"}
 }

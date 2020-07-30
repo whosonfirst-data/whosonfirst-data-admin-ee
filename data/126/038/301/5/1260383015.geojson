@@ -47,7 +47,7 @@
         "gn:id":591118
     },
     "wof:country":"EE",
-    "wof:geomhash":"f57c7b8e23838fdba65b53dfb3289099",
+    "wof:geomhash":"c9fbd52c8878744b5f5da130da51199e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1260383015,
-    "wof:lastmodified":1566585135,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126974,
     "wof:name":"Korgema",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     23.69889,
-    58.97083000000001,
+    58.97083,
     23.69889,
-    58.97083000000001
+    58.97083
 ],
-  "geometry": {"coordinates":[23.69889,58.97083000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.69889,58.97083],"type":"Point"}
 }

@@ -59,7 +59,7 @@
         "wk:page":"Sootaguse%2C_Laekvere_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"cc44d56da6ebc1b6074cc096cf063cb6",
+    "wof:geomhash":"365e8164c3d1816ac32be9d5e726cfe9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +69,13 @@
         }
     ],
     "wof:id":1344252649,
-    "wof:lastmodified":1566584838,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126928,
     "wof:name":"Sootaguse",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -80,9 +86,9 @@
 },
   "bbox": [
     26.495,
-    59.02444000000001,
+    59.02444,
     26.495,
-    59.02444000000001
+    59.02444
 ],
-  "geometry": {"coordinates":[26.495,59.02444000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.495,59.02444],"type":"Point"}
 }

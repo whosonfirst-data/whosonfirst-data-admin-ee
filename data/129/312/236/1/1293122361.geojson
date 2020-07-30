@@ -42,7 +42,7 @@
         "gn:id":794873
     },
     "wof:country":"EE",
-    "wof:geomhash":"63ade0a3fcac2b925b145c6dfcaae1b6",
+    "wof:geomhash":"9665cca5d119174bb850571fe5daf1f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293122361,
-    "wof:lastmodified":1566584934,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126941,
     "wof:name":"Nommkuela",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.63722000000001,
+    23.63722,
     59.06111,
-    23.63722000000001,
+    23.63722,
     59.06111
 ],
-  "geometry": {"coordinates":[23.63722000000001,59.06111],"type":"Point"}
+  "geometry": {"coordinates":[23.63722,59.06111],"type":"Point"}
 }

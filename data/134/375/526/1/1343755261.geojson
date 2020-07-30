@@ -55,7 +55,7 @@
         "wk:page":"S%C3%A4mi-Tagak%C3%BCla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"f4c76c5fe6633359b34c517c10e701a2",
+    "wof:geomhash":"0456746c675606f91be67dcb8db208c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1343755261,
-    "wof:lastmodified":1566584890,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126936,
     "wof:name":"Saemi-Tagakuela",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -76,9 +82,9 @@
 },
   "bbox": [
     26.63556,
-    59.38639000000001,
+    59.38639,
     26.63556,
-    59.38639000000001
+    59.38639
 ],
-  "geometry": {"coordinates":[26.63556,59.38639000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.63556,59.38639],"type":"Point"}
 }

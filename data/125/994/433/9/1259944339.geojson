@@ -45,7 +45,7 @@
         "gn:id":8619351
     },
     "wof:country":"EE",
-    "wof:geomhash":"2cc5079f34c0c60b28c8bd67b7017525",
+    "wof:geomhash":"377d3fd8ad10c44049da368d5e13f3e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1259944339,
-    "wof:lastmodified":1566585498,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127032,
     "wof:name":"Haavikolga",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.66611,
-    57.75528000000001,
+    57.75528,
     26.66611,
-    57.75528000000001
+    57.75528
 ],
-  "geometry": {"coordinates":[26.66611,57.75528000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.66611,57.75528],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "gn:id":8620145
     },
     "wof:country":"EE",
-    "wof:geomhash":"6cd0a5bc0e175fd3c48a930fd774b156",
+    "wof:geomhash":"b6462319d51ee45b72117b47068beca1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1327192963,
-    "wof:lastmodified":1566584815,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126925,
     "wof:name":"Kiimagu",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     27.33833,
-    57.66833000000001,
+    57.66833,
     27.33833,
-    57.66833000000001
+    57.66833
 ],
-  "geometry": {"coordinates":[27.33833,57.66833000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.33833,57.66833],"type":"Point"}
 }

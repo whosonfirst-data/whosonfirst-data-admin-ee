@@ -64,7 +64,7 @@
         "wk:page":"Koke%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"27fbb4424badf382e09efdf91347428b",
+    "wof:geomhash":"91e308c653e145b6f201be0db8a9d762",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1260352281,
-    "wof:lastmodified":1566585153,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126977,
     "wof:name":"Koke",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.88444,
-    58.32194000000001,
+    58.32194,
     26.88444,
-    58.32194000000001
+    58.32194
 ],
-  "geometry": {"coordinates":[26.88444,58.32194000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.88444,58.32194],"type":"Point"}
 }

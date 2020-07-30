@@ -45,7 +45,7 @@
         "gn:id":8620548
     },
     "wof:country":"EE",
-    "wof:geomhash":"23643721f4cc2a6ee4f4e251d5156b45",
+    "wof:geomhash":"124faa6a69a14eabb6056b584b8e8bcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1344135007,
-    "wof:lastmodified":1566584839,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126928,
     "wof:name":"Loigu",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     24.81167,
-    58.37583000000001,
+    58.37583,
     24.81167,
-    58.37583000000001
+    58.37583
 ],
-  "geometry": {"coordinates":[24.81167,58.37583000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.81167,58.37583],"type":"Point"}
 }

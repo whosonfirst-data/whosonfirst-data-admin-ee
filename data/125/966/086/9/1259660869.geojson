@@ -46,7 +46,7 @@
         "gn:id":8619154
     },
     "wof:country":"EE",
-    "wof:geomhash":"7447e39d4cd0582891656c32f0dcacc2",
+    "wof:geomhash":"468ad957a0532f805039dd276cf58f4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1259660869,
-    "wof:lastmodified":1566585492,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127031,
     "wof:name":"Rosna-Motsa",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.56139000000001,
+    27.56139,
     57.96972,
-    27.56139000000001,
+    27.56139,
     57.96972
 ],
-  "geometry": {"coordinates":[27.56139000000001,57.96972],"type":"Point"}
+  "geometry": {"coordinates":[27.56139,57.96972],"type":"Point"}
 }

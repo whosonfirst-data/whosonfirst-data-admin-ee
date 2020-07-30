@@ -46,7 +46,7 @@
         "gn:id":589585
     },
     "wof:country":"EE",
-    "wof:geomhash":"cd526fa96e3ebc8698dc349eb56a0d11",
+    "wof:geomhash":"f9e78e688589d90ae965fa1edb86edb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1293270403,
-    "wof:lastmodified":1566584961,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126946,
     "wof:name":"Paerniku",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     24.81667,
-    58.63333000000001,
+    58.63333,
     24.81667,
-    58.63333000000001
+    58.63333
 ],
-  "geometry": {"coordinates":[24.81667,58.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.81667,58.63333],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "gn:id":8619839
     },
     "wof:country":"EE",
-    "wof:geomhash":"08d6fe374fe592f7f5a91a1ea4b73afb",
+    "wof:geomhash":"42d9470322efebc463e7e527303f56f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1310385545,
-    "wof:lastmodified":1566585170,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126979,
     "wof:name":"Hueuedre",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     26.67,
-    57.93833000000001,
+    57.93833,
     26.67,
-    57.93833000000001
+    57.93833
 ],
-  "geometry": {"coordinates":[26.67,57.93833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.67,57.93833],"type":"Point"}
 }

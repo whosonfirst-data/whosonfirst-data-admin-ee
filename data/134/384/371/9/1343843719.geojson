@@ -49,7 +49,7 @@
         "gn:id":588039
     },
     "wof:country":"EE",
-    "wof:geomhash":"c78271d9d819a73f28efbb687910abde",
+    "wof:geomhash":"9b156c47175e5fcb4c5bdc5ce08aeb80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +59,13 @@
         }
     ],
     "wof:id":1343843719,
-    "wof:lastmodified":1566584854,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126930,
     "wof:name":"Urtja",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -70,9 +76,9 @@
 },
   "bbox": [
     26.66667,
-    59.36666999999999,
+    59.36667,
     26.66667,
-    59.36666999999999
+    59.36667
 ],
-  "geometry": {"coordinates":[26.66667,59.36666999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.66667,59.36667],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Arukse"
     },
     "wof:country":"EE",
-    "wof:geomhash":"20804d407f37ee2ab5baeabcae18ec9d",
+    "wof:geomhash":"4bb495eed09c950ba46f5561b2595976",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1293120727,
-    "wof:lastmodified":1566584934,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126941,
     "wof:name":"Arukse",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -75,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.67222000000001,
+    26.67222,
     59.04139,
-    26.67222000000001,
+    26.67222,
     59.04139
 ],
-  "geometry": {"coordinates":[26.67222000000001,59.04139],"type":"Point"}
+  "geometry": {"coordinates":[26.67222,59.04139],"type":"Point"}
 }

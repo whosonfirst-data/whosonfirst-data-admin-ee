@@ -61,7 +61,7 @@
         "wk:page":"Puskaru"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ac9018a9b21bfe3b46daa2be3a456c6e",
+    "wof:geomhash":"2aabbdcf214c8e78efa9078f861440d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1293078279,
-    "wof:lastmodified":1566584911,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126938,
     "wof:name":"Puskaru",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     26.92972,
-    58.00528000000001,
+    58.00528,
     26.92972,
-    58.00528000000001
+    58.00528
 ],
-  "geometry": {"coordinates":[26.92972,58.00528000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.92972,58.00528],"type":"Point"}
 }

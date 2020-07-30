@@ -47,7 +47,7 @@
         "gn:id":588881
     },
     "wof:country":"EE",
-    "wof:geomhash":"2fe070a1f346cd964178d4c361f64ff5",
+    "wof:geomhash":"03015b2cea420158c5db52736d378c55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1242753087,
-    "wof:lastmodified":1566585403,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127017,
     "wof:name":"Saareantsu",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     25.9,
-    58.03333000000001,
+    58.03333,
     25.9,
-    58.03333000000001
+    58.03333
 ],
-  "geometry": {"coordinates":[25.9,58.03333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.9,58.03333],"type":"Point"}
 }

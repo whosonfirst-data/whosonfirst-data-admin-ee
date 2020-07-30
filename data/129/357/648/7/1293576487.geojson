@@ -45,7 +45,7 @@
         "gn:id":8620522
     },
     "wof:country":"EE",
-    "wof:geomhash":"6995eb2c54bbfef4c4e40c9f4d8a9786",
+    "wof:geomhash":"d359814cd2b489e573e95d39efa6febe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1293576487,
-    "wof:lastmodified":1566584947,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126943,
     "wof:name":"Luigaste",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.63944,
-    58.11666999999999,
+    58.11667,
     26.63944,
-    58.11666999999999
+    58.11667
 ],
-  "geometry": {"coordinates":[26.63944,58.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.63944,58.11667],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Ketneri"
     },
     "wof:country":"EE",
-    "wof:geomhash":"07ce59cb34e2154a98a818f364fc9895",
+    "wof:geomhash":"c0fc7ee0f13961d59bd36b30932eb3fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1309769429,
-    "wof:lastmodified":1566585261,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126994,
     "wof:name":"Ketneri",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.42639,
-    58.16889000000001,
+    58.16889,
     26.42639,
-    58.16889000000001
+    58.16889
 ],
-  "geometry": {"coordinates":[26.42639,58.16889000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.42639,58.16889],"type":"Point"}
 }

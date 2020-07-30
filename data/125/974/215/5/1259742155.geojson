@@ -42,7 +42,7 @@
         "gn:id":794451
     },
     "wof:country":"EE",
-    "wof:geomhash":"b1b8327b67c18c95e09921231f52ee63",
+    "wof:geomhash":"4558968eea8abfc1e59c5380cab597ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259742155,
-    "wof:lastmodified":1566585504,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127033,
     "wof:name":"Uhtjaerve",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.56083,
-    57.89194000000001,
+    57.89194,
     26.56083,
-    57.89194000000001
+    57.89194
 ],
-  "geometry": {"coordinates":[26.56083,57.89194000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.56083,57.89194],"type":"Point"}
 }

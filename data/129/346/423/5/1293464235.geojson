@@ -51,7 +51,7 @@
         "gn:id":591662
     },
     "wof:country":"EE",
-    "wof:geomhash":"92d3522af6db69c2b69731b4a2666d81",
+    "wof:geomhash":"6075644208c4b793f309f463630fb9c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1293464235,
-    "wof:lastmodified":1566584928,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126940,
     "wof:name":"Kannu",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -72,9 +78,9 @@
 },
   "bbox": [
     25.76667,
-    58.13333000000001,
+    58.13333,
     25.76667,
-    58.13333000000001
+    58.13333
 ],
-  "geometry": {"coordinates":[25.76667,58.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.76667,58.13333],"type":"Point"}
 }

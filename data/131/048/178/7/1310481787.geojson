@@ -84,7 +84,7 @@
         "gn:id":8620862
     },
     "wof:country":"EE",
-    "wof:geomhash":"3f57c7bdba49228cfe031e028fe3cf05",
+    "wof:geomhash":"9d179c7658c20a23bc6f4bf25d37b083",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +94,13 @@
         }
     ],
     "wof:id":1310481787,
-    "wof:lastmodified":1566585162,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126978,
     "wof:name":"Orava",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -105,9 +111,9 @@
 },
   "bbox": [
     26.78306,
-    58.07528000000001,
+    58.07528,
     26.78306,
-    58.07528000000001
+    58.07528
 ],
-  "geometry": {"coordinates":[26.78306,58.07528000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.78306,58.07528],"type":"Point"}
 }

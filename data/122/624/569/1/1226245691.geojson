@@ -64,7 +64,7 @@
         "wk:page":"Viiri"
     },
     "wof:country":"EE",
-    "wof:geomhash":"3896b7e71b4692b7f5f44b6276bfe316",
+    "wof:geomhash":"5ba45948c079c4d3f0e134183e47e56c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1226245691,
-    "wof:lastmodified":1566585564,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127042,
     "wof:name":"Viiri",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     22.53959,
-    58.70551999999999,
+    58.70552,
     22.53959,
-    58.70551999999999
+    58.70552
 ],
-  "geometry": {"coordinates":[22.53959,58.70551999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.53959,58.70552],"type":"Point"}
 }

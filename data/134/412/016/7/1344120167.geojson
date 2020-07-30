@@ -42,7 +42,7 @@
         "gn:id":794090
     },
     "wof:country":"EE",
-    "wof:geomhash":"95f437468805a649264f9671abe30960",
+    "wof:geomhash":"8a318bf493e83d41a255d4e396e73c77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1344120167,
-    "wof:lastmodified":1566584843,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126929,
     "wof:name":"Rehemetsa",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.18389,
-    58.48889000000001,
+    58.48889,
     27.18389,
-    58.48889000000001
+    58.48889
 ],
-  "geometry": {"coordinates":[27.18389,58.48889000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.18389,58.48889],"type":"Point"}
 }

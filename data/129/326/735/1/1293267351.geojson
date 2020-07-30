@@ -48,7 +48,7 @@
         "gn:id":591146
     },
     "wof:country":"EE",
-    "wof:geomhash":"5df481d02d834bf422aa692dfaf4c886",
+    "wof:geomhash":"32f80a98651d5415ba7449cb0dcd5a9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1293267351,
-    "wof:lastmodified":1566584974,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126948,
     "wof:name":"Koorkuela",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     25.86639,
-    57.93666999999999,
+    57.93667,
     25.86639,
-    57.93666999999999
+    57.93667
 ],
-  "geometry": {"coordinates":[25.86639,57.93666999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.86639,57.93667],"type":"Point"}
 }

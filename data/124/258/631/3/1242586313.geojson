@@ -61,7 +61,7 @@
         "wk:page":"Luguse"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b4c24f6228a1344503b0e5af5ccdf7f8",
+    "wof:geomhash":"5d50cb640934822a85184aba71707d02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1242586313,
-    "wof:lastmodified":1566585414,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127019,
     "wof:name":"Luguse",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     22.72046,
-    58.80184000000001,
+    58.80184,
     22.72046,
-    58.80184000000001
+    58.80184
 ],
-  "geometry": {"coordinates":[22.72046,58.80184000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.72046,58.80184],"type":"Point"}
 }

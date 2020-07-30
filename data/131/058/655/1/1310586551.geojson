@@ -51,7 +51,7 @@
         "gn:id":8618612
     },
     "wof:country":"EE",
-    "wof:geomhash":"f48242528e3d0012f49f4ef90a907a80",
+    "wof:geomhash":"f7cf2d416081c891bdc66524e5133e01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1310586551,
-    "wof:lastmodified":1566585211,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126985,
     "wof:name":"Koluvere",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -72,9 +78,9 @@
 },
   "bbox": [
     26.23611,
-    58.92028000000001,
+    58.92028,
     26.23611,
-    58.92028000000001
+    58.92028
 ],
-  "geometry": {"coordinates":[26.23611,58.92028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.23611,58.92028],"type":"Point"}
 }

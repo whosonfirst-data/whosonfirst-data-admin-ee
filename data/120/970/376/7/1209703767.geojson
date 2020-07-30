@@ -46,7 +46,7 @@
         "gn:id":589103
     },
     "wof:country":"EE",
-    "wof:geomhash":"0702ab7c35ec9d92788662ec113b6ec5",
+    "wof:geomhash":"6aa4f23814c5c52b564fb83583ae8c1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1209703767,
-    "wof:lastmodified":1566585066,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126962,
     "wof:name":"Raetsepa",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     24.91278,
-    58.48028000000001,
+    58.48028,
     24.91278,
-    58.48028000000001
+    58.48028
 ],
-  "geometry": {"coordinates":[24.91278,58.48028000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.91278,58.48028],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "gn:id":794289
     },
     "wof:country":"EE",
-    "wof:geomhash":"bbbf7fab5def1902f5d8ef5270ab4308",
+    "wof:geomhash":"1b3fce912735541bd2d6773ea18f1d91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293159803,
-    "wof:lastmodified":1566584933,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126941,
     "wof:name":"Tammeveski",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.14417000000001,
-    57.85028000000001,
-    27.14417000000001,
-    57.85028000000001
+    27.14417,
+    57.85028,
+    27.14417,
+    57.85028
 ],
-  "geometry": {"coordinates":[27.14417000000001,57.85028000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.14417,57.85028],"type":"Point"}
 }

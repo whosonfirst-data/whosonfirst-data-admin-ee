@@ -45,7 +45,7 @@
         "gn:id":589683
     },
     "wof:country":"EE",
-    "wof:geomhash":"e8864da6ef0bdc1cb9253b2b1be150d2",
+    "wof:geomhash":"2001c2ed63856aec0ea3ab850399b178",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1209432479,
-    "wof:lastmodified":1566585107,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126968,
     "wof:name":"Pakre",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -63,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.11667000000001,
+    24.11667,
     59.35,
-    24.11667000000001,
+    24.11667,
     59.35
 ],
-  "geometry": {"coordinates":[24.11667000000001,59.35],"type":"Point"}
+  "geometry": {"coordinates":[24.11667,59.35],"type":"Point"}
 }

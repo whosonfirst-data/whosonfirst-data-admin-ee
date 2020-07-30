@@ -40,7 +40,7 @@
         "gn:id":8620063
     },
     "wof:country":"EE",
-    "wof:geomhash":"62aa50a2e8b3efafec50d4ab5ec9595a",
+    "wof:geomhash":"0fda02c2e1ae4bc9b90a62dd7206cd9e",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -48,7 +48,13 @@
         }
     ],
     "wof:id":1209473907,
-    "wof:lastmodified":1566585073,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126963,
     "wof:name":"Risttii",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -58,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.52639000000001,
+    26.52639,
     57.885,
-    26.52639000000001,
+    26.52639,
     57.885
 ],
-  "geometry": {"coordinates":[26.52639000000001,57.885],"type":"Point"}
+  "geometry": {"coordinates":[26.52639,57.885],"type":"Point"}
 }

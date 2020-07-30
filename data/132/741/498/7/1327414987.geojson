@@ -47,7 +47,7 @@
         "gn:id":588417
     },
     "wof:country":"EE",
-    "wof:geomhash":"f02a0739a6a3b8fbb62f1d0f08e7c7b3",
+    "wof:geomhash":"19e31fd43c3380ef204b4e14ef3ff759",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1327414987,
-    "wof:lastmodified":1566584788,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126920,
     "wof:name":"Tohkuse",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     24.91861,
-    58.50528000000001,
+    58.50528,
     24.91861,
-    58.50528000000001
+    58.50528
 ],
-  "geometry": {"coordinates":[24.91861,58.50528000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.91861,58.50528],"type":"Point"}
 }

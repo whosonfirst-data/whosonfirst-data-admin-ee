@@ -64,7 +64,7 @@
         "wk:page":"Kautjala"
     },
     "wof:country":"EE",
-    "wof:geomhash":"033336fd4da3a9e5d87b28f9156e9f30",
+    "wof:geomhash":"f948b73ee69abc1e21e6d81f346e1ab4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1259897593,
-    "wof:lastmodified":1566585506,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127033,
     "wof:name":"Kautjala",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     24.94858,
-    59.33878000000001,
+    59.33878,
     24.94858,
-    59.33878000000001
+    59.33878
 ],
-  "geometry": {"coordinates":[24.94858,59.33878000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.94858,59.33878],"type":"Point"}
 }

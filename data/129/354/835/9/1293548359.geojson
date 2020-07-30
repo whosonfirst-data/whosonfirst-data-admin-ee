@@ -46,7 +46,7 @@
         "wk:page":"Jugumetsa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"aaf7e0bfb9162f979a421969fbc069da",
+    "wof:geomhash":"42df9880d49c068aabae16d9abccdd9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1293548359,
-    "wof:lastmodified":1566584919,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126939,
     "wof:name":"Jugumetsa",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.03111,
-    57.69083000000001,
+    57.69083,
     27.03111,
-    57.69083000000001
+    57.69083
 ],
-  "geometry": {"coordinates":[27.03111,57.69083000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.03111,57.69083],"type":"Point"}
 }

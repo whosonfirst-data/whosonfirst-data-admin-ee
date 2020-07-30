@@ -45,7 +45,7 @@
         "gn:id":8619002
     },
     "wof:country":"EE",
-    "wof:geomhash":"94c06c68704865fa22598f0d29f336b9",
+    "wof:geomhash":"f9564f2759ff92dcd7ee34fe86a79df4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1276726459,
-    "wof:lastmodified":1566584984,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126949,
     "wof:name":"Luhtu",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.64889,
-    57.60528000000001,
+    57.60528,
     26.64889,
-    57.60528000000001
+    57.60528
 ],
-  "geometry": {"coordinates":[26.64889,57.60528000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.64889,57.60528],"type":"Point"}
 }

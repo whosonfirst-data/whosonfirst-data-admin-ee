@@ -48,7 +48,7 @@
         "gn:id":589267
     },
     "wof:country":"EE",
-    "wof:geomhash":"5c95ec4b2e694f3ebc02b4ac63d273bf",
+    "wof:geomhash":"15aed714c960c3ae7a5b686a8437af3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1326709721,
-    "wof:lastmodified":1566584801,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126923,
     "wof:name":"Purila-Eestjoe",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.86667000000001,
+    24.86667,
     59.08333,
-    24.86667000000001,
+    24.86667,
     59.08333
 ],
-  "geometry": {"coordinates":[24.86667000000001,59.08333],"type":"Point"}
+  "geometry": {"coordinates":[24.86667,59.08333],"type":"Point"}
 }

@@ -56,7 +56,7 @@
         "gn:id":587485
     },
     "wof:country":"EE",
-    "wof:geomhash":"4a1ab3b0bcef4b29feaf97b709666fef",
+    "wof:geomhash":"18f4308546a2115b089375af8bab271b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +66,13 @@
         }
     ],
     "wof:id":1276744515,
-    "wof:lastmodified":1566584993,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126951,
     "wof:name":"Volla",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -77,9 +83,9 @@
 },
   "bbox": [
     24.69278,
-    58.50083000000001,
+    58.50083,
     24.69278,
-    58.50083000000001
+    58.50083
 ],
-  "geometry": {"coordinates":[24.69278,58.50083000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.69278,58.50083],"type":"Point"}
 }

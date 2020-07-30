@@ -42,7 +42,7 @@
         "gn:id":8620131
     },
     "wof:country":"EE",
-    "wof:geomhash":"4b4c922863a9fe39380d2dfa023f3dda",
+    "wof:geomhash":"1bb726cf0e3b955fa51ef96bf3827e99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327108585,
-    "wof:lastmodified":1566584817,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126925,
     "wof:name":"Vaaksaaro",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.41667,
-    57.71666999999999,
+    57.71667,
     27.41667,
-    57.71666999999999
+    57.71667
 ],
-  "geometry": {"coordinates":[27.41667,57.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.41667,57.71667],"type":"Point"}
 }

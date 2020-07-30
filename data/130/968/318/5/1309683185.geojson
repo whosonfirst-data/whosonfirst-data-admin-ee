@@ -67,7 +67,7 @@
         "wk:page":"Tusti%2C_Saare_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b97146dcf2d4332f0d91ef8ce6e2889c",
+    "wof:geomhash":"2761c4fe8fa0a5d5fd797491e6b244e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1309683185,
-    "wof:lastmodified":1566585263,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126995,
     "wof:name":"Tusti",
     "wof:parent_id":85682951,
     "wof:placetype":"locality",
@@ -88,9 +94,9 @@
 },
   "bbox": [
     23.36528,
-    58.58694000000001,
+    58.58694,
     23.36528,
-    58.58694000000001
+    58.58694
 ],
-  "geometry": {"coordinates":[23.36528,58.58694000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.36528,58.58694],"type":"Point"}
 }

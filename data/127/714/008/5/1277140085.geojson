@@ -46,7 +46,7 @@
         "gn:id":8619472
     },
     "wof:country":"EE",
-    "wof:geomhash":"cb858224de821d5a8466c80ae54c1159",
+    "wof:geomhash":"10bf4056cb2108b3b70c0ca5abd725cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1277140085,
-    "wof:lastmodified":1566585011,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126953,
     "wof:name":"Porikuela",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.96389000000001,
-    58.50389000000001,
-    26.96389000000001,
-    58.50389000000001
+    26.96389,
+    58.50389,
+    26.96389,
+    58.50389
 ],
-  "geometry": {"coordinates":[26.96389000000001,58.50389000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.96389,58.50389],"type":"Point"}
 }

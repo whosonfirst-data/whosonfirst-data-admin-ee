@@ -47,7 +47,7 @@
         "gn:id":588403
     },
     "wof:country":"EE",
-    "wof:geomhash":"9b19e71a1e14a50c7967f493bcc38632",
+    "wof:geomhash":"8bca13c6f07df23e222182f4443cf04c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1343919775,
-    "wof:lastmodified":1566584823,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126926,
     "wof:name":"Taellevere",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.51222000000001,
+    25.51222,
     58.51639,
-    25.51222000000001,
+    25.51222,
     58.51639
 ],
-  "geometry": {"coordinates":[25.51222000000001,58.51639],"type":"Point"}
+  "geometry": {"coordinates":[25.51222,58.51639],"type":"Point"}
 }

@@ -65,7 +65,7 @@
         "wk:page":"Kingli"
     },
     "wof:country":"EE",
-    "wof:geomhash":"e81b91d73cc5d98fd88da0328341fe35",
+    "wof:geomhash":"3b6e46d9715bb3db1b499202a71641ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1293171837,
-    "wof:lastmodified":1566584971,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126947,
     "wof:name":"Kingli",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     23.07583,
-    58.46194000000001,
+    58.46194,
     23.07583,
-    58.46194000000001
+    58.46194
 ],
-  "geometry": {"coordinates":[23.07583,58.46194000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.07583,58.46194],"type":"Point"}
 }

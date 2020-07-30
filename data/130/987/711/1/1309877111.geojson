@@ -42,7 +42,7 @@
         "gn:id":589443
     },
     "wof:country":"EE",
-    "wof:geomhash":"df4cf00eb1ca4668f09251d395652b20",
+    "wof:geomhash":"1b37a4536390d8d8ae871d0971a4310a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1309877111,
-    "wof:lastmodified":1566585266,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126995,
     "wof:name":"Pikste",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     24.58528,
-    59.01221999999999,
+    59.01222,
     24.58528,
-    59.01221999999999
+    59.01222
 ],
-  "geometry": {"coordinates":[24.58528,59.01221999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.58528,59.01222],"type":"Point"}
 }

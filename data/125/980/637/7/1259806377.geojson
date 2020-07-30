@@ -61,7 +61,7 @@
         "wk:page":"Kaera"
     },
     "wof:country":"EE",
-    "wof:geomhash":"a163f5179c5ac90e62972dd0746b5121",
+    "wof:geomhash":"f494aee567de34117c4fb2e9fbedaff5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1259806377,
-    "wof:lastmodified":1566585505,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127033,
     "wof:name":"Kaera",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     26.33667,
-    58.77444000000001,
+    58.77444,
     26.33667,
-    58.77444000000001
+    58.77444
 ],
-  "geometry": {"coordinates":[26.33667,58.77444000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.33667,58.77444],"type":"Point"}
 }

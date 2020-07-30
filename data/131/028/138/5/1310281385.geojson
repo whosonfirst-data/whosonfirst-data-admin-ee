@@ -71,7 +71,7 @@
         "wk:page":"Ingliste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"5e2e5a5631694533c408aa067b70aee2",
+    "wof:geomhash":"94a90a46d8a61ab70cbee0db6e277c7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +81,13 @@
         }
     ],
     "wof:id":1310281385,
-    "wof:lastmodified":1566585193,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126982,
     "wof:name":"Ingliste",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -92,9 +98,9 @@
 },
   "bbox": [
     24.94833,
-    59.01833000000001,
+    59.01833,
     24.94833,
-    59.01833000000001
+    59.01833
 ],
-  "geometry": {"coordinates":[24.94833,59.01833000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.94833,59.01833],"type":"Point"}
 }

@@ -71,7 +71,7 @@
         "wk:page":"Esivere"
     },
     "wof:country":"EE",
-    "wof:geomhash":"0038a5af15a6534df70cb7a6f9a12b99",
+    "wof:geomhash":"652ae76338a266bc83ac35577ea75aea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +81,13 @@
         }
     ],
     "wof:id":1243088851,
-    "wof:lastmodified":1566585395,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127016,
     "wof:name":"Esivere",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -92,9 +98,9 @@
 },
   "bbox": [
     23.56889,
-    58.63639000000001,
+    58.63639,
     23.56889,
-    58.63639000000001
+    58.63639
 ],
-  "geometry": {"coordinates":[23.56889,58.63639000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.56889,58.63639],"type":"Point"}
 }

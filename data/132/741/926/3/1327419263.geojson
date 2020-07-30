@@ -58,7 +58,7 @@
         "wk:page":"Padak%C3%BCla"
     },
     "wof:country":"EE",
-    "wof:geomhash":"42dd84ad5a0380b5a5a9b3c13c0ad7f6",
+    "wof:geomhash":"b5a4f5193b3a18a97c391266571ccb14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1327419263,
-    "wof:lastmodified":1566584789,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126921,
     "wof:name":"Padakuela",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     26.17139,
-    59.03778000000001,
+    59.03778,
     26.17139,
-    59.03778000000001
+    59.03778
 ],
-  "geometry": {"coordinates":[26.17139,59.03778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.17139,59.03778],"type":"Point"}
 }

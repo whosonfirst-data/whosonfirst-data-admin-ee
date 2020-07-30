@@ -72,7 +72,7 @@
         "gn:id":590469
     },
     "wof:country":"EE",
-    "wof:geomhash":"c28afbf8171606acc5c77c1833a4e226",
+    "wof:geomhash":"9e2c5bcacea741e8cad6529bdbbb3819",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +82,13 @@
         }
     ],
     "wof:id":1259589181,
-    "wof:lastmodified":1566585497,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127032,
     "wof:name":"Luua",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -92,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.61667000000001,
+    25.61667,
     58.9,
-    25.61667000000001,
+    25.61667,
     58.9
 ],
-  "geometry": {"coordinates":[25.61667000000001,58.9],"type":"Point"}
+  "geometry": {"coordinates":[25.61667,58.9],"type":"Point"}
 }

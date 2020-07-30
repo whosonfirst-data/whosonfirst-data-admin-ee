@@ -71,7 +71,7 @@
         "wk:page":"Uusk%C3%BCla%2C_Ida-Viru_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"50c5cbbf59b35bcab8d44653fca12f24",
+    "wof:geomhash":"60f67577556bb2d9ff61e4aff4948b1f",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1209517441,
-    "wof:lastmodified":1566585092,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126966,
     "wof:name":"Uuskuela",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -90,9 +96,9 @@
 },
   "bbox": [
     27.31528,
-    59.00389000000001,
+    59.00389,
     27.31528,
-    59.00389000000001
+    59.00389
 ],
-  "geometry": {"coordinates":[27.31528,59.00389000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.31528,59.00389],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Imavere%2C_Saare_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"607c4850a644caf422498f566c31fed1",
+    "wof:geomhash":"85192a526eefabdeae7fa82bdefd41d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1293460769,
-    "wof:lastmodified":1566584927,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126940,
     "wof:name":"Imavere",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     22.90361,
-    58.50083000000001,
+    58.50083,
     22.90361,
-    58.50083000000001
+    58.50083
 ],
-  "geometry": {"coordinates":[22.90361,58.50083000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.90361,58.50083],"type":"Point"}
 }

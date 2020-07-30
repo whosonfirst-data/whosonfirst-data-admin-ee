@@ -46,7 +46,7 @@
         "gn:id":8620108
     },
     "wof:country":"EE",
-    "wof:geomhash":"d7dd573d3e3d238c475619ab8249d9ec",
+    "wof:geomhash":"0d64a7f10d8fe004052cc14604ef62ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1310282177,
-    "wof:lastmodified":1566585192,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126982,
     "wof:name":"Sor'ahkna",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     27.785,
-    57.86221999999999,
+    57.86222,
     27.785,
-    57.86221999999999
+    57.86222
 ],
-  "geometry": {"coordinates":[27.785,57.86221999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.785,57.86222],"type":"Point"}
 }

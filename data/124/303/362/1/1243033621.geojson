@@ -45,7 +45,7 @@
         "gn:id":8619923
     },
     "wof:country":"EE",
-    "wof:geomhash":"c492234ef273f06834bf5a0cc83bae6c",
+    "wof:geomhash":"058471ab916a572b47aa5d0f48dd517b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1243033621,
-    "wof:lastmodified":1566585430,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127021,
     "wof:name":"Raama",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.16833,
-    57.94278000000001,
+    57.94278,
     26.16833,
-    57.94278000000001
+    57.94278
 ],
-  "geometry": {"coordinates":[26.16833,57.94278000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.16833,57.94278],"type":"Point"}
 }

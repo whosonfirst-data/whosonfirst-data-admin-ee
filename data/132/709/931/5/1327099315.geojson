@@ -42,7 +42,7 @@
         "gn:id":793909
     },
     "wof:country":"EE",
-    "wof:geomhash":"265af2533632b6c2682b42ac58ae1a2a",
+    "wof:geomhash":"f6261b8631ca3c7d3882c54bb92a833c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327099315,
-    "wof:lastmodified":1566584760,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126916,
     "wof:name":"Taganurga",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.95611,
-    58.54333000000001,
+    58.54333,
     25.95611,
-    58.54333000000001
+    58.54333
 ],
-  "geometry": {"coordinates":[25.95611,58.54333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.95611,58.54333],"type":"Point"}
 }

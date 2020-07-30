@@ -42,7 +42,7 @@
         "gn:id":8620605
     },
     "wof:country":"EE",
-    "wof:geomhash":"7bc58557ddb87141aa259bd1150df21a",
+    "wof:geomhash":"a92fab6a79bd96f1253ec6d960ad9074",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259856707,
-    "wof:lastmodified":1566585485,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127030,
     "wof:name":"Kaere",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.49139000000001,
+    27.49139,
     58.04,
-    27.49139000000001,
+    27.49139,
     58.04
 ],
-  "geometry": {"coordinates":[27.49139000000001,58.04],"type":"Point"}
+  "geometry": {"coordinates":[27.49139,58.04],"type":"Point"}
 }

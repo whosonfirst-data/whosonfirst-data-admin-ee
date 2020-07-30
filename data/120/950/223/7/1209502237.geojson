@@ -40,7 +40,7 @@
         "gn:id":587817
     },
     "wof:country":"EE",
-    "wof:geomhash":"554fa6e7232ea5e3fd77ca79709a4735",
+    "wof:geomhash":"71deead3c75ddad1489d7d155057398e",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -48,7 +48,13 @@
         }
     ],
     "wof:id":1209502237,
-    "wof:lastmodified":1566585077,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Vanakuela",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -59,9 +65,9 @@
 },
   "bbox": [
     27.17944,
-    58.06583000000001,
+    58.06583,
     27.17944,
-    58.06583000000001
+    58.06583
 ],
-  "geometry": {"coordinates":[27.17944,58.06583000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.17944,58.06583],"type":"Point"}
 }

@@ -43,7 +43,7 @@
         "gn:id":8620347
     },
     "wof:country":"EE",
-    "wof:geomhash":"7a7f7477bb9fecf528208fe5f73912a2",
+    "wof:geomhash":"96800554380c3fd04aa0c0fe575111cc",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -51,7 +51,13 @@
         }
     ],
     "wof:id":1209503505,
-    "wof:lastmodified":1566585077,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Kodara",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -62,9 +68,9 @@
 },
   "bbox": [
     24.61611,
-    58.35583000000001,
+    58.35583,
     24.61611,
-    58.35583000000001
+    58.35583
 ],
-  "geometry": {"coordinates":[24.61611,58.35583000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.61611,58.35583],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "wk:page":"V%C3%B5hma%2C_Orissaare_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"8e3327c386d25ffacb2e2e02b4763baa",
+    "wof:geomhash":"d1c0fcd3d514cf636e41759161545284",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1226820079,
-    "wof:lastmodified":1566585559,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127041,
     "wof:name":"Vohma",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     22.85722,
-    58.58221999999999,
+    58.58222,
     22.85722,
-    58.58221999999999
+    58.58222
 ],
-  "geometry": {"coordinates":[22.85722,58.58221999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.85722,58.58222],"type":"Point"}
 }

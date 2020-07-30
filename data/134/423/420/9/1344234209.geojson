@@ -46,7 +46,7 @@
         "gn:id":8620844
     },
     "wof:country":"EE",
-    "wof:geomhash":"cbad5a418b91595a15da8ad66b983721",
+    "wof:geomhash":"0ad508d7a75e2160a3c052b411a1aabf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1344234209,
-    "wof:lastmodified":1566584847,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126929,
     "wof:name":"Trohvo",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     26.94722,
-    58.07666999999999,
+    58.07667,
     26.94722,
-    58.07666999999999
+    58.07667
 ],
-  "geometry": {"coordinates":[26.94722,58.07666999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.94722,58.07667],"type":"Point"}
 }

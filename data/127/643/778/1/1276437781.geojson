@@ -45,7 +45,7 @@
         "gn:id":590389
     },
     "wof:country":"EE",
-    "wof:geomhash":"ff05ed782d58d49b3f657f7df48cdf59",
+    "wof:geomhash":"678e7dabf3533533106ac7dcc6fc85f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1276437781,
-    "wof:lastmodified":1566584987,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126950,
     "wof:name":"Myagikyula",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     25.9,
-    59.38333000000001,
+    59.38333,
     25.9,
-    59.38333000000001
+    59.38333
 ],
-  "geometry": {"coordinates":[25.9,59.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.9,59.38333],"type":"Point"}
 }

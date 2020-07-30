@@ -75,7 +75,7 @@
         "gn:id":8619026
     },
     "wof:country":"EE",
-    "wof:geomhash":"0e60c972466e4e9c2aa932ca0136cbcd",
+    "wof:geomhash":"50706b2fd1a2ea634460bd4844a3554e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1293112331,
-    "wof:lastmodified":1566584963,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126946,
     "wof:name":"Joe",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -96,9 +102,9 @@
 },
   "bbox": [
     25.43583,
-    59.21194000000001,
+    59.21194,
     25.43583,
-    59.21194000000001
+    59.21194
 ],
-  "geometry": {"coordinates":[25.43583,59.21194000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.43583,59.21194],"type":"Point"}
 }

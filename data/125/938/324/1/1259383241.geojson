@@ -68,7 +68,7 @@
         "wk:page":"Ramma"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ab6ec4d635835a32cfd6b2907573ad78",
+    "wof:geomhash":"fef18bb29eda5ae3fdd2f49351fc9e60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +78,13 @@
         }
     ],
     "wof:id":1259383241,
-    "wof:lastmodified":1566585467,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127027,
     "wof:name":"Ramma",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -88,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.01917000000001,
+    26.01917,
     59.035,
-    26.01917000000001,
+    26.01917,
     59.035
 ],
-  "geometry": {"coordinates":[26.01917000000001,59.035],"type":"Point"}
+  "geometry": {"coordinates":[26.01917,59.035],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Unik%C3%BCla%2C_Ida-Viru_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"8e5939901d2c5395961a6fb4dad27111",
+    "wof:geomhash":"625faa66d8e0129c7ddd073acc21e33d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1259384745,
-    "wof:lastmodified":1566585467,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127027,
     "wof:name":"Unikuela",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     27.025,
-    59.31028000000001,
+    59.31028,
     27.025,
-    59.31028000000001
+    59.31028
 ],
-  "geometry": {"coordinates":[27.025,59.31028000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.025,59.31028],"type":"Point"}
 }

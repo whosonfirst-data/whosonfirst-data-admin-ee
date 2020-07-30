@@ -42,7 +42,7 @@
         "gn:id":8620362
     },
     "wof:country":"EE",
-    "wof:geomhash":"d45ecc2bf9591d04a05a7519b9f56301",
+    "wof:geomhash":"3727b1ad3efdbdaccc5a232a1f0a0393",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226810909,
-    "wof:lastmodified":1566585521,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127035,
     "wof:name":"Tagamotsa",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.51056,
-    58.28194000000001,
+    58.28194,
     25.51056,
-    58.28194000000001
+    58.28194
 ],
-  "geometry": {"coordinates":[25.51056,58.28194000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.51056,58.28194],"type":"Point"}
 }

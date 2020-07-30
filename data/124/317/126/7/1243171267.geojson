@@ -58,7 +58,7 @@
         "wk:page":"Praaklima"
     },
     "wof:country":"EE",
-    "wof:geomhash":"3a358d58a49f0f8de77978271d3b357d",
+    "wof:geomhash":"b11463f81c3943385028e729f66e4586",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1243171267,
-    "wof:lastmodified":1566585460,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127026,
     "wof:name":"Praaklima",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     26.62444,
-    58.60778000000001,
+    58.60778,
     26.62444,
-    58.60778000000001
+    58.60778
 ],
-  "geometry": {"coordinates":[26.62444,58.60778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.62444,58.60778],"type":"Point"}
 }

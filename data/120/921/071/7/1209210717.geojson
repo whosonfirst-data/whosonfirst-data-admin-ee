@@ -44,7 +44,7 @@
         "gn:id":8618956
     },
     "wof:country":"EE",
-    "wof:geomhash":"7b6339e8df339347fe682d167fb7e829",
+    "wof:geomhash":"8359a924a0271a02be36d111d9bfe3e9",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209210717,
-    "wof:lastmodified":1566585102,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126968,
     "wof:name":"Jaeola",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.27389,
-    59.02166999999999,
+    59.02167,
     26.27389,
-    59.02166999999999
+    59.02167
 ],
-  "geometry": {"coordinates":[26.27389,59.02166999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.27389,59.02167],"type":"Point"}
 }

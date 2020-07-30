@@ -48,7 +48,7 @@
         "wk:page":"J%C3%A4rise%2C_L%C3%A4%C3%A4ne_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"2951d7ede5aad82e28763c9b2c6c1a63",
+    "wof:geomhash":"4672d7cfdc4fe13e1148cef497f51469",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1193012801,
-    "wof:lastmodified":1566585114,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126970,
     "wof:name":"Jaerise",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     23.68194,
-    58.66583000000001,
+    58.66583,
     23.68194,
-    58.66583000000001
+    58.66583
 ],
-  "geometry": {"coordinates":[23.68194,58.66583000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.68194,58.66583],"type":"Point"}
 }

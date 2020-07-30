@@ -40,7 +40,7 @@
         "gn:id":794908
     },
     "wof:country":"EE",
-    "wof:geomhash":"d86ab0d590242221b82d195b08f78a7c",
+    "wof:geomhash":"ac80fd8aaa6a56d55f922ee86bd470c9",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -48,7 +48,13 @@
         }
     ],
     "wof:id":1209636769,
-    "wof:lastmodified":1566585058,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126961,
     "wof:name":"Kuijoevalla",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -59,9 +65,9 @@
 },
   "bbox": [
     23.98972,
-    59.06639000000001,
+    59.06639,
     23.98972,
-    59.06639000000001
+    59.06639
 ],
-  "geometry": {"coordinates":[23.98972,59.06639000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.98972,59.06639],"type":"Point"}
 }

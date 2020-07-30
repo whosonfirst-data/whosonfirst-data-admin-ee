@@ -47,7 +47,7 @@
         "gn:id":592308
     },
     "wof:country":"EE",
-    "wof:geomhash":"43644e3c688dfc36155777673f4694a8",
+    "wof:geomhash":"f9bfc66bd7ff8202beb7778d5769ae52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1343549347,
-    "wof:lastmodified":1566584828,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126926,
     "wof:name":"Ees-Soomra",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     24.16667,
-    58.36666999999999,
+    58.36667,
     24.16667,
-    58.36666999999999
+    58.36667
 ],
-  "geometry": {"coordinates":[24.16667,58.36666999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.16667,58.36667],"type":"Point"}
 }

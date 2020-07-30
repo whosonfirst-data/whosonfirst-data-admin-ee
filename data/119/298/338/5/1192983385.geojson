@@ -69,7 +69,7 @@
         "wk:page":"Paenasti"
     },
     "wof:country":"EE",
-    "wof:geomhash":"dc9a66b4c5fc8873bd98f374206e53d3",
+    "wof:geomhash":"5d8b37f827cb90609de435e2479d3afc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1192983385,
-    "wof:lastmodified":1566585122,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126971,
     "wof:name":"Paenasti",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -90,9 +96,9 @@
 },
   "bbox": [
     25.76972,
-    58.59028000000001,
+    58.59028,
     25.76972,
-    58.59028000000001
+    58.59028
 ],
-  "geometry": {"coordinates":[25.76972,58.59028000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.76972,58.59028],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "gn:id":589354
     },
     "wof:country":"EE",
-    "wof:geomhash":"62e797e25277e1cd2cda28af24765ee6",
+    "wof:geomhash":"215bc97d1acf5f7df60ed3f450bebd69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1242679661,
-    "wof:lastmodified":1566585411,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127018,
     "wof:name":"Porskovo",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.36667000000001,
+    27.36667,
     59.06667,
-    27.36667000000001,
+    27.36667,
     59.06667
 ],
-  "geometry": {"coordinates":[27.36667000000001,59.06667],"type":"Point"}
+  "geometry": {"coordinates":[27.36667,59.06667],"type":"Point"}
 }

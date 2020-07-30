@@ -42,7 +42,7 @@
         "gn:id":590242
     },
     "wof:country":"EE",
-    "wof:geomhash":"87e8e0b6126e1592cbcccdfe7dd417f5",
+    "wof:geomhash":"4c3e1663674a16520123a08ce14321d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326494993,
-    "wof:lastmodified":1566584795,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126922,
     "wof:name":"Metsakuru",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.66667,
-    58.21666999999999,
+    58.21667,
     25.66667,
-    58.21666999999999
+    58.21667
 ],
-  "geometry": {"coordinates":[25.66667,58.21666999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.66667,58.21667],"type":"Point"}
 }

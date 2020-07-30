@@ -66,7 +66,7 @@
         "gn:id":8619015
     },
     "wof:country":"EE",
-    "wof:geomhash":"e9270de23e3f2730652d274f1a15eff3",
+    "wof:geomhash":"8d8b991c567c1ff3b9bb4e313194a909",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1310119903,
-    "wof:lastmodified":1566585189,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126982,
     "wof:name":"Laane",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -87,9 +93,9 @@
 },
   "bbox": [
     25.40722,
-    59.17471999999999,
+    59.17472,
     25.40722,
-    59.17471999999999
+    59.17472
 ],
-  "geometry": {"coordinates":[25.40722,59.17471999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.40722,59.17472],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"R%C3%A4%C3%A4ski"
     },
     "wof:country":"EE",
-    "wof:geomhash":"5f5b821fb40871b1a747cba94d09a334",
+    "wof:geomhash":"b3111a74ff1919b33fe14fcef6276975",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1326706845,
-    "wof:lastmodified":1566584801,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126923,
     "wof:name":"Ryaskkyula",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -87,9 +93,9 @@
 },
   "bbox": [
     24.39278,
-    58.72528000000001,
+    58.72528,
     24.39278,
-    58.72528000000001
+    58.72528
 ],
-  "geometry": {"coordinates":[24.39278,58.72528000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.39278,58.72528],"type":"Point"}
 }

@@ -53,7 +53,7 @@
         "gn:id":589771
     },
     "wof:country":"EE",
-    "wof:geomhash":"7db28eeb647daa393aa6126844b01fd8",
+    "wof:geomhash":"5f7c7e4e2f33a3844092747c3269b399",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +63,13 @@
         }
     ],
     "wof:id":1310280857,
-    "wof:lastmodified":1566585192,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126982,
     "wof:name":"Ovi",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -74,9 +80,9 @@
 },
   "bbox": [
     26.54361,
-    58.46471999999999,
+    58.46472,
     26.54361,
-    58.46471999999999
+    58.46472
 ],
-  "geometry": {"coordinates":[26.54361,58.46471999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.54361,58.46472],"type":"Point"}
 }

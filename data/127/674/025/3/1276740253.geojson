@@ -45,7 +45,7 @@
         "gn:id":8619959
     },
     "wof:country":"EE",
-    "wof:geomhash":"dd5d3ce1d60b43c80e437ba757927a05",
+    "wof:geomhash":"a0e7473058b26f6c12899ffdcec25fcb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1276740253,
-    "wof:lastmodified":1566584992,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126950,
     "wof:name":"Lehese",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     27.37278,
-    57.83278000000001,
+    57.83278,
     27.37278,
-    57.83278000000001
+    57.83278
 ],
-  "geometry": {"coordinates":[27.37278,57.83278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.37278,57.83278],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "gn:id":592367
     },
     "wof:country":"EE",
-    "wof:geomhash":"b2d60d08f1ce0e6012e7acb4258960c9",
+    "wof:geomhash":"c7c802d2193c53c3b1b7302ca05402a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1259959143,
-    "wof:lastmodified":1566585491,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127031,
     "wof:name":"Asukuela",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     24.75,
-    58.93333000000001,
+    58.93333,
     24.75,
-    58.93333000000001
+    58.93333
 ],
-  "geometry": {"coordinates":[24.75,58.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.75,58.93333],"type":"Point"}
 }

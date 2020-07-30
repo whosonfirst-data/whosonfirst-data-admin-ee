@@ -64,7 +64,7 @@
         "wk:page":"Sonni"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b27d9302abf6726d251ae50b617d60df",
+    "wof:geomhash":"fb05ad5722a56cf513bb8ed6b6047f98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1293087463,
-    "wof:lastmodified":1566584921,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126939,
     "wof:name":"Sonni",
     "wof:parent_id":85683013,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     25.14333,
-    58.91028000000001,
+    58.91028,
     25.14333,
-    58.91028000000001
+    58.91028
 ],
-  "geometry": {"coordinates":[25.14333,58.91028000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.14333,58.91028],"type":"Point"}
 }

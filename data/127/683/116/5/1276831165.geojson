@@ -67,7 +67,7 @@
         "wk:page":"Raudna"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b692aff5e211ffad7d596f28ce58d85e",
+    "wof:geomhash":"88f0e85677be0ba7211495896cffab3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1276831165,
-    "wof:lastmodified":1566585030,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126956,
     "wof:name":"Raudna",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -88,9 +94,9 @@
 },
   "bbox": [
     25.45556,
-    58.34778000000001,
+    58.34778,
     25.45556,
-    58.34778000000001
+    58.34778
 ],
-  "geometry": {"coordinates":[25.45556,58.34778000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.45556,58.34778],"type":"Point"}
 }

@@ -70,7 +70,7 @@
         "wk:page":"Madise%2C_Tartu_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"daef48b57cc81259e99101d23d38f8af",
+    "wof:geomhash":"f7c0c4e35193aa5ddaf6d5884aed4c3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1226815423,
-    "wof:lastmodified":1566585521,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127036,
     "wof:name":"Madise",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -91,9 +97,9 @@
 },
   "bbox": [
     26.73056,
-    58.24333000000001,
+    58.24333,
     26.73056,
-    58.24333000000001
+    58.24333
 ],
-  "geometry": {"coordinates":[26.73056,58.24333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.73056,58.24333],"type":"Point"}
 }

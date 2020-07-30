@@ -46,7 +46,7 @@
         "gn:id":589213
     },
     "wof:country":"EE",
-    "wof:geomhash":"fe20c1c776b7b9f3ae66f13764b1d09d",
+    "wof:geomhash":"445c37185cf62e7392a78c40adc61852",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243049239,
-    "wof:lastmodified":1566585432,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127022,
     "wof:name":"Rabakuela",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     24.4,
-    58.46666999999999,
+    58.46667,
     24.4,
-    58.46666999999999
+    58.46667
 ],
-  "geometry": {"coordinates":[24.4,58.46666999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.4,58.46667],"type":"Point"}
 }

@@ -84,7 +84,7 @@
         "gn:id":8618442
     },
     "wof:country":"EE",
-    "wof:geomhash":"4699c0280c240a3d34a4bc7aadda03f0",
+    "wof:geomhash":"5e58b177554e0a0db802fabe46fb4f1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +94,13 @@
         }
     ],
     "wof:id":1292910999,
-    "wof:lastmodified":1566584957,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126945,
     "wof:name":"Lagedi",
     "wof:parent_id":85683059,
     "wof:placetype":"locality",
@@ -105,9 +111,9 @@
 },
   "bbox": [
     27.08333,
-    58.95444000000001,
+    58.95444,
     27.08333,
-    58.95444000000001
+    58.95444
 ],
-  "geometry": {"coordinates":[27.08333,58.95444000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.08333,58.95444],"type":"Point"}
 }

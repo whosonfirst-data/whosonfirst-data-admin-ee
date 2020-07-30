@@ -47,7 +47,7 @@
         "gn:id":590192
     },
     "wof:country":"EE",
-    "wof:geomhash":"427481cd94ecb356a3362bc8c858b643",
+    "wof:geomhash":"d6dfc80d53d18494f211c70e94935041",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1259671909,
-    "wof:lastmodified":1566585496,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127032,
     "wof:name":"Moisa",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.11667000000001,
+    24.11667,
     58.26667,
-    24.11667000000001,
+    24.11667,
     58.26667
 ],
-  "geometry": {"coordinates":[24.11667000000001,58.26667],"type":"Point"}
+  "geometry": {"coordinates":[24.11667,58.26667],"type":"Point"}
 }

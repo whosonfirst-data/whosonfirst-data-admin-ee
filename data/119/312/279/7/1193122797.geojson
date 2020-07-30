@@ -55,7 +55,7 @@
         "wk:page":"Neeruti%2C_L%C3%A4%C3%A4ne-Viru_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c99eb03d5b6e50c8e239e939cee3045d",
+    "wof:geomhash":"0af963ae4d57fbc020f70e82d71f6045",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1193122797,
-    "wof:lastmodified":1566585116,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126970,
     "wof:name":"Neeruti",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -76,9 +82,9 @@
 },
   "bbox": [
     26.17333,
-    59.30416999999999,
+    59.30417,
     26.17333,
-    59.30416999999999
+    59.30417
 ],
-  "geometry": {"coordinates":[26.17333,59.30416999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.17333,59.30417],"type":"Point"}
 }

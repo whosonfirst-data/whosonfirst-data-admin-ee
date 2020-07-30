@@ -75,7 +75,7 @@
         "wk:page":"Karala%2C_Estonia"
     },
     "wof:country":"EE",
-    "wof:geomhash":"fc69ebb625ff46eed0453659ac183a33",
+    "wof:geomhash":"64cf04d1801dd24754df2b15088cebdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1226113113,
-    "wof:lastmodified":1566585535,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127037,
     "wof:name":"Karala",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -96,9 +102,9 @@
 },
   "bbox": [
     21.92167,
-    58.26278000000001,
+    58.26278,
     21.92167,
-    58.26278000000001
+    58.26278
 ],
-  "geometry": {"coordinates":[21.92167,58.26278000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.92167,58.26278],"type":"Point"}
 }

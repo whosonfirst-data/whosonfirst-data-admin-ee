@@ -42,7 +42,7 @@
         "gn:id":587978
     },
     "wof:country":"EE",
-    "wof:geomhash":"f01d3ffd5c6a67c22ad1303a55a8d8cd",
+    "wof:geomhash":"c07eca1d326e7c8bc41362b2ae9ab68b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293893067,
-    "wof:lastmodified":1566584965,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126946,
     "wof:name":"Vaeaena-Moisakuela",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     24.43333,
-    59.38333000000001,
+    59.38333,
     24.43333,
-    59.38333000000001
+    59.38333
 ],
-  "geometry": {"coordinates":[24.43333,59.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.43333,59.38333],"type":"Point"}
 }

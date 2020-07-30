@@ -48,7 +48,7 @@
         "gn:id":794606
     },
     "wof:country":"EE",
-    "wof:geomhash":"41b230e6c38d4831abee9a7eb673e68f",
+    "wof:geomhash":"58e8fa648d15ff23f6b7b595a6903015",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1310563835,
-    "wof:lastmodified":1566585206,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126984,
     "wof:name":"Liva",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     26.02472,
-    58.06778000000001,
+    58.06778,
     26.02472,
-    58.06778000000001
+    58.06778
 ],
-  "geometry": {"coordinates":[26.02472,58.06778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.02472,58.06778],"type":"Point"}
 }

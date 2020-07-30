@@ -46,7 +46,7 @@
         "gn:id":8620224
     },
     "wof:country":"EE",
-    "wof:geomhash":"3b19d0a0e2db1be65952c932d3839ef3",
+    "wof:geomhash":"7e6572922ad0130aa86ef9eb1121895f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1326704383,
-    "wof:lastmodified":1566584800,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126922,
     "wof:name":"Soemotsa",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.07472000000001,
-    57.76416999999999,
-    27.07472000000001,
-    57.76416999999999
+    27.07472,
+    57.76417,
+    27.07472,
+    57.76417
 ],
-  "geometry": {"coordinates":[27.07472000000001,57.76416999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.07472,57.76417],"type":"Point"}
 }

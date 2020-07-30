@@ -65,7 +65,7 @@
         "wk:page":"Leigri"
     },
     "wof:country":"EE",
-    "wof:geomhash":"44394a2dac4d4fc9b2fc8a15df9d7175",
+    "wof:geomhash":"ef2bbd71abc79594a0c4e7f51fc79d71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1225947421,
-    "wof:lastmodified":1566585513,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127034,
     "wof:name":"Leigri",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     22.59306,
-    58.87889000000001,
+    58.87889,
     22.59306,
-    58.87889000000001
+    58.87889
 ],
-  "geometry": {"coordinates":[22.59306,58.87889000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.59306,58.87889],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "gn:id":8619106
     },
     "wof:country":"EE",
-    "wof:geomhash":"7f0288059d7742c876e4e5c8344506ae",
+    "wof:geomhash":"86c09da68b95f08e949e274ff8a76864",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259703725,
-    "wof:lastmodified":1566585479,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127029,
     "wof:name":"Vigala",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.25917,
-    59.08833000000001,
+    59.08833,
     26.25917,
-    59.08833000000001
+    59.08833
 ],
-  "geometry": {"coordinates":[26.25917,59.08833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.25917,59.08833],"type":"Point"}
 }

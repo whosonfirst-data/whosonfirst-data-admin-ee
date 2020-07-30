@@ -61,7 +61,7 @@
         "wk:page":"V%C3%B5lli%2C_Viljandi_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c257dc76a5c3baa0d74d6ab007f396bd",
+    "wof:geomhash":"8db6205fee7f07b5548afbf3178ba7af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1310067469,
-    "wof:lastmodified":1566585183,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126981,
     "wof:name":"Volli",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     25.34361,
-    58.50944000000001,
+    58.50944,
     25.34361,
-    58.50944000000001
+    58.50944
 ],
-  "geometry": {"coordinates":[25.34361,58.50944000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.34361,58.50944],"type":"Point"}
 }

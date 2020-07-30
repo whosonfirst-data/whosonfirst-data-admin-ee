@@ -45,7 +45,7 @@
         "gn:id":794284
     },
     "wof:country":"EE",
-    "wof:geomhash":"bb1a52b5d4fad18892e3738148b0f1f5",
+    "wof:geomhash":"e250f3ecf2097415c501894853cb2583",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1209990541,
-    "wof:lastmodified":1566585061,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126961,
     "wof:name":"Mallika",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     27.13444,
-    57.72833000000001,
+    57.72833,
     27.13444,
-    57.72833000000001
+    57.72833
 ],
-  "geometry": {"coordinates":[27.13444,57.72833000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.13444,57.72833],"type":"Point"}
 }

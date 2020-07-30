@@ -47,7 +47,7 @@
         "gn:id":588067
     },
     "wof:country":"EE",
-    "wof:geomhash":"5d2418ad8b07a7da4e578cedfa013e9d",
+    "wof:geomhash":"4adacd90a0b82476cceba7630d3d1075",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1209920315,
-    "wof:lastmodified":1566585082,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126964,
     "wof:name":"Hundissaare",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     25.48139,
-    58.82194000000001,
+    58.82194,
     25.48139,
-    58.82194000000001
+    58.82194
 ],
-  "geometry": {"coordinates":[25.48139,58.82194000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.48139,58.82194],"type":"Point"}
 }

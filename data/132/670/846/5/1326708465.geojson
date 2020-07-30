@@ -63,7 +63,7 @@
         "wk:page":"Kidise"
     },
     "wof:country":"EE",
-    "wof:geomhash":"23cc5a21e8d53d8645c1438e8b91e8d3",
+    "wof:geomhash":"2c456c71e9734f0037dc9b54fc2d9300",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1326708465,
-    "wof:lastmodified":1566584801,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126923,
     "wof:name":"Kidise",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     23.92611,
-    58.49166999999999,
+    58.49167,
     23.92611,
-    58.49166999999999
+    58.49167
 ],
-  "geometry": {"coordinates":[23.92611,58.49166999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.92611,58.49167],"type":"Point"}
 }

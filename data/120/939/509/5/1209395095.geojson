@@ -65,7 +65,7 @@
         "wk:page":"Velna"
     },
     "wof:country":"EE",
-    "wof:geomhash":"d8f3a0bc323c59ac7b807de930952a9d",
+    "wof:geomhash":"7f7177feb81e13a60242502d485727c7",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1209395095,
-    "wof:lastmodified":1566585051,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126960,
     "wof:name":"Velna",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -84,9 +90,9 @@
 },
   "bbox": [
     27.68222,
-    57.99166999999999,
+    57.99167,
     27.68222,
-    57.99166999999999
+    57.99167
 ],
-  "geometry": {"coordinates":[27.68222,57.99166999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.68222,57.99167],"type":"Point"}
 }

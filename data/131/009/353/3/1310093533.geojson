@@ -59,7 +59,7 @@
         "wk:page":"Saulepa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"229962d5dfdd11db17e0a984ad6a9556",
+    "wof:geomhash":"494bc6db0922a9ab075f7c07ef19962b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +69,13 @@
         }
     ],
     "wof:id":1310093533,
-    "wof:lastmodified":1566585173,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126979,
     "wof:name":"Saulepa",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -79,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.28972000000001,
+    24.28972,
     58.35611,
-    24.28972000000001,
+    24.28972,
     58.35611
 ],
-  "geometry": {"coordinates":[24.28972000000001,58.35611],"type":"Point"}
+  "geometry": {"coordinates":[24.28972,58.35611],"type":"Point"}
 }

@@ -74,7 +74,7 @@
         "wk:page":"Anijala"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c096e3d478cecaabf28fa106d17a5f63",
+    "wof:geomhash":"72738e35f06d40b4c47660699c474c2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +84,13 @@
         }
     ],
     "wof:id":1226616913,
-    "wof:lastmodified":1566585546,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127039,
     "wof:name":"Anijala",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -95,9 +101,9 @@
 },
   "bbox": [
     22.38778,
-    58.32666999999999,
+    58.32667,
     22.38778,
-    58.32666999999999
+    58.32667
 ],
-  "geometry": {"coordinates":[22.38778,58.32666999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.38778,58.32667],"type":"Point"}
 }

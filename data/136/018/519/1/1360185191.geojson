@@ -47,7 +47,7 @@
         "gn:id":588178
     },
     "wof:country":"EE",
-    "wof:geomhash":"d0e4ab6f10f9d56879902e15baf5abdf",
+    "wof:geomhash":"202c6b916aad85ab205d85aba82fbf67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1360185191,
-    "wof:lastmodified":1566585221,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126987,
     "wof:name":"Tudavere",
     "wof:parent_id":85683031,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     25.43333,
-    58.96666999999999,
+    58.96667,
     25.43333,
-    58.96666999999999
+    58.96667
 ],
-  "geometry": {"coordinates":[25.43333,58.96666999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.43333,58.96667],"type":"Point"}
 }

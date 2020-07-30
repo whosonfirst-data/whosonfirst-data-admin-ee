@@ -66,7 +66,7 @@
         "gn:id":8618386
     },
     "wof:country":"EE",
-    "wof:geomhash":"dc408db38d634856d3acbc187eaa792e",
+    "wof:geomhash":"3f45c0b9c5c7a16f797be77d6e515c1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1293500519,
-    "wof:lastmodified":1566584945,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126943,
     "wof:name":"Tareste",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -87,9 +93,9 @@
 },
   "bbox": [
     22.68102,
-    59.01728000000001,
+    59.01728,
     22.68102,
-    59.01728000000001
+    59.01728
 ],
-  "geometry": {"coordinates":[22.68102,59.01728000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.68102,59.01728],"type":"Point"}
 }

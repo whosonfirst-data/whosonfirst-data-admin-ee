@@ -42,7 +42,7 @@
         "gn:id":591639
     },
     "wof:country":"EE",
-    "wof:geomhash":"780a318f46c1da00dc92f41a1787c04b",
+    "wof:geomhash":"8e174620eae434a295da86dd3deb1d28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1309733103,
-    "wof:lastmodified":1566585267,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126995,
     "wof:name":"Karatuma",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     23.43694,
-    58.91583000000001,
+    58.91583,
     23.43694,
-    58.91583000000001
+    58.91583
 ],
-  "geometry": {"coordinates":[23.43694,58.91583000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.43694,58.91583],"type":"Point"}
 }

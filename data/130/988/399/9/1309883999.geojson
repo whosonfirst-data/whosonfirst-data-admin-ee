@@ -64,7 +64,7 @@
         "wk:page":"L%C3%A4hkma"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ab0993be0a3a5e8f2711d09f9e4c4754",
+    "wof:geomhash":"4b1b00c9ea404b53afb4bd99deb718bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1309883999,
-    "wof:lastmodified":1566585269,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126996,
     "wof:name":"Laehkma",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     24.81611,
-    58.26221999999999,
+    58.26222,
     24.81611,
-    58.26221999999999
+    58.26222
 ],
-  "geometry": {"coordinates":[24.81611,58.26221999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.81611,58.26222],"type":"Point"}
 }

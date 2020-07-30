@@ -46,7 +46,7 @@
         "gn:id":590253
     },
     "wof:country":"EE",
-    "wof:geomhash":"6b978fea9688f356f3d86c133e74a93f",
+    "wof:geomhash":"3afe24723002e75b69b4f96a42a7ab9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1276848911,
-    "wof:lastmodified":1566585029,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126956,
     "wof:name":"Metsakuela",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     24.86306,
-    58.47083000000001,
+    58.47083,
     24.86306,
-    58.47083000000001
+    58.47083
 ],
-  "geometry": {"coordinates":[24.86306,58.47083000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.86306,58.47083],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"H%C3%A4mmelepa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"d0e7452bbca13b728e404629cd763d30",
+    "wof:geomhash":"f1a231a2b1a2ed1b9156fed5fd27c9df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1309977127,
-    "wof:lastmodified":1566585253,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126993,
     "wof:name":"Haemmelepa",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     22.78611,
-    58.29221999999999,
+    58.29222,
     22.78611,
-    58.29221999999999
+    58.29222
 ],
-  "geometry": {"coordinates":[22.78611,58.29221999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.78611,58.29222],"type":"Point"}
 }

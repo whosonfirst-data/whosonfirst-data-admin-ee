@@ -42,7 +42,7 @@
         "gn:id":8619155
     },
     "wof:country":"EE",
-    "wof:geomhash":"d39c0065d44b67dc3c33e2cf0e737ac8",
+    "wof:geomhash":"135d5a35ac1390e15a32feaa3558bc3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1344144049,
-    "wof:lastmodified":1566584841,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126928,
     "wof:name":"Rosna-Palo",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.58111,
-    57.99028000000001,
+    57.99028,
     27.58111,
-    57.99028000000001
+    57.99028
 ],
-  "geometry": {"coordinates":[27.58111,57.99028000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.58111,57.99028],"type":"Point"}
 }

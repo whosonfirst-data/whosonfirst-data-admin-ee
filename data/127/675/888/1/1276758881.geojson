@@ -47,7 +47,7 @@
         "gn:id":588534
     },
     "wof:country":"EE",
-    "wof:geomhash":"606e5c654c8ad8ac0986f88f7b332f9d",
+    "wof:geomhash":"978f63bb2c279155cf0e1f3a82c66697",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1276758881,
-    "wof:lastmodified":1566584985,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126949,
     "wof:name":"Suur-Ahli",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     23.53333,
-    58.86666999999999,
+    58.86667,
     23.53333,
-    58.86666999999999
+    58.86667
 ],
-  "geometry": {"coordinates":[23.53333,58.86666999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.53333,58.86667],"type":"Point"}
 }

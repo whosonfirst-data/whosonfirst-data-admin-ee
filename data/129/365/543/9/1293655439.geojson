@@ -64,7 +64,7 @@
         "wk:page":"Palum%C3%A4e"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b9d1e1dbf8d773ec343c0351812b8f50",
+    "wof:geomhash":"381ff8bade1284a457f2c20e54e590a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1293655439,
-    "wof:lastmodified":1566584918,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126939,
     "wof:name":"Palumaee",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     26.57306,
-    58.17916999999999,
+    58.17917,
     26.57306,
-    58.17916999999999
+    58.17917
 ],
-  "geometry": {"coordinates":[26.57306,58.17916999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.57306,58.17917],"type":"Point"}
 }

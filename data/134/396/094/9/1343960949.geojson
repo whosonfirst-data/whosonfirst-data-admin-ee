@@ -47,7 +47,7 @@
         "wk:page":"Harju%2C_P%C3%BChalepa_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"53b3eb64b6845a9ba207e1feead81dc0",
+    "wof:geomhash":"1e93feafb5de352a47fe830118c776fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1343960949,
-    "wof:lastmodified":1566584826,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126926,
     "wof:name":"Harju",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.90167000000001,
+    22.90167,
     58.95641,
-    22.90167000000001,
+    22.90167,
     58.95641
 ],
-  "geometry": {"coordinates":[22.90167000000001,58.95641],"type":"Point"}
+  "geometry": {"coordinates":[22.90167,58.95641],"type":"Point"}
 }

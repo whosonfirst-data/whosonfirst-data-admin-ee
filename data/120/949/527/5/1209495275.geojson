@@ -65,7 +65,7 @@
         "wk:page":"S%C3%A4%C3%A4ssaare"
     },
     "wof:country":"EE",
-    "wof:geomhash":"f810a946197ac7ff05597f59aa2bda66",
+    "wof:geomhash":"c4ff8bfd20f979a596b507ab2534ebcb",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1209495275,
-    "wof:lastmodified":1566585075,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126963,
     "wof:name":"Saeaessaare",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -83,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.16444000000001,
+    27.16444,
     58.15389,
-    27.16444000000001,
+    27.16444,
     58.15389
 ],
-  "geometry": {"coordinates":[27.16444000000001,58.15389],"type":"Point"}
+  "geometry": {"coordinates":[27.16444,58.15389],"type":"Point"}
 }

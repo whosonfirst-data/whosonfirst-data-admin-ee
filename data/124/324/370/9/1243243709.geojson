@@ -58,7 +58,7 @@
         "wk:page":"S%C3%BClgoja"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c1a7106b04ff72c3db71a5ff91320182",
+    "wof:geomhash":"beb7f555a570b14534db427ef9193766",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1243243709,
-    "wof:lastmodified":1566585420,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127020,
     "wof:name":"Suelgoja",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     27.48861,
-    58.06778000000001,
+    58.06778,
     27.48861,
-    58.06778000000001
+    58.06778
 ],
-  "geometry": {"coordinates":[27.48861,58.06778000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.48861,58.06778],"type":"Point"}
 }

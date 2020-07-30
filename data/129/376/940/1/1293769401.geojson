@@ -42,7 +42,7 @@
         "gn:id":8619588
     },
     "wof:country":"EE",
-    "wof:geomhash":"25e83e2d03f1e29911569615f3fe0a1d",
+    "wof:geomhash":"daf1faa56b35005e63268ca96b18209a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293769401,
-    "wof:lastmodified":1566584936,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126942,
     "wof:name":"Pilpakuela",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.69833,
-    59.44583000000001,
+    59.44583,
     26.69833,
-    59.44583000000001
+    59.44583
 ],
-  "geometry": {"coordinates":[26.69833,59.44583000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.69833,59.44583],"type":"Point"}
 }

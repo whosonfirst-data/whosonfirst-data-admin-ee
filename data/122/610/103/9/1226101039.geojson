@@ -45,7 +45,7 @@
         "gn:id":8620189
     },
     "wof:country":"EE",
-    "wof:geomhash":"6fc687efa9b72ad103a8e2a50f0cde4b",
+    "wof:geomhash":"6717653b4655bfd553e379cae5684668",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1226101039,
-    "wof:lastmodified":1566585523,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127036,
     "wof:name":"Vanakao",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     27.11972,
-    57.73833000000001,
+    57.73833,
     27.11972,
-    57.73833000000001
+    57.73833
 ],
-  "geometry": {"coordinates":[27.11972,57.73833000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.11972,57.73833],"type":"Point"}
 }

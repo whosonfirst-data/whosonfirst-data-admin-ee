@@ -64,7 +64,7 @@
         "wk:page":"Suureranna"
     },
     "wof:country":"EE",
-    "wof:geomhash":"a3cb17cce8e9684ffffa0bcca20a81c5",
+    "wof:geomhash":"87ccf099b47d1357ba278329105de9e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1276776365,
-    "wof:lastmodified":1566585031,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126956,
     "wof:name":"Suureranna",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     22.30093,
-    58.89313000000001,
+    58.89313,
     22.30093,
-    58.89313000000001
+    58.89313
 ],
-  "geometry": {"coordinates":[22.30093,58.89313000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.30093,58.89313],"type":"Point"}
 }

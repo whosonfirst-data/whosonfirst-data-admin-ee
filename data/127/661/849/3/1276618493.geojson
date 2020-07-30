@@ -42,7 +42,7 @@
         "gn:id":8620062
     },
     "wof:country":"EE",
-    "wof:geomhash":"9ca2545c243e19c1786920250ab8bf2c",
+    "wof:geomhash":"91a0ba3b23acd1d639947f1b52337966",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276618493,
-    "wof:lastmodified":1566585007,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126953,
     "wof:name":"Savikunnu",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.10944000000001,
+    27.10944,
     57.76194,
-    27.10944000000001,
+    27.10944,
     57.76194
 ],
-  "geometry": {"coordinates":[27.10944000000001,57.76194],"type":"Point"}
+  "geometry": {"coordinates":[27.10944,57.76194],"type":"Point"}
 }

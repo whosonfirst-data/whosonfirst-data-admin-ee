@@ -47,7 +47,7 @@
         "gn:id":588788
     },
     "wof:country":"EE",
-    "wof:geomhash":"962f1d1afcc245e9746131947df43610",
+    "wof:geomhash":"116caa4f822d59797d9b9e0c8bb84cd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1343431777,
-    "wof:lastmodified":1566584895,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126937,
     "wof:name":"Sassi",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.86667000000001,
-    58.43333000000001,
-    22.86667000000001,
-    58.43333000000001
+    22.86667,
+    58.43333,
+    22.86667,
+    58.43333
 ],
-  "geometry": {"coordinates":[22.86667000000001,58.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.86667,58.43333],"type":"Point"}
 }

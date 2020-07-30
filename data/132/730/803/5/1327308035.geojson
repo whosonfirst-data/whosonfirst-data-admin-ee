@@ -69,7 +69,7 @@
         "gn:id":590296
     },
     "wof:country":"EE",
-    "wof:geomhash":"3dd46b729b5e5dfe5cdd8ac9e1318476",
+    "wof:geomhash":"89ea91a2acc0d48af0b694ccde6eb8e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1327308035,
-    "wof:lastmodified":1566584759,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126916,
     "wof:name":"Mauri",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -90,9 +96,9 @@
 },
   "bbox": [
     27.27806,
-    57.67639000000001,
+    57.67639,
     27.27806,
-    57.67639000000001
+    57.67639
 ],
-  "geometry": {"coordinates":[27.27806,57.67639000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.27806,57.67639],"type":"Point"}
 }

@@ -67,7 +67,7 @@
         "wk:page":"Vahtrepa"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1cabefc47be78192683b738e00f261b5",
+    "wof:geomhash":"11e54996a2cd64efc2ea013f76465fca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1193278807,
-    "wof:lastmodified":1566585125,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126971,
     "wof:name":"Vahtrepa",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -88,9 +94,9 @@
 },
   "bbox": [
     23.0123,
-    58.89293000000001,
+    58.89293,
     23.0123,
-    58.89293000000001
+    58.89293
 ],
-  "geometry": {"coordinates":[23.0123,58.89293000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.0123,58.89293],"type":"Point"}
 }

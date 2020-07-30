@@ -62,7 +62,7 @@
         "wk:page":"V%C3%B5itra"
     },
     "wof:country":"EE",
-    "wof:geomhash":"82ddd44536d77e6684b5a435be698c94",
+    "wof:geomhash":"acd366772a872541bdea5bca9d7a4fb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,13 @@
         }
     ],
     "wof:id":1310482699,
-    "wof:lastmodified":1566585161,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126978,
     "wof:name":"Voitra",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -83,9 +89,9 @@
 },
   "bbox": [
     24.10556,
-    58.56721999999999,
+    58.56722,
     24.10556,
-    58.56721999999999
+    58.56722
 ],
-  "geometry": {"coordinates":[24.10556,58.56721999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.10556,58.56722],"type":"Point"}
 }

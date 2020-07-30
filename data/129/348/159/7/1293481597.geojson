@@ -67,7 +67,7 @@
         "wk:page":"Uusk%C3%BCla%2C_L%C3%A4%C3%A4ne_County"
     },
     "wof:country":"EE",
-    "wof:geomhash":"00346ca06a5143c768f4793d3ea9643c",
+    "wof:geomhash":"77b59b99974c311d7332ab5e0c33159d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +77,13 @@
         }
     ],
     "wof:id":1293481597,
-    "wof:lastmodified":1566584930,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126941,
     "wof:name":"Uuskuela",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",
@@ -88,9 +94,9 @@
 },
   "bbox": [
     23.92528,
-    58.89528000000001,
+    58.89528,
     23.92528,
-    58.89528000000001
+    58.89528
 ],
-  "geometry": {"coordinates":[23.92528,58.89528000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.92528,58.89528],"type":"Point"}
 }

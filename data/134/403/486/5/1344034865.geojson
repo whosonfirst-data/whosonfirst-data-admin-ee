@@ -65,7 +65,7 @@
         "wk:page":"Soohara"
     },
     "wof:country":"EE",
-    "wof:geomhash":"67bf7ac53cab183c77f76feacaf50558",
+    "wof:geomhash":"000dffbe2ff9b74a73b3da6a9dcb1ae1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1344034865,
-    "wof:lastmodified":1566584881,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126934,
     "wof:name":"Soohara",
     "wof:parent_id":85682955,
     "wof:placetype":"locality",
@@ -86,9 +92,9 @@
 },
   "bbox": [
     27.23028,
-    57.99778000000001,
+    57.99778,
     27.23028,
-    57.99778000000001
+    57.99778
 ],
-  "geometry": {"coordinates":[27.23028,57.99778000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.23028,57.99778],"type":"Point"}
 }

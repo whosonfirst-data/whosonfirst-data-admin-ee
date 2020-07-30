@@ -58,7 +58,7 @@
         "wk:page":"Murati"
     },
     "wof:country":"EE",
-    "wof:geomhash":"982362490a0c2bc83f2a8e77e520bd1f",
+    "wof:geomhash":"b6ecc32cbfdec230b31746b5d6ed9034",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1293748053,
-    "wof:lastmodified":1566584969,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126947,
     "wof:name":"Murati",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -79,9 +85,9 @@
 },
   "bbox": [
     27.09078,
-    57.58943000000001,
+    57.58943,
     27.09078,
-    57.58943000000001
+    57.58943
 ],
-  "geometry": {"coordinates":[27.09078,57.58943000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.09078,57.58943],"type":"Point"}
 }

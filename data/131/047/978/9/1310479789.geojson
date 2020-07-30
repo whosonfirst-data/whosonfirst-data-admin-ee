@@ -74,7 +74,7 @@
         "gn:id":588109
     },
     "wof:country":"EE",
-    "wof:geomhash":"9dd35e414e738848df76d9f97723f165",
+    "wof:geomhash":"f242e7e631577473d256b22bda31a6bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +84,13 @@
         }
     ],
     "wof:id":1310479789,
-    "wof:lastmodified":1566585168,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126979,
     "wof:name":"Uduvere",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -95,9 +101,9 @@
 },
   "bbox": [
     24.53833,
-    58.61833000000001,
+    58.61833,
     24.53833,
-    58.61833000000001
+    58.61833
 ],
-  "geometry": {"coordinates":[24.53833,58.61833000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.53833,58.61833],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.5511205,59.551237,24.5511205,59.551237",
+    "geom:bbox":"24.55112,59.551237,24.55112,59.551237",
     "geom:latitude":59.551237,
     "geom:longitude":24.55112,
     "gn:country":"EE",
@@ -55,7 +55,7 @@
     },
     "wof:country":"EE",
     "wof:created":1497291553,
-    "wof:geomhash":"971703e5913edd172b094dd3078aea11",
+    "wof:geomhash":"62a6d222f214e4de0c7d247aa9c7f9c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1125808307,
-    "wof:lastmodified":1566585344,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127007,
     "wof:name":"L\u00e4\u00e4nek\u00fcla",
     "wof:parent_id":85683037,
     "wof:placetype":"locality",
@@ -75,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.5511205,
+    24.55112,
     59.551237,
-    24.5511205,
+    24.55112,
     59.551237
 ],
-  "geometry": {"coordinates":[24.5511205,59.551237],"type":"Point"}
+  "geometry": {"coordinates":[24.55112,59.551237],"type":"Point"}
 }

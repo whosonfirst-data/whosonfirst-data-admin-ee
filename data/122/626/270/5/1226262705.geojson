@@ -66,7 +66,7 @@
         "wk:page":"Anguse"
     },
     "wof:country":"EE",
-    "wof:geomhash":"585890030eb15761f00e60d3de3bb0c9",
+    "wof:geomhash":"4617d5d2710ed3a23472c5c0625b2ace",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1226262705,
-    "wof:lastmodified":1566585527,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127036,
     "wof:name":"Anguse",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -86,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.69972000000001,
-    59.23583000000001,
-    26.69972000000001,
-    59.23583000000001
+    26.69972,
+    59.23583,
+    26.69972,
+    59.23583
 ],
-  "geometry": {"coordinates":[26.69972000000001,59.23583000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.69972,59.23583],"type":"Point"}
 }

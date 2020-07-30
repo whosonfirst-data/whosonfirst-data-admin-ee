@@ -46,7 +46,7 @@
         "gn:id":8618584
     },
     "wof:country":"EE",
-    "wof:geomhash":"30e846312d9d4e875007d9dda3214fb9",
+    "wof:geomhash":"29cf38d35a688601a95796a90d25602e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1326515635,
-    "wof:lastmodified":1566584770,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126918,
     "wof:name":"Sandikuela",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     26.07528,
-    59.10778000000001,
+    59.10778,
     26.07528,
-    59.10778000000001
+    59.10778
 ],
-  "geometry": {"coordinates":[26.07528,59.10778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.07528,59.10778],"type":"Point"}
 }

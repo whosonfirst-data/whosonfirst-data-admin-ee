@@ -56,7 +56,7 @@
         "wk:page":"Savalduma"
     },
     "wof:country":"EE",
-    "wof:geomhash":"1375ab79703675e2aa75e715d9e2f8f6",
+    "wof:geomhash":"216fc3784383c9e629b087f0379ddac8",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -64,7 +64,13 @@
         }
     ],
     "wof:id":1209535697,
-    "wof:lastmodified":1566585047,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126959,
     "wof:name":"Savalduma",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -75,9 +81,9 @@
 },
   "bbox": [
     26.08556,
-    59.17028000000001,
+    59.17028,
     26.08556,
-    59.17028000000001
+    59.17028
 ],
-  "geometry": {"coordinates":[26.08556,59.17028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.08556,59.17028],"type":"Point"}
 }

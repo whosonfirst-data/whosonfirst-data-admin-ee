@@ -47,7 +47,7 @@
         "wk:page":"Kulli%2C_L%C3%BCmanda_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"17aeb0cf3e1443a61757814dbe3aab66",
+    "wof:geomhash":"a21c4bb467a03bca4d26463d733a783e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1242845339,
-    "wof:lastmodified":1566585442,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127023,
     "wof:name":"Kulli",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     22.00778,
-    58.31916999999999,
+    58.31917,
     22.00778,
-    58.31916999999999
+    58.31917
 ],
-  "geometry": {"coordinates":[22.00778,58.31916999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.00778,58.31917],"type":"Point"}
 }

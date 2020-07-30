@@ -44,7 +44,7 @@
         "gn:id":8620016
     },
     "wof:country":"EE",
-    "wof:geomhash":"86a6e86a10fe0065a379d0563fa06191",
+    "wof:geomhash":"31b595d7a0be3d2c28d92c35692abd4d",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209291695,
-    "wof:lastmodified":1566585094,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126966,
     "wof:name":"Pilpakuelae",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     27.34333,
-    58.00944000000001,
+    58.00944,
     27.34333,
-    58.00944000000001
+    58.00944
 ],
-  "geometry": {"coordinates":[27.34333,58.00944000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.34333,58.00944],"type":"Point"}
 }

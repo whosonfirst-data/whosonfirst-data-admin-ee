@@ -45,7 +45,7 @@
         "gn:id":8620439
     },
     "wof:country":"EE",
-    "wof:geomhash":"1e949e2797c640b928f3e4414418ef1a",
+    "wof:geomhash":"fcaabd8999ed651591ee5ee07a306df3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1260365799,
-    "wof:lastmodified":1566585140,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126974,
     "wof:name":"Soovaveski",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     26.34472,
-    58.32083000000001,
+    58.32083,
     26.34472,
-    58.32083000000001
+    58.32083
 ],
-  "geometry": {"coordinates":[26.34472,58.32083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.34472,58.32083],"type":"Point"}
 }

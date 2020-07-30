@@ -42,7 +42,7 @@
         "gn:id":793918
     },
     "wof:country":"EE",
-    "wof:geomhash":"ccf2ba218d91011c13d56c3ed08ae5d3",
+    "wof:geomhash":"b04d0d8a640255ccb85d79513e78fe91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226317209,
-    "wof:lastmodified":1566585582,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127044,
     "wof:name":"Kannukuela",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     25.79444,
-    58.13778000000001,
+    58.13778,
     25.79444,
-    58.13778000000001
+    58.13778
 ],
-  "geometry": {"coordinates":[25.79444,58.13778000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.79444,58.13778],"type":"Point"}
 }

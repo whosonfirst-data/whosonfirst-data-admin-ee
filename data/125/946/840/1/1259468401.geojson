@@ -64,7 +64,7 @@
         "wk:page":"L%C3%A4sna"
     },
     "wof:country":"EE",
-    "wof:geomhash":"95195ed86db82c45dfd6a98a0e393eb0",
+    "wof:geomhash":"fe875aa8c71acafbbe460856688b8d09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1259468401,
-    "wof:lastmodified":1566585481,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127029,
     "wof:name":"Laesna",
     "wof:parent_id":85683049,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     25.90556,
-    59.43278000000001,
+    59.43278,
     25.90556,
-    59.43278000000001
+    59.43278
 ],
-  "geometry": {"coordinates":[25.90556,59.43278000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.90556,59.43278],"type":"Point"}
 }

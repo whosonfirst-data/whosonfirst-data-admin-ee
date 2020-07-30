@@ -57,7 +57,7 @@
         "gn:id":588291
     },
     "wof:country":"EE",
-    "wof:geomhash":"12e34ae2b0033b85452066ac4f257319",
+    "wof:geomhash":"0d30588fa004042f9ad7aca49903c013",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1310288437,
-    "wof:lastmodified":1566585192,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126982,
     "wof:name":"Tika",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -78,9 +84,9 @@
 },
   "bbox": [
     22.16667,
-    57.96666999999999,
+    57.96667,
     22.16667,
-    57.96666999999999
+    57.96667
 ],
-  "geometry": {"coordinates":[22.16667,57.96666999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.16667,57.96667],"type":"Point"}
 }

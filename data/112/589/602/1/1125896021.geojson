@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.875294,58.8177355,22.875294,58.8177355",
+    "geom:bbox":"22.875294,58.817735,22.875294,58.817735",
     "geom:latitude":58.817735,
     "geom:longitude":22.875294,
     "gn:country":null,
@@ -55,7 +55,7 @@
     },
     "wof:country":"EE",
     "wof:created":1497295569,
-    "wof:geomhash":"b1a0584ca3ed7c5c82cb57b4a02221c3",
+    "wof:geomhash":"f0572c462776e2e6d8fe8227e3d0b242",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1125896021,
-    "wof:lastmodified":1566585339,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127006,
     "wof:name":"Kiisi",
     "wof:parent_id":85682989,
     "wof:placetype":"locality",
@@ -76,9 +82,9 @@
 },
   "bbox": [
     22.875294,
-    58.8177355,
+    58.817735,
     22.875294,
-    58.8177355
+    58.817735
 ],
-  "geometry": {"coordinates":[22.875294,58.8177355],"type":"Point"}
+  "geometry": {"coordinates":[22.875294,58.817735],"type":"Point"}
 }

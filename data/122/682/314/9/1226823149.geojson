@@ -47,7 +47,7 @@
         "gn:id":592188
     },
     "wof:country":"EE",
-    "wof:geomhash":"0a27474805752ea6db06e02c54a5f6d9",
+    "wof:geomhash":"bb3806e4a3d731dccd291b0255307ce2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1226823149,
-    "wof:lastmodified":1566585559,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127041,
     "wof:name":"Haenike",
     "wof:parent_id":85682937,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     26.76972,
-    57.84166999999999,
+    57.84167,
     26.76972,
-    57.84166999999999
+    57.84167
 ],
-  "geometry": {"coordinates":[26.76972,57.84166999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.76972,57.84167],"type":"Point"}
 }

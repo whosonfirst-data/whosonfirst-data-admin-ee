@@ -47,7 +47,7 @@
         "gn:id":589860
     },
     "wof:country":"EE",
-    "wof:geomhash":"7b07b847da6f81bbc6f73c94676cafa0",
+    "wof:geomhash":"ca7dac20cf1bdffb16dbc34bc5d14000",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1309967813,
-    "wof:lastmodified":1566585253,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126993,
     "wof:name":"Oiu",
     "wof:parent_id":85682985,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     25.96611,
-    58.41778000000001,
+    58.41778,
     25.96611,
-    58.41778000000001
+    58.41778
 ],
-  "geometry": {"coordinates":[25.96611,58.41778000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.96611,58.41778],"type":"Point"}
 }

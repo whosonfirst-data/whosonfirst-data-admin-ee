@@ -42,7 +42,7 @@
         "gn:id":8618895
     },
     "wof:country":"EE",
-    "wof:geomhash":"b0b03e7bb6ced69be970c026bdc82b83",
+    "wof:geomhash":"1bf3b0b7bcfe7e3daf352ebcee1dbae5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327299429,
-    "wof:lastmodified":1566584820,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126925,
     "wof:name":"Juuta",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.25917,
-    57.72083000000001,
+    57.72083,
     26.25917,
-    57.72083000000001
+    57.72083
 ],
-  "geometry": {"coordinates":[26.25917,57.72083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.25917,57.72083],"type":"Point"}
 }

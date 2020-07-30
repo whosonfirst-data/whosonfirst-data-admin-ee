@@ -57,7 +57,7 @@
         "gn:id":8620681
     },
     "wof:country":"EE",
-    "wof:geomhash":"4b9c669722c9fcb2bb1c6b028f70c310",
+    "wof:geomhash":"7f38662d56c1dc5ee58ac327ca666448",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1327113439,
-    "wof:lastmodified":1566584819,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126925,
     "wof:name":"Kesklinn",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -78,9 +84,9 @@
 },
   "bbox": [
     22.48361,
-    58.25333000000001,
+    58.25333,
     22.48361,
-    58.25333000000001
+    58.25333
 ],
-  "geometry": {"coordinates":[22.48361,58.25333000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.48361,58.25333],"type":"Point"}
 }

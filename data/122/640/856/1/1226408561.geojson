@@ -70,7 +70,7 @@
         "wk:page":"Veibri"
     },
     "wof:country":"EE",
-    "wof:geomhash":"34444873200c131deba92f04ac1db8a1",
+    "wof:geomhash":"315e49433e9c45763e3210edf199dacb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1226408561,
-    "wof:lastmodified":1566585561,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127041,
     "wof:name":"Veibri",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",
@@ -91,9 +97,9 @@
 },
   "bbox": [
     26.78472,
-    58.34028000000001,
+    58.34028,
     26.78472,
-    58.34028000000001
+    58.34028
 ],
-  "geometry": {"coordinates":[26.78472,58.34028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.78472,58.34028],"type":"Point"}
 }

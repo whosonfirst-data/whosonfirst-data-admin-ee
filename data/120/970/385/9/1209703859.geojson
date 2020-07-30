@@ -105,7 +105,7 @@
         "gn:id":591677
     },
     "wof:country":"EE",
-    "wof:geomhash":"92a8bd3f5e0e54f294484255f40fe64e",
+    "wof:geomhash":"6287d83f717aa07c438944e7008bcfed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,7 +115,13 @@
         }
     ],
     "wof:id":1209703859,
-    "wof:lastmodified":1566585066,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126962,
     "wof:name":"Kandla",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -126,9 +132,9 @@
 },
   "bbox": [
     24.95,
-    58.13333000000001,
+    58.13333,
     24.95,
-    58.13333000000001
+    58.13333
 ],
-  "geometry": {"coordinates":[24.95,58.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.95,58.13333],"type":"Point"}
 }

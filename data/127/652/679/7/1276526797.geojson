@@ -70,7 +70,7 @@
         "wk:page":"%C3%95ha"
     },
     "wof:country":"EE",
-    "wof:geomhash":"b2d197366a7ea074ddfa8ee8744e5433",
+    "wof:geomhash":"446f5c6151230844936950bb1368a712",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1276526797,
-    "wof:lastmodified":1566585033,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126957,
     "wof:name":"Oha",
     "wof:parent_id":85682947,
     "wof:placetype":"locality",
@@ -90,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.53972000000001,
-    58.39944000000001,
-    22.53972000000001,
-    58.39944000000001
+    22.53972,
+    58.39944,
+    22.53972,
+    58.39944
 ],
-  "geometry": {"coordinates":[22.53972000000001,58.39944000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.53972,58.39944],"type":"Point"}
 }

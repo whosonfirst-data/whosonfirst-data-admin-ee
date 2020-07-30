@@ -42,7 +42,7 @@
         "gn:id":794553
     },
     "wof:country":"EE",
-    "wof:geomhash":"315dd640a15e6423ec11b1b051343ab3",
+    "wof:geomhash":"ee10a8b585a4d0142cd531e77467fbaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259646133,
-    "wof:lastmodified":1566585473,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596127028,
     "wof:name":"Meegaste",
     "wof:parent_id":85682941,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     26.29306,
-    58.06028000000001,
+    58.06028,
     26.29306,
-    58.06028000000001
+    58.06028
 ],
-  "geometry": {"coordinates":[26.29306,58.06028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.29306,58.06028],"type":"Point"}
 }

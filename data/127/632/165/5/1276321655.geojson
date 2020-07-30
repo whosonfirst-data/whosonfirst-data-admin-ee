@@ -45,7 +45,7 @@
         "gn:id":587723
     },
     "wof:country":"EE",
-    "wof:geomhash":"3ed52a4b2de1eea0a6ad19e7111ba8d5",
+    "wof:geomhash":"31609962a392b4110d72aa9533e17a12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1276321655,
-    "wof:lastmodified":1566585005,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596126952,
     "wof:name":"Vaskryama",
     "wof:parent_id":85682981,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     24.69944,
-    58.30889000000001,
+    58.30889,
     24.69944,
-    58.30889000000001
+    58.30889
 ],
-  "geometry": {"coordinates":[24.69944,58.30889000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.69944,58.30889],"type":"Point"}
 }
