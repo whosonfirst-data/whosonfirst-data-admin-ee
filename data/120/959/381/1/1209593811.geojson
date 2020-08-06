@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682981,
+        102191581,
+        1713310391,
+        85633135,
+        1713305703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"337a9ccdba7b25eb2d98f46f9b487d9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209593811
+            "county_id":1713305703,
+            "localadmin_id":1713310391,
+            "locality_id":1209593811,
+            "region_id":85682981
         }
     ],
     "wof:id":1209593811,
@@ -54,9 +62,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485104,
+    "wof:lastmodified":1596677705,
     "wof:name":"Soeoeni",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713310391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

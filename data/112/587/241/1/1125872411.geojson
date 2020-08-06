@@ -87,9 +87,11 @@
     "woe:name_adm1":"Ida-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713313267,
         85633135,
-        85683059
+        1713305783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,6 +110,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305783,
+            "localadmin_id":1713313267,
             "locality_id":1125872411,
             "region_id":85683059
         }
@@ -119,9 +123,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130417,
+    "wof:lastmodified":1596676911,
     "wof:name":"J\u00e4rve",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713313267,
     "wof:placetype":"locality",
     "wof:population":682,
     "wof:population_rank":2,

@@ -89,9 +89,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306401,
         85633135,
-        85683055
+        1713305625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,6 +112,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305625,
+            "localadmin_id":1713306401,
             "locality_id":1125889631,
             "region_id":85683055
         }
@@ -121,9 +125,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130281,
+    "wof:lastmodified":1596676118,
     "wof:name":"Muuga",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306401,
     "wof:placetype":"locality",
     "wof:population":201,
     "wof:population_rank":2,

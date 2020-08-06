@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049,
+        1713305775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":6068
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595459635,
     "wof:geomhash":"046fb2fe38e9de8f243e756293f82f39",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305775,
+            "localadmin_id":1713308401,
+            "region_id":85683049
+        }
+    ],
     "wof:id":1713308401,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130320,
+    "wof:lastmodified":1596678029,
     "wof:name":"Pedassaare",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

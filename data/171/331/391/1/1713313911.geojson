@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995,
+        1713305679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":6111
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460863,
     "wof:geomhash":"a38c68955318857e0da49b9a107a96f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305679,
+            "localadmin_id":1713313911,
+            "region_id":85682995
+        }
+    ],
     "wof:id":1713313911,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130430,
+    "wof:lastmodified":1596660827,
     "wof:name":"Perametsa",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

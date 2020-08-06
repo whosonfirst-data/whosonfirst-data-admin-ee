@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981,
+        1713305741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":4004
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595461221,
     "wof:geomhash":"3868d8c5f679575b40eda8a96de7d309",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305741,
+            "localadmin_id":1713315445,
+            "region_id":85682981
+        }
+    ],
     "wof:id":1713315445,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130459,
+    "wof:lastmodified":1596663037,
     "wof:name":"Laadi",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305741,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

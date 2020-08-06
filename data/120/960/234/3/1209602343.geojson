@@ -57,7 +57,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682937,
+        102191581,
+        1713315749,
+        85633135,
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +75,12 @@
     "wof:geomhash":"db5effa2b4795857d0d355bff4ef2356",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209602343
+            "county_id":1713305633,
+            "localadmin_id":1713315749,
+            "locality_id":1209602343,
+            "region_id":85682937
         }
     ],
     "wof:id":1209602343,
@@ -82,9 +90,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485104,
+    "wof:lastmodified":1596660401,
     "wof:name":"Koivsaare",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713315749,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

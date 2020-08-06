@@ -63,7 +63,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683059,
+        102191581,
+        1713311769,
+        85633135,
+        1713305693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,8 +81,12 @@
     "wof:geomhash":"60f67577556bb2d9ff61e4aff4948b1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209517441
+            "county_id":1713305693,
+            "localadmin_id":1713311769,
+            "locality_id":1209517441,
+            "region_id":85683059
         }
     ],
     "wof:id":1209517441,
@@ -88,9 +96,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485105,
+    "wof:lastmodified":1596660741,
     "wof:name":"Uuskuela",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713311769,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

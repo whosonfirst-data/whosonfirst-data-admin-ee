@@ -42,7 +42,11 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":890
@@ -50,7 +54,14 @@
     "wof:country":"EE",
     "wof:created":1595451855,
     "wof:geomhash":"b8ce54d87ff47007c9b51e58a113f10b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305625,
+            "region_id":85683055
+        }
+    ],
     "wof:id":1713305625,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +69,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596658105,
+    "wof:lastmodified":1596675311,
     "wof:name":"Viimsi",
-    "wof:parent_id":-1,
+    "wof:parent_id":85683055,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

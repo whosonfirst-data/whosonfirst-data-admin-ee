@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683001,
+        102191581,
+        1713315333,
+        85633135,
+        1713305701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"ac80fd8aaa6a56d55f922ee86bd470c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209636769
+            "county_id":1713305701,
+            "localadmin_id":1713315333,
+            "locality_id":1209636769,
+            "region_id":85683001
         }
     ],
     "wof:id":1209636769,
@@ -54,9 +62,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485099,
+    "wof:lastmodified":1596677432,
     "wof:name":"Kuijoevalla",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713315333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

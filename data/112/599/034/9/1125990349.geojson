@@ -84,7 +84,13 @@
     "woe:name_adm0":"Eesti",
     "woe:name_adm1":"Hiiumaa",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682989,
+        102191581,
+        1713310679,
+        85633135,
+        1713305629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592144,
@@ -100,10 +106,12 @@
     "wof:geomhash":"f51c39fc42121fe269c70fcc6583c735",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310679,
             "locality_id":1125990349,
-            "region_id":-1
+            "region_id":85682989
         }
     ],
     "wof:id":1125990349,
@@ -113,9 +121,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130369,
+    "wof:lastmodified":1596670025,
     "wof:name":"Heltermaa",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713310679,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

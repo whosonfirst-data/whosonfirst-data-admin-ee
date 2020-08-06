@@ -62,7 +62,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683055,
+        102191581,
+        1713307861,
+        85633135,
+        1713305737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,8 +76,12 @@
     "wof:geomhash":"6f6e64e4028f3295099d99dec6a58a06",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209432593
+            "county_id":1713305737,
+            "localadmin_id":1713307861,
+            "locality_id":1209432593,
+            "region_id":85683055
         }
     ],
     "wof:id":1209432593,
@@ -83,9 +91,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485108,
+    "wof:lastmodified":1596663322,
     "wof:name":"Kloostri",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713307861,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

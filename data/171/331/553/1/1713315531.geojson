@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937,
+        1713305633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":3462
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595461240,
     "wof:geomhash":"759e5c6b57f0cf3ac34ddbfe12bd10b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713315531,
+            "region_id":85682937
+        }
+    ],
     "wof:id":1713315531,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1595977969,
+    "wof:lastmodified":1596660245,
     "wof:name":"Kose",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

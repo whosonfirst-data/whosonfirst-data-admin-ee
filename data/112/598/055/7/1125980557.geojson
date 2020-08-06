@@ -44,9 +44,11 @@
     "woe:name_adm1":"Hiiumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682989,
         102191581,
+        1713310149,
         85633135,
-        85682989
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,6 +62,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310149,
             "locality_id":1125980557,
             "region_id":85682989
         }
@@ -71,9 +75,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485139,
+    "wof:lastmodified":1596670021,
     "wof:name":"Ristna",
-    "wof:parent_id":85682989,
+    "wof:parent_id":1713310149,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

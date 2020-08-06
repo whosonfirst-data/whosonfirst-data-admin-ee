@@ -51,7 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682955,
+        102191581,
+        1713309739,
+        85633135,
+        1713305789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,8 +69,12 @@
     "wof:geomhash":"f0716352af4c865ed188de9b97cb7c77",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209602355
+            "county_id":1713305789,
+            "localadmin_id":1713309739,
+            "locality_id":1209602355,
+            "region_id":85682955
         }
     ],
     "wof:id":1209602355,
@@ -76,9 +84,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485104,
+    "wof:lastmodified":1596676789,
     "wof:name":"Abissaare",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713309739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

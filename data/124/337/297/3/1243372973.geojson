@@ -78,9 +78,11 @@
         "geonames"
     ],
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713307899,
         85633135,
-        85683055
+        1713305737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +101,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305737,
+            "localadmin_id":1713307899,
             "locality_id":1243372973,
             "region_id":85683055
         }
@@ -110,9 +114,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596127016,
+    "wof:lastmodified":1596663328,
     "wof:name":"AEmari",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713307899,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

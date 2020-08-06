@@ -61,9 +61,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682989,
         102191581,
+        1713308831,
         85633135,
-        85682989
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,6 +81,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713308831,
             "locality_id":1259786659,
             "region_id":85682989
         }
@@ -90,9 +94,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485157,
+    "wof:lastmodified":1596670016,
     "wof:name":"Haldi",
-    "wof:parent_id":85682989,
+    "wof:parent_id":1713308831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

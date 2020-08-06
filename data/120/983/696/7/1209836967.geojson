@@ -37,9 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713309395,
         85633135,
-        85683001
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +53,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713309395,
             "locality_id":1209836967,
             "region_id":85683001
         }
@@ -62,9 +66,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485101,
+    "wof:lastmodified":1596661686,
     "wof:name":"Sepamaa",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713309395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

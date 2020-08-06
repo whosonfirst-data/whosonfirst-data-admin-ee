@@ -66,9 +66,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713316335,
         85633135,
-        85682937
+        1713305787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,6 +85,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305787,
+            "localadmin_id":1713316335,
             "locality_id":1327392895,
             "region_id":85682937
         }
@@ -94,9 +98,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485047,
+    "wof:lastmodified":1596676895,
     "wof:name":"Pulli",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713316335,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

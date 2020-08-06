@@ -66,9 +66,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713314027,
         85633135,
-        85682995
+        1713305675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,6 +85,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305675,
+            "localadmin_id":1713314027,
             "locality_id":1125789179,
             "region_id":85682995
         }
@@ -94,9 +98,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596149618,
+    "wof:lastmodified":1596661173,
     "wof:name":"Supilinn",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713314027,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

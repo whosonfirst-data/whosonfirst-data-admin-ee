@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013,
+        1713305713
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":4038
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595461132,
     "wof:geomhash":"57338a8743903b67d9e56370e85f9cb8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305713,
+            "localadmin_id":1713315099,
+            "region_id":85683013
+        }
+    ],
     "wof:id":1713315099,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130453,
+    "wof:lastmodified":1596676738,
     "wof:name":"Laeste",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

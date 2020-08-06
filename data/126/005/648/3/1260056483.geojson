@@ -36,9 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713311147,
         85633135,
-        85683013
+        1713305747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,6 +55,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305747,
+            "localadmin_id":1713311147,
             "locality_id":1260056483,
             "region_id":85683013
         }
@@ -64,9 +68,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485117,
+    "wof:lastmodified":1596662839,
     "wof:name":"Metsaere",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713311147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

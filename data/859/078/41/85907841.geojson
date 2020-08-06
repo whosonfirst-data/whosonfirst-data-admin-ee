@@ -91,8 +91,13 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":513,
     "wof:belongsto":[
+        85683055,
+        102191581,
+        1713305847,
         85633135,
-        101748153
+        101748153,
+        1713348883,
+        1713305645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,21 +111,23 @@
     "wof:geomhash":"d1dec78f44252421eec07a1679b2139d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1713348883,
+            "continent_id":102191581,
             "country_id":85633135,
-            "county_id":-1,
+            "county_id":1713305645,
+            "localadmin_id":1713305847,
             "locality_id":101748153,
             "neighbourhood_id":85907841,
-            "region_id":-1
+            "region_id":85683055
         }
     ],
     "wof:id":85907841,
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1596485072,
+    "wof:lastmodified":1596663548,
     "wof:name":"Kalamaja",
-    "wof:parent_id":101748153,
+    "wof:parent_id":1713348883,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

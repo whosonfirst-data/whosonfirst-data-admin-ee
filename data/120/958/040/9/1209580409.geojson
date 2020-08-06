@@ -57,7 +57,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682985,
+        102191581,
+        1713310015,
+        85633135,
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +75,12 @@
     "wof:geomhash":"50228480c06b29b1971a69f6c82c9e17",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209580409
+            "county_id":1713305669,
+            "localadmin_id":1713310015,
+            "locality_id":1209580409,
+            "region_id":85682985
         }
     ],
     "wof:id":1209580409,
@@ -82,9 +90,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485104,
+    "wof:lastmodified":1596661253,
     "wof:name":"Rebase",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713310015,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

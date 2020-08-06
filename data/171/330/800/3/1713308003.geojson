@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049,
+        1713305771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":3252
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595459537,
     "wof:geomhash":"a8c975bd808977f0fcc1827e1decc4f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305771,
+            "localadmin_id":1713308003,
+            "region_id":85683049
+        }
+    ],
     "wof:id":1713308003,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130313,
+    "wof:lastmodified":1596677949,
     "wof:name":"Koeravere",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

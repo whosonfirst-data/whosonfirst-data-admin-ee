@@ -87,9 +87,11 @@
     "woe:name_adm1":"Hiiumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682989,
         102191581,
+        1713310773,
         85633135,
-        85682989
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,6 +109,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310773,
             "locality_id":1125862985,
             "region_id":85682989
         }
@@ -118,9 +122,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485137,
+    "wof:lastmodified":1596670005,
     "wof:name":"Emmaste",
-    "wof:parent_id":85682989,
+    "wof:parent_id":1713310773,
     "wof:placetype":"locality",
     "wof:population":277,
     "wof:population_rank":2,

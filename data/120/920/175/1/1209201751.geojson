@@ -60,7 +60,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682955,
+        102191581,
+        1713315963,
+        85633135,
+        1713305631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +78,12 @@
     "wof:geomhash":"84b2b548f596e56589d6ec76421c43a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209201751
+            "county_id":1713305631,
+            "localadmin_id":1713315963,
+            "locality_id":1209201751,
+            "region_id":85682955
         }
     ],
     "wof:id":1209201751,
@@ -85,9 +93,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485106,
+    "wof:lastmodified":1596663694,
     "wof:name":"Igrise",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713315963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -55,7 +55,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683013,
+        102191581,
+        1713311203,
+        85633135,
+        1713305711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,8 +73,12 @@
     "wof:geomhash":"12e4f09df82e4641fd4d47cd1c1d47c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209082661
+            "county_id":1713305711,
+            "localadmin_id":1713311203,
+            "locality_id":1209082661,
+            "region_id":85683013
         }
     ],
     "wof:id":1209082661,
@@ -80,9 +88,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485099,
+    "wof:lastmodified":1596676720,
     "wof:name":"Arankuela",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713311203,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

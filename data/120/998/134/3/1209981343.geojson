@@ -51,9 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713309769,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,6 +67,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713309769,
             "locality_id":1209981343,
             "region_id":85682985
         }
@@ -76,9 +80,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485097,
+    "wof:lastmodified":1596661264,
     "wof:name":"Lepiku",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713309769,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

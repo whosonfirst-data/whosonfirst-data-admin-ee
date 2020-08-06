@@ -82,9 +82,11 @@
     "woe:name_adm1":"Raplamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713311455,
         85633135,
-        85683013
+        1713305747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,6 +104,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305747,
+            "localadmin_id":1713311455,
             "locality_id":1125934441,
             "region_id":85683013
         }
@@ -113,9 +117,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485135,
+    "wof:lastmodified":1596662848,
     "wof:name":"Kivi-Vigala",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713311455,
     "wof:placetype":"locality",
     "wof:population":293,
     "wof:population_rank":2,

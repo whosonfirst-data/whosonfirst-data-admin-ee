@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989,
+        1713305629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":5728
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460134,
     "wof:geomhash":"4d828d18b2f448c0af808e3eab3cdeac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310499,
+            "region_id":85682989
+        }
+    ],
     "wof:id":1713310499,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130365,
+    "wof:lastmodified":1596666397,
     "wof:name":"Orjaku",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

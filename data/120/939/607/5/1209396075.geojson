@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682981,
+        102191581,
+        1713312403,
+        85633135,
+        1713305731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,12 @@
     "wof:geomhash":"011317a523f371c4b39565b69dbe6425",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209396075
+            "county_id":1713305731,
+            "localadmin_id":1713312403,
+            "locality_id":1209396075,
+            "region_id":85682981
         }
     ],
     "wof:id":1209396075,
@@ -58,9 +66,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485098,
+    "wof:lastmodified":1596663387,
     "wof:name":"Metsakuela",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713312403,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

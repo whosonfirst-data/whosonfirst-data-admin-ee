@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941,
+        1713305687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":6976
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460866,
     "wof:geomhash":"ec47cc56c5e6c3411f421f3df0d002cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305687,
+            "localadmin_id":1713313927,
+            "region_id":85682941
+        }
+    ],
     "wof:id":1713313927,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130430,
+    "wof:lastmodified":1596661428,
     "wof:name":"Riidaja",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

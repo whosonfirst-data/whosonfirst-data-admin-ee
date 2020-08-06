@@ -103,9 +103,11 @@
     "woe:name_adm1":"L\u00e4\u00e4nemaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713308505,
         85633135,
-        85683001
+        1713305755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,6 +128,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305755,
+            "localadmin_id":1713308505,
             "locality_id":101815105,
             "region_id":85683001
         }
@@ -137,9 +141,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596486336,
+    "wof:lastmodified":1596662771,
     "wof:name":"Uuem\u00f5isa",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713308505,
     "wof:placetype":"locality",
     "wof:population":1068,
     "wof:population_rank":3,

@@ -64,9 +64,11 @@
     "woe:name_adm1":"V\u00f5rumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713314341,
         85633135,
-        85682941
+        1713305753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,6 +86,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305753,
+            "localadmin_id":1713314341,
             "locality_id":1125974749,
             "region_id":85682941
         }
@@ -95,9 +99,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485139,
+    "wof:lastmodified":1596661956,
     "wof:name":"Lusti",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713314341,
     "wof:placetype":"locality",
     "wof:population":214,
     "wof:population_rank":2,

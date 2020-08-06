@@ -42,7 +42,11 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":901
@@ -50,7 +54,14 @@
     "wof:country":"EE",
     "wof:created":1595451912,
     "wof:geomhash":"c4baca9088661919b6411ec8548507f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305771,
+            "region_id":85683049
+        }
+    ],
     "wof:id":1713305771,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +69,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596658119,
+    "wof:lastmodified":1596677942,
     "wof:name":"Vinni",
-    "wof:parent_id":-1,
+    "wof:parent_id":85683049,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

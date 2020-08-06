@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955,
+        1713305791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":8989
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595461353,
     "wof:geomhash":"da2bc4072c318d69bc90aeaf79c4fdc0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713316075,
+            "region_id":85682955
+        }
+    ],
     "wof:id":1713316075,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130470,
+    "wof:lastmodified":1596676954,
     "wof:name":"Vana-Koiola",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

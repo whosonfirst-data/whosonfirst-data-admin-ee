@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682995,
+        102191581,
+        1713310727,
+        85633135,
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +66,12 @@
     "wof:geomhash":"af22e3bb5b2f09d98131070690c9b6b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209480727
+            "county_id":1713305757,
+            "localadmin_id":1713310727,
+            "locality_id":1209480727,
+            "region_id":85682995
         }
     ],
     "wof:id":1209480727,
@@ -73,9 +81,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485100,
+    "wof:lastmodified":1596661911,
     "wof:name":"Atra",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713310727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985,
+        1713305669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":1147
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460034,
     "wof:geomhash":"51e363018226a85f2988c5fa44ad68e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713310035,
+            "region_id":85682985
+        }
+    ],
     "wof:id":1713310035,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130354,
+    "wof:lastmodified":1596661190,
     "wof:name":"Aindu",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

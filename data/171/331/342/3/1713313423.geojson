@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981,
+        1713305733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":6714
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460759,
     "wof:geomhash":"93e9b7f637a7b4b634c4f7a76f0fabd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713313423,
+            "region_id":85682981
+        }
+    ],
     "wof:id":1713313423,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130420,
+    "wof:lastmodified":1596663398,
     "wof:name":"Rae",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

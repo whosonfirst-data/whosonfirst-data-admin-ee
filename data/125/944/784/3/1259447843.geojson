@@ -51,9 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713310087,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,6 +71,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713310087,
             "locality_id":1259447843,
             "region_id":85682985
         }
@@ -80,9 +84,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485161,
+    "wof:lastmodified":1596661253,
     "wof:name":"Vissuvere",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713310087,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

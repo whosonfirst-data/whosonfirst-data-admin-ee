@@ -64,7 +64,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1713310423,
         85633135,
+        1713305629,
         85682989
     ],
     "wof:breaches":[],
@@ -79,13 +81,15 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310423,
             "locality_id":-1,
             "neighbourhood_id":1126065953,
             "region_id":85682989
         }
     ],
     "wof:id":1126065953,
-    "wof:lastmodified":1596485139,
+    "wof:lastmodified":1596670035,
     "wof:name":"L\u00f5pe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

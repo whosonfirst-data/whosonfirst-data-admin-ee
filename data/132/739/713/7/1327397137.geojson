@@ -60,9 +60,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713310361,
         85633135,
-        85682995
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +79,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713310361,
             "locality_id":1327397137,
             "region_id":85682995
         }
@@ -88,9 +92,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485047,
+    "wof:lastmodified":1596661921,
     "wof:name":"Kulli",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713310361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

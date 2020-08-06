@@ -81,9 +81,11 @@
     "woe:name_adm1":"J\u00f5gevamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312367,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,6 +104,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312367,
             "locality_id":1125871411,
             "region_id":85683009
         }
@@ -113,9 +117,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130398,
+    "wof:lastmodified":1596676576,
     "wof:name":"\u00d5una",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312367,
     "wof:placetype":"locality",
     "wof:population":173,
     "wof:population_rank":1,

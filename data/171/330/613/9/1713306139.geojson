@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981,
+        1713305635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":7089
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595459086,
     "wof:geomhash":"6cdf8e59e1c2ed93c274a87dcaeab104",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305635,
+            "localadmin_id":1713306139,
+            "region_id":85682981
+        }
+    ],
     "wof:id":1713306139,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130276,
+    "wof:lastmodified":1596663956,
     "wof:name":"Rootsik\u00fcla",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305635,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

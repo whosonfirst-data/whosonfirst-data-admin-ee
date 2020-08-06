@@ -57,7 +57,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682955,
+        102191581,
+        1713316415,
+        85633135,
+        1713305631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +75,12 @@
     "wof:geomhash":"7f7177feb81e13a60242502d485727c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209395095
+            "county_id":1713305631,
+            "localadmin_id":1713316415,
+            "locality_id":1209395095,
+            "region_id":85682955
         }
     ],
     "wof:id":1209395095,
@@ -82,9 +90,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485098,
+    "wof:lastmodified":1596663699,
     "wof:name":"Velna",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713316415,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

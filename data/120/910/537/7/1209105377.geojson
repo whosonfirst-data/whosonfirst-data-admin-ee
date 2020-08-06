@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683009,
+        102191581,
+        1713314081,
+        85633135,
+        1713305657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +52,12 @@
     "wof:geomhash":"73bf2d9fafa24fbe3040905264c25e56",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209105377
+            "county_id":1713305657,
+            "localadmin_id":1713314081,
+            "locality_id":1209105377,
+            "region_id":85683009
         }
     ],
     "wof:id":1209105377,
@@ -59,9 +67,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485108,
+    "wof:lastmodified":1596676500,
     "wof:name":"Ausi",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713314081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013,
+        1713305747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":2980
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460321,
     "wof:geomhash":"35763a5f85b38aa9a9f7f3db0c80a876",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305747,
+            "localadmin_id":1713311369,
+            "region_id":85683013
+        }
+    ],
     "wof:id":1713311369,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130382,
+    "wof:lastmodified":1596662813,
     "wof:name":"Keskk\u00fcla",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

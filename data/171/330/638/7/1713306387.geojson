@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055,
+        1713305689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":8783
@@ -47,7 +52,15 @@
     "wof:country":"EE",
     "wof:created":1595459145,
     "wof:geomhash":"4184525671b81dcfc51266ad3f0a3931",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305689,
+            "localadmin_id":1713306387,
+            "region_id":85683055
+        }
+    ],
     "wof:id":1713306387,
     "wof:lang_x_official":[
         "est"
@@ -55,9 +68,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1595459145,
+    "wof:lastmodified":1596661379,
     "wof:name":"Uusk\u00fcla",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

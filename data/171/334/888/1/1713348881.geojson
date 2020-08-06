@@ -108,7 +108,14 @@
     "woe:name_adm0":"Eesti",
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683055,
+        102191581,
+        1713305847,
+        85633135,
+        101748153,
+        1713305645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":482,
@@ -121,7 +128,17 @@
     "wof:country":"EE",
     "wof:created":1595888772,
     "wof:geomhash":"433826ba79541ee1a10120afd8b4c6aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":1713348881,
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305645,
+            "localadmin_id":1713305847,
+            "locality_id":101748153,
+            "region_id":85683055
+        }
+    ],
     "wof:id":1713348881,
     "wof:lang_x_official":[
         "est"
@@ -129,9 +146,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596147775,
+    "wof:lastmodified":1596663544,
     "wof:name":"Mustam\u00e4e",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748153,
     "wof:placetype":"borough",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

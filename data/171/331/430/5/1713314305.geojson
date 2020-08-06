@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985,
+        1713305661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":1625
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460949,
     "wof:geomhash":"c43c402cb9bd67ca1d81371a00ae3938",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305661,
+            "localadmin_id":1713314305,
+            "region_id":85682985
+        }
+    ],
     "wof:id":1713314305,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130438,
+    "wof:lastmodified":1596661292,
     "wof:name":"Ereste",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

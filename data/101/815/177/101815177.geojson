@@ -174,9 +174,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713305973,
         85633135,
-        85683055
+        1713305751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -198,6 +200,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305751,
+            "localadmin_id":1713305973,
             "locality_id":101815177,
             "region_id":85683055
         }
@@ -209,9 +213,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596486336,
+    "wof:lastmodified":1596661931,
     "wof:name":"Aruk\u00fcla",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713305973,
     "wof:placetype":"locality",
     "wof:population":1829,
     "wof:population_rank":3,

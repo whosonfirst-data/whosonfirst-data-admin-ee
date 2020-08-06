@@ -52,9 +52,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713310241,
         85633135,
-        85682995
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,6 +73,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713310241,
             "locality_id":1125840383,
             "region_id":85682995
         }
@@ -82,9 +86,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485141,
+    "wof:lastmodified":1596661908,
     "wof:name":"K\u00f5duk\u00fcla",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713310241,
     "wof:placetype":"locality",
     "wof:population":105,
     "wof:population_rank":1,

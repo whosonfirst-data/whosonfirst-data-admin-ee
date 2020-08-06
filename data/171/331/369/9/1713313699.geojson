@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995,
+        1713305699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":9234
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460817,
     "wof:geomhash":"1d539ee59c8e7d69422363b403c26d10",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305699,
+            "localadmin_id":1713313699,
+            "region_id":85682995
+        }
+    ],
     "wof:id":1713313699,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130426,
+    "wof:lastmodified":1596660655,
     "wof:name":"Veskim\u00e4e",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

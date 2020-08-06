@@ -94,9 +94,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713309999,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,6 +117,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713309999,
             "locality_id":1125954905,
             "region_id":85682985
         }
@@ -126,9 +130,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130354,
+    "wof:lastmodified":1596661251,
     "wof:name":"Aidu",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713309999,
     "wof:placetype":"locality",
     "wof:population":115,
     "wof:population_rank":1,

@@ -37,9 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713314513,
         85633135,
-        85683049
+        1713305723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +53,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305723,
+            "localadmin_id":1713314513,
             "locality_id":1259970459,
             "region_id":85683049
         }
@@ -62,9 +66,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485155,
+    "wof:lastmodified":1596661736,
     "wof:name":"Soomukse",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713314513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

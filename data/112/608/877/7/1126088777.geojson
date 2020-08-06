@@ -90,10 +90,13 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85683055,
         102191581,
-        101748153,
+        1713305847,
         85633135,
-        85683055
+        101748153,
+        1713348885,
+        1713305645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,17 +110,20 @@
     "wof:geomhash":"b618e5b355c5f78bf3c30c4f3dc75f93",
     "wof:hierarchy":[
         {
+            "borough_id":1713348885,
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305645,
+            "localadmin_id":1713305847,
             "locality_id":101748153,
             "neighbourhood_id":1126088777,
             "region_id":85683055
         }
     ],
     "wof:id":1126088777,
-    "wof:lastmodified":1566585359,
+    "wof:lastmodified":1596663550,
     "wof:name":"Vanalinn",
-    "wof:parent_id":101748153,
+    "wof:parent_id":1713348885,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

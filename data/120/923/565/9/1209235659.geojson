@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683001,
+        102191581,
+        1713308735,
+        85633135,
+        1713305701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,12 @@
     "wof:geomhash":"eb21f11d5c03e1402daa55bd5741eb16",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209235659
+            "county_id":1713305701,
+            "localadmin_id":1713308735,
+            "locality_id":1209235659,
+            "region_id":85683001
         }
     ],
     "wof:id":1209235659,
@@ -57,9 +65,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485101,
+    "wof:lastmodified":1596677424,
     "wof:name":"Luksi",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713308735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

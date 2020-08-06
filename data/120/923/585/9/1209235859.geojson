@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683001,
+        102191581,
+        1713308899,
+        85633135,
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +52,12 @@
     "wof:geomhash":"67e09e560c83af36809f52d81407c01c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209235859
+            "county_id":1713305721,
+            "localadmin_id":1713308899,
+            "locality_id":1209235859,
+            "region_id":85683001
         }
     ],
     "wof:id":1209235859,
@@ -59,9 +67,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485101,
+    "wof:lastmodified":1596661681,
     "wof:name":"Erenurt",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713308899,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

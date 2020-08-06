@@ -48,9 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713309477,
         85633135,
-        85682981
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +64,10 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713309477,
             "locality_id":1293082125,
-            "region_id":85682981
+            "region_id":85683001
         }
     ],
     "wof:id":1293082125,
@@ -73,9 +77,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485075,
+    "wof:lastmodified":1596661685,
     "wof:name":"Viira",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309477,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

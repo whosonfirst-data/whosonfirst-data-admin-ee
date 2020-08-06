@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937,
+        1713305787
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":7305
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595461093,
     "wof:geomhash":"08848d4efd8bfcd77319165e5742f8ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305787,
+            "localadmin_id":1713314913,
+            "region_id":85682937
+        }
+    ],
     "wof:id":1713314913,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130450,
+    "wof:lastmodified":1596676813,
     "wof:name":"Saarlas\u0151",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

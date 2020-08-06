@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683049,
+        102191581,
+        1713312521,
+        85633135,
+        1713305723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"3cb8fb40b4401a0c910ee10f76c6e5f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209400313
+            "county_id":1713305723,
+            "localadmin_id":1713312521,
+            "locality_id":1209400313,
+            "region_id":85683049
         }
     ],
     "wof:id":1209400313,
@@ -54,9 +62,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485101,
+    "wof:lastmodified":1596661732,
     "wof:name":"Angapere",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713312521,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

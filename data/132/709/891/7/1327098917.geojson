@@ -33,9 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713315833,
         85633135,
-        85682937
+        1713305631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +52,10 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305631,
+            "localadmin_id":1713315833,
             "locality_id":1327098917,
-            "region_id":85682937
+            "region_id":85682955
         }
     ],
     "wof:id":1327098917,
@@ -61,9 +65,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485048,
+    "wof:lastmodified":1596663703,
     "wof:name":"Kiiova",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713315833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

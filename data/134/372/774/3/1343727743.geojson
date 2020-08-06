@@ -48,9 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713313535,
         85633135,
-        85682941
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,8 +68,10 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713313535,
             "locality_id":1343727743,
-            "region_id":85682941
+            "region_id":85682995
         }
     ],
     "wof:id":1343727743,
@@ -77,9 +81,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485071,
+    "wof:lastmodified":1596661915,
     "wof:name":"Astuvere",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713313535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

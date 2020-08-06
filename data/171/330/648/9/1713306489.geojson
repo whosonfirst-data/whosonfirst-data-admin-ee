@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031,
+        1713305773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":2445
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595459169,
     "wof:geomhash":"d9a7834aa032b0ba463cb10df31657e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305773,
+            "localadmin_id":1713306489,
+            "region_id":85683031
+        }
+    ],
     "wof:id":1713306489,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130282,
+    "wof:lastmodified":1596677982,
     "wof:name":"Kabala",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

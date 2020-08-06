@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055,
+        1713305665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":9417
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595459154,
     "wof:geomhash":"2bf57d7eba279fd6f184aadcddbd8abf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305665,
+            "localadmin_id":1713306425,
+            "region_id":85683055
+        }
+    ],
     "wof:id":1713306425,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130281,
+    "wof:lastmodified":1596661337,
     "wof:name":"Viskla",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

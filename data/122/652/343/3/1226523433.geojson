@@ -55,9 +55,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713310597,
         85633135,
-        85682981
+        1713305703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,6 +75,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305703,
+            "localadmin_id":1713310597,
             "locality_id":1226523433,
             "region_id":85682981
         }
@@ -84,9 +88,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485172,
+    "wof:lastmodified":1596677703,
     "wof:name":"Alu",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713310597,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

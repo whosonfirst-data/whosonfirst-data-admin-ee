@@ -39,9 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713311761,
         85633135,
-        85683059
+        1713305695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,6 +55,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305695,
+            "localadmin_id":1713311761,
             "locality_id":1193277497,
             "region_id":85683059
         }
@@ -64,9 +68,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485111,
+    "wof:lastmodified":1596660799,
     "wof:name":"Kuettejou",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713311761,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

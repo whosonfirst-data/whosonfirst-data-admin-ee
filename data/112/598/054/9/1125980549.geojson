@@ -72,9 +72,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713312607,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713312607,
             "locality_id":1125980549,
             "region_id":85682955
         }
@@ -104,9 +108,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130415,
+    "wof:lastmodified":1596676967,
     "wof:name":"Leevij\u00f5e",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713312607,
     "wof:placetype":"locality",
     "wof:population":98,
     "wof:population_rank":1,

@@ -114,9 +114,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713314405,
         85633135,
-        85683013
+        1713305707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,6 +130,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305707,
+            "localadmin_id":1713314405,
             "locality_id":1310478141,
             "region_id":85683013
         }
@@ -139,9 +143,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485119,
+    "wof:lastmodified":1596677035,
     "wof:name":"Tamsalu",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713314405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

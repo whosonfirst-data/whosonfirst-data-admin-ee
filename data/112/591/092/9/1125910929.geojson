@@ -103,8 +103,7 @@
     "woe:name_adm1":"Saaremaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        85633135
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +124,7 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633135,
+            "country_id":-1,
             "locality_id":1125910929,
             "region_id":-1
         }
@@ -137,7 +136,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596127010,
+    "wof:lastmodified":1596674928,
     "wof:name":"Salme",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

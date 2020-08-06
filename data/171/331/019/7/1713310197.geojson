@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995,
+        1713305757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":3639
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460069,
     "wof:geomhash":"84893d38e6e0e2f9c904fb57164edf73",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713310197,
+            "region_id":85682995
+        }
+    ],
     "wof:id":1713310197,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130358,
+    "wof:lastmodified":1596661886,
     "wof:name":"Kurelaane",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

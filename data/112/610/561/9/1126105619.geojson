@@ -58,7 +58,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1713315221,
         85633135,
+        1713305767,
         85683009
     ],
     "wof:breaches":[],
@@ -73,13 +75,15 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713315221,
             "locality_id":-1,
             "neighbourhood_id":1126105619,
             "region_id":85683009
         }
     ],
     "wof:id":1126105619,
-    "wof:lastmodified":1596485136,
+    "wof:lastmodified":1596676585,
     "wof:name":"Metsak\u00fcla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -84,8 +84,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
-        85633135
+        1713306135,
+        85633135,
+        1713305635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,8 +107,10 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305635,
+            "localadmin_id":1713306135,
             "locality_id":1125802733,
-            "region_id":-1
+            "region_id":85682981
         }
     ],
     "wof:id":1125802733,
@@ -115,9 +120,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130276,
+    "wof:lastmodified":1596663957,
     "wof:name":"Lemsi",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713306135,
     "wof:placetype":"locality",
     "wof:population":142,
     "wof:population_rank":1,

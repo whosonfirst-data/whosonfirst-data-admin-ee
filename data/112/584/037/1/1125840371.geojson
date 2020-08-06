@@ -77,9 +77,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713312587,
         85633135,
-        85683059
+        1713305779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,6 +102,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305779,
+            "localadmin_id":1713312587,
             "locality_id":1125840371,
             "region_id":85683059
         }
@@ -111,9 +115,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596127014,
+    "wof:lastmodified":1596677908,
     "wof:name":"Olgina",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713312587,
     "wof:placetype":"locality",
     "wof:population":504,
     "wof:population_rank":2,

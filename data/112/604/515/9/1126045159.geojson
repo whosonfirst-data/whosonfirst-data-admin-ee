@@ -70,9 +70,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309649,
         85633135,
-        85682981
+        1713305733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713309649,
             "locality_id":1126045159,
             "region_id":85682981
         }
@@ -101,9 +105,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130405,
+    "wof:lastmodified":1596663431,
     "wof:name":"Kaisma",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309649,
     "wof:placetype":"locality",
     "wof:population":155,
     "wof:population_rank":1,

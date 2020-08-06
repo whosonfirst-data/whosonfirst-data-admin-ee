@@ -78,9 +78,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309247,
         85633135,
-        85682981
+        1713305741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305741,
+            "localadmin_id":1713309247,
             "locality_id":1343342697,
             "region_id":85682981
         }
@@ -103,9 +107,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485068,
+    "wof:lastmodified":1596663206,
     "wof:name":"Kura",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309247,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

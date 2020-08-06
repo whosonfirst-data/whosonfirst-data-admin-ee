@@ -33,9 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713314281,
         85633135,
-        85682981
+        1713305733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +53,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713314281,
             "locality_id":1343839179,
             "region_id":85682981
         }
@@ -62,9 +66,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485064,
+    "wof:lastmodified":1596663428,
     "wof:name":"Aasa",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713314281,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

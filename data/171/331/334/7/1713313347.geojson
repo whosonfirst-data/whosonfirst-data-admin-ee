@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049,
+        1713305719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":8822
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460743,
     "wof:geomhash":"37e949f63e4df67fc75a0cbd6a8c2944",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305719,
+            "localadmin_id":1713313347,
+            "region_id":85683049
+        }
+    ],
     "wof:id":1713313347,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130419,
+    "wof:lastmodified":1596676656,
     "wof:name":"Vaek\u00fcla",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

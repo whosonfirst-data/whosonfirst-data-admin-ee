@@ -133,9 +133,11 @@
     "wd:population":1062,
     "wd:wordcount":1057,
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713312011,
         85633135,
-        85682985
+        1713305735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -159,6 +161,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305735,
+            "localadmin_id":1713312011,
             "locality_id":101815085,
             "region_id":85682985
         }
@@ -170,9 +174,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596126990,
+    "wof:lastmodified":1596663454,
     "wof:name":"Suure-Jaani",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713312011,
     "wof:placetype":"locality",
     "wof:population":1062,
     "wof:population_rank":3,

@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683001,
+        102191581,
+        1713309061,
+        85633135,
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +66,12 @@
     "wof:geomhash":"83403ee3fd01bb47c6923dd38e7ef820",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209393155
+            "county_id":1713305721,
+            "localadmin_id":1713309061,
+            "locality_id":1209393155,
+            "region_id":85683001
         }
     ],
     "wof:id":1209393155,
@@ -73,9 +81,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485098,
+    "wof:lastmodified":1596661687,
     "wof:name":"Pikavere",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713309061,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

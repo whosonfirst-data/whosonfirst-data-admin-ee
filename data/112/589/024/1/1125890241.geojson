@@ -90,9 +90,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713309787,
         85633135,
-        85682955
+        1713305789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,6 +113,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305789,
+            "localadmin_id":1713309787,
             "locality_id":1125890241,
             "region_id":85682955
         }
@@ -122,9 +126,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130350,
+    "wof:lastmodified":1596676787,
     "wof:name":"Erastvere",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713309787,
     "wof:placetype":"locality",
     "wof:population":311,
     "wof:population_rank":2,

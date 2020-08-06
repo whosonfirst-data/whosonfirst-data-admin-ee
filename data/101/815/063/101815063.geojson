@@ -182,9 +182,11 @@
     "wd:population":1901,
     "wd:wordcount":197,
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713314319,
         85633135,
-        85682941
+        1713305759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -208,6 +210,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305759,
+            "localadmin_id":1713314319,
             "locality_id":101815063,
             "region_id":85682941
         }
@@ -219,9 +223,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596126990,
+    "wof:lastmodified":1596661871,
     "wof:name":"Otep\u00e4\u00e4",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713314319,
     "wof:placetype":"locality",
     "wof:population":1901,
     "wof:population_rank":3,

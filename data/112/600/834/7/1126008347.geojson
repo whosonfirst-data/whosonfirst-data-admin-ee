@@ -88,9 +88,11 @@
     "woe:name_adm1":"Raplamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713315661,
         85633135,
-        85683013
+        1713305773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,8 +113,10 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305773,
+            "localadmin_id":1713315661,
             "locality_id":1126008347,
-            "region_id":85683013
+            "region_id":85683031
         }
     ],
     "wof:id":1126008347,
@@ -122,9 +126,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596127011,
+    "wof:lastmodified":1596677997,
     "wof:name":"K\u00e4ru",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713315661,
     "wof:placetype":"locality",
     "wof:population":460,
     "wof:population_rank":2,

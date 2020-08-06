@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055,
+        1713305683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":7868
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460739,
     "wof:geomhash":"8272b3d81800df9ec4b574b1eaa1103a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305683,
+            "localadmin_id":1713313327,
+            "region_id":85683055
+        }
+    ],
     "wof:id":1713313327,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130419,
+    "wof:lastmodified":1596661469,
     "wof:name":"Suursoo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305683,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

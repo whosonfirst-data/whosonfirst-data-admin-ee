@@ -48,9 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713315751,
         85633135,
-        85682955
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,8 +68,10 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713315751,
             "locality_id":1343739409,
-            "region_id":85682955
+            "region_id":85682937
         }
     ],
     "wof:id":1343739409,
@@ -77,9 +81,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485070,
+    "wof:lastmodified":1596660411,
     "wof:name":"Oro",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713315751,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

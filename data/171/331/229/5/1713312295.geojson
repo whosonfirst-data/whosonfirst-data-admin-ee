@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009,
+        1713305767
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":7719
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460516,
     "wof:geomhash":"c5a8f0cf61640bfe5f5e32f1b7137309",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312295,
+            "region_id":85683009
+        }
+    ],
     "wof:id":1713312295,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130397,
+    "wof:lastmodified":1596676555,
     "wof:name":"Soomevere",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683055,
+        102191581,
+        1713306071,
+        85633135,
+        1713305625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,12 @@
     "wof:geomhash":"5558568ba1058cc812cff3a0e044ab7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209629049
+            "county_id":1713305625,
+            "localadmin_id":1713306071,
+            "locality_id":1209629049,
+            "region_id":85683055
         }
     ],
     "wof:id":1209629049,
@@ -58,9 +66,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485098,
+    "wof:lastmodified":1596676118,
     "wof:name":"Aiaotsa",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713306071,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -82,9 +82,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713313891,
         85633135,
-        85682995
+        1713305717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,6 +105,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305717,
+            "localadmin_id":1713313891,
             "locality_id":1125858383,
             "region_id":85682995
         }
@@ -114,9 +118,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130429,
+    "wof:lastmodified":1596676688,
     "wof:name":"Soinaste",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713313891,
     "wof:placetype":"locality",
     "wof:population":336,
     "wof:population_rank":2,

@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001,
+        1713305721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":6707
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595459850,
     "wof:geomhash":"a814b91a1e5ef750ede5fd02a9b815ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713309281,
+            "region_id":85683001
+        }
+    ],
     "wof:id":1713309281,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130338,
+    "wof:lastmodified":1596661632,
     "wof:name":"Rabavere",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

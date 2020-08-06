@@ -157,9 +157,11 @@
     "wd:population":1320,
     "wd:wordcount":137,
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713314315,
         85633135,
-        85683009
+        1713305677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -182,8 +184,10 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305677,
+            "localadmin_id":1713314315,
             "locality_id":101815111,
-            "region_id":85683009
+            "region_id":85683059
         }
     ],
     "wof:id":101815111,
@@ -193,9 +197,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596126991,
+    "wof:lastmodified":1596661020,
     "wof:name":"Mustvee",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713314315,
     "wof:placetype":"locality",
     "wof:population":1320,
     "wof:population_rank":3,

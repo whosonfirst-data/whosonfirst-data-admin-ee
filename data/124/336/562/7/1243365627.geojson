@@ -34,9 +34,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713313601,
         85633135,
-        85683059
+        1713305779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,6 +50,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305779,
+            "localadmin_id":1713313601,
             "locality_id":1243365627,
             "region_id":85683059
         }
@@ -59,9 +63,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485141,
+    "wof:lastmodified":1596677907,
     "wof:name":"Metski",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713313601,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

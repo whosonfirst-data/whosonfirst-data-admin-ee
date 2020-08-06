@@ -72,7 +72,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682985,
+        102191581,
+        1713309865,
+        85633135,
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,8 +86,12 @@
     "wof:geomhash":"b429491a12391df964d961812f4ab60c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209580471
+            "county_id":1713305669,
+            "localadmin_id":1713309865,
+            "locality_id":1209580471,
+            "region_id":85682985
         }
     ],
     "wof:id":1209580471,
@@ -93,9 +101,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485104,
+    "wof:lastmodified":1596661259,
     "wof:name":"Kolga",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713309865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

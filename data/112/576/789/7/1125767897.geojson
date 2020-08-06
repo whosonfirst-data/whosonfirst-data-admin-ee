@@ -84,9 +84,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713312565,
         85633135,
-        85682995
+        1713305715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,6 +107,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305715,
+            "localadmin_id":1713312565,
             "locality_id":1125767897,
             "region_id":85682995
         }
@@ -116,9 +120,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130404,
+    "wof:lastmodified":1596676767,
     "wof:name":"Meeri",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713312565,
     "wof:placetype":"locality",
     "wof:population":249,
     "wof:population_rank":2,

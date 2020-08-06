@@ -66,9 +66,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713306691,
         85633135,
-        85683031
+        1713305773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,6 +82,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305773,
+            "localadmin_id":1713306691,
             "locality_id":1226747901,
             "region_id":85683031
         }
@@ -91,9 +95,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485165,
+    "wof:lastmodified":1596677992,
     "wof:name":"Palivere",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713306691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

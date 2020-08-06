@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989,
+        1713305629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":3895
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460116,
     "wof:geomhash":"239c2b1d3139f11474402e06fa860ed1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310417,
+            "region_id":85682989
+        }
+    ],
     "wof:id":1713310417,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1595977963,
+    "wof:lastmodified":1596666366,
     "wof:name":"K\u00e4rdla",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

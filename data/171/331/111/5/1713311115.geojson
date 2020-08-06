@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995,
+        1713305699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":8211
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460268,
     "wof:geomhash":"f882794939b3937e77c5d42746ea07e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305699,
+            "localadmin_id":1713311115,
+            "region_id":85682995
+        }
+    ],
     "wof:id":1713311115,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130378,
+    "wof:lastmodified":1596660644,
     "wof:name":"Tigase",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

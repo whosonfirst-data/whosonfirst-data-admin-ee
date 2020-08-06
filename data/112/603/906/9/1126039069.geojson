@@ -78,9 +78,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713312871,
         85633135,
-        85683055
+        1713305643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +100,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305643,
+            "localadmin_id":1713312871,
             "locality_id":1126039069,
             "region_id":85683055
         }
@@ -109,9 +113,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485137,
+    "wof:lastmodified":1596663502,
     "wof:name":"Patika",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713312871,
     "wof:placetype":"locality",
     "wof:population":172,
     "wof:population_rank":1,

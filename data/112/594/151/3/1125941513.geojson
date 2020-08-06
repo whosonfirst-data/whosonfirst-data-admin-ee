@@ -90,9 +90,11 @@
     "woe:name_adm1":"Raplamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713315437,
         85633135,
-        85683013
+        1713305707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,6 +113,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305707,
+            "localadmin_id":1713315437,
             "locality_id":1125941513,
             "region_id":85683013
         }
@@ -122,9 +126,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130459,
+    "wof:lastmodified":1596677035,
     "wof:name":"Rabivere",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713315437,
     "wof:placetype":"locality",
     "wof:population":133,
     "wof:population_rank":1,

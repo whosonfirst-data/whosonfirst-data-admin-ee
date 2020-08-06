@@ -57,7 +57,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683031,
+        102191581,
+        1713315183,
+        85633135,
+        1713305765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +75,12 @@
     "wof:geomhash":"2b113be19ad831ec9cc79fa1a21df239",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209010355
+            "county_id":1713305765,
+            "localadmin_id":1713315183,
+            "locality_id":1209010355,
+            "region_id":85683031
         }
     ],
     "wof:id":1209010355,
@@ -82,9 +90,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485098,
+    "wof:lastmodified":1596676639,
     "wof:name":"Raka",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713315183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

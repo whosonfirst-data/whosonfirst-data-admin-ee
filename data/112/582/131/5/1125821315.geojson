@@ -108,9 +108,11 @@
     "woe:name_adm1":"Ida-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713315257,
         85633135,
-        85683059
+        1713305779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,6 +130,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305779,
+            "localadmin_id":1713315257,
             "locality_id":1125821315,
             "region_id":85683059
         }
@@ -139,9 +143,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485140,
+    "wof:lastmodified":1596677903,
     "wof:name":"Vaivara",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713315257,
     "wof:placetype":"locality",
     "wof:population":126,
     "wof:population_rank":1,

@@ -82,9 +82,11 @@
     "woe:name_adm1":"J\u00e4rvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713307145,
         85633135,
-        85683031
+        1713305765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,6 +105,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305765,
+            "localadmin_id":1713307145,
             "locality_id":1125971135,
             "region_id":85683031
         }
@@ -114,9 +118,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130296,
+    "wof:lastmodified":1596676651,
     "wof:name":"K\u00e4sukonna",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713307145,
     "wof:placetype":"locality",
     "wof:population":142,
     "wof:population_rank":1,

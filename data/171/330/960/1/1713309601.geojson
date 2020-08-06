@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995,
+        1713305679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":7484
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595459928,
     "wof:geomhash":"37918be8f48335c7584b3503cebc3e96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305679,
+            "localadmin_id":1713309601,
+            "region_id":85682995
+        }
+    ],
     "wof:id":1713309601,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130346,
+    "wof:lastmodified":1596660867,
     "wof:name":"Savastvere",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

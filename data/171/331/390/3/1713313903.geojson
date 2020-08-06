@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059,
+        1713305677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":1746
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460861,
     "wof:geomhash":"2475dfa8bcbff2c57201c7f334c750cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305677,
+            "localadmin_id":1713313903,
+            "region_id":85683059
+        }
+    ],
     "wof:id":1713313903,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130430,
+    "wof:lastmodified":1596661004,
     "wof:name":"Halliku",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

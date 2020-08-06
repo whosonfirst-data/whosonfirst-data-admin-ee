@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683009,
+        102191581,
+        1713312547,
+        85633135,
+        1713305657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,12 @@
     "wof:geomhash":"082b4c24d9f531c9891f561adc4f4a36",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209414097
+            "county_id":1713305657,
+            "localadmin_id":1713312547,
+            "locality_id":1209414097,
+            "region_id":85683009
         }
     ],
     "wof:id":1209414097,
@@ -58,9 +66,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485101,
+    "wof:lastmodified":1596676503,
     "wof:name":"Raasna",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713312547,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

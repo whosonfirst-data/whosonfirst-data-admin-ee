@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049,
+        1713305771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":5105
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595459543,
     "wof:geomhash":"f459171d2da5d5b4e27bd3e4aa0d461e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305771,
+            "localadmin_id":1713308035,
+            "region_id":85683049
+        }
+    ],
     "wof:id":1713308035,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130313,
+    "wof:lastmodified":1596677951,
     "wof:name":"Muuga",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

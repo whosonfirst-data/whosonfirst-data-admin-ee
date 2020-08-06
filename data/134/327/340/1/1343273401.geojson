@@ -66,9 +66,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713311887,
         85633135,
-        85683059
+        1713305693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,6 +82,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305693,
+            "localadmin_id":1713311887,
             "locality_id":1343273401,
             "region_id":85683059
         }
@@ -91,9 +95,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485070,
+    "wof:lastmodified":1596660743,
     "wof:name":"Kopli",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713311887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

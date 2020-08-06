@@ -82,9 +82,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713315947,
         85633135,
-        85682955
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,6 +105,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305793,
+            "localadmin_id":1713315947,
             "locality_id":1125875477,
             "region_id":85682955
         }
@@ -114,9 +118,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130377,
+    "wof:lastmodified":1596677001,
     "wof:name":"Ristipalo",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713315947,
     "wof:placetype":"locality",
     "wof:population":269,
     "wof:population_rank":2,

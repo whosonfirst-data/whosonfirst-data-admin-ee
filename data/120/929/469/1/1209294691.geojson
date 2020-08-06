@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682955,
+        102191581,
+        1713313745,
+        85633135,
+        1713305789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"a7b24e36d6ca821771aeddba4153fc91",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209294691
+            "county_id":1713305789,
+            "localadmin_id":1713313745,
+            "locality_id":1209294691,
+            "region_id":85682955
         }
     ],
     "wof:id":1209294691,
@@ -54,9 +62,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485106,
+    "wof:lastmodified":1596676790,
     "wof:name":"Tarikatsi",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713313745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

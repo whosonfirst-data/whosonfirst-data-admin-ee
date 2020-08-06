@@ -78,9 +78,11 @@
     "woe:name_adm1":"Raplamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713315065,
         85633135,
-        85683013
+        1713305711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +101,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305711,
+            "localadmin_id":1713315065,
             "locality_id":1126037599,
             "region_id":85683013
         }
@@ -110,9 +114,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130452,
+    "wof:lastmodified":1596676731,
     "wof:name":"Kodila",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713315065,
     "wof:placetype":"locality",
     "wof:population":336,
     "wof:population_rank":2,

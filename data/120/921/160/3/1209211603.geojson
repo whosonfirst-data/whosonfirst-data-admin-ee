@@ -55,7 +55,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683001,
+        102191581,
+        1713308585,
+        85633135,
+        1713305755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,8 +73,12 @@
     "wof:geomhash":"c6d28e099d6348c87bd26aab822b1f8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209211603
+            "county_id":1713305755,
+            "localadmin_id":1713308585,
+            "locality_id":1209211603,
+            "region_id":85683001
         }
     ],
     "wof:id":1209211603,
@@ -80,9 +88,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485107,
+    "wof:lastmodified":1596662771,
     "wof:name":"Maegari",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713308585,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -88,9 +88,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310845,
         85633135,
-        85682995
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,8 +114,10 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305793,
+            "localadmin_id":1713310845,
             "locality_id":1126008487,
-            "region_id":85682995
+            "region_id":85682955
         }
     ],
     "wof:id":1126008487,
@@ -123,9 +127,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596127012,
+    "wof:lastmodified":1596677005,
     "wof:name":"Mehikoorma",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713310845,
     "wof:placetype":"locality",
     "wof:population":255,
     "wof:population_rank":2,

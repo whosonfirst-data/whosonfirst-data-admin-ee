@@ -64,7 +64,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682955,
+        102191581,
+        1713313513,
+        85633135,
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,8 +82,12 @@
     "wof:geomhash":"d1f446d7acfe1ee7b3decd70c546487f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209602309
+            "county_id":1713305791,
+            "localadmin_id":1713313513,
+            "locality_id":1209602309,
+            "region_id":85682955
         }
     ],
     "wof:id":1209602309,
@@ -89,9 +97,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485105,
+    "wof:lastmodified":1596676961,
     "wof:name":"Kosova",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713313513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

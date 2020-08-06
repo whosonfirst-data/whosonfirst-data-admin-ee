@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682995,
+        102191581,
+        1713313397,
+        85633135,
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +53,12 @@
     "wof:geomhash":"23f6469dc2ae5ac92af41d2e8750649f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209691199
+            "county_id":1713305757,
+            "localadmin_id":1713313397,
+            "locality_id":1209691199,
+            "region_id":85682995
         }
     ],
     "wof:id":1209691199,
@@ -60,9 +68,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485105,
+    "wof:lastmodified":1596661914,
     "wof:name":"Helmi",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713313397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

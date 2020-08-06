@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937,
+        1713305633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":1172
@@ -47,7 +52,15 @@
     "wof:country":"EE",
     "wof:created":1595461415,
     "wof:geomhash":"cf2374dda193761572c65ab5cc859796",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713316381,
+            "region_id":85682937
+        }
+    ],
     "wof:id":1713316381,
     "wof:lang_x_official":[
         "est"
@@ -55,9 +68,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1595461415,
+    "wof:lastmodified":1596660257,
     "wof:name":"Alap\u0151dra",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

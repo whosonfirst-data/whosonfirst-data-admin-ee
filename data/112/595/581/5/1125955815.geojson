@@ -73,9 +73,11 @@
     "woe:name_adm1":"J\u00e4rvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713315927,
         85633135,
-        85683031
+        1713305773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305773,
+            "localadmin_id":1713315927,
             "locality_id":1125955815,
             "region_id":85683031
         }
@@ -104,9 +108,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485135,
+    "wof:lastmodified":1596677991,
     "wof:name":"Lokuta",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713315927,
     "wof:placetype":"locality",
     "wof:population":185,
     "wof:population_rank":1,

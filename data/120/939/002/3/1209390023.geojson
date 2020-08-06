@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682995,
+        102191581,
+        1713310589,
+        85633135,
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,12 @@
     "wof:geomhash":"31a41d5aa7ad9d702e7180476bfefe43",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209390023
+            "county_id":1713305757,
+            "localadmin_id":1713310589,
+            "locality_id":1209390023,
+            "region_id":85682995
         }
     ],
     "wof:id":1209390023,
@@ -57,9 +65,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485098,
+    "wof:lastmodified":1596661910,
     "wof:name":"Matu",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713310589,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

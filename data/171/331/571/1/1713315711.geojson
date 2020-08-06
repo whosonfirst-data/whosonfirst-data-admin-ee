@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955,
+        1713305631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":5938
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595461278,
     "wof:geomhash":"52177b6f8abba9835af6ca12406631e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305631,
+            "localadmin_id":1713315711,
+            "region_id":85682955
+        }
+    ],
     "wof:id":1713315711,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130464,
+    "wof:lastmodified":1596663641,
     "wof:name":"Palo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

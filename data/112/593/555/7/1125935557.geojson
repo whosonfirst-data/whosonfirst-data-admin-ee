@@ -83,9 +83,11 @@
     "woe:name_adm1":"Raplamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713313249,
         85633135,
-        85683013
+        1713305707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,6 +109,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305707,
+            "localadmin_id":1713313249,
             "locality_id":1125935557,
             "region_id":85683013
         }
@@ -118,9 +122,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596126998,
+    "wof:lastmodified":1596677037,
     "wof:name":"Prillim\u00e4e",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713313249,
     "wof:placetype":"locality",
     "wof:population":406,
     "wof:population_rank":2,

@@ -49,9 +49,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713310113,
         85633135,
-        85682981
+        1713305703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,6 +69,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305703,
+            "localadmin_id":1713310113,
             "locality_id":1260061187,
             "region_id":85682981
         }
@@ -78,9 +82,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485115,
+    "wof:lastmodified":1596677703,
     "wof:name":"Valgeranna",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713310113,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

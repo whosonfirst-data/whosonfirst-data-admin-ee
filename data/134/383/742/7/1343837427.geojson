@@ -37,9 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713311081,
         85633135,
-        85683013
+        1713305711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +53,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305711,
+            "localadmin_id":1713311081,
             "locality_id":1343837427,
             "region_id":85683013
         }
@@ -62,9 +66,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485064,
+    "wof:lastmodified":1596676726,
     "wof:name":"Kaomaee",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713311081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

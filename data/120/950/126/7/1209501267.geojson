@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683013,
+        102191581,
+        1713311465,
+        85633135,
+        1713305747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,12 @@
     "wof:geomhash":"c2070d7359e36258c3d12b036d9b8a21",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209501267
+            "county_id":1713305747,
+            "localadmin_id":1713311465,
+            "locality_id":1209501267,
+            "region_id":85683013
         }
     ],
     "wof:id":1209501267,
@@ -57,9 +65,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485103,
+    "wof:lastmodified":1596662843,
     "wof:name":"Kuuda",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713311465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

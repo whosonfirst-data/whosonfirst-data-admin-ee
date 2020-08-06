@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682941,
+        102191581,
+        1713310723,
+        85633135,
+        1713305753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,12 @@
     "wof:geomhash":"f60728fcf1c3cad8a23053a39f77223d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209390089
+            "county_id":1713305753,
+            "localadmin_id":1713310723,
+            "locality_id":1209390089,
+            "region_id":85682941
         }
     ],
     "wof:id":1209390089,
@@ -57,9 +65,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485098,
+    "wof:lastmodified":1596661950,
     "wof:name":"Parandu",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713310723,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -48,9 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713315623,
         85633135,
-        85682937
+        1713305631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,8 +65,10 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305631,
+            "localadmin_id":1713315623,
             "locality_id":1326594215,
-            "region_id":85682937
+            "region_id":85682955
         }
     ],
     "wof:id":1326594215,
@@ -74,9 +78,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485050,
+    "wof:lastmodified":1596663698,
     "wof:name":"Luhamaa",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713315623,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

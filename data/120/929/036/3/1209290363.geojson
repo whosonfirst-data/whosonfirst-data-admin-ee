@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682995,
+        102191581,
+        1713310781,
+        85633135,
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,8 +72,12 @@
     "wof:geomhash":"051b5e372105025b3a2045c35de2fa3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209290363
+            "county_id":1713305757,
+            "localadmin_id":1713310781,
+            "locality_id":1209290363,
+            "region_id":85682995
         }
     ],
     "wof:id":1209290363,
@@ -79,9 +87,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485106,
+    "wof:lastmodified":1596661914,
     "wof:name":"Haerjanurme",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713310781,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

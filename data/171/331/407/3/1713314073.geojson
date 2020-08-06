@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009,
+        1713305657
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":9437
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460898,
     "wof:geomhash":"2f660a4f584ba1df8bf4f4c247bf6bfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305657,
+            "localadmin_id":1713314073,
+            "region_id":85683009
+        }
+    ],
     "wof:id":1713314073,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130433,
+    "wof:lastmodified":1596676495,
     "wof:name":"Vitsj\u00e4rve",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

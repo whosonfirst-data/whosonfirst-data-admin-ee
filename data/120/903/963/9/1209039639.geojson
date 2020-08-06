@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683031,
+        102191581,
+        1713312653,
+        85633135,
+        1713305765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,8 +72,12 @@
     "wof:geomhash":"f0aa8e7334815bfee4f45d299d4d2c41",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209039639
+            "county_id":1713305765,
+            "localadmin_id":1713312653,
+            "locality_id":1209039639,
+            "region_id":85683031
         }
     ],
     "wof:id":1209039639,
@@ -79,9 +87,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485104,
+    "wof:lastmodified":1596676638,
     "wof:name":"Kagavere",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713312653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

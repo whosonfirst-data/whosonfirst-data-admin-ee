@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059,
+        1713305677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":6174
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460488,
     "wof:geomhash":"23be9d2eab24510152578057b0cf33cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305677,
+            "localadmin_id":1713312141,
+            "region_id":85683059
+        }
+    ],
     "wof:id":1713312141,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130395,
+    "wof:lastmodified":1596660950,
     "wof:name":"Piilsi",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

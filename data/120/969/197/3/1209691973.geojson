@@ -56,7 +56,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682995,
+        102191581,
+        1713313883,
+        85633135,
+        1713305699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,8 +74,12 @@
     "wof:geomhash":"3d0d37a739405cfd6ee93a8d1305235a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209691973
+            "county_id":1713305699,
+            "localadmin_id":1713313883,
+            "locality_id":1209691973,
+            "region_id":85682995
         }
     ],
     "wof:id":1209691973,
@@ -81,9 +89,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485105,
+    "wof:lastmodified":1596660663,
     "wof:name":"Sarakuste",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713313883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

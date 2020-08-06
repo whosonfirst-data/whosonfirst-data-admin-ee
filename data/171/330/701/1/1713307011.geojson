@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683031,
+        1713305765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":7521
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595459300,
     "wof:geomhash":"90734c0e1998c8905e6f80396416d767",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305765,
+            "localadmin_id":1713307011,
+            "region_id":85683031
+        }
+    ],
     "wof:id":1713307011,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130293,
+    "wof:lastmodified":1596676628,
     "wof:name":"Selik\u00fcla",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

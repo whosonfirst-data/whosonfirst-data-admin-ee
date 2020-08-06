@@ -70,7 +70,9 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
+        1713309517,
         85633135,
+        1713305733,
         85682981
     ],
     "wof:breaches":[],
@@ -86,13 +88,15 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713309517,
             "locality_id":-1,
             "neighbourhood_id":1126074107,
             "region_id":85682981
         }
     ],
     "wof:id":1126074107,
-    "wof:lastmodified":1596485140,
+    "wof:lastmodified":1596663432,
     "wof:name":"M\u00e4ek\u00fcla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

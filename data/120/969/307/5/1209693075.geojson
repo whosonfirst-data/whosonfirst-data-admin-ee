@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682955,
+        102191581,
+        1713316065,
+        85633135,
+        1713305789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,8 +72,12 @@
     "wof:geomhash":"fb3a05316ae0b43c824aaad7e0470310",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209693075
+            "county_id":1713305789,
+            "localadmin_id":1713316065,
+            "locality_id":1209693075,
+            "region_id":85682955
         }
     ],
     "wof:id":1209693075,
@@ -79,9 +87,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485105,
+    "wof:lastmodified":1596676790,
     "wof:name":"Peetrimoisa",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713316065,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

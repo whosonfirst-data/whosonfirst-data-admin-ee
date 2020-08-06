@@ -51,9 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713313417,
         85633135,
-        85683009
+        1713305657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,6 +67,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305657,
+            "localadmin_id":1713313417,
             "locality_id":1260102911,
             "region_id":85683009
         }
@@ -76,9 +80,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485116,
+    "wof:lastmodified":1596676499,
     "wof:name":"Viruvere",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713313417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -98,9 +98,11 @@
     "woe:name_adm1":"Raplamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713311303,
         85633135,
-        85683013
+        1713305747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,6 +121,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305747,
+            "localadmin_id":1713311303,
             "locality_id":1125959145,
             "region_id":85683013
         }
@@ -130,9 +134,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130381,
+    "wof:lastmodified":1596662849,
     "wof:name":"Haimre",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713311303,
     "wof:placetype":"locality",
     "wof:population":102,
     "wof:population_rank":1,

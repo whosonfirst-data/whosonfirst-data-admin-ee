@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049,
+        1713305719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":8304
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595459506,
     "wof:geomhash":"7a2847d0bd8f35efb80760178ca04172",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305719,
+            "localadmin_id":1713307871,
+            "region_id":85683049
+        }
+    ],
     "wof:id":1713307871,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130311,
+    "wof:lastmodified":1596676664,
     "wof:name":"Toomla",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

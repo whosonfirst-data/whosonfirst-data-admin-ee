@@ -51,9 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682947,
         102191581,
+        1713306173,
         85633135,
-        85682951
+        1713305623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,8 +71,10 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305623,
+            "localadmin_id":1713306173,
             "locality_id":1260261727,
-            "region_id":85682951
+            "region_id":85682947
         }
     ],
     "wof:id":1260261727,
@@ -80,9 +84,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485116,
+    "wof:lastmodified":1596675298,
     "wof:name":"Tupenurme",
-    "wof:parent_id":85682951,
+    "wof:parent_id":1713306173,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

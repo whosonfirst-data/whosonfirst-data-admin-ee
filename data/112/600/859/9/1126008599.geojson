@@ -94,9 +94,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306307,
         85633135,
-        85683055
+        1713305665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,6 +120,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305665,
+            "localadmin_id":1713306307,
             "locality_id":1126008599,
             "region_id":85683055
         }
@@ -129,9 +133,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596127011,
+    "wof:lastmodified":1596661355,
     "wof:name":"Ravila",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306307,
     "wof:placetype":"locality",
     "wof:population":377,
     "wof:population_rank":2,

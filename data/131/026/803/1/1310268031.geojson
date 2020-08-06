@@ -55,9 +55,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713311365,
         85633135,
-        85682995
+        1713305699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,6 +75,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305699,
+            "localadmin_id":1713311365,
             "locality_id":1310268031,
             "region_id":85682995
         }
@@ -84,9 +88,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485123,
+    "wof:lastmodified":1596660663,
     "wof:name":"Tammevaldma",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713311365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

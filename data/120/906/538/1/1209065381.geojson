@@ -66,7 +66,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682937,
+        102191581,
+        1713315477,
+        85633135,
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,8 +83,12 @@
     "wof:geomhash":"1285369518a7202f641d75e8717f1e9c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209065381
+            "county_id":1713305633,
+            "localadmin_id":1713315477,
+            "locality_id":1209065381,
+            "region_id":85682937
         }
     ],
     "wof:id":1209065381,
@@ -90,9 +98,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485098,
+    "wof:lastmodified":1596660404,
     "wof:name":"Mutsu",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713315477,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

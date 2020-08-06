@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059,
+        1713305695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":7680
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460358,
     "wof:geomhash":"ef1adfe08ce71d082ff1457a1661971e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305695,
+            "localadmin_id":1713311521,
+            "region_id":85683059
+        }
+    ],
     "wof:id":1713311521,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1595977964,
+    "wof:lastmodified":1596660769,
     "wof:name":"Sonda",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

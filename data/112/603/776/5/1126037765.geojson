@@ -99,9 +99,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713311723,
         85633135,
-        85682985
+        1713305735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,6 +122,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305735,
+            "localadmin_id":1713311723,
             "locality_id":1126037765,
             "region_id":85682985
         }
@@ -131,9 +135,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130388,
+    "wof:lastmodified":1596663465,
     "wof:name":"Pilistvere",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713311723,
     "wof:placetype":"locality",
     "wof:population":123,
     "wof:population_rank":1,

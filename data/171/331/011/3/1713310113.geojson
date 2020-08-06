@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981,
+        1713305703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":8924
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460051,
     "wof:geomhash":"c765bfe5792a970ed20d454322c14ff0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305703,
+            "localadmin_id":1713310113,
+            "region_id":85682981
+        }
+    ],
     "wof:id":1713310113,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130356,
+    "wof:lastmodified":1596677670,
     "wof:name":"Valgeranna",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

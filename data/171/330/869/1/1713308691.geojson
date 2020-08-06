@@ -42,7 +42,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001,
+        1713305701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":1505
@@ -53,7 +58,15 @@
     "wof:country":"EE",
     "wof:created":1595459707,
     "wof:geomhash":"858e6a6fb50566d9f546dc3348a85fbb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305701,
+            "localadmin_id":1713308691,
+            "region_id":85683001
+        }
+    ],
     "wof:id":1713308691,
     "wof:lang_x_official":[
         "est"
@@ -61,9 +74,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130326,
+    "wof:lastmodified":1596677193,
     "wof:name":"Dirhami",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

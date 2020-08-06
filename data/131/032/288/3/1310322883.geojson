@@ -58,9 +58,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713307821,
         85633135,
-        85683055
+        1713305739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,6 +78,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305739,
+            "localadmin_id":1713307821,
             "locality_id":1310322883,
             "region_id":85683055
         }
@@ -87,9 +91,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485124,
+    "wof:lastmodified":1596663244,
     "wof:name":"UErjaste",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713307821,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

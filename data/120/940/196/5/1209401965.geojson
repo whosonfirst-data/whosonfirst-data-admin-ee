@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682955,
+        102191581,
+        1713314321,
+        85633135,
+        1713305789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +66,12 @@
     "wof:geomhash":"98665b4429b6667b9929bf4c5e0e0e97",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209401965
+            "county_id":1713305789,
+            "localadmin_id":1713314321,
+            "locality_id":1209401965,
+            "region_id":85682955
         }
     ],
     "wof:id":1209401965,
@@ -73,9 +81,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485101,
+    "wof:lastmodified":1596676789,
     "wof:name":"Pikajaerve",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713314321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

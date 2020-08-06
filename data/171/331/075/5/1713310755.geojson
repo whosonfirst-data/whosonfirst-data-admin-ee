@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989,
+        1713305629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":8095
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460193,
     "wof:geomhash":"03229391af0e61815ce8f55a1e73d2d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310755,
+            "region_id":85682989
+        }
+    ],
     "wof:id":1713310755,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130371,
+    "wof:lastmodified":1596666438,
     "wof:name":"Tammela",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

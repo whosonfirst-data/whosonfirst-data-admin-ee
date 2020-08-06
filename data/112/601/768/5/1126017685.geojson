@@ -97,9 +97,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713312283,
         85633135,
-        85682995
+        1713305697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,6 +123,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305697,
+            "localadmin_id":1713312283,
             "locality_id":1126017685,
             "region_id":85682995
         }
@@ -132,9 +136,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596127010,
+    "wof:lastmodified":1596660681,
     "wof:name":"Luunja",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713312283,
     "wof:placetype":"locality",
     "wof:population":579,
     "wof:population_rank":2,

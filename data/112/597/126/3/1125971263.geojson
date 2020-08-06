@@ -94,9 +94,11 @@
     "woe:name_adm1":"Valgamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713314525,
         85633135,
-        85682941
+        1713305687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,6 +117,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305687,
+            "localadmin_id":1713314525,
             "locality_id":1125971263,
             "region_id":85682941
         }
@@ -126,9 +130,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130442,
+    "wof:lastmodified":1596661437,
     "wof:name":"Ala",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713314525,
     "wof:placetype":"locality",
     "wof:population":276,
     "wof:population_rank":2,

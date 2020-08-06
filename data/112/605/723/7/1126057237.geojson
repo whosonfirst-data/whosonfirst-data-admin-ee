@@ -87,9 +87,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713314407,
         85633135,
-        85683055
+        1713305685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,6 +110,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305685,
+            "localadmin_id":1713314407,
             "locality_id":1126057237,
             "region_id":85683055
         }
@@ -119,9 +123,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130440,
+    "wof:lastmodified":1596661507,
     "wof:name":"Tagadi",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713314407,
     "wof:placetype":"locality",
     "wof:population":188,
     "wof:population_rank":1,

@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683049,
+        102191581,
+        1713307597,
+        85633135,
+        1713305719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +63,12 @@
     "wof:geomhash":"c9ea868ee5e9466e2ce068de96549e85",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209210725
+            "county_id":1713305719,
+            "localadmin_id":1713307597,
+            "locality_id":1209210725,
+            "region_id":85683049
         }
     ],
     "wof:id":1209210725,
@@ -70,9 +78,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485107,
+    "wof:lastmodified":1596676670,
     "wof:name":"Kaarli",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713307597,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

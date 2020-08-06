@@ -182,9 +182,11 @@
     "wd:population":4111,
     "wd:wordcount":51,
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312015,
         85633135,
-        85683009
+        1713305657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -208,6 +210,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305657,
+            "localadmin_id":1713312015,
             "locality_id":101815117,
             "region_id":85683009
         }
@@ -219,9 +223,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596126991,
+    "wof:lastmodified":1596676501,
     "wof:name":"P\u00f5ltsamaa",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312015,
     "wof:placetype":"locality",
     "wof:population":4111,
     "wof:population_rank":4,

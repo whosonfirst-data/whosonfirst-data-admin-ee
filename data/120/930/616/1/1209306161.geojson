@@ -58,7 +58,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683001,
+        102191581,
+        1713309459,
+        85633135,
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,8 +76,12 @@
     "wof:geomhash":"203d1f673a73ceefbe5a47dc5b3fb475",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209306161
+            "county_id":1713305721,
+            "localadmin_id":1713309459,
+            "locality_id":1209306161,
+            "region_id":85683001
         }
     ],
     "wof:id":1209306161,
@@ -83,9 +91,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485098,
+    "wof:lastmodified":1596661681,
     "wof:name":"Tuhu",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713309459,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

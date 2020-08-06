@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682941,
+        102191581,
+        1713310127,
+        85633135,
+        1713305759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,12 @@
     "wof:geomhash":"49aa946c32cedc0b6572c147a1c8f686",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209176697
+            "county_id":1713305759,
+            "localadmin_id":1713310127,
+            "locality_id":1209176697,
+            "region_id":85682941
         }
     ],
     "wof:id":1209176697,
@@ -57,9 +65,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485107,
+    "wof:lastmodified":1596661873,
     "wof:name":"Maeekuela",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713310127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

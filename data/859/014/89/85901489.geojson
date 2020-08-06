@@ -115,7 +115,9 @@
     "wd:wordcount":29,
     "wof:belongsto":[
         102191581,
+        1713310225,
         85633135,
+        1713305629,
         85682989
     ],
     "wof:breaches":[],
@@ -135,6 +137,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310225,
             "locality_id":-1,
             "neighbourhood_id":85901489,
             "region_id":85682989
@@ -144,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1596485072,
+    "wof:lastmodified":1596670035,
     "wof:name":"Takhkuna",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

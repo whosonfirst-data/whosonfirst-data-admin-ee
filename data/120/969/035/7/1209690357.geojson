@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682985,
+        102191581,
+        1713311663,
+        85633135,
+        1713305661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,12 @@
     "wof:geomhash":"a637b7e873bd042149528960c3d8d392",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209690357
+            "county_id":1713305661,
+            "localadmin_id":1713311663,
+            "locality_id":1209690357,
+            "region_id":85682985
         }
     ],
     "wof:id":1209690357,
@@ -58,9 +66,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485105,
+    "wof:lastmodified":1596661304,
     "wof:name":"Paessaste",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713311663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

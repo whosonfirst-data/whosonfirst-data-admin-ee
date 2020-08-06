@@ -131,9 +131,13 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":278,
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713305847,
         85633135,
-        101748153
+        101748153,
+        1713348883,
+        1713305645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -147,21 +151,23 @@
     "wof:geomhash":"2e6928ab58b9703e448e4a0af4d75f26",
     "wof:hierarchy":[
         {
+            "borough_id":1713348883,
             "continent_id":102191581,
             "country_id":85633135,
-            "county_id":-1,
+            "county_id":1713305645,
+            "localadmin_id":1713305847,
             "locality_id":101748153,
             "neighbourhood_id":85901465,
-            "region_id":-1
+            "region_id":85683055
         }
     ],
     "wof:id":85901465,
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1596485072,
+    "wof:lastmodified":1596663549,
     "wof:name":"Kopli",
-    "wof:parent_id":101748153,
+    "wof:parent_id":1713348883,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

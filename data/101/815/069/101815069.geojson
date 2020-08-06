@@ -139,9 +139,11 @@
     "wd:population":2312,
     "wd:wordcount":69,
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310869,
         85633135,
-        85682955
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -165,6 +167,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305793,
+            "localadmin_id":1713310869,
             "locality_id":101815069,
             "region_id":85682955
         }
@@ -176,9 +180,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596126992,
+    "wof:lastmodified":1596676997,
     "wof:name":"R\u00e4pina",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310869,
     "wof:placetype":"locality",
     "wof:population":2312,
     "wof:population_rank":4,

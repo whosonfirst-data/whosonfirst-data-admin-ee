@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682955,
+        102191581,
+        1713310861,
+        85633135,
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,12 @@
     "wof:geomhash":"c5bb4c1511d731a193d0a0d06be8d831",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209495281
+            "county_id":1713305791,
+            "localadmin_id":1713310861,
+            "locality_id":1209495281,
+            "region_id":85682955
         }
     ],
     "wof:id":1209495281,
@@ -58,9 +66,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485102,
+    "wof:lastmodified":1596676967,
     "wof:name":"Kitsoruusuu",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713310861,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

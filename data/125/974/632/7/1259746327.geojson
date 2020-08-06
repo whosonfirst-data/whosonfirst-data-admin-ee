@@ -54,9 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713312881,
         85633135,
-        85682995
+        1713305717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,6 +74,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305717,
+            "localadmin_id":1713312881,
             "locality_id":1259746327,
             "region_id":85682995
         }
@@ -83,9 +87,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485161,
+    "wof:lastmodified":1596676689,
     "wof:name":"Kammeri",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713312881,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

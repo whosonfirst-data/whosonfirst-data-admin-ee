@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683059,
+        102191581,
+        1713311839,
+        85633135,
+        1713305695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,8 +72,12 @@
     "wof:geomhash":"630131afe1703dd4752b86c8d4878878",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209626979
+            "county_id":1713305695,
+            "localadmin_id":1713311839,
+            "locality_id":1209626979,
+            "region_id":85683059
         }
     ],
     "wof:id":1209626979,
@@ -79,9 +87,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485098,
+    "wof:lastmodified":1596660804,
     "wof:name":"Arupaeaelse",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713311839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989,
+        1713305629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":8949
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460063,
     "wof:geomhash":"f22dad32c61d7b5652734f5dd9c1269c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310167,
+            "region_id":85682989
+        }
+    ],
     "wof:id":1713310167,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130357,
+    "wof:lastmodified":1596666304,
     "wof:name":"Valipe",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

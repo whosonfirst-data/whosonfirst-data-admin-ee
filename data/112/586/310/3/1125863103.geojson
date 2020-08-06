@@ -87,9 +87,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713305875,
         85633135,
-        85683055
+        1713305681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,6 +110,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305681,
+            "localadmin_id":1713305875,
             "locality_id":1125863103,
             "region_id":85683055
         }
@@ -119,9 +123,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130270,
+    "wof:lastmodified":1596661455,
     "wof:name":"Tiskre",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713305875,
     "wof:placetype":"locality",
     "wof:population":98,
     "wof:population_rank":1,

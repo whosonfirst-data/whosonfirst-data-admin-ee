@@ -37,9 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713314119,
         85633135,
-        85683001
+        1713305755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,6 +56,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305755,
+            "localadmin_id":1713314119,
             "locality_id":1259504797,
             "region_id":85683001
         }
@@ -65,9 +69,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485158,
+    "wof:lastmodified":1596662769,
     "wof:name":"Vonnu",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713314119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

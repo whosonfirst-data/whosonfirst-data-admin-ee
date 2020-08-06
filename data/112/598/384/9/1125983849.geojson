@@ -52,7 +52,13 @@
     "woe:name_adm0":"Eesti",
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682981,
+        102191581,
+        1713310109,
+        85633135,
+        1713305703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590352,
@@ -67,10 +73,12 @@
     "wof:geomhash":"42cd8b7386eefb7b6286d89656503fd2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305703,
+            "localadmin_id":1713310109,
             "locality_id":1125983849,
-            "region_id":-1
+            "region_id":85682981
         }
     ],
     "wof:id":1125983849,
@@ -80,9 +88,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485139,
+    "wof:lastmodified":1596677708,
     "wof:name":"Manija",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713310109,
     "wof:placetype":"locality",
     "wof:population":45,
     "wof:population_rank":1,

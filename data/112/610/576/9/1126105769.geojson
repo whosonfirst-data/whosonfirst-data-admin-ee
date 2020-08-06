@@ -58,8 +58,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1713312845,
         85633135,
-        101753891,
+        1713305689,
         85683055
     ],
     "wof:breaches":[],
@@ -74,15 +75,17 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":101753891,
+            "county_id":1713305689,
+            "localadmin_id":1713312845,
+            "locality_id":-1,
             "neighbourhood_id":1126105769,
             "region_id":85683055
         }
     ],
     "wof:id":1126105769,
-    "wof:lastmodified":1596485136,
+    "wof:lastmodified":1596661413,
     "wof:name":"Iru",
-    "wof:parent_id":101753891,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:population":277,
     "wof:population_rank":2,

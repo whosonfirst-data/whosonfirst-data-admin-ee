@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981,
+        1713305733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":4320
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460964,
     "wof:geomhash":"9132ca98f19982a59e5c874bc4b3dd4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713314379,
+            "region_id":85682981
+        }
+    ],
     "wof:id":1713314379,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130439,
+    "wof:lastmodified":1596663404,
     "wof:name":"Libatse",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

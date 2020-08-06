@@ -76,9 +76,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306067,
         85633135,
-        85683055
+        1713305625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,6 +98,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305625,
+            "localadmin_id":1713306067,
             "locality_id":1126045095,
             "region_id":85683055
         }
@@ -107,9 +111,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130274,
+    "wof:lastmodified":1596676119,
     "wof:name":"Rohuneeme",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306067,
     "wof:placetype":"locality",
     "wof:population":316,
     "wof:population_rank":2,

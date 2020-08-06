@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955,
+        1713305789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":6472
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460823,
     "wof:geomhash":"7db5260c8a50a9d82e18b641118516ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305789,
+            "localadmin_id":1713313729,
+            "region_id":85682955
+        }
+    ],
     "wof:id":1713313729,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130426,
+    "wof:lastmodified":1596676784,
     "wof:name":"Puugi",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -40,9 +40,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713309835,
         85633135,
-        85682941
+        1713305759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,6 +56,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305759,
+            "localadmin_id":1713309835,
             "locality_id":1243147441,
             "region_id":85682941
         }
@@ -65,9 +69,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485148,
+    "wof:lastmodified":1596661878,
     "wof:name":"Voki",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713309835,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

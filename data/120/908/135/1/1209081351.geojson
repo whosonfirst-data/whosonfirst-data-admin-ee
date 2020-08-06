@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682941,
+        102191581,
+        1713310399,
+        85633135,
+        1713305687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +52,12 @@
     "wof:geomhash":"92f536344bd3435bf596436247afde65",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209081351
+            "county_id":1713305687,
+            "localadmin_id":1713310399,
+            "locality_id":1209081351,
+            "region_id":85682941
         }
     ],
     "wof:id":1209081351,
@@ -59,9 +67,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485099,
+    "wof:lastmodified":1596661435,
     "wof:name":"Asu",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713310399,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

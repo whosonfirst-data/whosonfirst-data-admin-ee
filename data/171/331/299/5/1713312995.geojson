@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049,
+        1713305771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":5794
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460669,
     "wof:geomhash":"05f0dca52299ebc114952712cf865d4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305771,
+            "localadmin_id":1713312995,
+            "region_id":85683049
+        }
+    ],
     "wof:id":1713312995,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130412,
+    "wof:lastmodified":1596677951,
     "wof:name":"Paasvere",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

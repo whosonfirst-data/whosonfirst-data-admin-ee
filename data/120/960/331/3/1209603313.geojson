@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682981,
+        102191581,
+        1713313479,
+        85633135,
+        1713305733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,12 @@
     "wof:geomhash":"8330e9cc38161ef47548ae67c9b85727",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209603313
+            "county_id":1713305733,
+            "localadmin_id":1713313479,
+            "locality_id":1209603313,
+            "region_id":85682981
         }
     ],
     "wof:id":1209603313,
@@ -57,9 +65,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485104,
+    "wof:lastmodified":1596663424,
     "wof:name":"Yyeertse",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713313479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

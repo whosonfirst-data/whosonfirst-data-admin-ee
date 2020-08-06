@@ -58,7 +58,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683055,
+        102191581,
+        1713306333,
+        85633135,
+        1713305665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,8 +76,12 @@
     "wof:geomhash":"18b9827f33c7d4a93f5ad38372340a96",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209519625
+            "county_id":1713305665,
+            "localadmin_id":1713306333,
+            "locality_id":1209519625,
+            "region_id":85683055
         }
     ],
     "wof:id":1209519625,
@@ -83,9 +91,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485105,
+    "wof:lastmodified":1596661351,
     "wof:name":"Rava",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713306333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

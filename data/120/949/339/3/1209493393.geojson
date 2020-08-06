@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682981,
+        102191581,
+        1713309215,
+        85633135,
+        1713305741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +52,12 @@
     "wof:geomhash":"67b1c8c2a717ddf608b5531e01cf6e08",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209493393
+            "county_id":1713305741,
+            "localadmin_id":1713309215,
+            "locality_id":1209493393,
+            "region_id":85682981
         }
     ],
     "wof:id":1209493393,
@@ -59,9 +67,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485102,
+    "wof:lastmodified":1596663206,
     "wof:name":"Piiskopi",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713309215,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -38,9 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713316379,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,6 +57,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713316379,
             "locality_id":1225804093,
             "region_id":85682937
         }
@@ -66,9 +70,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485168,
+    "wof:lastmodified":1596660393,
     "wof:name":"Linnamaee",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713316379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -90,9 +90,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713313873,
         85633135,
-        85682995
+        1713305699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,6 +113,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305699,
+            "localadmin_id":1713313873,
             "locality_id":1125889853,
             "region_id":85682995
         }
@@ -122,9 +126,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130429,
+    "wof:lastmodified":1596660663,
     "wof:name":"Aardla",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713313873,
     "wof:placetype":"locality",
     "wof:population":138,
     "wof:population_rank":1,

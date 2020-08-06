@@ -89,9 +89,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713314001,
         85633135,
-        85682995
+        1713305717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,6 +115,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305717,
+            "localadmin_id":1713314001,
             "locality_id":1125935813,
             "region_id":85682995
         }
@@ -124,9 +128,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596126998,
+    "wof:lastmodified":1596676693,
     "wof:name":"R\u00e4ni",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713314001,
     "wof:placetype":"locality",
     "wof:population":498,
     "wof:population_rank":2,

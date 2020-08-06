@@ -48,9 +48,11 @@
     "woe:name_adm1":"V\u00f5rumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713314735,
         85633135,
-        85682937
+        1713305787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,6 +70,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305787,
+            "localadmin_id":1713314735,
             "locality_id":1126037721,
             "region_id":85682937
         }
@@ -79,9 +83,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485137,
+    "wof:lastmodified":1596676900,
     "wof:name":"Nursi",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713314735,
     "wof:placetype":"locality",
     "wof:population":145,
     "wof:population_rank":1,

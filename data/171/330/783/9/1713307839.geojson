@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049,
+        1713305719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":7925
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595459498,
     "wof:geomhash":"eca2e62beff48536ba36be0134dd2b86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305719,
+            "localadmin_id":1713307839,
+            "region_id":85683049
+        }
+    ],
     "wof:id":1713307839,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130310,
+    "wof:lastmodified":1596676661,
     "wof:name":"S\u00e4mi-Tagak\u00fcla",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

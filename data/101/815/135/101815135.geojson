@@ -222,9 +222,11 @@
     "wd:population":8056,
     "wd:wordcount":477,
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713308101,
         85633135,
-        85683031
+        1713305663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -249,6 +251,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305663,
+            "localadmin_id":1713308101,
             "locality_id":101815135,
             "region_id":85683031
         }
@@ -260,9 +264,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596126990,
+    "wof:lastmodified":1596661327,
     "wof:name":"Paide",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713308101,
     "wof:placetype":"locality",
     "wof:population":8056,
     "wof:population_rank":5,

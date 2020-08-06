@@ -84,9 +84,11 @@
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713314533,
         85633135,
-        85683049
+        1713305719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,6 +107,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305719,
+            "localadmin_id":1713314533,
             "locality_id":1126037971,
             "region_id":85683049
         }
@@ -116,9 +120,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130442,
+    "wof:lastmodified":1596676675,
     "wof:name":"Veltsi",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713314533,
     "wof:placetype":"locality",
     "wof:population":293,
     "wof:population_rank":2,

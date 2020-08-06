@@ -138,7 +138,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682937,
+        102191581,
+        1713316259,
+        85633135,
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -151,8 +155,12 @@
     "wof:geomhash":"0f69ab10e504bdaf446fc7242bf2583e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209070703
+            "county_id":1713305633,
+            "localadmin_id":1713316259,
+            "locality_id":1209070703,
+            "region_id":85682937
         }
     ],
     "wof:id":1209070703,
@@ -162,9 +170,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485097,
+    "wof:lastmodified":1596660402,
     "wof:name":"Villa",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713316259,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

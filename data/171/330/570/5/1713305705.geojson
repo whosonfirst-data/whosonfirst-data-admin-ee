@@ -42,7 +42,11 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682981
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":712
@@ -50,7 +54,14 @@
     "wof:country":"EE",
     "wof:created":1595451889,
     "wof:geomhash":"c36783596cb15391c020a91f4448b0c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305705,
+            "region_id":85682981
+        }
+    ],
     "wof:id":1713305705,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +69,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596658118,
+    "wof:lastmodified":1596677719,
     "wof:name":"Saarde",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682981,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

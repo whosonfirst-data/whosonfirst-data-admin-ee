@@ -76,9 +76,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310841,
         85633135,
-        85682955
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,6 +99,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305793,
+            "localadmin_id":1713310841,
             "locality_id":1125936183,
             "region_id":85682955
         }
@@ -108,9 +112,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130373,
+    "wof:lastmodified":1596677004,
     "wof:name":"Sillap\u00e4\u00e4",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310841,
     "wof:placetype":"locality",
     "wof:population":143,
     "wof:population_rank":1,

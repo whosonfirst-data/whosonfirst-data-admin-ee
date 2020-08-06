@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683059,
+        102191581,
+        1713314469,
+        85633135,
+        1713305677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,12 @@
     "wof:geomhash":"d8deea5c7c54e8b9fa1eb1803daca70c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209313767
+            "county_id":1713305677,
+            "localadmin_id":1713314469,
+            "locality_id":1209313767,
+            "region_id":85683059
         }
     ],
     "wof:id":1209313767,
@@ -58,9 +66,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485097,
+    "wof:lastmodified":1596661009,
     "wof:name":"Joemetsa",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713314469,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

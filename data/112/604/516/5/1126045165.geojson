@@ -40,9 +40,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682947,
         102191581,
+        1713306247,
         85633135,
-        85682951
+        1713305623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +61,10 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305623,
+            "localadmin_id":1713306247,
             "locality_id":1126045165,
-            "region_id":85682951
+            "region_id":85682947
         }
     ],
     "wof:id":1126045165,
@@ -70,9 +74,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485137,
+    "wof:lastmodified":1596675302,
     "wof:name":"Hellamaa",
-    "wof:parent_id":85682951,
+    "wof:parent_id":1713306247,
     "wof:placetype":"locality",
     "wof:population":157,
     "wof:population_rank":1,

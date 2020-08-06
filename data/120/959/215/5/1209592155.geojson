@@ -57,7 +57,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683013,
+        102191581,
+        1713314833,
+        85633135,
+        1713305747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +75,12 @@
     "wof:geomhash":"560a6051c8502e83bc5e35f52495207e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209592155
+            "county_id":1713305747,
+            "localadmin_id":1713314833,
+            "locality_id":1209592155,
+            "region_id":85683013
         }
     ],
     "wof:id":1209592155,
@@ -82,9 +90,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485104,
+    "wof:lastmodified":1596662842,
     "wof:name":"Luemandu",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713314833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -42,7 +42,11 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":431
@@ -50,7 +54,14 @@
     "wof:country":"EE",
     "wof:created":1595451899,
     "wof:geomhash":"c738c82effe4f2362f3bb842fdc82e45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305737,
+            "region_id":85683055
+        }
+    ],
     "wof:id":1713305737,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +69,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596658068,
+    "wof:lastmodified":1596663278,
     "wof:name":"L\u00e4\u00e4ne-Harju",
-    "wof:parent_id":-1,
+    "wof:parent_id":85683055,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

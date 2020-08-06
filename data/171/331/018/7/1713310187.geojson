@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941,
+        1713305753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":3452
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460067,
     "wof:geomhash":"faaf82b69971d4f4c48d56bbb8b81452",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305753,
+            "localadmin_id":1713310187,
+            "region_id":85682941
+        }
+    ],
     "wof:id":1713310187,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130358,
+    "wof:lastmodified":1596661936,
     "wof:name":"Korkuna",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

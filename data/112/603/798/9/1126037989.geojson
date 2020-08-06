@@ -57,9 +57,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713312721,
         85633135,
-        85682995
+        1713305715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +79,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305715,
+            "localadmin_id":1713312721,
             "locality_id":1126037989,
             "region_id":85682995
         }
@@ -88,9 +92,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485137,
+    "wof:lastmodified":1596676768,
     "wof:name":"Vissi",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713312721,
     "wof:placetype":"locality",
     "wof:population":143,
     "wof:population_rank":1,

@@ -55,7 +55,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682989,
+        102191581,
+        1713310729,
+        85633135,
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,8 +73,12 @@
     "wof:geomhash":"5467909c9ffb073900c27a24694c0420",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209524335
+            "county_id":1713305629,
+            "localadmin_id":1713310729,
+            "locality_id":1209524335,
+            "region_id":85682989
         }
     ],
     "wof:id":1209524335,
@@ -80,9 +88,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485100,
+    "wof:lastmodified":1596670013,
     "wof:name":"Koidma",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713310729,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -72,9 +72,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713311563,
         85633135,
-        85683059
+        1713305693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305693,
+            "localadmin_id":1713311563,
             "locality_id":1193023549,
             "region_id":85683059
         }
@@ -101,9 +105,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485110,
+    "wof:lastmodified":1596660735,
     "wof:name":"Jaama",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713311563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

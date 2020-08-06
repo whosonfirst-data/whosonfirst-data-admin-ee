@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009,
+        1713305767
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":8861
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460522,
     "wof:geomhash":"9db6b7be49dacf0d270e6643da6b02b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312335,
+            "region_id":85683009
+        }
+    ],
     "wof:id":1713312335,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130398,
+    "wof:lastmodified":1596676556,
     "wof:name":"Vaiatu",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

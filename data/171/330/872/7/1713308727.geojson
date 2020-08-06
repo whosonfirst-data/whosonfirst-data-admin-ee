@@ -42,7 +42,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683001,
+        1713305701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":1760
@@ -53,7 +58,15 @@
     "wof:country":"EE",
     "wof:created":1595459716,
     "wof:geomhash":"0fe8844c9c3c86e685d3105aee70b064",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305701,
+            "localadmin_id":1713308727,
+            "region_id":85683001
+        }
+    ],
     "wof:id":1713308727,
     "wof:lang_x_official":[
         "est"
@@ -61,9 +74,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130327,
+    "wof:lastmodified":1596677181,
     "wof:name":"Hara",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

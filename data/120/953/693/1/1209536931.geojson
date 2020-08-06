@@ -61,7 +61,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683001,
+        102191581,
+        1713308997,
+        85633135,
+        1713305701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,8 +79,12 @@
     "wof:geomhash":"4e701511a1f7b383cff4a5ead7645ec3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209536931
+            "county_id":1713305701,
+            "localadmin_id":1713308997,
+            "locality_id":1209536931,
+            "region_id":85683001
         }
     ],
     "wof:id":1209536931,
@@ -86,9 +94,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485097,
+    "wof:lastmodified":1596677435,
     "wof:name":"Kaerbla",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713308997,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

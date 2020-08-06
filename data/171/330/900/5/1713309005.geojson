@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682989,
+        1713305629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":1013
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595459783,
     "wof:geomhash":"5604f3623c631192c9d4e7503f1ec755",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713309005,
+            "region_id":85682989
+        }
+    ],
     "wof:id":1713309005,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130333,
+    "wof:lastmodified":1596666498,
     "wof:name":"Aadma",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

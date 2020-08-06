@@ -65,9 +65,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713306777,
         85633135,
-        85683059
+        1713305783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,6 +85,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305783,
+            "localadmin_id":1713306777,
             "locality_id":1243456201,
             "region_id":85683059
         }
@@ -94,9 +98,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485153,
+    "wof:lastmodified":1596676913,
     "wof:name":"Kohtla",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713306777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

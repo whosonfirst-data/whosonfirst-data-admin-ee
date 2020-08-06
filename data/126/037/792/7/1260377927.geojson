@@ -58,9 +58,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713315911,
         85633135,
-        85682955
+        1713305631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,6 +78,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305631,
+            "localadmin_id":1713315911,
             "locality_id":1260377927,
             "region_id":85682955
         }
@@ -87,9 +91,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485114,
+    "wof:lastmodified":1596663698,
     "wof:name":"Vaartsi",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713315911,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

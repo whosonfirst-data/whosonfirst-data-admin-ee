@@ -55,7 +55,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682985,
+        102191581,
+        1713311759,
+        85633135,
+        1713305735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,8 +73,12 @@
     "wof:geomhash":"606db9fcdb66d16cd61f898592afeef3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209680535
+            "county_id":1713305735,
+            "localadmin_id":1713311759,
+            "locality_id":1209680535,
+            "region_id":85682985
         }
     ],
     "wof:id":1209680535,
@@ -80,9 +88,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485103,
+    "wof:lastmodified":1596663459,
     "wof:name":"Kuhjavere",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713311759,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

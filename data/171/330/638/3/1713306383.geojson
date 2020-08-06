@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013,
+        1713305707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":8976
@@ -47,7 +52,15 @@
     "wof:country":"EE",
     "wof:created":1595459144,
     "wof:geomhash":"8803210262d8e9ff4e3472cb3523ff7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305707,
+            "localadmin_id":1713306383,
+            "region_id":85683013
+        }
+    ],
     "wof:id":1713306383,
     "wof:lang_x_official":[
         "est"
@@ -55,9 +68,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1595459144,
+    "wof:lastmodified":1596677029,
     "wof:name":"Vana-Aespa",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305707,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

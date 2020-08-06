@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985,
+        1713305735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":4925
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460388,
     "wof:geomhash":"90c2f55b4cc4c85db51f1996e708ace5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305735,
+            "localadmin_id":1713311643,
+            "region_id":85682985
+        }
+    ],
     "wof:id":1713311643,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130386,
+    "wof:lastmodified":1596663439,
     "wof:name":"Metsk\u00fcla",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

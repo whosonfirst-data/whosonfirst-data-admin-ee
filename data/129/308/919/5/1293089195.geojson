@@ -45,9 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713313851,
         85633135,
-        85682981
+        1713305705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +64,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305705,
+            "localadmin_id":1713313851,
             "locality_id":1293089195,
             "region_id":85682981
         }
@@ -73,9 +77,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485075,
+    "wof:lastmodified":1596677735,
     "wof:name":"Reinu",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713313851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

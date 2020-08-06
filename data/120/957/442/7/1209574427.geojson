@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682937,
+        102191581,
+        1713315263,
+        85633135,
+        1713305787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,12 @@
     "wof:geomhash":"40e21767582733264bde63125df2680d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209574427
+            "county_id":1713305787,
+            "localadmin_id":1713315263,
+            "locality_id":1209574427,
+            "region_id":85682937
         }
     ],
     "wof:id":1209574427,
@@ -57,9 +65,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485103,
+    "wof:lastmodified":1596676877,
     "wof:name":"Ala-Suhka",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713315263,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

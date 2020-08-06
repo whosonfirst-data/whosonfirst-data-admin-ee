@@ -46,9 +46,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713315083,
         85633135,
-        85682941
+        1713305687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,6 +68,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305687,
+            "localadmin_id":1713315083,
             "locality_id":1125955797,
             "region_id":85682941
         }
@@ -77,9 +81,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485136,
+    "wof:lastmodified":1596661437,
     "wof:name":"Linnu",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713315083,
     "wof:placetype":"locality",
     "wof:population":456,
     "wof:population_rank":2,

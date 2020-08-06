@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059,
+        1713305693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":4258
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460803,
     "wof:geomhash":"8422997d3b3b309a24064f04ecfee293",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305693,
+            "localadmin_id":1713313631,
+            "region_id":85683059
+        }
+    ],
     "wof:id":1713313631,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130424,
+    "wof:lastmodified":1596660719,
     "wof:name":"Lemmaku",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

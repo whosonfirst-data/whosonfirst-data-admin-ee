@@ -359,9 +359,11 @@
     "wd:population":17549,
     "wd:wordcount":1810,
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713312917,
         85633135,
-        85682985
+        1713305641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -382,6 +384,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305641,
+            "localadmin_id":1713312917,
             "locality_id":101815089,
             "region_id":85682985
         }
@@ -393,9 +397,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596126992,
+    "wof:lastmodified":1596663492,
     "wof:name":"Viljandi",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713312917,
     "wof:placetype":"locality",
     "wof:population":17549,
     "wof:population_rank":6,

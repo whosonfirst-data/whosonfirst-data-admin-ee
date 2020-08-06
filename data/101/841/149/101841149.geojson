@@ -224,9 +224,11 @@
     "wd:population":12352,
     "wd:wordcount":1678,
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713313387,
         85633135,
-        85682941
+        1713305753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,6 +253,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305753,
+            "localadmin_id":1713313387,
             "locality_id":101841149,
             "region_id":85682941
         }
@@ -262,9 +266,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596126990,
+    "wof:lastmodified":1596661947,
     "wof:name":"Valga",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713313387,
     "wof:placetype":"locality",
     "wof:population":12352,
     "wof:population_rank":6,

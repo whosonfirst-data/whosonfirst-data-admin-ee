@@ -84,9 +84,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713313145,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,6 +107,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713313145,
             "locality_id":1125767833,
             "region_id":85682955
         }
@@ -116,9 +120,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130415,
+    "wof:lastmodified":1596676959,
     "wof:name":"Aarna",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713313145,
     "wof:placetype":"locality",
     "wof:population":247,
     "wof:population_rank":2,

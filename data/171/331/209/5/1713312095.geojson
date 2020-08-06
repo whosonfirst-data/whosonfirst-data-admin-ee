@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059,
+        1713305677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":3968
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460480,
     "wof:geomhash":"53a9e56d507b8f1df3f7d63941833f59",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305677,
+            "localadmin_id":1713312095,
+            "region_id":85683059
+        }
+    ],
     "wof:id":1713312095,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130394,
+    "wof:lastmodified":1596660958,
     "wof:name":"K\u00fckita",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

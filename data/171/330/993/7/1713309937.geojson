@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682955,
+        1713305789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":9229
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460012,
     "wof:geomhash":"48fdb98fc7b31a3e0a3ef9a845c49221",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305789,
+            "localadmin_id":1713309937,
+            "region_id":85682955
+        }
+    ],
     "wof:id":1713309937,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130353,
+    "wof:lastmodified":1596676782,
     "wof:name":"Veski",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

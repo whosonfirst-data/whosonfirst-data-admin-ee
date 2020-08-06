@@ -156,7 +156,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682955,
+        102191581,
+        1713309937,
+        85633135,
+        1713305789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -166,8 +170,12 @@
     "wof:geomhash":"1998eb771af7962eb74882f8da252aa3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209093365
+            "county_id":1713305789,
+            "localadmin_id":1713309937,
+            "locality_id":1209093365,
+            "region_id":85682955
         }
     ],
     "wof:id":1209093365,
@@ -177,9 +185,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485097,
+    "wof:lastmodified":1596676786,
     "wof:name":"Palu",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713309937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

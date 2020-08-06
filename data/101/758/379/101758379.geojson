@@ -76,9 +76,11 @@
     "wd:population":1556,
     "wd:wordcount":59,
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306077,
         85633135,
-        85683055
+        1713305625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +101,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305625,
+            "localadmin_id":1713306077,
             "locality_id":101758379,
             "region_id":85683055
         }
@@ -110,9 +114,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596149064,
+    "wof:lastmodified":1596676118,
     "wof:name":"P\u00e4rnam\u00e4e",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306077,
     "wof:placetype":"locality",
     "wof:population":1556,
     "wof:population_rank":3,

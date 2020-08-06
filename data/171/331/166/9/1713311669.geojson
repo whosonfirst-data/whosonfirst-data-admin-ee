@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985,
+        1713305661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":4989
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460393,
     "wof:geomhash":"bd95042a81db128234372b3247353d0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305661,
+            "localadmin_id":1713311669,
+            "region_id":85682985
+        }
+    ],
     "wof:id":1713311669,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130387,
+    "wof:lastmodified":1596661285,
     "wof:name":"Morna",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

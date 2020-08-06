@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941,
+        1713305687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":2623
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460102,
     "wof:geomhash":"5c59a31c6db60efa3dec68285ddfb120",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305687,
+            "localadmin_id":1713310347,
+            "region_id":85682941
+        }
+    ],
     "wof:id":1713310347,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130362,
+    "wof:lastmodified":1596661420,
     "wof:name":"Kalme",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

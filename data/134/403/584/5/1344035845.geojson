@@ -38,9 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713312433,
         85633135,
-        85682981
+        1713305731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,6 +54,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305731,
+            "localadmin_id":1713312433,
             "locality_id":1344035845,
             "region_id":85682981
         }
@@ -63,9 +67,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485069,
+    "wof:lastmodified":1596663392,
     "wof:name":"Vingikuela",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713312433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683049,
+        102191581,
+        1713313639,
+        85633135,
+        1713305771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +63,12 @@
     "wof:geomhash":"f56cbdd34328eac167a5c22f374bbb4d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209299951
+            "county_id":1713305771,
+            "localadmin_id":1713313639,
+            "locality_id":1209299951,
+            "region_id":85683049
         }
     ],
     "wof:id":1209299951,
@@ -70,9 +78,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485106,
+    "wof:lastmodified":1596677959,
     "wof:name":"Kaasiksaare",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713313639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

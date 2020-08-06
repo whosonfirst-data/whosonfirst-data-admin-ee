@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683031,
+        102191581,
+        1713306853,
+        85633135,
+        1713305765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +54,12 @@
     "wof:geomhash":"1bf0d5a157680f40e5eb7360fd60e4ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209338549
+            "county_id":1713305765,
+            "localadmin_id":1713306853,
+            "locality_id":1209338549,
+            "region_id":85683031
         }
     ],
     "wof:id":1209338549,
@@ -61,9 +69,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485105,
+    "wof:lastmodified":1596676643,
     "wof:name":"Norra",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713306853,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

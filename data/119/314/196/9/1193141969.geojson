@@ -36,9 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713309159,
         85633135,
-        85683009
+        1713305679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +55,10 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305679,
+            "localadmin_id":1713309159,
             "locality_id":1193141969,
-            "region_id":85683009
+            "region_id":85682995
         }
     ],
     "wof:id":1193141969,
@@ -64,9 +68,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485110,
+    "wof:lastmodified":1596660904,
     "wof:name":"Syayeritsa",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713309159,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

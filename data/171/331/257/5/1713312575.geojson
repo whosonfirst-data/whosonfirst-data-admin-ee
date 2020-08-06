@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995,
+        1713305715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":7441
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460573,
     "wof:geomhash":"0f8d7a5f9302383545d31fede0210adb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305715,
+            "localadmin_id":1713312575,
+            "region_id":85682995
+        }
+    ],
     "wof:id":1713312575,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130404,
+    "wof:lastmodified":1596676753,
     "wof:name":"Sassi",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305715,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

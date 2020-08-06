@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683055,
+        102191581,
+        1713313187,
+        85633135,
+        1713305683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,8 +72,12 @@
     "wof:geomhash":"f18dd00ecb682a8a29ea94b4004d49f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209519457
+            "county_id":1713305683,
+            "localadmin_id":1713313187,
+            "locality_id":1209519457,
+            "region_id":85683055
         }
     ],
     "wof:id":1209519457,
@@ -79,9 +87,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485105,
+    "wof:lastmodified":1596661482,
     "wof:name":"Suuresta",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713313187,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

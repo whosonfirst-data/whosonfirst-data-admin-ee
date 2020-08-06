@@ -88,9 +88,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713311585,
         85633135,
-        85682985
+        1713305735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,6 +111,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305735,
+            "localadmin_id":1713311585,
             "locality_id":1125971389,
             "region_id":85682985
         }
@@ -120,9 +124,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130385,
+    "wof:lastmodified":1596663464,
     "wof:name":"K\u00f5o",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713311585,
     "wof:placetype":"locality",
     "wof:population":318,
     "wof:population_rank":2,

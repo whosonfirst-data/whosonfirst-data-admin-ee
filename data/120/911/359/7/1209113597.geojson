@@ -60,7 +60,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683059,
+        102191581,
+        1713312301,
+        85633135,
+        1713305677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +78,12 @@
     "wof:geomhash":"413173155129567d3ceac0662b2e3bcc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209113597
+            "county_id":1713305677,
+            "localadmin_id":1713312301,
+            "locality_id":1209113597,
+            "region_id":85683059
         }
     ],
     "wof:id":1209113597,
@@ -85,9 +93,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485105,
+    "wof:lastmodified":1596661009,
     "wof:name":"Kalmakuela",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713312301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

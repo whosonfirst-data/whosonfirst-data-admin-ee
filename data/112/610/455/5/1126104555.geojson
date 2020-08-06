@@ -70,8 +70,10 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1713312053,
         85633135,
-        85683009
+        1713305677,
+        85683059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,13 +87,15 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305677,
+            "localadmin_id":1713312053,
             "locality_id":-1,
             "neighbourhood_id":1126104555,
-            "region_id":85683009
+            "region_id":85683059
         }
     ],
     "wof:id":1126104555,
-    "wof:lastmodified":1596485136,
+    "wof:lastmodified":1596661041,
     "wof:name":"Tiheda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

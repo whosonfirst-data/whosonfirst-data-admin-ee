@@ -57,9 +57,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713314733,
         85633135,
-        85682937
+        1713305795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,6 +77,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305795,
+            "localadmin_id":1713314733,
             "locality_id":1260054139,
             "region_id":85682937
         }
@@ -86,9 +90,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485117,
+    "wof:lastmodified":1596677019,
     "wof:name":"Maehkli",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713314733,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

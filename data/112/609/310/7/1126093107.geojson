@@ -88,10 +88,13 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713305847,
         85633135,
         101748153,
-        85683055
+        1713348887,
+        1713305645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,17 +107,20 @@
     "wof:geomhash":"c100749bb99c6455dc0e7e8a3947048a",
     "wof:hierarchy":[
         {
+            "borough_id":1713348887,
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305645,
+            "localadmin_id":1713305847,
             "locality_id":101748153,
             "neighbourhood_id":1126093107,
             "region_id":85683055
         }
     ],
     "wof:id":1126093107,
-    "wof:lastmodified":1596485140,
+    "wof:lastmodified":1596663550,
     "wof:name":"Kose",
-    "wof:parent_id":101748153,
+    "wof:parent_id":1713348887,
     "wof:placetype":"neighbourhood",
     "wof:population":2232,
     "wof:population_rank":4,

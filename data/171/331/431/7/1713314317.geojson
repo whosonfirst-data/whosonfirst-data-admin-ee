@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682941,
+        1713305759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":8999
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460951,
     "wof:geomhash":"9f9f5430675a392d07459a2664da64f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305759,
+            "localadmin_id":1713314317,
+            "region_id":85682941
+        }
+    ],
     "wof:id":1713314317,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130438,
+    "wof:lastmodified":1596661865,
     "wof:name":"Vana-Otep\u00e4\u00e4",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

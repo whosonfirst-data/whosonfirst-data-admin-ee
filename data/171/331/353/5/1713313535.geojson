@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995,
+        1713305757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":1418
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460782,
     "wof:geomhash":"7ee9a52d00fd4bae739ea6010d4671bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713313535,
+            "region_id":85682995
+        }
+    ],
     "wof:id":1713313535,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130422,
+    "wof:lastmodified":1596661906,
     "wof:name":"Astuvere",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -120,7 +120,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683055,
+        102191581,
+        1713307169,
+        85633135,
+        1713305749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,8 +134,12 @@
     "wof:geomhash":"bdc12e5c3ad0953aa5a4144a464a0c88",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209120235
+            "county_id":1713305749,
+            "localadmin_id":1713307169,
+            "locality_id":1209120235,
+            "region_id":85683055
         }
     ],
     "wof:id":1209120235,
@@ -141,9 +149,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485101,
+    "wof:lastmodified":1596662798,
     "wof:name":"Lae",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713307169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

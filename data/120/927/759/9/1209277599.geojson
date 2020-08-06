@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682995,
+        102191581,
+        1713310445,
+        85633135,
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,8 +72,12 @@
     "wof:geomhash":"a49039cb149e97d7db48a92d7392f980",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209277599
+            "county_id":1713305757,
+            "localadmin_id":1713310445,
+            "locality_id":1209277599,
+            "region_id":85682995
         }
     ],
     "wof:id":1209277599,
@@ -79,9 +87,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485106,
+    "wof:lastmodified":1596661908,
     "wof:name":"Taennassilma",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713310445,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

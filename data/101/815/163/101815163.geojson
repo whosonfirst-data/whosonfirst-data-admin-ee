@@ -75,9 +75,11 @@
     "src:population":"geonames",
     "wd:wordcount":64,
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713313311,
         85633135,
-        85683055
+        1713305689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,6 +102,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305689,
+            "localadmin_id":1713313311,
             "locality_id":101815163,
             "region_id":85683055
         }
@@ -111,9 +115,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596126991,
+    "wof:lastmodified":1596661390,
     "wof:name":"Loo",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713313311,
     "wof:placetype":"locality",
     "wof:population":2175,
     "wof:population_rank":4,

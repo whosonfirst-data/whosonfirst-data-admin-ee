@@ -42,7 +42,11 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":130
@@ -50,7 +54,14 @@
     "wof:country":"EE",
     "wof:created":1595451884,
     "wof:geomhash":"20a4703bddb473f6c762869aa3c294a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305693,
+            "region_id":85683059
+        }
+    ],
     "wof:id":1713305693,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +69,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596658045,
+    "wof:lastmodified":1596660682,
     "wof:name":"Alutaguse",
-    "wof:parent_id":-1,
+    "wof:parent_id":85683059,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

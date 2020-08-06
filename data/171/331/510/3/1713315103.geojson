@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013,
+        1713305713
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":2087
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595461133,
     "wof:geomhash":"9c71b849e9be50c5e4352ee84225ab0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305713,
+            "localadmin_id":1713315103,
+            "region_id":85683013
+        }
+    ],
     "wof:id":1713315103,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130453,
+    "wof:lastmodified":1596676741,
     "wof:name":"Ingliste",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

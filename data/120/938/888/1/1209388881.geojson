@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682955,
+        102191581,
+        1713316249,
+        85633135,
+        1713305631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +53,12 @@
     "wof:geomhash":"a4e97e873602956586b477603445cbf0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209388881
+            "county_id":1713305631,
+            "localadmin_id":1713316249,
+            "locality_id":1209388881,
+            "region_id":85682955
         }
     ],
     "wof:id":1209388881,
@@ -60,9 +68,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485097,
+    "wof:lastmodified":1596663702,
     "wof:name":"Antkruva",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713316249,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

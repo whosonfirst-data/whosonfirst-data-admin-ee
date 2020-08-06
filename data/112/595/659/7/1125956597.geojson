@@ -79,9 +79,11 @@
     "woe:name_adm1":"V\u00f5rumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713315533,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,6 +102,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713315533,
             "locality_id":1125956597,
             "region_id":85682937
         }
@@ -111,9 +115,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130461,
+    "wof:lastmodified":1596660413,
     "wof:name":"Puiga",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713315533,
     "wof:placetype":"locality",
     "wof:population":332,
     "wof:population_rank":2,

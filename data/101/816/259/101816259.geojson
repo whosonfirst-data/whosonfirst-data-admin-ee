@@ -166,9 +166,11 @@
     "wd:population":2690,
     "wd:wordcount":227,
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713315081,
         85633135,
-        85682941
+        1713305687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -192,6 +194,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305687,
+            "localadmin_id":1713315081,
             "locality_id":101816259,
             "region_id":85682941
         }
@@ -203,9 +207,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596126989,
+    "wof:lastmodified":1596661431,
     "wof:name":"T\u00f5rva",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713315081,
     "wof:placetype":"locality",
     "wof:population":2690,
     "wof:population_rank":4,

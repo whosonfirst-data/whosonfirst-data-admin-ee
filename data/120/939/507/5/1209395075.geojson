@@ -57,7 +57,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682955,
+        102191581,
+        1713312665,
+        85633135,
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +75,12 @@
     "wof:geomhash":"8a8289f85253e133e4e8a660a32ff4bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209395075
+            "county_id":1713305793,
+            "localadmin_id":1713312665,
+            "locality_id":1209395075,
+            "region_id":85682955
         }
     ],
     "wof:id":1209395075,
@@ -82,9 +90,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485098,
+    "wof:lastmodified":1596677000,
     "wof:name":"Kikka",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713312665,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

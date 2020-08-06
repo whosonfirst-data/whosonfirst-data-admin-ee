@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055,
+        1713305751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":4758
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595459153,
     "wof:geomhash":"d7b522a4dd2229c917526e65480ee648",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305751,
+            "localadmin_id":1713306421,
+            "region_id":85683055
+        }
+    ],
     "wof:id":1713306421,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130281,
+    "wof:lastmodified":1596661928,
     "wof:name":"Mallavere",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305751,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

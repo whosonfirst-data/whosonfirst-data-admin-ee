@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683013,
+        1713305711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":6826
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460259,
     "wof:geomhash":"2402c83c42029ee08c9c10e4e25fd085",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305711,
+            "localadmin_id":1713311071,
+            "region_id":85683013
+        }
+    ],
     "wof:id":1713311071,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1595977964,
+    "wof:lastmodified":1596676699,
     "wof:name":"Rapla",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

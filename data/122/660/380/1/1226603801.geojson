@@ -54,9 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713313331,
         85633135,
-        85682937
+        1713305795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,6 +74,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305795,
+            "localadmin_id":1713313331,
             "locality_id":1226603801,
             "region_id":85682937
         }
@@ -83,9 +87,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485167,
+    "wof:lastmodified":1596677020,
     "wof:name":"AEhijaerve",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713313331,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

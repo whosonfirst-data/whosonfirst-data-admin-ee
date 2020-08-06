@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683009,
+        1713305657
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":4567
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460483,
     "wof:geomhash":"423b9587cd3010e9c21f4b674a4323f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305657,
+            "localadmin_id":1713312109,
+            "region_id":85683009
+        }
+    ],
     "wof:id":1713312109,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130395,
+    "wof:lastmodified":1596676491,
     "wof:name":"Lustivere",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

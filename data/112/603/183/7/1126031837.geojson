@@ -124,9 +124,11 @@
     "woe:name_adm1":"Ida-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713312341,
         85633135,
-        85683059
+        1713305677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -147,6 +149,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305677,
+            "localadmin_id":1713312341,
             "locality_id":1126031837,
             "region_id":85683059
         }
@@ -158,9 +162,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596127005,
+    "wof:lastmodified":1596661035,
     "wof:name":"Avinurme",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713312341,
     "wof:placetype":"locality",
     "wof:population":779,
     "wof:population_rank":2,

@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683055,
+        1713305749
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":1088
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460584,
     "wof:geomhash":"de8801fe4fac53a2f001d82e28f55004",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305749,
+            "localadmin_id":1713312627,
+            "region_id":85683055
+        }
+    ],
     "wof:id":1713312627,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1595977966,
+    "wof:lastmodified":1596662787,
     "wof:name":"Aegviidu",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682995,
+        102191581,
+        1713314189,
+        85633135,
+        1713305699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,8 +55,12 @@
     "wof:geomhash":"fe636e78eabc150836aa5663e0c6dd95",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209578785
+            "county_id":1713305699,
+            "localadmin_id":1713314189,
+            "locality_id":1209578785,
+            "region_id":85682995
         }
     ],
     "wof:id":1209578785,
@@ -62,9 +70,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485103,
+    "wof:lastmodified":1596660665,
     "wof:name":"Ahunapalu",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713314189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

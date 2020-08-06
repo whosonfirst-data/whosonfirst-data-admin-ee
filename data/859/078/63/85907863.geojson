@@ -88,8 +88,13 @@
     "wd:longitude":24.7695,
     "wd:wordcount":148,
     "wof:belongsto":[
+        85683055,
+        102191581,
+        1713305847,
         85633135,
-        85683055
+        101748153,
+        1713348885,
+        1713305645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +106,12 @@
     "wof:geomhash":"e9df567d5068c71c2ebe3d528f483e37",
     "wof:hierarchy":[
         {
+            "borough_id":1713348885,
+            "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305645,
+            "localadmin_id":1713305847,
+            "locality_id":101748153,
             "neighbourhood_id":85907863,
             "region_id":85683055
         }
@@ -110,9 +120,9 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566584897,
+    "wof:lastmodified":1596663551,
     "wof:name":"Juhkentali",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713348885,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

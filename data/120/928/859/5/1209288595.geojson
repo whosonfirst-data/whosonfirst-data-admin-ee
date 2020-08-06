@@ -63,7 +63,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682937,
+        102191581,
+        1713315415,
+        85633135,
+        1713305787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,8 +80,12 @@
     "wof:geomhash":"4bfb4c81f1882ea4529de25706257d0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209288595
+            "county_id":1713305787,
+            "localadmin_id":1713315415,
+            "locality_id":1209288595,
+            "region_id":85682937
         }
     ],
     "wof:id":1209288595,
@@ -87,9 +95,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485107,
+    "wof:lastmodified":1596676886,
     "wof:name":"Kaku",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713315415,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -50,7 +50,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683049,
+        102191581,
+        1713313199,
+        85633135,
+        1713305771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,8 +68,12 @@
     "wof:geomhash":"fa491f2e473eae210faf04c3964d7fdf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209405525
+            "county_id":1713305771,
+            "localadmin_id":1713313199,
+            "locality_id":1209405525,
+            "region_id":85683049
         }
     ],
     "wof:id":1209405525,
@@ -75,9 +83,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485101,
+    "wof:lastmodified":1596677962,
     "wof:name":"Rohu",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713313199,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

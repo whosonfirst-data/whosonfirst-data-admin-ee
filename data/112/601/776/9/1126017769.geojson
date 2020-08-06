@@ -87,9 +87,11 @@
     "woe:name_adm1":"V\u00f5rumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713313087,
         85633135,
-        85682937
+        1713305795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,6 +110,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305795,
+            "localadmin_id":1713313087,
             "locality_id":1126017769,
             "region_id":85682937
         }
@@ -119,9 +123,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130414,
+    "wof:lastmodified":1596677026,
     "wof:name":"Vaabina",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713313087,
     "wof:placetype":"locality",
     "wof:population":224,
     "wof:population_rank":2,

@@ -51,7 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683009,
+        102191581,
+        1713313759,
+        85633135,
+        1713305659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,8 +69,12 @@
     "wof:geomhash":"5d740caf930b2e84d2845fc6569a2cbb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209110885
+            "county_id":1713305659,
+            "localadmin_id":1713313759,
+            "locality_id":1209110885,
+            "region_id":85683009
         }
     ],
     "wof:id":1209110885,
@@ -76,9 +84,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485105,
+    "wof:lastmodified":1596676469,
     "wof:name":"Raigastvere",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713313759,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

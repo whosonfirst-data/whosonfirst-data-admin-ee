@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937,
+        1713305633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":6761
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595461255,
     "wof:geomhash":"d4dac5399ec535d32b92c08bbed156cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713315601,
+            "region_id":85682937
+        }
+    ],
     "wof:id":1713315601,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130462,
+    "wof:lastmodified":1596660242,
     "wof:name":"Raiste",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

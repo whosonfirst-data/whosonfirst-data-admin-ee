@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049,
+        1713305761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":7476
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595459600,
     "wof:geomhash":"61f36ff2062a5d731a7cc91cec6e07f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305761,
+            "localadmin_id":1713308259,
+            "region_id":85683049
+        }
+    ],
     "wof:id":1713308259,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130317,
+    "wof:lastmodified":1596676594,
     "wof:name":"Sauv\u00e4lja",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

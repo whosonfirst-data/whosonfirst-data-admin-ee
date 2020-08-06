@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985,
+        1713305735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":4261
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460397,
     "wof:geomhash":"725c211aacaff6920ef19e45fa5d0266",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305735,
+            "localadmin_id":1713311691,
+            "region_id":85682985
+        }
+    ],
     "wof:id":1713311691,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130387,
+    "wof:lastmodified":1596663435,
     "wof:name":"Lemmak\u0151nnu",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

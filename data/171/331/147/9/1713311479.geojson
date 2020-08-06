@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059,
+        1713305693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":2868
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460344,
     "wof:geomhash":"640b5f09f307d59c6b9c6f64a34b2276",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305693,
+            "localadmin_id":1713311479,
+            "region_id":85683059
+        }
+    ],
     "wof:id":1713311479,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130384,
+    "wof:lastmodified":1596660716,
     "wof:name":"Kauksi",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

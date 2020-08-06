@@ -95,9 +95,11 @@
     "woe:name_adm1":"V\u00f5rumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713315419,
         85633135,
-        85682937
+        1713305787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,6 +117,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305787,
+            "localadmin_id":1713315419,
             "locality_id":1125990337,
             "region_id":85682937
         }
@@ -126,9 +130,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485138,
+    "wof:lastmodified":1596676894,
     "wof:name":"Haanja",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713315419,
     "wof:placetype":"locality",
     "wof:population":178,
     "wof:population_rank":1,

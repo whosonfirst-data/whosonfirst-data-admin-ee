@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682995,
+        1713305717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":8085
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460640,
     "wof:geomhash":"d20455a42dea564d37c4ecbfe7c5152b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305717,
+            "localadmin_id":1713312877,
+            "region_id":85682995
+        }
+    ],
     "wof:id":1713312877,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130410,
+    "wof:lastmodified":1596676679,
     "wof:name":"Talvikese",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -54,9 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713314109,
         85633135,
-        85682995
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,8 +74,10 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305793,
+            "localadmin_id":1713314109,
             "locality_id":1260352249,
-            "region_id":85682995
+            "region_id":85682955
         }
     ],
     "wof:id":1260352249,
@@ -83,9 +87,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485117,
+    "wof:lastmodified":1596676996,
     "wof:name":"Sikakurmu",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713314109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

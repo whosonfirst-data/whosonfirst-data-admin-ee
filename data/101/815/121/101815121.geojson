@@ -109,9 +109,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":89,
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713309715,
         85633135,
-        85683013
+        1713305713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -136,6 +138,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305713,
+            "localadmin_id":1713309715,
             "locality_id":101815121,
             "region_id":85683013
         }
@@ -147,9 +151,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596126991,
+    "wof:lastmodified":1596676743,
     "wof:name":"J\u00e4rvakandi",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713309715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

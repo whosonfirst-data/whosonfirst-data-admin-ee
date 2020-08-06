@@ -48,9 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713313363,
         85633135,
-        85683049
+        1713305769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +64,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305769,
+            "localadmin_id":1713313363,
             "locality_id":1309731879,
             "region_id":85683049
         }
@@ -73,9 +77,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485133,
+    "wof:lastmodified":1596676541,
     "wof:name":"Lebavere",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713313363,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937,
+        1713305787
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":6433
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595461290,
     "wof:geomhash":"41436b0fdd6dd1c2eed85179940f934b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305787,
+            "localadmin_id":1713315769,
+            "region_id":85682937
+        }
+    ],
     "wof:id":1713315769,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130465,
+    "wof:lastmodified":1596676855,
     "wof:name":"Pulli",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

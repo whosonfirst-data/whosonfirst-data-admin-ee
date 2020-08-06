@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937,
+        1713305633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":5100
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595461228,
     "wof:geomhash":"76e66143ca8f0509839dff7539b5de3a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713315477,
+            "region_id":85682937
+        }
+    ],
     "wof:id":1713315477,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130460,
+    "wof:lastmodified":1596660240,
     "wof:name":"Mutsu",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

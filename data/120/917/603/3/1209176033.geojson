@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682985,
+        102191581,
+        1713311691,
+        85633135,
+        1713305735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,8 +56,12 @@
     "wof:geomhash":"12ca66964fb1047f3d50a325552edc3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209176033
+            "county_id":1713305735,
+            "localadmin_id":1713311691,
+            "locality_id":1209176033,
+            "region_id":85682985
         }
     ],
     "wof:id":1209176033,
@@ -63,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485107,
+    "wof:lastmodified":1596663453,
     "wof:name":"Lemmakonnu",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713311691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

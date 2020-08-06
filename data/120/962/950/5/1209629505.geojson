@@ -57,7 +57,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683055,
+        102191581,
+        1713305985,
+        85633135,
+        1713305689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +75,12 @@
     "wof:geomhash":"022253bba82347181512ee5a76a57fd8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209629505
+            "county_id":1713305689,
+            "localadmin_id":1713305985,
+            "locality_id":1209629505,
+            "region_id":85683055
         }
     ],
     "wof:id":1209629505,
@@ -82,9 +90,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485098,
+    "wof:lastmodified":1596661393,
     "wof:name":"Rebala",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713305985,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

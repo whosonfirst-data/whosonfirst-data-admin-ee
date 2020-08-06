@@ -73,9 +73,11 @@
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713314621,
         85633135,
-        85683049
+        1713305719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,6 +96,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305719,
+            "localadmin_id":1713314621,
             "locality_id":1125957239,
             "region_id":85683049
         }
@@ -105,9 +109,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130444,
+    "wof:lastmodified":1596676672,
     "wof:name":"T\u00f5rrem\u00e4e",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713314621,
     "wof:placetype":"locality",
     "wof:population":172,
     "wof:population_rank":1,

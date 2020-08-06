@@ -53,7 +53,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683001,
+        102191581,
+        1713314681,
+        85633135,
+        1713305755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,8 +67,12 @@
     "wof:geomhash":"884158a0ba14292f784d0a7055315dfd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209211697
+            "county_id":1713305755,
+            "localadmin_id":1713314681,
+            "locality_id":1209211697,
+            "region_id":85683001
         }
     ],
     "wof:id":1209211697,
@@ -74,9 +82,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485107,
+    "wof:lastmodified":1596662771,
     "wof:name":"Haeska",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713314681,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

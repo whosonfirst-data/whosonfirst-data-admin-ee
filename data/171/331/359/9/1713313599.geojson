@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937,
+        1713305795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":2812
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460796,
     "wof:geomhash":"10b67deacf8a40491cd131e0759932fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305795,
+            "localadmin_id":1713313599,
+            "region_id":85682937
+        }
+    ],
     "wof:id":1713313599,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130424,
+    "wof:lastmodified":1596677010,
     "wof:name":"Kassi",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

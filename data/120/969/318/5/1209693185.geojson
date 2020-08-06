@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682955,
+        102191581,
+        1713309787,
+        85633135,
+        1713305789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,12 @@
     "wof:geomhash":"19f6a63dc9d40ab29373706fa4a84115",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209693185
+            "county_id":1713305789,
+            "localadmin_id":1713309787,
+            "locality_id":1209693185,
+            "region_id":85682955
         }
     ],
     "wof:id":1209693185,
@@ -57,9 +65,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485105,
+    "wof:lastmodified":1596676791,
     "wof:name":"Kolovere",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713309787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682955,
+        102191581,
+        1713310909,
+        85633135,
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +52,12 @@
     "wof:geomhash":"31b595d7a0be3d2c28d92c35692abd4d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209291695
+            "county_id":1713305793,
+            "localadmin_id":1713310909,
+            "locality_id":1209291695,
+            "region_id":85682955
         }
     ],
     "wof:id":1209291695,
@@ -59,9 +67,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485106,
+    "wof:lastmodified":1596676995,
     "wof:name":"Pilpakuelae",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713310909,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

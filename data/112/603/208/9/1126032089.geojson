@@ -85,9 +85,11 @@
     "woe:name_adm1":"V\u00f5rumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713314051,
         85633135,
-        85682937
+        1713305795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,6 +111,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305795,
+            "localadmin_id":1713314051,
             "locality_id":1126032089,
             "region_id":85682937
         }
@@ -120,9 +124,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596127004,
+    "wof:lastmodified":1596677026,
     "wof:name":"Kobela",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713314051,
     "wof:placetype":"locality",
     "wof:population":468,
     "wof:population_rank":2,

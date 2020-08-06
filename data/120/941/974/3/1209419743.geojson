@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683009,
+        102191581,
+        1713312247,
+        85633135,
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,8 +72,12 @@
     "wof:geomhash":"d50dd0ec0a92d2b7bf342cd1cf548eee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209419743
+            "county_id":1713305767,
+            "localadmin_id":1713312247,
+            "locality_id":1209419743,
+            "region_id":85683009
         }
     ],
     "wof:id":1209419743,
@@ -79,9 +87,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485101,
+    "wof:lastmodified":1596676575,
     "wof:name":"Vaeljaotsa",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713312247,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

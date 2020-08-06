@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682985,
+        1713305669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":6956
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595459983,
     "wof:geomhash":"68d0704b118b65d02923808b4f946242",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713309817,
+            "region_id":85682985
+        }
+    ],
     "wof:id":1713309817,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130350,
+    "wof:lastmodified":1596661228,
     "wof:name":"Ridak\u00fcla",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

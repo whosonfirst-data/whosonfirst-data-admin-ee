@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85682937,
+        1713305787
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":5024
@@ -47,7 +52,15 @@
     "wof:country":"EE",
     "wof:created":1595461195,
     "wof:geomhash":"a48c6e57aa6557ad052e314c563bda8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305787,
+            "localadmin_id":1713315355,
+            "region_id":85682937
+        }
+    ],
     "wof:id":1713315355,
     "wof:lang_x_official":[
         "est"
@@ -55,9 +68,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1595461195,
+    "wof:lastmodified":1596676845,
     "wof:name":"Muna",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

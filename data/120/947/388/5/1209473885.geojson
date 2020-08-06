@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682937,
+        102191581,
+        1713316189,
+        85633135,
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,8 +55,12 @@
     "wof:geomhash":"c7d0ec7b5e97e96593e12bdfad4d8b35",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209473885
+            "county_id":1713305633,
+            "localadmin_id":1713316189,
+            "locality_id":1209473885,
+            "region_id":85682937
         }
     ],
     "wof:id":1209473885,
@@ -62,9 +70,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485102,
+    "wof:lastmodified":1596660397,
     "wof:name":"Puusepa",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713316189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

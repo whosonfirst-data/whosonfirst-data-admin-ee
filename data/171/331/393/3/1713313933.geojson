@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683049,
+        1713305775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":2896
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460868,
     "wof:geomhash":"1f249291abd6c6934b1ae6eca04986d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305775,
+            "localadmin_id":1713313933,
+            "region_id":85683049
+        }
+    ],
     "wof:id":1713313933,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130430,
+    "wof:lastmodified":1596678033,
     "wof:name":"Kavastu",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -39,7 +39,12 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633135,
+        85683059,
+        1713305695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":9406
@@ -50,7 +55,15 @@
     "wof:country":"EE",
     "wof:created":1595460459,
     "wof:geomhash":"9e7b7dd0404004adbf75e9f1f717ed54",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305695,
+            "localadmin_id":1713311989,
+            "region_id":85683059
+        }
+    ],
     "wof:id":1713311989,
     "wof:lang_x_official":[
         "est"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596130393,
+    "wof:lastmodified":1596660795,
     "wof:name":"Virunurme",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683001,
+        102191581,
+        1713309239,
+        85633135,
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,12 @@
     "wof:geomhash":"1b242df4deb0febd48622e766cb10d7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209603279
+            "county_id":1713305721,
+            "localadmin_id":1713309239,
+            "locality_id":1209603279,
+            "region_id":85683001
         }
     ],
     "wof:id":1209603279,
@@ -58,9 +66,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485105,
+    "wof:lastmodified":1596661683,
     "wof:name":"Illuste",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713309239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

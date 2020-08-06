@@ -51,7 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683055,
+        102191581,
+        1713314515,
+        85633135,
+        1713305725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +65,12 @@
     "wof:geomhash":"ef79289ba0a047c43ea0850d2c959492",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209110195
+            "county_id":1713305725,
+            "localadmin_id":1713314515,
+            "locality_id":1209110195,
+            "region_id":85683055
         }
     ],
     "wof:id":1209110195,
@@ -72,9 +80,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485105,
+    "wof:lastmodified":1596661840,
     "wof:name":"Metsanurga",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713314515,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

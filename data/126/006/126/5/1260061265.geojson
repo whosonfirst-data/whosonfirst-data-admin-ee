@@ -60,9 +60,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713306791,
         85633135,
-        85682981
+        1713305733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,6 +76,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713306791,
             "locality_id":1260061265,
             "region_id":85682981
         }
@@ -85,9 +89,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485115,
+    "wof:lastmodified":1596663420,
     "wof:name":"Karu",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713306791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

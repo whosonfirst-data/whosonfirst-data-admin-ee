@@ -33,9 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713316101,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,6 +49,8 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713316101,
             "locality_id":1276505637,
             "region_id":85682937
         }
@@ -58,9 +62,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485091,
+    "wof:lastmodified":1596660389,
     "wof:name":"Maeepodra",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713316101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682937,
+        102191581,
+        1713315035,
+        85633135,
+        1713305787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,12 @@
     "wof:geomhash":"8ba933022c018f5c17ac3ca4b96afdbc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209172969
+            "county_id":1713305787,
+            "localadmin_id":1713315035,
+            "locality_id":1209172969,
+            "region_id":85682937
         }
     ],
     "wof:id":1209172969,
@@ -58,9 +66,9 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596485107,
+    "wof:lastmodified":1596676884,
     "wof:name":"Saksniidue",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713315035,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -70,7 +70,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1713316039,
         85633135,
+        1713305631,
         85682955
     ],
     "wof:breaches":[],
@@ -85,13 +87,15 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305631,
+            "localadmin_id":1713316039,
             "locality_id":-1,
             "neighbourhood_id":1126104483,
             "region_id":85682955
         }
     ],
     "wof:id":1126104483,
-    "wof:lastmodified":1596485136,
+    "wof:lastmodified":1596663710,
     "wof:name":"V\u00e4ike-R\u00f5sna",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
