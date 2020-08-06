@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Volla"
@@ -47,28 +47,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713312453,
         85633135,
-        85682981
+        1713305731
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":587485
     },
+    "wof:coterminous":[
+        1713312453
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"4a1ab3b0bcef4b29feaf97b709666fef",
+    "wof:geomhash":"18f4308546a2115b089375af8bab271b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305731,
+            "localadmin_id":1713312453,
             "locality_id":1276744515,
             "region_id":85682981
         }
     ],
     "wof:id":1276744515,
-    "wof:lastmodified":1566584993,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663390,
     "wof:name":"Volla",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713312453,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -77,9 +90,9 @@
 },
   "bbox": [
     24.69278,
-    58.50083000000001,
+    58.50083,
     24.69278,
-    58.50083000000001
+    58.50083
 ],
-  "geometry": {"coordinates":[24.69278,58.50083000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.69278,58.50083],"type":"Point"}
 }

@@ -84,9 +84,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306377,
         85633135,
-        85683055
+        1713305689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +97,9 @@
         "qs_pg:id":179643,
         "wd:id":"Q3498897"
     },
+    "wof:coterminous":[
+        1713306377
+    ],
     "wof:country":"EE",
     "wof:created":1497301531,
     "wof:geomhash":"f69c561d8a97f907a4feae54fc511f3d",
@@ -102,14 +107,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305689,
+            "localadmin_id":1713306377,
             "locality_id":1126031959,
             "region_id":85683055
         }
     ],
     "wof:id":1126031959,
-    "wof:lastmodified":1566585321,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661393,
     "wof:name":"Kallavere",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306377,
     "wof:placetype":"locality",
     "wof:population":135,
     "wof:population_rank":1,

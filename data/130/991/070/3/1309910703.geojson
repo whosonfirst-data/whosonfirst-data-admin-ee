@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "K\u00f5ola"
@@ -55,29 +55,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312033,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591159,
         "wk:page":"K%C3%B5ola"
     },
+    "wof:coterminous":[
+        1713312033
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"d9e52cbb07a03bd6485abbe695ad8b43",
+    "wof:geomhash":"997a6e015cb0f54fe6fd93950f847433",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312033,
             "locality_id":1309910703,
             "region_id":85683009
         }
     ],
     "wof:id":1309910703,
-    "wof:lastmodified":1566585251,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676577,
     "wof:name":"Koola",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -85,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.32444000000001,
-    58.81778000000001,
-    26.32444000000001,
-    58.81778000000001
+    26.32444,
+    58.81778,
+    26.32444,
+    58.81778
 ],
-  "geometry": {"coordinates":[26.32444000000001,58.81778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.32444,58.81778],"type":"Point"}
 }

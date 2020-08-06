@@ -70,9 +70,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713312593,
         85633135,
-        85682941
+        1713305687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,6 +82,9 @@
         "qs_pg:id":550152,
         "wd:id":"Q3389474"
     },
+    "wof:coterminous":[
+        1713312593
+    ],
     "wof:country":"EE",
     "wof:created":1497302389,
     "wof:geomhash":"1538cc11f3a8bb490791972d9f72cff6",
@@ -87,14 +92,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305687,
+            "localadmin_id":1713312593,
             "locality_id":1126045157,
             "region_id":85682941
         }
     ],
     "wof:id":1126045157,
-    "wof:lastmodified":1566585319,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661440,
     "wof:name":"Karjatnurme",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713312593,
     "wof:placetype":"locality",
     "wof:population":130,
     "wof:population_rank":1,

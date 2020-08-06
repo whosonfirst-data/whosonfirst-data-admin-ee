@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u043e\u043b\u0434\u0440\u0435"
@@ -68,29 +68,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713310343,
         85633135,
-        85682941
+        1713305687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592104,
         "wk:page":"Holdre"
     },
+    "wof:coterminous":[
+        1713310343
+    ],
     "wof:country":"EE",
     "wof:geomhash":"512314f2b4aa85322187a4a2ce2e516a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305687,
+            "localadmin_id":1713310343,
             "locality_id":1226607595,
             "region_id":85682941
         }
     ],
     "wof:id":1226607595,
-    "wof:lastmodified":1566585542,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661433,
     "wof:name":"Holdre",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713310343,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

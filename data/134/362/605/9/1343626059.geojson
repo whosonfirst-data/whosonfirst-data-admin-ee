@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Pille"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713315873,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589436,
         "wk:page":"Pille"
     },
+    "wof:coterminous":[
+        1713315873
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"b1b6f8913e458ceac538b81af72c954c",
+    "wof:geomhash":"873ee593862d9171a64476ac0ca27f1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713315873,
             "locality_id":1343626059,
             "region_id":85682937
         }
     ],
     "wof:id":1343626059,
-    "wof:lastmodified":1566584825,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660398,
     "wof:name":"Pille",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713315873,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -82,9 +95,9 @@
 },
   "bbox": [
     27.10556,
-    57.92778000000001,
+    57.92778,
     27.10556,
-    57.92778000000001
+    57.92778
 ],
-  "geometry": {"coordinates":[27.10556,57.92778000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.10556,57.92778],"type":"Point"}
 }

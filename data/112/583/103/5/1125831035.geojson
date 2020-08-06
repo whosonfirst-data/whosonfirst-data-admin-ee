@@ -76,9 +76,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713314659,
         85633135,
-        85683055
+        1713305685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,6 +88,9 @@
         "qs_pg:id":81111,
         "wd:id":"Q1020190"
     },
+    "wof:coterminous":[
+        1713314659
+    ],
     "wof:country":"EE",
     "wof:created":1497292499,
     "wof:geomhash":"8342d9669d8761f6fd070c50bce590f7",
@@ -93,14 +98,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305685,
+            "localadmin_id":1713314659,
             "locality_id":1125831035,
             "region_id":85683055
         }
     ],
     "wof:id":1125831035,
-    "wof:lastmodified":1566585386,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661505,
     "wof:name":"Kurtna",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713314659,
     "wof:placetype":"locality",
     "wof:population":331,
     "wof:population_rank":2,

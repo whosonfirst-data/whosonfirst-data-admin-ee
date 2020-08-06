@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vaibla Metsnik",
@@ -38,28 +38,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713313867,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":587939
     },
+    "wof:coterminous":[
+        1713313867
+    ],
     "wof:country":"EE",
     "wof:geomhash":"ff2b8c4e2e9d4a0ca9ede2bb92dcbe1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713313867,
             "locality_id":1260145117,
             "region_id":85682985
         }
     ],
     "wof:id":1260145117,
-    "wof:lastmodified":1566585133,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661249,
     "wof:name":"Vaibla",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713313867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

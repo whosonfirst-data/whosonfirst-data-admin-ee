@@ -67,9 +67,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713312935,
         85633135,
-        85682981
+        1713305703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +80,9 @@
         "qs_pg:id":1274520,
         "wd:id":"Q2025536"
     },
+    "wof:coterminous":[
+        1713312935
+    ],
     "wof:country":"EE",
     "wof:created":1497296977,
     "wof:geomhash":"9ec78632533af02bac9f286ae65c4c66",
@@ -85,14 +90,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305703,
+            "localadmin_id":1713312935,
             "locality_id":1125936257,
             "region_id":85682981
         }
     ],
     "wof:id":1125936257,
-    "wof:lastmodified":1566585287,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677711,
     "wof:name":"Soeva",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713312935,
     "wof:placetype":"locality",
     "wof:population":93,
     "wof:population_rank":1,

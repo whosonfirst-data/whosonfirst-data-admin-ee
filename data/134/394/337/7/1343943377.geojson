@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Aaviku"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713308271,
         85633135,
-        85683049
+        1713305775
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793478,
         "wk:page":"Aaviku%2C_L%C3%A4%C3%A4ne-Viru_County"
     },
+    "wof:coterminous":[
+        1713308271
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"554daf508b9ba62af76d59ebe2afb0bb",
+    "wof:geomhash":"f752d0dcde7200a0d177acc007ad1b1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305775,
+            "localadmin_id":1713308271,
             "locality_id":1343943377,
             "region_id":85683049
         }
     ],
     "wof:id":1343943377,
-    "wof:lastmodified":1566584870,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596678045,
     "wof:name":"Aaviku",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713308271,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -82,9 +95,9 @@
 },
   "bbox": [
     26.28722,
-    59.48833000000001,
+    59.48833,
     26.28722,
-    59.48833000000001
+    59.48833
 ],
-  "geometry": {"coordinates":[26.28722,59.48833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.28722,59.48833],"type":"Point"}
 }

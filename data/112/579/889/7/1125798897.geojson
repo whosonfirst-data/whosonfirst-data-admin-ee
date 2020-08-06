@@ -78,9 +78,11 @@
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713308433,
         85633135,
-        85683049
+        1713305775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,6 +91,9 @@
         "qs_pg:id":180156,
         "wd:id":"Q3463120"
     },
+    "wof:coterminous":[
+        1713308433
+    ],
     "wof:country":"EE",
     "wof:created":1497291173,
     "wof:geomhash":"19e8947883313bf45e5a2010794d88ef",
@@ -96,14 +101,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305775,
+            "localadmin_id":1713308433,
             "locality_id":1125798897,
             "region_id":85683049
         }
     ],
     "wof:id":1125798897,
-    "wof:lastmodified":1566585384,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596678043,
     "wof:name":"V\u00f5supere",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713308433,
     "wof:placetype":"locality",
     "wof:population":138,
     "wof:population_rank":1,

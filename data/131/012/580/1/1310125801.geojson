@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Raja",
@@ -38,28 +38,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713307619,
         85633135,
-        85683049
+        1713305771
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589172
     },
+    "wof:coterminous":[
+        1713307619
+    ],
     "wof:country":"EE",
     "wof:geomhash":"68914946b091b0929b38748127de23e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305771,
+            "localadmin_id":1713307619,
             "locality_id":1310125801,
             "region_id":85683049
         }
     ],
     "wof:id":1310125801,
-    "wof:lastmodified":1566585158,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677963,
     "wof:name":"Rajakuela",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713307619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

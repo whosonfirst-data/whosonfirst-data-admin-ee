@@ -81,9 +81,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309205,
         85633135,
-        85682981
+        1713305741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,9 @@
         "qs_pg:id":940406,
         "wd:id":"Q3466758"
     },
+    "wof:coterminous":[
+        1713309205
+    ],
     "wof:country":"EE",
     "wof:created":1497300650,
     "wof:geomhash":"d3b45eecf57a24735a2f6474b2c2cde4",
@@ -99,14 +104,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305741,
+            "localadmin_id":1713309205,
             "locality_id":1126017697,
             "region_id":85682981
         }
     ],
     "wof:id":1126017697,
-    "wof:lastmodified":1566585363,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663209,
     "wof:name":"Metsapoole",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309205,
     "wof:placetype":"locality",
     "wof:population":150,
     "wof:population_rank":1,

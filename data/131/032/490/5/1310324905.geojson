@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u00f5isamaa",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713314653,
         85633135,
-        85683049
+        1713305769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619612
     },
     "wof:country":"EE",
-    "wof:geomhash":"9709248dc04040286659cc31a1cb1b92",
+    "wof:geomhash":"e22de759bdf90197e7b2e4ac8f745a30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305769,
+            "localadmin_id":1713314653,
             "locality_id":1310324905,
             "region_id":85683049
         }
     ],
     "wof:id":1310324905,
-    "wof:lastmodified":1566585197,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676541,
     "wof:name":"Moisamaa",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713314653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     26.20833,
-    59.12028000000001,
+    59.12028,
     26.20833,
-    59.12028000000001
+    59.12028
 ],
-  "geometry": {"coordinates":[26.20833,59.12028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.20833,59.12028],"type":"Point"}
 }

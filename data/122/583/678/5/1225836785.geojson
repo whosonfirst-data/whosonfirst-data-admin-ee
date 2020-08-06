@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "N\u00f5mmemaa"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713308917,
         85633135,
-        85683001
+        1713305701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794909,
         "wk:page":"N%C3%B5mmemaa"
     },
+    "wof:coterminous":[
+        1713308917
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"a6603151cac71dae729c18db673f57a7",
+    "wof:geomhash":"a9f11fc87db2c88daf3d146d55433909",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305701,
+            "localadmin_id":1713308917,
             "locality_id":1225836785,
             "region_id":85683001
         }
     ],
     "wof:id":1225836785,
-    "wof:lastmodified":1566585587,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677427,
     "wof:name":"Nommemaa",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713308917,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -88,9 +101,9 @@
 },
   "bbox": [
     23.75194,
-    59.15528000000001,
+    59.15528,
     23.75194,
-    59.15528000000001
+    59.15528
 ],
-  "geometry": {"coordinates":[23.75194,59.15528000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.75194,59.15528],"type":"Point"}
 }

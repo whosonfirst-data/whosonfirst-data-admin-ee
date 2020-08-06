@@ -87,9 +87,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713307791,
         85633135,
-        85683055
+        1713305739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +100,9 @@
         "qs_pg:id":915620,
         "wd:id":"Q3455944"
     },
+    "wof:coterminous":[
+        1713307791
+    ],
     "wof:country":"EE",
     "wof:created":1497293468,
     "wof:geomhash":"f5e909834a477ab84a77b85f4398e28b",
@@ -105,14 +110,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305739,
+            "localadmin_id":1713307791,
             "locality_id":1125852281,
             "region_id":85683055
         }
     ],
     "wof:id":1125852281,
-    "wof:lastmodified":1566585379,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663241,
     "wof:name":"Alliku",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713307791,
     "wof:placetype":"locality",
     "wof:population":220,
     "wof:population_rank":2,

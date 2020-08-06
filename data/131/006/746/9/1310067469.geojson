@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "V\u00f5lli"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713311493,
         85633135,
-        85682985
+        1713305735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793855,
         "wk:page":"V%C3%B5lli%2C_Viljandi_County"
     },
+    "wof:coterminous":[
+        1713311493
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"c257dc76a5c3baa0d74d6ab007f396bd",
+    "wof:geomhash":"8db6205fee7f07b5548afbf3178ba7af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305735,
+            "localadmin_id":1713311493,
             "locality_id":1310067469,
             "region_id":85682985
         }
     ],
     "wof:id":1310067469,
-    "wof:lastmodified":1566585183,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663458,
     "wof:name":"Volli",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713311493,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -82,9 +95,9 @@
 },
   "bbox": [
     25.34361,
-    58.50944000000001,
+    58.50944,
     25.34361,
-    58.50944000000001
+    58.50944
 ],
-  "geometry": {"coordinates":[25.34361,58.50944000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.34361,58.50944],"type":"Point"}
 }

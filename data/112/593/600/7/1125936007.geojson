@@ -85,9 +85,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713313457,
         85633135,
-        85682955
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,6 +98,9 @@
         "qs_pg:id":1274462,
         "wd:id":"Q3464416"
     },
+    "wof:coterminous":[
+        1713313457
+    ],
     "wof:country":"EE",
     "wof:created":1497296970,
     "wof:geomhash":"dbe7071015079d9c95edee879640aef2",
@@ -103,14 +108,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305793,
+            "localadmin_id":1713313457,
             "locality_id":1125936007,
             "region_id":85682955
         }
     ],
     "wof:id":1125936007,
-    "wof:lastmodified":1566585291,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677004,
     "wof:name":"Ruusa",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713313457,
     "wof:placetype":"locality",
     "wof:population":217,
     "wof:population_rank":2,

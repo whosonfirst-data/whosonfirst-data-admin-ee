@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Allikotsa"
@@ -60,29 +60,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713309131,
         85633135,
-        85683001
+        1713305701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592532,
         "wk:page":"Allikotsa"
     },
+    "wof:coterminous":[
+        1713309131
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"b8c84446994b4ab58ece5bef56cceaf3",
+    "wof:geomhash":"5986f068f49c8d0078d250e56bd88efb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305701,
+            "localadmin_id":1713309131,
             "locality_id":1293095505,
             "region_id":85683001
         }
     ],
     "wof:id":1293095505,
-    "wof:lastmodified":1566584916,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677433,
     "wof:name":"Allikotsa",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713309131,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -90,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.92222000000001,
+    23.92222,
     58.76444,
-    23.92222000000001,
+    23.92222,
     58.76444
 ],
-  "geometry": {"coordinates":[23.92222000000001,58.76444],"type":"Point"}
+  "geometry": {"coordinates":[23.92222,58.76444],"type":"Point"}
 }

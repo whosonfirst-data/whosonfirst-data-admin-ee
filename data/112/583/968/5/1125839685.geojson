@@ -81,9 +81,11 @@
     "woe:name_adm1":"J\u00f5gevamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312185,
         85633135,
-        85683009
+        1713305657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,9 @@
         "qs_pg:id":179919,
         "wd:id":"Q3465378"
     },
+    "wof:coterminous":[
+        1713312185
+    ],
     "wof:country":"EE",
     "wof:created":1497292877,
     "wof:geomhash":"64cde29f5dfd9090c5871becc579f255",
@@ -99,14 +104,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305657,
+            "localadmin_id":1713312185,
             "locality_id":1125839685,
             "region_id":85683009
         }
     ],
     "wof:id":1125839685,
-    "wof:lastmodified":1566585387,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676498,
     "wof:name":"Pajusi",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312185,
     "wof:placetype":"locality",
     "wof:population":124,
     "wof:population_rank":1,

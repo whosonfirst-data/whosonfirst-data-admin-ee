@@ -29,32 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713315577,
         85633135,
-        85682937
+        1713305631
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620131
     },
+    "wof:coterminous":[
+        1713315577
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"4b4c922863a9fe39380d2dfa023f3dda",
+    "wof:geomhash":"1bb726cf0e3b955fa51ef96bf3827e99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305631,
+            "localadmin_id":1713315577,
             "locality_id":1327108585,
-            "region_id":85682937
+            "region_id":85682955
         }
     ],
     "wof:id":1327108585,
-    "wof:lastmodified":1566584817,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663708,
     "wof:name":"Vaaksaaro",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713315577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +76,9 @@
 },
   "bbox": [
     27.41667,
-    57.71666999999999,
+    57.71667,
     27.41667,
-    57.71666999999999
+    57.71667
 ],
-  "geometry": {"coordinates":[27.41667,57.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.41667,57.71667],"type":"Point"}
 }

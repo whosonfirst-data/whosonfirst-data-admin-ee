@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sur-Enniste",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713308771,
         85633135,
-        85683001
+        1713305701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592462
     },
     "wof:country":"EE",
-    "wof:geomhash":"1135e17b2ae2e96fc87c8aabcf90a4a0",
+    "wof:geomhash":"b46ee3e05b3e4414754b694f3d4deecd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305701,
+            "localadmin_id":1713308771,
             "locality_id":1259480033,
             "region_id":85683001
         }
     ],
     "wof:id":1259480033,
-    "wof:lastmodified":1566585476,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677427,
     "wof:name":"AEnniste",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713308771,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +78,9 @@
 },
   "bbox": [
     23.77278,
-    59.03778000000001,
+    59.03778,
     23.77278,
-    59.03778000000001
+    59.03778
 ],
-  "geometry": {"coordinates":[23.77278,59.03778000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.77278,59.03778],"type":"Point"}
 }

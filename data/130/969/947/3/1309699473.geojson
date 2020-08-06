@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aroj\u00e4rve",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713314257,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620818
     },
     "wof:country":"EE",
-    "wof:geomhash":"46687f121bffc30216378581aff6c75c",
+    "wof:geomhash":"f97c4de61f33829e435c908c39f2b6aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713314257,
             "locality_id":1309699473,
             "region_id":85682955
         }
     ],
     "wof:id":1309699473,
-    "wof:lastmodified":1566585264,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676963,
     "wof:name":"Arojaerve",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713314257,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     27.29528,
-    58.20721999999999,
+    58.20722,
     27.29528,
-    58.20721999999999
+    58.20722
 ],
-  "geometry": {"coordinates":[27.29528,58.20721999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.29528,58.20722],"type":"Point"}
 }

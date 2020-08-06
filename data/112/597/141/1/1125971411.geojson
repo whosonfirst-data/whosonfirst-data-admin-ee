@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -115,9 +115,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310919,
         85633135,
-        85682995
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,6 +127,9 @@
         "gp:id":843971,
         "qs_pg:id":406008
     },
+    "wof:coterminous":[
+        1713310919
+    ],
     "wof:country":"EE",
     "wof:created":1497298183,
     "wof:geomhash":"daec9a55d87805230457b46de497ab36",
@@ -132,14 +137,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305793,
+            "localadmin_id":1713310919,
             "locality_id":1125971411,
-            "region_id":85682995
+            "region_id":85682955
         }
     ],
     "wof:id":1125971411,
-    "wof:lastmodified":1566585355,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677002,
     "wof:name":"Meeksi",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713310919,
     "wof:placetype":"locality",
     "wof:population":129,
     "wof:population_rank":1,

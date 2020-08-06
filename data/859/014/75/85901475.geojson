@@ -19,7 +19,7 @@
     "mps:latitude":59.316778,
     "mps:longitude":24.554378,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -95,9 +95,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713308117,
         85633135,
-        85683055
+        101816177,
+        1713305739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +117,9 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":-1,
+            "county_id":1713305739,
+            "localadmin_id":1713308117,
+            "locality_id":101816177,
             "neighbourhood_id":85901475,
             "region_id":85683055
         }
@@ -123,9 +128,9 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582352208,
+    "wof:lastmodified":1596663275,
     "wof:name":"M\u00e4ek\u00fcla",
-    "wof:parent_id":-1,
+    "wof:parent_id":101816177,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

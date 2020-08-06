@@ -76,9 +76,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306057,
         85633135,
-        85683045
+        1713305625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,6 +89,9 @@
         "qs_pg:id":1034183,
         "wd:id":"Q2380284"
     },
+    "wof:coterminous":[
+        1713306057
+    ],
     "wof:country":"EE",
     "wof:created":1497295392,
     "wof:geomhash":"e4f64170c98e467de5de0a1d96224d90",
@@ -94,14 +99,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305625,
+            "localadmin_id":1713306057,
             "locality_id":1125892615,
-            "region_id":85683045
+            "region_id":85683055
         }
     ],
     "wof:id":1125892615,
-    "wof:lastmodified":1566585339,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676119,
     "wof:name":"Kelnase",
-    "wof:parent_id":85683045,
+    "wof:parent_id":1713306057,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

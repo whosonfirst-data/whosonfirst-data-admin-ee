@@ -79,9 +79,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713310043,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":1274321,
         "wd:id":"Q3465205"
     },
+    "wof:coterminous":[
+        1713310043
+    ],
     "wof:country":"EE",
     "wof:created":1497296946,
     "wof:geomhash":"10b91157ccaf0431770bef3e689b38ce",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713310043,
             "locality_id":1125935257,
             "region_id":85682985
         }
     ],
     "wof:id":1125935257,
-    "wof:lastmodified":1566585292,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661271,
     "wof:name":"Peetrim\u00f5isa",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713310043,
     "wof:placetype":"locality",
     "wof:population":187,
     "wof:population_rank":1,

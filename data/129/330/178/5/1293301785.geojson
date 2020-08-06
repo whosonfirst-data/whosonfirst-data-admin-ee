@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u00e4ettse",
@@ -37,28 +37,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682989,
         102191581,
+        1713310145,
         85633135,
-        85682989
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590457
     },
+    "wof:coterminous":[
+        1713310145
+    ],
     "wof:country":"EE",
     "wof:geomhash":"ee28210dab43eb814bc1dd07fabe1f3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310145,
             "locality_id":1293301785,
             "region_id":85682989
         }
     ],
     "wof:id":1293301785,
-    "wof:lastmodified":1566584919,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596670019,
     "wof:name":"Maeaeltse",
-    "wof:parent_id":85682989,
+    "wof:parent_id":1713310145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

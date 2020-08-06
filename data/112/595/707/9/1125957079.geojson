@@ -79,9 +79,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713311549,
         85633135,
-        85682985
+        1713305661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":406362,
         "wd:id":"Q7633872"
     },
+    "wof:coterminous":[
+        1713311549
+    ],
     "wof:country":"EE",
     "wof:created":1497297653,
     "wof:geomhash":"ce6bcd3e43fea0a122ac3219ed33f9b6",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305661,
+            "localadmin_id":1713311549,
             "locality_id":1125957079,
             "region_id":85682985
         }
     ],
     "wof:id":1125957079,
-    "wof:lastmodified":1566585297,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661307,
     "wof:name":"Sudiste",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713311549,
     "wof:placetype":"locality",
     "wof:population":140,
     "wof:population_rank":1,

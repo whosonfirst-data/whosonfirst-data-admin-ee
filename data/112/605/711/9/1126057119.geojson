@@ -84,9 +84,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713313655,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +97,9 @@
         "qs_pg:id":915814,
         "wd:id":"Q12368969"
     },
+    "wof:coterminous":[
+        1713313655
+    ],
     "wof:country":"EE",
     "wof:created":1497303348,
     "wof:geomhash":"45dfd219075d4c23b5c6aed51085ca9f",
@@ -102,14 +107,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713313655,
             "locality_id":1126057119,
             "region_id":85682985
         }
     ],
     "wof:id":1126057119,
-    "wof:lastmodified":1566585316,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661272,
     "wof:name":"Loodi",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713313655,
     "wof:placetype":"locality",
     "wof:population":153,
     "wof:population_rank":1,

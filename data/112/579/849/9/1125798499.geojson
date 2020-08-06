@@ -79,9 +79,11 @@
     "woe:name_adm1":"Valgamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713310723,
         85633135,
-        85682941
+        1713305753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":1273734,
         "wd:id":"Q2743191"
     },
+    "wof:coterminous":[
+        1713310723
+    ],
     "wof:country":"EE",
     "wof:created":1497291156,
     "wof:geomhash":"4223cf603b0dbe05e5b86599b37daecd",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305753,
+            "localadmin_id":1713310723,
             "locality_id":1125798499,
             "region_id":85682941
         }
     ],
     "wof:id":1125798499,
-    "wof:lastmodified":1566585385,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661950,
     "wof:name":"Kaagj\u00e4rve",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713310723,
     "wof:placetype":"locality",
     "wof:population":317,
     "wof:population_rank":2,

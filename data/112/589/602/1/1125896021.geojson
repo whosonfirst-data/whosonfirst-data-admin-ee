@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.875294,58.8177355,22.875294,58.8177355",
+    "geom:bbox":"22.875294,58.817735,22.875294,58.817735",
     "geom:latitude":58.817735,
     "geom:longitude":22.875294,
     "gn:country":null,
@@ -17,7 +17,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"EE",
@@ -44,9 +44,11 @@
     "woe:name_adm1":"Hiiumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682989,
         102191581,
+        1713308827,
         85633135,
-        85682989
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,19 +57,27 @@
     },
     "wof:country":"EE",
     "wof:created":1497295569,
-    "wof:geomhash":"b1a0584ca3ed7c5c82cb57b4a02221c3",
+    "wof:geomhash":"f0572c462776e2e6d8fe8227e3d0b242",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713308827,
             "locality_id":1125896021,
             "region_id":85682989
         }
     ],
     "wof:id":1125896021,
-    "wof:lastmodified":1566585339,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596670022,
     "wof:name":"Kiisi",
-    "wof:parent_id":85682989,
+    "wof:parent_id":1713308827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -76,9 +86,9 @@
 },
   "bbox": [
     22.875294,
-    58.8177355,
+    58.817735,
     22.875294,
-    58.8177355
+    58.817735
 ],
-  "geometry": {"coordinates":[22.875294,58.8177355],"type":"Point"}
+  "geometry": {"coordinates":[22.875294,58.817735],"type":"Point"}
 }

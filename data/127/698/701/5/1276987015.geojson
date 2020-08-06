@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kahala"
@@ -73,28 +73,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713312723,
         85633135,
-        85683031
+        1713305773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591769
     },
+    "wof:coterminous":[
+        1713312723
+    ],
     "wof:country":"EE",
     "wof:geomhash":"57d787402a149bca64e9263c84d3ab1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305773,
+            "localadmin_id":1713312723,
             "locality_id":1276987015,
             "region_id":85683031
         }
     ],
     "wof:id":1276987015,
-    "wof:lastmodified":1566585039,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677993,
     "wof:name":"Kahala",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713312723,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

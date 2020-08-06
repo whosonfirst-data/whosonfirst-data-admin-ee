@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ryasna",
@@ -38,28 +38,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713315179,
         85633135,
-        85683049
+        1713305761
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589108
     },
+    "wof:coterminous":[
+        1713315179
+    ],
     "wof:country":"EE",
     "wof:geomhash":"bf11a18fa15fe3149fd32032860e5b9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305761,
+            "localadmin_id":1713315179,
             "locality_id":1327125073,
             "region_id":85683049
         }
     ],
     "wof:id":1327125073,
-    "wof:lastmodified":1566584785,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676608,
     "wof:name":"Raesna",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713315179,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Aru"
@@ -72,28 +72,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713308799,
         85633135,
-        85682981
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592408
     },
     "wof:country":"EE",
-    "wof:geomhash":"8baa5e223bb081335a635a514e32e464",
+    "wof:geomhash":"90ab1f869d65aed9fe447468e6c79055",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713308799,
             "locality_id":1260169415,
-            "region_id":85682981
+            "region_id":85683001
         }
     ],
     "wof:id":1260169415,
-    "wof:lastmodified":1566585148,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661680,
     "wof:name":"Aru",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713308799,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -102,9 +112,9 @@
 },
   "bbox": [
     23.77639,
-    58.40528000000001,
+    58.40528,
     23.77639,
-    58.40528000000001
+    58.40528
 ],
-  "geometry": {"coordinates":[23.77639,58.40528000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.77639,58.40528],"type":"Point"}
 }

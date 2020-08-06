@@ -29,35 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u041a\u0430\u0440\u043e\u0441\u043e\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713312141,
         85633135,
-        85683059
+        1713305677
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618501
     },
     "wof:country":"EE",
-    "wof:geomhash":"44ddee8e80a6071c980399a0bcebfebc",
+    "wof:geomhash":"7c09d7787e26d2a94b9949de4d395c43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305677,
+            "localadmin_id":1713312141,
             "locality_id":1259987011,
             "region_id":85683059
         }
     ],
     "wof:id":1259987011,
-    "wof:lastmodified":1566585468,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661037,
     "wof:name":"Karusoo",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713312141,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -66,9 +76,9 @@
 },
   "bbox": [
     26.93889,
-    58.91278000000001,
+    58.91278,
     26.93889,
-    58.91278000000001
+    58.91278
 ],
-  "geometry": {"coordinates":[26.93889,58.91278000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.93889,58.91278],"type":"Point"}
 }

@@ -73,9 +73,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713312445,
         85633135,
-        85682981
+        1713305731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,6 +86,9 @@
         "qs_pg:id":406047,
         "wd:id":"Q3455659"
     },
+    "wof:coterminous":[
+        1713312445
+    ],
     "wof:country":"EE",
     "wof:created":1497297629,
     "wof:geomhash":"027498b1991cafe121287eadae3d03b6",
@@ -91,14 +96,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305731,
+            "localadmin_id":1713312445,
             "locality_id":1125956275,
             "region_id":85682981
         }
     ],
     "wof:id":1125956275,
-    "wof:lastmodified":1566585298,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663388,
     "wof:name":"Muraka",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713312445,
     "wof:placetype":"locality",
     "wof:population":94,
     "wof:population_rank":1,

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Saunak\u00fcla",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713313975,
         85633135,
-        85683049
+        1713305761
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618451
     },
     "wof:country":"EE",
-    "wof:geomhash":"f48aba2106c6e16fe59ded363f9a5991",
+    "wof:geomhash":"f77f710383b83c5263f27ade37de8b41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305761,
+            "localadmin_id":1713313975,
             "locality_id":1326627401,
             "region_id":85683049
         }
     ],
     "wof:id":1326627401,
-    "wof:lastmodified":1566584810,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676604,
     "wof:name":"Saunakuela",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713313975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.10222000000001,
+    26.10222,
     59.23556,
-    26.10222000000001,
+    26.10222,
     59.23556
 ],
-  "geometry": {"coordinates":[26.10222000000001,59.23556],"type":"Point"}
+  "geometry": {"coordinates":[26.10222,59.23556],"type":"Point"}
 }

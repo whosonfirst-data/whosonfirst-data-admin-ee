@@ -78,9 +78,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713312399,
         85633135,
-        85682981
+        1713305731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,6 +91,9 @@
         "qs_pg:id":423526,
         "wd:id":"Q2028420"
     },
+    "wof:coterminous":[
+        1713312399
+    ],
     "wof:country":"EE",
     "wof:created":1497296940,
     "wof:geomhash":"5e284c34201d8eaa8739eb4c06ad9e11",
@@ -96,14 +101,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305731,
+            "localadmin_id":1713312399,
             "locality_id":1125935061,
             "region_id":85682981
         }
     ],
     "wof:id":1125935061,
-    "wof:lastmodified":1566585285,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663392,
     "wof:name":"Pulli",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713312399,
     "wof:placetype":"locality",
     "wof:population":152,
     "wof:population_rank":1,

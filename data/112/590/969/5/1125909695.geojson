@@ -207,9 +207,11 @@
     "woe:name_adm1":"L\u00e4\u00e4nemaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713307217,
         85633135,
-        85682993
+        1713305639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -218,6 +220,9 @@
         "qs_pg:id":1284455,
         "wd:id":"Q3451126"
     },
+    "wof:coterminous":[
+        1713307217
+    ],
     "wof:country":"EE",
     "wof:created":1497296100,
     "wof:geomhash":"acf179f5c3c1e3386d591faa7bc18b5b",
@@ -225,14 +230,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305639,
+            "localadmin_id":1713307217,
             "locality_id":1125909695,
-            "region_id":85682993
+            "region_id":85683001
         }
     ],
     "wof:id":1125909695,
-    "wof:lastmodified":1566585351,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663600,
     "wof:name":"Hullo",
-    "wof:parent_id":85682993,
+    "wof:parent_id":1713307217,
     "wof:placetype":"locality",
     "wof:population":104,
     "wof:population_rank":1,

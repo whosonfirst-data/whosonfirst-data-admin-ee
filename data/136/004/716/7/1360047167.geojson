@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Ivaski"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713311719,
         85633135,
-        85682985
+        1713305735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793860,
         "wk:page":"Ivaski"
     },
+    "wof:coterminous":[
+        1713311719
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"fb2bef394001772b7b6efdf3e7d885ac",
+    "wof:geomhash":"1b005c2d26bed91c5c926c4ed5128560",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305735,
+            "localadmin_id":1713311719,
             "locality_id":1360047167,
             "region_id":85682985
         }
     ],
     "wof:id":1360047167,
-    "wof:lastmodified":1566585229,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663452,
     "wof:name":"Ivaski",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713311719,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -82,9 +95,9 @@
 },
   "bbox": [
     25.37694,
-    58.42583000000001,
+    58.42583,
     25.37694,
-    58.42583000000001
+    58.42583
 ],
-  "geometry": {"coordinates":[25.37694,58.42583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.37694,58.42583],"type":"Point"}
 }

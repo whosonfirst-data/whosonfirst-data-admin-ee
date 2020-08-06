@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u00f5rja",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713314105,
         85633135,
-        85682941
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620321
     },
     "wof:country":"EE",
-    "wof:geomhash":"ece959dded112907e09b76195a468b69",
+    "wof:geomhash":"f1de1b66c45c67117481a38b33674cdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713314105,
             "locality_id":1260351507,
-            "region_id":85682941
+            "region_id":85682995
         }
     ],
     "wof:id":1260351507,
-    "wof:lastmodified":1566585153,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661908,
     "wof:name":"Porja",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713314105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     26.08111,
-    58.06166999999999,
+    58.06167,
     26.08111,
-    58.06166999999999
+    58.06167
 ],
-  "geometry": {"coordinates":[26.08111,58.06166999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.08111,58.06167],"type":"Point"}
 }

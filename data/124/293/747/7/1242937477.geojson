@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tsopak\u00fcl\u00e4",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713315921,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619935
     },
     "wof:country":"EE",
-    "wof:geomhash":"7963cf42c889cfd4c9f5096da1cd84d4",
+    "wof:geomhash":"3a94bc2b7d1065dc9adfad7266d7f8ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713315921,
             "locality_id":1242937477,
             "region_id":85682937
         }
     ],
     "wof:id":1242937477,
-    "wof:lastmodified":1566585413,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660403,
     "wof:name":"Tsopa",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713315921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     26.95833,
-    57.87694000000001,
+    57.87694,
     26.95833,
-    57.87694000000001
+    57.87694
 ],
-  "geometry": {"coordinates":[26.95833,57.87694000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.95833,57.87694],"type":"Point"}
 }

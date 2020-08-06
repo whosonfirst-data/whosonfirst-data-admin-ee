@@ -73,9 +73,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713311021,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,6 +86,9 @@
         "qs_pg:id":994398,
         "wd:id":"Q3462496"
     },
+    "wof:coterminous":[
+        1713311021
+    ],
     "wof:country":"EE",
     "wof:created":1497298704,
     "wof:geomhash":"e044472eaca277571ab7745114320e82",
@@ -91,14 +96,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713311021,
             "locality_id":1125983869,
             "region_id":85682955
         }
     ],
     "wof:id":1125983869,
-    "wof:lastmodified":1566585359,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676972,
     "wof:name":"Valgesoo",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713311021,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

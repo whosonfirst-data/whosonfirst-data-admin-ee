@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mustm\u00e4tta"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713311913,
         85633135,
-        85683059
+        1713305695
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793437,
         "wk:page":"Mustm%C3%A4tta"
     },
+    "wof:coterminous":[
+        1713311913
+    ],
     "wof:country":"EE",
     "wof:geomhash":"c1973ab3e7ce1bc44a0530ad1ed18241",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305695,
+            "localadmin_id":1713311913,
             "locality_id":1242785309,
             "region_id":85683059
         }
     ],
     "wof:id":1242785309,
-    "wof:lastmodified":1566585445,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660797,
     "wof:name":"Mustmaetta",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713311913,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

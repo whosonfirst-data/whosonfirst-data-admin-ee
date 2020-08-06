@@ -80,9 +80,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713312767,
         85633135,
-        85683055
+        1713305689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,6 +93,9 @@
         "qs_pg:id":1349523,
         "wd:id":"Q2261691"
     },
+    "wof:coterminous":[
+        1713312767
+    ],
     "wof:country":"EE",
     "wof:created":1497300137,
     "wof:geomhash":"0db814e4e09393ee029b55ffc9a67814",
@@ -98,14 +103,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305689,
+            "localadmin_id":1713312767,
             "locality_id":1126008731,
             "region_id":85683055
         }
     ],
     "wof:id":1126008731,
-    "wof:lastmodified":1566585366,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661395,
     "wof:name":"Kaberneeme",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713312767,
     "wof:placetype":"locality",
     "wof:population":99,
     "wof:population_rank":1,

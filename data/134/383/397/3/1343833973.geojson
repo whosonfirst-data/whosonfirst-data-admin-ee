@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kavandu"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713308893,
         85633135,
-        85682995
+        1713305717
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591493,
         "wk:page":"Kavandu"
     },
+    "wof:coterminous":[
+        1713309143
+    ],
     "wof:country":"EE",
     "wof:geomhash":"f4fe06c158bc12f20f10d335418696a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305717,
+            "localadmin_id":1713308893,
             "locality_id":1343833973,
             "region_id":85682995
         }
     ],
     "wof:id":1343833973,
-    "wof:lastmodified":1566584850,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676690,
     "wof:name":"Kavandu",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713308893,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

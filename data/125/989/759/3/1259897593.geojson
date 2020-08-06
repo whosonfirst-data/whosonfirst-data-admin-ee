@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kautjala"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713305881,
         85633135,
-        85683055
+        1713305683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794980,
         "wk:page":"Kautjala"
     },
+    "wof:coterminous":[
+        1713305881
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"033336fd4da3a9e5d87b28f9156e9f30",
+    "wof:geomhash":"f948b73ee69abc1e21e6d81f346e1ab4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305683,
+            "localadmin_id":1713305881,
             "locality_id":1259897593,
             "region_id":85683055
         }
     ],
     "wof:id":1259897593,
-    "wof:lastmodified":1566585506,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661484,
     "wof:name":"Kautjala",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713305881,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -85,9 +98,9 @@
 },
   "bbox": [
     24.94858,
-    59.33878000000001,
+    59.33878,
     24.94858,
-    59.33878000000001
+    59.33878
 ],
-  "geometry": {"coordinates":[24.94858,59.33878000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.94858,59.33878],"type":"Point"}
 }

@@ -81,9 +81,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713310139,
         85633135,
-        85682995
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,9 @@
         "qs_pg:id":111032,
         "wd:id":"Q3468300"
     },
+    "wof:coterminous":[
+        1713310139
+    ],
     "wof:country":"EE",
     "wof:created":1497300119,
     "wof:geomhash":"efb33e5e51883dfa3f5478582e973728",
@@ -99,14 +104,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713310139,
             "locality_id":1126008391,
             "region_id":85682995
         }
     ],
     "wof:id":1126008391,
-    "wof:lastmodified":1566585372,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661922,
     "wof:name":"Koruste",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713310139,
     "wof:placetype":"locality",
     "wof:population":151,
     "wof:population_rank":1,

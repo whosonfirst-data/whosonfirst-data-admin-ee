@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Rohe"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312323,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793385,
         "wk:page":"Rohe%2C_Estonia"
     },
+    "wof:coterminous":[
+        1713312323
+    ],
     "wof:country":"EE",
     "wof:geomhash":"c361ea56f0dcba899461a47fe131b2c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312323,
             "locality_id":1209738319,
             "region_id":85683009
         }
     ],
     "wof:id":1209738319,
-    "wof:lastmodified":1566585099,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676574,
     "wof:name":"Rohe",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

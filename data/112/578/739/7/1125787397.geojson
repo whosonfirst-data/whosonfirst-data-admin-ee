@@ -68,9 +68,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713305859,
         85633135,
-        85683055
+        1713305683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +80,9 @@
         "qs_pg:id":469981,
         "wd:id":"Q2980908"
     },
+    "wof:coterminous":[
+        1713305863
+    ],
     "wof:country":"EE",
     "wof:created":1497290735,
     "wof:geomhash":"c31fe191c6c1a15b740512ae474173ce",
@@ -85,14 +90,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305683,
+            "localadmin_id":1713305859,
             "locality_id":1125787397,
             "region_id":85683055
         }
     ],
     "wof:id":1125787397,
-    "wof:lastmodified":1566585383,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661481,
     "wof:name":"Pildik\u00fcla",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713305859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

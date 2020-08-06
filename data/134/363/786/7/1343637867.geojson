@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "M\u00f5isaaseme"
@@ -55,29 +55,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713311431,
         85633135,
-        85683013
+        1713305711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590191,
         "wk:page":"M%C3%B5isaaseme"
     },
+    "wof:coterminous":[
+        1713311431
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"8c1bf0ad63e53e6652946d0740950676",
+    "wof:geomhash":"47ef8b96cc973dc87ee82370070933e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305711,
+            "localadmin_id":1713311431,
             "locality_id":1343637867,
             "region_id":85683013
         }
     ],
     "wof:id":1343637867,
-    "wof:lastmodified":1566584835,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676720,
     "wof:name":"Moisaaseme",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713311431,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -86,9 +99,9 @@
 },
   "bbox": [
     24.76583,
-    59.05833000000001,
+    59.05833,
     24.76583,
-    59.05833000000001
+    59.05833
 ],
-  "geometry": {"coordinates":[24.76583,59.05833000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.76583,59.05833],"type":"Point"}
 }

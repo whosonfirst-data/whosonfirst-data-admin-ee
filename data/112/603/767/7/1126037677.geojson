@@ -93,9 +93,11 @@
     "woe:name_adm1":"Raplamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713306445,
         85633135,
-        85683013
+        1713305707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,6 +106,9 @@
         "qs_pg:id":966800,
         "wd:id":"Q535895"
     },
+    "wof:coterminous":[
+        1713306101
+    ],
     "wof:country":"EE",
     "wof:created":1497301899,
     "wof:geomhash":"9e891fb808062dcb448c20d95578adf5",
@@ -111,14 +116,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305707,
+            "localadmin_id":1713306445,
             "locality_id":1126037677,
             "region_id":85683013
         }
     ],
     "wof:id":1126037677,
-    "wof:lastmodified":1566585324,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677037,
     "wof:name":"Lohu",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713306445,
     "wof:placetype":"locality",
     "wof:population":193,
     "wof:population_rank":1,

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u00f5rv\u00f5",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310921,
         85633135,
-        85682955
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620584
     },
     "wof:country":"EE",
-    "wof:geomhash":"0e0c4a5c38bbff6e4f5d32c11a0ecea2",
+    "wof:geomhash":"b24ab1003e3399ba6322dc0ac19111c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305793,
+            "localadmin_id":1713310921,
             "locality_id":1259360153,
             "region_id":85682955
         }
     ],
     "wof:id":1259360153,
-    "wof:lastmodified":1566585464,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676996,
     "wof:name":"Korvo",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.42889000000001,
+    27.42889,
     58.16444,
-    27.42889000000001,
+    27.42889,
     58.16444
 ],
-  "geometry": {"coordinates":[27.42889000000001,58.16444],"type":"Point"}
+  "geometry": {"coordinates":[27.42889,58.16444],"type":"Point"}
 }

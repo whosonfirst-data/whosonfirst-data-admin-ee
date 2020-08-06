@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kyakhri",
@@ -38,28 +38,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310915,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591763
     },
+    "wof:coterminous":[
+        1713310915
+    ],
     "wof:country":"EE",
     "wof:geomhash":"1e901da970e60f3689e13f46c610ab48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713310915,
             "locality_id":1242854689,
             "region_id":85682955
         }
     ],
     "wof:id":1242854689,
-    "wof:lastmodified":1566585447,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676960,
     "wof:name":"Kaehri",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310915,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

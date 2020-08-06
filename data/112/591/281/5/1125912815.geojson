@@ -96,9 +96,11 @@
     "woe:name_adm1":"Valgamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713310531,
         85633135,
-        85682941
+        1713305753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,6 +109,9 @@
         "qs_pg:id":423029,
         "wd:id":"Q1024709"
     },
+    "wof:coterminous":[
+        1713310531
+    ],
     "wof:country":"EE",
     "wof:created":1497296197,
     "wof:geomhash":"e27b79be9c3bed056e59583c76c8d4fd",
@@ -114,14 +119,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305753,
+            "localadmin_id":1713310531,
             "locality_id":1125912815,
             "region_id":85682941
         }
     ],
     "wof:id":1125912815,
-    "wof:lastmodified":1566585357,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661950,
     "wof:name":"Hargla",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713310531,
     "wof:placetype":"locality",
     "wof:population":239,
     "wof:population_rank":2,

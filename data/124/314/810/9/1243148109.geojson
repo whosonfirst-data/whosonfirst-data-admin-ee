@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pulli"
@@ -66,28 +66,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713308893,
         85633135,
-        85682995
+        1713305717
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620684
     },
+    "wof:coterminous":[
+        1713308893
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"37c9312879bcab2ecf6063757802dbb1",
+    "wof:geomhash":"4c80fe0e10148baac230e4ea738ce047",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305717,
+            "localadmin_id":1713308893,
             "locality_id":1243148109,
             "region_id":85682995
         }
     ],
     "wof:id":1243148109,
-    "wof:lastmodified":1566585427,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676692,
     "wof:name":"Pulli",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713308893,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -95,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.64417000000001,
+    26.64417,
     58.20389,
-    26.64417000000001,
+    26.64417,
     58.20389
 ],
-  "geometry": {"coordinates":[26.64417000000001,58.20389],"type":"Point"}
+  "geometry": {"coordinates":[26.64417,58.20389],"type":"Point"}
 }

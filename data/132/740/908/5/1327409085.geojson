@@ -29,32 +29,42 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713314365,
         85633135,
-        85682941
+        1713305753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620290
     },
     "wof:country":"EE",
-    "wof:geomhash":"451e5b843886b6ea77fbfabd123f9ef0",
+    "wof:geomhash":"05bc873a62af89f2a2b72ba087020e40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305753,
+            "localadmin_id":1713314365,
             "locality_id":1327409085,
             "region_id":85682941
         }
     ],
     "wof:id":1327409085,
-    "wof:lastmodified":1566584782,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661956,
     "wof:name":"Meiga",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713314365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +73,9 @@
 },
   "bbox": [
     26.38139,
-    57.80139000000001,
+    57.80139,
     26.38139,
-    57.80139000000001
+    57.80139
 ],
-  "geometry": {"coordinates":[26.38139,57.80139000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.38139,57.80139],"type":"Point"}
 }

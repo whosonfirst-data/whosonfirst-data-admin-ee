@@ -29,7 +29,8 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kolkja Suur",
@@ -38,28 +39,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713309463,
         85633135,
-        85682995
+        1713305679
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588507
     },
     "wof:country":"EE",
-    "wof:geomhash":"36711db4e4c7ccb1bab5f92230249c65",
+    "wof:geomhash":"47c48b05a2c95ea76f6c3857050af499",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305679,
+            "localadmin_id":1713309463,
             "locality_id":1293455941,
             "region_id":85682995
         }
     ],
     "wof:id":1293455941,
-    "wof:lastmodified":1566584966,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660933,
     "wof:name":"Suur Kolkja",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713309463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +79,9 @@
 },
   "bbox": [
     27.21806,
-    58.54389000000001,
+    58.54389,
     27.21806,
-    58.54389000000001
+    58.54389
 ],
-  "geometry": {"coordinates":[27.21806,58.54389000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.21806,58.54389],"type":"Point"}
 }

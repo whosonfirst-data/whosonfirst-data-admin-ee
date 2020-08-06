@@ -76,9 +76,11 @@
     "woe:name_adm1":"J\u00f5gevamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713313757,
         85633135,
-        85683009
+        1713305659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,6 +89,9 @@
         "qs_pg:id":1096316,
         "wd:id":"Q3468733"
     },
+    "wof:coterminous":[
+        1713313757
+    ],
     "wof:country":"EE",
     "wof:created":1497293373,
     "wof:geomhash":"bdf2758db3f9ff10fcb2d4cab9687215",
@@ -94,14 +99,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305659,
+            "localadmin_id":1713313757,
             "locality_id":1125850357,
             "region_id":85683009
         }
     ],
     "wof:id":1125850357,
-    "wof:lastmodified":1566585382,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676469,
     "wof:name":"Elistvere",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713313757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

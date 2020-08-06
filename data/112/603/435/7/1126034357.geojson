@@ -79,9 +79,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713307717,
         85633135,
-        85683055
+        1713305737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":1034199,
         "wd:id":"Q3459020"
     },
+    "wof:coterminous":[
+        1713307717
+    ],
     "wof:country":"EE",
     "wof:created":1497301685,
     "wof:geomhash":"fdcc1ba0f4aa76d27f940dbe953cb5f9",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305737,
+            "localadmin_id":1713307717,
             "locality_id":1126034357,
             "region_id":85683055
         }
     ],
     "wof:id":1126034357,
-    "wof:lastmodified":1566585327,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663328,
     "wof:name":"Kersalu",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713307717,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

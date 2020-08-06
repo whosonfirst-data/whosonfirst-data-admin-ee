@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Pada-Aruk\u00fcla"
@@ -46,29 +46,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713307673,
         85633135,
-        85683049
+        1713305777
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592395,
         "wk:page":"Pada-Aruk%C3%BCla"
     },
+    "wof:coterminous":[
+        1713307673
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"c7fce7b066e69c0e521c8b39b8116266",
+    "wof:geomhash":"56c6b40bda19abce2e991e849d4801c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305777,
+            "localadmin_id":1713307673,
             "locality_id":1243360381,
             "region_id":85683049
         }
     ],
     "wof:id":1243360381,
-    "wof:lastmodified":1566585390,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677937,
     "wof:name":"Pada-Arukuela",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713307673,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -77,9 +90,9 @@
 },
   "bbox": [
     26.76639,
-    59.43333000000001,
+    59.43333,
     26.76639,
-    59.43333000000001
+    59.43333
 ],
-  "geometry": {"coordinates":[26.76639,59.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.76639,59.43333],"type":"Point"}
 }

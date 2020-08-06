@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pauliku"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713313563,
         85633135,
-        85683059
+        1713305651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793485,
         "wk:page":"Pauliku"
     },
+    "wof:coterminous":[
+        1713313563
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"c2b3b186651c3ce59f82c61abb2cafec",
+    "wof:geomhash":"e4c68dda8c76fd86840f289543bde659",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305651,
+            "localadmin_id":1713313563,
             "locality_id":1343370531,
             "region_id":85683059
         }
     ],
     "wof:id":1343370531,
-    "wof:lastmodified":1566584830,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676514,
     "wof:name":"Pauliku",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713313563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -88,9 +101,9 @@
 },
   "bbox": [
     27.37306,
-    59.34278000000001,
+    59.34278,
     27.37306,
-    59.34278000000001
+    59.34278
 ],
-  "geometry": {"coordinates":[27.37306,59.34278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.37306,59.34278],"type":"Point"}
 }

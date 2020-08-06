@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Palu"
@@ -156,28 +156,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713310831,
         85633135,
-        85682995
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620799
     },
     "wof:country":"EE",
-    "wof:geomhash":"fd4a0153e40b04c15f90d861a69840ea",
+    "wof:geomhash":"4c4b15298f08a01e6a21ddc7f54ff7fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713310831,
             "locality_id":1310667077,
             "region_id":85682995
         }
     ],
     "wof:id":1310667077,
-    "wof:lastmodified":1566585198,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661916,
     "wof:name":"Palu",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713310831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -186,9 +196,9 @@
 },
   "bbox": [
     26.36944,
-    58.24028000000001,
+    58.24028,
     26.36944,
-    58.24028000000001
+    58.24028
 ],
-  "geometry": {"coordinates":[26.36944,58.24028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.36944,58.24028],"type":"Point"}
 }

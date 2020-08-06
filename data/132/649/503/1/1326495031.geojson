@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sapakyula",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713311743,
         85633135,
-        85682985
+        1713305661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588900
     },
     "wof:country":"EE",
-    "wof:geomhash":"3dd8616e429e92e6c6196d196ee3777a",
+    "wof:geomhash":"d41818ec0aa7489b890eb7d16792d5ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305661,
+            "localadmin_id":1713311743,
             "locality_id":1326495031,
             "region_id":85682985
         }
     ],
     "wof:id":1326495031,
-    "wof:lastmodified":1566584794,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661298,
     "wof:name":"Saapakuela",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713311743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     25.28528,
-    58.16721999999999,
+    58.16722,
     25.28528,
-    58.16721999999999
+    58.16722
 ],
-  "geometry": {"coordinates":[25.28528,58.16721999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.28528,58.16722],"type":"Point"}
 }

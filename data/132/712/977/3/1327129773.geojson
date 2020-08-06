@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Uekyula",
@@ -39,28 +39,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713308269,
         85633135,
-        85683049
+        1713305775
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":587990
     },
     "wof:country":"EE",
-    "wof:geomhash":"68ba72952e2e046c2839c9b1f3b7bf0c",
+    "wof:geomhash":"12594469a820e4b858af4d217ec46167",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305775,
+            "localadmin_id":1713308269,
             "locality_id":1327129773,
             "region_id":85683049
         }
     ],
     "wof:id":1327129773,
-    "wof:lastmodified":1566584785,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596678048,
     "wof:name":"Uuskuela",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713308269,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -69,9 +79,9 @@
 },
   "bbox": [
     25.87083,
-    59.51416999999999,
+    59.51417,
     25.87083,
-    59.51416999999999
+    59.51417
 ],
-  "geometry": {"coordinates":[25.87083,59.51416999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.87083,59.51417],"type":"Point"}
 }

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Soosalu"
@@ -54,28 +54,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713306875,
         85633135,
-        85683031
+        1713305765
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588588
     },
+    "wof:coterminous":[
+        1713306875
+    ],
     "wof:country":"EE",
     "wof:geomhash":"cd5be574508fe07ca141d47d759d9f84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305765,
+            "localadmin_id":1713306875,
             "locality_id":1343882381,
             "region_id":85683031
         }
     ],
     "wof:id":1343882381,
-    "wof:lastmodified":1566584895,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676649,
     "wof:name":"Soosalu",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713306875,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "T\u00f5udsim\u00e4e",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713316263,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620236
     },
     "wof:country":"EE",
-    "wof:geomhash":"4364e73f4445be5a4eb1aac62104dc75",
+    "wof:geomhash":"d8a6ed37a8863d24c240c371fd32a1c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713316263,
             "locality_id":1242838761,
             "region_id":85682937
         }
     ],
     "wof:id":1242838761,
-    "wof:lastmodified":1566585444,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660396,
     "wof:name":"Toudsimaee",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713316263,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     27.15306,
-    57.89944000000001,
+    57.89944,
     27.15306,
-    57.89944000000001
+    57.89944
 ],
-  "geometry": {"coordinates":[27.15306,57.89944000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.15306,57.89944],"type":"Point"}
 }

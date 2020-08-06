@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kaarli"
@@ -45,25 +45,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683049,
+        102191581,
+        1713307597,
+        85633135,
+        1713305719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793455,
         "wk:page":"Kaarli%2C_L%C3%A4%C3%A4ne-Viru_County"
     },
+    "wof:coterminous":[
+        1713307597
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"f3eaac4a74a74d2e9b4d9a836557c7d6",
+    "wof:geomhash":"c9ea868ee5e9466e2ce068de96549e85",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209210725
+            "county_id":1713305719,
+            "localadmin_id":1713307597,
+            "locality_id":1209210725,
+            "region_id":85683049
         }
     ],
     "wof:id":1209210725,
-    "wof:lastmodified":1566585103,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676670,
     "wof:name":"Kaarli",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713307597,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -72,9 +89,9 @@
 },
   "bbox": [
     26.45199,
-    59.36089000000001,
+    59.36089,
     26.45199,
-    59.36089000000001
+    59.36089
 ],
-  "geometry": {"coordinates":[26.45199,59.36089000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.45199,59.36089],"type":"Point"}
 }

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tuulem\u00e4e",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713306481,
         85633135,
-        85683049
+        1713305723
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618955
     },
     "wof:country":"EE",
-    "wof:geomhash":"6e982dd7a5f3571e4673a839c1fe6bb1",
+    "wof:geomhash":"1bfb9a693eb2f14a0bf57807a0268b24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305723,
+            "localadmin_id":1713306481,
             "locality_id":1276431847,
             "region_id":85683049
         }
     ],
     "wof:id":1276431847,
-    "wof:lastmodified":1566584987,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661733,
     "wof:name":"Tuulemaee",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713306481,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     26.10722,
-    59.33833000000001,
+    59.33833,
     26.10722,
-    59.33833000000001
+    59.33833
 ],
-  "geometry": {"coordinates":[26.10722,59.33833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.10722,59.33833],"type":"Point"}
 }

@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kynnu",
@@ -38,28 +38,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713306791,
         85633135,
-        85682981
+        1713305733
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591180
     },
+    "wof:coterminous":[
+        1713306791
+    ],
     "wof:country":"EE",
     "wof:geomhash":"ee9e40a8d3feaf08354c017f7386002c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713306791,
             "locality_id":1259857769,
             "region_id":85682981
         }
     ],
     "wof:id":1259857769,
-    "wof:lastmodified":1566585484,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663428,
     "wof:name":"Konnu",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713306791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

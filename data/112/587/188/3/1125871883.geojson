@@ -69,9 +69,11 @@
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713314757,
         85633135,
-        85683049
+        1713305723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,6 +82,9 @@
         "qs_pg:id":179999,
         "wd:id":"Q3464557"
     },
+    "wof:coterminous":[
+        1713314757
+    ],
     "wof:country":"EE",
     "wof:created":1497294342,
     "wof:geomhash":"e1cf9a1e4b7b72640cccd5b0775fc0c1",
@@ -87,14 +92,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305723,
+            "localadmin_id":1713314757,
             "locality_id":1125871883,
             "region_id":85683049
         }
     ],
     "wof:id":1125871883,
-    "wof:lastmodified":1566585346,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661731,
     "wof:name":"Salda",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713314757,
     "wof:placetype":"locality",
     "wof:population":108,
     "wof:population_rank":1,

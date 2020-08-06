@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Varesm\u00e4e"
@@ -63,29 +63,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713315887,
         85633135,
-        85682955
+        1713305631
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":587752,
         "wk:page":"Varesm%C3%A4e"
     },
+    "wof:coterminous":[
+        1713315887
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"2f6f9a14be933d1c59942b329a914097",
+    "wof:geomhash":"895d9ed5b542cfd6707407a622a2708c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305631,
+            "localadmin_id":1713315887,
             "locality_id":1276528211,
             "region_id":85682955
         }
     ],
     "wof:id":1276528211,
-    "wof:lastmodified":1566585032,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663703,
     "wof:name":"Varesmaee",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713315887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -94,9 +107,9 @@
 },
   "bbox": [
     27.52528,
-    58.05416999999999,
+    58.05417,
     27.52528,
-    58.05416999999999
+    58.05417
 ],
-  "geometry": {"coordinates":[27.52528,58.05416999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.52528,58.05417],"type":"Point"}
 }

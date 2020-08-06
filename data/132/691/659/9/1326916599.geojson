@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Jaluse"
@@ -59,29 +59,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713311247,
         85633135,
-        85683013
+        1713305711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591989,
         "wk:page":"Jaluse"
     },
+    "wof:coterminous":[
+        1713311247
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"3b828d731fa80858e3ce1d67836392e7",
+    "wof:geomhash":"7162ac7d351e8c49e8d32ab17a28269f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305711,
+            "localadmin_id":1713311247,
             "locality_id":1326916599,
             "region_id":85683013
         }
     ],
     "wof:id":1326916599,
-    "wof:lastmodified":1566584811,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676730,
     "wof:name":"Jaluse",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713311247,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -90,9 +103,9 @@
 },
   "bbox": [
     24.96222,
-    59.12028000000001,
+    59.12028,
     24.96222,
-    59.12028000000001
+    59.12028
 ],
-  "geometry": {"coordinates":[24.96222,59.12028000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.96222,59.12028],"type":"Point"}
 }

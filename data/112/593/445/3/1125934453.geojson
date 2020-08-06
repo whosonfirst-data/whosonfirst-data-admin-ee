@@ -79,9 +79,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713311553,
         85633135,
-        85682985
+        1713305735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":1273896,
         "wd:id":"Q10973039"
     },
+    "wof:coterminous":[
+        1713311553
+    ],
     "wof:country":"EE",
     "wof:created":1497296918,
     "wof:geomhash":"2d4d9d2bd8d58496d704d89369f37eeb",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305735,
+            "localadmin_id":1713311553,
             "locality_id":1125934453,
             "region_id":85682985
         }
     ],
     "wof:id":1125934453,
-    "wof:lastmodified":1566585288,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663462,
     "wof:name":"Kobruvere",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713311553,
     "wof:placetype":"locality",
     "wof:population":178,
     "wof:population_rank":1,

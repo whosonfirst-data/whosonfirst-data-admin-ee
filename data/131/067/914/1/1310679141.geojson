@@ -29,35 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vanam\u00f5isa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713313851,
         85633135,
-        85682981
+        1713305705
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619303
     },
     "wof:country":"EE",
-    "wof:geomhash":"94e5e7e5922d67d8f1ae9fd744c360fe",
+    "wof:geomhash":"bb5758dc48d5a333d3183371e0bcc49a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305705,
+            "localadmin_id":1713313851,
             "locality_id":1310679141,
             "region_id":85682981
         }
     ],
     "wof:id":1310679141,
-    "wof:lastmodified":1566585209,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677734,
     "wof:name":"Peratsaare",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713313851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -66,9 +76,9 @@
 },
   "bbox": [
     24.72556,
-    58.02444000000001,
+    58.02444,
     24.72556,
-    58.02444000000001
+    58.02444
 ],
-  "geometry": {"coordinates":[24.72556,58.02444000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.72556,58.02444],"type":"Point"}
 }

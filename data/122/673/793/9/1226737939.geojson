@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Metsakyula",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713315605,
         85633135,
-        85682981
+        1713305733
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590251
     },
     "wof:country":"EE",
-    "wof:geomhash":"b0d85131887041a31ca8ed4842dbd054",
+    "wof:geomhash":"89abff2be133d2137f746b13d1b5b16f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713315605,
             "locality_id":1226737939,
             "region_id":85682981
         }
     ],
     "wof:id":1226737939,
-    "wof:lastmodified":1566585531,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663426,
     "wof:name":"Metsakuela",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713315605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     24.31667,
-    58.63333000000001,
+    58.63333,
     24.31667,
-    58.63333000000001
+    58.63333
 ],
-  "geometry": {"coordinates":[24.31667,58.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.31667,58.63333],"type":"Point"}
 }

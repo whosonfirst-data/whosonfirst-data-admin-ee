@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kossa"
@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682985,
+        102191581,
+        1713313889,
+        85633135,
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +56,24 @@
     "wof:geomhash":"4d9c462629f4016cc5dfb9bf9b59cfbb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209179027
+            "county_id":1713305669,
+            "localadmin_id":1713313889,
+            "locality_id":1209179027,
+            "region_id":85682985
         }
     ],
     "wof:id":1209179027,
-    "wof:lastmodified":1566585104,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661256,
     "wof:name":"Kossa",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713313889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -87,9 +87,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713307663,
         85633135,
-        85683055
+        1713305739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +100,9 @@
         "qs_pg:id":915616,
         "wd:id":"Q3469527"
     },
+    "wof:coterminous":[
+        1713307663
+    ],
     "wof:country":"EE",
     "wof:created":1497303327,
     "wof:geomhash":"566ae1d04fa61985beef0f30a4d2813f",
@@ -105,14 +110,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305739,
+            "localadmin_id":1713307663,
             "locality_id":1126056975,
             "region_id":85683055
         }
     ],
     "wof:id":1126056975,
-    "wof:lastmodified":1566585315,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663249,
     "wof:name":"Aila",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713307663,
     "wof:placetype":"locality",
     "wof:population":114,
     "wof:population_rank":1,

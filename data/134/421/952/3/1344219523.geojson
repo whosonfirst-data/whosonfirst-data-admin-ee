@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u00e4rn\u00e4",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713314365,
         85633135,
-        85682941
+        1713305753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619398
     },
     "wof:country":"EE",
-    "wof:geomhash":"f7e4bacb817f6d84d3be95784de42609",
+    "wof:geomhash":"e34e86fcafe969de6b5d8974d87878df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305753,
+            "localadmin_id":1713314365,
             "locality_id":1344219523,
             "region_id":85682941
         }
     ],
     "wof:id":1344219523,
-    "wof:lastmodified":1566584876,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661954,
     "wof:name":"Kaernae",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713314365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.42194000000001,
+    26.42194,
     57.76944,
-    26.42194000000001,
+    26.42194,
     57.76944
 ],
-  "geometry": {"coordinates":[26.42194000000001,57.76944],"type":"Point"}
+  "geometry": {"coordinates":[26.42194,57.76944],"type":"Point"}
 }

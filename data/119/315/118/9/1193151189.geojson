@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Suursoo k\u00fcla"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713313327,
         85633135,
-        85683055
+        1713305683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793507,
         "wk:page":"Suursoo"
     },
+    "wof:coterminous":[
+        1713313327
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"30397e2fb7d05fc10e736797ace0536c",
+    "wof:geomhash":"66e56e17dc2f89cabbefe47cac41bfbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305683,
+            "localadmin_id":1713313327,
             "locality_id":1193151189,
             "region_id":85683055
         }
     ],
     "wof:id":1193151189,
-    "wof:lastmodified":1566585116,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661480,
     "wof:name":"Suursoo",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713313327,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -84,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.06562000000001,
+    25.06562,
     59.29138,
-    25.06562000000001,
+    25.06562,
     59.29138
 ],
-  "geometry": {"coordinates":[25.06562000000001,59.29138],"type":"Point"}
+  "geometry": {"coordinates":[25.06562,59.29138],"type":"Point"}
 }

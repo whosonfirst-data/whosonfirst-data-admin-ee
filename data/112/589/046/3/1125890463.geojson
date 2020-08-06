@@ -81,9 +81,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713310077,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,9 @@
         "qs_pg:id":915997,
         "wd:id":"Q10955330"
     },
+    "wof:coterminous":[
+        1713310077
+    ],
     "wof:country":"EE",
     "wof:created":1497295292,
     "wof:geomhash":"32b3a7debe482de1d6517436425e024c",
@@ -99,14 +104,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713310077,
             "locality_id":1125890463,
             "region_id":85682985
         }
     ],
     "wof:id":1125890463,
-    "wof:lastmodified":1566585338,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661258,
     "wof:name":"\u00dclensi",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713310077,
     "wof:placetype":"locality",
     "wof:population":113,
     "wof:population_rank":1,

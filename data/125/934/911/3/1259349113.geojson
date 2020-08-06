@@ -29,32 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713309349,
         85633135,
-        85682995
+        1713305679
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591620
     },
+    "wof:coterminous":[
+        1713309349
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"597428ec57e3ac4511d658dfe14bc9be",
+    "wof:geomhash":"d30c38542ae5babdada09f0d083158f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305679,
+            "localadmin_id":1713309349,
             "locality_id":1259349113,
             "region_id":85682995
         }
     ],
     "wof:id":1259349113,
-    "wof:lastmodified":1566585502,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660916,
     "wof:name":"Kargaja",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713309349,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +76,9 @@
 },
   "bbox": [
     27.16056,
-    58.47528000000001,
+    58.47528,
     27.16056,
-    58.47528000000001
+    58.47528
 ],
-  "geometry": {"coordinates":[27.16056,58.47528000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.16056,58.47528],"type":"Point"}
 }

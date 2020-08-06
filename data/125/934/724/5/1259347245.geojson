@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Pundo"
@@ -43,28 +43,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713313599,
         85633135,
-        85682937
+        1713305795
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619371
     },
     "wof:country":"EE",
-    "wof:geomhash":"9a882940f58e04c9125066c27c8e6f5f",
+    "wof:geomhash":"74ee102b7daf657bc8e2c152ae255edd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305795,
+            "localadmin_id":1713313599,
             "locality_id":1259347245,
             "region_id":85682937
         }
     ],
     "wof:id":1259347245,
-    "wof:lastmodified":1566585501,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677022,
     "wof:name":"Pundo",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713313599,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -73,9 +83,9 @@
 },
   "bbox": [
     26.50389,
-    57.91889000000001,
+    57.91889,
     26.50389,
-    57.91889000000001
+    57.91889
 ],
-  "geometry": {"coordinates":[26.50389,57.91889000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.50389,57.91889],"type":"Point"}
 }

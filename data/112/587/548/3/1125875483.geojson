@@ -76,9 +76,11 @@
     "woe:name_adm1":"J\u00e4rvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713308415,
         85633135,
-        85683031
+        1713305663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,6 +89,9 @@
         "qs_pg:id":406386,
         "wd:id":"Q3463555"
     },
+    "wof:coterminous":[
+        1713308415
+    ],
     "wof:country":"EE",
     "wof:created":1497294517,
     "wof:geomhash":"13cedad27f20509a389f97798a52b421",
@@ -94,14 +99,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305663,
+            "localadmin_id":1713308415,
             "locality_id":1125875483,
             "region_id":85683031
         }
     ],
     "wof:id":1125875483,
-    "wof:lastmodified":1566585348,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661329,
     "wof:name":"Tarbja",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713308415,
     "wof:placetype":"locality",
     "wof:population":355,
     "wof:population_rank":2,

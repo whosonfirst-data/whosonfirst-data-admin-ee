@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Soodla"
@@ -64,29 +64,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713307039,
         85633135,
-        85683055
+        1713305749
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588621,
         "wk:page":"Soodla"
     },
+    "wof:coterminous":[
+        1713307039
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"f1fd758a304264b1e4d16918f48f12ae",
+    "wof:geomhash":"a6a0fb46fe407c4ddcfbc79712244fb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305749,
+            "localadmin_id":1713307039,
             "locality_id":1327343155,
             "region_id":85683055
         }
     ],
     "wof:id":1327343155,
-    "wof:lastmodified":1566584790,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596662801,
     "wof:name":"Soodla",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713307039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -95,9 +108,9 @@
 },
   "bbox": [
     25.37444,
-    59.38028000000001,
+    59.38028,
     25.37444,
-    59.38028000000001
+    59.38028
 ],
-  "geometry": {"coordinates":[25.37444,59.38028000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.37444,59.38028],"type":"Point"}
 }

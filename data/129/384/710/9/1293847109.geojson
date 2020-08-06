@@ -29,35 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siugsoo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713309349,
         85633135,
-        85682995
+        1713305679
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618220
     },
     "wof:country":"EE",
-    "wof:geomhash":"ac8c447e89390d96d3aeeabcbcead7bb",
+    "wof:geomhash":"4a89939b82a32550c53c3b9af9b31996",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305679,
+            "localadmin_id":1713309349,
             "locality_id":1293847109,
             "region_id":85682995
         }
     ],
     "wof:id":1293847109,
-    "wof:lastmodified":1566584933,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660941,
     "wof:name":"Sookurgu",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713309349,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -66,9 +76,9 @@
 },
   "bbox": [
     27.14083,
-    58.48139000000001,
+    58.48139,
     27.14083,
-    58.48139000000001
+    58.48139
 ],
-  "geometry": {"coordinates":[27.14083,58.48139000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.14083,58.48139],"type":"Point"}
 }

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Keskk\u00fcla"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713313203,
         85633135,
-        85683001
+        1713305701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591444,
         "wk:page":"Keskk%C3%BCla%2C_L%C3%A4%C3%A4ne_County"
     },
+    "wof:coterminous":[
+        1713313203
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"f3d0cdd17136a2479cca1615b30031ac",
+    "wof:geomhash":"effef6f9e9def76d4dbbf1fc46a38c81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305701,
+            "localadmin_id":1713313203,
             "locality_id":1293511143,
             "region_id":85683001
         }
     ],
     "wof:id":1293511143,
-    "wof:lastmodified":1566584951,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677437,
     "wof:name":"Keskkuela",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713313203,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -88,9 +101,9 @@
 },
   "bbox": [
     24.02056,
-    58.74916999999999,
+    58.74917,
     24.02056,
-    58.74916999999999
+    58.74917
 ],
-  "geometry": {"coordinates":[24.02056,58.74916999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.02056,58.74917],"type":"Point"}
 }

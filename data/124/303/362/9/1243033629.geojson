@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Keskyula",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713310345,
         85633135,
-        85682941
+        1713305687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591447
     },
     "wof:country":"EE",
-    "wof:geomhash":"9f643ade4a5e61ad34de221ff806b091",
+    "wof:geomhash":"53a4bb7fc4953a24722202b2ec01d934",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305687,
+            "localadmin_id":1713310345,
             "locality_id":1243033629,
             "region_id":85682941
         }
     ],
     "wof:id":1243033629,
-    "wof:lastmodified":1566585430,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661439,
     "wof:name":"Keskkuela",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713310345,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.96417000000001,
+    25.96417,
     58.01389,
-    25.96417000000001,
+    25.96417,
     58.01389
 ],
-  "geometry": {"coordinates":[25.96417000000001,58.01389],"type":"Point"}
+  "geometry": {"coordinates":[25.96417,58.01389],"type":"Point"}
 }

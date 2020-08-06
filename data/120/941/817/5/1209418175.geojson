@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kaleste"
@@ -58,25 +58,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682989,
+        102191581,
+        1713310691,
+        85633135,
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591718,
         "wk:page":"Kaleste"
     },
+    "wof:coterminous":[
+        1713310691
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"4d39046e7dfea613191637aeddc00ad9",
+    "wof:geomhash":"f2a0f793b7525fbf822b469fd822d486",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209418175
+            "county_id":1713305629,
+            "localadmin_id":1713310691,
+            "locality_id":1209418175,
+            "region_id":85682989
         }
     ],
     "wof:id":1209418175,
-    "wof:lastmodified":1566585067,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596670012,
     "wof:name":"Kaleste",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713310691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -85,9 +102,9 @@
 },
   "bbox": [
     22.13228,
-    58.91314000000001,
+    58.91314,
     22.13228,
-    58.91314000000001
+    58.91314
 ],
-  "geometry": {"coordinates":[22.13228,58.91314000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.13228,58.91314],"type":"Point"}
 }

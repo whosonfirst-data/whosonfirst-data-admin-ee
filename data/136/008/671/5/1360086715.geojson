@@ -29,7 +29,8 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Augar"
@@ -120,28 +121,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713313601,
         85633135,
-        85683059
+        1713305779
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592349
     },
     "wof:country":"EE",
-    "wof:geomhash":"67de7b54b5d87e28b36bbc59ceaf9006",
+    "wof:geomhash":"c25229413ed5e52f0e97ea50f10bcbc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305779,
+            "localadmin_id":1713313601,
             "locality_id":1360086715,
             "region_id":85683059
         }
     ],
     "wof:id":1360086715,
-    "wof:lastmodified":1566585218,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677902,
     "wof:name":"Auga",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713313601,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -149,10 +160,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.99589000000001,
+    27.99589,
     59.431,
-    27.99589000000001,
+    27.99589,
     59.431
 ],
-  "geometry": {"coordinates":[27.99589000000001,59.431],"type":"Point"}
+  "geometry": {"coordinates":[27.99589,59.431],"type":"Point"}
 }

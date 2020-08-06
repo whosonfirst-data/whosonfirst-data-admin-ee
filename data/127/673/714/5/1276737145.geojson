@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Laane"
@@ -58,28 +58,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713309977,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590862
     },
     "wof:country":"EE",
-    "wof:geomhash":"111a2b4166b4542003251229a6145b1f",
+    "wof:geomhash":"c39fd36617727d69357d1c19680df413",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713309977,
             "locality_id":1276737145,
             "region_id":85682985
         }
     ],
     "wof:id":1276737145,
-    "wof:lastmodified":1566584994,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661262,
     "wof:name":"Laane",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713309977,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -87,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.76917000000001,
+    25.76917,
     58.36139,
-    25.76917000000001,
+    25.76917,
     58.36139
 ],
-  "geometry": {"coordinates":[25.76917000000001,58.36139],"type":"Point"}
+  "geometry": {"coordinates":[25.76917,58.36139],"type":"Point"}
 }

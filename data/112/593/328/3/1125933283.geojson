@@ -88,9 +88,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713313427,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +101,9 @@
         "qs_pg:id":1273710,
         "wd:id":"Q984791"
     },
+    "wof:coterminous":[
+        1713313427
+    ],
     "wof:country":"EE",
     "wof:created":1497296880,
     "wof:geomhash":"f146a06a315af861895045abd09f2d27",
@@ -106,14 +111,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713313427,
             "locality_id":1125933283,
             "region_id":85682985
         }
     ],
     "wof:id":1125933283,
-    "wof:lastmodified":1566585292,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661261,
     "wof:name":"J\u00e4mejala",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713313427,
     "wof:placetype":"locality",
     "wof:population":294,
     "wof:population_rank":2,

@@ -81,9 +81,11 @@
     "woe:name_adm1":"J\u00f5gevamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312357,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,9 @@
         "qs_pg:id":179684,
         "wd:id":"Q3469376"
     },
+    "wof:coterminous":[
+        1713312357
+    ],
     "wof:country":"EE",
     "wof:created":1497301538,
     "wof:geomhash":"310fb69b6293ad8a58e5a17f6a3a7905",
@@ -99,14 +104,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312357,
             "locality_id":1126032059,
             "region_id":85683009
         }
     ],
     "wof:id":1126032059,
-    "wof:lastmodified":1566585323,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676583,
     "wof:name":"Kassinurme",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312357,
     "wof:placetype":"locality",
     "wof:population":152,
     "wof:population_rank":1,

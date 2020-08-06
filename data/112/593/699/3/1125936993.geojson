@@ -88,9 +88,11 @@
     "woe:name_adm1":"L\u00e4\u00e4nemaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713308767,
         85633135,
-        85683001
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +101,9 @@
         "qs_pg:id":1274742,
         "wd:id":"Q3451267"
     },
+    "wof:coterminous":[
+        1713308767
+    ],
     "wof:country":"EE",
     "wof:created":1497296997,
     "wof:geomhash":"f12b9a364ebc4b0a8b9fbe8f18a6534c",
@@ -106,14 +111,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713308767,
             "locality_id":1125936993,
             "region_id":85683001
         }
     ],
     "wof:id":1125936993,
-    "wof:lastmodified":1566585289,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661700,
     "wof:name":"Vatla",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713308767,
     "wof:placetype":"locality",
     "wof:population":212,
     "wof:population_rank":2,

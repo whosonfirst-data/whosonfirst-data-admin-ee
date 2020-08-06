@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Varinurme"
@@ -60,25 +60,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683059,
+        102191581,
+        1713314397,
+        85633135,
+        1713305695
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":587748,
         "wk:page":"Varinurme"
     },
+    "wof:coterminous":[
+        1713314397
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"0c320b9d03131654858ad59b17cf0082",
+    "wof:geomhash":"91c23f910e39096f8e5a68b891487200",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209221997
+            "county_id":1713305695,
+            "localadmin_id":1713314397,
+            "locality_id":1209221997,
+            "region_id":85683059
         }
     ],
     "wof:id":1209221997,
-    "wof:lastmodified":1566585076,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660803,
     "wof:name":"Varinurme",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713314397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -87,9 +104,9 @@
 },
   "bbox": [
     26.90389,
-    59.35471999999999,
+    59.35472,
     26.90389,
-    59.35471999999999
+    59.35472
 ],
-  "geometry": {"coordinates":[26.90389,59.35471999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.90389,59.35472],"type":"Point"}
 }

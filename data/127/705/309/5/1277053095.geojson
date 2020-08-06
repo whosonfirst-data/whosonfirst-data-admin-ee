@@ -29,32 +29,42 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713314257,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620817
     },
     "wof:country":"EE",
-    "wof:geomhash":"24d74cbbf73d40869516eb759c900838",
+    "wof:geomhash":"6ea6a85f073fdbb36b580e08bfd161d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713314257,
             "locality_id":1277053095,
             "region_id":85682955
         }
     ],
     "wof:id":1277053095,
-    "wof:lastmodified":1566585013,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676970,
     "wof:name":"Matsisaare",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713314257,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +73,9 @@
 },
   "bbox": [
     27.29972,
-    58.18083000000001,
+    58.18083,
     27.29972,
-    58.18083000000001
+    58.18083
 ],
-  "geometry": {"coordinates":[27.29972,58.18083000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.29972,58.18083],"type":"Point"}
 }

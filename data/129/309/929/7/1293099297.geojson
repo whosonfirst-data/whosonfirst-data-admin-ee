@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "N\u00e4suvere"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713315905,
         85633135,
-        85683031
+        1713305773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590027,
         "wk:page":"N%C3%A4suvere"
     },
+    "wof:coterminous":[
+        1713306651
+    ],
     "wof:country":"EE",
     "wof:geomhash":"fb51601a1ea45a17e78f44dfaf1ae68b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305773,
+            "localadmin_id":1713315905,
             "locality_id":1293099297,
             "region_id":85683031
         }
     ],
     "wof:id":1293099297,
-    "wof:lastmodified":1566584916,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677989,
     "wof:name":"Naesuvere",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713315905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "L\u00fcmandu"
@@ -57,25 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683013,
+        102191581,
+        1713314833,
+        85633135,
+        1713305747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590480,
         "wk:page":"L%C3%BCmandu%2C_M%C3%A4rjamaa_Parish"
     },
+    "wof:coterminous":[
+        1713314833
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"ec353a97f2c4d3d8d0ca15150712a570",
+    "wof:geomhash":"560a6051c8502e83bc5e35f52495207e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209592155
+            "county_id":1713305747,
+            "localadmin_id":1713314833,
+            "locality_id":1209592155,
+            "region_id":85683013
         }
     ],
     "wof:id":1209592155,
-    "wof:lastmodified":1566585084,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596662842,
     "wof:name":"Luemandu",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713314833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -84,9 +101,9 @@
 },
   "bbox": [
     24.38667,
-    59.00389000000001,
+    59.00389,
     24.38667,
-    59.00389000000001
+    59.00389
 ],
-  "geometry": {"coordinates":[24.38667,59.00389000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.38667,59.00389],"type":"Point"}
 }

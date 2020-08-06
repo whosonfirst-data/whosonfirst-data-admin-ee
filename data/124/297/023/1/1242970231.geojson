@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kalju"
@@ -51,28 +51,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312033,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618594
     },
     "wof:country":"EE",
-    "wof:geomhash":"b6d005c6e9c22cdd9ac216814c99e96a",
+    "wof:geomhash":"5b57e283af4d725036d47b4caee4df65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312033,
             "locality_id":1242970231,
             "region_id":85683009
         }
     ],
     "wof:id":1242970231,
-    "wof:lastmodified":1566585453,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676579,
     "wof:name":"Kalju",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -81,9 +91,9 @@
 },
   "bbox": [
     26.32194,
-    58.82944000000001,
+    58.82944,
     26.32194,
-    58.82944000000001
+    58.82944
 ],
-  "geometry": {"coordinates":[26.32194,58.82944000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.32194,58.82944],"type":"Point"}
 }

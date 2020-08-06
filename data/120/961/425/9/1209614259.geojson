@@ -29,28 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682995,
+        102191581,
+        1713309301,
+        85633135,
+        1713305679
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590162
     },
+    "wof:coterminous":[
+        1713309301
+    ],
     "wof:country":"EE",
     "wof:geomhash":"db0238d9d2411f63d4482cfd3da10f8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209614259
+            "county_id":1713305679,
+            "localadmin_id":1713309301,
+            "locality_id":1209614259,
+            "region_id":85682995
         }
     ],
     "wof:id":1209614259,
-    "wof:lastmodified":1566585081,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660926,
     "wof:name":"Moku",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713309301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

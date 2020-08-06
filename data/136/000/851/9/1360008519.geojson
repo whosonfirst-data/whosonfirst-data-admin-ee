@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kaave"
@@ -62,29 +62,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312309,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591831,
         "wk:page":"Kaave"
     },
+    "wof:coterminous":[
+        1713312309
+    ],
     "wof:country":"EE",
     "wof:geomhash":"52156cb30963c73e6c00227bccddb369",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312309,
             "locality_id":1360008519,
             "region_id":85683009
         }
     ],
     "wof:id":1360008519,
-    "wof:lastmodified":1566585216,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676574,
     "wof:name":"Kaave",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312309,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

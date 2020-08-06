@@ -70,9 +70,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713310063,
         85633135,
-        85682981
+        1713305703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,6 +83,9 @@
         "qs_pg:id":1274130,
         "wd:id":"Q1955719"
     },
+    "wof:coterminous":[
+        1713310063
+    ],
     "wof:country":"EE",
     "wof:created":1497296932,
     "wof:geomhash":"704578c9fca59cc840c7227cd06fb41d",
@@ -88,14 +93,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305703,
+            "localadmin_id":1713310063,
             "locality_id":1125934861,
             "region_id":85682981
         }
     ],
     "wof:id":1125934861,
-    "wof:lastmodified":1566585287,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677707,
     "wof:name":"Malda",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713310063,
     "wof:placetype":"locality",
     "wof:population":116,
     "wof:population_rank":1,

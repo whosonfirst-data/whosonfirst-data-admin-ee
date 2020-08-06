@@ -85,9 +85,11 @@
     "woe:name_adm1":"Valgamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713310589,
         85633135,
-        85682941
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,6 +98,9 @@
         "qs_pg:id":1273550,
         "wd:id":"Q1651198"
     },
+    "wof:coterminous":[
+        1713310589
+    ],
     "wof:country":"EE",
     "wof:created":1497296866,
     "wof:geomhash":"85a89db0fe92955e6c2e23214948df6e",
@@ -103,14 +108,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713310589,
             "locality_id":1125932849,
-            "region_id":85682941
+            "region_id":85682995
         }
     ],
     "wof:id":1125932849,
-    "wof:lastmodified":1566585287,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661914,
     "wof:name":"Aakre",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713310589,
     "wof:placetype":"locality",
     "wof:population":295,
     "wof:population_rank":2,

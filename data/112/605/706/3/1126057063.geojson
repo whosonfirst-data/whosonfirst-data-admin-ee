@@ -87,9 +87,11 @@
     "woe:name_adm1":"V\u00f5rumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713316303,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +100,9 @@
         "qs_pg:id":915721,
         "wd:id":"Q3457706"
     },
+    "wof:coterminous":[
+        1713316303
+    ],
     "wof:country":"EE",
     "wof:created":1497303338,
     "wof:geomhash":"9fc329a42de341e2c72b463be35d8fa6",
@@ -105,14 +110,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713316303,
             "locality_id":1126057063,
             "region_id":85682937
         }
     ],
     "wof:id":1126057063,
-    "wof:lastmodified":1566585312,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660420,
     "wof:name":"Kirump\u00e4\u00e4",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713316303,
     "wof:placetype":"locality",
     "wof:population":138,
     "wof:population_rank":1,

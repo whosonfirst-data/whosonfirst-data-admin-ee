@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "K\u00e4rasi"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713312089,
         85633135,
-        85683059
+        1713305677
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591642,
         "wk:page":"K%C3%A4rasi"
     },
+    "wof:coterminous":[
+        1713312089
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"c71f06e25771b09519f4fa7afa767329",
+    "wof:geomhash":"dd0e7c94031b1fd31e05c05bb06c5f7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305677,
+            "localadmin_id":1713312089,
             "locality_id":1277085979,
             "region_id":85683059
         }
     ],
     "wof:id":1277085979,
-    "wof:lastmodified":1566584982,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661031,
     "wof:name":"Kaerasi",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713312089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -85,9 +98,9 @@
 },
   "bbox": [
     26.93722,
-    58.95721999999999,
+    58.95722,
     26.93722,
-    58.95721999999999
+    58.95722
 ],
-  "geometry": {"coordinates":[26.93722,58.95721999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.93722,58.95722],"type":"Point"}
 }

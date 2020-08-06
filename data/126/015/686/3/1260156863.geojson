@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "P\u00fchi"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713308861,
         85633135,
-        85682995
+        1713305717
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589308,
         "wk:page":"P%C3%BChi"
     },
+    "wof:coterminous":[
+        1713308861
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"87a5153529c2def0599af0b1545d7827",
+    "wof:geomhash":"5f7b21702cbdf69003e80899f89586ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305717,
+            "localadmin_id":1713308861,
             "locality_id":1260156863,
             "region_id":85682995
         }
     ],
     "wof:id":1260156863,
-    "wof:lastmodified":1566585131,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676688,
     "wof:name":"Puehi",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713308861,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -84,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.64417000000001,
+    26.64417,
     58.22778,
-    26.64417000000001,
+    26.64417,
     58.22778
 ],
-  "geometry": {"coordinates":[26.64417000000001,58.22778],"type":"Point"}
+  "geometry": {"coordinates":[26.64417,58.22778],"type":"Point"}
 }

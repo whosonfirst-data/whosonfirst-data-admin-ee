@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Piibe"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713313357,
         85633135,
-        85683031
+        1713305765
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793301,
         "wk:page":"Piibe"
     },
+    "wof:coterminous":[
+        1713313355
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"d4f807c25daf5a33c3676830b5528f35",
+    "wof:geomhash":"3a791f9808b1ab7ebf651338a78ab956",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305765,
+            "localadmin_id":1713313357,
             "locality_id":1242563091,
             "region_id":85683031
         }
     ],
     "wof:id":1242563091,
-    "wof:lastmodified":1566585414,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676637,
     "wof:name":"Piibe",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713313357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -85,9 +98,9 @@
 },
   "bbox": [
     26.15722,
-    58.94694000000001,
+    58.94694,
     26.15722,
-    58.94694000000001
+    58.94694
 ],
-  "geometry": {"coordinates":[26.15722,58.94694000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.15722,58.94694],"type":"Point"}
 }

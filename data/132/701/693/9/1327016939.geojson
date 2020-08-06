@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "R\u00e4\u00e4solaane"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713316151,
         85633135,
-        85682955
+        1713305631
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794193,
         "wk:page":"R%C3%A4%C3%A4solaane"
     },
+    "wof:coterminous":[
+        1713316151
+    ],
     "wof:country":"EE",
     "wof:geomhash":"cc7ece4a41501f097a0fe657d205c5d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305631,
+            "localadmin_id":1713316151,
             "locality_id":1327016939,
             "region_id":85682955
         }
     ],
     "wof:id":1327016939,
-    "wof:lastmodified":1566584756,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663705,
     "wof:name":"Raeaesolaane",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713316151,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

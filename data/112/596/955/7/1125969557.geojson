@@ -109,9 +109,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713307139,
         85633135,
-        85683055
+        1713305749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,6 +122,9 @@
         "qs_pg:id":1273572,
         "wd:id":"Q428840"
     },
+    "wof:coterminous":[
+        1713307139
+    ],
     "wof:country":"EE",
     "wof:created":1497298110,
     "wof:geomhash":"b6d801adb1d816049f70fd91410987a6",
@@ -127,14 +132,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305749,
+            "localadmin_id":1713307139,
             "locality_id":1125969557,
             "region_id":85683055
         }
     ],
     "wof:id":1125969557,
-    "wof:lastmodified":1566585356,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596662802,
     "wof:name":"Alavere",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713307139,
     "wof:placetype":"locality",
     "wof:population":427,
     "wof:population_rank":2,

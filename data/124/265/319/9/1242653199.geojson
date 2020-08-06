@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0633\u064a\u063a\u0627\u0631\u0648\u0641\u0627"
@@ -63,29 +63,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713306479,
         85633135,
-        85682995
+        1713305697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794106,
         "wk:page":"S%C3%A4%C3%A4sek%C3%B5rva"
     },
+    "wof:coterminous":[
+        1713306479
+    ],
     "wof:country":"EE",
     "wof:geomhash":"18d2f6965c5593f145eeeac98124ecdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305697,
+            "localadmin_id":1713306479,
             "locality_id":1242653199,
             "region_id":85682995
         }
     ],
     "wof:id":1242653199,
-    "wof:lastmodified":1566585451,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660678,
     "wof:name":"Saeaesekorva",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713306479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

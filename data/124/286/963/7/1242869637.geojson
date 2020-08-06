@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u00c4dara Asundus",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713307621,
         85633135,
-        85683049
+        1713305771
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592621
     },
     "wof:country":"EE",
-    "wof:geomhash":"8ed86920bc012481deb90748d810cfae",
+    "wof:geomhash":"fe9926128568b98af4ccf351d1bd9ce2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305771,
+            "localadmin_id":1713307621,
             "locality_id":1242869637,
             "region_id":85683049
         }
     ],
     "wof:id":1242869637,
-    "wof:lastmodified":1566585402,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677964,
     "wof:name":"AEdara",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713307621,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     26.71667,
-    59.13333000000001,
+    59.13333,
     26.71667,
-    59.13333000000001
+    59.13333
 ],
-  "geometry": {"coordinates":[26.71667,59.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.71667,59.13333],"type":"Point"}
 }

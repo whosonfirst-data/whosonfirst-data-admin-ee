@@ -79,9 +79,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713311043,
         85633135,
-        85682955
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":1274400,
         "wd:id":"Q3466653"
     },
+    "wof:coterminous":[
+        1713311043
+    ],
     "wof:country":"EE",
     "wof:created":1497293718,
     "wof:geomhash":"a6578c9c56d4adead7d01c3116d2a932",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305793,
+            "localadmin_id":1713311043,
             "locality_id":1125858365,
             "region_id":85682955
         }
     ],
     "wof:id":1125858365,
-    "wof:lastmodified":1566585382,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676996,
     "wof:name":"Rahum\u00e4e",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713311043,
     "wof:placetype":"locality",
     "wof:population":101,
     "wof:population_rank":1,

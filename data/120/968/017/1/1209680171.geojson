@@ -29,28 +29,42 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682937,
+        102191581,
+        1713315667,
+        85633135,
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620193
     },
     "wof:country":"EE",
-    "wof:geomhash":"fcfd0148008b2feb22238b74e5821a73",
+    "wof:geomhash":"0147525bfbe9d9d7e6a14cc1b78d4cb2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209680171
+            "county_id":1713305633,
+            "localadmin_id":1713315667,
+            "locality_id":1209680171,
+            "region_id":85682937
         }
     ],
     "wof:id":1209680171,
-    "wof:lastmodified":1566585081,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660407,
     "wof:name":"Palgi",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713315667,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -58,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.11639000000001,
-    57.78194000000001,
-    27.11639000000001,
-    57.78194000000001
+    27.11639,
+    57.78194,
+    27.11639,
+    57.78194
 ],
-  "geometry": {"coordinates":[27.11639000000001,57.78194000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.11639,57.78194],"type":"Point"}
 }

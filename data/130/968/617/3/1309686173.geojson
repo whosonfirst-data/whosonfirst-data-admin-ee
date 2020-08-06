@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Saaremaa"
@@ -219,28 +219,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713316193,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620169
     },
+    "wof:coterminous":[
+        1713316193
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"c9c674f3aba4f875b093c78e6a57e714",
+    "wof:geomhash":"30d9db177e52cde6c33807ee36f4aa30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713316193,
             "locality_id":1309686173,
             "region_id":85682937
         }
     ],
     "wof:id":1309686173,
-    "wof:lastmodified":1566585262,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660394,
     "wof:name":"Saaremaa",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713316193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -249,9 +262,9 @@
 },
   "bbox": [
     27.14139,
-    57.80083000000001,
+    57.80083,
     27.14139,
-    57.80083000000001
+    57.80083
 ],
-  "geometry": {"coordinates":[27.14139,57.80083000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.14139,57.80083],"type":"Point"}
 }

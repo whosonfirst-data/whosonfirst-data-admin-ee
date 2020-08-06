@@ -29,16 +29,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kuari"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713314561,
         85633135,
-        85683009
+        1713305677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +52,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305677,
+            "localadmin_id":1713314561,
             "locality_id":1276226607,
-            "region_id":85683009
+            "region_id":85683059
         }
     ],
     "wof:id":1276226607,
-    "wof:lastmodified":1566585019,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661026,
     "wof:name":"Kaari",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713314561,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

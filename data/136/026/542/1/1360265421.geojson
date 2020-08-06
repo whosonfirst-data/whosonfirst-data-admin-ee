@@ -29,13 +29,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310955,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +49,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713310955,
             "locality_id":1360265421,
             "region_id":85682955
         }
     ],
     "wof:id":1360265421,
-    "wof:lastmodified":1566585227,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676959,
     "wof:name":"Kivijaerve",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -61,9 +61,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713307777,
         85633135,
-        85683049
+        1713305719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,6 +73,9 @@
         "qs_pg:id":550147,
         "wd:id":"Q3467788"
     },
+    "wof:coterminous":[
+        1713307777
+    ],
     "wof:country":"EE",
     "wof:created":1497302388,
     "wof:geomhash":"e6cb99a8b34af70a2c9b87d35ffc6bd5",
@@ -78,14 +83,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305719,
+            "localadmin_id":1713307777,
             "locality_id":1126045151,
             "region_id":85683049
         }
     ],
     "wof:id":1126045151,
-    "wof:lastmodified":1566585319,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676675,
     "wof:name":"Kohala",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713307777,
     "wof:placetype":"locality",
     "wof:population":146,
     "wof:population_rank":1,

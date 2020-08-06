@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "D\u017eungli",
@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683013,
+        102191581,
+        1713314405,
+        85633135,
+        1713305707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,24 @@
     "wof:geomhash":"0a7f21369f9c470ec93d6cfdd7e8d34a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209494557
+            "county_id":1713305707,
+            "localadmin_id":1713314405,
+            "locality_id":1209494557,
+            "region_id":85683013
         }
     ],
     "wof:id":1209494557,
-    "wof:lastmodified":1566585074,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677035,
     "wof:name":"Dzungli",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713314405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

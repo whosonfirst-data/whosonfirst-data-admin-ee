@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "V\u00f5erdla"
@@ -58,29 +58,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306407,
         85633135,
-        85683055
+        1713305689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":587526,
         "wk:page":"V%C3%B5erdla"
     },
+    "wof:coterminous":[
+        1713306407
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"bcea42458b16f57550a54cd1948ba6cb",
+    "wof:geomhash":"c2dc3ce19d7a9a03b4193774e6d4cd6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305689,
+            "localadmin_id":1713306407,
             "locality_id":1193154775,
             "region_id":85683055
         }
     ],
     "wof:id":1193154775,
-    "wof:lastmodified":1566585116,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661391,
     "wof:name":"Voerdla",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306407,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -89,9 +102,9 @@
 },
   "bbox": [
     25.06631,
-    59.45478000000001,
+    59.45478,
     25.06631,
-    59.45478000000001
+    59.45478
 ],
-  "geometry": {"coordinates":[25.06631,59.45478000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.06631,59.45478],"type":"Point"}
 }

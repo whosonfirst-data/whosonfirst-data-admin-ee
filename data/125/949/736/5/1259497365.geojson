@@ -30,7 +30,8 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Okhtra",
@@ -38,28 +39,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713307685,
         85633135,
-        85683055
+        1713305737
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589876
     },
     "wof:country":"EE",
-    "wof:geomhash":"436b0e0cafaf24f1d0391fe148f81d53",
+    "wof:geomhash":"7298574dd04d99dd52bacf824693ff2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305737,
+            "localadmin_id":1713307685,
             "locality_id":1259497365,
             "region_id":85683055
         }
     ],
     "wof:id":1259497365,
-    "wof:lastmodified":1566585485,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663320,
     "wof:name":"Ohtra",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713307685,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.11667000000001,
+    24.11667,
     59.33333,
-    24.11667000000001,
+    24.11667,
     59.33333
 ],
-  "geometry": {"coordinates":[24.11667000000001,59.33333],"type":"Point"}
+  "geometry": {"coordinates":[24.11667,59.33333],"type":"Point"}
 }

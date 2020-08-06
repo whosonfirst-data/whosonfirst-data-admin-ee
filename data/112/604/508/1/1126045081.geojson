@@ -73,9 +73,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309223,
         85633135,
-        85682981
+        1713305741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,6 +85,9 @@
         "qs_pg:id":550122,
         "wd:id":"Q3454403"
     },
+    "wof:coterminous":[
+        1713309223
+    ],
     "wof:country":"EE",
     "wof:created":1497302385,
     "wof:geomhash":"8a861331f833b3250df98dceea6eb6de",
@@ -90,14 +95,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305741,
+            "localadmin_id":1713309223,
             "locality_id":1126045081,
             "region_id":85682981
         }
     ],
     "wof:id":1126045081,
-    "wof:lastmodified":1566585318,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663211,
     "wof:name":"Soometsa",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309223,
     "wof:placetype":"locality",
     "wof:population":125,
     "wof:population_rank":1,

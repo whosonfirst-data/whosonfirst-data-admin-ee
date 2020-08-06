@@ -92,9 +92,11 @@
     "woe:name_adm1":"Valgamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713310395,
         85633135,
-        85682941
+        1713305687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,6 +105,9 @@
         "qs_pg:id":1167365,
         "wd:id":"Q999810"
     },
+    "wof:coterminous":[
+        1713310395
+    ],
     "wof:country":"EE",
     "wof:created":1497291888,
     "wof:geomhash":"edf0b94c1617029b9b4e3aaab78bd454",
@@ -110,14 +115,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305687,
+            "localadmin_id":1713310395,
             "locality_id":1125817107,
             "region_id":85682941
         }
     ],
     "wof:id":1125817107,
-    "wof:lastmodified":1566585333,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661432,
     "wof:name":"Taagepera",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713310395,
     "wof:placetype":"locality",
     "wof:population":150,
     "wof:population_rank":1,

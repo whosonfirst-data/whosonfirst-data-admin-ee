@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kivin\u00f5mme",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713312535,
         85633135,
-        85682995
+        1713305679
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618814
     },
     "wof:country":"EE",
-    "wof:geomhash":"3fcbc78267ff113f880f0f2796b972fe",
+    "wof:geomhash":"0cf60eea8cb87d78976b5b8d6bf85154",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305679,
+            "localadmin_id":1713312535,
             "locality_id":1209992351,
             "region_id":85682995
         }
     ],
     "wof:id":1209992351,
-    "wof:lastmodified":1566585061,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660932,
     "wof:name":"Kivinomme",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713312535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     26.86444,
-    58.62833000000001,
+    58.62833,
     26.86444,
-    58.62833000000001
+    58.62833
 ],
-  "geometry": {"coordinates":[26.86444,58.62833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.86444,58.62833],"type":"Point"}
 }

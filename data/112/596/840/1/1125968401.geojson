@@ -3,9 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2018-08-15",
+    "edtf:deprecated":"2020-07-28",
     "edtf:inception":"uuuu",
-    "edtf:superseded":"2018-08-15",
+    "edtf:superseded":"2020-07-28",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"23.54139,58.94306,23.54139,58.94306",
@@ -165,9 +165,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0430\u043f\u0441\u0430\u043b\u0443"
     ],
-    "name:unk_x_variant":[
-        "Haapsula"
-    ],
     "name:vep_x_preferred":[
         "Haapsalu"
     ],
@@ -231,7 +228,7 @@
         }
     ],
     "wof:id":1125968401,
-    "wof:lastmodified":1561826605,
+    "wof:lastmodified":1596486337,
     "wof:name":"Haapsalu",
     "wof:parent_id":85683001,
     "wof:placetype":"locality",

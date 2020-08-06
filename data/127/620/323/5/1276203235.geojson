@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "L\u00fc\u00fcbnitsa"
@@ -81,6 +81,9 @@
         "gn:id":590498,
         "wk:page":"L%C3%BC%C3%BCbnitsa"
     },
+    "wof:coterminous":[
+        1713315877
+    ],
     "wof:country":"EE",
     "wof:geomhash":"7620a7957173b00e11d00e05f6aa01cd",
     "wof:hierarchy":[
@@ -92,7 +95,13 @@
         }
     ],
     "wof:id":1276203235,
-    "wof:lastmodified":1566584997,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596485088,
     "wof:name":"Lyubnitsa",
     "wof:parent_id":85683027,
     "wof:placetype":"locality",

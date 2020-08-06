@@ -87,9 +87,11 @@
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713313941,
         85633135,
-        85683049
+        1713305723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +100,9 @@
         "qs_pg:id":915605,
         "wd:id":"Q3468809"
     },
+    "wof:coterminous":[
+        1713313939
+    ],
     "wof:country":"EE",
     "wof:created":1497299796,
     "wof:geomhash":"40ffdb85aaf1c5054009afe0bb2dff76",
@@ -105,14 +110,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305723,
+            "localadmin_id":1713313941,
             "locality_id":1126003561,
             "region_id":85683049
         }
     ],
     "wof:id":1126003561,
-    "wof:lastmodified":1566585369,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661736,
     "wof:name":"Aaspere",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713313941,
     "wof:placetype":"locality",
     "wof:population":315,
     "wof:population_rank":2,

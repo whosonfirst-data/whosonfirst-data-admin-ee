@@ -29,35 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Leola"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713312871,
         85633135,
-        85683055
+        1713305643
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619671
     },
     "wof:country":"EE",
-    "wof:geomhash":"11ba4d39c0ee4e49345d41e37d78793e",
+    "wof:geomhash":"79cb60ac13ffd602cb6871006ab0daa7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305643,
+            "localadmin_id":1713312871,
             "locality_id":1343975619,
             "region_id":85683055
         }
     ],
     "wof:id":1343975619,
-    "wof:lastmodified":1566584833,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663502,
     "wof:name":"Metsanurk",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713312871,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -66,9 +76,9 @@
 },
   "bbox": [
     24.87889,
-    59.31721999999999,
+    59.31722,
     24.87889,
-    59.31721999999999
+    59.31722
 ],
-  "geometry": {"coordinates":[24.87889,59.31721999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.87889,59.31722],"type":"Point"}
 }

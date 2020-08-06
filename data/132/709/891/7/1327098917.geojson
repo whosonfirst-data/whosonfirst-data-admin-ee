@@ -29,32 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713315833,
         85633135,
-        85682937
+        1713305631
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620113
     },
+    "wof:coterminous":[
+        1713315833
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"1802244fba27d3c5f3a121e12185e204",
+    "wof:geomhash":"17703accf811750ba62177a4a722be41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305631,
+            "localadmin_id":1713315833,
             "locality_id":1327098917,
-            "region_id":85682937
+            "region_id":85682955
         }
     ],
     "wof:id":1327098917,
-    "wof:lastmodified":1566584761,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663703,
     "wof:name":"Kiiova",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713315833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +76,9 @@
 },
   "bbox": [
     27.4925,
-    57.82471999999999,
+    57.82472,
     27.4925,
-    57.82471999999999
+    57.82472
 ],
-  "geometry": {"coordinates":[27.4925,57.82471999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.4925,57.82472],"type":"Point"}
 }

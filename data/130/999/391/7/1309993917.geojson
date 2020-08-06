@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Vaiste"
@@ -53,9 +53,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713308765,
         85633135,
-        85682981
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,19 +65,27 @@
         "wk:page":"Vaiste"
     },
     "wof:country":"EE",
-    "wof:geomhash":"daadf5feaffe245edde63e60eb87aeb0",
+    "wof:geomhash":"c12f2a3804a24e7753fa1d2e95e5628e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713308765,
             "locality_id":1309993917,
-            "region_id":85682981
+            "region_id":85683001
         }
     ],
     "wof:id":1309993917,
-    "wof:lastmodified":1566585254,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661677,
     "wof:name":"Ees-Vaiste",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713308765,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -83,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.86667000000001,
+    23.86667,
     58.35,
-    23.86667000000001,
+    23.86667,
     58.35
 ],
-  "geometry": {"coordinates":[23.86667000000001,58.35],"type":"Point"}
+  "geometry": {"coordinates":[23.86667,58.35],"type":"Point"}
 }

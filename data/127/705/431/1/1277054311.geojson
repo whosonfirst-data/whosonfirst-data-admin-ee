@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "K\u00e4rsu m\u00f5is"
@@ -60,29 +60,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309629,
         85633135,
-        85682981
+        1713305705
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591571,
         "wk:page":"K%C3%A4rsu"
     },
+    "wof:coterminous":[
+        1713309629
+    ],
     "wof:country":"EE",
     "wof:geomhash":"7b6919e07e2ee24143c7862c2cbb6142",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305705,
+            "localadmin_id":1713309629,
             "locality_id":1277054311,
             "region_id":85682981
         }
     ],
     "wof:id":1277054311,
-    "wof:lastmodified":1566585014,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677739,
     "wof:name":"Kaersu",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309629,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -84,9 +84,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713314107,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +97,9 @@
         "qs_pg:id":915938,
         "wd:id":"Q2305798"
     },
+    "wof:coterminous":[
+        1713314107
+    ],
     "wof:country":"EE",
     "wof:created":1497295290,
     "wof:geomhash":"17c07a909c4db0dc18b508eef26c495f",
@@ -102,14 +107,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713314107,
             "locality_id":1125890425,
             "region_id":85682955
         }
     ],
     "wof:id":1125890425,
-    "wof:lastmodified":1566585341,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676966,
     "wof:name":"Rasina",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713314107,
     "wof:placetype":"locality",
     "wof:population":151,
     "wof:population_rank":1,

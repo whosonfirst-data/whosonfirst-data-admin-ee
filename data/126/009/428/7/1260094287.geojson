@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Voose",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713307165,
         85633135,
-        85683055
+        1713305749
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":587971
     },
     "wof:country":"EE",
-    "wof:geomhash":"5984f0ab1acbaed2137049bb9a2de31a",
+    "wof:geomhash":"f6f9d9e7d7c7d6d41b5c9175ccf5a0ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305749,
+            "localadmin_id":1713307165,
             "locality_id":1260094287,
             "region_id":85683055
         }
     ],
     "wof:id":1260094287,
-    "wof:lastmodified":1566585137,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596662800,
     "wof:name":"Vaase",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713307165,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +78,9 @@
 },
   "bbox": [
     25.21306,
-    59.35778000000001,
+    59.35778,
     25.21306,
-    59.35778000000001
+    59.35778
 ],
-  "geometry": {"coordinates":[25.21306,59.35778000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.21306,59.35778],"type":"Point"}
 }

@@ -29,11 +29,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683013,
+        102191581,
+        1713314995,
+        85633135,
+        1713305711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,24 @@
     "wof:geomhash":"c8f5dc8b1ce93073f5b44b54aa1e574b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209190745
+            "county_id":1713305711,
+            "localadmin_id":1713314995,
+            "locality_id":1209190745,
+            "region_id":85683013
         }
     ],
     "wof:id":1209190745,
-    "wof:lastmodified":1566585102,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676723,
     "wof:name":"Leedi",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713314995,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

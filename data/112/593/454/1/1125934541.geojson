@@ -79,9 +79,11 @@
     "woe:name_adm1":"Ida-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713312859,
         85633135,
-        85683059
+        1713305651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":1273954,
         "wd:id":"Q519222"
     },
+    "wof:coterminous":[
+        1713312859
+    ],
     "wof:country":"EE",
     "wof:created":1497296921,
     "wof:geomhash":"99eb8051d8d6e441b1f72bf3387ce94a",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305651,
+            "localadmin_id":1713312859,
             "locality_id":1125934541,
             "region_id":85683059
         }
     ],
     "wof:id":1125934541,
-    "wof:lastmodified":1566585282,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676515,
     "wof:name":"Kose",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713312859,
     "wof:placetype":"locality",
     "wof:population":192,
     "wof:population_rank":1,

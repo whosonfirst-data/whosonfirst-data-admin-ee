@@ -69,9 +69,11 @@
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713306107,
         85633135,
-        85683049
+        1713305723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,6 +82,9 @@
         "qs_pg:id":111216,
         "wd:id":"Q3462980"
     },
+    "wof:coterminous":[
+        1713306107
+    ],
     "wof:country":"EE",
     "wof:created":1497300137,
     "wof:geomhash":"c2a05a1a5ae31bdc062a0c92b0fd8a42",
@@ -87,14 +92,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305723,
+            "localadmin_id":1713306107,
             "locality_id":1126008727,
             "region_id":85683049
         }
     ],
     "wof:id":1126008727,
-    "wof:lastmodified":1566585366,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661738,
     "wof:name":"Vohnja",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713306107,
     "wof:placetype":"locality",
     "wof:population":161,
     "wof:population_rank":1,

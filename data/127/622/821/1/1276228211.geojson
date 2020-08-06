@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kihme"
@@ -52,29 +52,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713313437,
         85633135,
-        85683031
+        1713305663
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591416,
         "wk:page":"Kihme"
     },
+    "wof:coterminous":[
+        1713313247
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"c4291412cc97e2fcf978d9ffee9ad0a9",
+    "wof:geomhash":"6d1c174acd9accf5ebdb6b9deafdd1df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305663,
+            "localadmin_id":1713313437,
             "locality_id":1276228211,
             "region_id":85683031
         }
     ],
     "wof:id":1276228211,
-    "wof:lastmodified":1566585019,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661325,
     "wof:name":"Kihme",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713313437,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -82,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.69972000000001,
+    25.69972,
     59.05667,
-    25.69972000000001,
+    25.69972,
     59.05667
 ],
-  "geometry": {"coordinates":[25.69972000000001,59.05667],"type":"Point"}
+  "geometry": {"coordinates":[25.69972,59.05667],"type":"Point"}
 }

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Linnamaa",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309605,
         85633135,
-        85682981
+        1713305733
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590610
     },
     "wof:country":"EE",
-    "wof:geomhash":"085520fc6736b4668b8423b47f570a70",
+    "wof:geomhash":"c18c7216a101dfcd83f3544c946af182",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713309605,
             "locality_id":1276752309,
             "region_id":85682981
         }
     ],
     "wof:id":1276752309,
-    "wof:lastmodified":1566584986,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663426,
     "wof:name":"Linnamaee",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +78,9 @@
 },
   "bbox": [
     24.41306,
-    58.60471999999999,
+    58.60472,
     24.41306,
-    58.60471999999999
+    58.60472
 ],
-  "geometry": {"coordinates":[24.41306,58.60471999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.41306,58.60472],"type":"Point"}
 }

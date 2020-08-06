@@ -29,35 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nihu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713310401,
         85633135,
-        85682941
+        1713305687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620058
     },
     "wof:country":"EE",
-    "wof:geomhash":"36ec31654bb1447b509d8463fd27fb47",
+    "wof:geomhash":"f25ba1685dcd05703f818913c0546b3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305687,
+            "localadmin_id":1713310401,
             "locality_id":1243329197,
             "region_id":85682941
         }
     ],
     "wof:id":1243329197,
-    "wof:lastmodified":1566585434,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661438,
     "wof:name":"Otike",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713310401,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -66,9 +76,9 @@
 },
   "bbox": [
     25.82361,
-    57.91721999999999,
+    57.91722,
     25.82361,
-    57.91721999999999
+    57.91722
 ],
-  "geometry": {"coordinates":[25.82361,57.91721999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.82361,57.91722],"type":"Point"}
 }

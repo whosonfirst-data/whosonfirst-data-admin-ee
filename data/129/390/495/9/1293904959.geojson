@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "K\u00e4pla"
@@ -55,29 +55,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713314685,
         85633135,
-        85683001
+        1713305755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591647,
         "wk:page":"K%C3%A4pla"
     },
+    "wof:coterminous":[
+        1713314685
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"3cffb72c318fad2ea735ec6126c07f45",
+    "wof:geomhash":"d1644c809729e8a3ee7a93bf4cde2516",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305755,
+            "localadmin_id":1713314685,
             "locality_id":1293904959,
             "region_id":85683001
         }
     ],
     "wof:id":1293904959,
-    "wof:lastmodified":1566584926,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596662776,
     "wof:name":"Kaebla",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713314685,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -86,9 +99,9 @@
 },
   "bbox": [
     23.60639,
-    58.84721999999999,
+    58.84722,
     23.60639,
-    58.84721999999999
+    58.84722
 ],
-  "geometry": {"coordinates":[23.60639,58.84721999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.60639,58.84722],"type":"Point"}
 }

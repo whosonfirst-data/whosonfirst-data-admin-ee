@@ -73,9 +73,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713308997,
         85633135,
-        85683001
+        1713305701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,6 +85,9 @@
         "qs_pg:id":81105,
         "wd:id":"Q611559"
     },
+    "wof:coterminous":[
+        1713308997
+    ],
     "wof:country":"EE",
     "wof:created":1497292498,
     "wof:geomhash":"a980e33926e1b5805011caee23efbd0c",
@@ -90,14 +95,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305701,
+            "localadmin_id":1713308997,
             "locality_id":1125830989,
             "region_id":85683001
         }
     ],
     "wof:id":1125830989,
-    "wof:lastmodified":1566585387,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677429,
     "wof:name":"Linnam\u00e4e",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713308997,
     "wof:placetype":"locality",
     "wof:population":460,
     "wof:population_rank":2,

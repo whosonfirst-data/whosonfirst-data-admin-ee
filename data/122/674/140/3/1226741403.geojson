@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tanska"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713308387,
         85633135,
-        85683001
+        1713305755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588351,
         "wk:page":"Tanska%2C_Estonia"
     },
+    "wof:coterminous":[
+        1713308387
+    ],
     "wof:country":"EE",
     "wof:geomhash":"d0f8f19157db78ca28d286b293f7712e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305755,
+            "localadmin_id":1713308387,
             "locality_id":1226741403,
             "region_id":85683001
         }
     ],
     "wof:id":1226741403,
-    "wof:lastmodified":1566585530,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596662773,
     "wof:name":"Tanska",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713308387,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -89,9 +89,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306401,
         85633135,
-        85683055
+        1713305625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,6 +102,9 @@
         "qs_pg:id":983625,
         "wd:id":"Q2416422"
     },
+    "wof:coterminous":[
+        1713306401
+    ],
     "wof:country":"EE",
     "wof:created":1497295254,
     "wof:geomhash":"1193c97b79f0bf81ba9b2edee93fc5a9",
@@ -107,14 +112,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305625,
+            "localadmin_id":1713306401,
             "locality_id":1125889631,
             "region_id":85683055
         }
     ],
     "wof:id":1125889631,
-    "wof:lastmodified":1566585335,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676118,
     "wof:name":"Muuga",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306401,
     "wof:placetype":"locality",
     "wof:population":201,
     "wof:population_rank":2,

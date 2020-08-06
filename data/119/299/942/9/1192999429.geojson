@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Paatsalu"
@@ -56,29 +56,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713309239,
         85633135,
-        85682981
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589749,
         "wk:page":"Paatsalu"
     },
+    "wof:coterminous":[
+        1713309239
+    ],
     "wof:country":"EE",
     "wof:geomhash":"71a9525198a5f446dc84efbb0a200924",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713309239,
             "locality_id":1192999429,
-            "region_id":85682981
+            "region_id":85683001
         }
     ],
     "wof:id":1192999429,
-    "wof:lastmodified":1566585125,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661687,
     "wof:name":"Paatsalu",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

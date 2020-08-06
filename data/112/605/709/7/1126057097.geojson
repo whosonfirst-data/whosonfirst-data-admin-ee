@@ -84,9 +84,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713314123,
         85633135,
-        85682981
+        1713305733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +97,9 @@
         "qs_pg:id":915794,
         "wd:id":"Q1524251"
     },
+    "wof:coterminous":[
+        1713314123
+    ],
     "wof:country":"EE",
     "wof:created":1497303344,
     "wof:geomhash":"ba24d1d865370d96f22e8cd83f911511",
@@ -102,14 +107,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713314123,
             "locality_id":1126057097,
             "region_id":85682981
         }
     ],
     "wof:id":1126057097,
-    "wof:lastmodified":1566585312,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663431,
     "wof:name":"Langerma",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713314123,
     "wof:placetype":"locality",
     "wof:population":102,
     "wof:population_rank":1,

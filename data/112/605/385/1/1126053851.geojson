@@ -90,9 +90,11 @@
     "woe:name_adm1":"L\u00e4\u00e4nemaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713309575,
         85633135,
-        85683001
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,6 +103,9 @@
         "qs_pg:id":1027040,
         "wd:id":"Q1742435"
     },
+    "wof:coterminous":[
+        1713309575
+    ],
     "wof:country":"EE",
     "wof:created":1497302960,
     "wof:geomhash":"a195191e6c86795eed222d4cc006e38d",
@@ -108,14 +113,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713309575,
             "locality_id":1126053851,
             "region_id":85683001
         }
     ],
     "wof:id":1126053851,
-    "wof:lastmodified":1566585314,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661693,
     "wof:name":"Kirbla",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713309575,
     "wof:placetype":"locality",
     "wof:population":250,
     "wof:population_rank":2,

@@ -79,9 +79,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310865,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":1274391,
         "wd:id":"Q3457513"
     },
+    "wof:coterminous":[
+        1713310865
+    ],
     "wof:country":"EE",
     "wof:created":1497292709,
     "wof:geomhash":"5c87cc730dc7ef8678e0164f9b0c217c",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713310865,
             "locality_id":1125835761,
             "region_id":85682955
         }
     ],
     "wof:id":1125835761,
-    "wof:lastmodified":1566585389,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676964,
     "wof:name":"Puuri",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310865,
     "wof:placetype":"locality",
     "wof:population":129,
     "wof:population_rank":1,

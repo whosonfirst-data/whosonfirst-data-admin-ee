@@ -89,9 +89,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713314379,
         85633135,
-        85682981
+        1713305733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,6 +102,9 @@
         "qs_pg:id":42598,
         "wd:id":"Q1524176"
     },
+    "wof:coterminous":[
+        1713314379
+    ],
     "wof:country":"EE",
     "wof:created":1497290765,
     "wof:geomhash":"57ae2de6e7fc061b06d466c22e2b3767",
@@ -107,14 +112,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713314379,
             "locality_id":1125788311,
             "region_id":85682981
         }
     ],
     "wof:id":1125788311,
-    "wof:lastmodified":1566585384,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663422,
     "wof:name":"Libatse",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713314379,
     "wof:placetype":"locality",
     "wof:population":488,
     "wof:population_rank":2,

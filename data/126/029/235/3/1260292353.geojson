@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "L\u00fcmatu"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713311809,
         85633135,
-        85683059
+        1713305695
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590477,
         "wk:page":"L%C3%BCmatu%2C_Ida-Viru_County"
     },
+    "wof:coterminous":[
+        1713313183
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"d28aba0fb546ddd18608ad5deb126aed",
+    "wof:geomhash":"aa68e65fd6e976d2c65e18e7ba9a23a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305695,
+            "localadmin_id":1713311809,
             "locality_id":1260292353,
             "region_id":85683059
         }
     ],
     "wof:id":1260292353,
-    "wof:lastmodified":1566585148,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660797,
     "wof:name":"Luematu",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713311809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -85,9 +98,9 @@
 },
   "bbox": [
     26.98556,
-    59.25333000000001,
+    59.25333,
     26.98556,
-    59.25333000000001
+    59.25333
 ],
-  "geometry": {"coordinates":[26.98556,59.25333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.98556,59.25333],"type":"Point"}
 }

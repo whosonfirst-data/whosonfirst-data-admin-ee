@@ -80,9 +80,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306055,
         85633135,
-        85683055
+        1713305625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":1086517,
         "wd:id":"Q3004051"
     },
+    "wof:coterminous":[
+        1713306055
+    ],
     "wof:country":"EE",
     "wof:created":1497292096,
     "wof:geomhash":"d04b44e2cd3daec278c5e15e92ab29d6",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305625,
+            "localadmin_id":1713306055,
             "locality_id":1125821639,
             "region_id":85683055
         }
     ],
     "wof:id":1125821639,
-    "wof:lastmodified":1566585376,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676118,
     "wof:name":"Miiduranna",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Arisvere"
@@ -55,29 +55,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713314523,
         85633135,
-        85683009
+        1713305657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592427,
         "wk:page":"Arisvere"
     },
+    "wof:coterminous":[
+        1713314523
+    ],
     "wof:country":"EE",
     "wof:geomhash":"424b824dc3d605d199cb6dea5659c0b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305657,
+            "localadmin_id":1713314523,
             "locality_id":1243553687,
             "region_id":85683009
         }
     ],
     "wof:id":1243553687,
-    "wof:lastmodified":1566585397,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676506,
     "wof:name":"Arisvere",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713314523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

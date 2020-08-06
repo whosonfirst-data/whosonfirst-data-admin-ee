@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "V\u00f5duvere"
@@ -48,29 +48,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713313763,
         85633135,
-        85683049
+        1713305723
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793270,
         "wk:page":"V%C3%B5duvere%2C_L%C3%A4%C3%A4ne-Viru_County"
     },
+    "wof:coterminous":[
+        1713313763
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"65b3e3c8f3a92618684ea31725cd1eff",
+    "wof:geomhash":"a400b60cc2ce689cb145b07ccab7d197",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305723,
+            "localadmin_id":1713313763,
             "locality_id":1276754835,
             "region_id":85683049
         }
     ],
     "wof:id":1276754835,
-    "wof:lastmodified":1566584985,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661734,
     "wof:name":"Voduvere",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713313763,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -79,9 +92,9 @@
 },
   "bbox": [
     26.10694,
-    59.32471999999999,
+    59.32472,
     26.10694,
-    59.32471999999999
+    59.32472
 ],
-  "geometry": {"coordinates":[26.10694,59.32471999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.10694,59.32472],"type":"Point"}
 }

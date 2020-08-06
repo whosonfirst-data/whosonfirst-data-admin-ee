@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Sava k\u00fcla"
@@ -60,29 +60,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713306479,
         85633135,
-        85682995
+        1713305697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588757,
         "wk:page":"Sava%2C_Estonia"
     },
+    "wof:coterminous":[
+        1713306477
+    ],
     "wof:country":"EE",
     "wof:geomhash":"ed5cf36704a800cd9444d55887d2a052",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305697,
+            "localadmin_id":1713306479,
             "locality_id":1326793837,
             "region_id":85682995
         }
     ],
     "wof:id":1326793837,
-    "wof:lastmodified":1566584799,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660680,
     "wof:name":"Sava",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713306479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

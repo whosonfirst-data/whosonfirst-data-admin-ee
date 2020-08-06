@@ -76,9 +76,11 @@
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713311893,
         85633135,
-        85683049
+        1713305769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,6 +89,9 @@
         "qs_pg:id":405705,
         "wd:id":"Q3468829"
     },
+    "wof:coterminous":[
+        1713311893
+    ],
     "wof:country":"EE",
     "wof:created":1497298175,
     "wof:geomhash":"4fdaa9f1c53439aa0ad39096c61fd5a1",
@@ -94,14 +99,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305769,
+            "localadmin_id":1713311893,
             "locality_id":1125971299,
             "region_id":85683049
         }
     ],
     "wof:id":1125971299,
-    "wof:lastmodified":1566585353,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676546,
     "wof:name":"Eipri",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713311893,
     "wof:placetype":"locality",
     "wof:population":128,
     "wof:population_rank":1,

@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lanekuru",
@@ -38,28 +38,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713310053,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590857
     },
+    "wof:coterminous":[
+        1713310053
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"60bfd3319928d53bb0f705ec1b5e4a2a",
+    "wof:geomhash":"d50fdf9fe6e4e2864ef05de2689de48f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713310053,
             "locality_id":1243325317,
             "region_id":85682985
         }
     ],
     "wof:id":1243325317,
-    "wof:lastmodified":1566585433,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661268,
     "wof:name":"Laanekuru",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713310053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +81,9 @@
 },
   "bbox": [
     25.45139,
-    58.31444000000001,
+    58.31444,
     25.45139,
-    58.31444000000001
+    58.31444
 ],
-  "geometry": {"coordinates":[25.45139,58.31444000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.45139,58.31444],"type":"Point"}
 }

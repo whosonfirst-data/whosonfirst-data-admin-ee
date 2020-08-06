@@ -29,31 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Lukslaggen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683001,
+        102191581,
+        1713308735,
+        85633135,
+        1713305701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590485
     },
     "wof:country":"EE",
-    "wof:geomhash":"5cad19a0334e2f0e6e498f71fd461157",
+    "wof:geomhash":"eb21f11d5c03e1402daa55bd5741eb16",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209235659
+            "county_id":1713305701,
+            "localadmin_id":1713308735,
+            "locality_id":1209235659,
+            "region_id":85683001
         }
     ],
     "wof:id":1209235659,
-    "wof:lastmodified":1566585069,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677424,
     "wof:name":"Luksi",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713308735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -61,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.53972000000001,
+    23.53972,
     59.10611,
-    23.53972000000001,
+    23.53972,
     59.10611
 ],
-  "geometry": {"coordinates":[23.53972000000001,59.10611],"type":"Point"}
+  "geometry": {"coordinates":[23.53972,59.10611],"type":"Point"}
 }

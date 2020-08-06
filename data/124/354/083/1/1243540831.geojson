@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "K\u00f5du k\u00fcla"
@@ -59,29 +59,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713306487,
         85633135,
-        85683013
+        1713305773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591281,
         "wk:page":"K%C3%B5du"
     },
+    "wof:coterminous":[
+        1713306487
+    ],
     "wof:country":"EE",
     "wof:geomhash":"d7a7e3a54ee2454fdfaf413a99e6d21d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305773,
+            "localadmin_id":1713306487,
             "locality_id":1243540831,
-            "region_id":85683013
+            "region_id":85683031
         }
     ],
     "wof:id":1243540831,
-    "wof:lastmodified":1566585391,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677996,
     "wof:name":"Kodu",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713306487,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

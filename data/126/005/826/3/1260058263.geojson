@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kullimaa"
@@ -48,28 +48,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309195,
         85633135,
-        85682981
+        1713305733
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794806
     },
+    "wof:coterminous":[
+        1713309195
+    ],
     "wof:country":"EE",
     "wof:geomhash":"57843ed19151b09a6b09406c1cc38269",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713309195,
             "locality_id":1260058263,
             "region_id":85682981
         }
     ],
     "wof:id":1260058263,
-    "wof:lastmodified":1566585155,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663420,
     "wof:name":"Kullimaa",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309195,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

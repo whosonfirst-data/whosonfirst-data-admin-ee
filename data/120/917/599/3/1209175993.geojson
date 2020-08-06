@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Hirmuk\u00fcla"
@@ -51,25 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682985,
+        102191581,
+        1713311511,
+        85633135,
+        1713305661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794610,
         "wk:page":"Hirmuk%C3%BCla"
     },
+    "wof:coterminous":[
+        1713311511
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"9505beff98881f493b7271c78a57bdf4",
+    "wof:geomhash":"5ce46ef2ec7df9b1cfd648995ca79413",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209175993
+            "county_id":1713305661,
+            "localadmin_id":1713311511,
+            "locality_id":1209175993,
+            "region_id":85682985
         }
     ],
     "wof:id":1209175993,
-    "wof:lastmodified":1566585104,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661302,
     "wof:name":"Hirmukuela",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713311511,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -78,9 +95,9 @@
 },
   "bbox": [
     25.62667,
-    58.13166999999999,
+    58.13167,
     25.62667,
-    58.13166999999999
+    58.13167
 ],
-  "geometry": {"coordinates":[25.62667,58.13166999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.62667,58.13167],"type":"Point"}
 }

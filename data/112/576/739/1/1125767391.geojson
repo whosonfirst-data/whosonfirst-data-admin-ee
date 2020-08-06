@@ -82,9 +82,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713313059,
         85633135,
-        85682985
+        1713305735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,9 @@
         "qs_pg:id":1274540,
         "wd:id":"Q11017956"
     },
+    "wof:coterminous":[
+        1713313059
+    ],
     "wof:country":"EE",
     "wof:created":1497289947,
     "wof:geomhash":"35cb4959dad722a7819fc74f597bd394",
@@ -100,14 +105,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305735,
+            "localadmin_id":1713313059,
             "locality_id":1125767391,
             "region_id":85682985
         }
     ],
     "wof:id":1125767391,
-    "wof:lastmodified":1566585377,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663451,
     "wof:name":"Soomevere",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713313059,
     "wof:placetype":"locality",
     "wof:population":116,
     "wof:population_rank":1,

@@ -73,9 +73,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713313937,
         85633135,
-        85682995
+        1713305697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,6 +86,9 @@
         "qs_pg:id":1274515,
         "wd:id":"Q3454230"
     },
+    "wof:coterminous":[
+        1713313937
+    ],
     "wof:country":"EE",
     "wof:created":1497296976,
     "wof:geomhash":"da2cd302dbc8da5a05db1cad5517ee55",
@@ -91,14 +96,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305697,
+            "localadmin_id":1713313937,
             "locality_id":1125936227,
             "region_id":85682995
         }
     ],
     "wof:id":1125936227,
-    "wof:lastmodified":1566585287,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660680,
     "wof:name":"Sirgu",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713313937,
     "wof:placetype":"locality",
     "wof:population":96,
     "wof:population_rank":1,

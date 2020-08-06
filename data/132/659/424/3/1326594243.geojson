@@ -29,32 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713315797,
         85633135,
-        85682937
+        1713305787
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794253
     },
+    "wof:coterminous":[
+        1713315797
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"1d32416319c4626e0f41e5dffebfcb86",
+    "wof:geomhash":"d82ca84492fe8583dc8e9f9bff5c18e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305787,
+            "localadmin_id":1713315797,
             "locality_id":1326594243,
             "region_id":85682937
         }
     ],
     "wof:id":1326594243,
-    "wof:lastmodified":1566584775,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676881,
     "wof:name":"Moeldre",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713315797,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +76,9 @@
 },
   "bbox": [
     27.27167,
-    57.66278000000001,
+    57.66278,
     27.27167,
-    57.66278000000001
+    57.66278
 ],
-  "geometry": {"coordinates":[27.27167,57.66278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.27167,57.66278],"type":"Point"}
 }

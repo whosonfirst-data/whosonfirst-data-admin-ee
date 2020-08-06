@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "M\u00e4gestiku"
@@ -48,25 +48,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682941,
+        102191581,
+        1713309727,
+        85633135,
+        1713305759
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794572,
         "wk:page":"M%C3%A4gestiku"
     },
+    "wof:coterminous":[
+        1713309727
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"0d20ed42a95026b9fd4a6c54fcd47568",
+    "wof:geomhash":"804efeca5e1eca417df4e1b1413ffd93",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209380433
+            "county_id":1713305759,
+            "localadmin_id":1713309727,
+            "locality_id":1209380433,
+            "region_id":85682941
         }
     ],
     "wof:id":1209380433,
-    "wof:lastmodified":1566585045,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661874,
     "wof:name":"Maegestiku",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713309727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -75,9 +92,9 @@
 },
   "bbox": [
     26.39222,
-    58.08971999999999,
+    58.08972,
     26.39222,
-    58.08971999999999
+    58.08972
 ],
-  "geometry": {"coordinates":[26.39222,58.08971999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.39222,58.08972],"type":"Point"}
 }

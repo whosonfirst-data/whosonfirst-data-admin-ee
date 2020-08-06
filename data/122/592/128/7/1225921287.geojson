@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kooli"
@@ -48,29 +48,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713314323,
         85633135,
-        85682955
+        1713305789
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794479,
         "wk:page":"Kooli"
     },
+    "wof:coterminous":[
+        1713314323
+    ],
     "wof:country":"EE",
     "wof:geomhash":"984826656bfc1eafd9b889d887badb8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305789,
+            "localadmin_id":1713314323,
             "locality_id":1225921287,
             "region_id":85682955
         }
     ],
     "wof:id":1225921287,
-    "wof:lastmodified":1566585515,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676789,
     "wof:name":"Kooli",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713314323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

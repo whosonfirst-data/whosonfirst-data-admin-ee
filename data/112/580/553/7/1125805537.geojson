@@ -79,9 +79,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713314423,
         85633135,
-        85682981
+        1713305703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":1274469,
         "wd:id":"Q2026539"
     },
+    "wof:coterminous":[
+        1713314423
+    ],
     "wof:country":"EE",
     "wof:created":1497291448,
     "wof:geomhash":"8c006b1c5430b236f27fc523940705ac",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305703,
+            "localadmin_id":1713314423,
             "locality_id":1125805537,
             "region_id":85682981
         }
     ],
     "wof:id":1125805537,
-    "wof:lastmodified":1566585344,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677700,
     "wof:name":"Saari",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713314423,
     "wof:placetype":"locality",
     "wof:population":370,
     "wof:population_rank":2,

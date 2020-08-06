@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "\u00d5vi"
@@ -44,28 +44,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713308971,
         85633135,
-        85682995
+        1713305659
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589771
     },
+    "wof:coterminous":[
+        1713308971
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"7db28eeb647daa393aa6126844b01fd8",
+    "wof:geomhash":"5f7c7e4e2f33a3844092747c3269b399",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305659,
+            "localadmin_id":1713308971,
             "locality_id":1310280857,
-            "region_id":85682995
+            "region_id":85683009
         }
     ],
     "wof:id":1310280857,
-    "wof:lastmodified":1566585192,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676471,
     "wof:name":"Ovi",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713308971,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -74,9 +87,9 @@
 },
   "bbox": [
     26.54361,
-    58.46471999999999,
+    58.46472,
     26.54361,
-    58.46471999999999
+    58.46472
 ],
-  "geometry": {"coordinates":[26.54361,58.46471999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.54361,58.46472],"type":"Point"}
 }

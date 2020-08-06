@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Savimetsa"
@@ -54,25 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682995,
+        102191581,
+        1713309603,
+        85633135,
+        1713305679
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588749,
         "wk:page":"Savimetsa"
     },
+    "wof:coterminous":[
+        1713309603
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"eedbc1506d93419d34099f84b4ac6871",
+    "wof:geomhash":"fd2befe16170150b00fd499b5c66636d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209491203
+            "county_id":1713305679,
+            "localadmin_id":1713309603,
+            "locality_id":1209491203,
+            "region_id":85682995
         }
     ],
     "wof:id":1209491203,
-    "wof:lastmodified":1566585075,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660912,
     "wof:name":"Savimetsa",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713309603,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -81,9 +98,9 @@
 },
   "bbox": [
     27.20111,
-    58.56166999999999,
+    58.56167,
     27.20111,
-    58.56166999999999
+    58.56167
 ],
-  "geometry": {"coordinates":[27.20111,58.56166999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.20111,58.56167],"type":"Point"}
 }

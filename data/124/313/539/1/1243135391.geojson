@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Laane"
@@ -66,29 +66,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713308891,
         85633135,
-        85682995
+        1713305717
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794048,
         "wk:page":"Laane%2C_Tartu_County"
     },
+    "wof:coterminous":[
+        1713308891
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"51148ef66be6f031f50f86cabcce26d0",
+    "wof:geomhash":"8a0a19f09e7170995cde20333f8c61e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305717,
+            "localadmin_id":1713308891,
             "locality_id":1243135391,
             "region_id":85682995
         }
     ],
     "wof:id":1243135391,
-    "wof:lastmodified":1566585426,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676691,
     "wof:name":"Laane",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713308891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -96,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.64417000000001,
+    26.64417,
     58.31944,
-    26.64417000000001,
+    26.64417,
     58.31944
 ],
-  "geometry": {"coordinates":[26.64417000000001,58.31944],"type":"Point"}
+  "geometry": {"coordinates":[26.64417,58.31944],"type":"Point"}
 }

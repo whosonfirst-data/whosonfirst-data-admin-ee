@@ -84,9 +84,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713314993,
         85633135,
-        85683013
+        1713305711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +97,9 @@
         "qs_pg:id":916002,
         "wd:id":"Q1827561"
     },
+    "wof:coterminous":[
+        1713314993
+    ],
     "wof:country":"EE",
     "wof:created":1497295273,
     "wof:geomhash":"3f6c32367b5e7b0b604554322d69c4ab",
@@ -102,14 +107,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305711,
+            "localadmin_id":1713314993,
             "locality_id":1125890049,
             "region_id":85683013
         }
     ],
     "wof:id":1125890049,
-    "wof:lastmodified":1566585342,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676717,
     "wof:name":"Vahastu",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713314993,
     "wof:placetype":"locality",
     "wof:population":113,
     "wof:population_rank":1,

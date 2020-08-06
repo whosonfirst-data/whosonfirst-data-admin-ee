@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "T\u00f5rvaj\u00f5e"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713313921,
         85633135,
-        85683059
+        1713305779
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793506,
         "wk:page":"T%C3%B5rvaj%C3%B5e"
     },
+    "wof:coterminous":[
+        1713313921
+    ],
     "wof:country":"EE",
     "wof:geomhash":"eae8b0dc45316284d56fcba81e1bbe4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305779,
+            "localadmin_id":1713313921,
             "locality_id":1310413341,
             "region_id":85683059
         }
     ],
     "wof:id":1310413341,
-    "wof:lastmodified":1566585160,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677904,
     "wof:name":"Torvajoe",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713313921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

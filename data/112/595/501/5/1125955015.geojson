@@ -88,9 +88,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310907,
         85633135,
-        85682995
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +101,9 @@
         "qs_pg:id":405680,
         "wd:id":"Q3459060"
     },
+    "wof:coterminous":[
+        1713310907
+    ],
     "wof:country":"EE",
     "wof:created":1497297592,
     "wof:geomhash":"d8a2775cbe1629fc569559b2d288a62b",
@@ -106,14 +111,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305793,
+            "localadmin_id":1713310907,
             "locality_id":1125955015,
-            "region_id":85682995
+            "region_id":85682955
         }
     ],
     "wof:id":1125955015,
-    "wof:lastmodified":1566585302,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676997,
     "wof:name":"Aravu",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713310907,
     "wof:placetype":"locality",
     "wof:population":144,
     "wof:population_rank":1,

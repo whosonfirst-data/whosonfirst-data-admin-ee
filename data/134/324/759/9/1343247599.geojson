@@ -29,13 +29,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713307669,
         85633135,
-        85683049
+        1713305777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +49,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305777,
+            "localadmin_id":1713307669,
             "locality_id":1343247599,
             "region_id":85683049
         }
     ],
     "wof:id":1343247599,
-    "wof:lastmodified":1566584855,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677933,
     "wof:name":"Voorse",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713307669,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

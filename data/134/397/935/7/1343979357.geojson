@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Norrby"
@@ -42,29 +42,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713307241,
         85633135,
-        85682993
+        1713305639
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589928,
         "wk:page":"Norrby"
     },
+    "wof:coterminous":[
+        1713307241
+    ],
     "wof:country":"EE",
     "wof:geomhash":"0120a683315ee772693ca7d17b508bd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305639,
+            "localadmin_id":1713307241,
             "locality_id":1343979357,
-            "region_id":85682993
+            "region_id":85683001
         }
     ],
     "wof:id":1343979357,
-    "wof:lastmodified":1566584833,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663602,
     "wof:name":"Norrby",
-    "wof:parent_id":85682993,
+    "wof:parent_id":1713307241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

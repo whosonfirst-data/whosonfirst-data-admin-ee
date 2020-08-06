@@ -70,9 +70,11 @@
     "woe:name_adm1":"J\u00f5gevamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312043,
         85633135,
-        85683009
+        1713305657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,6 +83,9 @@
         "qs_pg:id":1273776,
         "wd:id":"Q3467106"
     },
+    "wof:coterminous":[
+        1713312043
+    ],
     "wof:country":"EE",
     "wof:created":1497296885,
     "wof:geomhash":"4a65bca4ef87ced89a470c44b2a1f353",
@@ -88,14 +93,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305657,
+            "localadmin_id":1713312043,
             "locality_id":1125933437,
             "region_id":85683009
         }
     ],
     "wof:id":1125933437,
-    "wof:lastmodified":1566585293,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676505,
     "wof:name":"Kalme",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312043,
     "wof:placetype":"locality",
     "wof:population":99,
     "wof:population_rank":1,

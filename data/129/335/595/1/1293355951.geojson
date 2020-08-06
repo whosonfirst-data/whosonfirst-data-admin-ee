@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Lutike"
@@ -55,29 +55,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713313727,
         85633135,
-        85682941
+        1713305759
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590474,
         "wk:page":"Lutike"
     },
+    "wof:coterminous":[
+        1713313727
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"d7ff188c5934d7254859103ec2bca167",
+    "wof:geomhash":"4082f1b21ec73de534fb40aa8fac3905",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305759,
+            "localadmin_id":1713313727,
             "locality_id":1293355951,
             "region_id":85682941
         }
     ],
     "wof:id":1293355951,
-    "wof:lastmodified":1566584947,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661875,
     "wof:name":"Lutike",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713313727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -86,9 +99,9 @@
 },
   "bbox": [
     26.5625,
-    58.14194000000001,
+    58.14194,
     26.5625,
-    58.14194000000001
+    58.14194
 ],
-  "geometry": {"coordinates":[26.5625,58.14194000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.5625,58.14194],"type":"Point"}
 }

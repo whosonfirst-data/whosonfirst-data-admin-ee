@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u00e4ek\u00fcla",
@@ -37,9 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713314461,
         85633135,
-        85682985
+        1713305661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +49,27 @@
         "wk:page":"M%C3%A4ek%C3%BCla%2C_Karksi_Parish"
     },
     "wof:country":"EE",
-    "wof:geomhash":"c1d87b8e0fea5160a676c22c5d297078",
+    "wof:geomhash":"e2aa65a172e81fed36450a8a781ad383",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305661,
+            "localadmin_id":1713314461,
             "locality_id":1259357397,
             "region_id":85682985
         }
     ],
     "wof:id":1259357397,
-    "wof:lastmodified":1566585494,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661297,
     "wof:name":"Raengle",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713314461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +78,9 @@
 },
   "bbox": [
     25.7025,
-    58.11528000000001,
+    58.11528,
     25.7025,
-    58.11528000000001
+    58.11528
 ],
-  "geometry": {"coordinates":[25.7025,58.11528000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.7025,58.11528],"type":"Point"}
 }

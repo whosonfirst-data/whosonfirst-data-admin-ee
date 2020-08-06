@@ -92,9 +92,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713312487,
         85633135,
-        85683055
+        1713305681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,6 +105,9 @@
         "qs_pg:id":983642,
         "wd:id":"Q1761379"
     },
+    "wof:coterminous":[
+        1713312487
+    ],
     "wof:country":"EE",
     "wof:created":1497296506,
     "wof:geomhash":"b42d3d4ff3c951a0b22ac22877f69963",
@@ -110,14 +115,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305681,
+            "localadmin_id":1713312487,
             "locality_id":1125921799,
             "region_id":85683055
         }
     ],
     "wof:id":1125921799,
-    "wof:lastmodified":1566585294,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661457,
     "wof:name":"Rannam\u00f5isa",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713312487,
     "wof:placetype":"locality",
     "wof:population":245,
     "wof:population_rank":2,

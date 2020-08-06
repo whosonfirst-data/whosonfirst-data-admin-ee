@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Alu-Metsk\u00fcla"
@@ -58,29 +58,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713311079,
         85633135,
-        85683013
+        1713305711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592511,
         "wk:page":"Alu-Metsk%C3%BCla"
     },
+    "wof:coterminous":[
+        1713311201
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"f6775d0d01398241ac9d7c6d78cf6112",
+    "wof:geomhash":"4b8d61a6819445e81f775592feb6a1c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305711,
+            "localadmin_id":1713311079,
             "locality_id":1243143493,
             "region_id":85683013
         }
     ],
     "wof:id":1243143493,
-    "wof:lastmodified":1566585427,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676728,
     "wof:name":"Alu-Metskuela",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713311079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -89,9 +102,9 @@
 },
   "bbox": [
     24.74806,
-    59.04083000000001,
+    59.04083,
     24.74806,
-    59.04083000000001
+    59.04083
 ],
-  "geometry": {"coordinates":[24.74806,59.04083000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.74806,59.04083],"type":"Point"}
 }

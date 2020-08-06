@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Laane"
@@ -58,29 +58,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713311797,
         85633135,
-        85682985
+        1713305735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590861,
         "wk:page":"Laane%2C_Viljandi_County"
     },
+    "wof:coterminous":[
+        1713311797
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"da8012efd273a24390735ae0596f6730",
+    "wof:geomhash":"1f261aefce5bc1014fae3400812db1ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305735,
+            "localadmin_id":1713311797,
             "locality_id":1310070307,
             "region_id":85682985
         }
     ],
     "wof:id":1310070307,
-    "wof:lastmodified":1566585171,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663458,
     "wof:name":"Laane",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713311797,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -89,9 +102,9 @@
 },
   "bbox": [
     25.27722,
-    58.35583000000001,
+    58.35583,
     25.27722,
-    58.35583000000001
+    58.35583
 ],
-  "geometry": {"coordinates":[25.27722,58.35583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.27722,58.35583],"type":"Point"}
 }

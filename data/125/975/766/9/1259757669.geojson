@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kivi"
@@ -100,28 +100,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713309879,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591324
     },
     "wof:country":"EE",
-    "wof:geomhash":"e351f8324d5bf975160c1e5015f19df5",
+    "wof:geomhash":"5e386166a01a04a9715af65b58489a76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713309879,
             "locality_id":1259757669,
             "region_id":85682985
         }
     ],
     "wof:id":1259757669,
-    "wof:lastmodified":1566585510,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661256,
     "wof:name":"Kivi",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713309879,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -130,9 +140,9 @@
 },
   "bbox": [
     25.81667,
-    58.38333000000001,
+    58.38333,
     25.81667,
-    58.38333000000001
+    58.38333
 ],
-  "geometry": {"coordinates":[25.81667,58.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.81667,58.38333],"type":"Point"}
 }

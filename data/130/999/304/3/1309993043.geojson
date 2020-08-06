@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Perdaku"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713316373,
         85633135,
-        85682955
+        1713305631
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794220,
         "wk:page":"Perdaku"
     },
+    "wof:coterminous":[
+        1713316373
+    ],
     "wof:country":"EE",
     "wof:geomhash":"638c982c695ea1c318ffb36440d85dee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305631,
+            "localadmin_id":1713316373,
             "locality_id":1309993043,
             "region_id":85682955
         }
     ],
     "wof:id":1309993043,
-    "wof:lastmodified":1566585254,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663693,
     "wof:name":"Perdaku",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713316373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

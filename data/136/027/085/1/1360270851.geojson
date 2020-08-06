@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Udriku"
@@ -62,29 +62,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713314861,
         85633135,
-        85683049
+        1713305723
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588115,
         "wk:page":"Udriku"
     },
+    "wof:coterminous":[
+        1713314861
+    ],
     "wof:country":"EE",
     "wof:geomhash":"68cfdb9e3e7b617e52c00d1940a04937",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305723,
+            "localadmin_id":1713314861,
             "locality_id":1360270851,
             "region_id":85683049
         }
     ],
     "wof:id":1360270851,
-    "wof:lastmodified":1566585220,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661730,
     "wof:name":"Udriku",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713314861,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

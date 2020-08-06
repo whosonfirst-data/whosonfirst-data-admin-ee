@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aru",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713312753,
         85633135,
-        85683031
+        1713305765
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591248
     },
     "wof:country":"EE",
-    "wof:geomhash":"4ebfec948f4d72de32fb2a20a5fe4619",
+    "wof:geomhash":"8def6d98befa942a0e13a396c77c3f16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305765,
+            "localadmin_id":1713312753,
             "locality_id":1242971339,
             "region_id":85683031
         }
     ],
     "wof:id":1242971339,
-    "wof:lastmodified":1566585452,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676647,
     "wof:name":"Koigi-Aru",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713312753,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +78,9 @@
 },
   "bbox": [
     25.75,
-    58.86666999999999,
+    58.86667,
     25.75,
-    58.86666999999999
+    58.86667
 ],
-  "geometry": {"coordinates":[25.75,58.86666999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.75,58.86667],"type":"Point"}
 }

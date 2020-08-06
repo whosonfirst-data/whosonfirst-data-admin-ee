@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u00c4ngu",
@@ -37,9 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713310189,
         85633135,
-        85682995
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +53,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713310189,
             "locality_id":1226815409,
             "region_id":85682995
         }
     ],
     "wof:id":1226815409,
-    "wof:lastmodified":1566585521,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661916,
     "wof:name":"Engu",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713310189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

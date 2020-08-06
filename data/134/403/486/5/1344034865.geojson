@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Soohara"
@@ -55,29 +55,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310937,
         85633135,
-        85682955
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588619,
         "wk:page":"Soohara"
     },
+    "wof:coterminous":[
+        1713310873
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"67bf7ac53cab183c77f76feacaf50558",
+    "wof:geomhash":"000dffbe2ff9b74a73b3da6a9dcb1ae1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305793,
+            "localadmin_id":1713310937,
             "locality_id":1344034865,
             "region_id":85682955
         }
     ],
     "wof:id":1344034865,
-    "wof:lastmodified":1566584881,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677003,
     "wof:name":"Soohara",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -86,9 +99,9 @@
 },
   "bbox": [
     27.23028,
-    57.99778000000001,
+    57.99778,
     27.23028,
-    57.99778000000001
+    57.99778
 ],
-  "geometry": {"coordinates":[27.23028,57.99778000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.23028,57.99778],"type":"Point"}
 }

@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Puhatu"
@@ -64,29 +64,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713311891,
         85633135,
-        85683059
+        1713305693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589312,
         "wk:page":"Puhatu"
     },
+    "wof:coterminous":[
+        1713311891
+    ],
     "wof:country":"EE",
     "wof:geomhash":"64f2782fed5d81a804dbfbde1c2b16f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305693,
+            "localadmin_id":1713311891,
             "locality_id":1343460511,
             "region_id":85683059
         }
     ],
     "wof:id":1343460511,
-    "wof:lastmodified":1566584849,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660743,
     "wof:name":"Puhatu",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713311891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

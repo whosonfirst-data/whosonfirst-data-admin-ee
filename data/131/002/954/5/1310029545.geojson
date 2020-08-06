@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Neitla"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713306881,
         85633135,
-        85683031
+        1713305765
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590003,
         "wk:page":"Neitla"
     },
+    "wof:coterminous":[
+        1713306881
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"b0f88d9ae656e754d3befdfa60f8abcb",
+    "wof:geomhash":"295e50d7a09afdbbe573d9d52c8733d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305765,
+            "localadmin_id":1713306881,
             "locality_id":1310029545,
             "region_id":85683031
         }
     ],
     "wof:id":1310029545,
-    "wof:lastmodified":1566585204,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676642,
     "wof:name":"Neitla",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713306881,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -85,9 +98,9 @@
 },
   "bbox": [
     25.735,
-    59.10028000000001,
+    59.10028,
     25.735,
-    59.10028000000001
+    59.10028
 ],
-  "geometry": {"coordinates":[25.735,59.10028000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.735,59.10028],"type":"Point"}
 }

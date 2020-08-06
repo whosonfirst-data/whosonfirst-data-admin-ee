@@ -88,9 +88,11 @@
     "woe:name_adm1":"Raplamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713315147,
         85633135,
-        85683013
+        1713305747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +101,9 @@
         "qs_pg:id":1274598,
         "wd:id":"Q985328"
     },
+    "wof:coterminous":[
+        1713315147
+    ],
     "wof:country":"EE",
     "wof:created":1497296984,
     "wof:geomhash":"468d39f3f9ba25f32350ca7c8c2c1dbf",
@@ -106,14 +111,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305747,
+            "localadmin_id":1713315147,
             "locality_id":1125936489,
             "region_id":85683013
         }
     ],
     "wof:id":1125936489,
-    "wof:lastmodified":1566585289,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596662853,
     "wof:name":"Teenuse",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713315147,
     "wof:placetype":"locality",
     "wof:population":116,
     "wof:population_rank":1,

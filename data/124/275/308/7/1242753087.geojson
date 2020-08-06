@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sareantsu",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713315251,
         85633135,
-        85682941
+        1713305687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588881
     },
     "wof:country":"EE",
-    "wof:geomhash":"2fe070a1f346cd964178d4c361f64ff5",
+    "wof:geomhash":"03015b2cea420158c5db52736d378c55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305687,
+            "localadmin_id":1713315251,
             "locality_id":1242753087,
             "region_id":85682941
         }
     ],
     "wof:id":1242753087,
-    "wof:lastmodified":1566585403,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661431,
     "wof:name":"Saareantsu",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713315251,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +78,9 @@
 },
   "bbox": [
     25.9,
-    58.03333000000001,
+    58.03333,
     25.9,
-    58.03333000000001
+    58.03333
 ],
-  "geometry": {"coordinates":[25.9,58.03333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.9,58.03333],"type":"Point"}
 }

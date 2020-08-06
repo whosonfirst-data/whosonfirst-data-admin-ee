@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ibaste"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713314013,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794141,
         "wk:page":"Ibaste"
     },
+    "wof:coterminous":[
+        1713314013
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"004a479a5dd538ed8b4ddb220297663f",
+    "wof:geomhash":"18605f83130698de9000fc3b7ca668cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713314013,
             "locality_id":1276213839,
             "region_id":85682955
         }
     ],
     "wof:id":1276213839,
-    "wof:lastmodified":1566584988,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676966,
     "wof:name":"Ibaste",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713314013,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -85,9 +98,9 @@
 },
   "bbox": [
     27.10806,
-    58.23721999999999,
+    58.23722,
     27.10806,
-    58.23721999999999
+    58.23722
 ],
-  "geometry": {"coordinates":[27.10806,58.23721999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.10806,58.23722],"type":"Point"}
 }

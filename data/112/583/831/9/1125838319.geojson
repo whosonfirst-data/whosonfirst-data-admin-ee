@@ -70,9 +70,11 @@
     "woe:name_adm1":"Raplamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713315053,
         85633135,
-        85682981
+        1713305705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,6 +83,9 @@
         "qs_pg:id":528590,
         "wd:id":"Q10975175"
     },
+    "wof:coterminous":[
+        1713315053
+    ],
     "wof:country":"EE",
     "wof:created":1497292817,
     "wof:geomhash":"4008c57b59a6b6064c05dd4e27107e2c",
@@ -88,14 +93,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305705,
+            "localadmin_id":1713315053,
             "locality_id":1125838319,
             "region_id":85682981
         }
     ],
     "wof:id":1125838319,
-    "wof:lastmodified":1566585388,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677733,
     "wof:name":"Metsa\u00e4\u00e4re",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713315053,
     "wof:placetype":"locality",
     "wof:population":96,
     "wof:population_rank":1,

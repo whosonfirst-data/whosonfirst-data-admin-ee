@@ -29,35 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Erisvere"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312267,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619411
     },
     "wof:country":"EE",
-    "wof:geomhash":"b137a174159ea0dcc8c999d70a42a370",
+    "wof:geomhash":"af72dc273875457e465ae8a1ad02c95b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312267,
             "locality_id":1243368287,
             "region_id":85683009
         }
     ],
     "wof:id":1243368287,
-    "wof:lastmodified":1566585390,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676583,
     "wof:name":"Eristvere",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312267,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -66,9 +76,9 @@
 },
   "bbox": [
     26.38528,
-    58.72833000000001,
+    58.72833,
     26.38528,
-    58.72833000000001
+    58.72833
 ],
-  "geometry": {"coordinates":[26.38528,58.72833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.38528,58.72833],"type":"Point"}
 }

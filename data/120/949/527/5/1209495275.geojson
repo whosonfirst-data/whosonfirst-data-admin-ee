@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "S\u00e4\u00e4ssaare"
@@ -57,25 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682955,
+        102191581,
+        1713310867,
+        85633135,
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794601,
         "wk:page":"S%C3%A4%C3%A4ssaare"
     },
+    "wof:coterminous":[
+        1713310867
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"f810a946197ac7ff05597f59aa2bda66",
+    "wof:geomhash":"c4ff8bfd20f979a596b507ab2534ebcb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209495275
+            "county_id":1713305791,
+            "localadmin_id":1713310867,
+            "locality_id":1209495275,
+            "region_id":85682955
         }
     ],
     "wof:id":1209495275,
-    "wof:lastmodified":1566585075,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676963,
     "wof:name":"Saeaessaare",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713310867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -83,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.16444000000001,
+    27.16444,
     58.15389,
-    27.16444000000001,
+    27.16444,
     58.15389
 ],
-  "geometry": {"coordinates":[27.16444000000001,58.15389],"type":"Point"}
+  "geometry": {"coordinates":[27.16444,58.15389],"type":"Point"}
 }

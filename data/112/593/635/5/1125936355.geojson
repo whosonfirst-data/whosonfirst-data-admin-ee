@@ -85,9 +85,11 @@
     "woe:name_adm1":"Valgamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713312717,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,6 +98,9 @@
         "qs_pg:id":1274563,
         "wd:id":"Q3457447"
     },
+    "wof:coterminous":[
+        1713312717
+    ],
     "wof:country":"EE",
     "wof:created":1497296980,
     "wof:geomhash":"715eebeab37cf83ff9cc03783b5b17a3",
@@ -103,14 +108,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713312717,
             "locality_id":1125936355,
             "region_id":85682955
         }
     ],
     "wof:id":1125936355,
-    "wof:lastmodified":1566585282,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676972,
     "wof:name":"Suurk\u00fcla",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713312717,
     "wof:placetype":"locality",
     "wof:population":105,
     "wof:population_rank":1,

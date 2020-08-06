@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Tuuraste"
@@ -55,29 +55,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713310107,
         85633135,
-        85682981
+        1713305703
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588129,
         "wk:page":"Tuuraste"
     },
+    "wof:coterminous":[
+        1713310107
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"c39774b5406a0f264d3ff7048ace7975",
+    "wof:geomhash":"b216c38a19c9bfb40b6b7e2f413697b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305703,
+            "localadmin_id":1713310107,
             "locality_id":1243542665,
             "region_id":85682981
         }
     ],
     "wof:id":1243542665,
-    "wof:lastmodified":1566585392,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677711,
     "wof:name":"Tuuraste",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713310107,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -86,9 +99,9 @@
 },
   "bbox": [
     24.24889,
-    58.38166999999999,
+    58.38167,
     24.24889,
-    58.38166999999999
+    58.38167
 ],
-  "geometry": {"coordinates":[24.24889,58.38166999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.24889,58.38167],"type":"Point"}
 }

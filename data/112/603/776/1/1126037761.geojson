@@ -81,9 +81,11 @@
     "woe:name_adm1":"J\u00f5gevamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713314327,
         85633135,
-        85683009
+        1713305657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,9 @@
         "qs_pg:id":966866,
         "wd:id":"Q3465655"
     },
+    "wof:coterminous":[
+        1713314327
+    ],
     "wof:country":"EE",
     "wof:created":1497301904,
     "wof:geomhash":"2fed4ab8f27f2dd43c77f10243119f94",
@@ -99,14 +104,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305657,
+            "localadmin_id":1713314327,
             "locality_id":1126037761,
             "region_id":85683009
         }
     ],
     "wof:id":1126037761,
-    "wof:lastmodified":1566585324,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676507,
     "wof:name":"Pikknurme",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713314327,
     "wof:placetype":"locality",
     "wof:population":215,
     "wof:population_rank":2,

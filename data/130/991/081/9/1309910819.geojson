@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kirivere"
@@ -57,28 +57,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312037,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619545
     },
     "wof:country":"EE",
-    "wof:geomhash":"00b8a5102154522938d62c8422b8c0ba",
+    "wof:geomhash":"222ad48559e410dfb4d0bec219f7ee95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312037,
             "locality_id":1309910819,
             "region_id":85683009
         }
     ],
     "wof:id":1309910819,
-    "wof:lastmodified":1566585252,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676569,
     "wof:name":"Kirivere",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -87,9 +97,9 @@
 },
   "bbox": [
     26.54889,
-    58.87083000000001,
+    58.87083,
     26.54889,
-    58.87083000000001
+    58.87083
 ],
-  "geometry": {"coordinates":[26.54889,58.87083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.54889,58.87083],"type":"Point"}
 }

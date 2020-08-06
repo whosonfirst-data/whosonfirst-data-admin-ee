@@ -78,9 +78,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713305865,
         85633135,
-        85683055
+        1713305683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,6 +91,9 @@
         "qs_pg:id":966848,
         "wd:id":"Q2479131"
     },
+    "wof:coterminous":[
+        1713314599
+    ],
     "wof:country":"EE",
     "wof:created":1497301904,
     "wof:geomhash":"159fe71c4487bd6f1c3370205dcd4ffb",
@@ -96,14 +101,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305683,
+            "localadmin_id":1713305865,
             "locality_id":1126037753,
             "region_id":85683055
         }
     ],
     "wof:id":1126037753,
-    "wof:lastmodified":1566585328,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661484,
     "wof:name":"Pajupea",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713305865,
     "wof:placetype":"locality",
     "wof:population":111,
     "wof:population_rank":1,

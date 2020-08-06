@@ -29,35 +29,48 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0410\u043b\u0430-\u0425\u044d\u0441\u043a\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713315545,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620033
     },
+    "wof:coterminous":[
+        1713315545
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"84bf4a97300353b528198a5a7c0fab10",
+    "wof:geomhash":"fe3bf9cfd99ea3565bfaf14b9518ba76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713315545,
             "locality_id":1326688927,
             "region_id":85682937
         }
     ],
     "wof:id":1326688927,
-    "wof:lastmodified":1566584777,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660408,
     "wof:name":"Heeska",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713315545,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -66,9 +79,9 @@
 },
   "bbox": [
     26.725,
-    57.89471999999999,
+    57.89472,
     26.725,
-    57.89471999999999
+    57.89472
 ],
-  "geometry": {"coordinates":[26.725,57.89471999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.725,57.89472],"type":"Point"}
 }

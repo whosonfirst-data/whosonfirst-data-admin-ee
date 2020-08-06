@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Jalase"
@@ -61,29 +61,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713314553,
         85633135,
-        85683013
+        1713305711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591993,
         "wk:page":"Jalase"
     },
+    "wof:coterminous":[
+        1713314553
+    ],
     "wof:country":"EE",
     "wof:geomhash":"8d0b0b4c1e225e7d8fdca463b94bbd67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305711,
+            "localadmin_id":1713314553,
             "locality_id":1293466141,
             "region_id":85683013
         }
     ],
     "wof:id":1293466141,
-    "wof:lastmodified":1566584928,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676723,
     "wof:name":"Jalase",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713314553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

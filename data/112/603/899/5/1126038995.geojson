@@ -90,9 +90,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713314253,
         85633135,
-        85682981
+        1713305703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,6 +103,9 @@
         "qs_pg:id":262003,
         "wd:id":"Q1954206"
     },
+    "wof:coterminous":[
+        1713314253
+    ],
     "wof:country":"EE",
     "wof:created":1497302002,
     "wof:geomhash":"813206122ea0a40ad6a72320cfe06c68",
@@ -108,14 +113,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305703,
+            "localadmin_id":1713314253,
             "locality_id":1126038995,
             "region_id":85682981
         }
     ],
     "wof:id":1126038995,
-    "wof:lastmodified":1566585327,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677711,
     "wof:name":"Ahaste",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713314253,
     "wof:placetype":"locality",
     "wof:population":219,
     "wof:population_rank":2,

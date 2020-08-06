@@ -73,9 +73,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713314207,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,6 +86,9 @@
         "qs_pg:id":406533,
         "wd:id":"Q11048756"
     },
+    "wof:coterminous":[
+        1713314207
+    ],
     "wof:country":"EE",
     "wof:created":1497297677,
     "wof:geomhash":"24b92bf852c6d68e432339872af68d09",
@@ -91,14 +96,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713314207,
             "locality_id":1125957707,
             "region_id":85682985
         }
     ],
     "wof:id":1125957707,
-    "wof:lastmodified":1566585302,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661265,
     "wof:name":"Vooru",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713314207,
     "wof:placetype":"locality",
     "wof:population":98,
     "wof:population_rank":1,

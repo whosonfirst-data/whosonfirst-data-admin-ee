@@ -78,9 +78,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713310081,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,6 +91,9 @@
         "qs_pg:id":916045,
         "wd:id":"Q10950074"
     },
+    "wof:coterminous":[
+        1713310081
+    ],
     "wof:country":"EE",
     "wof:created":1497295294,
     "wof:geomhash":"e6250ab1f3239ef5f41555e314c9c54f",
@@ -96,14 +101,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713310081,
             "locality_id":1125890493,
             "region_id":85682985
         }
     ],
     "wof:id":1125890493,
-    "wof:lastmodified":1566585338,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661263,
     "wof:name":"Villa",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713310081,
     "wof:placetype":"locality",
     "wof:population":157,
     "wof:population_rank":1,

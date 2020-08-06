@@ -235,9 +235,11 @@
     "woe:name_adm1":"Raplamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713311171,
         85633135,
-        85683013
+        1713305747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -246,6 +248,9 @@
         "qs_pg:id":406481,
         "wd:id":"Q3462598"
     },
+    "wof:coterminous":[
+        1713311171
+    ],
     "wof:country":"EE",
     "wof:created":1497297669,
     "wof:geomhash":"53d25ba0eb4d53bd6a810d0db2912c1f",
@@ -253,14 +258,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305747,
+            "localadmin_id":1713311171,
             "locality_id":1125957475,
             "region_id":85683013
         }
     ],
     "wof:id":1125957475,
-    "wof:lastmodified":1566585301,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596662846,
     "wof:name":"Vana Vigala",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713311171,
     "wof:placetype":"locality",
     "wof:population":572,
     "wof:population_rank":2,

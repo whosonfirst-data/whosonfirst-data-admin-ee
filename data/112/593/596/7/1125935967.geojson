@@ -82,9 +82,11 @@
     "woe:name_adm1":"J\u00e4rvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713306841,
         85633135,
-        85683031
+        1713305765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,9 @@
         "qs_pg:id":1274449,
         "wd:id":"Q3086324"
     },
+    "wof:coterminous":[
+        1713306841
+    ],
     "wof:country":"EE",
     "wof:created":1497296969,
     "wof:geomhash":"46e28446915a18068cc58f1d172b667c",
@@ -100,14 +105,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305765,
+            "localadmin_id":1713306841,
             "locality_id":1125935967,
             "region_id":85683031
         }
     ],
     "wof:id":1125935967,
-    "wof:lastmodified":1566585286,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676652,
     "wof:name":"Roosna",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713306841,
     "wof:placetype":"locality",
     "wof:population":126,
     "wof:population_rank":1,

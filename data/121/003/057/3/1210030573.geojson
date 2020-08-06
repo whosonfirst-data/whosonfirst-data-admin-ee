@@ -29,7 +29,8 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Tammej\u00e4rve"
@@ -60,9 +61,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713313099,
         85633135,
-        85683055
+        1713305643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,14 +78,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305643,
+            "localadmin_id":1713313099,
             "locality_id":1210030573,
             "region_id":85683055
         }
     ],
     "wof:id":1210030573,
-    "wof:lastmodified":1566585112,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663500,
     "wof:name":"Tammejaerve",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713313099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

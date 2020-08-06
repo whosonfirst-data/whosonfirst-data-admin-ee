@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paelamaa",
@@ -38,28 +38,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713311617,
         85633135,
-        85682985
+        1713305735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589732
     },
+    "wof:coterminous":[
+        1713311617
+    ],
     "wof:country":"EE",
     "wof:geomhash":"d0e90adaf53a1f2bffa422cc586f2b7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305735,
+            "localadmin_id":1713311617,
             "locality_id":1225810077,
             "region_id":85682985
         }
     ],
     "wof:id":1225810077,
-    "wof:lastmodified":1566585548,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663454,
     "wof:name":"Paelama",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713311617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

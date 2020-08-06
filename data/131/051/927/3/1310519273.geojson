@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Maardu"
@@ -69,29 +69,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306389,
         85633135,
-        85683055
+        1713305689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590448,
         "wk:page":"Maardu_village"
     },
+    "wof:coterminous":[
+        1713306389
+    ],
     "wof:country":"EE",
     "wof:geomhash":"fc8128e2286a32494df829d4136ede36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305689,
+            "localadmin_id":1713306389,
             "locality_id":1310519273,
             "region_id":85683055
         }
     ],
     "wof:id":1310519273,
-    "wof:lastmodified":1566585208,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661392,
     "wof:name":"Maardu",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306389,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

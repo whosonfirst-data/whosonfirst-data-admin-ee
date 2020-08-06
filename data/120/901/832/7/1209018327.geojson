@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kibru",
@@ -43,7 +43,7 @@
         "gn:id":587931
     },
     "wof:country":"EE",
-    "wof:geomhash":"3b58036476b3b674fd59a1c2ae0279c7",
+    "wof:geomhash":"c48d5cda726e1abd8c6baa20f8e81d3e",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -51,7 +51,13 @@
         }
     ],
     "wof:id":1209018327,
-    "wof:lastmodified":1566585050,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596485098,
     "wof:name":"Vaike-Kibru",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -62,9 +68,9 @@
 },
   "bbox": [
     23.85,
-    59.28333000000001,
+    59.28333,
     23.85,
-    59.28333000000001
+    59.28333
 ],
-  "geometry": {"coordinates":[23.85,59.28333000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.85,59.28333],"type":"Point"}
 }

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Metsak\u00fcla",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713308927,
         85633135,
-        85683001
+        1713305701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590222
     },
     "wof:country":"EE",
-    "wof:geomhash":"c5246799479988a4148601b8053356b7",
+    "wof:geomhash":"f12b6dd2696d3ddc5c5a4a97af6a3032",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305701,
+            "localadmin_id":1713308927,
             "locality_id":1343852481,
             "region_id":85683001
         }
     ],
     "wof:id":1343852481,
-    "wof:lastmodified":1566584857,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677429,
     "wof:name":"Metskuela",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713308927,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.65167000000001,
+    23.65167,
     59.10278,
-    23.65167000000001,
+    23.65167,
     59.10278
 ],
-  "geometry": {"coordinates":[23.65167000000001,59.10278],"type":"Point"}
+  "geometry": {"coordinates":[23.65167,59.10278],"type":"Point"}
 }

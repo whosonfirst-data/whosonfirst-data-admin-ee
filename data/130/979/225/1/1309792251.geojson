@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Ummaru"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713314435,
         85633135,
-        85683013
+        1713305711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588072,
         "wk:page":"Ummaru"
     },
+    "wof:coterminous":[
+        1713314435
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"97721bf147aca56c81e33b9a92cc169f",
+    "wof:geomhash":"9952e993229729c895736a70398c8f1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305711,
+            "localadmin_id":1713314435,
             "locality_id":1309792251,
             "region_id":85683013
         }
     ],
     "wof:id":1309792251,
-    "wof:lastmodified":1566585257,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676719,
     "wof:name":"Ummaru",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713314435,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -84,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.63722000000001,
+    24.63722,
     58.94611,
-    24.63722000000001,
+    24.63722,
     58.94611
 ],
-  "geometry": {"coordinates":[24.63722000000001,58.94611],"type":"Point"}
+  "geometry": {"coordinates":[24.63722,58.94611],"type":"Point"}
 }

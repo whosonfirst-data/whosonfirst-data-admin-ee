@@ -29,32 +29,42 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713314577,
         85633135,
-        85683031
+        1713305765
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618478
     },
     "wof:country":"EE",
-    "wof:geomhash":"aa5a03746d8ae0b48441ecde9ff22c9e",
+    "wof:geomhash":"cdbe8be68e7a3e8d0a4d5a7bc275eda7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305765,
+            "localadmin_id":1713314577,
             "locality_id":1259489383,
             "region_id":85683031
         }
     ],
     "wof:id":1259489383,
-    "wof:lastmodified":1566585476,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676647,
     "wof:name":"Kaarli",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713314577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +73,9 @@
 },
   "bbox": [
     26.03556,
-    59.02916999999999,
+    59.02917,
     26.03556,
-    59.02916999999999
+    59.02917
 ],
-  "geometry": {"coordinates":[26.03556,59.02916999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.03556,59.02917],"type":"Point"}
 }

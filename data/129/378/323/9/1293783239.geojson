@@ -29,32 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713309599,
         85633135,
-        85683009
+        1713305679
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588784
     },
+    "wof:coterminous":[
+        1713309599
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"85234654acc2dfbc1211cbfc0fa9132a",
+    "wof:geomhash":"2d70bbb9a3a29049e755709697a2d02b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305679,
+            "localadmin_id":1713309599,
             "locality_id":1293783239,
-            "region_id":85683009
+            "region_id":85682995
         }
     ],
     "wof:id":1293783239,
-    "wof:lastmodified":1566584941,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660939,
     "wof:name":"Sassukvere",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713309599,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +76,9 @@
 },
   "bbox": [
     27.09667,
-    58.70721999999999,
+    58.70722,
     27.09667,
-    58.70721999999999
+    58.70722
 ],
-  "geometry": {"coordinates":[27.09667,58.70721999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.09667,58.70722],"type":"Point"}
 }

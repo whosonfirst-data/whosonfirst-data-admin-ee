@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Haakla"
@@ -59,29 +59,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713314325,
         85633135,
-        85683013
+        1713305713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592643,
         "wk:page":"Haakla"
     },
+    "wof:coterminous":[
+        1713314325
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"64ee604735db07820cb04bd05b0af31c",
+    "wof:geomhash":"bf08c2fa9a7d6c72f92fbf6766455aca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305713,
+            "localadmin_id":1713314325,
             "locality_id":1242959453,
             "region_id":85683013
         }
     ],
     "wof:id":1242959453,
-    "wof:lastmodified":1566585410,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676744,
     "wof:name":"Haakla",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713314325,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -90,9 +103,9 @@
 },
   "bbox": [
     24.91639,
-    58.82083000000001,
+    58.82083,
     24.91639,
-    58.82083000000001
+    58.82083
 ],
-  "geometry": {"coordinates":[24.91639,58.82083000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.91639,58.82083],"type":"Point"}
 }

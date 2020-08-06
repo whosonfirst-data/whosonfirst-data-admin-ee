@@ -88,9 +88,11 @@
     "woe:name_adm1":"Ida-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713313627,
         85633135,
-        85683059
+        1713305693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +101,9 @@
         "qs_pg:id":983631,
         "wd:id":"Q2131125"
     },
+    "wof:coterminous":[
+        1713313627
+    ],
     "wof:country":"EE",
     "wof:created":1497292221,
     "wof:geomhash":"bc012523ab1a10c4f0ff61a5cbb3936b",
@@ -106,14 +111,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305693,
+            "localadmin_id":1713313627,
             "locality_id":1125824641,
             "region_id":85683059
         }
     ],
     "wof:id":1125824641,
-    "wof:lastmodified":1566585375,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660750,
     "wof:name":"Rannapungerja",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713313627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

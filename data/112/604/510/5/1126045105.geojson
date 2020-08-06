@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:und_x_variant":[
@@ -40,9 +40,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312177,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +58,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312177,
             "locality_id":1126045105,
             "region_id":85683009
         }
     ],
     "wof:id":1126045105,
-    "wof:lastmodified":1566585317,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676582,
     "wof:name":"Myza Ryabize",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312177,
     "wof:placetype":"locality",
     "wof:population":109,
     "wof:population_rank":1,

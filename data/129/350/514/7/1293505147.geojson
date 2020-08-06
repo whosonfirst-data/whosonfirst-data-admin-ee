@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "R\u00f5\u00f5sa"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306329,
         85633135,
-        85683055
+        1713305665
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793283,
         "wk:page":"R%C3%B5%C3%B5sa"
     },
+    "wof:coterminous":[
+        1713306329
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"b4c145ea9dbcddfc0a4ec61f021130bf",
+    "wof:geomhash":"987aec3f88ac24146b08ea8a3073ada8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305665,
+            "localadmin_id":1713306329,
             "locality_id":1293505147,
             "region_id":85683055
         }
     ],
     "wof:id":1293505147,
-    "wof:lastmodified":1566584945,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661352,
     "wof:name":"Roosa",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306329,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -82,9 +95,9 @@
 },
   "bbox": [
     25.30722,
-    59.13916999999999,
+    59.13917,
     25.30722,
-    59.13916999999999
+    59.13917
 ],
-  "geometry": {"coordinates":[25.30722,59.13916999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.30722,59.13917],"type":"Point"}
 }

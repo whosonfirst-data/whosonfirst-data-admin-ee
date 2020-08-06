@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saare"
@@ -69,28 +69,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713308941,
         85633135,
-        85682969
+        1713305659
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588888
     },
+    "wof:coterminous":[
+        1713308941
+    ],
     "wof:country":"EE",
     "wof:geomhash":"ae30964afd2131b566796cbd1ee2ae3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305659,
+            "localadmin_id":1713308941,
             "locality_id":1209879343,
-            "region_id":85682969
+            "region_id":85683009
         }
     ],
     "wof:id":1209879343,
-    "wof:lastmodified":1566585099,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676475,
     "wof:name":"Saare",
-    "wof:parent_id":85682969,
+    "wof:parent_id":1713308941,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

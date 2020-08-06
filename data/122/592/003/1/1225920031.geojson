@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Parapalu"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713314185,
         85633135,
-        85682995
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589610,
         "wk:page":"Parapalu"
     },
+    "wof:coterminous":[
+        1713314185
+    ],
     "wof:country":"EE",
     "wof:geomhash":"44927f34588ca8e5cf72675ddc1014b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305793,
+            "localadmin_id":1713314185,
             "locality_id":1225920031,
-            "region_id":85682995
+            "region_id":85682955
         }
     ],
     "wof:id":1225920031,
-    "wof:lastmodified":1566585515,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676999,
     "wof:name":"Parapalu",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713314185,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

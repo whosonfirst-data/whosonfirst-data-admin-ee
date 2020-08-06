@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lauri"
@@ -66,28 +66,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713310199,
         85633135,
-        85682995
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620800
     },
     "wof:country":"EE",
-    "wof:geomhash":"97e2ea2973308b2f7f44bd91858d57ea",
+    "wof:geomhash":"e53c829d3a6d1a512071af9291a83778",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713310199,
             "locality_id":1293847231,
             "region_id":85682995
         }
     ],
     "wof:id":1293847231,
-    "wof:lastmodified":1566584932,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661921,
     "wof:name":"Lauri",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713310199,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -96,9 +106,9 @@
 },
   "bbox": [
     26.35,
-    58.20583000000001,
+    58.20583,
     26.35,
-    58.20583000000001
+    58.20583
 ],
-  "geometry": {"coordinates":[26.35,58.20583000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.35,58.20583],"type":"Point"}
 }

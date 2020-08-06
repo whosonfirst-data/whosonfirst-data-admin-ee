@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lae"
@@ -120,24 +120,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683055,
+        102191581,
+        1713307169,
+        85633135,
+        1713305749
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590846
     },
     "wof:country":"EE",
-    "wof:geomhash":"fc66af9ea59fa4a58acd37ca1165f18a",
+    "wof:geomhash":"bdc12e5c3ad0953aa5a4144a464a0c88",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209120235
+            "county_id":1713305749,
+            "localadmin_id":1713307169,
+            "locality_id":1209120235,
+            "region_id":85683055
         }
     ],
     "wof:id":1209120235,
-    "wof:lastmodified":1566585068,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596662798,
     "wof:name":"Lae",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713307169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -146,9 +160,9 @@
 },
   "bbox": [
     25.22667,
-    59.33694000000001,
+    59.33694,
     25.22667,
-    59.33694000000001
+    59.33694
 ],
-  "geometry": {"coordinates":[25.22667,59.33694000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.22667,59.33694],"type":"Point"}
 }

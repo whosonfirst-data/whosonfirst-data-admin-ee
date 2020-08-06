@@ -85,9 +85,11 @@
     "woe:name_adm1":"J\u00e4rvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713315929,
         85633135,
-        85683031
+        1713305773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,6 +98,9 @@
         "qs_pg:id":405926,
         "wd:id":"Q3069540"
     },
+    "wof:coterminous":[
+        1713315929
+    ],
     "wof:country":"EE",
     "wof:created":1497297614,
     "wof:geomhash":"6d74d9d8ef66c342f5fbe24ad6b220c6",
@@ -103,14 +108,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305773,
+            "localadmin_id":1713315929,
             "locality_id":1125955729,
             "region_id":85683031
         }
     ],
     "wof:id":1125955729,
-    "wof:lastmodified":1566585300,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677991,
     "wof:name":"Laupa",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713315929,
     "wof:placetype":"locality",
     "wof:population":217,
     "wof:population_rank":2,

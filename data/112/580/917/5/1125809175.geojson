@@ -79,9 +79,11 @@
     "woe:name_adm1":"J\u00e4rvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713312995,
         85633135,
-        85683049
+        1713305771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":1274310,
         "wd:id":"Q3466417"
     },
+    "wof:coterminous":[
+        1713312995
+    ],
     "wof:country":"EE",
     "wof:created":1497291585,
     "wof:geomhash":"e452cad284cc3c11214126f209a9e210",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305771,
+            "localadmin_id":1713312995,
             "locality_id":1125809175,
             "region_id":85683049
         }
     ],
     "wof:id":1125809175,
-    "wof:lastmodified":1566585345,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677957,
     "wof:name":"P\u00e4tsavere",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713312995,
     "wof:placetype":"locality",
     "wof:population":207,
     "wof:population_rank":2,

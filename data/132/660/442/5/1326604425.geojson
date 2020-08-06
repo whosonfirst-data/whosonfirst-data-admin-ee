@@ -29,32 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713311715,
         85633135,
-        85682985
+        1713305661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793895
     },
+    "wof:coterminous":[
+        1713311715
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"bfa9631874890bef471e076bb5771b49",
+    "wof:geomhash":"7261d79233017448339883cb1055e00a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305661,
+            "localadmin_id":1713311715,
             "locality_id":1326604425,
             "region_id":85682985
         }
     ],
     "wof:id":1326604425,
-    "wof:lastmodified":1566584773,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661305,
     "wof:name":"UElemoisa",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713311715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +76,9 @@
 },
   "bbox": [
     25.50972,
-    58.18083000000001,
+    58.18083,
     25.50972,
-    58.18083000000001
+    58.18083
 ],
-  "geometry": {"coordinates":[25.50972,58.18083000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.50972,58.18083],"type":"Point"}
 }

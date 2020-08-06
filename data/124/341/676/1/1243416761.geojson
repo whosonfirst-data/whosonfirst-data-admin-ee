@@ -29,32 +29,43 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713313387,
         85633135,
-        85682941
+        1713305753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620299
     },
     "wof:country":"EE",
-    "wof:geomhash":"66043e877e82741b7b575658c303d5c0",
+    "wof:geomhash":"417c5aec1b4de62d2b8d6a101158eec5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305753,
+            "localadmin_id":1713313387,
             "locality_id":1243416761,
             "region_id":85682941
         }
     ],
     "wof:id":1243416761,
-    "wof:lastmodified":1566585419,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661955,
     "wof:name":"Tambre Linnaosa",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713313387,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +74,9 @@
 },
   "bbox": [
     26.09333,
-    57.78194000000001,
+    57.78194,
     26.09333,
-    57.78194000000001
+    57.78194
 ],
-  "geometry": {"coordinates":[26.09333,57.78194000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.09333,57.78194],"type":"Point"}
 }

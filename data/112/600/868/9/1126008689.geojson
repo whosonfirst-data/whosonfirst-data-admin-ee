@@ -102,9 +102,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713313451,
         85633135,
-        85683055
+        1713305739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,6 +115,9 @@
         "qs_pg:id":111203,
         "wd:id":"Q3462593"
     },
+    "wof:coterminous":[
+        1713313451
+    ],
     "wof:country":"EE",
     "wof:created":1497300136,
     "wof:geomhash":"34d94b79fa2790b1aa64adffca5b1c23",
@@ -120,14 +125,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305739,
+            "localadmin_id":1713313451,
             "locality_id":1126008689,
             "region_id":85683055
         }
     ],
     "wof:id":1126008689,
-    "wof:lastmodified":1566585367,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663250,
     "wof:name":"Tuula",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713313451,
     "wof:placetype":"locality",
     "wof:population":214,
     "wof:population_rank":2,

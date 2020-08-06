@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
@@ -52,9 +52,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713310783,
         85633135,
-        85682995
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +64,9 @@
         "gp:id":842522,
         "qs_pg:id":1273739
     },
+    "wof:coterminous":[
+        1713310783
+    ],
     "wof:country":"EE",
     "wof:created":1497296883,
     "wof:geomhash":"011abd728958b6e900fdc6d96758b78d",
@@ -69,14 +74,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713310783,
             "locality_id":1125933371,
             "region_id":85682995
         }
     ],
     "wof:id":1125933371,
-    "wof:lastmodified":1566585276,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661919,
     "wof:name":"Kaarlij\u00e4rve",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713310783,
     "wof:placetype":"locality",
     "wof:population":170,
     "wof:population_rank":1,

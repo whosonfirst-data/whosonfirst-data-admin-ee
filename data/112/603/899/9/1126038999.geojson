@@ -78,9 +78,11 @@
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713313241,
         85633135,
-        85683049
+        1713305723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,6 +91,9 @@
         "qs_pg:id":262004,
         "wd:id":"Q3469849"
     },
+    "wof:coterminous":[
+        1713313241
+    ],
     "wof:country":"EE",
     "wof:created":1497302003,
     "wof:geomhash":"aaacd183c5a9e48e9360a4fed2c930cd",
@@ -96,14 +101,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305723,
+            "localadmin_id":1713313241,
             "locality_id":1126038999,
             "region_id":85683049
         }
     ],
     "wof:id":1126038999,
-    "wof:lastmodified":1566585327,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661737,
     "wof:name":"Ama",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713313241,
     "wof:placetype":"locality",
     "wof:population":112,
     "wof:population_rank":1,

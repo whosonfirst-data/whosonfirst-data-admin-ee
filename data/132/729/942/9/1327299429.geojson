@@ -29,32 +29,42 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713310237,
         85633135,
-        85682941
+        1713305753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618895
     },
     "wof:country":"EE",
-    "wof:geomhash":"b0b03e7bb6ced69be970c026bdc82b83",
+    "wof:geomhash":"1bf3b0b7bcfe7e3daf352ebcee1dbae5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305753,
+            "localadmin_id":1713310237,
             "locality_id":1327299429,
             "region_id":85682941
         }
     ],
     "wof:id":1327299429,
-    "wof:lastmodified":1566584820,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661956,
     "wof:name":"Juuta",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713310237,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +73,9 @@
 },
   "bbox": [
     26.25917,
-    57.72083000000001,
+    57.72083,
     26.25917,
-    57.72083000000001
+    57.72083
 ],
-  "geometry": {"coordinates":[26.25917,57.72083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.25917,57.72083],"type":"Point"}
 }

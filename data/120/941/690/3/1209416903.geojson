@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Laekannu"
@@ -60,25 +60,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683059,
+        102191581,
+        1713312125,
+        85633135,
+        1713305677
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590845,
         "wk:page":"Laekannu"
     },
+    "wof:coterminous":[
+        1713312125
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"913fb3d04136cefbacf962cf85742595",
+    "wof:geomhash":"108e861847bf4d4219d82d7c0a0ec5d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209416903
+            "county_id":1713305677,
+            "localadmin_id":1713312125,
+            "locality_id":1209416903,
+            "region_id":85683059
         }
     ],
     "wof:id":1209416903,
-    "wof:lastmodified":1566585067,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661019,
     "wof:name":"Laekannu",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713312125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -86,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.76222000000001,
+    26.76222,
     58.94556,
-    26.76222000000001,
+    26.76222,
     58.94556
 ],
-  "geometry": {"coordinates":[26.76222000000001,58.94556],"type":"Point"}
+  "geometry": {"coordinates":[26.76222,58.94556],"type":"Point"}
 }

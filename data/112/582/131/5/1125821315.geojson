@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
@@ -108,9 +108,11 @@
     "woe:name_adm1":"Ida-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713315257,
         85633135,
-        85683059
+        1713305779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,6 +120,9 @@
         "gp:id":846207,
         "qs_pg:id":180103
     },
+    "wof:coterminous":[
+        1713315257
+    ],
     "wof:country":"EE",
     "wof:created":1497292081,
     "wof:geomhash":"466874e6f9574d37efe576fdfc721ff1",
@@ -125,14 +130,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305779,
+            "localadmin_id":1713315257,
             "locality_id":1125821315,
             "region_id":85683059
         }
     ],
     "wof:id":1125821315,
-    "wof:lastmodified":1566585376,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677903,
     "wof:name":"Vaivara",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713315257,
     "wof:placetype":"locality",
     "wof:population":126,
     "wof:population_rank":1,

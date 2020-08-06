@@ -82,9 +82,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309559,
         85633135,
-        85682981
+        1713305705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,9 @@
         "qs_pg:id":1273699,
         "wd:id":"Q3470062"
     },
+    "wof:coterminous":[
+        1713309559
+    ],
     "wof:country":"EE",
     "wof:created":1497296877,
     "wof:geomhash":"c2535b7ef350a4ebe1f3c7284529853f",
@@ -100,14 +105,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305705,
+            "localadmin_id":1713309559,
             "locality_id":1125933239,
             "region_id":85682981
         }
     ],
     "wof:id":1125933239,
-    "wof:lastmodified":1566585284,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677737,
     "wof:name":"Jaamak\u00fcla",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309559,
     "wof:placetype":"locality",
     "wof:population":175,
     "wof:population_rank":1,

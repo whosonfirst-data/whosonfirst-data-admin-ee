@@ -81,9 +81,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309167,
         85633135,
-        85682981
+        1713305733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,9 @@
         "qs_pg:id":940430,
         "wd:id":"Q3464243"
     },
+    "wof:coterminous":[
+        1713309167
+    ],
     "wof:country":"EE",
     "wof:created":1497300651,
     "wof:geomhash":"42eefabb33fbaf2d007fecb8b4b1ad50",
@@ -99,14 +104,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713309167,
             "locality_id":1126017717,
             "region_id":85682981
         }
     ],
     "wof:id":1126017717,
-    "wof:lastmodified":1566585362,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663431,
     "wof:name":"Suurej\u00f5e",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309167,
     "wof:placetype":"locality",
     "wof:population":250,
     "wof:population_rank":2,

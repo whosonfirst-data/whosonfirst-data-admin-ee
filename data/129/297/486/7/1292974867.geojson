@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kamara"
@@ -66,28 +66,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713316301,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591686
     },
     "wof:country":"EE",
-    "wof:geomhash":"0eb05096c2ecbc514bef89ca46ea7c8a",
+    "wof:geomhash":"a4542bb4aacf392b9adb0bf7ed71a68c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713316301,
             "locality_id":1292974867,
             "region_id":85682937
         }
     ],
     "wof:id":1292974867,
-    "wof:lastmodified":1566584958,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660392,
     "wof:name":"Kamara",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713316301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -96,9 +106,9 @@
 },
   "bbox": [
     27.26667,
-    57.78333000000001,
+    57.78333,
     27.26667,
-    57.78333000000001
+    57.78333
 ],
-  "geometry": {"coordinates":[27.26667,57.78333000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.26667,57.78333],"type":"Point"}
 }

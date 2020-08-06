@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kuningak\u00fcla"
@@ -63,29 +63,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713313303,
         85633135,
-        85683059
+        1713305693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590963,
         "wk:page":"Kuningak%C3%BCla"
     },
+    "wof:coterminous":[
+        1713313303
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"465bdf51956a52bd91fbcfc863f66da5",
+    "wof:geomhash":"dcdbd9c58edb7fc3352d0271ea37d682",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305693,
+            "localadmin_id":1713313303,
             "locality_id":1327146231,
             "region_id":85683059
         }
     ],
     "wof:id":1327146231,
-    "wof:lastmodified":1566584782,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660763,
     "wof:name":"Kuningakuela",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713313303,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -94,9 +107,9 @@
 },
   "bbox": [
     27.79083,
-    59.12083000000001,
+    59.12083,
     27.79083,
-    59.12083000000001
+    59.12083
 ],
-  "geometry": {"coordinates":[27.79083,59.12083000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.79083,59.12083],"type":"Point"}
 }

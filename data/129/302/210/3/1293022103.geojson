@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Muzi-Arukyula",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713309405,
         85633135,
-        85683001
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590055
     },
     "wof:country":"EE",
-    "wof:geomhash":"9928d8955d1b221574eefb9a9b6129ba",
+    "wof:geomhash":"1d044a11f20106e9d75a6a1a30217721",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713309405,
             "locality_id":1293022103,
             "region_id":85683001
         }
     ],
     "wof:id":1293022103,
-    "wof:lastmodified":1566584953,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661679,
     "wof:name":"Arukuela",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713309405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +78,9 @@
 },
   "bbox": [
     24.0525,
-    58.69139000000001,
+    58.69139,
     24.0525,
-    58.69139000000001
+    58.69139
 ],
-  "geometry": {"coordinates":[24.0525,58.69139000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.0525,58.69139],"type":"Point"}
 }

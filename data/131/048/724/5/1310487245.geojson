@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kosta"
@@ -51,28 +51,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713308235,
         85633135,
-        85683049
+        1713305775
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619215
     },
+    "wof:coterminous":[
+        1713308235
+    ],
     "wof:country":"EE",
     "wof:geomhash":"b8dfa96451696a3d8f554b16691c6edc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305775,
+            "localadmin_id":1713308235,
             "locality_id":1310487245,
             "region_id":85683049
         }
     ],
     "wof:id":1310487245,
-    "wof:lastmodified":1566585161,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596678042,
     "wof:name":"Kosta",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713308235,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

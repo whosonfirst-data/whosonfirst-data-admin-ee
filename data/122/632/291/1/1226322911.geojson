@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kok\u0161ino",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713315957,
         85633135,
-        85682955
+        1713305631
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591218
     },
     "wof:country":"EE",
-    "wof:geomhash":"e0918ad17ada20bb06cd7ecc4b86321d",
+    "wof:geomhash":"8868de8475b19f21835301d8ac746d1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305631,
+            "localadmin_id":1713315957,
             "locality_id":1226322911,
             "region_id":85682955
         }
     ],
     "wof:id":1226322911,
-    "wof:lastmodified":1566585545,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663699,
     "wof:name":"Koksina",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713315957,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +78,9 @@
 },
   "bbox": [
     27.51667,
-    57.96666999999999,
+    57.96667,
     27.51667,
-    57.96666999999999
+    57.96667
 ],
-  "geometry": {"coordinates":[27.51667,57.96666999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.51667,57.96667],"type":"Point"}
 }

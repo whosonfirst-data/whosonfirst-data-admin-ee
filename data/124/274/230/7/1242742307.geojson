@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Tsirgu"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713316145,
         85633135,
-        85682937
+        1713305631
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588188,
         "wk:page":"Tsirgu"
     },
+    "wof:coterminous":[
+        1713316141
+    ],
     "wof:country":"EE",
     "wof:geomhash":"d81a9a6e5b79e63aa4771961364f4ee9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305631,
+            "localadmin_id":1713316145,
             "locality_id":1242742307,
-            "region_id":85682937
+            "region_id":85682955
         }
     ],
     "wof:id":1242742307,
-    "wof:lastmodified":1566585400,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663693,
     "wof:name":"Tsirgu",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713316145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

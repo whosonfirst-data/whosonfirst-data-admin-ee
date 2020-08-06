@@ -81,9 +81,11 @@
     "woe:name_adm1":"J\u00e4rvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713313045,
         85633135,
-        85683031
+        1713305663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,9 @@
         "qs_pg:id":180144,
         "wd:id":"Q3462512"
     },
+    "wof:coterminous":[
+        1713313045
+    ],
     "wof:country":"EE",
     "wof:created":1497296074,
     "wof:geomhash":"32d3bd7a99d2afb0f7dc39298bb18b08",
@@ -99,14 +104,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305663,
+            "localadmin_id":1713313045,
             "locality_id":1125908909,
             "region_id":85683031
         }
     ],
     "wof:id":1125908909,
-    "wof:lastmodified":1566585351,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661329,
     "wof:name":"Viisu",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713313045,
     "wof:placetype":"locality",
     "wof:population":282,
     "wof:population_rank":2,

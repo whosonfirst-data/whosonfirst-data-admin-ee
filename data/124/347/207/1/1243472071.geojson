@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "K\u00f5ue vald"
@@ -89,29 +89,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306315,
         85633135,
-        85683055
+        1713305665
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591064,
         "wk:page":"K%C3%B5ue_Parish"
     },
+    "wof:coterminous":[
+        1713306281
+    ],
     "wof:country":"EE",
     "wof:geomhash":"07ad49a8a41df046721f9c6167ce9e69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305665,
+            "localadmin_id":1713306315,
             "locality_id":1243472071,
             "region_id":85683055
         }
     ],
     "wof:id":1243472071,
-    "wof:lastmodified":1566585425,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661353,
     "wof:name":"Koue",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306315,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

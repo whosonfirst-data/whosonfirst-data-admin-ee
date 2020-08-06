@@ -76,9 +76,11 @@
     "woe:name_adm1":"J\u00f5gevamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312241,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,6 +89,9 @@
         "qs_pg:id":1274788,
         "wd:id":"Q376548"
     },
+    "wof:coterminous":[
+        1713312241
+    ],
     "wof:country":"EE",
     "wof:created":1497297000,
     "wof:geomhash":"4ec3c0655abeaab63491f4b34244b6be",
@@ -94,14 +99,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312241,
             "locality_id":1125937073,
             "region_id":85683009
         }
     ],
     "wof:id":1125937073,
-    "wof:lastmodified":1566585277,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676584,
     "wof:name":"V\u00f5duvere",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312241,
     "wof:placetype":"locality",
     "wof:population":94,
     "wof:population_rank":1,

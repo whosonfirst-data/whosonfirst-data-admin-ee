@@ -29,32 +29,42 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713312645,
         85633135,
-        85683055
+        1713305739
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588139
     },
     "wof:country":"EE",
-    "wof:geomhash":"96af8c53653999a1c48d64a8b1c0a729",
+    "wof:geomhash":"56873e6754b5a5ae006d7dd267bdd8db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305739,
+            "localadmin_id":1713312645,
             "locality_id":1343771547,
             "region_id":85683055
         }
     ],
     "wof:id":1343771547,
-    "wof:lastmodified":1566584852,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663244,
     "wof:name":"Turvaste",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713312645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +73,9 @@
 },
   "bbox": [
     24.11361,
-    59.09583000000001,
+    59.09583,
     24.11361,
-    59.09583000000001
+    59.09583
 ],
-  "geometry": {"coordinates":[24.11361,59.09583000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.11361,59.09583],"type":"Point"}
 }

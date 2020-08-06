@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
@@ -55,15 +55,20 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713310815,
         85633135,
-        85682941
+        1713305753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794497,
         "qs_pg:id":83805
     },
+    "wof:coterminous":[
+        1713310815
+    ],
     "wof:country":"EE",
     "wof:created":1497292907,
     "wof:geomhash":"b11139296660efec0960cdf820479926",
@@ -71,14 +76,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305753,
+            "localadmin_id":1713310815,
             "locality_id":1125840391,
             "region_id":85682941
         }
     ],
     "wof:id":1125840391,
-    "wof:lastmodified":1566585385,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661948,
     "wof:name":"Karula",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713310815,
     "wof:placetype":"locality",
     "wof:population":102,
     "wof:population_rank":1,

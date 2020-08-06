@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Laasi"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682989,
         102191581,
+        1713310373,
         85633135,
-        85682989
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618245,
         "wk:page":"Laasi"
     },
+    "wof:coterminous":[
+        1713310373
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"ce4e148a496e9dfb40ef491817b18b70",
+    "wof:geomhash":"7dbe7f098f6991245d57ea5a904790d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310373,
             "locality_id":1327234843,
             "region_id":85682989
         }
     ],
     "wof:id":1327234843,
-    "wof:lastmodified":1566584786,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596670025,
     "wof:name":"Laasi",
-    "wof:parent_id":85682989,
+    "wof:parent_id":1713310373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -82,9 +95,9 @@
 },
   "bbox": [
     22.32769,
-    58.89523000000001,
+    58.89523,
     22.32769,
-    58.89523000000001
+    58.89523
 ],
-  "geometry": {"coordinates":[22.32769,58.89523000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.32769,58.89523],"type":"Point"}
 }

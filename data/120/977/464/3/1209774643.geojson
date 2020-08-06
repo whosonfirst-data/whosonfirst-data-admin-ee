@@ -29,35 +29,48 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pakluva"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713316127,
         85633135,
-        85682937
+        1713305631
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620133
     },
+    "wof:coterminous":[
+        1713316127
+    ],
     "wof:country":"EE",
     "wof:geomhash":"2eaa5dc61eaba734216ae8868a9ad224",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305631,
+            "localadmin_id":1713316127,
             "locality_id":1209774643,
-            "region_id":85682937
+            "region_id":85682955
         }
     ],
     "wof:id":1209774643,
-    "wof:lastmodified":1566585064,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663699,
     "wof:name":"Paklova",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713316127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

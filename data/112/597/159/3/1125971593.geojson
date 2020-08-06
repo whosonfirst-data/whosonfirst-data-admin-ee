@@ -88,9 +88,11 @@
     "woe:name_adm1":"Ida-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713314287,
         85633135,
-        85683059
+        1713305693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +101,9 @@
         "qs_pg:id":406116,
         "wd:id":"Q256653"
     },
+    "wof:coterminous":[
+        1713311783
+    ],
     "wof:country":"EE",
     "wof:created":1497298191,
     "wof:geomhash":"9c4ae9da40def77643ccf56b35274d04",
@@ -106,14 +111,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305693,
+            "localadmin_id":1713314287,
             "locality_id":1125971593,
             "region_id":85683059
         }
     ],
     "wof:id":1125971593,
-    "wof:lastmodified":1566585351,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660757,
     "wof:name":"Pagari",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713314287,
     "wof:placetype":"locality",
     "wof:population":148,
     "wof:population_rank":1,

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Tuderna"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713316093,
         85633135,
-        85682955
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620156,
         "wk:page":"Tuderna"
     },
+    "wof:coterminous":[
+        1713316093
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"d7b4cfcd13840b05bc115afa3dfc5de6",
+    "wof:geomhash":"fc71084e770152e95bd490506864a2c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713316093,
             "locality_id":1327121481,
-            "region_id":85682955
+            "region_id":85682937
         }
     ],
     "wof:id":1327121481,
-    "wof:lastmodified":1566584785,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660413,
     "wof:name":"Tuderna",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713316093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -81,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.41444000000001,
+    27.41444,
     57.8425,
-    27.41444000000001,
+    27.41444,
     57.8425
 ],
-  "geometry": {"coordinates":[27.41444000000001,57.8425],"type":"Point"}
+  "geometry": {"coordinates":[27.41444,57.8425],"type":"Point"}
 }

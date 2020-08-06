@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Reyyemyae",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713314573,
         85633135,
-        85683049
+        1713305723
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589068
     },
     "wof:country":"EE",
-    "wof:geomhash":"e9389851d8979ddcda355b8ee42aedc0",
+    "wof:geomhash":"cf4f4ece21d855202710ed1da0c43d09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305723,
+            "localadmin_id":1713314573,
             "locality_id":1310002853,
             "region_id":85683049
         }
     ],
     "wof:id":1310002853,
-    "wof:lastmodified":1566585172,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661732,
     "wof:name":"Reiemaee",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713314573,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     25.9,
-    59.46666999999999,
+    59.46667,
     25.9,
-    59.46666999999999
+    59.46667
 ],
-  "geometry": {"coordinates":[25.9,59.46666999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.9,59.46667],"type":"Point"}
 }

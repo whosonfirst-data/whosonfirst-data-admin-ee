@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Matsukyula",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713308503,
         85633135,
-        85683001
+        1713305755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590299
     },
     "wof:country":"EE",
-    "wof:geomhash":"707eb963579ece3aa98b4eca6931ad36",
+    "wof:geomhash":"7478ef7ff0ac0e9fce118454aad991e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305755,
+            "localadmin_id":1713308503,
             "locality_id":1243059295,
             "region_id":85683001
         }
     ],
     "wof:id":1243059295,
-    "wof:lastmodified":1566585442,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596662776,
     "wof:name":"Matsukuela",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713308503,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +78,9 @@
 },
   "bbox": [
     23.4675,
-    58.88778000000001,
+    58.88778,
     23.4675,
-    58.88778000000001
+    58.88778
 ],
-  "geometry": {"coordinates":[23.4675,58.88778000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.4675,58.88778],"type":"Point"}
 }

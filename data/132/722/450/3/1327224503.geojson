@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "P\u00f5ima"
@@ -52,29 +52,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713312523,
         85633135,
-        85683049
+        1713305723
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589397,
         "wk:page":"P%C3%B5ima"
     },
+    "wof:coterminous":[
+        1713312523
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"e9657ea3699d38cd6850c701b3a83527",
+    "wof:geomhash":"bfbc655c7f02c070dca9467c960ee1d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305723,
+            "localadmin_id":1713312523,
             "locality_id":1327224503,
             "region_id":85683049
         }
     ],
     "wof:id":1327224503,
-    "wof:lastmodified":1566584779,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661735,
     "wof:name":"Poima",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713312523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -82,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.01222000000001,
+    26.01222,
     59.31944,
-    26.01222000000001,
+    26.01222,
     59.31944
 ],
-  "geometry": {"coordinates":[26.01222000000001,59.31944],"type":"Point"}
+  "geometry": {"coordinates":[26.01222,59.31944],"type":"Point"}
 }

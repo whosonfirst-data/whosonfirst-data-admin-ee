@@ -93,9 +93,11 @@
     "woe:name_adm1":"L\u00e4\u00e4nemaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713308951,
         85633135,
-        85683001
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,6 +106,9 @@
         "qs_pg:id":111026,
         "wd:id":"Q2343807"
     },
+    "wof:coterminous":[
+        1713309619
+    ],
     "wof:country":"EE",
     "wof:created":1497300118,
     "wof:geomhash":"41bf74c36a76e03950cd68a80ae3ac8f",
@@ -111,14 +116,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713308951,
             "locality_id":1126008381,
             "region_id":85683001
         }
     ],
     "wof:id":1126008381,
-    "wof:lastmodified":1566585371,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661699,
     "wof:name":"K\u00f5msi",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713308951,
     "wof:placetype":"locality",
     "wof:population":155,
     "wof:population_rank":1,

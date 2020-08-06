@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u00e4gise-Olukvere",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713314311,
         85633135,
-        85683009
+        1713305677
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619523
     },
     "wof:country":"EE",
-    "wof:geomhash":"38567e849777f8a15dc82f6722cb3b95",
+    "wof:geomhash":"1fc8179de0f7199788f25696b79a0188",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305677,
+            "localadmin_id":1713314311,
             "locality_id":1293023429,
-            "region_id":85683009
+            "region_id":85683059
         }
     ],
     "wof:id":1293023429,
-    "wof:lastmodified":1566584954,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661013,
     "wof:name":"Maegise-Olukvere",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713314311,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     26.71639,
-    58.75333000000001,
+    58.75333,
     26.71639,
-    58.75333000000001
+    58.75333
 ],
-  "geometry": {"coordinates":[26.71639,58.75333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.71639,58.75333],"type":"Point"}
 }

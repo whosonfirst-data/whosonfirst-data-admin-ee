@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mullavere"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713314501,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590123,
         "wk:page":"Mullavere"
     },
+    "wof:coterminous":[
+        1713312975
+    ],
     "wof:country":"EE",
     "wof:geomhash":"8fd125de96a0f9135b7330ac9f2b97a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713314501,
             "locality_id":1293486863,
             "region_id":85683009
         }
     ],
     "wof:id":1293486863,
-    "wof:lastmodified":1566584930,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676584,
     "wof:name":"Mullavere",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713314501,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

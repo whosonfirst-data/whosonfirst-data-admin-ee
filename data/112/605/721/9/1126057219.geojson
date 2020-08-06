@@ -84,9 +84,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713308977,
         85633135,
-        85682995
+        1713305659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +97,9 @@
         "qs_pg:id":915947,
         "wd:id":"Q3454602"
     },
+    "wof:coterminous":[
+        1713308977
+    ],
     "wof:country":"EE",
     "wof:created":1497303367,
     "wof:geomhash":"307e552cc43739e9e1976ef808dc0fb1",
@@ -102,14 +107,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305659,
+            "localadmin_id":1713308977,
             "locality_id":1126057219,
-            "region_id":85682995
+            "region_id":85683009
         }
     ],
     "wof:id":1126057219,
-    "wof:lastmodified":1566585315,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676478,
     "wof:name":"Saadj\u00e4rve",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713308977,
     "wof:placetype":"locality",
     "wof:population":117,
     "wof:population_rank":1,

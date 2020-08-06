@@ -29,32 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713313011,
         85633135,
-        85683009
+        1713305657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793944
     },
+    "wof:coterminous":[
+        1713313011
+    ],
     "wof:country":"EE",
     "wof:geomhash":"eadf9c1e885fc0d5b4fdcde1def43622",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305657,
+            "localadmin_id":1713313011,
             "locality_id":1343857499,
             "region_id":85683009
         }
     ],
     "wof:id":1343857499,
-    "wof:lastmodified":1566584857,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676501,
     "wof:name":"Juerikuela",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713313011,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

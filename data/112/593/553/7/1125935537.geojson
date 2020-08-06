@@ -79,9 +79,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713312595,
         85633135,
-        85682955
+        1713305789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":1274360,
         "wd:id":"Q3464824"
     },
+    "wof:coterminous":[
+        1713312595
+    ],
     "wof:country":"EE",
     "wof:created":1497296955,
     "wof:geomhash":"c91b30915e3026f88cd581b93764c46b",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305789,
+            "localadmin_id":1713312595,
             "locality_id":1125935537,
             "region_id":85682955
         }
     ],
     "wof:id":1125935537,
-    "wof:lastmodified":1566585286,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676797,
     "wof:name":"P\u00f5lgaste",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713312595,
     "wof:placetype":"locality",
     "wof:population":372,
     "wof:population_rank":2,

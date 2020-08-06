@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Paimvere"
@@ -52,29 +52,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713308803,
         85633135,
-        85682981
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589702,
         "wk:page":"Paimvere"
     },
+    "wof:coterminous":[
+        1713308803
+    ],
     "wof:country":"EE",
     "wof:geomhash":"c7d52be45fcc3fd129ea929a1f679689",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713308803,
             "locality_id":1276529225,
-            "region_id":85682981
+            "region_id":85683001
         }
     ],
     "wof:id":1276529225,
-    "wof:lastmodified":1566585033,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661696,
     "wof:name":"Paimre",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713308803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

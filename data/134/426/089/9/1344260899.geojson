@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kukepala"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306353,
         85633135,
-        85683055
+        1713305665
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591014,
         "wk:page":"Kukepala"
     },
+    "wof:coterminous":[
+        1713306353
+    ],
     "wof:country":"EE",
     "wof:geomhash":"a96e75ff3a67f40e156ab3b224ebee46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305665,
+            "localadmin_id":1713306353,
             "locality_id":1344260899,
             "region_id":85683055
         }
     ],
     "wof:id":1344260899,
-    "wof:lastmodified":1566584875,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661353,
     "wof:name":"Kukepala",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306353,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

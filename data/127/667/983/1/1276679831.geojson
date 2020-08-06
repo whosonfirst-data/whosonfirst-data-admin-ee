@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sur-Kal\u2019yu",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713312781,
         85633135,
-        85683001
+        1713305701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588509
     },
     "wof:country":"EE",
-    "wof:geomhash":"c11c1b400e682e34f5ef1ce9c3e672db",
+    "wof:geomhash":"cdfbc05e5800087e6fb9b21a45362f5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305701,
+            "localadmin_id":1713312781,
             "locality_id":1276679831,
             "region_id":85683001
         }
     ],
     "wof:id":1276679831,
-    "wof:lastmodified":1566585003,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677441,
     "wof:name":"Suur-Kalju",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713312781,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +78,9 @@
 },
   "bbox": [
     24.08333,
-    58.93333000000001,
+    58.93333,
     24.08333,
-    58.93333000000001
+    58.93333
 ],
-  "geometry": {"coordinates":[24.08333,58.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.08333,58.93333],"type":"Point"}
 }

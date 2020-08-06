@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Poksi"
@@ -57,25 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682995,
+        102191581,
+        1713306261,
+        85633135,
+        1713305697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794095,
         "wk:page":"Poksi"
     },
+    "wof:coterminous":[
+        1713306261
+    ],
     "wof:country":"EE",
     "wof:geomhash":"1870ea75a436718ac9f948938a561fca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209277569
+            "county_id":1713305697,
+            "localadmin_id":1713306261,
+            "locality_id":1209277569,
+            "region_id":85682995
         }
     ],
     "wof:id":1209277569,
-    "wof:lastmodified":1566585097,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660678,
     "wof:name":"Poksi",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713306261,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

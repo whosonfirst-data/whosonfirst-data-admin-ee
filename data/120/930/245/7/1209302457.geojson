@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rekhema",
@@ -37,24 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682981,
+        102191581,
+        1713313019,
+        85633135,
+        1713305705
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589072
     },
     "wof:country":"EE",
-    "wof:geomhash":"47ff921e283abe068b06f0ba0b2141d3",
+    "wof:geomhash":"1a43bff551d5f1a07bd0589ac195141c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209302457
+            "county_id":1713305705,
+            "localadmin_id":1713313019,
+            "locality_id":1209302457,
+            "region_id":85682981
         }
     ],
     "wof:id":1209302457,
-    "wof:lastmodified":1566585053,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677731,
     "wof:name":"Rehemaa",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713313019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +77,9 @@
 },
   "bbox": [
     25.05,
-    58.11666999999999,
+    58.11667,
     25.05,
-    58.11666999999999
+    58.11667
 ],
-  "geometry": {"coordinates":[25.05,58.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.05,58.11667],"type":"Point"}
 }

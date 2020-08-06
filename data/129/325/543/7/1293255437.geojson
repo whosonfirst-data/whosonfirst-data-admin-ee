@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Vellavere"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713313211,
         85633135,
-        85682995
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793996,
         "wk:page":"Vellavere"
     },
+    "wof:coterminous":[
+        1713312719
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"511609e5fbb2f3ed902aa0187b3ffa27",
+    "wof:geomhash":"807021103e31c745b2741d7d987fa407",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713313211,
             "locality_id":1293255437,
             "region_id":85682995
         }
     ],
     "wof:id":1293255437,
-    "wof:lastmodified":1566584942,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661907,
     "wof:name":"Vellavere",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713313211,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -85,9 +98,9 @@
 },
   "bbox": [
     26.3975,
-    58.25666999999999,
+    58.25667,
     26.3975,
-    58.25666999999999
+    58.25667
 ],
-  "geometry": {"coordinates":[26.3975,58.25666999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.3975,58.25667],"type":"Point"}
 }

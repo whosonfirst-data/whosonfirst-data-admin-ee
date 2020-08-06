@@ -88,9 +88,11 @@
     "woe:name_adm1":"Valgamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713313927,
         85633135,
-        85682941
+        1713305687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +101,9 @@
         "qs_pg:id":406254,
         "wd:id":"Q986454"
     },
+    "wof:coterminous":[
+        1713313927
+    ],
     "wof:country":"EE",
     "wof:created":1497297642,
     "wof:geomhash":"2f2f7817f1f16326c0a65edaa89016f0",
@@ -106,14 +111,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305687,
+            "localadmin_id":1713313927,
             "locality_id":1125956693,
             "region_id":85682941
         }
     ],
     "wof:id":1125956693,
-    "wof:lastmodified":1566585298,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661438,
     "wof:name":"Riidaja",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713313927,
     "wof:placetype":"locality",
     "wof:population":242,
     "wof:population_rank":2,

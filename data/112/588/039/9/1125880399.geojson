@@ -78,9 +78,11 @@
     "woe:name_adm1":"V\u00f5rumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713316297,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,6 +91,9 @@
         "qs_pg:id":966784,
         "wd:id":"Q2167973"
     },
+    "wof:coterminous":[
+        1713316297
+    ],
     "wof:country":"EE",
     "wof:created":1497294776,
     "wof:geomhash":"58739e0566cd58e97fdab811d0e923b6",
@@ -96,14 +101,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713316297,
             "locality_id":1125880399,
             "region_id":85682937
         }
     ],
     "wof:id":1125880399,
-    "wof:lastmodified":1566585336,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660390,
     "wof:name":"K\u00fclaoru",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713316297,
     "wof:placetype":"locality",
     "wof:population":121,
     "wof:population_rank":1,

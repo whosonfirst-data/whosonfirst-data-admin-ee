@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Singa"
@@ -57,24 +57,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682937,
+        102191581,
+        1713315073,
+        85633135,
+        1713305787
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794411
     },
+    "wof:coterminous":[
+        1713315073
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"1782c4a84cf27f5c9877a082160c4591",
+    "wof:geomhash":"e5c9fb3facf4bf8c8a6d8099e716ce88",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209674373
+            "county_id":1713305787,
+            "localadmin_id":1713315073,
+            "locality_id":1209674373,
+            "region_id":85682937
         }
     ],
     "wof:id":1209674373,
-    "wof:lastmodified":1566585086,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676878,
     "wof:name":"Singa",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713315073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -82,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.55389000000001,
+    26.55389,
     57.6375,
-    26.55389000000001,
+    26.55389,
     57.6375
 ],
-  "geometry": {"coordinates":[26.55389000000001,57.6375],"type":"Point"}
+  "geometry": {"coordinates":[26.55389,57.6375],"type":"Point"}
 }

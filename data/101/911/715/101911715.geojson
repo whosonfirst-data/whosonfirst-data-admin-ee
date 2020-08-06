@@ -4,10 +4,10 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000062,
-    "geom:area_square_m":387889.463195,
-    "geom:bbox":"24.8327501783,59.5453600053,24.8436919782,59.5545004899",
-    "geom:latitude":59.549871,
+    "geom:area":0.0,
+    "geom:area_square_m":387880.952967,
+    "geom:bbox":"24.83824,59.549542,24.83824,59.549542",
+    "geom:latitude":59.549542,
     "geom:longitude":24.83824,
     "iso:country":"EE",
     "lbl:latitude":59.549542,
@@ -64,8 +64,10 @@
     "qs:pop":0,
     "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet near local_admin match geoplanet",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":59.548889,
@@ -73,9 +75,11 @@
     "wd:population":518,
     "wd:wordcount":114,
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306053,
         85633135,
-        85683055
+        1713305625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,20 +87,34 @@
         "qs_pg:id":1115035,
         "wd:id":"Q660439"
     },
+    "wof:coterminous":[
+        1713306053
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"5c83cc99d0e0a4ba7a90336c2d2b48e6",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"c429244f62b5ea56ad475a057c277212",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305625,
+            "localadmin_id":1713306053,
             "locality_id":101911715,
             "region_id":85683055
         }
     ],
     "wof:id":101911715,
-    "wof:lastmodified":1566585249,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676118,
     "wof:name":"Kelvingi",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306053,
     "wof:placetype":"locality",
     "wof:population":518,
     "wof:population_rank":2,
@@ -106,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.8327501782756,
-    59.54536000530987,
-    24.84369197824196,
-    59.55450048985119
+    24.83824,
+    59.549542,
+    24.83824,
+    59.549542
 ],
-  "geometry": {"coordinates":[[[24.84082022376651,59.55431367307636],[24.84004918826582,59.55256030461703],[24.84177756751319,59.55237347725779],[24.84100654050701,59.55062011546102],[24.84273481899925,59.55043327751861],[24.84196380049207,59.54867992238337],[24.84369197824196,59.54849307385899],[24.84253549760092,59.54586304959912],[24.83907937391092,59.54623669291379],[24.83869400930513,59.54536000530987],[24.83523789839353,59.54573355236232],[24.83600848423845,59.54748694810826],[24.83428031926746,59.54767370036319],[24.8354362450599,59.55030380242715],[24.83370793777419,59.5504905494862],[24.83447858631683,59.5522439564935],[24.8327501782756,59.55243069296336],[24.83352083526165,59.55418410663361],[24.83870625612877,59.55362380074251],[24.83909174374998,59.55450048985119],[24.84082022376651,59.55431367307636]]],"type":"Polygon"}
+  "geometry": {"coordinates":[24.83824,59.549542],"type":"Point"}
 }

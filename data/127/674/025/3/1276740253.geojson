@@ -29,35 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lehhesse"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713316253,
         85633135,
-        85682955
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619959
     },
     "wof:country":"EE",
-    "wof:geomhash":"dd5d3ce1d60b43c80e437ba757927a05",
+    "wof:geomhash":"a0e7473058b26f6c12899ffdcec25fcb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713316253,
             "locality_id":1276740253,
-            "region_id":85682955
+            "region_id":85682937
         }
     ],
     "wof:id":1276740253,
-    "wof:lastmodified":1566584992,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660408,
     "wof:name":"Lehese",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713316253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -66,9 +76,9 @@
 },
   "bbox": [
     27.37278,
-    57.83278000000001,
+    57.83278,
     27.37278,
-    57.83278000000001
+    57.83278
 ],
-  "geometry": {"coordinates":[27.37278,57.83278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.37278,57.83278],"type":"Point"}
 }

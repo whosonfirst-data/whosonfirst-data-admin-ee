@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mahu"
@@ -62,29 +62,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713307667,
         85633135,
-        85683049
+        1713305777
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590377,
         "wk:page":"Mahu%2C_Estonia"
     },
+    "wof:coterminous":[
+        1713307667
+    ],
     "wof:country":"EE",
     "wof:geomhash":"6138f26d8b910f0b57f0a7eff132f5e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305777,
+            "localadmin_id":1713307667,
             "locality_id":1327020505,
             "region_id":85683049
         }
     ],
     "wof:id":1327020505,
-    "wof:lastmodified":1566584789,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677938,
     "wof:name":"Mahu",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713307667,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

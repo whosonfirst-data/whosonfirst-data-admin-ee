@@ -82,9 +82,11 @@
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713311539,
         85633135,
-        85683049
+        1713305769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,9 @@
         "qs_pg:id":406140,
         "wd:id":"Q3465360"
     },
+    "wof:coterminous":[
+        1713311539
+    ],
     "wof:country":"EE",
     "wof:created":1497297634,
     "wof:geomhash":"21e9c1728047a015f5776ee31c38bff2",
@@ -100,14 +105,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305769,
+            "localadmin_id":1713311539,
             "locality_id":1125956455,
             "region_id":85683049
         }
     ],
     "wof:id":1125956455,
-    "wof:lastmodified":1566585297,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676544,
     "wof:name":"Pandivere",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713311539,
     "wof:placetype":"locality",
     "wof:population":113,
     "wof:population_rank":1,

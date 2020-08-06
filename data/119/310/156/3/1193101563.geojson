@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u091c\u0941\u0902\u0917\u0941"
@@ -57,28 +57,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713314807,
         85633135,
-        85682937
+        1713305787
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619331
     },
+    "wof:coterminous":[
+        1713314807
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"65e7debee92d8a78f266e8d0b7a73aef",
+    "wof:geomhash":"57e421101189f174c5d110b641d1d34b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305787,
+            "localadmin_id":1713314807,
             "locality_id":1193101563,
             "region_id":85682937
         }
     ],
     "wof:id":1193101563,
-    "wof:lastmodified":1566585128,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676878,
     "wof:name":"Jugu",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713314807,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -87,9 +100,9 @@
 },
   "bbox": [
     26.97194,
-    57.68278000000001,
+    57.68278,
     26.97194,
-    57.68278000000001
+    57.68278
 ],
-  "geometry": {"coordinates":[26.97194,57.68278000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.97194,57.68278],"type":"Point"}
 }

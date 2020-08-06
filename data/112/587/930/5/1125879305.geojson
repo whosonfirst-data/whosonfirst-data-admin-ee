@@ -89,9 +89,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309251,
         85633135,
-        85682981
+        1713305741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,6 +102,9 @@
         "qs_pg:id":1198469,
         "wd:id":"Q1237057"
     },
+    "wof:coterminous":[
+        1713309253
+    ],
     "wof:country":"EE",
     "wof:created":1497294707,
     "wof:geomhash":"73989f864a23deaa9c09cdb6843a442f",
@@ -107,14 +112,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305741,
+            "localadmin_id":1713309251,
             "locality_id":1125879305,
             "region_id":85682981
         }
     ],
     "wof:id":1125879305,
-    "wof:lastmodified":1566585345,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663209,
     "wof:name":"Reiu",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309251,
     "wof:placetype":"locality",
     "wof:population":376,
     "wof:population_rank":2,

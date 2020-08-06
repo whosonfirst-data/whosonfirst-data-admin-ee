@@ -82,7 +82,13 @@
     "woe:name_adm0":"Eesti",
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683049,
+        102191581,
+        1713308651,
+        85633135,
+        1713305775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":587670,
@@ -90,21 +96,32 @@
         "qs_pg:id":1167369,
         "wd:id":"Q838934"
     },
+    "wof:coterminous":[
+        1713308651
+    ],
     "wof:country":"EE",
     "wof:created":1497291890,
     "wof:geomhash":"b6df1b020ae24a1db6e09e9e79bc6ec6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633135,
+            "county_id":1713305775,
+            "localadmin_id":1713308651,
             "locality_id":1125817147,
-            "region_id":-1
+            "region_id":85683049
         }
     ],
     "wof:id":1125817147,
-    "wof:lastmodified":1566585332,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596678040,
     "wof:name":"Vergi",
-    "wof:parent_id":-1,
+    "wof:parent_id":1713308651,
     "wof:placetype":"locality",
     "wof:population":102,
     "wof:population_rank":1,

@@ -91,9 +91,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713311049,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,6 +104,9 @@
         "qs_pg:id":1273667,
         "wd:id":"Q3477298"
     },
+    "wof:coterminous":[
+        1713311049
+    ],
     "wof:country":"EE",
     "wof:created":1497296874,
     "wof:geomhash":"77c758b3bbc9ae6b17780f399aca5bc7",
@@ -109,14 +114,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713311049,
             "locality_id":1125933119,
             "region_id":85682955
         }
     ],
     "wof:id":1125933119,
-    "wof:lastmodified":1566585291,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676966,
     "wof:name":"Himmaste",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713311049,
     "wof:placetype":"locality",
     "wof:population":545,
     "wof:population_rank":2,

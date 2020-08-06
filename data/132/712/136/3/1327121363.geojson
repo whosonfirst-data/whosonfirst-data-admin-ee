@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Punaku",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713312605,
         85633135,
-        85682955
+        1713305789
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589274
     },
     "wof:country":"EE",
-    "wof:geomhash":"85c6334c2cd2f0aed279564bdfc24dd7",
+    "wof:geomhash":"fdb990d3a02f6655523cbc4e93c7c729",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305789,
+            "localadmin_id":1713312605,
             "locality_id":1327121363,
             "region_id":85682955
         }
     ],
     "wof:id":1327121363,
-    "wof:lastmodified":1566584785,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676793,
     "wof:name":"Punnagu",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713312605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +78,9 @@
 },
   "bbox": [
     26.93333,
-    58.11666999999999,
+    58.11667,
     26.93333,
-    58.11666999999999
+    58.11667
 ],
-  "geometry": {"coordinates":[26.93333,58.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.93333,58.11667],"type":"Point"}
 }

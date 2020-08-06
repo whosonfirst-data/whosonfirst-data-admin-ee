@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Tolla k\u00fcla"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713311189,
         85633135,
-        85683013
+        1713305711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588253,
         "wk:page":"Tolla%2C_Estonia"
     },
+    "wof:coterminous":[
+        1713311189
+    ],
     "wof:country":"EE",
     "wof:geomhash":"7a1b2d667192f56098a119134a173872",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305711,
+            "localadmin_id":1713311189,
             "locality_id":1260269399,
             "region_id":85683013
         }
     ],
     "wof:id":1260269399,
-    "wof:lastmodified":1566585150,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676723,
     "wof:name":"Tolla",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713311189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

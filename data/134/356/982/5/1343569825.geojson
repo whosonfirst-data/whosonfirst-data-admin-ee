@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kuriste"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682989,
         102191581,
+        1713310737,
         85633135,
-        85682989
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590923,
         "wk:page":"Kuriste"
     },
+    "wof:coterminous":[
+        1713310737
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"1f57c181bb98e1f761a614bf2b91c310",
+    "wof:geomhash":"272607982b12a2be74ae6e84d17afaa1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310737,
             "locality_id":1343569825,
             "region_id":85682989
         }
     ],
     "wof:id":1343569825,
-    "wof:lastmodified":1566584867,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596670018,
     "wof:name":"Kuriste",
-    "wof:parent_id":85682989,
+    "wof:parent_id":1713310737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -82,9 +95,9 @@
 },
   "bbox": [
     22.6375,
-    58.79389000000001,
+    58.79389,
     22.6375,
-    58.79389000000001
+    58.79389
 ],
-  "geometry": {"coordinates":[22.6375,58.79389000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.6375,58.79389],"type":"Point"}
 }

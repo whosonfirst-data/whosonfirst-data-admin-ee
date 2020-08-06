@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ilum\u00e4e"
@@ -59,29 +59,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713308345,
         85633135,
-        85683049
+        1713305775
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592043,
         "wk:page":"Ilum%C3%A4e"
     },
+    "wof:coterminous":[
+        1713308345
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"b739587ff90d8cc3a0adc1fd4e434743",
+    "wof:geomhash":"18bd0a64c8945d051738b58097c218f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305775,
+            "localadmin_id":1713308345,
             "locality_id":1243162777,
             "region_id":85683049
         }
     ],
     "wof:id":1243162777,
-    "wof:lastmodified":1566585457,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596678047,
     "wof:name":"Ilumaee",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713308345,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -90,9 +103,9 @@
 },
   "bbox": [
     25.89333,
-    59.53333000000001,
+    59.53333,
     25.89333,
-    59.53333000000001
+    59.53333
 ],
-  "geometry": {"coordinates":[25.89333,59.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.89333,59.53333],"type":"Point"}
 }

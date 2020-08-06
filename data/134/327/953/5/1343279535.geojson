@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0435\u0440\u043d\u0443"
@@ -111,29 +111,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713307891,
         85633135,
-        85683055
+        1713305739
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591450,
         "wk:page":"Kernu_Parish"
     },
+    "wof:coterminous":[
+        1713307891
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"ae1c0cef45897ca19e40a518288ba8e6",
+    "wof:geomhash":"616081d6ebf562e35dac6ea96b96ac34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305739,
+            "localadmin_id":1713307891,
             "locality_id":1343279535,
             "region_id":85683055
         }
     ],
     "wof:id":1343279535,
-    "wof:lastmodified":1566584883,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663241,
     "wof:name":"Kernu",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713307891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -142,9 +155,9 @@
 },
   "bbox": [
     24.49968,
-    59.13628000000001,
+    59.13628,
     24.49968,
-    59.13628000000001
+    59.13628
 ],
-  "geometry": {"coordinates":[24.49968,59.13628000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.49968,59.13628],"type":"Point"}
 }

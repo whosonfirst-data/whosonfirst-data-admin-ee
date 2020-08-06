@@ -81,9 +81,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309193,
         85633135,
-        85682981
+        1713305733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,9 @@
         "qs_pg:id":180092,
         "wd:id":"Q1524214"
     },
+    "wof:coterminous":[
+        1713309163
+    ],
     "wof:country":"EE",
     "wof:created":1497292644,
     "wof:geomhash":"c73567b11d733492aa6aa18ccee0b849",
@@ -99,14 +104,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713309193,
             "locality_id":1125834335,
             "region_id":85682981
         }
     ],
     "wof:id":1125834335,
-    "wof:lastmodified":1566585388,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663418,
     "wof:name":"Vahenurme",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309193,
     "wof:placetype":"locality",
     "wof:population":216,
     "wof:population_rank":2,

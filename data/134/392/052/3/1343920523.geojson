@@ -29,32 +29,42 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713310539,
         85633135,
-        85682941
+        1713305687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619904
     },
     "wof:country":"EE",
-    "wof:geomhash":"42bb88f64c246243d061c1571df7f9dd",
+    "wof:geomhash":"d3561f6b37a7276abf5512dc97e3ed72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305687,
+            "localadmin_id":1713310539,
             "locality_id":1343920523,
             "region_id":85682941
         }
     ],
     "wof:id":1343920523,
-    "wof:lastmodified":1566584861,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661438,
     "wof:name":"Tantsumaee",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713310539,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +73,9 @@
 },
   "bbox": [
     25.91194,
-    57.99028000000001,
+    57.99028,
     25.91194,
-    57.99028000000001
+    57.99028
 ],
-  "geometry": {"coordinates":[25.91194,57.99028000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.91194,57.99028],"type":"Point"}
 }

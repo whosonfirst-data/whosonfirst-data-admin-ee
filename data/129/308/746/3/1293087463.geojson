@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Sonni"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713315387,
         85633135,
-        85683013
+        1713305773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588625,
         "wk:page":"Sonni"
     },
+    "wof:coterminous":[
+        1713315387
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"b27d9302abf6726d251ae50b617d60df",
+    "wof:geomhash":"fb05ad5722a56cf513bb8ed6b6047f98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305773,
+            "localadmin_id":1713315387,
             "locality_id":1293087463,
-            "region_id":85683013
+            "region_id":85683031
         }
     ],
     "wof:id":1293087463,
-    "wof:lastmodified":1566584921,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677990,
     "wof:name":"Sonni",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713315387,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -85,9 +98,9 @@
 },
   "bbox": [
     25.14333,
-    58.91028000000001,
+    58.91028,
     25.14333,
-    58.91028000000001
+    58.91028
 ],
-  "geometry": {"coordinates":[25.14333,58.91028000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.14333,58.91028],"type":"Point"}
 }

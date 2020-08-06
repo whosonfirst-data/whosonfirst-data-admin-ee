@@ -81,9 +81,11 @@
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713314227,
         85633135,
-        85683049
+        1713305723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,9 @@
         "qs_pg:id":966753,
         "wd:id":"Q3467945"
     },
+    "wof:coterminous":[
+        1713314227
+    ],
     "wof:country":"EE",
     "wof:created":1497301892,
     "wof:geomhash":"b4eb62b4b12b19dcaa7192f9c77d7d97",
@@ -99,14 +104,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305723,
+            "localadmin_id":1713314227,
             "locality_id":1126037573,
             "region_id":85683049
         }
     ],
     "wof:id":1126037573,
-    "wof:lastmodified":1566585326,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661737,
     "wof:name":"Kihlevere",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713314227,
     "wof:placetype":"locality",
     "wof:population":196,
     "wof:population_rank":1,

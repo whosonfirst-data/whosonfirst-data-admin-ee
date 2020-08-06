@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09a8\u09cd\u09a6\u09b2\u09be"
@@ -96,28 +96,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309185,
         85633135,
-        85682981
+        1713305705
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591677
     },
     "wof:country":"EE",
-    "wof:geomhash":"92a8bd3f5e0e54f294484255f40fe64e",
+    "wof:geomhash":"6287d83f717aa07c438944e7008bcfed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305705,
+            "localadmin_id":1713309185,
             "locality_id":1209703859,
             "region_id":85682981
         }
     ],
     "wof:id":1209703859,
-    "wof:lastmodified":1566585066,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677735,
     "wof:name":"Kandla",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309185,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -126,9 +136,9 @@
 },
   "bbox": [
     24.95,
-    58.13333000000001,
+    58.13333,
     24.95,
-    58.13333000000001
+    58.13333
 ],
-  "geometry": {"coordinates":[24.95,58.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.95,58.13333],"type":"Point"}
 }

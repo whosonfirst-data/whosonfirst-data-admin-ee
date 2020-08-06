@@ -82,9 +82,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713314507,
         85633135,
-        85682995
+        1713305659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,9 @@
         "qs_pg:id":1274590,
         "wd:id":"Q3462791"
     },
+    "wof:coterminous":[
+        1713314507
+    ],
     "wof:country":"EE",
     "wof:created":1497296983,
     "wof:geomhash":"d697431591f069591a6c12de6f8f8a51",
@@ -100,14 +105,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305659,
+            "localadmin_id":1713314507,
             "locality_id":1125936445,
-            "region_id":85682995
+            "region_id":85683009
         }
     ],
     "wof:id":1125936445,
-    "wof:lastmodified":1566585278,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676480,
     "wof:name":"Tammistu",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713314507,
     "wof:placetype":"locality",
     "wof:population":239,
     "wof:population_rank":2,

@@ -87,9 +87,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713312775,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +100,9 @@
         "qs_pg:id":966816,
         "wd:id":"Q3466795"
     },
+    "wof:coterminous":[
+        1713312775
+    ],
     "wof:country":"EE",
     "wof:created":1497301900,
     "wof:geomhash":"690c6083cfb26920237ab4c203a03486",
@@ -105,14 +110,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713312775,
             "locality_id":1126037697,
             "region_id":85682985
         }
     ],
     "wof:id":1126037697,
-    "wof:lastmodified":1566585325,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661273,
     "wof:name":"Meleski",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713312775,
     "wof:placetype":"locality",
     "wof:population":134,
     "wof:population_rank":1,

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Purga"
@@ -66,28 +66,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713311177,
         85633135,
-        85683013
+        1713305747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618545
     },
+    "wof:coterminous":[
+        1713311177
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"cec1cc0a9ad784f8ab008f48c9255f6b",
+    "wof:geomhash":"ed9b8bb7a3edaa82d5ac940ca9bfe640",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305747,
+            "localadmin_id":1713311177,
             "locality_id":1344136199,
             "region_id":85683013
         }
     ],
     "wof:id":1344136199,
-    "wof:lastmodified":1566584838,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596662853,
     "wof:name":"Purga",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713311177,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -96,9 +109,9 @@
 },
   "bbox": [
     24.39583,
-    59.01694000000001,
+    59.01694,
     24.39583,
-    59.01694000000001
+    59.01694
 ],
-  "geometry": {"coordinates":[24.39583,59.01694000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.39583,59.01694],"type":"Point"}
 }

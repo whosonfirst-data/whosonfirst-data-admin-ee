@@ -82,9 +82,11 @@
     "woe:name_adm1":"V\u00f5rumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713311057,
         85633135,
-        85682937
+        1713305795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,9 @@
         "qs_pg:id":1273982,
         "wd:id":"Q634177"
     },
+    "wof:coterminous":[
+        1713311057
+    ],
     "wof:country":"EE",
     "wof:created":1497293710,
     "wof:geomhash":"a9ca202a417f463fe89fc31122a75d3f",
@@ -100,14 +105,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305795,
+            "localadmin_id":1713311057,
             "locality_id":1125858193,
             "region_id":85682937
         }
     ],
     "wof:id":1125858193,
-    "wof:lastmodified":1566585379,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677020,
     "wof:name":"Kuldre",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713311057,
     "wof:placetype":"locality",
     "wof:population":198,
     "wof:population_rank":1,

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Meemaste"
@@ -48,29 +48,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310973,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590288,
         "wk:page":"Meemaste"
     },
+    "wof:coterminous":[
+        1713310881
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"39348fc3ab36ab226e0e25e3e9ab1d33",
+    "wof:geomhash":"4a9c07a6b570709ab2bf4e31aeae6d8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713310973,
             "locality_id":1309689391,
             "region_id":85682955
         }
     ],
     "wof:id":1309689391,
-    "wof:lastmodified":1566585261,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676964,
     "wof:name":"Meemaste",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -79,9 +92,9 @@
 },
   "bbox": [
     27.05444,
-    58.00471999999999,
+    58.00472,
     27.05444,
-    58.00471999999999
+    58.00472
 ],
-  "geometry": {"coordinates":[27.05444,58.00471999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.05444,58.00472],"type":"Point"}
 }

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hallam\u00e4e",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713315637,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620204
     },
     "wof:country":"EE",
-    "wof:geomhash":"62a983cfb1ade8b74d9e584286a9d15b",
+    "wof:geomhash":"d240161d159127f1f5d4f5bbebdda8df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713315637,
             "locality_id":1276736723,
             "region_id":85682937
         }
     ],
     "wof:id":1276736723,
-    "wof:lastmodified":1566584994,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660410,
     "wof:name":"Hallamaee",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713315637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     27.00833,
-    57.79083000000001,
+    57.79083,
     27.00833,
-    57.79083000000001
+    57.79083
 ],
-  "geometry": {"coordinates":[27.00833,57.79083000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.00833,57.79083],"type":"Point"}
 }

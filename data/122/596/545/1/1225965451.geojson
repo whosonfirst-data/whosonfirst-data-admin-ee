@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "L\u00f5o"
@@ -61,29 +61,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713309557,
         85633135,
-        85683001
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590540,
         "wk:page":"L%C3%B5o"
     },
+    "wof:coterminous":[
+        1713309557
+    ],
     "wof:country":"EE",
     "wof:geomhash":"8afaecae08a3bd6bb0f5100e70b7dedf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713309557,
             "locality_id":1225965451,
             "region_id":85683001
         }
     ],
     "wof:id":1225965451,
-    "wof:lastmodified":1566585553,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661678,
     "wof:name":"Loo",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713309557,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

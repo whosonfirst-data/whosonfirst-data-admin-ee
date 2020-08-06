@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0646\u0627\u0644\u064a\u0646"
@@ -63,28 +63,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713314193,
         85633135,
-        85683059
+        1713305653
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620081
     },
     "wof:country":"EE",
-    "wof:geomhash":"ce45631705a6061323e1f7139c1e92f3",
+    "wof:geomhash":"b20fe83c053e7095a62ec32e599e6dbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305653,
+            "localadmin_id":1713314193,
             "locality_id":1276229747,
             "region_id":85683059
         }
     ],
     "wof:id":1276229747,
-    "wof:lastmodified":1566585019,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676521,
     "wof:name":"Vanalinn",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713314193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -92,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.26222000000001,
+    27.26222,
     59.39389,
-    27.26222000000001,
+    27.26222,
     59.39389
 ],
-  "geometry": {"coordinates":[27.26222000000001,59.39389],"type":"Point"}
+  "geometry": {"coordinates":[27.26222,59.39389],"type":"Point"}
 }

@@ -82,9 +82,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713308685,
         85633135,
-        85682995
+        1713305717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,9 @@
         "qs_pg:id":1274555,
         "wd:id":"Q3454224"
     },
+    "wof:coterminous":[
+        1713308685
+    ],
     "wof:country":"EE",
     "wof:created":1497296979,
     "wof:geomhash":"33222193f3a8bf96063b09a728bb44d1",
@@ -100,14 +105,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305717,
+            "localadmin_id":1713308685,
             "locality_id":1125936313,
             "region_id":85682995
         }
     ],
     "wof:id":1125936313,
-    "wof:lastmodified":1566585291,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676692,
     "wof:name":"Suure-Kambja",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713308685,
     "wof:placetype":"locality",
     "wof:population":722,
     "wof:population_rank":2,

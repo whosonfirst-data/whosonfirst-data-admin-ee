@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Nulga"
@@ -48,29 +48,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310849,
         85633135,
-        85682955
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794155,
         "wk:page":"Nulga"
     },
+    "wof:coterminous":[
+        1713310849
+    ],
     "wof:country":"EE",
     "wof:geomhash":"2f8a2cd60e5b83f01ab97a71111afa32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305793,
+            "localadmin_id":1713310849,
             "locality_id":1209903257,
             "region_id":85682955
         }
     ],
     "wof:id":1209903257,
-    "wof:lastmodified":1566585059,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676995,
     "wof:name":"Nulga",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Haeska"
@@ -53,24 +53,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683001,
+        102191581,
+        1713314681,
+        85633135,
+        1713305755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592212
     },
     "wof:country":"EE",
-    "wof:geomhash":"326d46c87c16ada35520583902d87071",
+    "wof:geomhash":"884158a0ba14292f784d0a7055315dfd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209211697
+            "county_id":1713305755,
+            "localadmin_id":1713314681,
+            "locality_id":1209211697,
+            "region_id":85683001
         }
     ],
     "wof:id":1209211697,
-    "wof:lastmodified":1566585102,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596662771,
     "wof:name":"Haeska",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713314681,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -79,9 +93,9 @@
 },
   "bbox": [
     23.66667,
-    58.78333000000001,
+    58.78333,
     23.66667,
-    58.78333000000001
+    58.78333
 ],
-  "geometry": {"coordinates":[23.66667,58.78333000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.66667,58.78333],"type":"Point"}
 }

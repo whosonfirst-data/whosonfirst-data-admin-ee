@@ -81,9 +81,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713309087,
         85633135,
-        85682995
+        1713305659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,9 @@
         "qs_pg:id":1082197,
         "wd:id":"Q3455144"
     },
+    "wof:coterminous":[
+        1713309087
+    ],
     "wof:country":"EE",
     "wof:created":1497291268,
     "wof:geomhash":"d36bb3f6a55064548a34f51a0cbd7d2e",
@@ -99,14 +104,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305659,
+            "localadmin_id":1713309087,
             "locality_id":1125801193,
-            "region_id":85682995
+            "region_id":85683009
         }
     ],
     "wof:id":1125801193,
-    "wof:lastmodified":1566585344,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676469,
     "wof:name":"K\u00e4revere",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713309087,
     "wof:placetype":"locality",
     "wof:population":153,
     "wof:population_rank":1,

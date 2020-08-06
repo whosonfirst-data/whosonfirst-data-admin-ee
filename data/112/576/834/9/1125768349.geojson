@@ -67,9 +67,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713310305,
         85633135,
-        85682941
+        1713305753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +79,9 @@
         "qs_pg:id":83806,
         "wd:id":"Q3280694"
     },
+    "wof:coterminous":[
+        1713310305
+    ],
     "wof:country":"EE",
     "wof:created":1497289975,
     "wof:geomhash":"b8ff7a2ac98f67ed3e03f799b0c4691c",
@@ -84,14 +89,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305753,
+            "localadmin_id":1713310305,
             "locality_id":1125768349,
             "region_id":85682941
         }
     ],
     "wof:id":1125768349,
-    "wof:lastmodified":1566585377,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661952,
     "wof:name":"Tagula",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713310305,
     "wof:placetype":"locality",
     "wof:population":218,
     "wof:population_rank":2,

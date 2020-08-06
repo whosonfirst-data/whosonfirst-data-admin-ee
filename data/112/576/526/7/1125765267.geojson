@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"EE",
@@ -48,9 +48,11 @@
     "woe:name_adm1":"J\u00f5gevamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713308739,
         85633135,
-        85683009
+        1713305659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,6 +60,9 @@
         "gp:id":844646,
         "qs_pg:id":423493
     },
+    "wof:coterminous":[
+        1713308739
+    ],
     "wof:country":"EE",
     "wof:created":1497289867,
     "wof:geomhash":"879ebd77b5ce6d454d579ebad1b9416e",
@@ -65,14 +70,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305659,
+            "localadmin_id":1713308739,
             "locality_id":1125765267,
             "region_id":85683009
         }
     ],
     "wof:id":1125765267,
-    "wof:lastmodified":1566585377,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676473,
     "wof:name":"Pataste",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713308739,
     "wof:placetype":"locality",
     "wof:population":124,
     "wof:population_rank":1,

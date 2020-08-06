@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sakla"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682989,
         102191581,
+        1713310649,
         85633135,
-        85682989
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588838,
         "wk:page":"Sakla%2C_Hiiu_County"
     },
+    "wof:coterminous":[
+        1713310649
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"82d026d172ce3c8b56c69565a4b02024",
+    "wof:geomhash":"692a896bf4f6bbc9aad6dfe2f1a6eab0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310649,
             "locality_id":1276456515,
             "region_id":85682989
         }
     ],
     "wof:id":1276456515,
-    "wof:lastmodified":1566584990,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596670018,
     "wof:name":"Sakla",
-    "wof:parent_id":85682989,
+    "wof:parent_id":1713310649,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -82,9 +95,9 @@
 },
   "bbox": [
     22.83987,
-    58.95268000000001,
+    58.95268,
     22.83987,
-    58.95268000000001
+    58.95268
 ],
-  "geometry": {"coordinates":[22.83987,58.95268000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.83987,58.95268],"type":"Point"}
 }

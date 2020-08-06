@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"EE",
@@ -48,9 +48,11 @@
     "woe:name_adm1":"V\u00f5rumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713316189,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,6 +60,9 @@
         "gp:id":846600,
         "qs_pg:id":180155
     },
+    "wof:coterminous":[
+        1713316189
+    ],
     "wof:country":"EE",
     "wof:created":1497291172,
     "wof:geomhash":"58c1717b1bfcd3ad2262a68682b7d615",
@@ -65,14 +70,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713316189,
             "locality_id":1125798883,
             "region_id":85682937
         }
     ],
     "wof:id":1125798883,
-    "wof:lastmodified":1566585384,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660404,
     "wof:name":"V\u00f5rum\u00f5isa",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713316189,
     "wof:placetype":"locality",
     "wof:population":146,
     "wof:population_rank":1,

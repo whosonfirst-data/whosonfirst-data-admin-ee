@@ -87,9 +87,11 @@
     "woe:name_adm1":"J\u00f5gevamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713313443,
         85633135,
-        85683009
+        1713305677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +100,9 @@
         "qs_pg:id":179902,
         "wd:id":"Q986468"
     },
+    "wof:coterminous":[
+        1713313443
+    ],
     "wof:country":"EE",
     "wof:created":1497296067,
     "wof:geomhash":"d6e489b518ac6fa9bdbd9a3e1187c586",
@@ -105,14 +110,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305677,
+            "localadmin_id":1713313443,
             "locality_id":1125908691,
-            "region_id":85683009
+            "region_id":85683059
         }
     ],
     "wof:id":1125908691,
-    "wof:lastmodified":1566585350,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661014,
     "wof:name":"Omedu",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713313443,
     "wof:placetype":"locality",
     "wof:population":109,
     "wof:population_rank":1,

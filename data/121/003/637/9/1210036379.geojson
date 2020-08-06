@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "T\u00f5ugu"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713313785,
         85633135,
-        85683049
+        1713305775
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793255,
         "wk:page":"T%C3%B5ugu"
     },
+    "wof:coterminous":[
+        1713314233
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"00852fc87c2e039d9edaf43f0768d922",
+    "wof:geomhash":"ca02c913eb05616a3723ba8c4e6fd7b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305775,
+            "localadmin_id":1713313785,
             "locality_id":1210036379,
             "region_id":85683049
         }
     ],
     "wof:id":1210036379,
-    "wof:lastmodified":1566585111,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596678039,
     "wof:name":"Tougu",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713313785,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -82,9 +95,9 @@
 },
   "bbox": [
     25.82139,
-    59.53194000000001,
+    59.53194,
     25.82139,
-    59.53194000000001
+    59.53194
 ],
-  "geometry": {"coordinates":[25.82139,59.53194000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.82139,59.53194],"type":"Point"}
 }

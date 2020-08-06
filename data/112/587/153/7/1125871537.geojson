@@ -72,9 +72,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309191,
         85633135,
-        85682981
+        1713305741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,6 +85,9 @@
         "qs_pg:id":179933,
         "wd:id":"Q3455554"
     },
+    "wof:coterminous":[
+        1713309191
+    ],
     "wof:country":"EE",
     "wof:created":1497294322,
     "wof:geomhash":"c7451b9797b21de6eaf72fb7c2a87330",
@@ -90,14 +95,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305741,
+            "localadmin_id":1713309191,
             "locality_id":1125871537,
             "region_id":85682981
         }
     ],
     "wof:id":1125871537,
-    "wof:lastmodified":1566585346,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663207,
     "wof:name":"Penu",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309191,
     "wof:placetype":"locality",
     "wof:population":94,
     "wof:population_rank":1,

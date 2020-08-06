@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u064a\u062a\u0627"
@@ -114,28 +114,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713313483,
         85633135,
-        85682941
+        1713305759
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620611
     },
+    "wof:coterminous":[
+        1713313483
+    ],
     "wof:country":"EE",
     "wof:geomhash":"083c957b192a8323b2094127e96483b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305759,
+            "localadmin_id":1713313483,
             "locality_id":1344119291,
             "region_id":85682941
         }
     ],
     "wof:id":1344119291,
-    "wof:lastmodified":1566584877,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661878,
     "wof:name":"Makita",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713313483,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

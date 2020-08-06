@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kobak\u00fcla",
@@ -37,24 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683049,
+        102191581,
+        1713308335,
+        85633135,
+        1713305761
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618387
     },
     "wof:country":"EE",
-    "wof:geomhash":"659c7a26d1c7b2cdc8a314756a28eca4",
+    "wof:geomhash":"ff29d3e6d99c8281cd4bb8dfbe3c2c4e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209400377
+            "county_id":1713305761,
+            "localadmin_id":1713308335,
+            "locality_id":1209400377,
+            "region_id":85683049
         }
     ],
     "wof:id":1209400377,
-    "wof:lastmodified":1566585069,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676605,
     "wof:name":"Kobakuela",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713308335,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -62,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.98472000000001,
-    59.10583000000001,
-    25.98472000000001,
-    59.10583000000001
+    25.98472,
+    59.10583,
+    25.98472,
+    59.10583
 ],
-  "geometry": {"coordinates":[25.98472000000001,59.10583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.98472,59.10583],"type":"Point"}
 }

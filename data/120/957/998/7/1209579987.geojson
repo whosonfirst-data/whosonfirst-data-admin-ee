@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ih\u00e4rde",
@@ -37,24 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682937,
+        102191581,
+        1713315783,
+        85633135,
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619192
     },
     "wof:country":"EE",
-    "wof:geomhash":"0d3db62a3bcf5fc3103da668404b8773",
+    "wof:geomhash":"d1a2253e3adb86438536e917c4c00389",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209579987
+            "county_id":1713305633,
+            "localadmin_id":1713315783,
+            "locality_id":1209579987,
+            "region_id":85682937
         }
     ],
     "wof:id":1209579987,
-    "wof:lastmodified":1566585078,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660409,
     "wof:name":"Ihaerde",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713315783,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -62,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.13722000000001,
+    27.13722,
     57.75111,
-    27.13722000000001,
+    27.13722,
     57.75111
 ],
-  "geometry": {"coordinates":[27.13722000000001,57.75111],"type":"Point"}
+  "geometry": {"coordinates":[27.13722,57.75111],"type":"Point"}
 }

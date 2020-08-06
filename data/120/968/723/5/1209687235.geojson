@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u062a\u0648 \u0646\u0648\u0631\u0645"
@@ -57,25 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683013,
+        102191581,
+        1713311233,
+        85633135,
+        1713305713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618453,
         "wk:page":"Valtu-Nurme"
     },
+    "wof:coterminous":[
+        1713311233
+    ],
     "wof:country":"EE",
     "wof:geomhash":"13c763f9fe3087eda5866042d5e83abe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209687235
+            "county_id":1713305713,
+            "localadmin_id":1713311233,
+            "locality_id":1209687235,
+            "region_id":85683013
         }
     ],
     "wof:id":1209687235,
-    "wof:lastmodified":1566585080,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676746,
     "wof:name":"Valtu-Nurme",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713311233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

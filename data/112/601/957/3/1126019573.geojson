@@ -84,9 +84,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310899,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +97,9 @@
         "qs_pg:id":249946,
         "wd:id":"Q3467447"
     },
+    "wof:coterminous":[
+        1713310899
+    ],
     "wof:country":"EE",
     "wof:created":1497300752,
     "wof:geomhash":"cc4e5ecca00553b90c244da961644722",
@@ -102,14 +107,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713310899,
             "locality_id":1126019573,
             "region_id":85682955
         }
     ],
     "wof:id":1126019573,
-    "wof:lastmodified":1566585362,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676972,
     "wof:name":"Kauksi",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310899,
     "wof:placetype":"locality",
     "wof:population":317,
     "wof:population_rank":2,

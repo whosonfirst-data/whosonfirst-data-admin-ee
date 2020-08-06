@@ -79,9 +79,11 @@
     "woe:name_adm1":"J\u00e4rvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713306553,
         85633135,
-        85683031
+        1713305773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":405667,
         "wd:id":"Q3463138"
     },
+    "wof:coterminous":[
+        1713306553
+    ],
     "wof:country":"EE",
     "wof:created":1497297591,
     "wof:geomhash":"6ce0d258f0961e92ab67ff37a09b8367",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305773,
+            "localadmin_id":1713306553,
             "locality_id":1125954947,
             "region_id":85683031
         }
     ],
     "wof:id":1125954947,
-    "wof:lastmodified":1566585305,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677987,
     "wof:name":"\u00c4nari",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713306553,
     "wof:placetype":"locality",
     "wof:population":113,
     "wof:population_rank":1,

@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Valgej\u00f5e"
@@ -68,29 +68,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306413,
         85633135,
-        85683055
+        1713305725
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":587873,
         "wk:page":"Valgej%C3%B5e"
     },
+    "wof:coterminous":[
+        1713306413
+    ],
     "wof:country":"EE",
     "wof:geomhash":"bdf6e774584158319b140f96073dc2de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305725,
+            "localadmin_id":1713306413,
             "locality_id":1309919635,
             "region_id":85683055
         }
     ],
     "wof:id":1309919635,
-    "wof:lastmodified":1566585251,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661842,
     "wof:name":"Valgejoe",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306413,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

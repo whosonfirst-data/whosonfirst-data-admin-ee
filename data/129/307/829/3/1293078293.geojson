@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "P\u00e4\u00e4sna"
@@ -48,29 +48,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310923,
         85633135,
-        85682955
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794207,
         "wk:page":"P%C3%A4%C3%A4sna"
     },
+    "wof:coterminous":[
+        1713310923
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"2d172b3ffd8d08e7973c4508728c4d0b",
+    "wof:geomhash":"3f2c4ab281bcc0d4001d3f753c053cbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305793,
+            "localadmin_id":1713310923,
             "locality_id":1293078293,
             "region_id":85682955
         }
     ],
     "wof:id":1293078293,
-    "wof:lastmodified":1566584911,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677000,
     "wof:name":"Paeaesna",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -78,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.28972000000001,
+    27.28972,
     58.01611,
-    27.28972000000001,
+    27.28972,
     58.01611
 ],
-  "geometry": {"coordinates":[27.28972000000001,58.01611],"type":"Point"}
+  "geometry": {"coordinates":[27.28972,58.01611],"type":"Point"}
 }

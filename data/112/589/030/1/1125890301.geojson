@@ -81,9 +81,11 @@
     "woe:name_adm1":"V\u00f5rumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713314965,
         85633135,
-        85682937
+        1713305787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,9 @@
         "qs_pg:id":918029,
         "wd:id":"Q946967"
     },
+    "wof:coterminous":[
+        1713314965
+    ],
     "wof:country":"EE",
     "wof:created":1497295284,
     "wof:geomhash":"887e76007b2b57f60ca566fd495be91b",
@@ -99,14 +104,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305787,
+            "localadmin_id":1713314965,
             "locality_id":1125890301,
             "region_id":85682937
         }
     ],
     "wof:id":1125890301,
-    "wof:lastmodified":1566585340,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676888,
     "wof:name":"Saru",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713314965,
     "wof:placetype":"locality",
     "wof:population":299,
     "wof:population_rank":2,

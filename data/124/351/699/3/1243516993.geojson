@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Myardi",
@@ -37,28 +37,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713309751,
         85633135,
-        85682941
+        1713305759
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590329
     },
+    "wof:coterminous":[
+        1713309751
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"335df9e4e350a65e1778318667892bba",
+    "wof:geomhash":"ec7a02cb514e8ec484df0d93700b43dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305759,
+            "localadmin_id":1713309751,
             "locality_id":1243516993,
             "region_id":85682941
         }
     ],
     "wof:id":1243516993,
-    "wof:lastmodified":1566585436,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661879,
     "wof:name":"Maerdi",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713309751,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -66,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.41472000000001,
+    26.41472,
     57.98972,
-    26.41472000000001,
+    26.41472,
     57.98972
 ],
-  "geometry": {"coordinates":[26.41472000000001,57.98972],"type":"Point"}
+  "geometry": {"coordinates":[26.41472,57.98972],"type":"Point"}
 }

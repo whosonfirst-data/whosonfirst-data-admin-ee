@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:est_x_preferred":[
@@ -58,9 +58,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312705,
         85633135,
-        85682995
+        1713305659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,6 +70,9 @@
         "gp:id":845900,
         "qs_pg:id":478108
     },
+    "wof:coterminous":[
+        1713312705
+    ],
     "wof:country":"EE",
     "wof:created":1497296211,
     "wof:geomhash":"ce5815b74a72fe7f1673b6c54079ec71",
@@ -75,14 +80,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305659,
+            "localadmin_id":1713312705,
             "locality_id":1125913121,
-            "region_id":85682995
+            "region_id":85683009
         }
     ],
     "wof:id":1125913121,
-    "wof:lastmodified":1566585357,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676474,
     "wof:name":"Toolamaa",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713312705,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

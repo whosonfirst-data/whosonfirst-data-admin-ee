@@ -87,9 +87,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713309319,
         85633135,
-        85682995
+        1713305679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +100,9 @@
         "qs_pg:id":125899,
         "wd:id":"Q3454805"
     },
+    "wof:coterminous":[
+        1713309319
+    ],
     "wof:country":"EE",
     "wof:created":1497293874,
     "wof:geomhash":"3dab42c5d9078eb55f72c4f985f5b9ba",
@@ -105,14 +110,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305679,
+            "localadmin_id":1713309319,
             "locality_id":1125862215,
             "region_id":85682995
         }
     ],
     "wof:id":1125862215,
-    "wof:lastmodified":1566585329,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660916,
     "wof:name":"Nina",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713309319,
     "wof:placetype":"locality",
     "wof:population":130,
     "wof:population_rank":1,

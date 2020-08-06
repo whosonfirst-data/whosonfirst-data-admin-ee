@@ -84,9 +84,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713314711,
         85633135,
-        85683055
+        1713305739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +97,9 @@
         "qs_pg:id":179870,
         "wd:id":"Q2269570"
     },
+    "wof:coterminous":[
+        1713314711
+    ],
     "wof:country":"EE",
     "wof:created":1497294306,
     "wof:geomhash":"355f2f140d4bfba37f75341642d04660",
@@ -102,14 +107,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305739,
+            "localadmin_id":1713314711,
             "locality_id":1125871123,
             "region_id":85683055
         }
     ],
     "wof:id":1125871123,
-    "wof:lastmodified":1566585348,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663240,
     "wof:name":"Munalaskme",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713314711,
     "wof:placetype":"locality",
     "wof:population":127,
     "wof:population_rank":1,

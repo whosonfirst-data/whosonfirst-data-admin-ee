@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Haavakannu"
@@ -64,29 +64,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713305927,
         85633135,
-        85683055
+        1713305725
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592219,
         "wk:page":"Haavakannu"
     },
+    "wof:coterminous":[
+        1713305927
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"a9a782737639af8e1e4de85a198a8de8",
+    "wof:geomhash":"c5a240d429c41bf9b1214b91c7cd6902",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305725,
+            "localadmin_id":1713305927,
             "locality_id":1259894019,
             "region_id":85683055
         }
     ],
     "wof:id":1259894019,
-    "wof:lastmodified":1566585505,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661847,
     "wof:name":"Haavakannu",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713305927,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -95,9 +108,9 @@
 },
   "bbox": [
     25.28333,
-    59.46666999999999,
+    59.46667,
     25.28333,
-    59.46666999999999
+    59.46667
 ],
-  "geometry": {"coordinates":[25.28333,59.46666999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.28333,59.46667],"type":"Point"}
 }

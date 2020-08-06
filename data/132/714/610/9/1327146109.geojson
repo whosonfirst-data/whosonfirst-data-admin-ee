@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kotinuka"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713313335,
         85633135,
-        85683059
+        1713305651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793486,
         "wk:page":"Kotinuka"
     },
+    "wof:coterminous":[
+        1713313335
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"f03b4aac4483c0b025f46e0e2876a8b8",
+    "wof:geomhash":"5391a62245fddc989be8c1c9fab0ba3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305651,
+            "localadmin_id":1713313335,
             "locality_id":1327146109,
             "region_id":85683059
         }
     ],
     "wof:id":1327146109,
-    "wof:lastmodified":1566584781,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676515,
     "wof:name":"Kotinuka",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713313335,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -87,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.42222000000001,
+    27.42222,
     59.38194,
-    27.42222000000001,
+    27.42222,
     59.38194
 ],
-  "geometry": {"coordinates":[27.42222000000001,59.38194],"type":"Point"}
+  "geometry": {"coordinates":[27.42222,59.38194],"type":"Point"}
 }

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Aidu-Sook\u00fcla"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713312899,
         85633135,
-        85683059
+        1713305695
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618876,
         "wk:page":"Aidu-Sook%C3%BCla"
     },
+    "wof:coterminous":[
+        1713312899
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"24f744eacac066693bc0deff6d21493a",
+    "wof:geomhash":"46499a59c721831a4c012d7501e8899a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305695,
+            "localadmin_id":1713312899,
             "locality_id":1343860243,
             "region_id":85683059
         }
     ],
     "wof:id":1343860243,
-    "wof:lastmodified":1566584890,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660803,
     "wof:name":"Aidu-Sookuela",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713312899,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -88,9 +101,9 @@
 },
   "bbox": [
     27.0375,
-    59.32194000000001,
+    59.32194,
     27.0375,
-    59.32194000000001
+    59.32194
 ],
-  "geometry": {"coordinates":[27.0375,59.32194000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.0375,59.32194],"type":"Point"}
 }

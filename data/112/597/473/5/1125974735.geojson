@@ -88,9 +88,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713312053,
         85633135,
-        85683009
+        1713305677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +101,9 @@
         "qs_pg:id":528609,
         "wd:id":"Q3464596"
     },
+    "wof:coterminous":[
+        1713314467
+    ],
     "wof:country":"EE",
     "wof:created":1497298301,
     "wof:geomhash":"a1b1058e11a0e43c54d90d641cfdc291",
@@ -106,14 +111,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305677,
+            "localadmin_id":1713312053,
             "locality_id":1125974735,
-            "region_id":85683009
+            "region_id":85683059
         }
     ],
     "wof:id":1125974735,
-    "wof:lastmodified":1566585355,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661040,
     "wof:name":"Raja",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312053,
     "wof:placetype":"locality",
     "wof:population":469,
     "wof:population_rank":2,

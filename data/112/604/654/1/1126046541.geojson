@@ -77,9 +77,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713305951,
         85633135,
-        85683055
+        1713305725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,6 +89,9 @@
         "qs_pg:id":908206,
         "wd:id":"Q2668950"
     },
+    "wof:coterminous":[
+        1713305951
+    ],
     "wof:country":"EE",
     "wof:created":1497302465,
     "wof:geomhash":"480d7bcecfc7a755d37cbf97409d96aa",
@@ -94,14 +99,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305725,
+            "localadmin_id":1713305951,
             "locality_id":1126046541,
             "region_id":85683055
         }
     ],
     "wof:id":1126046541,
-    "wof:lastmodified":1566585318,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661848,
     "wof:name":"Kolga-Aabla",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713305951,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

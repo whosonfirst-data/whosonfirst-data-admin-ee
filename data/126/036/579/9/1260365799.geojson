@@ -29,35 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dorf Sowa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713314153,
         85633135,
-        85682995
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620439
     },
     "wof:country":"EE",
-    "wof:geomhash":"1e949e2797c640b928f3e4414418ef1a",
+    "wof:geomhash":"fcaabd8999ed651591ee5ee07a306df3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713314153,
             "locality_id":1260365799,
             "region_id":85682995
         }
     ],
     "wof:id":1260365799,
-    "wof:lastmodified":1566585140,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661913,
     "wof:name":"Soovaveski",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713314153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -66,9 +76,9 @@
 },
   "bbox": [
     26.34472,
-    58.32083000000001,
+    58.32083,
     26.34472,
-    58.32083000000001
+    58.32083
 ],
-  "geometry": {"coordinates":[26.34472,58.32083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.34472,58.32083],"type":"Point"}
 }

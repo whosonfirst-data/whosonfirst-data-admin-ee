@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"25.512228,59.5191645,25.512228,59.5191645",
+    "geom:bbox":"25.512228,59.519165,25.512228,59.519165",
     "geom:latitude":59.519165,
     "geom:longitude":25.512228,
     "gn:country":null,
@@ -81,9 +81,12 @@
         "qs_pg:id":267146,
         "wd:id":"Q2277151"
     },
+    "wof:coterminous":[
+        1713305929
+    ],
     "wof:country":"EE",
     "wof:created":1497290134,
-    "wof:geomhash":"14f290326f7104b674514a2f157e5f30",
+    "wof:geomhash":"5b8afc3b9e8fedd7f8b9f0199810a475",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +96,13 @@
         }
     ],
     "wof:id":1125772881,
-    "wof:lastmodified":1566585385,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596130271,
     "wof:name":"Tsitre",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
@@ -104,9 +113,9 @@
 },
   "bbox": [
     25.512228,
-    59.5191645,
+    59.519165,
     25.512228,
-    59.5191645
+    59.519165
 ],
-  "geometry": {"coordinates":[25.512228,59.5191645],"type":"Point"}
+  "geometry": {"coordinates":[25.512228,59.519165],"type":"Point"}
 }

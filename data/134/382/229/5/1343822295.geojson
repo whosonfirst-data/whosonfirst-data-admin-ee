@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nodaze",
@@ -38,28 +38,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713315469,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589932
     },
+    "wof:coterminous":[
+        1713315469
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"10809e28fa8651a54af7dfd669c38f99",
+    "wof:geomhash":"9cd531da5d362e99b2ea7452fe5087ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713315469,
             "locality_id":1343822295,
             "region_id":85682937
         }
     ],
     "wof:id":1343822295,
-    "wof:lastmodified":1566584858,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660402,
     "wof:name":"Noodaskuela",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713315469,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +81,9 @@
 },
   "bbox": [
     27.15694,
-    57.81333000000001,
+    57.81333,
     27.15694,
-    57.81333000000001
+    57.81333
 ],
-  "geometry": {"coordinates":[27.15694,57.81333000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.15694,57.81333],"type":"Point"}
 }

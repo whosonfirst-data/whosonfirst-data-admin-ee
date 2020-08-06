@@ -84,9 +84,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713310007,
         85633135,
-        85682981
+        1713305703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +97,9 @@
         "qs_pg:id":179951,
         "wd:id":"Q2025546"
     },
+    "wof:coterminous":[
+        1713310007
+    ],
     "wof:country":"EE",
     "wof:created":1497294332,
     "wof:geomhash":"99cf0b69f2fd9bf8f74d4bb342161704",
@@ -102,14 +107,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305703,
+            "localadmin_id":1713310007,
             "locality_id":1125871629,
             "region_id":85682981
         }
     ],
     "wof:id":1125871629,
-    "wof:lastmodified":1566585346,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677703,
     "wof:name":"Pootsi",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713310007,
     "wof:placetype":"locality",
     "wof:population":109,
     "wof:population_rank":1,

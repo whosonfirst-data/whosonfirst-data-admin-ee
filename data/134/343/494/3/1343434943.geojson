@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Kallaste"
@@ -129,28 +129,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713314965,
         85633135,
-        85682937
+        1713305787
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794413
     },
+    "wof:coterminous":[
+        1713314959
+    ],
     "wof:country":"EE",
     "wof:geomhash":"eb6cd1edce4007563e1cb0c942ac4649",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305787,
+            "localadmin_id":1713314965,
             "locality_id":1343434943,
             "region_id":85682937
         }
     ],
     "wof:id":1343434943,
-    "wof:lastmodified":1566584895,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676887,
     "wof:name":"Kallaste",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713314965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

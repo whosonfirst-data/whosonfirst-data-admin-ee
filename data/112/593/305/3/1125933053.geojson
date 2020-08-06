@@ -79,9 +79,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309571,
         85633135,
-        85682981
+        1713305733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":1273645,
         "wd:id":"Q3477399"
     },
+    "wof:coterminous":[
+        1713309571
+    ],
     "wof:country":"EE",
     "wof:created":1497296872,
     "wof:geomhash":"ff42aeea6c19c9fad3cf408fb8e673e1",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713309571,
             "locality_id":1125933053,
             "region_id":85682981
         }
     ],
     "wof:id":1125933053,
-    "wof:lastmodified":1566585286,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663425,
     "wof:name":"Halinga",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309571,
     "wof:placetype":"locality",
     "wof:population":95,
     "wof:population_rank":1,

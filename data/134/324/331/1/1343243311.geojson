@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kiisamaa"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713314535,
         85633135,
-        85682981
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591396,
         "wk:page":"Kiisamaa"
     },
+    "wof:coterminous":[
+        1713314535
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"41d9fe116d66d048a3a47bbbd43ad0b9",
+    "wof:geomhash":"cc4e1b6cf04a721ad0e6179203fc5204",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713314535,
             "locality_id":1343243311,
-            "region_id":85682981
+            "region_id":85683001
         }
     ],
     "wof:id":1343243311,
-    "wof:lastmodified":1566584854,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661687,
     "wof:name":"Kiisamaa",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713314535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -85,9 +98,9 @@
 },
   "bbox": [
     24.18806,
-    58.53471999999999,
+    58.53472,
     24.18806,
-    58.53471999999999
+    58.53472
 ],
-  "geometry": {"coordinates":[24.18806,58.53471999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.18806,58.53472],"type":"Point"}
 }

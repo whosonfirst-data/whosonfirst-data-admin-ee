@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Es-Somra",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713310473,
         85633135,
-        85682981
+        1713305703
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592308
     },
     "wof:country":"EE",
-    "wof:geomhash":"43644e3c688dfc36155777673f4694a8",
+    "wof:geomhash":"f9bfc66bd7ff8202beb7778d5769ae52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305703,
+            "localadmin_id":1713310473,
             "locality_id":1343549347,
             "region_id":85682981
         }
     ],
     "wof:id":1343549347,
-    "wof:lastmodified":1566584828,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677703,
     "wof:name":"Ees-Soomra",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713310473,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +78,9 @@
 },
   "bbox": [
     24.16667,
-    58.36666999999999,
+    58.36667,
     24.16667,
-    58.36666999999999
+    58.36667
 ],
-  "geometry": {"coordinates":[24.16667,58.36666999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.16667,58.36667],"type":"Point"}
 }

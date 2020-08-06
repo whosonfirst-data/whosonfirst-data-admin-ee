@@ -87,9 +87,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713312969,
         85633135,
-        85683055
+        1713305725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +100,9 @@
         "qs_pg:id":249959,
         "wd:id":"Q932385"
     },
+    "wof:coterminous":[
+        1713312969
+    ],
     "wof:country":"EE",
     "wof:created":1497300753,
     "wof:geomhash":"6bbb42ff1258d27ae9945c717a0a7333",
@@ -105,14 +110,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305725,
+            "localadmin_id":1713312969,
             "locality_id":1126019595,
             "region_id":85683055
         }
     ],
     "wof:id":1126019595,
-    "wof:lastmodified":1566585363,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661848,
     "wof:name":"Valkla",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713312969,
     "wof:placetype":"locality",
     "wof:population":663,
     "wof:population_rank":2,

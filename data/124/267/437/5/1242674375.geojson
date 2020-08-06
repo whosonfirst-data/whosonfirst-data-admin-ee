@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alakyula",
@@ -37,29 +37,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713309365,
         85633135,
-        85683001
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592562,
         "wk:page":"Alak%C3%BCla%2C_L%C3%A4%C3%A4ne_County"
     },
+    "wof:coterminous":[
+        1713309365
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"571a0ff5ae0110e36ee65cd0f6cf2844",
+    "wof:geomhash":"987ed0cb4b4a621f6bc81ba67479f9b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713309365,
             "locality_id":1242674375,
             "region_id":85683001
         }
     ],
     "wof:id":1242674375,
-    "wof:lastmodified":1566585411,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661681,
     "wof:name":"Alakuela",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713309365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +81,9 @@
 },
   "bbox": [
     23.79278,
-    58.69221999999999,
+    58.69222,
     23.79278,
-    58.69221999999999
+    58.69222
 ],
-  "geometry": {"coordinates":[23.79278,58.69221999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.79278,58.69222],"type":"Point"}
 }

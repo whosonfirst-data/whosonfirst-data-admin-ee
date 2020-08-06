@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:und_x_variant":[
@@ -52,9 +52,11 @@
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713307957,
         85633135,
-        85683049
+        1713305771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +64,9 @@
         "gp:id":844994,
         "qs_pg:id":1015215
     },
+    "wof:coterminous":[
+        1713312661
+    ],
     "wof:country":"EE",
     "wof:created":1497300677,
     "wof:geomhash":"0f8c3dee3a67f655a2c1d3a8288d9a45",
@@ -69,14 +74,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305771,
+            "localadmin_id":1713307957,
             "locality_id":1126018199,
             "region_id":85683049
         }
     ],
     "wof:id":1126018199,
-    "wof:lastmodified":1566585362,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677970,
     "wof:name":"R\u00e4gavere",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713307957,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Akhunapalu",
@@ -38,24 +38,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682995,
+        102191581,
+        1713314189,
+        85633135,
+        1713305699
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592587
     },
+    "wof:coterminous":[
+        1713314189
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"55379d123b0b3c8b42ee60bdaffe5154",
+    "wof:geomhash":"fe636e78eabc150836aa5663e0c6dd95",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209578785
+            "county_id":1713305699,
+            "localadmin_id":1713314189,
+            "locality_id":1209578785,
+            "region_id":85682995
         }
     ],
     "wof:id":1209578785,
-    "wof:lastmodified":1566585079,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660665,
     "wof:name":"Ahunapalu",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713314189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -64,9 +81,9 @@
 },
   "bbox": [
     27.27611,
-    58.32471999999999,
+    58.32472,
     27.27611,
-    58.32471999999999
+    58.32472
 ],
-  "geometry": {"coordinates":[27.27611,58.32471999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.27611,58.32472],"type":"Point"}
 }

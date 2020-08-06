@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Peeri"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713314173,
         85633135,
-        85683059
+        1713305783
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793483,
         "wk:page":"Peeri"
     },
+    "wof:coterminous":[
+        1713314173
+    ],
     "wof:country":"EE",
     "wof:geomhash":"edf70e3af24bf751cdde1de71dcbaff3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305783,
+            "localadmin_id":1713314173,
             "locality_id":1243079267,
             "region_id":85683059
         }
     ],
     "wof:id":1243079267,
-    "wof:lastmodified":1566585389,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676912,
     "wof:name":"Peeri",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713314173,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

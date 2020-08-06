@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:est_x_preferred":[
@@ -76,9 +76,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713305987,
         85633135,
-        85683055
+        1713305689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,6 +88,9 @@
         "gp:id":842384,
         "qs_pg:id":478039
     },
+    "wof:coterminous":[
+        1713305987
+    ],
     "wof:country":"EE",
     "wof:created":1497290761,
     "wof:geomhash":"edc1c193b3279ff9bc7276c16a1539f9",
@@ -93,14 +98,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305689,
+            "localadmin_id":1713305987,
             "locality_id":1125788251,
             "region_id":85683055
         }
     ],
     "wof:id":1125788251,
-    "wof:lastmodified":1566585384,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661391,
     "wof:name":"J\u00e4gala-Joa",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713305987,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

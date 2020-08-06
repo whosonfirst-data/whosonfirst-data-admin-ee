@@ -91,9 +91,11 @@
     "woe:name_adm1":"Raplamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713311155,
         85633135,
-        85683013
+        1713305747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,6 +104,9 @@
         "qs_pg:id":528594,
         "wd:id":"Q984794"
     },
+    "wof:coterminous":[
+        1713311155
+    ],
     "wof:country":"EE",
     "wof:created":1497298301,
     "wof:geomhash":"6ef31140b71899f6a13b81ce3b60013d",
@@ -109,14 +114,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305747,
+            "localadmin_id":1713311155,
             "locality_id":1125974721,
             "region_id":85683013
         }
     ],
     "wof:id":1125974721,
-    "wof:lastmodified":1566585355,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596662853,
     "wof:name":"Valguta",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713311155,
     "wof:placetype":"locality",
     "wof:population":279,
     "wof:population_rank":2,

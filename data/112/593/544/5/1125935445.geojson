@@ -79,9 +79,11 @@
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713307961,
         85633135,
-        85683049
+        1713305771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":1274335,
         "wd:id":"Q3464747"
     },
+    "wof:coterminous":[
+        1713307615
+    ],
     "wof:country":"EE",
     "wof:created":1497296952,
     "wof:geomhash":"d47851cc5a5da58a120a0a8ea5cd6e60",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305771,
+            "localadmin_id":1713307961,
             "locality_id":1125935445,
             "region_id":85683049
         }
     ],
     "wof:id":1125935445,
-    "wof:lastmodified":1566585284,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677969,
     "wof:name":"Piira",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713307961,
     "wof:placetype":"locality",
     "wof:population":371,
     "wof:population_rank":2,

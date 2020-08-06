@@ -82,9 +82,11 @@
     "woe:name_adm1":"Raplamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713315101,
         85633135,
-        85683013
+        1713305711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,9 @@
         "qs_pg:id":1274386,
         "wd:id":"Q2492635"
     },
+    "wof:coterminous":[
+        1713315101
+    ],
     "wof:country":"EE",
     "wof:created":1497296957,
     "wof:geomhash":"bb10944e79f4dc9436c7a81083b83153",
@@ -100,14 +105,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305711,
+            "localadmin_id":1713315101,
             "locality_id":1125935603,
             "region_id":85683013
         }
     ],
     "wof:id":1125935603,
-    "wof:lastmodified":1566585275,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676730,
     "wof:name":"Purku",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713315101,
     "wof:placetype":"locality",
     "wof:population":216,
     "wof:population_rank":2,

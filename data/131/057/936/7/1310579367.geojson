@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Salu"
@@ -48,29 +48,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713314401,
         85633135,
-        85682981
+        1713305733
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588815,
         "wk:page":"Salu%2C_P%C3%A4rnu_County"
     },
+    "wof:coterminous":[
+        1713314401
+    ],
     "wof:country":"EE",
     "wof:geomhash":"df37ece7d502e7ff674db5a58d1ba8d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713314401,
             "locality_id":1310579367,
             "region_id":85682981
         }
     ],
     "wof:id":1310579367,
-    "wof:lastmodified":1566585202,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663419,
     "wof:name":"Salu",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713314401,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

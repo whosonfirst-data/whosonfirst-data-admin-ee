@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kolgu"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713315329,
         85633135,
-        85683055
+        1713305725
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591204,
         "wk:page":"Kolgu"
     },
+    "wof:coterminous":[
+        1713315329
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"08fa4a0556537c7125f6caf2d7cc9170",
+    "wof:geomhash":"8b7ae9fbb8a0a3d102407679e9b6e327",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305725,
+            "localadmin_id":1713315329,
             "locality_id":1343372961,
             "region_id":85683055
         }
     ],
     "wof:id":1343372961,
-    "wof:lastmodified":1566584830,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661842,
     "wof:name":"Kolgu",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713315329,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -85,9 +98,9 @@
 },
   "bbox": [
     25.86556,
-    59.29971999999999,
+    59.29972,
     25.86556,
-    59.29971999999999
+    59.29972
 ],
-  "geometry": {"coordinates":[25.86556,59.29971999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.86556,59.29972],"type":"Point"}
 }

@@ -29,32 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713309869,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793863
     },
+    "wof:coterminous":[
+        1713309877
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"c533aa1b2f9a7996b3a2d896c901d988",
+    "wof:geomhash":"8bd7111b3824792fe391942f56c981a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713309869,
             "locality_id":1226019317,
             "region_id":85682985
         }
     ],
     "wof:id":1226019317,
-    "wof:lastmodified":1566585575,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661251,
     "wof:name":"Torrekuela",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713309869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +76,9 @@
 },
   "bbox": [
     25.44944,
-    58.33971999999999,
+    58.33972,
     25.44944,
-    58.33971999999999
+    58.33972
 ],
-  "geometry": {"coordinates":[25.44944,58.33971999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.44944,58.33972],"type":"Point"}
 }

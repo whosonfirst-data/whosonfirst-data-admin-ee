@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lakevainu",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713311439,
         85633135,
-        85683013
+        1713305711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590802
     },
     "wof:country":"EE",
-    "wof:geomhash":"7bd3a78e382c930fe83b647e1b0c0924",
+    "wof:geomhash":"f74b8239142d0cd5bd197fff9d740e4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305711,
+            "localadmin_id":1713311439,
             "locality_id":1293369485,
             "region_id":85683013
         }
     ],
     "wof:id":1293369485,
-    "wof:lastmodified":1566584914,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676721,
     "wof:name":"Lagevainu",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713311439,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.08917000000001,
+    25.08917,
     59.03556,
-    25.08917000000001,
+    25.08917,
     59.03556
 ],
-  "geometry": {"coordinates":[25.08917000000001,59.03556],"type":"Point"}
+  "geometry": {"coordinates":[25.08917,59.03556],"type":"Point"}
 }

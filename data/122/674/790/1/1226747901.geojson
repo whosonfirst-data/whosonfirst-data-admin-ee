@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Palivere"
@@ -66,28 +66,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713306691,
         85633135,
-        85683031
+        1713305773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618486
     },
     "wof:country":"EE",
-    "wof:geomhash":"75c0559316b7b2940284c92c5514f30f",
+    "wof:geomhash":"ba177d2151e0910fe8b1b4d304b66e4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305773,
+            "localadmin_id":1713306691,
             "locality_id":1226747901,
             "region_id":85683031
         }
     ],
     "wof:id":1226747901,
-    "wof:lastmodified":1566585530,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677992,
     "wof:name":"Palivere",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713306691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -95,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.51222000000001,
+    25.51222,
     58.92667,
-    25.51222000000001,
+    25.51222,
     58.92667
 ],
-  "geometry": {"coordinates":[25.51222000000001,58.92667],"type":"Point"}
+  "geometry": {"coordinates":[25.51222,58.92667],"type":"Point"}
 }

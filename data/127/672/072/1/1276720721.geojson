@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u00e4essaare",
@@ -37,28 +37,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713315579,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620180
     },
+    "wof:coterminous":[
+        1713315579
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"92018138bd2cd0bc0ee23a3c7ee3a5c9",
+    "wof:geomhash":"06d078de422c356038f3a15a86073065",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713315579,
             "locality_id":1276720721,
             "region_id":85682937
         }
     ],
     "wof:id":1276720721,
-    "wof:lastmodified":1566584984,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660407,
     "wof:name":"Maeessaare",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713315579,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +80,9 @@
 },
   "bbox": [
     27.27528,
-    57.86333000000001,
+    57.86333,
     27.27528,
-    57.86333000000001
+    57.86333
 ],
-  "geometry": {"coordinates":[27.27528,57.86333000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.27528,57.86333],"type":"Point"}
 }

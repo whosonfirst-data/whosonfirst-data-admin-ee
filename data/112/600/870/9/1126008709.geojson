@@ -96,9 +96,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309259,
         85633135,
-        85682981
+        1713305741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,6 +109,9 @@
         "qs_pg:id":111205,
         "wd:id":"Q1020204"
     },
+    "wof:coterminous":[
+        1713309259
+    ],
     "wof:country":"EE",
     "wof:created":1497300136,
     "wof:geomhash":"171b6025180762ac2c2c6e07512ba9d7",
@@ -114,14 +119,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305741,
+            "localadmin_id":1713309259,
             "locality_id":1126008709,
             "region_id":85682981
         }
     ],
     "wof:id":1126008709,
-    "wof:lastmodified":1566585370,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663211,
     "wof:name":"Uulu",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309259,
     "wof:placetype":"locality",
     "wof:population":524,
     "wof:population_rank":2,

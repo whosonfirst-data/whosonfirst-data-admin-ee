@@ -90,9 +90,11 @@
     "woe:name_adm1":"Raplamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713311427,
         85633135,
-        85683013
+        1713305747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,6 +103,9 @@
         "qs_pg:id":916027,
         "wd:id":"Q985339"
     },
+    "wof:coterminous":[
+        1713311427
+    ],
     "wof:country":"EE",
     "wof:created":1497299822,
     "wof:geomhash":"1502683828572347735344433098b671",
@@ -108,14 +113,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305747,
+            "localadmin_id":1713311427,
             "locality_id":1126004003,
             "region_id":85683013
         }
     ],
     "wof:id":1126004003,
-    "wof:lastmodified":1566585368,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596662853,
     "wof:name":"Varbola",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713311427,
     "wof:placetype":"locality",
     "wof:population":323,
     "wof:population_rank":2,

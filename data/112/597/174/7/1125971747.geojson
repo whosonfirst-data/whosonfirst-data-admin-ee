@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:und_x_variant":[
@@ -49,9 +49,11 @@
     "woe:name_adm1":"J\u00f5gevamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312335,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,6 +61,9 @@
         "gp:id":846174,
         "qs_pg:id":406465
     },
+    "wof:coterminous":[
+        1713312335
+    ],
     "wof:country":"EE",
     "wof:created":1497298195,
     "wof:geomhash":"2b7cb89ba07f595f338831812ecfc13d",
@@ -66,14 +71,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312335,
             "locality_id":1125971747,
             "region_id":85683009
         }
     ],
     "wof:id":1125971747,
-    "wof:lastmodified":1566585352,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676584,
     "wof:name":"Vaiatu",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312335,
     "wof:placetype":"locality",
     "wof:population":189,
     "wof:population_rank":1,

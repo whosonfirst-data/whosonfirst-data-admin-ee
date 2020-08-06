@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-07-27",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.7196215,59.473403,24.7196215,59.473403",
+    "geom:bbox":"24.719621,59.473403,24.719621,59.473403",
     "geom:latitude":59.473403,
     "geom:longitude":24.719621,
     "gn:country":"EE",
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
@@ -103,7 +104,7 @@
     },
     "wof:country":"EE",
     "wof:created":1497294855,
-    "wof:geomhash":"fcff08546b98c86e6f60f44386e2335f",
+    "wof:geomhash":"e088142730e70e3980b0387b441a97c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,20 +114,22 @@
         }
     ],
     "wof:id":1125881869,
-    "wof:lastmodified":1566585336,
+    "wof:lastmodified":1595889384,
     "wof:name":"P\u00f5hja-Tallinn",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1713348883
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    24.7196215,
+    24.719621,
     59.473403,
-    24.7196215,
+    24.719621,
     59.473403
 ],
-  "geometry": {"coordinates":[24.7196215,59.473403],"type":"Point"}
+  "geometry": {"coordinates":[24.719621,59.473403],"type":"Point"}
 }

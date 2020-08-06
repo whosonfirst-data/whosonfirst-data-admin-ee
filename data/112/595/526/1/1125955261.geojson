@@ -85,9 +85,11 @@
     "woe:name_adm1":"J\u00f5gevamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312345,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,6 +98,9 @@
         "qs_pg:id":405770,
         "wd:id":"Q3462159"
     },
+    "wof:coterminous":[
+        1713312345
+    ],
     "wof:country":"EE",
     "wof:created":1497297599,
     "wof:geomhash":"d3299a5104efcf798527685788694fd4",
@@ -103,14 +108,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312345,
             "locality_id":1125955261,
             "region_id":85683009
         }
     ],
     "wof:id":1125955261,
-    "wof:lastmodified":1566585300,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676575,
     "wof:name":"Kaarepere",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312345,
     "wof:placetype":"locality",
     "wof:population":334,
     "wof:population_rank":2,

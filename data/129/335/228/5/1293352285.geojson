@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kadrina"
@@ -69,28 +69,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713311611,
         85633135,
-        85682985
+        1713305661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591785
     },
     "wof:country":"EE",
-    "wof:geomhash":"c7292e959a479733c5561a512e6e1763",
+    "wof:geomhash":"463b59dd5e0836c89e41cbb9236ab962",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305661,
+            "localadmin_id":1713311611,
             "locality_id":1293352285,
             "region_id":85682985
         }
     ],
     "wof:id":1293352285,
-    "wof:lastmodified":1566584947,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661305,
     "wof:name":"Kadrina",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713311611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -99,9 +109,9 @@
 },
   "bbox": [
     25.59472,
-    58.12971999999999,
+    58.12972,
     25.59472,
-    58.12971999999999
+    58.12972
 ],
-  "geometry": {"coordinates":[25.59472,58.12971999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.59472,58.12972],"type":"Point"}
 }

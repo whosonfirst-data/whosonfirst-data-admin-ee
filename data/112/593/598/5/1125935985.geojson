@@ -82,9 +82,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310943,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,9 @@
         "qs_pg:id":1274453,
         "wd:id":"Q3457543"
     },
+    "wof:coterminous":[
+        1713310943
+    ],
     "wof:country":"EE",
     "wof:created":1497296970,
     "wof:geomhash":"6955c0231fcc0b13ee9dc6d0e2e9db22",
@@ -100,14 +105,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713310943,
             "locality_id":1125935985,
             "region_id":85682955
         }
     ],
     "wof:id":1125935985,
-    "wof:lastmodified":1566585287,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676972,
     "wof:name":"Rosma",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310943,
     "wof:placetype":"locality",
     "wof:population":377,
     "wof:population_rank":2,

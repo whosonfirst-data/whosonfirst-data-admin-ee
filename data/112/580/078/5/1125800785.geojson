@@ -84,9 +84,11 @@
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713312883,
         85633135,
-        85683049
+        1713305775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +97,9 @@
         "qs_pg:id":184489,
         "wd:id":"Q427885"
     },
+    "wof:coterminous":[
+        1713312883
+    ],
     "wof:country":"EE",
     "wof:created":1497291250,
     "wof:geomhash":"3fa36945fc2dbcde06fcf10b87d0f3ad",
@@ -102,14 +107,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305775,
+            "localadmin_id":1713312883,
             "locality_id":1125800785,
             "region_id":85683049
         }
     ],
     "wof:id":1125800785,
-    "wof:lastmodified":1566585343,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596678039,
     "wof:name":"Essu",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713312883,
     "wof:placetype":"locality",
     "wof:population":302,
     "wof:population_rank":2,

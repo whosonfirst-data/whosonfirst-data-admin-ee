@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Tammiku"
@@ -54,28 +54,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312085,
         85633135,
-        85683009
+        1713305657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588386
     },
+    "wof:coterminous":[
+        1713314477
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"dd4214cb270d9b9cfdaa355e07165ff1",
+    "wof:geomhash":"f72ca18f7f3ab2f8bc110c8e2ff80359",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305657,
+            "localadmin_id":1713312085,
             "locality_id":1276546195,
             "region_id":85683009
         }
     ],
     "wof:id":1276546195,
-    "wof:lastmodified":1566585041,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676506,
     "wof:name":"Tammiku",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312085,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -84,9 +97,9 @@
 },
   "bbox": [
     26.32,
-    58.60778000000001,
+    58.60778,
     26.32,
-    58.60778000000001
+    58.60778
 ],
-  "geometry": {"coordinates":[26.32,58.60778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.32,58.60778],"type":"Point"}
 }

@@ -29,35 +29,48 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kaarataudsa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713315169,
         85633135,
-        85682937
+        1713305787
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620215
     },
+    "wof:coterminous":[
+        1713315169
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"dc94e5f108632697f6155b1909857612",
+    "wof:geomhash":"20862266011cd5dc9fcee97305a42e7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305787,
+            "localadmin_id":1713315169,
             "locality_id":1326604057,
             "region_id":85682937
         }
     ],
     "wof:id":1326604057,
-    "wof:lastmodified":1566584773,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676889,
     "wof:name":"Kaaratautsa",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713315169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -65,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.02667000000001,
+    27.02667,
     57.7475,
-    27.02667000000001,
+    27.02667,
     57.7475
 ],
-  "geometry": {"coordinates":[27.02667000000001,57.7475],"type":"Point"}
+  "geometry": {"coordinates":[27.02667,57.7475],"type":"Point"}
 }

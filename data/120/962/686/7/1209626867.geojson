@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kaleva"
@@ -63,24 +63,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683059,
+        102191581,
+        1713311995,
+        85633135,
+        1713305693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619666
     },
     "wof:country":"EE",
-    "wof:geomhash":"4ed9d514768275514594c78d42b06e58",
+    "wof:geomhash":"6718ceace6b4efe9d1872f3528c1497d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209626867
+            "county_id":1713305693,
+            "localadmin_id":1713311995,
+            "locality_id":1209626867,
+            "region_id":85683059
         }
     ],
     "wof:id":1209626867,
-    "wof:lastmodified":1566585049,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660751,
     "wof:name":"Kaleva",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713311995,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -88,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.32444000000001,
+    27.32444,
     59.12472,
-    27.32444000000001,
+    27.32444,
     59.12472
 ],
-  "geometry": {"coordinates":[27.32444000000001,59.12472],"type":"Point"}
+  "geometry": {"coordinates":[27.32444,59.12472],"type":"Point"}
 }

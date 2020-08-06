@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Komsi"
@@ -63,24 +63,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682941,
+        102191581,
+        1713313273,
+        85633135,
+        1713305759
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794552
     },
+    "wof:coterminous":[
+        1713313273
+    ],
     "wof:country":"EE",
     "wof:geomhash":"3c1e8bb7078423b0fb5e2517c8335c7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209691209
+            "county_id":1713305759,
+            "localadmin_id":1713313273,
+            "locality_id":1209691209,
+            "region_id":85682941
         }
     ],
     "wof:id":1209691209,
-    "wof:lastmodified":1566585090,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661874,
     "wof:name":"Komsi",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713313273,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

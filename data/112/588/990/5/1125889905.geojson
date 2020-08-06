@@ -87,9 +87,11 @@
     "woe:name_adm1":"J\u00f5gevamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713314645,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +100,9 @@
         "qs_pg:id":915692,
         "wd:id":"Q428399"
     },
+    "wof:coterminous":[
+        1713314645
+    ],
     "wof:country":"EE",
     "wof:created":1497295267,
     "wof:geomhash":"ad4507358a032ba95ff06864c2da58e7",
@@ -105,14 +110,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713314645,
             "locality_id":1125889905,
             "region_id":85683009
         }
     ],
     "wof:id":1125889905,
-    "wof:lastmodified":1566585335,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676579,
     "wof:name":"K\u00e4rde",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713314645,
     "wof:placetype":"locality",
     "wof:population":134,
     "wof:population_rank":1,

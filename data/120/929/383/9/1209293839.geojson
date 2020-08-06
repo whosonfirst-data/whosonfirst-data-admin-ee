@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Loe k\u00fcla"
@@ -58,25 +58,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683013,
+        102191581,
+        1713311407,
+        85633135,
+        1713305711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590575,
         "wk:page":"Loe%2C_Estonia"
     },
+    "wof:coterminous":[
+        1713311407
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"ff47654c991a3898f800f6a9732fb1fd",
+    "wof:geomhash":"40a8620ae51f963cdfe812e70cb2a0d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209293839
+            "county_id":1713305711,
+            "localadmin_id":1713311407,
+            "locality_id":1209293839,
+            "region_id":85683013
         }
     ],
     "wof:id":1209293839,
-    "wof:lastmodified":1566585095,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676718,
     "wof:name":"Loe",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713311407,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -85,9 +102,9 @@
 },
   "bbox": [
     24.62028,
-    58.89944000000001,
+    58.89944,
     24.62028,
-    58.89944000000001
+    58.89944
 ],
-  "geometry": {"coordinates":[24.62028,58.89944000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.62028,58.89944],"type":"Point"}
 }

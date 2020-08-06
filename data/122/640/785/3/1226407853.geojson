@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mangle",
@@ -39,28 +39,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713315251,
         85633135,
-        85682941
+        1713305687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592044
     },
     "wof:country":"EE",
-    "wof:geomhash":"d16bbe7c9c870f92c5ff7b3ac3695a5e",
+    "wof:geomhash":"83f62752273fde726f9fe7143f70265e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305687,
+            "localadmin_id":1713315251,
             "locality_id":1226407853,
             "region_id":85682941
         }
     ],
     "wof:id":1226407853,
-    "wof:lastmodified":1566585561,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661436,
     "wof:name":"Iltsmu",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713315251,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -69,9 +79,9 @@
 },
   "bbox": [
     25.93556,
-    58.03471999999999,
+    58.03472,
     25.93556,
-    58.03471999999999
+    58.03472
 ],
-  "geometry": {"coordinates":[25.93556,58.03471999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.93556,58.03472],"type":"Point"}
 }

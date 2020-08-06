@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Konna"
@@ -69,28 +69,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713313725,
         85633135,
-        85682941
+        1713305759
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620311
     },
     "wof:country":"EE",
-    "wof:geomhash":"0ad674d48f360053eda1b94307d1b29b",
+    "wof:geomhash":"e0c66bf5868e5c74489e49b4e5e41ab7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305759,
+            "localadmin_id":1713313725,
             "locality_id":1242849673,
             "region_id":85682941
         }
     ],
     "wof:id":1242849673,
-    "wof:lastmodified":1566585443,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661875,
     "wof:name":"Konna",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713313725,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -99,9 +109,9 @@
 },
   "bbox": [
     26.26667,
-    58.04833000000001,
+    58.04833,
     26.26667,
-    58.04833000000001
+    58.04833
 ],
-  "geometry": {"coordinates":[26.26667,58.04833000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.26667,58.04833],"type":"Point"}
 }

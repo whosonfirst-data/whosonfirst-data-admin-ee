@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khyaydaste",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713310597,
         85633135,
-        85682981
+        1713305703
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592206
     },
     "wof:country":"EE",
-    "wof:geomhash":"2e93b7e3fcae3576d810750dd6397ec6",
+    "wof:geomhash":"d5ee01c6192cdfe1ba564c11c02b3803",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305703,
+            "localadmin_id":1713310597,
             "locality_id":1243160153,
             "region_id":85682981
         }
     ],
     "wof:id":1243160153,
-    "wof:lastmodified":1566585456,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677708,
     "wof:name":"Haeidaste",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713310597,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     24.03333,
-    58.43333000000001,
+    58.43333,
     24.03333,
-    58.43333000000001
+    58.43333
 ],
-  "geometry": {"coordinates":[24.03333,58.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.03333,58.43333],"type":"Point"}
 }

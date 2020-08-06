@@ -82,9 +82,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310959,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,9 @@
         "qs_pg:id":1273815,
         "wd:id":"Q3467145"
     },
+    "wof:coterminous":[
+        1713310959
+    ],
     "wof:country":"EE",
     "wof:created":1497296903,
     "wof:geomhash":"4fd6fefa89c504c4d26c5e872cb4589e",
@@ -100,14 +105,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713310959,
             "locality_id":1125934015,
             "region_id":85682955
         }
     ],
     "wof:id":1125934015,
-    "wof:lastmodified":1566585280,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676970,
     "wof:name":"K\u00e4rsa",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310959,
     "wof:placetype":"locality",
     "wof:population":117,
     "wof:population_rank":1,

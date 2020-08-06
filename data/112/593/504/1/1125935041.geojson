@@ -79,9 +79,11 @@
     "woe:name_adm1":"J\u00f5gevamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312541,
         85633135,
-        85683009
+        1713305657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":1274204,
         "wd:id":"Q3465797"
     },
+    "wof:coterminous":[
+        1713312541
+    ],
     "wof:country":"EE",
     "wof:created":1497296939,
     "wof:geomhash":"80b976cf6bf4ebf59847cff914a129bd",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305657,
+            "localadmin_id":1713312541,
             "locality_id":1125935041,
             "region_id":85683009
         }
     ],
     "wof:id":1125935041,
-    "wof:lastmodified":1566585277,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676505,
     "wof:name":"Neanurme",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312541,
     "wof:placetype":"locality",
     "wof:population":127,
     "wof:population_rank":1,

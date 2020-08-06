@@ -19,7 +19,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"EE",
@@ -48,9 +48,11 @@
     "woe:name_adm1":"V\u00f5rumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713316047,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,6 +60,9 @@
         "gp:id":842426,
         "qs_pg:id":110966
     },
+    "wof:coterminous":[
+        1713316047
+    ],
     "wof:country":"EE",
     "wof:created":1497294366,
     "wof:geomhash":"36c16eaaec038fdf92bcc7deab52d060",
@@ -65,14 +70,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713316047,
             "locality_id":1125872401,
             "region_id":85682937
         }
     ],
     "wof:id":1125872401,
-    "wof:lastmodified":1566585347,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660410,
     "wof:name":"J\u00e4rvere",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713316047,
     "wof:placetype":"locality",
     "wof:population":211,
     "wof:population_rank":2,

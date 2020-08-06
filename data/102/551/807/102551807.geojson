@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.2083333333,59.26,24.2083333333,59.26",
+    "geom:bbox":"24.208333,59.26,24.208333,59.26",
     "geom:latitude":59.26,
     "geom:longitude":24.208333,
     "iso:country":"EE",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Vasalemma"
@@ -78,8 +78,12 @@
         "state_id":2345276
     },
     "wof:belongsto":[
+        85683055,
+        102191581,
+        1713307899,
         85633135,
-        85683055
+        1243372973,
+        1713305737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,18 +93,23 @@
         "wd:id":"Q938047"
     },
     "wof:country":"EE",
-    "wof:geomhash":"a22b77fece6d9aef61fe92b6165710d4",
+    "wof:geomhash":"ec7c66cf8de733147c1c7af4ec3a93ce",
     "wof:hierarchy":[
         {
             "campus_id":102551807,
+            "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305737,
+            "localadmin_id":1713307899,
+            "locality_id":1243372973,
+            "neighbourhood_id":-1,
             "region_id":85683055
         }
     ],
     "wof:id":102551807,
-    "wof:lastmodified":1566584822,
+    "wof:lastmodified":1596663332,
     "wof:name":"Vasalemma Airport",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1243372973,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -110,10 +119,10 @@
     ]
 },
   "bbox": [
-    24.208333333333,
+    24.208333,
     59.26,
-    24.208333333333,
+    24.208333,
     59.26
 ],
-  "geometry": {"coordinates":[24.208333333333,59.26],"type":"Point"}
+  "geometry": {"coordinates":[24.208333,59.26],"type":"Point"}
 }

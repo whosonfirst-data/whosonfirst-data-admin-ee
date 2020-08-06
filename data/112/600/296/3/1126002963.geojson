@@ -3,9 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2018-08-15",
+    "edtf:deprecated":"2020-07-28",
     "edtf:inception":"uuuu",
-    "edtf:superseded":"2018-08-15",
+    "edtf:superseded":"2020-07-28",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"26.72509,58.38062,26.72509,58.38062",
@@ -120,9 +120,6 @@
     "name:tur_x_preferred":[
         "Tartu"
     ],
-    "name:unk_x_variant":[
-        "T\u0113rbata"
-    ],
     "qs_pg:aaroncc":"EE",
     "qs_pg:gn_country":"EE",
     "qs_pg:gn_fcode":"PPLA",
@@ -173,7 +170,7 @@
         }
     ],
     "wof:id":1126002963,
-    "wof:lastmodified":1534379294,
+    "wof:lastmodified":1596486337,
     "wof:name":"Tartu",
     "wof:parent_id":85682995,
     "wof:placetype":"locality",

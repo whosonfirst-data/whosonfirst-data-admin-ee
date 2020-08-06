@@ -29,31 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Saarisoo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682981,
+        102191581,
+        1713313499,
+        85633135,
+        1713305731
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620501
     },
     "wof:country":"EE",
-    "wof:geomhash":"ba3efbcbf7cc1fee4375dc68174be757",
+    "wof:geomhash":"3b4e474a962bcebd8bfe9f99d589ad85",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209603219
+            "county_id":1713305731,
+            "localadmin_id":1713313499,
+            "locality_id":1209603219,
+            "region_id":85682981
         }
     ],
     "wof:id":1209603219,
-    "wof:lastmodified":1566585089,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663382,
     "wof:name":"Saarissoo",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713313499,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -62,9 +76,9 @@
 },
   "bbox": [
     24.98278,
-    58.49778000000001,
+    58.49778,
     24.98278,
-    58.49778000000001
+    58.49778
 ],
-  "geometry": {"coordinates":[24.98278,58.49778000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.98278,58.49778],"type":"Point"}
 }

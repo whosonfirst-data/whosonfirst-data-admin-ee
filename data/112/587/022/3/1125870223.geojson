@@ -78,9 +78,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713313871,
         85633135,
-        85682995
+        1713305675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,6 +91,9 @@
         "qs_pg:id":179653,
         "wd:id":"Q3459470"
     },
+    "wof:coterminous":[
+        1713313871
+    ],
     "wof:country":"EE",
     "wof:created":1497294254,
     "wof:geomhash":"41de05da0af92c122a6506343f3182f3",
@@ -96,14 +101,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305675,
+            "localadmin_id":1713313871,
             "locality_id":1125870223,
             "region_id":85682995
         }
     ],
     "wof:id":1125870223,
-    "wof:lastmodified":1566585345,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661174,
     "wof:name":"Kandik\u00fcla",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713313871,
     "wof:placetype":"locality",
     "wof:population":135,
     "wof:population_rank":1,

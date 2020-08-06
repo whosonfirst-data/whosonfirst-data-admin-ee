@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "V\u00f5ika"
@@ -51,25 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682955,
+        102191581,
+        1713310935,
+        85633135,
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620880,
         "wk:page":"V%C3%B5ika"
     },
+    "wof:coterminous":[
+        1713310935
+    ],
     "wof:country":"EE",
     "wof:geomhash":"6124541cbe286b51424da07792334418",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209696045
+            "county_id":1713305793,
+            "localadmin_id":1713310935,
+            "locality_id":1209696045,
+            "region_id":85682955
         }
     ],
     "wof:id":1209696045,
-    "wof:lastmodified":1566585090,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677002,
     "wof:name":"Voika",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713310935,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

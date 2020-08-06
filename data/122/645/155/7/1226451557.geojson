@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Risti"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682989,
         102191581,
+        1713310611,
         85633135,
-        85682989
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618383,
         "wk:page":"Risti%2C_Hiiu_County"
     },
+    "wof:coterminous":[
+        1713310611
+    ],
     "wof:country":"EE",
     "wof:geomhash":"b25f63ceb689ab1c59c2e37b0b29d3a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310611,
             "locality_id":1226451557,
             "region_id":85682989
         }
     ],
     "wof:id":1226451557,
-    "wof:lastmodified":1566585527,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596670009,
     "wof:name":"Risti",
-    "wof:parent_id":85682989,
+    "wof:parent_id":1713310611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

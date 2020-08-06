@@ -76,9 +76,11 @@
     "woe:name_adm1":"Raplamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713315319,
         85633135,
-        85683013
+        1713305711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,6 +89,9 @@
         "qs_pg:id":1274719,
         "wd:id":"Q1825023"
     },
+    "wof:coterminous":[
+        1713315319
+    ],
     "wof:country":"EE",
     "wof:created":1497296995,
     "wof:geomhash":"190b9d49f85c0e60fcc0d5da68030baf",
@@ -94,14 +99,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305711,
+            "localadmin_id":1713315319,
             "locality_id":1125936901,
             "region_id":85683013
         }
     ],
     "wof:id":1125936901,
-    "wof:lastmodified":1566585289,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676729,
     "wof:name":"Vana-Kaiu",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713315319,
     "wof:placetype":"locality",
     "wof:population":98,
     "wof:population_rank":1,

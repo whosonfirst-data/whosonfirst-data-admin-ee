@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Okhmukse",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713308921,
         85633135,
-        85683001
+        1713305701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589880
     },
     "wof:country":"EE",
-    "wof:geomhash":"4afdeb1ffe586f266af89aa4c100622d",
+    "wof:geomhash":"37ef9abcfacdd5d0069dc6f577b303b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305701,
+            "localadmin_id":1713308921,
             "locality_id":1243360573,
             "region_id":85683001
         }
     ],
     "wof:id":1243360573,
-    "wof:lastmodified":1566585390,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677443,
     "wof:name":"Ohmukse",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713308921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +78,9 @@
 },
   "bbox": [
     23.96667,
-    58.86666999999999,
+    58.86667,
     23.96667,
-    58.86666999999999
+    58.86667
 ],
-  "geometry": {"coordinates":[23.96667,58.86666999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.96667,58.86667],"type":"Point"}
 }

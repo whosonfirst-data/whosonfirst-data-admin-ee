@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vykhma",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713310257,
         85633135,
-        85682981
+        1713305703
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":587521
     },
     "wof:country":"EE",
-    "wof:geomhash":"0c1dc649fa7e60a841725a4f0fd57b34",
+    "wof:geomhash":"8651c1c39879e2b3916a7ef41d51d7e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305703,
+            "localadmin_id":1713310257,
             "locality_id":1310386615,
             "region_id":85682981
         }
     ],
     "wof:id":1310386615,
-    "wof:lastmodified":1566585170,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677703,
     "wof:name":"Vohma",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713310257,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     24.1275,
-    58.32666999999999,
+    58.32667,
     24.1275,
-    58.32666999999999
+    58.32667
 ],
-  "geometry": {"coordinates":[24.1275,58.32666999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.1275,58.32667],"type":"Point"}
 }

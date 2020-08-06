@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "V\u00f5uk\u00fcla"
@@ -48,29 +48,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713313651,
         85633135,
-        85682955
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":587441,
         "wk:page":"V%C3%B5uk%C3%BCla"
     },
+    "wof:coterminous":[
+        1713313651
+    ],
     "wof:country":"EE",
     "wof:geomhash":"8c3e7fb6f58d1be434a89b6f63ba27d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305793,
+            "localadmin_id":1713313651,
             "locality_id":1344044353,
             "region_id":85682955
         }
     ],
     "wof:id":1344044353,
-    "wof:lastmodified":1566584882,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677004,
     "wof:name":"Vyukyula",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713313651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

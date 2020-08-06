@@ -18,7 +18,7 @@
     "lbl:longitude":23.645,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
@@ -64,7 +64,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1713308087,
         85633135,
+        1713305755,
         85683001
     ],
     "wof:breaches":[],
@@ -79,13 +81,15 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305755,
+            "localadmin_id":1713308087,
             "locality_id":-1,
             "neighbourhood_id":1126104559,
             "region_id":85683001
         }
     ],
     "wof:id":1126104559,
-    "wof:lastmodified":1566585309,
+    "wof:lastmodified":1596662780,
     "wof:name":"J\u00f5\u00f5dre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

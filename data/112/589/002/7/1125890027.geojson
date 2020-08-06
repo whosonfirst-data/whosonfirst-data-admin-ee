@@ -84,9 +84,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713309821,
         85633135,
-        85682955
+        1713305789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +97,9 @@
         "qs_pg:id":915966,
         "wd:id":"Q3466481"
     },
+    "wof:coterminous":[
+        1713309821
+    ],
     "wof:country":"EE",
     "wof:created":1497295272,
     "wof:geomhash":"4aa0550b789235421311a7a664b9da6e",
@@ -102,14 +107,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305789,
+            "localadmin_id":1713309821,
             "locality_id":1125890027,
             "region_id":85682955
         }
     ],
     "wof:id":1125890027,
-    "wof:lastmodified":1566585342,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676785,
     "wof:name":"Soodoma",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713309821,
     "wof:placetype":"locality",
     "wof:population":179,
     "wof:population_rank":1,

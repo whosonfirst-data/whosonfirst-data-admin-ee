@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kauoya",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309667,
         85633135,
-        85682981
+        1713305705
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591498
     },
     "wof:country":"EE",
-    "wof:geomhash":"f588c109d609764bcb3e18112a413f50",
+    "wof:geomhash":"ac15ab30274302b4e1e273261e61f9cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305705,
+            "localadmin_id":1713309667,
             "locality_id":1259671947,
             "region_id":85682981
         }
     ],
     "wof:id":1259671947,
-    "wof:lastmodified":1566585495,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677732,
     "wof:name":"Kauoja",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309667,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.86667000000001,
-    58.11666999999999,
-    24.86667000000001,
-    58.11666999999999
+    24.86667,
+    58.11667,
+    24.86667,
+    58.11667
 ],
-  "geometry": {"coordinates":[24.86667000000001,58.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.86667,58.11667],"type":"Point"}
 }

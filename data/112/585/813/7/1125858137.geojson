@@ -82,9 +82,11 @@
     "woe:name_adm1":"Hiiumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682989,
         102191581,
+        1713310687,
         85633135,
-        85682989
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,9 @@
         "qs_pg:id":1273721,
         "wd:id":"Q1928042"
     },
+    "wof:coterminous":[
+        1713310687
+    ],
     "wof:country":"EE",
     "wof:created":1497293708,
     "wof:geomhash":"97aefc5b2ce0a63a1d2e82024ac64fc1",
@@ -100,14 +105,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310687,
             "locality_id":1125858137,
             "region_id":85682989
         }
     ],
     "wof:id":1125858137,
-    "wof:lastmodified":1566585382,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596670015,
     "wof:name":"Jausa",
-    "wof:parent_id":85682989,
+    "wof:parent_id":1713310687,
     "wof:placetype":"locality",
     "wof:population":126,
     "wof:population_rank":1,

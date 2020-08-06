@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "K\u00f5rsa"
@@ -52,29 +52,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713312395,
         85633135,
-        85682981
+        1713305731
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591097,
         "wk:page":"K%C3%B5rsa"
     },
+    "wof:coterminous":[
+        1713312395
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"b2526134611abe5ec7daee7a1a1e6466",
+    "wof:geomhash":"799905b992e17963900a221f9c8a8a70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305731,
+            "localadmin_id":1713312395,
             "locality_id":1343639741,
             "region_id":85682981
         }
     ],
     "wof:id":1343639741,
-    "wof:lastmodified":1566584835,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663386,
     "wof:name":"Korsa",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713312395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -83,9 +96,9 @@
 },
   "bbox": [
     24.7075,
-    58.41278000000001,
+    58.41278,
     24.7075,
-    58.41278000000001
+    58.41278
 ],
-  "geometry": {"coordinates":[24.7075,58.41278000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.7075,58.41278],"type":"Point"}
 }

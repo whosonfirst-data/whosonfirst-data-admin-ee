@@ -80,9 +80,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713306133,
         85633135,
-        85682929
+        1713305635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,6 +93,9 @@
         "qs_pg:id":42599,
         "wd:id":"Q3455136"
     },
+    "wof:coterminous":[
+        1713306133
+    ],
     "wof:country":"EE",
     "wof:created":1497290766,
     "wof:geomhash":"264b1d2a5c86e47eaa34adbf98d4182a",
@@ -98,14 +103,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305635,
+            "localadmin_id":1713306133,
             "locality_id":1125788329,
-            "region_id":85682929
+            "region_id":85682981
         }
     ],
     "wof:id":1125788329,
-    "wof:lastmodified":1566585383,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663957,
     "wof:name":"Linak\u00fcla",
-    "wof:parent_id":85682929,
+    "wof:parent_id":1713306133,
     "wof:placetype":"locality",
     "wof:population":119,
     "wof:population_rank":1,

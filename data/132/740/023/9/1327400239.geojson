@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "P\u00e4kste"
@@ -58,29 +58,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713311085,
         85633135,
-        85682995
+        1713305699
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589681,
         "wk:page":"P%C3%A4kste"
     },
+    "wof:coterminous":[
+        1713311085
+    ],
     "wof:country":"EE",
     "wof:geomhash":"353ea9b0c70f8eb5f58bd896074bd37f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305699,
+            "localadmin_id":1713311085,
             "locality_id":1327400239,
             "region_id":85682995
         }
     ],
     "wof:id":1327400239,
-    "wof:lastmodified":1566584782,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660666,
     "wof:name":"Paekste",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713311085,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ur\u00e0"
@@ -63,28 +63,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309627,
         85633135,
-        85682981
+        1713305705
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588050
     },
     "wof:country":"EE",
-    "wof:geomhash":"7df80e7e5c053af2250d3470ed984f30",
+    "wof:geomhash":"972be1bafb70887144c2418e8e129ee0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305705,
+            "localadmin_id":1713309627,
             "locality_id":1226120627,
             "region_id":85682981
         }
     ],
     "wof:id":1226120627,
-    "wof:lastmodified":1566585565,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677730,
     "wof:name":"Ura",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -93,9 +103,9 @@
 },
   "bbox": [
     24.71667,
-    58.18333000000001,
+    58.18333,
     24.71667,
-    58.18333000000001
+    58.18333
 ],
-  "geometry": {"coordinates":[24.71667,58.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.71667,58.18333],"type":"Point"}
 }

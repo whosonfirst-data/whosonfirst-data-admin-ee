@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lepassaare"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713315757,
         85633135,
-        85682955
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794264,
         "wk:page":"Lepassaare"
     },
+    "wof:coterminous":[
+        1713315485
+    ],
     "wof:country":"EE",
     "wof:geomhash":"0c87596f364857a3954a881865108d3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713315757,
             "locality_id":1327413967,
-            "region_id":85682955
+            "region_id":85682937
         }
     ],
     "wof:id":1327413967,
-    "wof:lastmodified":1566584787,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660415,
     "wof:name":"Lepassaare",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713315757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

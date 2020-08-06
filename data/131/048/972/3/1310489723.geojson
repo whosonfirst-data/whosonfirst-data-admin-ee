@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Kose"
@@ -75,28 +75,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309427,
         85633135,
-        85682981
+        1713305733
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591079
     },
+    "wof:coterminous":[
+        1713309427
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"a075dbf92a7a5dca94e61238c92d6831",
+    "wof:geomhash":"e57fe045a2660924922a35194c034fce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305733,
+            "localadmin_id":1713309427,
             "locality_id":1310489723,
             "region_id":85682981
         }
     ],
     "wof:id":1310489723,
-    "wof:lastmodified":1566585162,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663425,
     "wof:name":"Kose",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309427,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -105,9 +118,9 @@
 },
   "bbox": [
     25.1,
-    58.63333000000001,
+    58.63333,
     25.1,
-    58.63333000000001
+    58.63333
 ],
-  "geometry": {"coordinates":[25.1,58.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.1,58.63333],"type":"Point"}
 }

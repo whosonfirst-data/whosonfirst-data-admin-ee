@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Prassi"
@@ -54,25 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682989,
+        102191581,
+        1713310635,
+        85633135,
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589342,
         "wk:page":"Prassi"
     },
+    "wof:coterminous":[
+        1713310555
+    ],
     "wof:country":"EE",
     "wof:geomhash":"ce2d1d2d96f36c60f4647bcae15fe2ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209223545
+            "county_id":1713305629,
+            "localadmin_id":1713310635,
+            "locality_id":1209223545,
+            "region_id":85682989
         }
     ],
     "wof:id":1209223545,
-    "wof:lastmodified":1566585076,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596670013,
     "wof:name":"Prassi",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713310635,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

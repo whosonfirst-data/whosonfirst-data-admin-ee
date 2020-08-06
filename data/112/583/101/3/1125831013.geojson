@@ -76,9 +76,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306073,
         85633135,
-        85683055
+        1713305625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,6 +88,9 @@
         "qs_pg:id":81108,
         "wd:id":"Q2744318"
     },
+    "wof:coterminous":[
+        1713306073
+    ],
     "wof:country":"EE",
     "wof:created":1497292498,
     "wof:geomhash":"69a1628ea4f4f5e21d48a0408955e796",
@@ -93,14 +98,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305625,
+            "localadmin_id":1713306073,
             "locality_id":1125831013,
             "region_id":85683055
         }
     ],
     "wof:id":1125831013,
-    "wof:lastmodified":1566585388,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676118,
     "wof:name":"Leppneeme",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306073,
     "wof:placetype":"locality",
     "wof:population":170,
     "wof:population_rank":1,

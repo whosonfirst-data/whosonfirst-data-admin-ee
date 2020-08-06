@@ -99,9 +99,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713309825,
         85633135,
-        85682955
+        1713305789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,6 +112,9 @@
         "qs_pg:id":179746,
         "wd:id":"Q3472532"
     },
+    "wof:coterminous":[
+        1713309825
+    ],
     "wof:country":"EE",
     "wof:created":1497301546,
     "wof:geomhash":"5e42a4ef78e6f81c62816de3b68a3089",
@@ -117,14 +122,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305789,
+            "localadmin_id":1713309825,
             "locality_id":1126032167,
             "region_id":85682955
         }
     ],
     "wof:id":1126032167,
-    "wof:lastmodified":1566585322,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676794,
     "wof:name":"Krootuse",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713309825,
     "wof:placetype":"locality",
     "wof:population":417,
     "wof:population_rank":2,

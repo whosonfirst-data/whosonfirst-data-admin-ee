@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kaeva"
@@ -45,28 +45,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713314193,
         85633135,
-        85683059
+        1713305653
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620070
     },
     "wof:country":"EE",
-    "wof:geomhash":"7653be71e0030f652119e6151d23615f",
+    "wof:geomhash":"07f167650461683fb855e55dff427d48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305653,
+            "localadmin_id":1713314193,
             "locality_id":1310013269,
             "region_id":85683059
         }
     ],
     "wof:id":1310013269,
-    "wof:lastmodified":1566585181,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676521,
     "wof:name":"Kaeva",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713314193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -75,9 +85,9 @@
 },
   "bbox": [
     27.27167,
-    59.37833000000001,
+    59.37833,
     27.27167,
-    59.37833000000001
+    59.37833
 ],
-  "geometry": {"coordinates":[27.27167,59.37833000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.27167,59.37833],"type":"Point"}
 }

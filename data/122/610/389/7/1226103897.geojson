@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tonoya",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713315229,
         85633135,
-        85682985
+        1713305735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588227
     },
     "wof:country":"EE",
-    "wof:geomhash":"fbe0b8dcbc3a4e0644088e47f8dcd359",
+    "wof:geomhash":"4eecfa51835bfa02ebd5704a6828fa8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305735,
+            "localadmin_id":1713315229,
             "locality_id":1226103897,
             "region_id":85682985
         }
     ],
     "wof:id":1226103897,
-    "wof:lastmodified":1566585524,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663451,
     "wof:name":"Toonoja",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713315229,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.11667000000001,
+    25.11667,
     58.5,
-    25.11667000000001,
+    25.11667,
     58.5
 ],
-  "geometry": {"coordinates":[25.11667000000001,58.5],"type":"Point"}
+  "geometry": {"coordinates":[25.11667,58.5],"type":"Point"}
 }

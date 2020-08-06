@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Vilum\u00e4e"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713307627,
         85633135,
-        85683055
+        1713305739
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794948,
         "wk:page":"Vilum%C3%A4e"
     },
+    "wof:coterminous":[
+        1713307627
+    ],
     "wof:country":"EE",
     "wof:geomhash":"ee8bff697a9ff8b8b509f4e3d0775495",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305739,
+            "localadmin_id":1713307627,
             "locality_id":1310119955,
             "region_id":85683055
         }
     ],
     "wof:id":1310119955,
-    "wof:lastmodified":1566585190,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663243,
     "wof:name":"Vilumaee",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713307627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

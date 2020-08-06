@@ -101,9 +101,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713305887,
         85633135,
-        85683055
+        1713305683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,6 +114,9 @@
         "qs_pg:id":894603,
         "wd:id":"Q2569273"
     },
+    "wof:coterminous":[
+        1713305887
+    ],
     "wof:country":"EE",
     "wof:created":1497294425,
     "wof:geomhash":"eae2b363faf9e9101bd9fdaea1a9a196",
@@ -119,14 +124,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305683,
+            "localadmin_id":1713305887,
             "locality_id":1125873615,
             "region_id":85683055
         }
     ],
     "wof:id":1125873615,
-    "wof:lastmodified":1566585346,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661483,
     "wof:name":"Aaviku",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713305887,
     "wof:placetype":"locality",
     "wof:population":95,
     "wof:population_rank":1,

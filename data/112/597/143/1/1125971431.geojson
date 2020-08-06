@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"EE",
@@ -46,9 +46,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713310073,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,6 +58,9 @@
         "gp:id":844345,
         "qs_pg:id":406091
     },
+    "wof:coterminous":[
+        1713309899
+    ],
     "wof:country":"EE",
     "wof:created":1497298184,
     "wof:geomhash":"50b91b3a30543f66b80145796304b000",
@@ -63,14 +68,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713310073,
             "locality_id":1125971431,
             "region_id":85682985
         }
     ],
     "wof:id":1125971431,
-    "wof:lastmodified":1566585353,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661271,
     "wof:name":"Odiste",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713310073,
     "wof:placetype":"locality",
     "wof:population":95,
     "wof:population_rank":1,

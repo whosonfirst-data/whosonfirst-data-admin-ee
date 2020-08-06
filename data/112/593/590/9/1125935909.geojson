@@ -88,9 +88,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713312559,
         85633135,
-        85682995
+        1713305717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +101,9 @@
         "qs_pg:id":1274436,
         "wd:id":"Q3456187"
     },
+    "wof:coterminous":[
+        1713312559
+    ],
     "wof:country":"EE",
     "wof:created":1497296967,
     "wof:geomhash":"70bddce8fc363544aa2ec5d8ec6468d4",
@@ -106,14 +111,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305717,
+            "localadmin_id":1713312559,
             "locality_id":1125935909,
             "region_id":85682995
         }
     ],
     "wof:id":1125935909,
-    "wof:lastmodified":1566585286,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676692,
     "wof:name":"Reola",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713312559,
     "wof:placetype":"locality",
     "wof:population":196,
     "wof:population_rank":1,

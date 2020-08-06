@@ -85,9 +85,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713314787,
         85633135,
-        85682995
+        1713305715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,6 +98,9 @@
         "qs_pg:id":1274796,
         "wd:id":"Q3453296"
     },
+    "wof:coterminous":[
+        1713314787
+    ],
     "wof:country":"EE",
     "wof:created":1497297002,
     "wof:geomhash":"1dde254e2c8c35420c4bfc04309881a8",
@@ -103,14 +108,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305715,
+            "localadmin_id":1713314787,
             "locality_id":1125937113,
             "region_id":85682995
         }
     ],
     "wof:id":1125937113,
-    "wof:lastmodified":1566585293,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676768,
     "wof:name":"Voika",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713314787,
     "wof:placetype":"locality",
     "wof:population":144,
     "wof:population_rank":1,

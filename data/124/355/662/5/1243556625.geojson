@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "V\u00f5ide"
@@ -58,29 +58,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713311701,
         85633135,
-        85683059
+        1713305693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":587506,
         "wk:page":"V%C3%B5ide"
     },
+    "wof:coterminous":[
+        1713311701
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"31a77d6db798f3b5ae06977c4555e94b",
+    "wof:geomhash":"b9f873cadd832c32cec7b1ddf084dbaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305693,
+            "localadmin_id":1713311701,
             "locality_id":1243556625,
             "region_id":85683059
         }
     ],
     "wof:id":1243556625,
-    "wof:lastmodified":1566585398,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660759,
     "wof:name":"Voide",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713311701,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -89,9 +102,9 @@
 },
   "bbox": [
     27.28472,
-    59.25666999999999,
+    59.25667,
     27.28472,
-    59.25666999999999
+    59.25667
 ],
-  "geometry": {"coordinates":[27.28472,59.25666999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.28472,59.25667],"type":"Point"}
 }

@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Seira"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713309097,
         85633135,
-        85683001
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588744,
         "wk:page":"Seira%2C_Estonia"
     },
+    "wof:coterminous":[
+        1713308957
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"9ff0b9e0d1ee0b5a6e2a084a7ed1d1ee",
+    "wof:geomhash":"73bccbdbc1eb4da834647d06d31b2f6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713309097,
             "locality_id":1260076915,
             "region_id":85683001
         }
     ],
     "wof:id":1260076915,
-    "wof:lastmodified":1566585136,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661683,
     "wof:name":"Seira",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713309097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -88,9 +101,9 @@
 },
   "bbox": [
     24.02306,
-    58.70916999999999,
+    58.70917,
     24.02306,
-    58.70916999999999
+    58.70917
 ],
-  "geometry": {"coordinates":[24.02306,58.70916999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.02306,58.70917],"type":"Point"}
 }

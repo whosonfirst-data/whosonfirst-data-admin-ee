@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "T\u00f5du"
@@ -60,29 +60,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713313129,
         85633135,
-        85682955
+        1713305789
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794173,
         "wk:page":"T%C3%B5du"
     },
+    "wof:coterminous":[
+        1713313129
+    ],
     "wof:country":"EE",
     "wof:geomhash":"e6cc457907b24be0f649dca46ac8b351",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305789,
+            "localadmin_id":1713313129,
             "locality_id":1226429571,
             "region_id":85682955
         }
     ],
     "wof:id":1226429571,
-    "wof:lastmodified":1566585528,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676788,
     "wof:name":"Todu",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713313129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

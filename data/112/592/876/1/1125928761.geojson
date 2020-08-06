@@ -96,9 +96,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310953,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,6 +109,9 @@
         "qs_pg:id":1082700,
         "wd:id":"Q3453989"
     },
+    "wof:coterminous":[
+        1713310953
+    ],
     "wof:country":"EE",
     "wof:created":1497296733,
     "wof:geomhash":"0af02bd488b3c62c0109f162dbc85630",
@@ -114,14 +119,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713310953,
             "locality_id":1125928761,
             "region_id":85682955
         }
     ],
     "wof:id":1125928761,
-    "wof:lastmodified":1566585294,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676963,
     "wof:name":"Tilsi",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310953,
     "wof:placetype":"locality",
     "wof:population":430,
     "wof:population_rank":2,

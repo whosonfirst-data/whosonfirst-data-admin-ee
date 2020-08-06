@@ -91,9 +91,11 @@
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713308309,
         85633135,
-        85683049
+        1713305775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,6 +104,9 @@
         "qs_pg:id":478035,
         "wd:id":"Q441823"
     },
+    "wof:coterminous":[
+        1713308309
+    ],
     "wof:country":"EE",
     "wof:created":1497296201,
     "wof:geomhash":"6204d7d88d5192f58901cd8b43746b1f",
@@ -109,14 +114,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305775,
+            "localadmin_id":1713308309,
             "locality_id":1125912949,
             "region_id":85683049
         }
     ],
     "wof:id":1125912949,
-    "wof:lastmodified":1566585357,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596678042,
     "wof:name":"Altja",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713308309,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

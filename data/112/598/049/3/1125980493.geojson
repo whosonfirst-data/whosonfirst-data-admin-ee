@@ -81,9 +81,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306427,
         85633135,
-        85683055
+        1713305665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,9 @@
         "qs_pg:id":423275,
         "wd:id":"Q3456224"
     },
+    "wof:coterminous":[
+        1713306427
+    ],
     "wof:country":"EE",
     "wof:created":1497298535,
     "wof:geomhash":"cbc69f8e6b46357f2985ba8e8ddeb731",
@@ -99,14 +104,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305665,
+            "localadmin_id":1713306427,
             "locality_id":1125980493,
             "region_id":85683055
         }
     ],
     "wof:id":1125980493,
-    "wof:lastmodified":1566585358,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661351,
     "wof:name":"Krei",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306427,
     "wof:placetype":"locality",
     "wof:population":94,
     "wof:population_rank":1,

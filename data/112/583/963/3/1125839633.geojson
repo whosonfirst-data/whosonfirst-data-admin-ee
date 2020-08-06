@@ -84,9 +84,11 @@
     "woe:name_adm1":"J\u00f5gevamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312147,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +97,9 @@
         "qs_pg:id":179833,
         "wd:id":"Q1004873"
     },
+    "wof:coterminous":[
+        1713312147
+    ],
     "wof:country":"EE",
     "wof:created":1497292875,
     "wof:geomhash":"805dfab81b59ef94c3445894cd7d7991",
@@ -102,14 +107,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312147,
             "locality_id":1125839633,
             "region_id":85683009
         }
     ],
     "wof:id":1125839633,
-    "wof:lastmodified":1566585386,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676574,
     "wof:name":"Luua",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312147,
     "wof:placetype":"locality",
     "wof:population":432,
     "wof:population_rank":2,

@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kiviloo"
@@ -58,29 +58,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713314721,
         85633135,
-        85683055
+        1713305751
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591317,
         "wk:page":"Kiviloo"
     },
+    "wof:coterminous":[
+        1713314721
+    ],
     "wof:country":"EE",
     "wof:geomhash":"80d22fca948b31283ac8e3cab004e8f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305751,
+            "localadmin_id":1713314721,
             "locality_id":1243373135,
             "region_id":85683055
         }
     ],
     "wof:id":1243373135,
-    "wof:lastmodified":1566585394,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661933,
     "wof:name":"Kiviloo",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713314721,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

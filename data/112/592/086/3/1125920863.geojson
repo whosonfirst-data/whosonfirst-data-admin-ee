@@ -86,9 +86,11 @@
     "woe:name_adm1":"Ida-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713311987,
         85633135,
-        85683059
+        1713305695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,6 +99,9 @@
         "qs_pg:id":42722,
         "wd:id":"Q1020148"
     },
+    "wof:coterminous":[
+        1713311987
+    ],
     "wof:country":"EE",
     "wof:created":1497296475,
     "wof:geomhash":"07098a07b83f51f089a14a25b6de7f4b",
@@ -104,14 +109,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305695,
+            "localadmin_id":1713311987,
             "locality_id":1125920863,
             "region_id":85683059
         }
     ],
     "wof:id":1125920863,
-    "wof:lastmodified":1566585294,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660808,
     "wof:name":"Purtse",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713311987,
     "wof:placetype":"locality",
     "wof:population":298,
     "wof:population_rank":2,

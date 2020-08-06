@@ -29,32 +29,42 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713306793,
         85633135,
-        85683031
+        1713305765
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618457
     },
     "wof:country":"EE",
-    "wof:geomhash":"23773789f43f4b35293f0b30956e9127",
+    "wof:geomhash":"0a6c5d6a6272a7344d904b9f1a93cbe0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305765,
+            "localadmin_id":1713306793,
             "locality_id":1293595483,
             "region_id":85683031
         }
     ],
     "wof:id":1293595483,
-    "wof:lastmodified":1566584943,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676651,
     "wof:name":"Aniste",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713306793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +73,9 @@
 },
   "bbox": [
     25.69194,
-    59.17583000000001,
+    59.17583,
     25.69194,
-    59.17583000000001
+    59.17583
 ],
-  "geometry": {"coordinates":[25.69194,59.17583000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.69194,59.17583],"type":"Point"}
 }

@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"EE",
@@ -48,9 +48,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713309083,
         85633135,
-        85682995
+        1713305659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,6 +60,9 @@
         "gp:id":846543,
         "qs_pg:id":249960
     },
+    "wof:coterminous":[
+        1713309083
+    ],
     "wof:country":"EE",
     "wof:created":1497300753,
     "wof:geomhash":"add3a8196167e891a7187cf3fcb3c330",
@@ -65,14 +70,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305659,
+            "localadmin_id":1713309083,
             "locality_id":1126019603,
-            "region_id":85682995
+            "region_id":85683009
         }
     ],
     "wof:id":1126019603,
-    "wof:lastmodified":1566585363,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676480,
     "wof:name":"V\u00f5ibla",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713309083,
     "wof:placetype":"locality",
     "wof:population":124,
     "wof:population_rank":1,

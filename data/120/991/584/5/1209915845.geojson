@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kaatermu"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713311591,
         85633135,
-        85683059
+        1713305693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591832,
         "wk:page":"Kaatermu"
     },
+    "wof:coterminous":[
+        1713311591
+    ],
     "wof:country":"EE",
     "wof:geomhash":"28dd5d6ba8fdbc7be0293603e26d6096",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305693,
+            "localadmin_id":1713311591,
             "locality_id":1209915845,
             "region_id":85683059
         }
     ],
     "wof:id":1209915845,
-    "wof:lastmodified":1566585049,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660754,
     "wof:name":"Kaatermu",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713311591,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

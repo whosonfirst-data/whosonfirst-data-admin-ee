@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kalik\u00fcla"
@@ -48,29 +48,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312539,
         85633135,
-        85683009
+        1713305657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794640,
         "wk:page":"Kalik%C3%BCla"
     },
+    "wof:coterminous":[
+        1713312539
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"36aba11a0b1758aa63c0c22b0b1abb3a",
+    "wof:geomhash":"f5cef710d2abad2bbf08aedb70a060da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305657,
+            "localadmin_id":1713312539,
             "locality_id":1276546355,
             "region_id":85683009
         }
     ],
     "wof:id":1276546355,
-    "wof:lastmodified":1566585041,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676505,
     "wof:name":"Kalikuela",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312539,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -79,9 +92,9 @@
 },
   "bbox": [
     26.07917,
-    58.63916999999999,
+    58.63917,
     26.07917,
-    58.63916999999999
+    58.63917
 ],
-  "geometry": {"coordinates":[26.07917,58.63916999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.07917,58.63917],"type":"Point"}
 }

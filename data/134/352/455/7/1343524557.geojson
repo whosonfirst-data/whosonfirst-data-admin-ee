@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vihavo",
@@ -39,28 +39,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713310549,
         85633135,
-        85682995
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":587642
     },
+    "wof:coterminous":[
+        1713310549
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"7cd471a15a2be7615e7e916357bf2cf0",
+    "wof:geomhash":"b5aca061d5dff5d8a6e66e88a7047ddf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713310549,
             "locality_id":1343524557,
             "region_id":85682995
         }
     ],
     "wof:id":1343524557,
-    "wof:lastmodified":1566584831,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661911,
     "wof:name":"Vihavu",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713310549,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.27667000000001,
+    26.27667,
     58.36056,
-    26.27667000000001,
+    26.27667,
     58.36056
 ],
-  "geometry": {"coordinates":[26.27667000000001,58.36056],"type":"Point"}
+  "geometry": {"coordinates":[26.27667,58.36056],"type":"Point"}
 }

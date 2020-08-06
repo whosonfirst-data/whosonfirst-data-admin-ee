@@ -70,9 +70,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713308681,
         85633135,
-        85683001
+        1713305701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,6 +82,9 @@
         "qs_pg:id":81106,
         "wd:id":"Q586409"
     },
+    "wof:coterminous":[
+        1713308681
+    ],
     "wof:country":"EE",
     "wof:created":1497292498,
     "wof:geomhash":"3d769123f9368026b93ef51477a4be3a",
@@ -87,14 +92,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305701,
+            "localadmin_id":1713308681,
             "locality_id":1125831001,
             "region_id":85683001
         }
     ],
     "wof:id":1125831001,
-    "wof:lastmodified":1566585388,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677434,
     "wof:name":"Liivi",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713308681,
     "wof:placetype":"locality",
     "wof:population":167,
     "wof:population_rank":1,

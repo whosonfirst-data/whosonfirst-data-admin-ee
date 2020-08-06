@@ -101,9 +101,11 @@
     "woe:name_adm1":"Salacgr\u013cvas Novads",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309221,
         85633135,
-        85682981
+        1713305741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,6 +114,9 @@
         "qs_pg:id":995594,
         "wd:id":"Q1009897"
     },
+    "wof:coterminous":[
+        1713309221
+    ],
     "wof:country":"EE",
     "wof:created":1497298884,
     "wof:geomhash":"b7a68ead1a0605aa346da04a50ac4458",
@@ -119,14 +124,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305741,
+            "localadmin_id":1713309221,
             "locality_id":1125987529,
             "region_id":85682981
         }
     ],
     "wof:id":1125987529,
-    "wof:lastmodified":1566585358,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663211,
     "wof:name":"Ikla",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309221,
     "wof:placetype":"locality",
     "wof:population":171,
     "wof:population_rank":1,

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Iska"
@@ -42,29 +42,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713308801,
         85633135,
-        85682981
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618174,
         "wk:page":"Iska"
     },
+    "wof:coterminous":[
+        1713308801
+    ],
     "wof:country":"EE",
     "wof:geomhash":"db1aeb8886f5655f4690957a9b1c78e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713308801,
             "locality_id":1344245119,
-            "region_id":85682981
+            "region_id":85683001
         }
     ],
     "wof:id":1344245119,
-    "wof:lastmodified":1566584845,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661700,
     "wof:name":"Iska",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713308801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Permisk\u00fcla"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713311889,
         85633135,
-        85683059
+        1713305693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589508,
         "wk:page":"Permisk%C3%BCla"
     },
+    "wof:coterminous":[
+        1713311889
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"f99a78b0757f01588397db5f4332d648",
+    "wof:geomhash":"33c4263caf2469a9786fc30a254594af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305693,
+            "localadmin_id":1713311889,
             "locality_id":1226653643,
             "region_id":85683059
         }
     ],
     "wof:id":1226653643,
-    "wof:lastmodified":1566585579,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660750,
     "wof:name":"Permiskuela",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713311889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -88,9 +101,9 @@
 },
   "bbox": [
     27.7725,
-    59.08694000000001,
+    59.08694,
     27.7725,
-    59.08694000000001
+    59.08694
 ],
-  "geometry": {"coordinates":[27.7725,59.08694000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.7725,59.08694],"type":"Point"}
 }

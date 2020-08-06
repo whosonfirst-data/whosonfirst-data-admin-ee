@@ -19,7 +19,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
@@ -87,9 +87,11 @@
     "woe:name_adm1":"Ida-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713311887,
         85633135,
-        85683059
+        1713305693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,6 +99,9 @@
         "gp:id":843873,
         "qs_pg:id":111092
     },
+    "wof:coterminous":[
+        1713311887
+    ],
     "wof:country":"EE",
     "wof:created":1497300121,
     "wof:geomhash":"6099b147e02084911df18d8977f0ae9c",
@@ -104,14 +109,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305693,
+            "localadmin_id":1713311887,
             "locality_id":1126008481,
             "region_id":85683059
         }
     ],
     "wof:id":1126008481,
-    "wof:lastmodified":1566585370,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660763,
     "wof:name":"M\u00e4etaguse",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713311887,
     "wof:placetype":"locality",
     "wof:population":542,
     "wof:population_rank":2,

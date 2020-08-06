@@ -79,9 +79,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713311725,
         85633135,
-        85682985
+        1713305735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":1274296,
         "wd:id":"Q3466212"
     },
+    "wof:coterminous":[
+        1713311589
+    ],
     "wof:country":"EE",
     "wof:created":1497292707,
     "wof:geomhash":"a702d1fd3a088810b06fdc8cf68305d3",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305735,
+            "localadmin_id":1713311725,
             "locality_id":1125835721,
             "region_id":85682985
         }
     ],
     "wof:id":1125835721,
-    "wof:lastmodified":1566585387,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663453,
     "wof:name":"P\u00e4rak\u00fcla",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713311725,
     "wof:placetype":"locality",
     "wof:population":108,
     "wof:population_rank":1,

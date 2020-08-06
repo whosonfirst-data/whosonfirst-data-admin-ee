@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Savilepa",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713309105,
         85633135,
-        85683049
+        1713305771
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588751
     },
     "wof:country":"EE",
-    "wof:geomhash":"6816df5a904dccd662ddca0b5b3b226f",
+    "wof:geomhash":"83b7b379db65e25ac29cb5ff405f70f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305771,
+            "localadmin_id":1713309105,
             "locality_id":1242958847,
             "region_id":85683049
         }
     ],
     "wof:id":1242958847,
-    "wof:lastmodified":1566585409,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677964,
     "wof:name":"Savilope",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713309105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     26.68361,
-    59.00194000000001,
+    59.00194,
     26.68361,
-    59.00194000000001
+    59.00194
 ],
-  "geometry": {"coordinates":[26.68361,59.00194000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.68361,59.00194],"type":"Point"}
 }

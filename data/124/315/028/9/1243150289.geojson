@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Maikse"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713309519,
         85633135,
-        85682981
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590371,
         "wk:page":"Maikse"
     },
+    "wof:coterminous":[
+        1713309519
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"dec599c82fe53cecdcc27223617fc6f6",
+    "wof:geomhash":"1eced9af099b6da7308191301e8b9df1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713309519,
             "locality_id":1243150289,
-            "region_id":85682981
+            "region_id":85683001
         }
     ],
     "wof:id":1243150289,
-    "wof:lastmodified":1566585424,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661696,
     "wof:name":"Maikse",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309519,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -82,9 +95,9 @@
 },
   "bbox": [
     24.15667,
-    58.56721999999999,
+    58.56722,
     24.15667,
-    58.56721999999999
+    58.56722
 ],
-  "geometry": {"coordinates":[24.15667,58.56721999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.15667,58.56722],"type":"Point"}
 }

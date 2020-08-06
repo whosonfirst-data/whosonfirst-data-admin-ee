@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "S\u00f6derby"
@@ -66,29 +66,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713307243,
         85633135,
-        85682993
+        1713305639
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588653,
         "wk:page":"S%C3%B6derby"
     },
+    "wof:coterminous":[
+        1713307243
+    ],
     "wof:country":"EE",
     "wof:geomhash":"b2e3519ba1bc421252a7fb2913ad2b43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305639,
+            "localadmin_id":1713307243,
             "locality_id":1242967699,
-            "region_id":85682993
+            "region_id":85683001
         }
     ],
     "wof:id":1242967699,
-    "wof:lastmodified":1566585449,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663602,
     "wof:name":"Soederby",
-    "wof:parent_id":85682993,
+    "wof:parent_id":1713307243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

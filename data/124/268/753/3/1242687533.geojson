@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Vintse"
@@ -60,29 +60,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713307829,
         85633135,
-        85683055
+        1713305737
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":587567,
         "wk:page":"Vintse"
     },
+    "wof:coterminous":[
+        1713307829
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"cde46ffebefd935e8b49a1189703bdf1",
+    "wof:geomhash":"7dc6dee11c6dbdce31f2c214ef06f727",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305737,
+            "localadmin_id":1713307829,
             "locality_id":1242687533,
             "region_id":85683055
         }
     ],
     "wof:id":1242687533,
-    "wof:lastmodified":1566585405,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663320,
     "wof:name":"Vintse",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713307829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -91,9 +104,9 @@
 },
   "bbox": [
     23.855,
-    59.27444000000001,
+    59.27444,
     23.855,
-    59.27444000000001
+    59.27444
 ],
-  "geometry": {"coordinates":[23.855,59.27444000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.855,59.27444],"type":"Point"}
 }

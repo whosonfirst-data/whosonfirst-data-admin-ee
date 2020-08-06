@@ -84,9 +84,11 @@
     "woe:name_adm1":"J\u00f5gevamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312035,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +97,9 @@
         "qs_pg:id":915784,
         "wd:id":"Q3466922"
     },
+    "wof:coterminous":[
+        1713312035
+    ],
     "wof:country":"EE",
     "wof:created":1497295268,
     "wof:geomhash":"f5df1a1d729a8ab551f0475127309786",
@@ -102,14 +107,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312035,
             "locality_id":1125889939,
             "region_id":85683009
         }
     ],
     "wof:id":1125889939,
-    "wof:lastmodified":1566585336,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676578,
     "wof:name":"Laiusev\u00e4lja",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312035,
     "wof:placetype":"locality",
     "wof:population":121,
     "wof:population_rank":1,

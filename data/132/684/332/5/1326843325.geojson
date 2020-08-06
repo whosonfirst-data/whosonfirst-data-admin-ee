@@ -29,32 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682989,
         102191581,
+        1713310809,
         85633135,
-        85682989
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589989
     },
+    "wof:coterminous":[
+        1713310465
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"6d6b3f952d0f9c6daf47d53ad2076480",
+    "wof:geomhash":"51711c3c88718be96c8ade6ba6a382e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310809,
             "locality_id":1326843325,
             "region_id":85682989
         }
     ],
     "wof:id":1326843325,
-    "wof:lastmodified":1566584801,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596670012,
     "wof:name":"Niidi",
-    "wof:parent_id":85682989,
+    "wof:parent_id":1713310809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +76,9 @@
 },
   "bbox": [
     22.82871,
-    58.83199000000001,
+    58.83199,
     22.82871,
-    58.83199000000001
+    58.83199
 ],
-  "geometry": {"coordinates":[22.82871,58.83199000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.82871,58.83199],"type":"Point"}
 }

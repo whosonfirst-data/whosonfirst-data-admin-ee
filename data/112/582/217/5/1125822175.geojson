@@ -71,9 +71,11 @@
     "woe:name_adm1":"Hiiumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682989,
         102191581,
+        1713310225,
         85633135,
-        85682989
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,6 +83,9 @@
         "qs_pg:id":1086945,
         "wd:id":"Q984789"
     },
+    "wof:coterminous":[
+        1713310225
+    ],
     "wof:country":"EE",
     "wof:created":1497292117,
     "wof:geomhash":"6197e8a3a47362649f37e6ddfeacf3a8",
@@ -88,14 +93,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310225,
             "locality_id":1125822175,
             "region_id":85682989
         }
     ],
     "wof:id":1125822175,
-    "wof:lastmodified":1566585375,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596670018,
     "wof:name":"Tahkuna",
-    "wof:parent_id":85682989,
+    "wof:parent_id":1713310225,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -87,9 +87,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713310627,
         85633135,
-        85682995
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +100,9 @@
         "qs_pg:id":249958,
         "wd:id":"Q938337"
     },
+    "wof:coterminous":[
+        1713312991
+    ],
     "wof:country":"EE",
     "wof:created":1497300753,
     "wof:geomhash":"bd61ea5b504ce86c901b88c3cfa0f3ca",
@@ -105,14 +110,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713310627,
             "locality_id":1126019589,
             "region_id":85682995
         }
     ],
     "wof:id":1126019589,
-    "wof:lastmodified":1566585363,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661922,
     "wof:name":"Uderna",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713310627,
     "wof:placetype":"locality",
     "wof:population":114,
     "wof:population_rank":1,

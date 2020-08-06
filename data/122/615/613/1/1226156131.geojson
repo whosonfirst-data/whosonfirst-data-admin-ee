@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kukka"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682989,
         102191581,
+        1713310735,
         85633135,
-        85682989
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591019,
         "wk:page":"Kukka"
     },
+    "wof:coterminous":[
+        1713310735
+    ],
     "wof:country":"EE",
     "wof:geomhash":"8e255049e884ec1939c0243e8dd0fc2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310735,
             "locality_id":1226156131,
             "region_id":85682989
         }
     ],
     "wof:id":1226156131,
-    "wof:lastmodified":1566585567,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596670007,
     "wof:name":"Kukka",
-    "wof:parent_id":85682989,
+    "wof:parent_id":1713310735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

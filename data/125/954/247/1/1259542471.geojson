@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u00e4e-Hannuste",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713315541,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620241
     },
     "wof:country":"EE",
-    "wof:geomhash":"fa083ef1150be8f45b719b92d263a9c9",
+    "wof:geomhash":"bfcc8fc2f11a3bf2b529da1570aca515",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713315541,
             "locality_id":1259542471,
             "region_id":85682937
         }
     ],
     "wof:id":1259542471,
-    "wof:lastmodified":1566585468,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660392,
     "wof:name":"Maee-Hannuste",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713315541,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.01889000000001,
+    27.01889,
     57.76778,
-    27.01889000000001,
+    27.01889,
     57.76778
 ],
-  "geometry": {"coordinates":[27.01889000000001,57.76778],"type":"Point"}
+  "geometry": {"coordinates":[27.01889,57.76778],"type":"Point"}
 }

@@ -73,9 +73,11 @@
     "woe:name_adm1":"P\u00f5lvamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310955,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,6 +86,9 @@
         "qs_pg:id":1273676,
         "wd:id":"Q3477334"
     },
+    "wof:coterminous":[
+        1713311061
+    ],
     "wof:country":"EE",
     "wof:created":1497296875,
     "wof:geomhash":"818a8a52a3169c1577af7ac86384d93f",
@@ -91,14 +96,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713310955,
             "locality_id":1125933153,
             "region_id":85682955
         }
     ],
     "wof:id":1125933153,
-    "wof:lastmodified":1566585284,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676964,
     "wof:name":"Holvandi",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310955,
     "wof:placetype":"locality",
     "wof:population":97,
     "wof:population_rank":1,

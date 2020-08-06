@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rannakyula",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713307795,
         85633135,
-        85683055
+        1713305737
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589128
     },
     "wof:country":"EE",
-    "wof:geomhash":"7034f27f1a938756b80151fc6110d917",
+    "wof:geomhash":"e20b0db126c41111067746355073da93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305737,
+            "localadmin_id":1713307795,
             "locality_id":1225948411,
             "region_id":85683055
         }
     ],
     "wof:id":1225948411,
-    "wof:lastmodified":1566585513,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663324,
     "wof:name":"Rannakuela",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713307795,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.10222000000001,
-    59.27721999999999,
-    24.10222000000001,
-    59.27721999999999
+    24.10222,
+    59.27722,
+    24.10222,
+    59.27722
 ],
-  "geometry": {"coordinates":[24.10222000000001,59.27721999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.10222,59.27722],"type":"Point"}
 }

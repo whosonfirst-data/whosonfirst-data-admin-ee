@@ -87,9 +87,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306065,
         85633135,
-        85683055
+        1713305625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +100,9 @@
         "qs_pg:id":966913,
         "wd:id":"Q2804272"
     },
+    "wof:coterminous":[
+        1713306065
+    ],
     "wof:country":"EE",
     "wof:created":1497301911,
     "wof:geomhash":"5abf79cd9583052b3fb1e68cfe6dfce2",
@@ -105,14 +110,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305625,
+            "localadmin_id":1713306065,
             "locality_id":1126037917,
             "region_id":85683055
         }
     ],
     "wof:id":1126037917,
-    "wof:lastmodified":1566585321,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676120,
     "wof:name":"Tammneeme",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306065,
     "wof:placetype":"locality",
     "wof:population":251,
     "wof:population_rank":2,

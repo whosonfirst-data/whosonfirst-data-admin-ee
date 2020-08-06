@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-07-28",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-07-28",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"26.39389,58.74667,26.39389,58.74667",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Y\u0131geva"
@@ -190,7 +192,7 @@
         "wk:page":"J%C3%B5geva"
     },
     "wof:country":"EE",
-    "wof:geomhash":"fbd50e0506287fae905e54e54030fa60",
+    "wof:geomhash":"e78d4495105d3b0ff09bc2e4d72aa94c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,22 +202,24 @@
         }
     ],
     "wof:id":1243459357,
-    "wof:lastmodified":1566585459,
+    "wof:lastmodified":1596150907,
     "wof:name":"Jogeva",
     "wof:parent_id":85683009,
     "wof:placetype":"locality",
     "wof:population":6396,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101815115
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    26.39389000000001,
+    26.39389,
     58.74667,
-    26.39389000000001,
+    26.39389,
     58.74667
 ],
-  "geometry": {"coordinates":[26.39389000000001,58.74667],"type":"Point"}
+  "geometry": {"coordinates":[26.39389,58.74667],"type":"Point"}
 }

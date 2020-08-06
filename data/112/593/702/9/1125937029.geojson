@@ -82,9 +82,11 @@
     "woe:name_adm1":"V\u00f5rumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713316273,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,9 @@
         "qs_pg:id":1274770,
         "wd:id":"Q2510778"
     },
+    "wof:coterminous":[
+        1713316273
+    ],
     "wof:country":"EE",
     "wof:created":1497296998,
     "wof:geomhash":"ee47e4c3e79d1c0a9ad7c00080c0ce9e",
@@ -100,14 +105,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713316273,
             "locality_id":1125937029,
             "region_id":85682937
         }
     ],
     "wof:id":1125937029,
-    "wof:lastmodified":1566585285,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660420,
     "wof:name":"Viitka",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713316273,
     "wof:placetype":"locality",
     "wof:population":144,
     "wof:population_rank":1,

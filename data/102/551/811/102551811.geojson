@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"27.3973611111,59.3291111111,27.3973611111,59.3291111111",
+    "geom:bbox":"27.397361,59.329111,27.397361,59.329111",
     "geom:latitude":59.329111,
     "geom:longitude":27.397361,
     "iso:country":"EE",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Johvi"
@@ -42,8 +42,11 @@
         "state_id":2345278
     },
     "wof:belongsto":[
+        85683059,
+        102191581,
+        1713312651,
         85633135,
-        85683059
+        1713305651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,18 +56,23 @@
         "wd:id":"Q11824454"
     },
     "wof:country":"EE",
-    "wof:geomhash":"ce5ec5f0fc8ce7b2869093331e3e68b4",
+    "wof:geomhash":"b6cbd6b996bf1b594ec36fa82f3f390d",
     "wof:hierarchy":[
         {
             "campus_id":102551811,
+            "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305651,
+            "localadmin_id":1713312651,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85683059
         }
     ],
     "wof:id":102551811,
-    "wof:lastmodified":1566584822,
+    "wof:lastmodified":1596676516,
     "wof:name":"Johvi Airport",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713312651,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -74,10 +82,10 @@
     ]
 },
   "bbox": [
-    27.397361111111,
-    59.329111111111,
-    27.397361111111,
-    59.329111111111
+    27.397361,
+    59.329111,
+    27.397361,
+    59.329111
 ],
-  "geometry": {"coordinates":[27.397361111111,59.329111111111],"type":"Point"}
+  "geometry": {"coordinates":[27.397361,59.329111],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.5511205,59.551237,24.5511205,59.551237",
+    "geom:bbox":"24.55112,59.551237,24.55112,59.551237",
     "geom:latitude":59.551237,
     "geom:longitude":24.55112,
     "gn:country":"EE",
@@ -17,7 +17,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"EE",
@@ -44,9 +44,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306109,
         85633135,
-        85683037
+        1713305625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,19 +57,27 @@
     },
     "wof:country":"EE",
     "wof:created":1497291553,
-    "wof:geomhash":"971703e5913edd172b094dd3078aea11",
+    "wof:geomhash":"62a6d222f214e4de0c7d247aa9c7f9c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305625,
+            "localadmin_id":1713306109,
             "locality_id":1125808307,
-            "region_id":85683037
+            "region_id":85683055
         }
     ],
     "wof:id":1125808307,
-    "wof:lastmodified":1566585344,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676117,
     "wof:name":"L\u00e4\u00e4nek\u00fcla",
-    "wof:parent_id":85683037,
+    "wof:parent_id":1713306109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -75,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.5511205,
+    24.55112,
     59.551237,
-    24.5511205,
+    24.55112,
     59.551237
 ],
-  "geometry": {"coordinates":[24.5511205,59.551237],"type":"Point"}
+  "geometry": {"coordinates":[24.55112,59.551237],"type":"Point"}
 }

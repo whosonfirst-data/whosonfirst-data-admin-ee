@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Koppelmaa"
@@ -59,29 +59,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713307973,
         85633135,
-        85683055
+        1713305739
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591127,
         "wk:page":"Koppelmaa"
     },
+    "wof:coterminous":[
+        1713307973
+    ],
     "wof:country":"EE",
     "wof:geomhash":"66b24966b11368e9ac847b9fba5d3d83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305739,
+            "localadmin_id":1713307973,
             "locality_id":1343679673,
             "region_id":85683055
         }
     ],
     "wof:id":1343679673,
-    "wof:lastmodified":1566584868,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663242,
     "wof:name":"Koppelmaa",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713307973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

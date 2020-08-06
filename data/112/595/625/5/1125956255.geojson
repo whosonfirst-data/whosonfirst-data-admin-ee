@@ -70,9 +70,11 @@
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713308033,
         85633135,
-        85683049
+        1713305771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,6 +83,9 @@
         "qs_pg:id":406039,
         "wd:id":"Q3467452"
     },
+    "wof:coterminous":[
+        1713308033
+    ],
     "wof:country":"EE",
     "wof:created":1497297628,
     "wof:geomhash":"08b21387ce345a15bae93a27133a2f70",
@@ -88,14 +93,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305771,
+            "localadmin_id":1713308033,
             "locality_id":1125956255,
             "region_id":85683049
         }
     ],
     "wof:id":1125956255,
-    "wof:lastmodified":1566585304,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677966,
     "wof:name":"Moora",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713308033,
     "wof:placetype":"locality",
     "wof:population":131,
     "wof:population_rank":1,

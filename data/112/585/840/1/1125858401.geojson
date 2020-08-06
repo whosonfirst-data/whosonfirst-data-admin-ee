@@ -91,9 +91,11 @@
     "woe:name_adm1":"V\u00f5rumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713311067,
         85633135,
-        85682937
+        1713305795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,6 +104,9 @@
         "qs_pg:id":1274630,
         "wd:id":"Q3456950"
     },
+    "wof:coterminous":[
+        1713311067
+    ],
     "wof:country":"EE",
     "wof:created":1497293720,
     "wof:geomhash":"2b64f3224a57841c8461e0ce1e1a6646",
@@ -109,14 +114,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305795,
+            "localadmin_id":1713311067,
             "locality_id":1125858401,
             "region_id":85682937
         }
     ],
     "wof:id":1125858401,
-    "wof:lastmodified":1566585381,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677021,
     "wof:name":"Tsooru",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713311067,
     "wof:placetype":"locality",
     "wof:population":313,
     "wof:population_rank":2,

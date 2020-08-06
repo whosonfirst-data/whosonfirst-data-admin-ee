@@ -29,32 +29,42 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310959,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620692
     },
     "wof:country":"EE",
-    "wof:geomhash":"e12a3cec30b6693e494754d9a8e9f9f8",
+    "wof:geomhash":"75f4b4e34840f2c161ba451a3b8c9d45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713310959,
             "locality_id":1209903261,
             "region_id":85682955
         }
     ],
     "wof:id":1209903261,
-    "wof:lastmodified":1566585060,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676965,
     "wof:name":"Maekipaeaelne",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310959,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +73,9 @@
 },
   "bbox": [
     27.09222,
-    58.18083000000001,
+    58.18083,
     27.09222,
-    58.18083000000001
+    58.18083
 ],
-  "geometry": {"coordinates":[27.09222,58.18083000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.09222,58.18083],"type":"Point"}
 }

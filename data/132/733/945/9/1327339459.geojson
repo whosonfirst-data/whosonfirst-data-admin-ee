@@ -29,32 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713306971,
         85633135,
-        85683031
+        1713305765
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618617
     },
+    "wof:coterminous":[
+        1713306971
+    ],
     "wof:country":"EE",
     "wof:geomhash":"7185827314ff05e5c6f22962307dc61f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305765,
+            "localadmin_id":1713306971,
             "locality_id":1327339459,
             "region_id":85683031
         }
     ],
     "wof:id":1327339459,
-    "wof:lastmodified":1566584791,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676650,
     "wof:name":"Kueti",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713306971,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

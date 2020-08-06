@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kikaste"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713313707,
         85633135,
-        85682995
+        1713305697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794096,
         "wk:page":"Kikaste"
     },
+    "wof:coterminous":[
+        1713313707
+    ],
     "wof:country":"EE",
     "wof:geomhash":"37d5be9e0e511a9d916e829709f1f6e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305697,
+            "localadmin_id":1713313707,
             "locality_id":1327309679,
             "region_id":85682995
         }
     ],
     "wof:id":1327309679,
-    "wof:lastmodified":1566584759,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660680,
     "wof:name":"Kikaste",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713313707,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

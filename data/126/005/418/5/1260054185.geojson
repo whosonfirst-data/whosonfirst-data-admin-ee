@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Hinsa"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713316281,
         85633135,
-        85682937
+        1713305633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794270,
         "wk:page":"Hinsa"
     },
+    "wof:coterminous":[
+        1713316281
+    ],
     "wof:country":"EE",
     "wof:geomhash":"47d09db902cea74fbd74a9870867e793",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305633,
+            "localadmin_id":1713316281,
             "locality_id":1260054185,
             "region_id":85682937
         }
     ],
     "wof:id":1260054185,
-    "wof:lastmodified":1566585157,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660392,
     "wof:name":"Hinsa",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713316281,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

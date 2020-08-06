@@ -94,9 +94,11 @@
     "woe:name_adm1":"L\u00e4\u00e4nemaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713309031,
         85633135,
-        85683001
+        1713305701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,6 +107,9 @@
         "qs_pg:id":1274143,
         "wd:id":"Q3457072"
     },
+    "wof:coterminous":[
+        1713309031
+    ],
     "wof:country":"EE",
     "wof:created":1497296934,
     "wof:geomhash":"f4243b2cf080403d46d8d358857b82d1",
@@ -112,14 +117,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305701,
+            "localadmin_id":1713309031,
             "locality_id":1125934891,
             "region_id":85683001
         }
     ],
     "wof:id":1125934891,
-    "wof:lastmodified":1566585288,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677437,
     "wof:name":"Martna",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713309031,
     "wof:placetype":"locality",
     "wof:population":200,
     "wof:population_rank":2,

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Andi"
@@ -54,28 +54,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713308313,
         85633135,
-        85683049
+        1713305775
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619763
     },
+    "wof:coterminous":[
+        1713308313
+    ],
     "wof:country":"EE",
     "wof:geomhash":"f857d7b74f9ff05d1c28d9a04dda9cf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305775,
+            "localadmin_id":1713308313,
             "locality_id":1360170311,
             "region_id":85683049
         }
     ],
     "wof:id":1360170311,
-    "wof:lastmodified":1566585224,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596678039,
     "wof:name":"Andi",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713308313,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Raka"
@@ -57,25 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683031,
+        102191581,
+        1713315183,
+        85633135,
+        1713305765
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589167,
         "wk:page":"Raka%2C_J%C3%A4rva_County"
     },
+    "wof:coterminous":[
+        1713315183
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"2b99b72988b50ec77a0566859e471015",
+    "wof:geomhash":"2b113be19ad831ec9cc79fa1a21df239",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209010355
+            "county_id":1713305765,
+            "localadmin_id":1713315183,
+            "locality_id":1209010355,
+            "region_id":85683031
         }
     ],
     "wof:id":1209010355,
-    "wof:lastmodified":1566585050,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676639,
     "wof:name":"Raka",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713315183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -84,9 +101,9 @@
 },
   "bbox": [
     25.81667,
-    59.18333000000001,
+    59.18333,
     25.81667,
-    59.18333000000001
+    59.18333
 ],
-  "geometry": {"coordinates":[25.81667,59.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.81667,59.18333],"type":"Point"}
 }

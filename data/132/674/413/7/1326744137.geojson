@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kupu"
@@ -60,29 +60,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713305939,
         85633135,
-        85683055
+        1713305725
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590958,
         "wk:page":"Kupu%2C_Estonia"
     },
+    "wof:coterminous":[
+        1713305941
+    ],
     "wof:country":"EE",
     "wof:geomhash":"333e503c9fb657ceb183ddc2d6c96efe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305725,
+            "localadmin_id":1713305939,
             "locality_id":1326744137,
             "region_id":85683055
         }
     ],
     "wof:id":1326744137,
-    "wof:lastmodified":1566584768,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661845,
     "wof:name":"Kupu",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713305939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

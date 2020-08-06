@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Rehatse"
@@ -58,29 +58,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306011,
         85633135,
-        85683055
+        1713305725
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589074,
         "wk:page":"Rehatse"
     },
+    "wof:coterminous":[
+        1713306011
+    ],
     "wof:country":"EE",
     "wof:geomhash":"113982d98b9b7ad112859916f6d7a3c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305725,
+            "localadmin_id":1713306011,
             "locality_id":1276995475,
             "region_id":85683055
         }
     ],
     "wof:id":1276995475,
-    "wof:lastmodified":1566585032,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661846,
     "wof:name":"Rehatse",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306011,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

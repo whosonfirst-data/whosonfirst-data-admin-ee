@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "J\u00e4rve"
@@ -54,25 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85683001,
+        102191581,
+        1713308835,
+        85633135,
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591958,
         "wk:page":"J%C3%A4rve%2C_P%C3%A4rnu_County"
     },
+    "wof:coterminous":[
+        1713308835
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"d1069dee6502b04de354919d2b67d8c1",
+    "wof:geomhash":"78b39ca89ef6839a63e6b32b64a96bfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209402989
+            "county_id":1713305721,
+            "localadmin_id":1713308835,
+            "locality_id":1209402989,
+            "region_id":85683001
         }
     ],
     "wof:id":1209402989,
-    "wof:lastmodified":1566585070,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661686,
     "wof:name":"Jaerve",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713308835,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -81,9 +98,9 @@
 },
   "bbox": [
     24.15972,
-    58.61666999999999,
+    58.61667,
     24.15972,
-    58.61666999999999
+    58.61667
 ],
-  "geometry": {"coordinates":[24.15972,58.61666999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.15972,58.61667],"type":"Point"}
 }

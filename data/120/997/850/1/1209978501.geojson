@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kiisa"
@@ -75,28 +75,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713314527,
         85633135,
-        85682985
+        1713305661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620789
     },
     "wof:country":"EE",
-    "wof:geomhash":"95df078c13eefb13d329ee030da771ff",
+    "wof:geomhash":"18357df958ffc01e412ba11561d0241b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305661,
+            "localadmin_id":1713314527,
             "locality_id":1209978501,
             "region_id":85682985
         }
     ],
     "wof:id":1209978501,
-    "wof:lastmodified":1566585058,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661306,
     "wof:name":"Kiisa",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713314527,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -105,9 +115,9 @@
 },
   "bbox": [
     25.58611,
-    58.05083000000001,
+    58.05083,
     25.58611,
-    58.05083000000001
+    58.05083
 ],
-  "geometry": {"coordinates":[25.58611,58.05083000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.58611,58.05083],"type":"Point"}
 }

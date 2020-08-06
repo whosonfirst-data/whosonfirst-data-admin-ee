@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Pruuna"
@@ -52,28 +52,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713315331,
         85633135,
-        85683049
+        1713305761
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589332
     },
     "wof:country":"EE",
-    "wof:geomhash":"f1cb0e6a41566b4f4ae890f2f6ddca26",
+    "wof:geomhash":"b5320656278338ce49fc7489d48af0fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305761,
+            "localadmin_id":1713315331,
             "locality_id":1310091077,
             "region_id":85683049
         }
     ],
     "wof:id":1310091077,
-    "wof:lastmodified":1566585173,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676603,
     "wof:name":"Pruuna",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713315331,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -82,9 +92,9 @@
 },
   "bbox": [
     25.85278,
-    59.26221999999999,
+    59.26222,
     25.85278,
-    59.26221999999999
+    59.26222
 ],
-  "geometry": {"coordinates":[25.85278,59.26221999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.85278,59.26222],"type":"Point"}
 }

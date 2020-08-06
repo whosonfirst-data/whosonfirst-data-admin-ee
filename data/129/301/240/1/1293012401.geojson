@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "V\u00e4ike-Pungerja"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713311923,
         85633135,
-        85683059
+        1713305693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793499,
         "wk:page":"V%C3%A4ike-Pungerja"
     },
+    "wof:coterminous":[
+        1713311923
+    ],
     "wof:country":"EE",
     "wof:geomhash":"0719eafba2669cdea87c65fffabffa0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305693,
+            "localadmin_id":1713311923,
             "locality_id":1293012401,
             "region_id":85683059
         }
     ],
     "wof:id":1293012401,
-    "wof:lastmodified":1566584922,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660728,
     "wof:name":"Vaeike-Pungerja",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713311923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

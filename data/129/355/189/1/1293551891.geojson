@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "L\u00f5ve"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713310475,
         85633135,
-        85682941
+        1713305687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590500,
         "wk:page":"L%C3%B5ve"
     },
+    "wof:coterminous":[
+        1713310475
+    ],
     "wof:country":"EE",
     "wof:geomhash":"70d01d759f50328e0628a82d98be8b24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305687,
+            "localadmin_id":1713310475,
             "locality_id":1293551891,
             "region_id":85682941
         }
     ],
     "wof:id":1293551891,
-    "wof:lastmodified":1566584925,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661438,
     "wof:name":"Love",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713310475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -29,35 +29,48 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Karula"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682941,
         102191581,
+        1713310309,
         85633135,
-        85682941
+        1713305753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619189
     },
+    "wof:coterminous":[
+        1713310309
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"c32b7032adc4ece5584904410e7ebde5",
+    "wof:geomhash":"8b0ecba3877aa3894e57de58980e9d5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305753,
+            "localadmin_id":1713310309,
             "locality_id":1343423487,
             "region_id":85682941
         }
     ],
     "wof:id":1343423487,
-    "wof:lastmodified":1566584884,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661949,
     "wof:name":"Vilaski",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713310309,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -65,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.23444000000001,
+    26.23444,
     57.83722,
-    26.23444000000001,
+    26.23444,
     57.83722
 ],
-  "geometry": {"coordinates":[26.23444000000001,57.83722],"type":"Point"}
+  "geometry": {"coordinates":[26.23444,57.83722],"type":"Point"}
 }

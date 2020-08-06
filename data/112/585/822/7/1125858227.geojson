@@ -82,9 +82,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713315445,
         85633135,
-        85682981
+        1713305741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,9 @@
         "qs_pg:id":1274013,
         "wd:id":"Q3466907"
     },
+    "wof:coterminous":[
+        1713315445
+    ],
     "wof:country":"EE",
     "wof:created":1497293712,
     "wof:geomhash":"e48aa1a669bdb9ba296ef42bfc89ed99",
@@ -100,14 +105,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305741,
+            "localadmin_id":1713315445,
             "locality_id":1125858227,
             "region_id":85682981
         }
     ],
     "wof:id":1125858227,
-    "wof:lastmodified":1566585382,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663206,
     "wof:name":"Laadi",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713315445,
     "wof:placetype":"locality",
     "wof:population":205,
     "wof:population_rank":2,

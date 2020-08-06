@@ -90,9 +90,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713309225,
         85633135,
-        85682981
+        1713305741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,6 +103,9 @@
         "qs_pg:id":255661,
         "wd:id":"Q3462143"
     },
+    "wof:coterminous":[
+        1713309225
+    ],
     "wof:country":"EE",
     "wof:created":1497293918,
     "wof:geomhash":"87593db0cb49525af1894a07eeb15758",
@@ -108,14 +113,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305741,
+            "localadmin_id":1713309225,
             "locality_id":1125863111,
             "region_id":85682981
         }
     ],
     "wof:id":1125863111,
-    "wof:lastmodified":1566585331,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663206,
     "wof:name":"Treimani",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309225,
     "wof:placetype":"locality",
     "wof:population":276,
     "wof:population_rank":2,

@@ -87,9 +87,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306345,
         85633135,
-        85683055
+        1713305683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +100,9 @@
         "qs_pg:id":110965,
         "wd:id":"Q2113694"
     },
+    "wof:coterminous":[
+        1713306345
+    ],
     "wof:country":"EE",
     "wof:created":1497294365,
     "wof:geomhash":"fef005bb8c94491b7769b7225f437035",
@@ -105,14 +110,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305683,
+            "localadmin_id":1713306345,
             "locality_id":1125872391,
             "region_id":85683055
         }
     ],
     "wof:id":1125872391,
-    "wof:lastmodified":1566585347,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661482,
     "wof:name":"J\u00e4rvek\u00fcla",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306345,
     "wof:placetype":"locality",
     "wof:population":190,
     "wof:population_rank":1,

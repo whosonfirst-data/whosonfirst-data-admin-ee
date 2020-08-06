@@ -81,9 +81,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682981,
         102191581,
+        1713314137,
         85633135,
-        85682981
+        1713305705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,9 @@
         "qs_pg:id":915690,
         "wd:id":"Q3470316"
     },
+    "wof:coterminous":[
+        1713314137
+    ],
     "wof:country":"EE",
     "wof:created":1497295267,
     "wof:geomhash":"5b5f0e5fa3827e2182e8e241541b785e",
@@ -99,14 +104,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305705,
+            "localadmin_id":1713314137,
             "locality_id":1125889897,
             "region_id":85682981
         }
     ],
     "wof:id":1125889897,
-    "wof:lastmodified":1566585337,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677735,
     "wof:name":"Kanak\u00fcla",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713314137,
     "wof:placetype":"locality",
     "wof:population":128,
     "wof:population_rank":1,

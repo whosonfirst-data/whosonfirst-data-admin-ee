@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Karuba"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713308839,
         85633135,
-        85682981
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618250,
         "wk:page":"Karuba%2C_Estonia"
     },
+    "wof:coterminous":[
+        1713308839
+    ],
     "wof:country":"EE",
     "wof:geomhash":"e1797e8305dbabdd3787dc8d189a9f11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713308839,
             "locality_id":1310283245,
-            "region_id":85682981
+            "region_id":85683001
         }
     ],
     "wof:id":1310283245,
-    "wof:lastmodified":1566585193,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661686,
     "wof:name":"Karuba",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713308839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

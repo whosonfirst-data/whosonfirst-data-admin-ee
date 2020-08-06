@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ranna"
@@ -50,7 +50,7 @@
         "gn:id":589140
     },
     "wof:country":"EE",
-    "wof:geomhash":"39a502aa6dba1c463551aac3a67beff1",
+    "wof:geomhash":"c23940863d46895626271e1698d92434",
     "wof:hierarchy":[
         {
             "country_id":85633135,
@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1209393863,
-    "wof:lastmodified":1566585052,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596485098,
     "wof:name":"Ranna",
     "wof:parent_id":85633135,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     22.05444,
-    58.46778000000001,
+    58.46778,
     22.05444,
-    58.46778000000001
+    58.46778
 ],
-  "geometry": {"coordinates":[22.05444,58.46778000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.05444,58.46778],"type":"Point"}
 }

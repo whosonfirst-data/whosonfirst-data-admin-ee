@@ -94,9 +94,11 @@
     "woe:name_adm1":"P\u00e4rnumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713315389,
         85633135,
-        85683001
+        1713305701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,6 +107,9 @@
         "qs_pg:id":1274353,
         "wd:id":"Q2359411"
     },
+    "wof:coterminous":[
+        1713315389
+    ],
     "wof:country":"EE",
     "wof:created":1497296954,
     "wof:geomhash":"38b3920eb1b388163a72ced8875ce199",
@@ -112,14 +117,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305701,
+            "localadmin_id":1713315389,
             "locality_id":1125935507,
             "region_id":85683001
         }
     ],
     "wof:id":1125935507,
-    "wof:lastmodified":1566585277,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677443,
     "wof:name":"Pitsalu",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713315389,
     "wof:placetype":"locality",
     "wof:population":184,
     "wof:population_rank":1,

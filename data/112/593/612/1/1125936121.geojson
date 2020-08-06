@@ -82,9 +82,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713309811,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,9 @@
         "qs_pg:id":1274498,
         "wd:id":"Q11051671"
     },
+    "wof:coterminous":[
+        1713309811
+    ],
     "wof:country":"EE",
     "wof:created":1497296973,
     "wof:geomhash":"579750111d70132357beb783099b916a",
@@ -100,14 +105,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713309811,
             "locality_id":1125936121,
             "region_id":85682985
         }
     ],
     "wof:id":1125936121,
-    "wof:lastmodified":1566585288,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661271,
     "wof:name":"Savikoti",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713309811,
     "wof:placetype":"locality",
     "wof:population":185,
     "wof:population_rank":1,

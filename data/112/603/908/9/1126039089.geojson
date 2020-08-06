@@ -75,9 +75,11 @@
     "woe:name_adm1":"L\u00e4\u00e4ne-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713306643,
         85633135,
-        85683049
+        1713305723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,6 +88,9 @@
         "qs_pg:id":262052,
         "wd:id":"Q3463725"
     },
+    "wof:coterminous":[
+        1713306481
+    ],
     "wof:country":"EE",
     "wof:created":1497302010,
     "wof:geomhash":"056b76232b0a4854274aef56dfb89a33",
@@ -93,14 +98,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305723,
+            "localadmin_id":1713306643,
             "locality_id":1126039089,
             "region_id":85683049
         }
     ],
     "wof:id":1126039089,
-    "wof:lastmodified":1566585321,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661737,
     "wof:name":"Undla",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713306643,
     "wof:placetype":"locality",
     "wof:population":112,
     "wof:population_rank":1,

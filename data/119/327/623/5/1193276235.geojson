@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Santovi"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713306863,
         85633135,
-        85683031
+        1713305765
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618379,
         "wk:page":"Santovi"
     },
+    "wof:coterminous":[
+        1713306863
+    ],
     "wof:country":"EE",
     "wof:geomhash":"05f5fedbed7a69d081347255eee73a31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305765,
+            "localadmin_id":1713306863,
             "locality_id":1193276235,
             "region_id":85683031
         }
     ],
     "wof:id":1193276235,
-    "wof:lastmodified":1566585126,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676645,
     "wof:name":"Santovi",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713306863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

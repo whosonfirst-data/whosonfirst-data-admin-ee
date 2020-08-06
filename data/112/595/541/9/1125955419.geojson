@@ -79,9 +79,11 @@
     "woe:name_adm1":"Raplamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713311367,
         85633135,
-        85683013
+        1713305747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":405815,
         "wd:id":"Q2581230"
     },
+    "wof:coterminous":[
+        1713311367
+    ],
     "wof:country":"EE",
     "wof:created":1497297604,
     "wof:geomhash":"7e871d4860c01a43547d88a6c897437f",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305747,
+            "localadmin_id":1713311367,
             "locality_id":1125955419,
             "region_id":85683013
         }
     ],
     "wof:id":1125955419,
-    "wof:lastmodified":1566585306,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596662845,
     "wof:name":"Kasti",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713311367,
     "wof:placetype":"locality",
     "wof:population":244,
     "wof:population_rank":2,

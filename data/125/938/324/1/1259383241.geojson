@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Ramma"
@@ -58,29 +58,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713314577,
         85633135,
-        85683031
+        1713305765
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589160,
         "wk:page":"Ramma"
     },
+    "wof:coterminous":[
+        1713314577
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"ab6ec4d635835a32cfd6b2907573ad78",
+    "wof:geomhash":"fef18bb29eda5ae3fdd2f49351fc9e60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305765,
+            "localadmin_id":1713314577,
             "locality_id":1259383241,
             "region_id":85683031
         }
     ],
     "wof:id":1259383241,
-    "wof:lastmodified":1566585467,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676636,
     "wof:name":"Ramma",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713314577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -88,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.01917000000001,
+    26.01917,
     59.035,
-    26.01917000000001,
+    26.01917,
     59.035
 ],
-  "geometry": {"coordinates":[26.01917000000001,59.035],"type":"Point"}
+  "geometry": {"coordinates":[26.01917,59.035],"type":"Point"}
 }

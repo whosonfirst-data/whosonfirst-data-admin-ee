@@ -88,9 +88,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306079,
         85633135,
-        85683055
+        1713305725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +101,9 @@
         "qs_pg:id":983647,
         "wd:id":"Q2669024"
     },
+    "wof:coterminous":[
+        1713306079
+    ],
     "wof:country":"EE",
     "wof:created":1497296507,
     "wof:geomhash":"9dff9a589da4181d742a28c8b2412452",
@@ -106,14 +111,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305725,
+            "localadmin_id":1713306079,
             "locality_id":1125921823,
             "region_id":85683055
         }
     ],
     "wof:id":1125921823,
-    "wof:lastmodified":1566585294,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661844,
     "wof:name":"Salmistu",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

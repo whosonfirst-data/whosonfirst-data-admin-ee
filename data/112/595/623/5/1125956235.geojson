@@ -82,9 +82,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713310451,
         85633135,
-        85682995
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +95,9 @@
         "qs_pg:id":406031,
         "wd:id":"Q3454724"
     },
+    "wof:coterminous":[
+        1713310829
+    ],
     "wof:country":"EE",
     "wof:created":1497297628,
     "wof:geomhash":"ae5c5d091c5e3e2b5fad1570e3aea212",
@@ -100,14 +105,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713310451,
             "locality_id":1125956235,
             "region_id":85682995
         }
     ],
     "wof:id":1125956235,
-    "wof:lastmodified":1566585304,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661915,
     "wof:name":"M\u00f5isanurme",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713310451,
     "wof:placetype":"locality",
     "wof:population":157,
     "wof:population_rank":1,

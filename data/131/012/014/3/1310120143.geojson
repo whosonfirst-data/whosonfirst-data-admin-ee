@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kurkse"
@@ -71,29 +71,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713307827,
         85633135,
-        85683055
+        1713305737
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590920,
         "wk:page":"Kurkse"
     },
+    "wof:coterminous":[
+        1713307827
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"f69f4754378e1cc3d5239115c0eb3f1a",
+    "wof:geomhash":"d4655542c4bdfd4a2548d1c47b2e4db7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305737,
+            "localadmin_id":1713307827,
             "locality_id":1310120143,
             "region_id":85683055
         }
     ],
     "wof:id":1310120143,
-    "wof:lastmodified":1566585158,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663322,
     "wof:name":"Kurkse",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713307827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -101,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.02667000000001,
+    24.02667,
     59.28278,
-    24.02667000000001,
+    24.02667,
     59.28278
 ],
-  "geometry": {"coordinates":[24.02667000000001,59.28278],"type":"Point"}
+  "geometry": {"coordinates":[24.02667,59.28278],"type":"Point"}
 }

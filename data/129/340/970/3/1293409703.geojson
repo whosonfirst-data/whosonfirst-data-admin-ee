@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Lahu"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713311483,
         85633135,
-        85683049
+        1713305769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793300,
         "wk:page":"Lahu%2C_Estonia"
     },
+    "wof:coterminous":[
+        1713311485
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"a063f0c0ce2a556801eb04ca7ab24f53",
+    "wof:geomhash":"5b123e5196d4a2d7382cb33a9d775eaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305769,
+            "localadmin_id":1713311483,
             "locality_id":1293409703,
             "region_id":85683049
         }
     ],
     "wof:id":1293409703,
-    "wof:lastmodified":1566584939,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676547,
     "wof:name":"Lahu",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713311483,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -82,9 +95,9 @@
 },
   "bbox": [
     26.15556,
-    58.96778000000001,
+    58.96778,
     26.15556,
-    58.96778000000001
+    58.96778
 ],
-  "geometry": {"coordinates":[26.15556,58.96778000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.15556,58.96778],"type":"Point"}
 }

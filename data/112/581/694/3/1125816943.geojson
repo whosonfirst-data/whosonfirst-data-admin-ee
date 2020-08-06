@@ -76,9 +76,11 @@
     "woe:name_adm1":"Hiiumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682989,
         102191581,
+        1713310151,
         85633135,
-        85682989
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,6 +89,9 @@
         "qs_pg:id":1167346,
         "wd:id":"Q2195481"
     },
+    "wof:coterminous":[
+        1713310151
+    ],
     "wof:country":"EE",
     "wof:created":1497291883,
     "wof:geomhash":"b5fe9d0dc48634edf12141e136103cef",
@@ -94,14 +99,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713310151,
             "locality_id":1125816943,
             "region_id":85682989
         }
     ],
     "wof:id":1125816943,
-    "wof:lastmodified":1566585332,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596670006,
     "wof:name":"K\u00f5pu",
-    "wof:parent_id":85682989,
+    "wof:parent_id":1713310151,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

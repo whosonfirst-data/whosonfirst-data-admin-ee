@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Myyzama",
@@ -38,28 +38,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713311489,
         85633135,
-        85683049
+        1713305769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590171
     },
+    "wof:coterminous":[
+        1713311489
+    ],
     "wof:country":"EE",
     "wof:geomhash":"cec7f281fda997e0d98b779964501d08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305769,
+            "localadmin_id":1713311489,
             "locality_id":1309891181,
             "region_id":85683049
         }
     ],
     "wof:id":1309891181,
-    "wof:lastmodified":1566585269,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676539,
     "wof:name":"Moisamaa",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713311489,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

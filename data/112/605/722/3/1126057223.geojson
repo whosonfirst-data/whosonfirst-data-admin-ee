@@ -81,9 +81,11 @@
     "woe:name_adm1":"L\u00e4\u00e4nemaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713312739,
         85633135,
-        85683055
+        1713305725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,9 @@
         "qs_pg:id":915956,
         "wd:id":"Q921968"
     },
+    "wof:coterminous":[
+        1713312739
+    ],
     "wof:country":"EE",
     "wof:created":1497303368,
     "wof:geomhash":"6081ada957bbfdee1937ebae1d82b3e4",
@@ -99,14 +104,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305725,
+            "localadmin_id":1713312739,
             "locality_id":1126057223,
             "region_id":85683055
         }
     ],
     "wof:id":1126057223,
-    "wof:lastmodified":1566585313,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661847,
     "wof:name":"Saunja",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713312739,
     "wof:placetype":"locality",
     "wof:population":98,
     "wof:population_rank":1,

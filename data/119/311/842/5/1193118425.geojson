@@ -29,32 +29,42 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713309451,
         85633135,
-        85682981
+        1713305721
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592304
     },
     "wof:country":"EE",
-    "wof:geomhash":"f754c98a64e723faa1626cd0a23d3ba3",
+    "wof:geomhash":"4554b0f69406d64ab8787f10dee4511c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305721,
+            "localadmin_id":1713309451,
             "locality_id":1193118425,
-            "region_id":85682981
+            "region_id":85683001
         }
     ],
     "wof:id":1193118425,
-    "wof:lastmodified":1566585126,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661682,
     "wof:name":"Ehala",
-    "wof:parent_id":85682981,
+    "wof:parent_id":1713309451,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +73,9 @@
 },
   "bbox": [
     23.81667,
-    58.53333000000001,
+    58.53333,
     23.81667,
-    58.53333000000001
+    58.53333
 ],
-  "geometry": {"coordinates":[23.81667,58.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.81667,58.53333],"type":"Point"}
 }

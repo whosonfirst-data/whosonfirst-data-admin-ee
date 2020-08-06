@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "L\u00f5p\u00f5per\u00e4",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713313651,
         85633135,
-        85682955
+        1713305793
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619997
     },
     "wof:country":"EE",
-    "wof:geomhash":"e3d375c8ef3309dcf80d4545f438bd4d",
+    "wof:geomhash":"a61891d0f46cea72479736b2e337baec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305793,
+            "localadmin_id":1713313651,
             "locality_id":1310182373,
             "region_id":85682955
         }
     ],
     "wof:id":1310182373,
-    "wof:lastmodified":1566585189,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676998,
     "wof:name":"Luigelaasi",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713313651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     27.29583,
-    58.07333000000001,
+    58.07333,
     27.29583,
-    58.07333000000001
+    58.07333
 ],
-  "geometry": {"coordinates":[27.29583,58.07333000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.29583,58.07333],"type":"Point"}
 }

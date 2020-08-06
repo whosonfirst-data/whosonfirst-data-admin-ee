@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tagaj\u00f5e"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713311867,
         85633135,
-        85683059
+        1713305693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793404,
         "wk:page":"Tagaj%C3%B5e"
     },
+    "wof:coterminous":[
+        1713311867
+    ],
     "wof:country":"EE",
     "wof:geomhash":"56533cf5894829d0a64ca309cd1834fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305693,
+            "localadmin_id":1713311867,
             "locality_id":1243271669,
             "region_id":85683059
         }
     ],
     "wof:id":1243271669,
-    "wof:lastmodified":1566585455,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660759,
     "wof:name":"Tagajoe",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713311867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

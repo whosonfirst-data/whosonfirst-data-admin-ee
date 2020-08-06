@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hosby"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713307227,
         85633135,
-        85682993
+        1713305639
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592096,
         "wk:page":"Hosby%2C_Vormsi_Parish"
     },
+    "wof:coterminous":[
+        1713307227
+    ],
     "wof:country":"EE",
     "wof:geomhash":"e6b7f0faced8b57059ed1f96342410c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305639,
+            "localadmin_id":1713307227,
             "locality_id":1260077145,
-            "region_id":85682993
+            "region_id":85683001
         }
     ],
     "wof:id":1260077145,
-    "wof:lastmodified":1566585136,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663601,
     "wof:name":"Hosby",
-    "wof:parent_id":85682993,
+    "wof:parent_id":1713307227,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

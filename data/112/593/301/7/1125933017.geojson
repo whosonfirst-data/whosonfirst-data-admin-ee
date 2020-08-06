@@ -79,9 +79,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713314083,
         85633135,
-        85682995
+        1713305675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":1273638,
         "wd:id":"Q3458432"
     },
+    "wof:coterminous":[
+        1713314083
+    ],
     "wof:country":"EE",
     "wof:created":1497296871,
     "wof:geomhash":"9c8e54572a6cd04b566acb6b6453b0b6",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305675,
+            "localadmin_id":1713314083,
             "locality_id":1125933017,
             "region_id":85682995
         }
     ],
     "wof:id":1125933017,
-    "wof:lastmodified":1566585276,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661175,
     "wof:name":"Haage",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713314083,
     "wof:placetype":"locality",
     "wof:population":370,
     "wof:population_rank":2,

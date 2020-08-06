@@ -29,32 +29,42 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713316181,
         85633135,
-        85682937
+        1713305631
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794260
     },
     "wof:country":"EE",
-    "wof:geomhash":"d3bfa29948a3a00c5c75b2fd4603381c",
+    "wof:geomhash":"1edbf454748ed78e98a17d1ba626909f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305631,
+            "localadmin_id":1713316181,
             "locality_id":1276306595,
-            "region_id":85682937
+            "region_id":85682955
         }
     ],
     "wof:id":1276306595,
-    "wof:lastmodified":1566585036,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596663694,
     "wof:name":"Haerma",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713316181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -63,9 +73,9 @@
 },
   "bbox": [
     27.36556,
-    57.81166999999999,
+    57.81167,
     27.36556,
-    57.81166999999999
+    57.81167
 ],
-  "geometry": {"coordinates":[27.36556,57.81166999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.36556,57.81167],"type":"Point"}
 }

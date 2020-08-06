@@ -78,9 +78,11 @@
     "woe:name_adm1":"J\u00f5gevamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312127,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,6 +91,9 @@
         "qs_pg:id":111133,
         "wd:id":"Q3464717"
     },
+    "wof:coterminous":[
+        1713312127
+    ],
     "wof:country":"EE",
     "wof:created":1497300131,
     "wof:geomhash":"d9c9982e7783df6b67435e3d225c0b50",
@@ -96,14 +101,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312127,
             "locality_id":1126008587,
             "region_id":85683009
         }
     ],
     "wof:id":1126008587,
-    "wof:lastmodified":1566585368,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676585,
     "wof:name":"Pikkj\u00e4rve",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312127,
     "wof:placetype":"locality",
     "wof:population":144,
     "wof:population_rank":1,

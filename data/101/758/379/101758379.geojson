@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000174,
-    "geom:area_square_m":1093050.943536,
-    "geom:bbox":"24.8449146859,59.4947998227,24.8635699829,59.5088699947",
-    "geom:latitude":59.502009,
-    "geom:longitude":24.853706,
+    "geom:area":0.0,
+    "geom:area_square_m":1093016.79423,
+    "geom:bbox":"24.852951,59.502805,24.852951,59.502805",
+    "geom:latitude":59.502805,
+    "geom:longitude":24.852951,
     "iso:country":"EE",
     "lbl:latitude":59.502805,
     "lbl:longitude":24.852951,
@@ -65,8 +65,10 @@
     "qs:pop":0,
     "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"suburbs point-in-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":59.501389,
@@ -74,9 +76,11 @@
     "wd:population":1556,
     "wd:wordcount":59,
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306077,
         85633135,
-        85683055
+        1713305625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,20 +89,34 @@
         "wd:id":"Q3455982",
         "wk:page":"P\u00e4rnam\u00e4e"
     },
+    "wof:coterminous":[
+        1713306031
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"123d2440f8d61c2397e6fdf2cc8a523b",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"a2bba857cc8f051ec6a5327c2b7c6923",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305625,
+            "localadmin_id":1713306077,
             "locality_id":101758379,
             "region_id":85683055
         }
     ],
     "wof:id":101758379,
-    "wof:lastmodified":1566585235,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676118,
     "wof:name":"P\u00e4rnam\u00e4e",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306077,
     "wof:placetype":"locality",
     "wof:population":1556,
     "wof:population_rank":3,
@@ -108,10 +126,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.84491468589977,
-    59.494799822711,
-    24.86356998285407,
-    59.50886999465888
+    24.852951,
+    59.502805,
+    24.852951,
+    59.502805
 ],
-  "geometry": {"coordinates":[[[24.84659570778251,59.49541547462303],[24.84491468589977,59.50001026776897],[24.8464534681363,59.50411368706665],[24.8476518057754,59.5039839605534],[24.84919186576161,59.50749056306842],[24.85091797101569,59.50730365278349],[24.85130308459514,59.50818029544047],[24.85302921374887,59.50799335842527],[24.85341439163955,59.50886999465888],[24.85859279811649,59.50830903939442],[24.85820749587515,59.50743241933185],[24.86165959616329,59.50705835323339],[24.86127423390064,59.50618174291856],[24.86300021625891,59.5059946832518],[24.86184414236669,59.50336486226877],[24.86356998285407,59.50317779743972],[24.8616434431828,59.4987947687074],[24.85646649047646,59.49935581832733],[24.85531121376397,59.49672594015664],[24.85594180840963,59.49665760926013],[24.85123541581839,59.494799822711],[24.84659570778251,59.49541547462303]]],"type":"Polygon"}
+  "geometry": {"coordinates":[24.852951,59.502805],"type":"Point"}
 }

@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Repniku Asundus",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713307631,
         85633135,
-        85683059
+        1713305779
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":589050
     },
     "wof:country":"EE",
-    "wof:geomhash":"a98a0b9111492bd83644efc58ae427b2",
+    "wof:geomhash":"3b1f6a5f4c3092fd1cf0e7f422dff33f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305779,
+            "localadmin_id":1713307631,
             "locality_id":1260087673,
             "region_id":85683059
         }
     ],
     "wof:id":1260087673,
-    "wof:lastmodified":1566585141,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677903,
     "wof:name":"Repniku",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713307631,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +78,9 @@
 },
   "bbox": [
     27.93333,
-    59.36666999999999,
+    59.36667,
     27.93333,
-    59.36666999999999
+    59.36667
 ],
-  "geometry": {"coordinates":[27.93333,59.36666999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.93333,59.36667],"type":"Point"}
 }

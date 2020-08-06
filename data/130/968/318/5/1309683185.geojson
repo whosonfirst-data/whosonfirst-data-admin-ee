@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tusti"
@@ -57,29 +57,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682947,
         102191581,
+        1713306203,
         85633135,
-        85682951
+        1713305623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":588136,
         "wk:page":"Tusti%2C_Saare_County"
     },
+    "wof:coterminous":[
+        1713306183
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"b97146dcf2d4332f0d91ef8ce6e2889c",
+    "wof:geomhash":"2761c4fe8fa0a5d5fd797491e6b244e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305623,
+            "localadmin_id":1713306203,
             "locality_id":1309683185,
-            "region_id":85682951
+            "region_id":85682947
         }
     ],
     "wof:id":1309683185,
-    "wof:lastmodified":1566585263,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596675297,
     "wof:name":"Tusti",
-    "wof:parent_id":85682951,
+    "wof:parent_id":1713306203,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -88,9 +101,9 @@
 },
   "bbox": [
     23.36528,
-    58.58694000000001,
+    58.58694,
     23.36528,
-    58.58694000000001
+    58.58694
 ],
-  "geometry": {"coordinates":[23.36528,58.58694000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.36528,58.58694],"type":"Point"}
 }

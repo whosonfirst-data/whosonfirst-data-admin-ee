@@ -29,31 +29,48 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "L\u00fc\u00fctsepa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633135
+        85682937,
+        102191581,
+        1713315369,
+        85633135,
+        1713305787
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620254
     },
+    "wof:coterminous":[
+        1713315369
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"05e952db00b835627f4bb10a5e820bbe",
+    "wof:geomhash":"eae5306f37acfb72dab9fa6c2aaaf1cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1209172951
+            "county_id":1713305787,
+            "localadmin_id":1713315369,
+            "locality_id":1209172951,
+            "region_id":85682937
         }
     ],
     "wof:id":1209172951,
-    "wof:lastmodified":1566585103,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676874,
     "wof:name":"Mahtja",
-    "wof:parent_id":85633135,
+    "wof:parent_id":1713315369,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -62,9 +79,9 @@
 },
   "bbox": [
     27.03667,
-    57.67639000000001,
+    57.67639,
     27.03667,
-    57.67639000000001
+    57.67639
 ],
-  "geometry": {"coordinates":[27.03667,57.67639000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.03667,57.67639],"type":"Point"}
 }

@@ -88,8 +88,11 @@
         "state_id":2345277
     },
     "wof:belongsto":[
+        85682989,
+        102191581,
+        1713308829,
         85633135,
-        85682989
+        1713305629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,14 +107,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102551791,
+            "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305629,
+            "localadmin_id":1713308829,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85682989
         }
     ],
     "wof:id":102551791,
-    "wof:lastmodified":1566584822,
+    "wof:lastmodified":1596670038,
     "wof:name":"Kardla East Airport",
-    "wof:parent_id":85682989,
+    "wof:parent_id":1713308829,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

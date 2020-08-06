@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Perayarve",
@@ -37,9 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713313331,
         85633135,
-        85682937
+        1713305795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +49,27 @@
         "wk:page":"Peraj%C3%A4rve"
     },
     "wof:country":"EE",
-    "wof:geomhash":"752b6e1acc8019b5a3a7745ebbc7b99e",
+    "wof:geomhash":"fc4e774bc8c244f6bec9cd3b198428c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305795,
+            "localadmin_id":1713313331,
             "locality_id":1259648069,
             "region_id":85682937
         }
     ],
     "wof:id":1259648069,
-    "wof:lastmodified":1566585474,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677019,
     "wof:name":"Perajaerve",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713313331,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +78,9 @@
 },
   "bbox": [
     26.51667,
-    57.68333000000001,
+    57.68333,
     26.51667,
-    57.68333000000001
+    57.68333
 ],
-  "geometry": {"coordinates":[26.51667,57.68333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.51667,57.68333],"type":"Point"}
 }

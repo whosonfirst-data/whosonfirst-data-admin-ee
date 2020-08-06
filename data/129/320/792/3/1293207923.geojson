@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kamarna"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713311475,
         85633135,
-        85683059
+        1713305693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591683,
         "wk:page":"Kamarna"
     },
+    "wof:coterminous":[
+        1713311475
+    ],
     "wof:country":"EE",
     "wof:geomhash":"2ef9df93ccadd0330b9390a882391366",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305693,
+            "localadmin_id":1713311475,
             "locality_id":1293207923,
             "region_id":85683059
         }
     ],
     "wof:id":1293207923,
-    "wof:lastmodified":1566584959,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660747,
     "wof:name":"Kamarna",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713311475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "T\u00f5rvhavva",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713310903,
         85633135,
-        85682955
+        1713305791
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620451
     },
     "wof:country":"EE",
-    "wof:geomhash":"44e8ef798dd91f7ee741737f76a80499",
+    "wof:geomhash":"6a099a03186a5df06ba160c1feee364f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305791,
+            "localadmin_id":1713310903,
             "locality_id":1260259941,
             "region_id":85682955
         }
     ],
     "wof:id":1260259941,
-    "wof:lastmodified":1566585135,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676960,
     "wof:name":"Torvhavva",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713310903,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     27.17722,
-    58.05278000000001,
+    58.05278,
     27.17722,
-    58.05278000000001
+    58.05278
 ],
-  "geometry": {"coordinates":[27.17722,58.05278000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.17722,58.05278],"type":"Point"}
 }

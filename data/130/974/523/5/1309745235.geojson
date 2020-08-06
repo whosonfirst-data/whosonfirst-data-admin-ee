@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Vetepere"
@@ -54,29 +54,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683031,
         102191581,
+        1713313885,
         85633135,
-        85683031
+        1713305765
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":587652,
         "wk:page":"Vetepere"
     },
+    "wof:coterminous":[
+        1713313885
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"c5b55af99f29a94f9a01416953c61b37",
+    "wof:geomhash":"3e8d380f16f66e3b22923f0f938cdc1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305765,
+            "localadmin_id":1713313885,
             "locality_id":1309745235,
             "region_id":85683031
         }
     ],
     "wof:id":1309745235,
-    "wof:lastmodified":1566585267,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676637,
     "wof:name":"Vetepere",
-    "wof:parent_id":85683031,
+    "wof:parent_id":1713313885,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -85,9 +98,9 @@
 },
   "bbox": [
     25.62333,
-    59.13166999999999,
+    59.13167,
     25.62333,
-    59.13166999999999
+    59.13167
 ],
-  "geometry": {"coordinates":[25.62333,59.13166999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.62333,59.13167],"type":"Point"}
 }

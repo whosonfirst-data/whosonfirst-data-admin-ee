@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kurek\u00fcla",
@@ -37,28 +37,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683049,
         102191581,
+        1713307849,
         85633135,
-        85683049
+        1713305771
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618902
     },
     "wof:country":"EE",
-    "wof:geomhash":"0fc9dd66906e914184fa024731bb980e",
+    "wof:geomhash":"c44484d28c9cb7e7dc632a682fd0949d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305771,
+            "localadmin_id":1713307849,
             "locality_id":1293584649,
             "region_id":85683049
         }
     ],
     "wof:id":1293584649,
-    "wof:lastmodified":1566584951,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677966,
     "wof:name":"Kurekuela",
-    "wof:parent_id":85683049,
+    "wof:parent_id":1713307849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -67,9 +77,9 @@
 },
   "bbox": [
     26.52833,
-    59.22083000000001,
+    59.22083,
     26.52833,
-    59.22083000000001
+    59.22083
 ],
-  "geometry": {"coordinates":[26.52833,59.22083000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.52833,59.22083],"type":"Point"}
 }

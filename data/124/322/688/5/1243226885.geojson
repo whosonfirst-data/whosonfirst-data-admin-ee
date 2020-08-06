@@ -30,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Nasja"
@@ -58,29 +58,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713310359,
         85633135,
-        85682995
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":590029,
         "wk:page":"Nasja"
     },
+    "wof:coterminous":[
+        1713310265
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"c0c2cb50a301d99c0ab8edc620864f8e",
+    "wof:geomhash":"62adee8916592f7c5a6c16154f4bc43f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713310359,
             "locality_id":1243226885,
             "region_id":85682995
         }
     ],
     "wof:id":1243226885,
-    "wof:lastmodified":1566585428,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661918,
     "wof:name":"Nasja",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713310359,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -88,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.32444000000001,
+    26.32444,
     58.37361,
-    26.32444000000001,
+    26.32444,
     58.37361
 ],
-  "geometry": {"coordinates":[26.32444000000001,58.37361],"type":"Point"}
+  "geometry": {"coordinates":[26.32444,58.37361],"type":"Point"}
 }

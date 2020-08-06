@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:new_x_preferred":[
         "\u0909\u0902\u0921\u093f \u092e\u0923\u094d\u0921\u0932"
@@ -45,28 +45,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713313151,
         85633135,
-        85682995
+        1713305679
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794075
     },
+    "wof:coterminous":[
+        1713313151
+    ],
     "wof:country":"EE",
     "wof:geomhash":"f5b01d3920e0b95b1e4e365bfaa6c2ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305679,
+            "localadmin_id":1713313151,
             "locality_id":1226505647,
             "region_id":85682995
         }
     ],
     "wof:id":1226505647,
-    "wof:lastmodified":1566585546,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660923,
     "wof:name":"Undi",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713313151,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

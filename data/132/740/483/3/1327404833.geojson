@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Imara"
@@ -69,8 +69,11 @@
         "gn:id":592040,
         "wk:page":"Imara%2C_Estonia"
     },
+    "wof:coterminous":[
+        1713307291
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"0ebdd6b72ee2311f09085303d94e54a8",
+    "wof:geomhash":"6e97f203eb2b554e459d7fe444b2abaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +83,13 @@
         }
     ],
     "wof:id":1327404833,
-    "wof:lastmodified":1566584783,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596485052,
     "wof:name":"Imari",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -91,9 +100,9 @@
 },
   "bbox": [
     22.25944,
-    58.12028000000001,
+    58.12028,
     22.25944,
-    58.12028000000001
+    58.12028
 ],
-  "geometry": {"coordinates":[22.25944,58.12028000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.25944,58.12028],"type":"Point"}
 }

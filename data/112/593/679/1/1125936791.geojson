@@ -88,9 +88,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713310025,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +101,9 @@
         "qs_pg:id":1274686,
         "wd:id":"Q11021217"
     },
+    "wof:coterminous":[
+        1713310025
+    ],
     "wof:country":"EE",
     "wof:created":1497296992,
     "wof:geomhash":"47ceb48d01d1a609fcf63b50b5ea9ef5",
@@ -106,14 +111,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713310025,
             "locality_id":1125936791,
             "region_id":85682985
         }
     ],
     "wof:id":1125936791,
-    "wof:lastmodified":1566585288,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661271,
     "wof:name":"Uusna",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713310025,
     "wof:placetype":"locality",
     "wof:population":368,
     "wof:population_rank":2,

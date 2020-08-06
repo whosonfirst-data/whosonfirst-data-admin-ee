@@ -76,9 +76,11 @@
     "woe:name_adm1":"V\u00f5rumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713310441,
         85633135,
-        85682995
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,6 +89,9 @@
         "qs_pg:id":528658,
         "wd:id":"Q3453855"
     },
+    "wof:coterminous":[
+        1713310441
+    ],
     "wof:country":"EE",
     "wof:created":1497298302,
     "wof:geomhash":"b6398ef1b07900f2cc8f321973483f05",
@@ -94,14 +99,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713310441,
             "locality_id":1125974765,
             "region_id":85682995
         }
     ],
     "wof:id":1125974765,
-    "wof:lastmodified":1566585352,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661921,
     "wof:name":"Tilgu",
-    "wof:parent_id":85682995,
+    "wof:parent_id":1713310441,
     "wof:placetype":"locality",
     "wof:population":97,
     "wof:population_rank":1,

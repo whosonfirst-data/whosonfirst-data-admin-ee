@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "P\u00e4lli"
@@ -60,29 +60,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683001,
         102191581,
+        1713309101,
         85633135,
-        85683001
+        1713305701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8619461,
         "wk:page":"P%C3%A4lli"
     },
+    "wof:coterminous":[
+        1713309101
+    ],
     "wof:country":"EE",
     "wof:geomhash":"d0004f50f798d67362e8bbf0f96b670e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305701,
+            "localadmin_id":1713309101,
             "locality_id":1326524507,
             "region_id":85683001
         }
     ],
     "wof:id":1326524507,
-    "wof:lastmodified":1566584805,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596677427,
     "wof:name":"Paelli",
-    "wof:parent_id":85683001,
+    "wof:parent_id":1713309101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],

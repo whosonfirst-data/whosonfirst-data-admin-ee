@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u00f4duk\u00fcla",
@@ -39,28 +39,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683009,
         102191581,
+        1713312347,
         85633135,
-        85683009
+        1713305767
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":591282
     },
     "wof:country":"EE",
-    "wof:geomhash":"791f3821e9e2a9b54464f6bef147d33e",
+    "wof:geomhash":"5b851a66032bac6bb30733eced024a39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305767,
+            "localadmin_id":1713312347,
             "locality_id":1327133461,
             "region_id":85683009
         }
     ],
     "wof:id":1327133461,
-    "wof:lastmodified":1566584780,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676581,
     "wof:name":"Kodukuela",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713312347,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -69,9 +79,9 @@
 },
   "bbox": [
     26.58861,
-    58.72278000000001,
+    58.72278,
     26.58861,
-    58.72278000000001
+    58.72278
 ],
-  "geometry": {"coordinates":[26.58861,58.72278000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.58861,58.72278],"type":"Point"}
 }

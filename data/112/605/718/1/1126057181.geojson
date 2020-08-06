@@ -87,9 +87,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306327,
         85633135,
-        85683055
+        1713305665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +100,9 @@
         "qs_pg:id":915902,
         "wd:id":"Q3456482"
     },
+    "wof:coterminous":[
+        1713306365
+    ],
     "wof:country":"EE",
     "wof:created":1497303355,
     "wof:geomhash":"2100e7ea213e317ebaefad3b17bd650c",
@@ -105,14 +110,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305665,
+            "localadmin_id":1713306327,
             "locality_id":1126057181,
             "region_id":85683055
         }
     ],
     "wof:id":1126057181,
-    "wof:lastmodified":1566585317,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661354,
     "wof:name":"Paunk\u00fcla",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306327,
     "wof:placetype":"locality",
     "wof:population":121,
     "wof:population_rank":1,

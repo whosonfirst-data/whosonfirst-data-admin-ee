@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Asukola",
@@ -38,28 +38,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683013,
         102191581,
+        1713311473,
         85633135,
-        85683013
+        1713305711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":592367
     },
     "wof:country":"EE",
-    "wof:geomhash":"b2d60d08f1ce0e6012e7acb4258960c9",
+    "wof:geomhash":"c7c802d2193c53c3b1b7302ca05402a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305711,
+            "localadmin_id":1713311473,
             "locality_id":1259959143,
             "region_id":85683013
         }
     ],
     "wof:id":1259959143,
-    "wof:lastmodified":1566585491,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676728,
     "wof:name":"Asukuela",
-    "wof:parent_id":85683013,
+    "wof:parent_id":1713311473,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -68,9 +78,9 @@
 },
   "bbox": [
     24.75,
-    58.93333000000001,
+    58.93333,
     24.75,
-    58.93333000000001
+    58.93333
 ],
-  "geometry": {"coordinates":[24.75,58.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.75,58.93333],"type":"Point"}
 }

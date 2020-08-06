@@ -29,35 +29,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lapetukma"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713310313,
         85633135,
-        85682941
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620330
     },
     "wof:country":"EE",
-    "wof:geomhash":"aa5ef78a7b43e4495881f5390928aba0",
+    "wof:geomhash":"2749b2b89267eb23c732a4ed8e75ff9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713310313,
             "locality_id":1225919401,
-            "region_id":85682941
+            "region_id":85682995
         }
     ],
     "wof:id":1225919401,
-    "wof:lastmodified":1566585554,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661912,
     "wof:name":"Leesiku",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713310313,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -66,9 +76,9 @@
 },
   "bbox": [
     26.24944,
-    58.09028000000001,
+    58.09028,
     26.24944,
-    58.09028000000001
+    58.09028
 ],
-  "geometry": {"coordinates":[26.24944,58.09028000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.24944,58.09028],"type":"Point"}
 }

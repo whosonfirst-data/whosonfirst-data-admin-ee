@@ -87,9 +87,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713311633,
         85633135,
-        85682985
+        1713305661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +100,9 @@
         "qs_pg:id":966869,
         "wd:id":"Q2364508"
     },
+    "wof:coterminous":[
+        1713311633
+    ],
     "wof:country":"EE",
     "wof:created":1497301906,
     "wof:geomhash":"39f07384c3aefa0738e723e118d7de7a",
@@ -105,14 +110,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305661,
+            "localadmin_id":1713311633,
             "locality_id":1126037775,
             "region_id":85682985
         }
     ],
     "wof:id":1126037775,
-    "wof:lastmodified":1566585324,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661311,
     "wof:name":"Polli",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713311633,
     "wof:placetype":"locality",
     "wof:population":268,
     "wof:population_rank":2,

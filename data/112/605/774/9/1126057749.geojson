@@ -81,9 +81,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306433,
         85633135,
-        85683055
+        1713305751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +94,9 @@
         "qs_pg:id":918009,
         "wd:id":"Q3451361"
     },
+    "wof:coterminous":[
+        1713306433
+    ],
     "wof:country":"EE",
     "wof:created":1497303441,
     "wof:geomhash":"f058e97f528649d315c042c3b8956a12",
@@ -99,14 +104,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305751,
+            "localadmin_id":1713306433,
             "locality_id":1126057749,
             "region_id":85683055
         }
     ],
     "wof:id":1126057749,
-    "wof:lastmodified":1566585316,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661933,
     "wof:name":"Peningi",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306433,
     "wof:placetype":"locality",
     "wof:population":195,
     "wof:population_rank":1,

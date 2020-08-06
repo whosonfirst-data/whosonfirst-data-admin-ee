@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Orava"
@@ -75,28 +75,38 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682955,
         102191581,
+        1713309749,
         85633135,
-        85682955
+        1713305789
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8620862
     },
     "wof:country":"EE",
-    "wof:geomhash":"3f57c7bdba49228cfe031e028fe3cf05",
+    "wof:geomhash":"9d179c7658c20a23bc6f4bf25d37b083",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305789,
+            "localadmin_id":1713309749,
             "locality_id":1310481787,
             "region_id":85682955
         }
     ],
     "wof:id":1310481787,
-    "wof:lastmodified":1566585162,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676792,
     "wof:name":"Orava",
-    "wof:parent_id":85682955,
+    "wof:parent_id":1713309749,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -105,9 +115,9 @@
 },
   "bbox": [
     26.78306,
-    58.07528000000001,
+    58.07528,
     26.78306,
-    58.07528000000001
+    58.07528
 ],
-  "geometry": {"coordinates":[26.78306,58.07528000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.78306,58.07528],"type":"Point"}
 }

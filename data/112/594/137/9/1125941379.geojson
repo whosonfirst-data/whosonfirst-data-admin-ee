@@ -93,9 +93,11 @@
     "woe:name_adm1":"Valgamaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682995,
         102191581,
+        1713315453,
         85633135,
-        85682941
+        1713305757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,6 +106,9 @@
         "qs_pg:id":1140454,
         "wd:id":"Q2908290"
     },
+    "wof:coterminous":[
+        1713315453
+    ],
     "wof:country":"EE",
     "wof:created":1497297129,
     "wof:geomhash":"70ae264a3030761fdda4f58d7308627d",
@@ -111,14 +116,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305757,
+            "localadmin_id":1713315453,
             "locality_id":1125941379,
-            "region_id":85682941
+            "region_id":85682995
         }
     ],
     "wof:id":1125941379,
-    "wof:lastmodified":1566585274,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661912,
     "wof:name":"Hellenurme",
-    "wof:parent_id":85682941,
+    "wof:parent_id":1713315453,
     "wof:placetype":"locality",
     "wof:population":198,
     "wof:population_rank":1,

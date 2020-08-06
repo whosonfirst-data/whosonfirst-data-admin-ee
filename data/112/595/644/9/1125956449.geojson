@@ -79,9 +79,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683055,
         102191581,
+        1713306301,
         85633135,
-        85683055
+        1713305665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +92,9 @@
         "qs_pg:id":406139,
         "wd:id":"Q3130507"
     },
+    "wof:coterminous":[
+        1713306301
+    ],
     "wof:country":"EE",
     "wof:created":1497297633,
     "wof:geomhash":"1556feef169f2b3c9a2db309cddb1db1",
@@ -97,14 +102,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305665,
+            "localadmin_id":1713306301,
             "locality_id":1125956449,
             "region_id":85683055
         }
     ],
     "wof:id":1125956449,
-    "wof:lastmodified":1566585297,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661352,
     "wof:name":"Palvere",
-    "wof:parent_id":85683055,
+    "wof:parent_id":1713306301,
     "wof:placetype":"locality",
     "wof:population":164,
     "wof:population_rank":1,

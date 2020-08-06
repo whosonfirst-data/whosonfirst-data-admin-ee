@@ -19,7 +19,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
@@ -119,9 +119,11 @@
     "woe:name_adm1":"Ida-Virumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713311917,
         85633135,
-        85683059
+        1713305693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,6 +131,9 @@
         "gp:id":845968,
         "qs_pg:id":42725
     },
+    "wof:coterminous":[
+        1713311917
+    ],
     "wof:country":"EE",
     "wof:created":1497296477,
     "wof:geomhash":"8967566afb638aa09ccbfaccf9476c8b",
@@ -136,14 +141,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305693,
+            "localadmin_id":1713311917,
             "locality_id":1125920911,
             "region_id":85683059
         }
     ],
     "wof:id":1125920911,
-    "wof:lastmodified":1566585294,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596660739,
     "wof:name":"Tudulinna",
-    "wof:parent_id":85683059,
+    "wof:parent_id":1713311917,
     "wof:placetype":"locality",
     "wof:population":295,
     "wof:population_rank":2,

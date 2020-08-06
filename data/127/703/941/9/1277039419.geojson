@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Sakurgi"
@@ -51,29 +51,42 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682937,
         102191581,
+        1713314965,
         85633135,
-        85682937
+        1713305787
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":794425,
         "wk:page":"Sakurgi"
     },
+    "wof:coterminous":[
+        1713315071
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"ade65e2c5560b0332d4c876b1adb6aab",
+    "wof:geomhash":"f22b0b142c9115ccd92c72fb0e70472b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305787,
+            "localadmin_id":1713314965,
             "locality_id":1277039419,
             "region_id":85682937
         }
     ],
     "wof:id":1277039419,
-    "wof:lastmodified":1566585016,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596676895,
     "wof:name":"Sakurgi",
-    "wof:parent_id":85682937,
+    "wof:parent_id":1713314965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
@@ -82,9 +95,9 @@
 },
   "bbox": [
     26.54417,
-    57.61389000000001,
+    57.61389,
     26.54417,
-    57.61389000000001
+    57.61389
 ],
-  "geometry": {"coordinates":[26.54417,57.61389000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.54417,57.61389],"type":"Point"}
 }

@@ -88,9 +88,11 @@
     "woe:name_adm1":"Viljandimaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682985,
         102191581,
+        1713313961,
         85633135,
-        85682985
+        1713305669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +101,9 @@
         "qs_pg:id":1273583,
         "wd:id":"Q3477418"
     },
+    "wof:coterminous":[
+        1713313961
+    ],
     "wof:country":"EE",
     "wof:created":1497291580,
     "wof:geomhash":"1a376698422876bb2513b8b571cfc9c2",
@@ -106,14 +111,22 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305669,
+            "localadmin_id":1713313961,
             "locality_id":1125809009,
             "region_id":85682985
         }
     ],
     "wof:id":1125809009,
-    "wof:lastmodified":1566585343,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661248,
     "wof:name":"Anikatsi",
-    "wof:parent_id":85682985,
+    "wof:parent_id":1713313961,
     "wof:placetype":"locality",
     "wof:population":147,
     "wof:population_rank":1,

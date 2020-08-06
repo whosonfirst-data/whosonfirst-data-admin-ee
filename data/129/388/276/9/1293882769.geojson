@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kaasiku"
@@ -60,28 +60,41 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85683059,
         102191581,
+        1713313117,
         85633135,
-        85683009
+        1713305677
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8618825
     },
+    "wof:coterminous":[
+        1713313117
+    ],
     "wof:country":"EE",
     "wof:geomhash":"debb487b88dc6151a7c3daae59f09b31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633135,
+            "county_id":1713305677,
+            "localadmin_id":1713313117,
             "locality_id":1293882769,
-            "region_id":85683009
+            "region_id":85683059
         }
     ],
     "wof:id":1293882769,
-    "wof:lastmodified":1566584980,
+    "wof:lang_x_official":[
+        "est"
+    ],
+    "wof:lang_x_spoken":[
+        "est"
+    ],
+    "wof:lastmodified":1596661032,
     "wof:name":"Kaasiku",
-    "wof:parent_id":85683009,
+    "wof:parent_id":1713313117,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
