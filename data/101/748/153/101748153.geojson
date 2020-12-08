@@ -772,14 +772,16 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85683055,
         102191581,
-        1713305847,
         85633135,
-        1713305645
+        1713305645,
+        1713305847,
+        85683055
     ],
     "wof:breaches":[],
-    "wof:capital_of":85633135,
+    "wof:capital_of":[
+        85633135
+    ],
     "wof:concordances":{
         "dbp:id":"Tallinn",
         "fb:id":"en.tallinn",
@@ -813,7 +815,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663515,
+    "wof:lastmodified":1607390877,
     "wof:megacity":0,
     "wof:name":"Tallinn",
     "wof:parent_id":1713305847,
