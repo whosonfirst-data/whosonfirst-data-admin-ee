@@ -42,13 +42,17 @@
     "wof:belongsto":[
         102191581,
         85633135,
-        85683055,
-        1713305647
+        1713305647,
+        85683055
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":446
     },
+    "wof:coterminous":[
+        101753891,
+        1713305647
+    ],
     "wof:country":"EE",
     "wof:created":1595460694,
     "wof:geomhash":"1219f1125adf2ee7d47a5ae14fbfc395",
@@ -68,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663473,
+    "wof:lastmodified":1607984289,
     "wof:name":"Maardu",
     "wof:parent_id":1713305647,
     "wof:placetype":"localadmin",

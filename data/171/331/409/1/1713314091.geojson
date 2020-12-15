@@ -42,13 +42,17 @@
     "wof:belongsto":[
         102191581,
         85633135,
-        85683059,
-        1713305671
+        1713305671,
+        85683059
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":511
     },
+    "wof:coterminous":[
+        101748155,
+        1713305671
+    ],
     "wof:country":"EE",
     "wof:created":1595460901,
     "wof:geomhash":"cf568100b88ab2fb3e0943cc7fcf0bd4",
@@ -68,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661050,
+    "wof:lastmodified":1607984095,
     "wof:name":"Narva",
     "wof:parent_id":1713305671,
     "wof:placetype":"localadmin",

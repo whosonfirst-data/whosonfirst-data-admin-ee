@@ -42,13 +42,17 @@
     "wof:belongsto":[
         102191581,
         85633135,
-        85683059,
-        1713305729
+        1713305729,
+        85683059
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":735
     },
+    "wof:coterminous":[
+        101815211,
+        1713305729
+    ],
     "wof:country":"EE",
     "wof:created":1595461096,
     "wof:geomhash":"37392de1680176a20f237df99324ff60",
@@ -68,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661509,
+    "wof:lastmodified":1607984265,
     "wof:name":"Sillam\u00e4e",
     "wof:parent_id":1713305729,
     "wof:placetype":"localadmin",
