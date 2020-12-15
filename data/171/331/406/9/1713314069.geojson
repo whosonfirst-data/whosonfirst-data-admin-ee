@@ -42,13 +42,17 @@
     "wof:belongsto":[
         102191581,
         85633135,
-        85683049,
-        1713305667
+        1713305667,
+        85683049
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":663
     },
+    "wof:coterminous":[
+        101839837,
+        1713305667
+    ],
     "wof:country":"EE",
     "wof:created":1595460896,
     "wof:geomhash":"5de5b79d9c3b6e3d90182aa7f4ca5170",
@@ -68,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661277,
+    "wof:lastmodified":1607984074,
     "wof:name":"Rakvere",
     "wof:parent_id":1713305667,
     "wof:placetype":"localadmin",

@@ -228,11 +228,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85683055,
         102191581,
-        1713315095,
         85633135,
-        1713305743
+        1713305743,
+        1713315095,
+        85683055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -243,6 +243,10 @@
         "wd:id":"Q207275",
         "wk:page":"Keila"
     },
+    "wof:coterminous":[
+        1713305743,
+        1713315095
+    ],
     "wof:country":"EE",
     "wof:geom_alt":[
         "quattroshapes"
@@ -265,7 +269,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663220,
+    "wof:lastmodified":1607983949,
     "wof:name":"Keila",
     "wof:parent_id":1713315095,
     "wof:placetype":"locality",

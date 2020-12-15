@@ -42,13 +42,17 @@
     "wof:belongsto":[
         102191581,
         85633135,
-        85683055,
-        1713305743
+        1713305743,
+        85683055
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":296
     },
+    "wof:coterminous":[
+        101815187,
+        1713305743
+    ],
     "wof:country":"EE",
     "wof:created":1595461131,
     "wof:geomhash":"665d87f6a777feb1dc2e34a1927708db",
@@ -68,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663219,
+    "wof:lastmodified":1607984165,
     "wof:name":"Keila",
     "wof:parent_id":1713305743,
     "wof:placetype":"localadmin",

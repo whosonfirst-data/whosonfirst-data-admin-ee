@@ -42,13 +42,17 @@
     "wof:belongsto":[
         102191581,
         85633135,
-        85682985,
-        1713305641
+        1713305641,
+        85682985
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":897
     },
+    "wof:coterminous":[
+        101815089,
+        1713305641
+    ],
     "wof:country":"EE",
     "wof:created":1595460651,
     "wof:geomhash":"b25ce560c9cc4e69d5625da7fa6115a1",
@@ -68,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663491,
+    "wof:lastmodified":1607984254,
     "wof:name":"Viljandi",
     "wof:parent_id":1713305641,
     "wof:placetype":"localadmin",

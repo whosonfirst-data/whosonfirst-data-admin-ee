@@ -237,11 +237,11 @@
     "wd:population":15303,
     "wd:wordcount":934,
     "wof:belongsto":[
-        85683049,
         102191581,
-        1713314069,
         85633135,
-        1713305667
+        1713305667,
+        1713314069,
+        85683049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -252,6 +252,10 @@
         "wd:id":"Q191889",
         "wk:page":"Rakvere"
     },
+    "wof:coterminous":[
+        1713305667,
+        1713314069
+    ],
     "wof:country":"EE",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -275,7 +279,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661278,
+    "wof:lastmodified":1607983957,
     "wof:name":"Rakvere",
     "wof:parent_id":1713314069,
     "wof:placetype":"locality",

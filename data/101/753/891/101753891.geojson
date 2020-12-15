@@ -221,11 +221,11 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85683055,
         102191581,
-        1713313119,
         85633135,
-        1713305647
+        1713305647,
+        1713313119,
+        85683055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -237,6 +237,10 @@
     "wof:concordances_alt":{
         "qs_pg:id":42592
     },
+    "wof:coterminous":[
+        1713305647,
+        1713313119
+    ],
     "wof:country":"EE",
     "wof:geom_alt":[
         "quattroshapes"
@@ -259,7 +263,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663488,
+    "wof:lastmodified":1607983941,
     "wof:name":"Maardu",
     "wof:parent_id":1713313119,
     "wof:placetype":"locality",

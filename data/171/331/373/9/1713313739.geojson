@@ -42,13 +42,17 @@
     "wof:belongsto":[
         102191581,
         85633135,
-        85683055,
-        1713305649
+        1713305649,
+        85683055
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "ee-mamt:okood":424
     },
+    "wof:coterminous":[
+        101815171,
+        1713305649
+    ],
     "wof:country":"EE",
     "wof:created":1595460825,
     "wof:geomhash":"34fad119e34017d7b37b276b16b52f2c",
@@ -68,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663469,
+    "wof:lastmodified":1607984295,
     "wof:name":"Loksa",
     "wof:parent_id":1713305649,
     "wof:placetype":"localadmin",
