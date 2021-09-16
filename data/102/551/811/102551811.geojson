@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "J\u00f5hvi Airfield"
     ],
+    "name:eng_x_variant":[
+        "EEJI"
+    ],
     "name:est_x_preferred":[
         "J\u00f5hvi lennuv\u00e4li"
     ],
@@ -42,11 +45,11 @@
         "state_id":2345278
     },
     "wof:belongsto":[
-        85683059,
         102191581,
         1713312651,
         85633135,
-        1713305651
+        1713305651,
+        85683059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102551811,
-    "wof:lastmodified":1596676516,
+    "wof:lastmodified":1631751499,
     "wof:name":"Johvi Airport",
     "wof:parent_id":1713312651,
     "wof:placetype":"campus",

@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "\u00c4mari Air Base"
     ],
+    "name:eng_x_variant":[
+        "EEEI"
+    ],
     "name:est_x_preferred":[
         "\u00c4mari lennuv\u00e4li"
     ],
@@ -78,12 +81,12 @@
         "state_id":2345276
     },
     "wof:belongsto":[
-        85683055,
         102191581,
         1713307899,
         85633135,
         1243372973,
-        1713305737
+        1713305737,
+        85683055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":102551807,
-    "wof:lastmodified":1596663332,
+    "wof:lastmodified":1631751499,
     "wof:name":"Vasalemma Airport",
     "wof:parent_id":1243372973,
     "wof:placetype":"campus",

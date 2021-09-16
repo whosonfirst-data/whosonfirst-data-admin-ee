@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.8305555556,58.9905555556,22.8305555556,58.9905555556",
+    "geom:bbox":"22.830556,58.990556,22.830556,58.990556",
     "geom:latitude":58.990556,
     "geom:longitude":22.830556,
     "iso:country":"EE",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "K\u00e4rdla Airport"
+    ],
+    "name:eng_x_variant":[
+        "KDL",
+        "EEKA"
     ],
     "name:est_x_preferred":[
         "K\u00e4rdla lennujaam"
@@ -88,11 +92,11 @@
         "state_id":2345277
     },
     "wof:belongsto":[
-        85682989,
         102191581,
         1713308829,
         85633135,
-        1713305629
+        1713305629,
+        85682989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +107,7 @@
         "wd:id":"Q1431834"
     },
     "wof:country":"EE",
-    "wof:geomhash":"95d19352709f33f21862064fd37c4ae5",
+    "wof:geomhash":"cb0946bc7bb9d2df13a2876203956fa9",
     "wof:hierarchy":[
         {
             "campus_id":102551791,
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":102551791,
-    "wof:lastmodified":1596670038,
+    "wof:lastmodified":1631751499,
     "wof:name":"Kardla East Airport",
     "wof:parent_id":1713308829,
     "wof:placetype":"campus",
@@ -129,10 +133,10 @@
     ]
 },
   "bbox": [
-    22.830555555556,
-    58.990555555556,
-    22.830555555556,
-    58.990555555556
+    22.830556,
+    58.990556,
+    22.830556,
+    58.990556
 ],
-  "geometry": {"coordinates":[22.830555555556,58.990555555556],"type":"Point"}
+  "geometry": {"coordinates":[22.830556,58.990556],"type":"Point"}
 }
