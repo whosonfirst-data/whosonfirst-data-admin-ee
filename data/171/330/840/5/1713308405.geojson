@@ -28,6 +28,18 @@
     "mps:longitude":23.167978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0989\u09b2\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "\u016ala"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03cd\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Ula"
     ],
@@ -36,6 +48,66 @@
     ],
     "name:est_x_variant":[
         "Ula k\u00fcla"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Oulla"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05bc\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Ula"
+    ],
+    "name:ind_x_preferred":[
+        "Ula"
+    ],
+    "name:ita_x_preferred":[
+        "Ula"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30fc\u30e9\u5ddd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b8\ub77c"
+    ],
+    "name:nld_x_preferred":[
+        "\u016ala"
+    ],
+    "name:pol_x_preferred":[
+        "Ula"
+    ],
+    "name:por_x_preferred":[
+        "\u016ala"
+    ],
+    "name:spa_x_preferred":[
+        "Ula"
+    ],
+    "name:swe_x_preferred":[
+        "Ula"
+    ],
+    "name:tur_x_preferred":[
+        "Ula"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Ula"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e4c\u62c9\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u70cf\u62c9\u6cb3"
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
@@ -68,7 +140,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671700,
+    "wof:lastmodified":1636502256,
     "wof:name":"Ula",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",
