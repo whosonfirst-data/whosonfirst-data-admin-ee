@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0732",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Setomaa vald",
+    "eurostat:nuts_2021_id":"0732",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0732",
+    "eurostat:population":3175,
+    "eurostat:population_year":2020,
     "geom:area":0.070059,
-    "geom:area_square_m":460761448.953724,
+    "geom:area_square_m":460761448.953924,
     "geom:bbox":"27.289835,57.580473,27.818995,58.10837",
     "geom:latitude":57.867605,
     "geom:longitude":27.543508,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":732
+        "ee-mamt:okood":732,
+        "eg:gisco_id":"EE_0732",
+        "eurostat:nuts_2021_id":"0732"
     },
     "wof:country":"EE",
     "wof:created":1595451867,
-    "wof:geomhash":"e4ad421a561475d4efcf230a3a114ba6",
+    "wof:geomhash":"b63199d4c6428d430424c95bc1f24255",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522078,
+    "wof:lastmodified":1684352175,
     "wof:name":"Setomaa",
     "wof:parent_id":85682955,
     "wof:placetype":"county",
+    "wof:population":3175,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

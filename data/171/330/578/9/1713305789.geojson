@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0284",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kanepi vald",
+    "eurostat:nuts_2021_id":"0284",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0284",
+    "eurostat:population":4662,
+    "eurostat:population_year":2020,
     "geom:area":0.079767,
-    "geom:area_square_m":521995716.704746,
+    "geom:area_square_m":521995716.704612,
     "geom:bbox":"26.566366,57.915634,26.956759,58.191198",
     "geom:latitude":58.046743,
     "geom:longitude":26.76255,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":284
+        "ee-mamt:okood":284,
+        "eg:gisco_id":"EE_0284",
+        "eurostat:nuts_2021_id":"0284"
     },
     "wof:country":"EE",
     "wof:created":1595451917,
-    "wof:geomhash":"93540ad5eeea4bdf0621cbb583ca5a54",
+    "wof:geomhash":"1538c8e5822045e476d7d7aa87f4e284",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522050,
+    "wof:lastmodified":1684352200,
     "wof:name":"Kanepi",
     "wof:parent_id":85682955,
     "wof:placetype":"county",
+    "wof:population":4662,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

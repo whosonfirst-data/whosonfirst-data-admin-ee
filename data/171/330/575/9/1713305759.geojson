@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0557",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Otep\u00e4\u00e4 vald",
+    "eurostat:nuts_2021_id":"0557",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0557",
+    "eurostat:population":6404,
+    "eurostat:population_year":2020,
     "geom:area":0.079039,
-    "geom:area_square_m":517571086.171419,
+    "geom:area_square_m":517571086.171448,
     "geom:bbox":"26.124634,57.873212,26.624926,58.165634",
     "geom:latitude":58.023452,
     "geom:longitude":26.396782,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":557
+        "ee-mamt:okood":557,
+        "eg:gisco_id":"EE_0557",
+        "eurostat:nuts_2021_id":"0557"
     },
     "wof:country":"EE",
     "wof:created":1595451909,
-    "wof:geomhash":"1b434f601bf8678e769bdfa2d315b73a",
+    "wof:geomhash":"9e6915170ca1abb576142abb9244b665",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522062,
+    "wof:lastmodified":1684352197,
     "wof:name":"Otep\u00e4\u00e4",
     "wof:parent_id":85682941,
     "wof:placetype":"county",
+    "wof:population":6404,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0803",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Toila vald",
+    "eurostat:nuts_2021_id":"0803",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE00A",
+    "eurostat:nuts_2021_level_lau":"0803",
+    "eurostat:population":4708,
+    "eurostat:population_year":2020,
     "geom:area":0.041968,
-    "geom:area_square_m":264348582.617407,
+    "geom:area_square_m":264348582.617391,
     "geom:bbox":"27.146347,59.259217,27.741162,59.446491",
     "geom:latitude":59.376584,
     "geom:longitude":27.467264,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":803
+        "ee-mamt:okood":803,
+        "eg:gisco_id":"EE_0803",
+        "eurostat:nuts_2021_id":"0803"
     },
     "wof:country":"EE",
     "wof:created":1595451916,
-    "wof:geomhash":"d6ded693986fb562ca51065669e177f1",
+    "wof:geomhash":"a5a4edaf51dd7e2a9285fb189497753c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522080,
+    "wof:lastmodified":1684352200,
     "wof:name":"Toila",
     "wof:parent_id":85683059,
     "wof:placetype":"county",
+    "wof:population":4708,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

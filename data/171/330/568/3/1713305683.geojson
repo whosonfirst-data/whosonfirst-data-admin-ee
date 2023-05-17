@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0653",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rae vald",
+    "eurostat:nuts_2021_id":"0653",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE001",
+    "eurostat:nuts_2021_level_lau":"0653",
+    "eurostat:population":20641,
+    "eurostat:population_year":2020,
     "geom:area":0.032611,
-    "geom:area_square_m":205664331.352794,
+    "geom:area_square_m":205664331.352819,
     "geom:bbox":"24.760541,59.228521,25.118175,59.435502",
     "geom:latitude":59.333889,
     "geom:longitude":24.951831,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":653
+        "ee-mamt:okood":653,
+        "eg:gisco_id":"EE_0653",
+        "eurostat:nuts_2021_id":"0653"
     },
     "wof:country":"EE",
     "wof:created":1595451882,
-    "wof:geomhash":"cb2548c30294f9fb67419e6e8bd1b2ab",
+    "wof:geomhash":"b501f145bf9f29e8dfd11ead092b0ffe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522066,
+    "wof:lastmodified":1684352182,
     "wof:name":"Rae",
     "wof:parent_id":85683055,
     "wof:placetype":"county",
+    "wof:population":20641,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

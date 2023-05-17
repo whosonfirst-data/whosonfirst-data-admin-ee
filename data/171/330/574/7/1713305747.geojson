@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00e4rjamaa vald",
+    "eurostat:nuts_2021_id":"0503",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE009",
+    "eurostat:nuts_2021_level_lau":"0503",
+    "eurostat:population":7427,
+    "eurostat:population_year":2020,
     "geom:area":0.181056,
-    "geom:area_square_m":1157516930.862873,
+    "geom:area_square_m":1157516930.862953,
     "geom:bbox":"24.070758,58.655533,24.717836,59.100828",
     "geom:latitude":58.866849,
     "geom:longitude":24.379836,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":503
+        "ee-mamt:okood":503,
+        "eg:gisco_id":"EE_0503",
+        "eurostat:nuts_2021_id":"0503"
     },
     "wof:country":"EE",
     "wof:created":1595451903,
-    "wof:geomhash":"6285317a8e72c48436d8ac4067ceb3bc",
+    "wof:geomhash":"d075cbb5864643f5650c786ca36b02e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522059,
+    "wof:lastmodified":1684352194,
     "wof:name":"M\u00e4rjamaa",
     "wof:parent_id":85683013,
     "wof:placetype":"county",
+    "wof:population":7427,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

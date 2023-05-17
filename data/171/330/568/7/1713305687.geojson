@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0824",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"T\u00f5rva vald",
+    "eurostat:nuts_2021_id":"0824",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0824",
+    "eurostat:population":6120,
+    "eurostat:population_year":2020,
     "geom:area":0.098229,
-    "geom:area_square_m":643938390.856665,
+    "geom:area_square_m":643938390.856628,
     "geom:bbox":"25.580462,57.845878,26.162685,58.147526",
     "geom:latitude":57.984195,
     "geom:longitude":25.887406,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":824
+        "ee-mamt:okood":824,
+        "eg:gisco_id":"EE_0824",
+        "eurostat:nuts_2021_id":"0824"
     },
     "wof:country":"EE",
     "wof:created":1595451883,
-    "wof:geomhash":"d70bf1626c479da4c63b8ae674643c71",
+    "wof:geomhash":"d8400bc73e009efd57e8d9e39ebb2a59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522080,
+    "wof:lastmodified":1684352182,
     "wof:name":"T\u0151rva",
     "wof:parent_id":85682941,
     "wof:placetype":"county",
+    "wof:population":6120,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

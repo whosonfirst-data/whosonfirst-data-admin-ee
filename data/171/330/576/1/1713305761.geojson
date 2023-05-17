@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0792",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tapa vald",
+    "eurostat:nuts_2021_id":"0792",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE009",
+    "eurostat:nuts_2021_level_lau":"0792",
+    "eurostat:population":10761,
+    "eurostat:population_year":2020,
     "geom:area":0.075369,
-    "geom:area_square_m":477135032.531198,
+    "geom:area_square_m":477135032.53116,
     "geom:bbox":"25.536315,59.050307,26.316597,59.297807",
     "geom:latitude":59.204565,
     "geom:longitude":25.975019,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":792
+        "ee-mamt:okood":792,
+        "eg:gisco_id":"EE_0792",
+        "eurostat:nuts_2021_id":"0792"
     },
     "wof:country":"EE",
     "wof:created":1595451910,
-    "wof:geomhash":"0748f59c5efe63dc70c3d2c16008bf58",
+    "wof:geomhash":"e960f8b89575951d9de81e08907e5dff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522079,
+    "wof:lastmodified":1684352197,
     "wof:name":"Tapa",
     "wof:parent_id":85683049,
     "wof:placetype":"county",
+    "wof:population":10761,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

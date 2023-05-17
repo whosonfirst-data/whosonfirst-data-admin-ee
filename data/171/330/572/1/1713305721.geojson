@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0430",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"L\u00e4\u00e4neranna vald",
+    "eurostat:nuts_2021_id":"0430",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE004",
+    "eurostat:nuts_2021_level_lau":"0430",
+    "eurostat:population":5242,
+    "eurostat:population_year":2020,
     "geom:area":0.210381,
-    "geom:area_square_m":1355774211.518537,
+    "geom:area_square_m":1355774211.518827,
     "geom:bbox":"23.399774,58.328937,24.350256,58.77438",
     "geom:latitude":58.589089,
     "geom:longitude":23.896271,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":430
+        "ee-mamt:okood":430,
+        "eg:gisco_id":"EE_0430",
+        "eurostat:nuts_2021_id":"0430"
     },
     "wof:country":"EE",
     "wof:created":1595451893,
-    "wof:geomhash":"beddd5216e1a73ca111b02844d1c32e0",
+    "wof:geomhash":"724d689102faaa2524fbf3e38248b216",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522057,
+    "wof:lastmodified":1684352187,
     "wof:name":"L\u00e4\u00e4neranna",
     "wof:parent_id":85683001,
     "wof:placetype":"county",
+    "wof:population":5242,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

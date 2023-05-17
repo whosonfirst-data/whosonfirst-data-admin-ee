@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0698",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00f5uge vald",
+    "eurostat:nuts_2021_id":"0698",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0698",
+    "eurostat:population":5311,
+    "eurostat:population_year":2020,
     "geom:area":0.14033,
-    "geom:area_square_m":928362467.495378,
+    "geom:area_square_m":928362467.495294,
     "geom:bbox":"26.443422,57.509313,27.353006,57.835375",
     "geom:latitude":57.654941,
     "geom:longitude":26.884821,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":698
+        "ee-mamt:okood":698,
+        "eg:gisco_id":"EE_0698",
+        "eurostat:nuts_2021_id":"0698"
     },
     "wof:country":"EE",
     "wof:created":1595451917,
-    "wof:geomhash":"9e8dd9495f01adfeef89ede25a4f16b3",
+    "wof:geomhash":"2e72612a99053855d09b132c1c5378c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522067,
+    "wof:lastmodified":1684352200,
     "wof:name":"R\u0151uge",
     "wof:parent_id":85682937,
     "wof:placetype":"county",
+    "wof:population":5311,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

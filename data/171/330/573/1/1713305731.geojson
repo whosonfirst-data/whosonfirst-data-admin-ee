@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0809",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tori vald",
+    "eurostat:nuts_2021_id":"0809",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE004",
+    "eurostat:nuts_2021_level_lau":"0809",
+    "eurostat:population":11821,
+    "eurostat:population_year":2020,
     "geom:area":0.09407,
-    "geom:area_square_m":608027709.094996,
+    "geom:area_square_m":608027709.095007,
     "geom:bbox":"24.411384,58.363243,25.103476,58.605709",
     "geom:latitude":58.485008,
     "geom:longitude":24.73149,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":809
+        "ee-mamt:okood":809,
+        "eg:gisco_id":"EE_0809",
+        "eurostat:nuts_2021_id":"0809"
     },
     "wof:country":"EE",
     "wof:created":1595451897,
-    "wof:geomhash":"e0c768edaec39ddca34a81737f7d9f4b",
+    "wof:geomhash":"7e8bee906e0bd971b6158ceb4f17e9c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522080,
+    "wof:lastmodified":1684352191,
     "wof:name":"Tori",
     "wof:parent_id":85682981,
     "wof:placetype":"county",
+    "wof:population":11821,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

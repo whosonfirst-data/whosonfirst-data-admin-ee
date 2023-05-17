@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0784",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tallinn",
+    "eurostat:nuts_2021_id":"0784",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE001",
+    "eurostat:nuts_2021_level_lau":"0784",
+    "eurostat:population":437619,
+    "eurostat:population_year":2020,
     "geom:area":0.025203,
-    "geom:area_square_m":158518333.895297,
+    "geom:area_square_m":158518333.895323,
     "geom:bbox":"24.550348,59.351801,24.926284,59.59148",
     "geom:latitude":59.424952,
     "geom:longitude":24.743613,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,14 +66,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":784
+        "ee-mamt:okood":784,
+        "eg:gisco_id":"EE_0784",
+        "eurostat:nuts_2021_id":"0784"
     },
     "wof:coterminous":[
         101748153
     ],
     "wof:country":"EE",
     "wof:created":1595451872,
-    "wof:geomhash":"2128fa23f6de9c88bb37e4c2ba6c13a1",
+    "wof:geomhash":"d000963872871f292324769371c07524",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522078,
+    "wof:lastmodified":1684352178,
     "wof:name":"Tallinn",
     "wof:parent_id":85683055,
     "wof:placetype":"county",
+    "wof:population":437619,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

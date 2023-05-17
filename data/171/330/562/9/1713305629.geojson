@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hiiumaa vald",
+    "eurostat:nuts_2021_id":"0205",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE004",
+    "eurostat:nuts_2021_level_lau":"0205",
+    "eurostat:population":9315,
+    "eurostat:population_year":2020,
     "geom:area":0.16076,
-    "geom:area_square_m":1027131160.958837,
+    "geom:area_square_m":1027131160.959184,
     "geom:bbox":"22.03889,58.686903,23.186412,59.09344",
     "geom:latitude":58.888037,
     "geom:longitude":22.636122,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":205
+        "ee-mamt:okood":205,
+        "eg:gisco_id":"EE_0205",
+        "eurostat:nuts_2021_id":"0205"
     },
     "wof:country":"EE",
     "wof:created":1595451863,
-    "wof:geomhash":"5c28269c6aaa249c0ee90812e87ae7bf",
+    "wof:geomhash":"ea3f7168e89e25a1ffaa603357e8eada",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522045,
+    "wof:lastmodified":1684352170,
     "wof:name":"Hiiumaa",
     "wof:parent_id":85682989,
     "wof:placetype":"county",
+    "wof:population":9315,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

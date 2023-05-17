@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0907",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vormsi vald",
+    "eurostat:nuts_2021_id":"0907",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE004",
+    "eurostat:nuts_2021_level_lau":"0907",
+    "eurostat:population":386,
+    "eurostat:population_year":2020,
     "geom:area":0.014838,
-    "geom:area_square_m":94488612.216018,
+    "geom:area_square_m":94488612.215987,
     "geom:bbox":"23.077873,58.937244,23.390166,59.054034",
     "geom:latitude":59.003697,
     "geom:longitude":23.244155,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":907
+        "ee-mamt:okood":907,
+        "eg:gisco_id":"EE_0907",
+        "eurostat:nuts_2021_id":"0907"
     },
     "wof:country":"EE",
     "wof:created":1595451869,
-    "wof:geomhash":"4cc10a1aa32ef4b098784ad3ca06abac",
+    "wof:geomhash":"69eaf41a8ddfd4aa91d8712c1799400c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522084,
+    "wof:lastmodified":1684352177,
     "wof:name":"Vormsi",
     "wof:parent_id":85683001,
     "wof:placetype":"county",
+    "wof:population":386,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

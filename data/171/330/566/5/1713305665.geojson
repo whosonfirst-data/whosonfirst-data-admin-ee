@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0338",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kose vald",
+    "eurostat:nuts_2021_id":"0338",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE001",
+    "eurostat:nuts_2021_level_lau":"0338",
+    "eurostat:population":7177,
+    "eurostat:population_year":2020,
     "geom:area":0.083569,
-    "geom:area_square_m":529985937.851839,
+    "geom:area_square_m":529985937.851848,
     "geom:bbox":"24.902756,58.991798,25.487231,59.254295",
     "geom:latitude":59.14394,
     "geom:longitude":25.211652,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":338
+        "ee-mamt:okood":338,
+        "eg:gisco_id":"EE_0338",
+        "eurostat:nuts_2021_id":"0338"
     },
     "wof:country":"EE",
     "wof:created":1595451876,
-    "wof:geomhash":"0d811b03f52d1a5859e91dd978b117c9",
+    "wof:geomhash":"81ba9d5d36747f85aeedc7ab7803e214",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522052,
+    "wof:lastmodified":1684352179,
     "wof:name":"Kose",
     "wof:parent_id":85683055,
     "wof:placetype":"county",
+    "wof:population":7177,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

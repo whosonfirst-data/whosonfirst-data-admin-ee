@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0834",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"T\u00fcri vald",
+    "eurostat:nuts_2021_id":"0834",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE009",
+    "eurostat:nuts_2021_level_lau":"0834",
+    "eurostat:population":10774,
+    "eurostat:population_year":2020,
     "geom:area":0.156595,
-    "geom:area_square_m":1003248778.014047,
+    "geom:area_square_m":1003248778.014107,
     "geom:bbox":"25.044545,58.606137,25.733765,59.019308",
     "geom:latitude":58.793876,
     "geom:longitude":25.36918,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":834
+        "ee-mamt:okood":834,
+        "eg:gisco_id":"EE_0834",
+        "eurostat:nuts_2021_id":"0834"
     },
     "wof:country":"EE",
     "wof:created":1595451913,
-    "wof:geomhash":"f54e683c2c3fb5cb93d155c64cc2e8d7",
+    "wof:geomhash":"054c003ae49859b20a28845ba7931d86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522080,
+    "wof:lastmodified":1684352198,
     "wof:name":"T\u00fcri",
     "wof:parent_id":85683031,
     "wof:placetype":"county",
+    "wof:population":10774,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

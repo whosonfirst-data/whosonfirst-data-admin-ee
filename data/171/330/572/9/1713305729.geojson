@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0735",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sillam\u00e4e linn",
+    "eurostat:nuts_2021_id":"0735",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE00A",
+    "eurostat:nuts_2021_level_lau":"0735",
+    "eurostat:population":12480,
+    "eurostat:population_year":2020,
     "geom:area":0.001881,
-    "geom:area_square_m":11842478.77939,
+    "geom:area_square_m":11842478.779394,
     "geom:bbox":"27.702803,59.380738,27.806803,59.423876",
     "geom:latitude":59.399122,
     "geom:longitude":27.741929,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,7 +66,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":735
+        "ee-mamt:okood":735,
+        "eg:gisco_id":"EE_0735",
+        "eurostat:nuts_2021_id":"0735"
     },
     "wof:coterminous":[
         101815211,
@@ -60,7 +76,7 @@
     ],
     "wof:country":"EE",
     "wof:created":1595451897,
-    "wof:geomhash":"37392de1680176a20f237df99324ff60",
+    "wof:geomhash":"c09dae59750c2dd66fa383d91be3af0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,10 +92,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522078,
+    "wof:lastmodified":1684352191,
     "wof:name":"Sillam\u00e4e",
     "wof:parent_id":85683059,
     "wof:placetype":"county",
+    "wof:population":12480,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

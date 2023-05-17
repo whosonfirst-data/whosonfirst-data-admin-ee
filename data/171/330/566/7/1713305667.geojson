@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0663",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rakvere linn",
+    "eurostat:nuts_2021_id":"0663",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE009",
+    "eurostat:nuts_2021_level_lau":"0663",
+    "eurostat:population":15085,
+    "eurostat:population_year":2020,
     "geom:area":0.001695,
-    "geom:area_square_m":10687933.664422,
+    "geom:area_square_m":10687933.664419,
     "geom:bbox":"26.325634,59.322488,26.397505,59.367005",
     "geom:latitude":59.345302,
     "geom:longitude":26.362904,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,7 +66,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":663
+        "ee-mamt:okood":663,
+        "eg:gisco_id":"EE_0663",
+        "eurostat:nuts_2021_id":"0663"
     },
     "wof:coterminous":[
         101839837,
@@ -60,7 +76,7 @@
     ],
     "wof:country":"EE",
     "wof:created":1595451877,
-    "wof:geomhash":"971352196e8e86bbe9d8dba0c4887cfb",
+    "wof:geomhash":"0d800903848ec2baec74b811ed4f3007",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,10 +92,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522066,
+    "wof:lastmodified":1684352180,
     "wof:name":"Rakvere",
     "wof:parent_id":85683049,
     "wof:placetype":"county",
+    "wof:population":15085,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

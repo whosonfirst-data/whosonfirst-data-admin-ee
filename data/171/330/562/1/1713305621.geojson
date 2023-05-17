@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0689",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ruhnu vald",
+    "eurostat:nuts_2021_id":"0689",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE004",
+    "eurostat:nuts_2021_level_lau":"0689",
+    "eurostat:population":131,
+    "eurostat:population_year":2020,
     "geom:area":0.001796,
-    "geom:area_square_m":11834614.777745,
+    "geom:area_square_m":11834614.777784,
     "geom:bbox":"23.20977,57.779822,23.274823,57.826324",
     "geom:latitude":57.801367,
     "geom:longitude":23.243774,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,14 +66,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":689
+        "ee-mamt:okood":689,
+        "eg:gisco_id":"EE_0689",
+        "eurostat:nuts_2021_id":"0689"
     },
     "wof:coterminous":[
         1713306221
     ],
     "wof:country":"EE",
     "wof:created":1595451853,
-    "wof:geomhash":"657f8e68ef937526ed7d77904dbb458f",
+    "wof:geomhash":"4df910cb5454aa25a7e920dbb4455332",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522068,
+    "wof:lastmodified":1684352156,
     "wof:name":"Ruhnu",
     "wof:parent_id":85682947,
     "wof:placetype":"county",
+    "wof:population":131,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

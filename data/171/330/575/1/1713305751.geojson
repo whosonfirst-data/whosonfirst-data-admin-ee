@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0651",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Raasiku vald",
+    "eurostat:nuts_2021_id":"0651",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE001",
+    "eurostat:nuts_2021_level_lau":"0651",
+    "eurostat:population":5050,
+    "eurostat:population_year":2020,
     "geom:area":0.025062,
-    "geom:area_square_m":158103313.014526,
+    "geom:area_square_m":158103313.014502,
     "geom:bbox":"24.986251,59.236889,25.308332,59.41014",
     "geom:latitude":59.324276,
     "geom:longitude":25.131925,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":651
+        "ee-mamt:okood":651,
+        "eg:gisco_id":"EE_0651",
+        "eurostat:nuts_2021_id":"0651"
     },
     "wof:country":"EE",
     "wof:created":1595451904,
-    "wof:geomhash":"a588eafef732fb231c7b203e5b9121b4",
+    "wof:geomhash":"df746e3af09f954efe680033b1984037",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522066,
+    "wof:lastmodified":1684352195,
     "wof:name":"Raasiku",
     "wof:parent_id":85683055,
     "wof:placetype":"county",
+    "wof:population":5050,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

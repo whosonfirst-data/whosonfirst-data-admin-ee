@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0432",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Luunja vald",
+    "eurostat:nuts_2021_id":"0432",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0432",
+    "eurostat:population":5002,
+    "eurostat:population_year":2020,
     "geom:area":0.020234,
-    "geom:area_square_m":131123048.204576,
+    "geom:area_square_m":131123048.204551,
     "geom:bbox":"26.768231,58.335252,27.143445,58.448253",
     "geom:latitude":58.394399,
     "geom:longitude":26.94513,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":432
+        "ee-mamt:okood":432,
+        "eg:gisco_id":"EE_0432",
+        "eurostat:nuts_2021_id":"0432"
     },
     "wof:country":"EE",
     "wof:created":1595451886,
-    "wof:geomhash":"cb2082d6babafd83b5461e059a0a03a6",
+    "wof:geomhash":"81b770d3fcb594af969b1481c34a954a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522059,
+    "wof:lastmodified":1684352183,
     "wof:name":"Luunja",
     "wof:parent_id":85682995,
     "wof:placetype":"county",
+    "wof:population":5002,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

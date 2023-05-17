@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0478",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muhu vald",
+    "eurostat:nuts_2021_id":"0478",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE004",
+    "eurostat:nuts_2021_level_lau":"0478",
+    "eurostat:population":1879,
+    "eurostat:population_year":2020,
     "geom:area":0.03211,
-    "geom:area_square_m":206863690.524304,
+    "geom:area_square_m":206863690.524332,
     "geom:bbox":"23.06641,58.484322,23.445284,58.685362",
     "geom:latitude":58.600716,
     "geom:longitude":23.247551,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":478
+        "ee-mamt:okood":478,
+        "eg:gisco_id":"EE_0478",
+        "eurostat:nuts_2021_id":"0478"
     },
     "wof:country":"EE",
     "wof:created":1595451854,
-    "wof:geomhash":"400bce609babbdb5de9cca18a49f3da1",
+    "wof:geomhash":"32b37ee7410f5090796cba9b88e9ffec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522059,
+    "wof:lastmodified":1684352157,
     "wof:name":"Muhu",
     "wof:parent_id":85682947,
     "wof:placetype":"county",
+    "wof:population":1879,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

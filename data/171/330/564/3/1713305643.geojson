@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kiili vald",
+    "eurostat:nuts_2021_id":"0304",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE001",
+    "eurostat:nuts_2021_level_lau":"0304",
+    "eurostat:population":5657,
+    "eurostat:population_year":2020,
     "geom:area":0.015889,
-    "geom:area_square_m":100338596.881093,
+    "geom:area_square_m":100338596.881115,
     "geom:bbox":"24.749357,59.23338,24.956545,59.36009",
     "geom:latitude":59.289195,
     "geom:longitude":24.849446,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":305
+        "ee-mamt:okood":305,
+        "eg:gisco_id":"EE_0304",
+        "eurostat:nuts_2021_id":"0304"
     },
     "wof:country":"EE",
     "wof:created":1595451871,
-    "wof:geomhash":"222a8fc8a5d675aa74f719642d1611d2",
+    "wof:geomhash":"2c50dd02b97e290fa47c33a08de12f59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522052,
+    "wof:lastmodified":1684352178,
     "wof:name":"Kiili",
     "wof:parent_id":85683055,
     "wof:placetype":"county",
+    "wof:population":5657,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

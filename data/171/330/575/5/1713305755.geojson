@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0184",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Haapsalu linn",
+    "eurostat:nuts_2021_id":"0184",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE004",
+    "eurostat:nuts_2021_level_lau":"0184",
+    "eurostat:population":13075,
+    "eurostat:population_year":2020,
     "geom:area":0.04231,
-    "geom:area_square_m":270466226.741347,
+    "geom:area_square_m":270466226.741297,
     "geom:bbox":"23.3107,58.750243,23.738463,58.97719",
     "geom:latitude":58.870191,
     "geom:longitude":23.58457,
@@ -54,6 +66,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -61,11 +75,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":184
+        "ee-mamt:okood":184,
+        "eg:gisco_id":"EE_0184",
+        "eurostat:nuts_2021_id":"0184"
     },
     "wof:country":"EE",
     "wof:created":1595451906,
-    "wof:geomhash":"0031cfaa41b335f132cf24ab10e193d6",
+    "wof:geomhash":"b54f7148d130e812d5403021edab8afc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +97,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502254,
+    "wof:lastmodified":1684352195,
     "wof:name":"Haapsalu",
     "wof:parent_id":85683001,
     "wof:placetype":"county",
+    "wof:population":13075,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

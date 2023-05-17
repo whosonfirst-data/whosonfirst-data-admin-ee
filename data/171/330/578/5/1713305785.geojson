@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0919",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"V\u00f5ru linn",
+    "eurostat:nuts_2021_id":"0919",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0919",
+    "eurostat:population":11727,
+    "eurostat:population_year":2020,
     "geom:area":0.002118,
-    "geom:area_square_m":13943177.916504,
+    "geom:area_square_m":13943177.916502,
     "geom:bbox":"26.962021,57.806598,27.052229,57.864566",
     "geom:latitude":57.838432,
     "geom:longitude":27.004593,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,7 +66,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":919
+        "ee-mamt:okood":919,
+        "eg:gisco_id":"EE_0919",
+        "eurostat:nuts_2021_id":"0919"
     },
     "wof:coterminous":[
         101816257,
@@ -60,7 +76,7 @@
     ],
     "wof:country":"EE",
     "wof:created":1595451916,
-    "wof:geomhash":"bfd929592b56bb33a1136bc7fc43eeb3",
+    "wof:geomhash":"78d83123abc395e0a728194e199c5dfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,10 +92,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522086,
+    "wof:lastmodified":1684352200,
     "wof:name":"V\u0151ru",
     "wof:parent_id":85682937,
     "wof:placetype":"county",
+    "wof:population":11727,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

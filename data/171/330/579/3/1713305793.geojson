@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0708",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00e4pina vald",
+    "eurostat:nuts_2021_id":"0708",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0708",
+    "eurostat:population":6268,
+    "eurostat:population_year":2020,
     "geom:area":0.090264,
-    "geom:area_square_m":589793063.723248,
+    "geom:area_square_m":589793063.723121,
     "geom:bbox":"27.110847,57.897454,27.554556,58.407992",
     "geom:latitude":58.100932,
     "geom:longitude":27.359255,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":708
+        "ee-mamt:okood":708,
+        "eg:gisco_id":"EE_0708",
+        "eurostat:nuts_2021_id":"0708"
     },
     "wof:country":"EE",
     "wof:created":1595451918,
-    "wof:geomhash":"6d161d0e5345ee236e168793a0508bfc",
+    "wof:geomhash":"fecbba276061d8d7183e7db897b06975",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522066,
+    "wof:lastmodified":1684352201,
     "wof:name":"R\u00e4pina",
     "wof:parent_id":85682955,
     "wof:placetype":"county",
+    "wof:population":6268,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

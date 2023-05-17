@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0586",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peipsi\u00e4\u00e4re vald",
+    "eurostat:nuts_2021_id":"0586",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0586",
+    "eurostat:population":5373,
+    "eurostat:population_year":2020,
     "geom:area":0.100655,
-    "geom:area_square_m":648941938.858966,
+    "geom:area_square_m":648941938.858933,
     "geom:bbox":"26.808168,58.390453,27.253335,58.770242",
     "geom:latitude":58.573946,
     "geom:longitude":27.046275,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":586
+        "ee-mamt:okood":586,
+        "eg:gisco_id":"EE_0586",
+        "eurostat:nuts_2021_id":"0586"
     },
     "wof:country":"EE",
     "wof:created":1595451881,
-    "wof:geomhash":"10926c55e9c2b76144e72a7cb373502c",
+    "wof:geomhash":"cf2367b784caadf27d55daa31945b71c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522064,
+    "wof:lastmodified":1684352181,
     "wof:name":"Peipsi\u00e4\u00e4re",
     "wof:parent_id":85682995,
     "wof:placetype":"county",
+    "wof:population":5373,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

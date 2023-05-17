@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0890",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viimsi vald",
+    "eurostat:nuts_2021_id":"0890",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE001",
+    "eurostat:nuts_2021_level_lau":"0890",
+    "eurostat:population":20553,
+    "eurostat:population_year":2020,
     "geom:area":0.011624,
-    "geom:area_square_m":72858461.458392,
+    "geom:area_square_m":72858461.458393,
     "geom:bbox":"24.474996,59.460324,25.102904,59.700126",
     "geom:latitude":59.541027,
     "geom:longitude":24.788881,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":890
+        "ee-mamt:okood":890,
+        "eg:gisco_id":"EE_0890",
+        "eurostat:nuts_2021_id":"0890"
     },
     "wof:country":"EE",
     "wof:created":1595451855,
-    "wof:geomhash":"b8ce54d87ff47007c9b51e58a113f10b",
+    "wof:geomhash":"38e6e266d4be9d2b243ca95a6b95bdc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522081,
+    "wof:lastmodified":1684352158,
     "wof:name":"Viimsi",
     "wof:parent_id":85683055,
     "wof:placetype":"county",
+    "wof:population":20553,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

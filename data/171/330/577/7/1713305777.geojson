@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viru-Nigula vald",
+    "eurostat:nuts_2021_id":"0903",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE009",
+    "eurostat:nuts_2021_level_lau":"0903",
+    "eurostat:population":5690,
+    "eurostat:population_year":2020,
     "geom:area":0.049426,
-    "geom:area_square_m":310532465.213931,
+    "geom:area_square_m":310532465.213887,
     "geom:bbox":"26.376235,59.373077,26.961148,59.554721",
     "geom:latitude":59.4625,
     "geom:longitude":26.670865,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":903
+        "ee-mamt:okood":903,
+        "eg:gisco_id":"EE_0903",
+        "eurostat:nuts_2021_id":"0903"
     },
     "wof:country":"EE",
     "wof:created":1595451914,
-    "wof:geomhash":"8b74ad4d644175b3fed60b1941cb7023",
+    "wof:geomhash":"9b74c319e017ec4d5e91387a4a4634b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522083,
+    "wof:lastmodified":1684352199,
     "wof:name":"Viru-Nigula",
     "wof:parent_id":85683049,
     "wof:placetype":"county",
+    "wof:population":5690,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

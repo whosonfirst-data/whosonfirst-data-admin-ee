@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0480",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mulgi vald",
+    "eurostat:nuts_2021_id":"0480",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0480",
+    "eurostat:population":7460,
+    "eurostat:population_year":2020,
     "geom:area":0.134208,
-    "geom:area_square_m":876251172.056338,
+    "geom:area_square_m":876251172.056408,
     "geom:bbox":"25.0146,57.95579,25.766191,58.29354",
     "geom:latitude":58.128234,
     "geom:longitude":25.424369,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":480
+        "ee-mamt:okood":480,
+        "eg:gisco_id":"EE_0480",
+        "eurostat:nuts_2021_id":"0480"
     },
     "wof:country":"EE",
     "wof:created":1595451875,
-    "wof:geomhash":"05302c2b77196a3ed87a3eb43b1852aa",
+    "wof:geomhash":"e04fc062ea3ef946ad1168890e081a19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522060,
+    "wof:lastmodified":1684352179,
     "wof:name":"Mulgi",
     "wof:parent_id":85682985,
     "wof:placetype":"county",
+    "wof:population":7460,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

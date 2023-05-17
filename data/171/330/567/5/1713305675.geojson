@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0793",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tartu linn",
+    "eurostat:nuts_2021_id":"0793",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0793",
+    "eurostat:population":96123,
+    "eurostat:population_year":2020,
     "geom:area":0.023638,
-    "geom:area_square_m":153207953.297418,
+    "geom:area_square_m":153207953.297433,
     "geom:bbox":"26.457018,58.332045,26.798015,58.459203",
     "geom:latitude":58.388051,
     "geom:longitude":26.619225,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":793
+        "ee-mamt:okood":793,
+        "eg:gisco_id":"EE_0793",
+        "eurostat:nuts_2021_id":"0793"
     },
     "wof:country":"EE",
     "wof:created":1595451879,
-    "wof:geomhash":"a94f31a4320721be08236b20b7557be7",
+    "wof:geomhash":"7ab4974df25c74f62f0e6276ebbb55da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522079,
+    "wof:lastmodified":1684352180,
     "wof:name":"Tartu",
     "wof:parent_id":85682995,
     "wof:placetype":"county",
+    "wof:population":96123,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],
