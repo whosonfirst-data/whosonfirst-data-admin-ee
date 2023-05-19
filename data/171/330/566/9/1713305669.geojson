@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0899",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viljandi vald",
+    "eurostat:nuts_2021_id":"0899",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0899",
+    "eurostat:population":13686,
+    "eurostat:population_year":2020,
     "geom:area":0.210292,
-    "geom:area_square_m":1364723032.210807,
+    "geom:area_square_m":1364723032.210705,
     "geom:bbox":"25.307952,58.069887,26.190842,58.605651",
     "geom:latitude":58.342997,
     "geom:longitude":25.777498,
@@ -51,6 +63,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -58,11 +72,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":899
+        "ee-mamt:okood":899,
+        "eg:gisco_id":"EE_0899",
+        "eurostat:nuts_2021_id":"0899"
     },
     "wof:country":"EE",
     "wof:created":1595451877,
-    "wof:geomhash":"f2c0178e46fd55702515388b92906966",
+    "wof:geomhash":"4fc2a05bfe00c3af71cde53a616b0cbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502251,
+    "wof:lastmodified":1684352180,
     "wof:name":"Viljandi",
     "wof:parent_id":85682985,
     "wof:placetype":"county",
+    "wof:population":13686,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

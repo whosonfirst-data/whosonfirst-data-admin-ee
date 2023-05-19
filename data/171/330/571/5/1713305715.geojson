@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0528",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"N\u00f5o vald",
+    "eurostat:nuts_2021_id":"0528",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0528",
+    "eurostat:population":4287,
+    "eurostat:population_year":2020,
     "geom:area":0.025858,
-    "geom:area_square_m":168241667.290776,
+    "geom:area_square_m":168241667.290708,
     "geom:bbox":"26.405198,58.14114,26.644686,58.342985",
     "geom:latitude":58.252107,
     "geom:longitude":26.512108,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":528
+        "ee-mamt:okood":528,
+        "eg:gisco_id":"EE_0528",
+        "eurostat:nuts_2021_id":"0528"
     },
     "wof:country":"EE",
     "wof:created":1595451891,
-    "wof:geomhash":"5dac88b465e2ac68c6bd8fdc777f2ead",
+    "wof:geomhash":"79b915838ef9c79967837191dc2b9cde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522062,
+    "wof:lastmodified":1684352187,
     "wof:name":"N\u0151o",
     "wof:parent_id":85682995,
     "wof:placetype":"county",
+    "wof:population":4287,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

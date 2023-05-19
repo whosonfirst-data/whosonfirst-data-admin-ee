@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0668",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rapla vald",
+    "eurostat:nuts_2021_id":"0668",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE009",
+    "eurostat:nuts_2021_level_lau":"0668",
+    "eurostat:population":13109,
+    "eurostat:population_year":2020,
     "geom:area":0.134264,
-    "geom:area_square_m":855011111.198943,
+    "geom:area_square_m":855011111.198929,
     "geom:bbox":"24.532863,58.802902,25.333962,59.164923",
     "geom:latitude":59.002216,
     "geom:longitude":24.884567,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":668
+        "ee-mamt:okood":668,
+        "eg:gisco_id":"EE_0668",
+        "eurostat:nuts_2021_id":"0668"
     },
     "wof:country":"EE",
     "wof:created":1595451890,
-    "wof:geomhash":"56698fcc233a00a55370699386dd22bb",
+    "wof:geomhash":"1794934ab958abbe7884e8fcae2b1178",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522067,
+    "wof:lastmodified":1684352186,
     "wof:name":"Rapla",
     "wof:parent_id":85683013,
     "wof:placetype":"county",
+    "wof:population":13109,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

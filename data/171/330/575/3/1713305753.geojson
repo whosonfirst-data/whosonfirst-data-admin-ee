@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0855",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valga vald",
+    "eurostat:nuts_2021_id":"0855",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0855",
+    "eurostat:population":15680,
+    "eurostat:population_year":2020,
     "geom:area":0.113122,
-    "geom:area_square_m":745803239.973327,
+    "geom:area_square_m":745803239.973224,
     "geom:bbox":"26.020427,57.572234,26.506745,58.005098",
     "geom:latitude":57.779085,
     "geom:longitude":26.27151,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":855
+        "ee-mamt:okood":855,
+        "eg:gisco_id":"EE_0855",
+        "eurostat:nuts_2021_id":"0855"
     },
     "wof:country":"EE",
     "wof:created":1595451905,
-    "wof:geomhash":"4e4a7f698393eb67dfeeda897bad0f86",
+    "wof:geomhash":"044e8ff421a6f24d29676e38e16de61f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522081,
+    "wof:lastmodified":1684352195,
     "wof:name":"Valga",
     "wof:parent_id":85682941,
     "wof:placetype":"county",
+    "wof:population":15680,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

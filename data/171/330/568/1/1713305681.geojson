@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0198",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Harku vald",
+    "eurostat:nuts_2021_id":"0198",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE001",
+    "eurostat:nuts_2021_level_lau":"0198",
+    "eurostat:population":15197,
+    "eurostat:population_year":2020,
     "geom:area":0.025131,
-    "geom:area_square_m":158169938.717596,
+    "geom:area_square_m":158169938.717618,
     "geom:bbox":"24.297119,59.307855,24.627006,59.475048",
     "geom:latitude":59.403524,
     "geom:longitude":24.442371,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":198
+        "ee-mamt:okood":198,
+        "eg:gisco_id":"EE_0198",
+        "eurostat:nuts_2021_id":"0198"
     },
     "wof:country":"EE",
     "wof:created":1595451881,
-    "wof:geomhash":"24a9e25c5e6647f787cf885f3e1b31e7",
+    "wof:geomhash":"f9519f8d1518a0aa5d382187f7abec06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522044,
+    "wof:lastmodified":1684352182,
     "wof:name":"Harku",
     "wof:parent_id":85683055,
     "wof:placetype":"county",
+    "wof:population":15197,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

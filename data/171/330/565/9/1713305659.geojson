@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0796",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tartu vald",
+    "eurostat:nuts_2021_id":"0796",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0796",
+    "eurostat:population":11162,
+    "eurostat:population_year":2020,
     "geom:area":0.114289,
-    "geom:area_square_m":738357531.078187,
+    "geom:area_square_m":738357531.078301,
     "geom:bbox":"26.144928,58.359821,27.533611,58.64886",
     "geom:latitude":58.501781,
     "geom:longitude":26.606369,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":796
+        "ee-mamt:okood":796,
+        "eg:gisco_id":"EE_0796",
+        "eurostat:nuts_2021_id":"0796"
     },
     "wof:country":"EE",
     "wof:created":1595451875,
-    "wof:geomhash":"2ffb31413b84b163e79c3c194d0bb487",
+    "wof:geomhash":"b85c9956271779d1500f26a4cf1d97f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522079,
+    "wof:lastmodified":1684352179,
     "wof:name":"Tartu",
     "wof:parent_id":85683009,
     "wof:placetype":"county",
+    "wof:population":11162,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

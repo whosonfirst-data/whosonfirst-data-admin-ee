@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0661",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rakvere vald",
+    "eurostat:nuts_2021_id":"0661",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE009",
+    "eurostat:nuts_2021_level_lau":"0661",
+    "eurostat:population":5593,
+    "eurostat:population_year":2020,
     "geom:area":0.046514,
-    "geom:area_square_m":293081533.251332,
+    "geom:area_square_m":293081533.251349,
     "geom:bbox":"26.17196,59.237726,26.661263,59.473686",
     "geom:latitude":59.364975,
     "geom:longitude":26.403716,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":661
+        "ee-mamt:okood":661,
+        "eg:gisco_id":"EE_0661",
+        "eurostat:nuts_2021_id":"0661"
     },
     "wof:country":"EE",
     "wof:created":1595451892,
-    "wof:geomhash":"6359ec84d4cdab6866c4d53813cd8990",
+    "wof:geomhash":"e68ba775d92a26d764872a7047017ce4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522066,
+    "wof:lastmodified":1684352187,
     "wof:name":"Rakvere",
     "wof:parent_id":85683049,
     "wof:placetype":"county",
+    "wof:population":5593,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kihnu vald",
+    "eurostat:nuts_2021_id":"0303",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE004",
+    "eurostat:nuts_2021_level_lau":"0303",
+    "eurostat:population":690,
+    "eurostat:population_year":2020,
     "geom:area":0.00264,
-    "geom:area_square_m":17238884.617375,
+    "geom:area_square_m":17238884.61736,
     "geom:bbox":"23.889539,58.091555,24.045762,58.200917",
     "geom:latitude":58.129119,
     "geom:longitude":23.984808,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":303
+        "ee-mamt:okood":303,
+        "eg:gisco_id":"EE_0303",
+        "eurostat:nuts_2021_id":"0303"
     },
     "wof:country":"EE",
     "wof:created":1595451869,
-    "wof:geomhash":"f5313e4238c12a83ac3b6b1cf8352301",
+    "wof:geomhash":"1ee19c16993883c79ac4a733fad363be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522051,
+    "wof:lastmodified":1684352176,
     "wof:name":"Kihnu",
     "wof:parent_id":85682981,
     "wof:placetype":"county",
+    "wof:population":690,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

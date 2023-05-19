@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alutaguse vald",
+    "eurostat:nuts_2021_id":"0130",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE00A",
+    "eurostat:nuts_2021_level_lau":"0130",
+    "eurostat:population":4680,
+    "eurostat:population_year":2020,
     "geom:area":0.228751,
-    "geom:area_square_m":1450971915.167466,
+    "geom:area_square_m":1450971915.16733,
     "geom:bbox":"26.807272,58.972242,27.899938,59.329307",
     "geom:latitude":59.137869,
     "geom:longitude":27.383909,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":130
+        "ee-mamt:okood":130,
+        "eg:gisco_id":"EE_0130",
+        "eurostat:nuts_2021_id":"0130"
     },
     "wof:country":"EE",
     "wof:created":1595451884,
-    "wof:geomhash":"20a4703bddb473f6c762869aa3c294a6",
+    "wof:geomhash":"5b3c296c898c5c2475ddf28167960840",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522038,
+    "wof:lastmodified":1684352183,
     "wof:name":"Alutaguse",
     "wof:parent_id":85683059,
     "wof:placetype":"county",
+    "wof:population":4680,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

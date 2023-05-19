@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0353",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kuusalu vald",
+    "eurostat:nuts_2021_id":"0353",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE001",
+    "eurostat:nuts_2021_level_lau":"0353",
+    "eurostat:population":6413,
+    "eurostat:population_year":2020,
     "geom:area":0.112301,
-    "geom:area_square_m":705630929.32985,
+    "geom:area_square_m":705630929.329887,
     "geom:bbox":"25.237754,59.271306,25.955117,59.68571",
     "geom:latitude":59.459355,
     "geom:longitude":25.648302,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":353
+        "ee-mamt:okood":353,
+        "eg:gisco_id":"EE_0353",
+        "eurostat:nuts_2021_id":"0353"
     },
     "wof:country":"EE",
     "wof:created":1595451896,
-    "wof:geomhash":"a1ac20f21d8ee9473a0d7d374c3114fa",
+    "wof:geomhash":"d09f4b31b135011de2c90d053a34fa2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522052,
+    "wof:lastmodified":1684352190,
     "wof:name":"Kuusalu",
     "wof:parent_id":85683055,
     "wof:placetype":"county",
+    "wof:population":6413,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

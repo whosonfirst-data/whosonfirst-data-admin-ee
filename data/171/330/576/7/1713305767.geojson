@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0247",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"J\u00f5geva vald",
+    "eurostat:nuts_2021_id":"0247",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0247",
+    "eurostat:population":13407,
+    "eurostat:population_year":2020,
     "geom:area":0.161389,
-    "geom:area_square_m":1034347028.924303,
+    "geom:area_square_m":1034347028.924351,
     "geom:bbox":"26.116411,58.582287,26.867449,58.968901",
     "geom:latitude":58.780845,
     "geom:longitude":26.497346,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":247
+        "ee-mamt:okood":247,
+        "eg:gisco_id":"EE_0247",
+        "eurostat:nuts_2021_id":"0247"
     },
     "wof:country":"EE",
     "wof:created":1595451911,
-    "wof:geomhash":"73f60d0d7d400003a0638b86d1f9261e",
+    "wof:geomhash":"f694f116a5ba2f884347b018278bae16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522050,
+    "wof:lastmodified":1684352197,
     "wof:name":"J\u0151geva",
     "wof:parent_id":85683009,
     "wof:placetype":"county",
+    "wof:population":13407,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

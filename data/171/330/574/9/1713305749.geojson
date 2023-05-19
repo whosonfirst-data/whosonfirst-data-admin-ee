@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Anija vald",
+    "eurostat:nuts_2021_id":"0141",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE001",
+    "eurostat:nuts_2021_level_lau":"0141",
+    "eurostat:population":6217,
+    "eurostat:population_year":2020,
     "geom:area":0.083998,
-    "geom:area_square_m":530118982.799833,
+    "geom:area_square_m":530118982.799787,
     "geom:bbox":"25.167603,59.142849,25.79577,59.410056",
     "geom:latitude":59.310035,
     "geom:longitude":25.459476,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":141
+        "ee-mamt:okood":141,
+        "eg:gisco_id":"EE_0141",
+        "eurostat:nuts_2021_id":"0141"
     },
     "wof:country":"EE",
     "wof:created":1595451903,
-    "wof:geomhash":"5bdf736a36b7649bfc113b2ff6305e2f",
+    "wof:geomhash":"9f2847166a04bed5ca7d1012ded1f18a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522038,
+    "wof:lastmodified":1684352194,
     "wof:name":"Anija",
     "wof:parent_id":85683055,
     "wof:placetype":"county",
+    "wof:population":6217,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

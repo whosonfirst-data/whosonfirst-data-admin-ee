@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0296",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Keila linn",
+    "eurostat:nuts_2021_id":"0296",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE001",
+    "eurostat:nuts_2021_level_lau":"0296",
+    "eurostat:population":10044,
+    "eurostat:population_year":2020,
     "geom:area":0.001769,
-    "geom:area_square_m":11163843.976199,
+    "geom:area_square_m":11163843.976191,
     "geom:bbox":"24.330777,59.296132,24.442213,59.326641",
     "geom:latitude":59.311821,
     "geom:longitude":24.39322,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,7 +66,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":296
+        "ee-mamt:okood":296,
+        "eg:gisco_id":"EE_0296",
+        "eurostat:nuts_2021_id":"0296"
     },
     "wof:coterminous":[
         101815187,
@@ -60,7 +76,7 @@
     ],
     "wof:country":"EE",
     "wof:created":1595451902,
-    "wof:geomhash":"e33282223a9b64621f7081e0545ad58c",
+    "wof:geomhash":"ed205bcb2e67423eda637837c43d0783",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,10 +92,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522051,
+    "wof:lastmodified":1684352194,
     "wof:name":"Keila",
     "wof:parent_id":85683055,
     "wof:placetype":"county",
+    "wof:population":10044,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

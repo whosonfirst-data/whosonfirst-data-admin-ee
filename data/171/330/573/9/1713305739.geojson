@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0726",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saue vald",
+    "eurostat:nuts_2021_id":"0726",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE001",
+    "eurostat:nuts_2021_level_lau":"0726",
+    "eurostat:population":22929,
+    "eurostat:population_year":2020,
     "geom:area":0.098553,
-    "geom:area_square_m":624284601.401603,
+    "geom:area_square_m":624284601.401763,
     "geom:bbox":"24.074873,59.008039,24.664899,59.412909",
     "geom:latitude":59.183711,
     "geom:longitude":24.388174,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":726
+        "ee-mamt:okood":726,
+        "eg:gisco_id":"EE_0726",
+        "eurostat:nuts_2021_id":"0726"
     },
     "wof:country":"EE",
     "wof:created":1595451900,
-    "wof:geomhash":"f97ebf5ede770db10f6523b63eb9d155",
+    "wof:geomhash":"0e49d372bede1f337d8ae4561786255f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522077,
+    "wof:lastmodified":1684352193,
     "wof:name":"Saue",
     "wof:parent_id":85683055,
     "wof:placetype":"county",
+    "wof:population":22929,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

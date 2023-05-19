@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0917",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"V\u00f5ru vald",
+    "eurostat:nuts_2021_id":"0917",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0917",
+    "eurostat:population":10804,
+    "eurostat:population_year":2020,
     "geom:area":0.143929,
-    "geom:area_square_m":947403880.240523,
+    "geom:area_square_m":947403880.240569,
     "geom:bbox":"26.628704,57.657535,27.571697,57.961843",
     "geom:latitude":57.836433,
     "geom:longitude":27.12647,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":917
+        "ee-mamt:okood":917,
+        "eg:gisco_id":"EE_0917",
+        "eurostat:nuts_2021_id":"0917"
     },
     "wof:country":"EE",
     "wof:created":1595451868,
-    "wof:geomhash":"0738854b1a64b132917132212a4c44a7",
+    "wof:geomhash":"6d4090094eca6ce9aabdea88c86ea141",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522085,
+    "wof:lastmodified":1684352176,
     "wof:name":"V\u0151ru",
     "wof:parent_id":85682937,
     "wof:placetype":"county",
+    "wof:population":10804,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

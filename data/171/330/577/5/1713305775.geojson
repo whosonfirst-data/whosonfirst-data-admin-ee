@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0191",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Haljala vald",
+    "eurostat:nuts_2021_id":"0191",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE009",
+    "eurostat:nuts_2021_level_lau":"0191",
+    "eurostat:population":4312,
+    "eurostat:population_year":2020,
     "geom:area":0.087039,
-    "geom:area_square_m":546085074.35531,
+    "geom:area_square_m":546085074.355395,
     "geom:bbox":"25.794077,59.383595,26.538149,59.822014",
     "geom:latitude":59.509535,
     "geom:longitude":26.138909,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":191
+        "ee-mamt:okood":191,
+        "eg:gisco_id":"EE_0191",
+        "eurostat:nuts_2021_id":"0191"
     },
     "wof:country":"EE",
     "wof:created":1595451913,
-    "wof:geomhash":"ac48de9d6b3283a79757b4b54dba56e4",
+    "wof:geomhash":"8eba562d85ac72585b82674359392550",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522043,
+    "wof:lastmodified":1684352198,
     "wof:name":"Haljala",
     "wof:parent_id":85683049,
     "wof:placetype":"county",
+    "wof:population":4312,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

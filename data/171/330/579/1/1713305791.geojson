@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0622",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"P\u00f5lva vald",
+    "eurostat:nuts_2021_id":"0622",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE008",
+    "eurostat:nuts_2021_level_lau":"0622",
+    "eurostat:population":13717,
+    "eurostat:population_year":2020,
     "geom:area":0.107514,
-    "geom:area_square_m":702326236.068157,
+    "geom:area_square_m":702326236.068156,
     "geom:bbox":"26.817386,57.906397,27.334452,58.268325",
     "geom:latitude":58.109852,
     "geom:longitude":27.084425,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":622
+        "ee-mamt:okood":622,
+        "eg:gisco_id":"EE_0622",
+        "eurostat:nuts_2021_id":"0622"
     },
     "wof:country":"EE",
     "wof:created":1595451918,
-    "wof:geomhash":"5960e9fbe53014873151ef0263b6dac5",
+    "wof:geomhash":"6b8d2e5c722e6b56ee7c8c0383d85a54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522066,
+    "wof:lastmodified":1684352201,
     "wof:name":"P\u0151lva",
     "wof:parent_id":85682955,
     "wof:placetype":"county",
+    "wof:population":13717,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

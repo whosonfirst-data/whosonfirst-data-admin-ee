@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0928",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"V\u00e4ike-Maarja vald",
+    "eurostat:nuts_2021_id":"0928",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE009",
+    "eurostat:nuts_2021_level_lau":"0928",
+    "eurostat:population":5782,
+    "eurostat:population_year":2020,
     "geom:area":0.106712,
-    "geom:area_square_m":678891476.07515,
+    "geom:area_square_m":678891476.075151,
     "geom:bbox":"26.016837,58.876927,26.61159,59.209443",
     "geom:latitude":59.035814,
     "geom:longitude":26.307245,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":928
+        "ee-mamt:okood":928,
+        "eg:gisco_id":"EE_0928",
+        "eurostat:nuts_2021_id":"0928"
     },
     "wof:country":"EE",
     "wof:created":1595451912,
-    "wof:geomhash":"c93c9275f25ca3e6a188f2b746baca7d",
+    "wof:geomhash":"676d46eb2b04ef9177c564cbd1dea2e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522080,
+    "wof:lastmodified":1684352198,
     "wof:name":"V\u00e4ike-Maarja",
     "wof:parent_id":85683049,
     "wof:placetype":"county",
+    "wof:population":5782,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

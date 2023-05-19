@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0624",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"P\u00e4rnu linn",
+    "eurostat:nuts_2021_id":"0624",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE004",
+    "eurostat:nuts_2021_level_lau":"0624",
+    "eurostat:population":50914,
+    "eurostat:population_year":2020,
     "geom:area":0.131705,
-    "geom:area_square_m":853603665.705137,
+    "geom:area_square_m":853603665.705168,
     "geom:bbox":"23.853496,58.172527,24.987533,58.524975",
     "geom:latitude":58.389039,
     "geom:longitude":24.296111,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":624
+        "ee-mamt:okood":624,
+        "eg:gisco_id":"EE_0624",
+        "eurostat:nuts_2021_id":"0624"
     },
     "wof:country":"EE",
     "wof:created":1595451888,
-    "wof:geomhash":"7c337a7072ba20424833128807c5894b",
+    "wof:geomhash":"63a7b56696149a73fd0708f7af40acdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522063,
+    "wof:lastmodified":1684352185,
     "wof:name":"P\u00e4rnu",
     "wof:parent_id":85682981,
     "wof:placetype":"county",
+    "wof:population":50914,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

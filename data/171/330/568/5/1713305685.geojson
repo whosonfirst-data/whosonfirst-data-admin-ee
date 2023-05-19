@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0718",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saku vald",
+    "eurostat:nuts_2021_id":"0718",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE001",
+    "eurostat:nuts_2021_level_lau":"0718",
+    "eurostat:population":10435,
+    "eurostat:population_year":2020,
     "geom:area":0.026763,
-    "geom:area_square_m":169039542.167185,
+    "geom:area_square_m":169039542.167186,
     "geom:bbox":"24.522075,59.196491,24.91091,59.364895",
     "geom:latitude":59.283249,
     "geom:longitude":24.698549,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -52,11 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":719
+        "ee-mamt:okood":719,
+        "eg:gisco_id":"EE_0718",
+        "eurostat:nuts_2021_id":"0718"
     },
     "wof:country":"EE",
     "wof:created":1595451882,
-    "wof:geomhash":"3b385313fd701db26c6c76ab87aaa327",
+    "wof:geomhash":"49716ad148af3d93eb626493ece451d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1627522077,
+    "wof:lastmodified":1684352182,
     "wof:name":"Saku",
     "wof:parent_id":85683055,
     "wof:placetype":"county",
+    "wof:population":10435,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],

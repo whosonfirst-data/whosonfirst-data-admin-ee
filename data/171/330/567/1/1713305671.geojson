@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EE",
+    "eurostat:gisco_id":"EE_0511",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Narva linn",
+    "eurostat:nuts_2021_id":"0511",
+    "eurostat:nuts_2021_level_0":"EE",
+    "eurostat:nuts_2021_level_1":"EE0",
+    "eurostat:nuts_2021_level_2":"EE00",
+    "eurostat:nuts_2021_level_3":"EE00A",
+    "eurostat:nuts_2021_level_lau":"0511",
+    "eurostat:population":54409,
+    "eurostat:population_year":2020,
     "geom:area":0.010843,
-    "geom:area_square_m":68343650.234762,
+    "geom:area_square_m":68343650.234714,
     "geom:bbox":"28.011294,59.295309,28.208962,59.443861",
     "geom:latitude":59.354339,
     "geom:longitude":28.108829,
@@ -60,6 +72,8 @@
     ],
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633135,
@@ -67,7 +81,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":511
+        "ee-mamt:okood":511,
+        "eg:gisco_id":"EE_0511",
+        "eurostat:nuts_2021_id":"0511"
     },
     "wof:coterminous":[
         101748155,
@@ -75,7 +91,7 @@
     ],
     "wof:country":"EE",
     "wof:created":1595451878,
-    "wof:geomhash":"8bb652e7b3c25d1a156249e012a0aa23",
+    "wof:geomhash":"0aa6f515388918bcc536bf70d8f7022d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +107,12 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502251,
+    "wof:lastmodified":1684352180,
     "wof:name":"Narva",
     "wof:parent_id":85683059,
     "wof:placetype":"county",
+    "wof:population":54409,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
     "wof:supersedes":[],
