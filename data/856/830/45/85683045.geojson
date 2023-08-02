@@ -28,8 +28,14 @@
     "name:aze_x_preferred":[
         "H\u0430ryum\u0430\u0430"
     ],
+    "name:aze_x_variant":[
+        "Haryumaa"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u0432\u0435\u0442 \u0425\u0430\u0440'\u044e"
+    ],
+    "name:bel_x_variant":[
+        "\u0425\u0430\u0440\u2019\u044e\u043c\u0430\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09b0\u09cd\u099c\u09c1 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
@@ -54,6 +60,9 @@
     ],
     "name:cor_x_preferred":[
         "Konteth Harju"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Harju"
     ],
     "name:dan_x_preferred":[
         "Harjumaa"
@@ -178,6 +187,9 @@
     "name:oci_x_preferred":[
         "Comtat de Harju"
     ],
+    "name:oss_x_preferred":[
+        "\u0425\u0430\u0440\u044c\u044e\u043c\u0430\u0430"
+    ],
     "name:pol_x_preferred":[
         "Harjumaa"
     ],
@@ -244,8 +256,14 @@
     "name:vro_x_preferred":[
         "Harjo maakund"
     ],
+    "name:wuu_x_preferred":[
+        "\u54c8\u5c14\u5c24\u53bf"
+    ],
     "name:zho_x_preferred":[
         "\u54c8\u7559\u7e23"
+    ],
+    "name:zho_x_variant":[
+        "\u54c8\u723e\u5c24\u7e23"
     ],
     "qs:a0":"Estonia",
     "qs:a0_lc":"EE000000",
@@ -284,7 +302,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1594861507,
+    "wof:lastmodified":1690875676,
     "wof:name":"Harjumaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

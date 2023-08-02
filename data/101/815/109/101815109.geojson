@@ -25,6 +25,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0628\u0633\u0627\u0644\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0647\u0627\u0628\u0633\u0627\u0644\u0648"
+    ],
     "name:aze_x_preferred":[
         "Haapsalu"
     ],
@@ -70,6 +76,9 @@
     "name:ell_x_preferred":[
         "\u03a7\u03b1\u03b1\u03c0\u03c3\u03b1\u03bb\u03bf\u03cd"
     ],
+    "name:ell_x_variant":[
+        "\u03a7\u03ac\u03b1\u03c0\u03c3\u03b1\u03bb\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Haapsalu"
     ],
@@ -86,6 +95,12 @@
         "Haapsalu"
     ],
     "name:fra_x_preferred":[
+        "Haapsalu"
+    ],
+    "name:frr_x_preferred":[
+        "Haapsalu"
+    ],
+    "name:gle_x_preferred":[
         "Haapsalu"
     ],
     "name:glg_x_preferred":[
@@ -136,6 +151,9 @@
     "name:lit_x_variant":[
         "Haapsalu"
     ],
+    "name:mdf_x_preferred":[
+        "\u0413\u0430\u0430\u043f\u0441\u0430\u043b\u0443"
+    ],
     "name:mhr_x_preferred":[
         "\u0425\u0430\u0430\u043f\u0441\u0430\u043b\u0443"
     ],
@@ -159,6 +177,9 @@
     ],
     "name:nor_x_preferred":[
         "Haapsalu"
+    ],
+    "name:oss_x_preferred":[
+        "\u0425\u0430\u0430\u043f\u0441\u0430\u043b\u0443"
     ],
     "name:pol_x_preferred":[
         "Haapsalu"
@@ -211,6 +232,9 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0430\u043f\u0441\u0430\u043b\u0443"
     ],
+    "name:ukr_x_variant":[
+        "\u0413\u0430\u0430\u043f\u0441\u0430\u043b\u0443"
+    ],
     "name:und_x_variant":[
         "Gapsal'",
         "Gaapsalu",
@@ -231,8 +255,17 @@
     "name:vol_x_preferred":[
         "Haapsalu"
     ],
+    "name:vro_x_preferred":[
+        "Haapsalu"
+    ],
+    "name:wuu_x_preferred":[
+        "\u54c8\u666e\u6c99\u5362"
+    ],
     "name:zho_x_preferred":[
         "\u54c8\u666e\u6c99\u76e7"
+    ],
+    "name:zho_x_variant":[
+        "\u54c8\u666e\u8428\u5362"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Estonia",
@@ -410,7 +443,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502243,
+    "wof:lastmodified":1690875699,
     "wof:name":"Haapsalu",
     "wof:parent_id":1713308457,
     "wof:placetype":"locality",

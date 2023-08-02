@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Lange"
+    ],
     "name:eng_x_preferred":[
         "Lange"
     ],
@@ -31,8 +34,14 @@
     "name:fra_x_preferred":[
         "Lange"
     ],
+    "name:hun_x_preferred":[
+        "Lange"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0561\u0576\u0563\u0565"
+    ],
+    "name:nan_x_preferred":[
+        "Lange"
     ],
     "name:nld_x_preferred":[
         "Lange"
@@ -42,6 +51,9 @@
     ],
     "name:spa_x_preferred":[
         "Lange"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430\u043d\u0433\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043d\u0491\u0435"
@@ -118,7 +130,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660667,
+    "wof:lastmodified":1690875848,
     "wof:name":"Lange",
     "wof:parent_id":1713312431,
     "wof:placetype":"locality",

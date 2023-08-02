@@ -55,14 +55,23 @@
     "name:als_x_preferred":[
         "Estland"
     ],
+    "name:alt_x_preferred":[
+        "\u042d\u0441\u0442\u043e\u043d\u0438\u044f"
+    ],
     "name:amh_x_preferred":[
         "\u12a4\u1235\u1276\u1292\u12eb"
+    ],
+    "name:ami_x_preferred":[
+        "Estonia"
     ],
     "name:ang_x_preferred":[
         "Estland"
     ],
     "name:ang_x_variant":[
         "\u0112astland"
+    ],
+    "name:anp_x_preferred":[
+        "\u090f\u0938\u094d\u091f\u094b\u0928\u093f\u092f\u093e"
     ],
     "name:ara_x_preferred":[
         "\u0625\u0633\u062a\u0648\u0646\u064a\u0627"
@@ -82,6 +91,9 @@
     "name:ary_x_preferred":[
         "\u0625\u0633\u062a\u0648\u0646\u064a\u0627"
     ],
+    "name:ary_x_variant":[
+        "\u0625\u0633\u0637\u0648\u0646\u064a\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0633\u062a\u0648\u0646\u064a\u0627"
     ],
@@ -90,6 +102,15 @@
     ],
     "name:ava_x_preferred":[
         "\u042d\u0441\u0442\u043e\u043d\u0438\u044f"
+    ],
+    "name:avk_x_preferred":[
+        "Eestia"
+    ],
+    "name:awa_x_preferred":[
+        "\u090f\u0938\u094d\u091f\u094b\u0928\u093f\u092f\u093e"
+    ],
+    "name:aym_x_preferred":[
+        "Istu\u00f1a"
     ],
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0633\u062a\u0648\u0646\u06cc"
@@ -208,6 +229,9 @@
     "name:cym_x_preferred":[
         "Estonia"
     ],
+    "name:dag_x_preferred":[
+        "Estonia"
+    ],
     "name:dan_x_preferred":[
         "Estland"
     ],
@@ -222,6 +246,9 @@
     ],
     "name:deu_x_variant":[
         "Republik Estland"
+    ],
+    "name:din_x_preferred":[
+        "Estonia"
     ],
     "name:diq_x_preferred":[
         "Estonya"
@@ -353,6 +380,9 @@
     "name:got_x_preferred":[
         "\ud800\udf30\ud800\udf39\ud800\udf43\ud800\udf44\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
     ],
+    "name:gpe_x_preferred":[
+        "Estonia"
+    ],
     "name:grn_x_preferred":[
         "Et\u00f3\u00f1a"
     ],
@@ -419,6 +449,9 @@
     "name:ido_x_preferred":[
         "Estonia"
     ],
+    "name:iku_x_preferred":[
+        "\u1403\u1505\u1451\u14c2\u140a"
+    ],
     "name:ile_x_preferred":[
         "Estonia"
     ],
@@ -430,6 +463,9 @@
     ],
     "name:ind_x_preferred":[
         "Estonia"
+    ],
+    "name:inh_x_preferred":[
+        "\u042d\u0441\u0442\u0438\u0447\u0435"
     ],
     "name:isl_x_preferred":[
         "Eistland"
@@ -566,6 +602,9 @@
     "name:liv_x_preferred":[
         "\u0112stim\u014d"
     ],
+    "name:lld_x_preferred":[
+        "Estonia"
+    ],
     "name:lmo_x_preferred":[
         "Estonia"
     ],
@@ -593,6 +632,9 @@
     "name:lzh_x_preferred":[
         "\u611b\u6c99\u5c3c\u4e9e"
     ],
+    "name:mad_x_preferred":[
+        "Estonia"
+    ],
     "name:mai_x_preferred":[
         "\u0907\u0938\u094d\u091f\u094b\u0928\u093f\u092f\u093e"
     ],
@@ -611,6 +653,9 @@
     "name:mhr_x_preferred":[
         "\u042d\u0441\u0442\u043e\u043d\u0438\u0439"
     ],
+    "name:min_x_preferred":[
+        "Estonia"
+    ],
     "name:mkd_x_preferred":[
         "\u0415\u0441\u0442\u043e\u043d\u0438\u0458\u0430"
     ],
@@ -619,6 +664,9 @@
     ],
     "name:mlt_x_preferred":[
         "Estonja"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd1\uabe6\uabc1\uabed\uabc7\uabe3\uabc5\uabe4\uabcc\uabe5"
     ],
     "name:mon_x_preferred":[
         "\u042d\u0441\u0442\u043e\u043d"
@@ -698,8 +746,14 @@
     "name:nov_x_preferred":[
         "Estonia"
     ],
+    "name:nqo_x_preferred":[
+        "\u07cc\u07db\u07d1\u07d5\u07cf\u07e3\u07cc\u07eb"
+    ],
     "name:nrm_x_preferred":[
         "Estonnie"
+    ],
+    "name:nso_x_preferred":[
+        "Estonia"
     ],
     "name:nya_x_preferred":[
         "Estonia"
@@ -815,6 +869,9 @@
     "name:san_x_preferred":[
         "\u090f\u0938\u094d\u091f\u094b\u0928\u093f\u092f\u093e"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6e\u1c65\u1c5b\u1c73\u1c71\u1c64\u1c6d\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Estonia"
     ],
@@ -826,6 +883,12 @@
     ],
     "name:sgs_x_preferred":[
         "Est\u0117j\u0117"
+    ],
+    "name:shi_x_preferred":[
+        "I\u1e63\u1e6duniya"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1022\u1084\u1087\u101e\u1010\u1030\u101d\u103a\u1038\u107c\u102e\u1038\u101a\u1083\u1038"
     ],
     "name:sin_x_preferred":[
         "\u0d91\u0dc3\u0dca\u0da7\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0"
@@ -849,8 +912,17 @@
     "name:sme_x_variant":[
         "Estl\u00e1nda"
     ],
+    "name:smj_x_preferred":[
+        "Estl\u00e1nnda"
+    ],
+    "name:smn_x_preferred":[
+        "Eesti"
+    ],
     "name:smo_x_preferred":[
         "Esitonia"
+    ],
+    "name:sms_x_preferred":[
+        "Eestij\u00e2nnam"
     ],
     "name:sna_x_preferred":[
         "Estonia"
@@ -934,6 +1006,9 @@
         "Estonia",
         "\u00c9stonia"
     ],
+    "name:tay_x_preferred":[
+        "Estonia"
+    ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c38\u0c4d\u0c1f\u0c4b\u0c28\u0c3f\u0c2f\u0c3e"
     ],
@@ -955,10 +1030,19 @@
     "name:tir_x_preferred":[
         "\u12a4\u1235\u1276\u1292\u12eb"
     ],
+    "name:tok_x_preferred":[
+        "ma Esi"
+    ],
     "name:ton_x_preferred":[
         "\u02bbEsit\u014dnia"
     ],
+    "name:ton_x_variant":[
+        "'Esitonia"
+    ],
     "name:tpi_x_preferred":[
+        "Estonia"
+    ],
+    "name:trv_x_preferred":[
         "Estonia"
     ],
     "name:tso_x_preferred":[
@@ -1005,6 +1089,9 @@
     ],
     "name:vec_x_preferred":[
         "Estonia"
+    ],
+    "name:vec_x_variant":[
+        "Est\u00f2nia"
     ],
     "name:ven_x_preferred":[
         "Estonia"
@@ -1311,7 +1398,7 @@
         "quattroshapes",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"71a53b20ce6c707a4d4f0a2e0eaf8ada",
+    "wof:geomhash":"05037d5822c6609bcd5fde0c62756cfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1325,7 +1412,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684351397,
+    "wof:lastmodified":1690875672,
     "wof:name":"Estonia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

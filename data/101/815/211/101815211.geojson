@@ -23,6 +23,12 @@
     "name:afr_x_preferred":[
         "Sillam\u00e4e"
     ],
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0644\u0627\u0645\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0644\u0627\u0645\u0627"
+    ],
     "name:aze_x_preferred":[
         "Sill\u0430myae"
     ],
@@ -35,6 +41,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0421\u0438\u043b\u0430\u043c\u044f\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Sillam\u00e4e"
     ],
     "name:ceb_x_preferred":[
         "Sillam\u00e4e"
@@ -71,6 +80,9 @@
     ],
     "name:fra_x_preferred":[
         "Commune de Sillam\u00e4e"
+    ],
+    "name:fra_x_variant":[
+        "Sillam\u00e4e"
     ],
     "name:hrv_x_preferred":[
         "Sillam\u00e4e"
@@ -111,6 +123,12 @@
     "name:lit_x_variant":[
         "Silamej\u0117"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0438\u043b\u043b\u0430\u043c\u044f\u044d"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0421\u0438\u043b\u043b\u0430\u043c\u044f\u044d"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0438\u043b\u0430\u043c\u0430\u0435"
     ],
@@ -125,6 +143,9 @@
     ],
     "name:nob_x_preferred":[
         "Sillam\u00e4e"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0438\u043b\u043b\u0430\u043c\u044f\u044d"
     ],
     "name:pol_x_preferred":[
         "Sillam\u00e4e"
@@ -153,6 +174,9 @@
     "name:swe_x_preferred":[
         "Sillam\u00e4e"
     ],
+    "name:szl_x_preferred":[
+        "Sillam\u00e4e"
+    ],
     "name:tat_x_preferred":[
         "\u0421\u0438\u043b\u043b\u0430\u043c\u04d9\u0435"
     ],
@@ -177,6 +201,9 @@
         "Sillam\u00e4e"
     ],
     "name:vol_x_preferred":[
+        "Sillam\u00e4e"
+    ],
+    "name:vro_x_preferred":[
         "Sillam\u00e4e"
     ],
     "name:zho_x_preferred":[
@@ -207,11 +234,11 @@
     "wd:population":13964,
     "wd:wordcount":1246,
     "wof:belongsto":[
+        85683059,
         102191581,
-        85633135,
-        1713305729,
         1713314929,
-        85683059
+        85633135,
+        1713305729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -249,7 +276,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1607983948,
+    "wof:lastmodified":1690875692,
     "wof:name":"Sillam\u00e4e",
     "wof:parent_id":1713314929,
     "wof:placetype":"locality",

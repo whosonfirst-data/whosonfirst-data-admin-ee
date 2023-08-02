@@ -39,6 +39,9 @@
     "name:fra_x_preferred":[
         "ch\u00e2teau de Catharinenthal"
     ],
+    "name:fra_x_variant":[
+        "Kadriorg"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d0\u05d3\u05e8\u05d9\u05d5\u05e8\u05d2"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0434\u0440\u0438\u043e\u0440\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Kadriorg"
     ],
     "name:swe_x_preferred":[
         "Kadriorg"
@@ -93,13 +99,13 @@
     "woe:name_adm1":"Harjumaa",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85683055,
         102191581,
         1713305847,
         85633135,
         101748153,
         1713348885,
-        1713305645
+        1713305645,
+        85683055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1126092261,
-    "wof:lastmodified":1596663550,
+    "wof:lastmodified":1690875869,
     "wof:name":"Kadriog",
     "wof:parent_id":1713348885,
     "wof:placetype":"neighbourhood",

@@ -26,13 +26,25 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u043e\u043a\u0441\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u041b\u043e\u043a\u0441\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09cb\u0995\u09b8\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u043e\u043a\u0441\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Loksa"
     ],
     "name:ceb_x_preferred":[
         "Loksa"
     ],
     "name:ces_x_preferred":[
+        "Loksa"
+    ],
+    "name:dan_x_preferred":[
         "Loksa"
     ],
     "name:deu_x_preferred":[
@@ -56,10 +68,16 @@
     "name:fra_x_preferred":[
         "Loksa"
     ],
+    "name:haw_x_preferred":[
+        "Loska"
+    ],
     "name:hrv_x_preferred":[
         "Loksa"
     ],
     "name:hsb_x_preferred":[
+        "Loksa"
+    ],
+    "name:hun_x_preferred":[
         "Loksa"
     ],
     "name:hye_x_preferred":[
@@ -76,6 +94,12 @@
     ],
     "name:lit_x_preferred":[
         "Loksa"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041b\u043e\u043a\u0441\u0430"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041b\u043e\u043a\u0441\u043e"
     ],
     "name:msa_x_preferred":[
         "Loksa"
@@ -128,6 +152,9 @@
     "name:und_x_variant":[
         "Loxa"
     ],
+    "name:uzb_x_preferred":[
+        "Loksa"
+    ],
     "name:vep_x_preferred":[
         "Loks"
     ],
@@ -158,11 +185,11 @@
     "src:population":"geonames",
     "wd:wordcount":560,
     "wof:belongsto":[
+        85683055,
         102191581,
-        85633135,
-        1713305649,
         1713313739,
-        85683055
+        85633135,
+        1713305649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -199,7 +226,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1607983956,
+    "wof:lastmodified":1690875707,
     "wof:name":"Loksa",
     "wof:parent_id":1713313739,
     "wof:placetype":"locality",

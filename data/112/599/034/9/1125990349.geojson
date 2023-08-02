@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Heltermaa"
+    ],
     "name:deu_x_preferred":[
         "Heltermaa"
     ],
@@ -40,10 +43,22 @@
     "name:jpn_x_preferred":[
         "\u30d8\u30eb\u30c6\u30eb\u30de\u30fc"
     ],
+    "name:lav_x_preferred":[
+        "Helterm\u0101"
+    ],
+    "name:nan_x_preferred":[
+        "Heltermaa"
+    ],
     "name:nld_x_preferred":[
         "Heltermaa"
     ],
     "name:pol_x_preferred":[
+        "Heltermaa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u043b\u0442\u0435\u0440\u043c\u0430\u0430"
+    ],
+    "name:slk_x_preferred":[
         "Heltermaa"
     ],
     "name:spa_x_preferred":[
@@ -51,6 +66,9 @@
     ],
     "name:swe_x_preferred":[
         "Heltermaa"
+    ],
+    "name:tat_x_preferred":[
+        "\u04ba\u0435\u043b\u0442\u0435\u0440\u043c\u0430\u0430"
     ],
     "name:und_x_variant":[
         "Khel\u2019terma"
@@ -121,7 +139,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596670025,
+    "wof:lastmodified":1690875830,
     "wof:name":"Heltermaa",
     "wof:parent_id":1713310679,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041a\u043e\u0433\u0443\u0432\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "Koguva"
+    ],
     "name:deu_x_preferred":[
         "Koguva"
     ],
@@ -31,11 +37,17 @@
     "name:est_x_preferred":[
         "Koguva"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06af\u0648\u0648\u0627"
+    ],
     "name:fra_x_preferred":[
         "Koguva"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0563\u0578\u0582\u057e\u0561"
+    ],
+    "name:nan_x_preferred":[
+        "Koguva"
     ],
     "name:nld_x_preferred":[
         "Koguva"
@@ -43,8 +55,14 @@
     "name:pol_x_preferred":[
         "Koguva"
     ],
+    "name:slk_x_preferred":[
+        "Koguva"
+    ],
     "name:spa_x_preferred":[
         "Koguva"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0433\u0443\u0432\u0430"
     ],
     "name:vol_x_preferred":[
         "Koguva"
@@ -113,7 +131,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675297,
+    "wof:lastmodified":1690875821,
     "wof:name":"Koguva",
     "wof:parent_id":1713306201,
     "wof:placetype":"locality",

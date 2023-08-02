@@ -26,7 +26,16 @@
     "name:aze_x_variant":[
         "K\u0430rksi-Nui\u0430"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u043a\u0441\u0456-\u041d\u0443\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Karksi-Nuia"
+    ],
     "name:ceb_x_preferred":[
+        "Karksi-Nuia"
+    ],
+    "name:dan_x_preferred":[
         "Karksi-Nuia"
     ],
     "name:deu_x_preferred":[
@@ -59,6 +68,9 @@
     "name:ita_x_preferred":[
         "Karksi-Nuia"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30af\u30b7\u30fb\u30cc\u30a4\u30a2"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10e0\u10d9\u10e1\u10d8-\u10dc\u10e3\u10d8\u10d0"
     ],
@@ -67,6 +79,9 @@
     ],
     "name:lit_x_preferred":[
         "Karksi Nuja"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041a\u0430\u0440\u043a\u0441\u0438-\u041d\u0443\u0439\u0430"
     ],
     "name:nld_x_preferred":[
         "Karksi-Nuia"
@@ -106,11 +121,20 @@
         "Nuya",
         "Nuyya"
     ],
+    "name:vep_x_preferred":[
+        "Karksi-Nuia"
+    ],
     "name:vol_x_preferred":[
+        "Karksi-Nuia"
+    ],
+    "name:vro_x_preferred":[
         "Karksi-Nuia"
     ],
     "name:zho_x_preferred":[
         "\u5361\u723e\u79d1\u65af-\u52aa\u57c3\u963f"
+    ],
+    "name:zho_x_variant":[
+        "\u5361\u5c14\u514b\u897f\u52aa\u4e9a"
     ],
     "qs:a0":"Estonia",
     "qs:a1":"*Viljandimaa",
@@ -178,7 +202,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661301,
+    "wof:lastmodified":1690875684,
     "wof:name":"Karksi-Nuia",
     "wof:parent_id":1713311551,
     "wof:placetype":"locality",
