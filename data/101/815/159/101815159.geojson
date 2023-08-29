@@ -58,6 +58,9 @@
     "name:hun_x_preferred":[
         "Kuusalu megye"
     ],
+    "name:hun_x_variant":[
+        "Kuusalu k\u00f6zs\u00e9g"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u0578\u0582\u057d\u0561\u056c\u0578\u0582"
     ],
@@ -70,8 +73,14 @@
     "name:lav_x_preferred":[
         "K\u016bsalu pagasts"
     ],
+    "name:lit_x_preferred":[
+        "Kusalu"
+    ],
     "name:msa_x_preferred":[
         "Paroki Kuusalu"
+    ],
+    "name:nan_x_preferred":[
+        "Kuusalu K\u00e0u-khu"
     ],
     "name:nld_x_preferred":[
         "Kuusalu"
@@ -106,6 +115,9 @@
     "name:swe_x_preferred":[
         "Kuusalu kommun"
     ],
+    "name:tur_x_preferred":[
+        "Kuusalu"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0443\u0441\u0430\u043b\u0443"
     ],
@@ -117,6 +129,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e93\u8428\u5362\u4e61"
+    ],
+    "name:zho_x_variant":[
+        "\u5e93\u8428\u5362"
     ],
     "qs:a0":"Estonia",
     "qs:a1":"*Harjumaa",
@@ -201,7 +216,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661844,
+    "wof:lastmodified":1690875690,
     "wof:name":"Kuusalu",
     "wof:parent_id":1713305945,
     "wof:placetype":"locality",

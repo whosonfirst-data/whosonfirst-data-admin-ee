@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "ch\u00e2teau de Tolsburg"
     ],
+    "name:fra_x_variant":[
+        "Toolse"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u0578\u0578\u056c\u057d\u0565 \u0561\u0574\u0580\u0578\u0581"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10dd\u10dd\u10da\u10e1\u10d4\u10e1 \u10ea\u10d8\u10ee\u10d4\u10e1\u10d8\u10db\u10d0\u10d2\u10e0\u10d4"
+    ],
+    "name:nan_x_preferred":[
+        "Toolse"
     ],
     "name:nld_x_preferred":[
         "Toolse"
@@ -55,11 +61,20 @@
     "name:rus_x_preferred":[
         "\u0417\u0430\u043c\u043e\u043a \u0422\u043e\u043e\u043b\u0441\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Toolse"
+    ],
     "name:swe_x_preferred":[
         "Toolse"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u043e\u043e\u043b\u0441\u0435"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u043e\u0440\u0442\u0435\u0446\u044f \u0422\u043e\u043e\u043b\u0441\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u043e\u043e\u043b\u0441\u0435"
     ],
     "name:und_x_variant":[
         "Tolse"
@@ -130,7 +145,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678045,
+    "wof:lastmodified":1690875843,
     "wof:name":"Toolse",
     "wof:parent_id":1713315119,
     "wof:placetype":"locality",

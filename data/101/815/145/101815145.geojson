@@ -23,13 +23,22 @@
     "name:aze_x_preferred":[
         "Tamsalu"
     ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u043c\u0441\u0430\u043b\u0443"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0430\u043c\u0441\u0430\u043b\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Tamsalu"
     ],
     "name:ceb_x_preferred":[
         "Tamsalu"
     ],
     "name:ces_x_preferred":[
+        "Tamsalu"
+    ],
+    "name:dan_x_preferred":[
         "Tamsalu"
     ],
     "name:deu_x_preferred":[
@@ -74,6 +83,9 @@
     "name:lit_x_preferred":[
         "Tamsalu"
     ],
+    "name:mdf_x_preferred":[
+        "\u0422\u0430\u043c\u0441\u0430\u043b\u0443"
+    ],
     "name:myv_x_preferred":[
         "\u0422\u0430\u043c\u0441\u0430\u043b\u0443 \u043e\u0448"
     ],
@@ -107,11 +119,20 @@
     "name:und_x_variant":[
         "Tamsal"
     ],
+    "name:vep_x_preferred":[
+        "Tamsalu"
+    ],
     "name:vol_x_preferred":[
+        "Tamsalu"
+    ],
+    "name:vro_x_preferred":[
         "Tamsalu"
     ],
     "name:zho_x_preferred":[
         "\u9054\u59c6\u85a9\u76e7"
+    ],
+    "name:zho_x_variant":[
+        "\u5766\u85a9\u76e7"
     ],
     "qs:a0":"Estonia",
     "qs:a1":"*L\u00e4\u00e4ne-Virumaa",
@@ -178,7 +199,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676603,
+    "wof:lastmodified":1690875695,
     "wof:name":"Tamsalu",
     "wof:parent_id":1713308299,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Kilingi-N\u0131mm\u0435"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u043b\u0456\u043d\u0433\u0456-\u041d\u044b\u043c\u044d"
+    ],
+    "name:cat_x_preferred":[
+        "Kilingi-N\u00f5mme"
+    ],
     "name:ceb_x_preferred":[
         "Kilingi-N\u00f5mme"
     ],
@@ -76,6 +82,9 @@
     "name:lit_x_preferred":[
         "Kilingi Nem\u0117"
     ],
+    "name:mdf_x_preferred":[
+        "\u041a\u0438\u043b\u0438\u043d\u0433\u0438-\u041d\u044b\u043c\u043c\u044d"
+    ],
     "name:nld_x_preferred":[
         "Kilingi-N\u00f5mme"
     ],
@@ -103,6 +112,9 @@
     "name:swe_x_preferred":[
         "Kilingi-N\u00f5mme"
     ],
+    "name:szl_x_preferred":[
+        "Kilingi-N\u00f5mme"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u0438\u043b\u0438\u043d\u0433\u0438-\u041d\u044b\u043c\u043c\u0435"
     ],
@@ -113,11 +125,20 @@
         "Saarde",
         "Saara"
     ],
+    "name:vep_x_preferred":[
+        "Kilingi-Nimme"
+    ],
     "name:vol_x_preferred":[
         "Kilingi-N\u00f5mme"
     ],
+    "name:vro_x_preferred":[
+        "Kilingi-N\u00f5mm\u00f5"
+    ],
     "name:zho_x_preferred":[
         "\u57fa\u6797\u5409\u8a25\u6885"
+    ],
+    "name:zho_x_variant":[
+        "\u57fa\u6797\u5409\u5185\u6885"
     ],
     "qs:a0":"Estonia",
     "qs:a1":"*P\u00e4rnumaa",
@@ -206,7 +227,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677730,
+    "wof:lastmodified":1690875684,
     "wof:name":"Kilingi-N\u00f5mme",
     "wof:parent_id":1713309491,
     "wof:placetype":"locality",

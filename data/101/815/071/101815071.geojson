@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0644\u0641\u0627"
+    ],
     "name:aze_x_preferred":[
         "P\u0131lv\u0430"
     ],
@@ -47,6 +50,9 @@
     "name:deu_x_preferred":[
         "P\u00f5lva"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03cd\u03bb\u03b2\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Polva"
     ],
@@ -68,6 +74,12 @@
     "name:fra_x_preferred":[
         "P\u00f5lva"
     ],
+    "name:frr_x_preferred":[
+        "P\u00f5lva"
+    ],
+    "name:gle_x_preferred":[
+        "P\u00f5lva"
+    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d9\u05dc\u05d1\u05d4"
     ],
@@ -75,6 +87,9 @@
         "P\u00f5lva"
     ],
     "name:hsb_x_preferred":[
+        "P\u00f5lva"
+    ],
+    "name:hun_x_preferred":[
         "P\u00f5lva"
     ],
     "name:hye_x_preferred":[
@@ -98,6 +113,15 @@
     "name:lit_x_preferred":[
         "Pelva"
     ],
+    "name:mdf_x_preferred":[
+        "\u041f\u044b\u043b\u0432\u0430"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041f\u044b\u043b\u0432\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0438\u043b\u0432\u0430"
+    ],
     "name:mrj_x_preferred":[
         "\u041f\u044b\u043b\u0432\u0430"
     ],
@@ -115,6 +139,9 @@
     ],
     "name:oci_x_preferred":[
         "P\u00f5lva"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u044b\u043b\u0432\u00e6"
     ],
     "name:pol_x_preferred":[
         "P\u00f5lva"
@@ -146,6 +173,9 @@
     "name:tat_x_preferred":[
         "\u041f\u044b\u043b\u0432\u0430"
     ],
+    "name:tur_x_preferred":[
+        "P\u00f5lva"
+    ],
     "name:udm_x_preferred":[
         "\u041f\u044b\u043b\u044c\u0432\u0430"
     ],
@@ -168,6 +198,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0644\u0648\u0627"
+    ],
+    "name:vep_x_preferred":[
+        "Pilv"
     ],
     "name:vol_x_preferred":[
         "P\u00f5lva"
@@ -243,7 +276,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676961,
+    "wof:lastmodified":1690875693,
     "wof:name":"P\u00f5lva",
     "wof:parent_id":1713311017,
     "wof:placetype":"locality",

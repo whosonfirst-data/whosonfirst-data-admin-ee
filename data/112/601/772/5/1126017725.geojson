@@ -22,14 +22,23 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Taberlaane"
+    ],
     "name:eng_x_preferred":[
         "Taberlaane"
     ],
     "name:est_x_preferred":[
         "Taberlaane"
     ],
+    "name:fra_x_preferred":[
+        "Taberlaane"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u0561\u0562\u0565\u057c\u056c\u0561\u0561\u0576\u0565"
+    ],
+    "name:nan_x_preferred":[
+        "Taberlaane"
     ],
     "name:nld_x_preferred":[
         "Taberlaane"
@@ -43,11 +52,17 @@
     "name:spa_x_preferred":[
         "Taberlaane"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0431\u0435\u0440\u043b\u0430\u0430\u043d\u0435"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0431\u0435\u0440\u043b\u0430\u0430\u043d\u0435"
     ],
     "name:vol_x_preferred":[
         "Taberlaane"
+    ],
+    "name:vro_x_preferred":[
+        "Tab\u00f5rlaan\u00f5"
     ],
     "qs_pg:aaroncc":"EE",
     "qs_pg:gn_country":"EE",
@@ -111,7 +126,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677025,
+    "wof:lastmodified":1690875853,
     "wof:name":"Taberlaane",
     "wof:parent_id":1713310851,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0643\u0641\u064a\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0631\u0627\u0643\u0641\u064a\u0631"
+    ],
     "name:aze_x_preferred":[
         "R\u0430kv\u0435r\u0435"
     ],
@@ -87,6 +93,12 @@
     "name:fra_x_preferred":[
         "Rakvere"
     ],
+    "name:frr_x_preferred":[
+        "Rakvere"
+    ],
+    "name:gle_x_preferred":[
+        "Rakvere"
+    ],
     "name:glg_x_preferred":[
         "Rakvere"
     ],
@@ -129,6 +141,9 @@
     "name:lit_x_preferred":[
         "Rakver\u0117"
     ],
+    "name:mdf_x_preferred":[
+        "\u0420\u0430\u043a\u0432\u044d\u0440\u044d"
+    ],
     "name:mhr_x_preferred":[
         "\u0420\u0430\u043a\u0432\u0435\u0440\u0435"
     ],
@@ -152,6 +167,9 @@
     ],
     "name:nor_x_preferred":[
         "Rakvere"
+    ],
+    "name:oss_x_preferred":[
+        "\u0420\u0430\u043a\u0432\u0435\u0440\u0435"
     ],
     "name:pol_x_preferred":[
         "Rakvere"
@@ -200,6 +218,9 @@
     "name:urd_x_preferred":[
         "\u0631\u0627\u06a9\u0648\u06cc\u0631\u06c1"
     ],
+    "name:uzb_x_preferred":[
+        "Rakvere"
+    ],
     "name:vep_x_preferred":[
         "Rakvere"
     ],
@@ -208,6 +229,12 @@
     ],
     "name:vol_x_preferred":[
         "Rakvere"
+    ],
+    "name:vro_x_preferred":[
+        "Rakvere"
+    ],
+    "name:wuu_x_preferred":[
+        "\u62c9\u514b\u97e6\u96f7"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u514b\u97cb\u96f7"
@@ -237,11 +264,11 @@
     "wd:population":15303,
     "wd:wordcount":934,
     "wof:belongsto":[
+        85683049,
         102191581,
-        85633135,
-        1713305667,
         1713314069,
-        85683049
+        85633135,
+        1713305667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -279,7 +306,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1607983957,
+    "wof:lastmodified":1690875709,
     "wof:name":"Rakvere",
     "wof:parent_id":1713314069,
     "wof:placetype":"locality",

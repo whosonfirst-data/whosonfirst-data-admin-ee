@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0430\u0441\u043b\u0430\u0432\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Haaslava"
+    ],
     "name:eng_x_preferred":[
         "Haaslava"
     ],
@@ -34,6 +40,9 @@
     "name:hye_x_preferred":[
         "\u0540\u0561\u0561\u057d\u056c\u0561\u057e\u0561"
     ],
+    "name:nan_x_preferred":[
+        "Haaslava"
+    ],
     "name:nld_x_preferred":[
         "Haaslava"
     ],
@@ -45,6 +54,9 @@
     ],
     "name:spa_x_preferred":[
         "Haaslava"
+    ],
+    "name:tat_x_preferred":[
+        "\u04ba\u0430\u0430\u0441\u043b\u0430\u0432\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0430\u0441\u043b\u0430\u0432\u0430"
@@ -120,7 +132,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660661,
+    "wof:lastmodified":1690875811,
     "wof:name":"Haaslava",
     "wof:parent_id":1713314197,
     "wof:placetype":"locality",

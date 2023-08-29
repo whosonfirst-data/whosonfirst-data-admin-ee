@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Maarja"
     ],
+    "name:deu_x_preferred":[
+        "Maarja-Magdaleena"
+    ],
     "name:eng_x_preferred":[
         "Maarja"
     ],
@@ -34,8 +37,14 @@
     "name:est_x_preferred":[
         "Maarja-Magdaleena"
     ],
+    "name:fra_x_preferred":[
+        "Maarja-Magdaleena"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0561\u057c\u0575\u0561-\u0544\u0561\u0563\u0564\u0561\u056c\u0565\u0565\u0576\u0561"
+    ],
+    "name:nan_x_preferred":[
+        "Maarja-Magdaleena"
     ],
     "name:nld_x_preferred":[
         "Maarja-Magdaleena"
@@ -46,11 +55,17 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0430\u0440\u044c\u044f"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u0430\u0440\u044c\u044f-\u041c\u0430\u0433\u0434\u0430\u043b\u0435\u0435\u043d\u0430"
+    ],
     "name:spa_x_preferred":[
         "Maarja-Magdaleena"
     ],
     "name:swe_x_preferred":[
         "Maarja-Magdaleena"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0430\u0440\u044c\u044f-\u041c\u0430\u0433\u0434\u0430\u043b\u0435\u044d\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0430\u0440'\u044f-\u041c\u0430\u0491\u0434\u0430\u043b\u0435\u0435\u043d\u0430"
@@ -121,7 +136,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676478,
+    "wof:lastmodified":1690875842,
     "wof:name":"M\u00e4rja",
     "wof:parent_id":1713308937,
     "wof:placetype":"locality",

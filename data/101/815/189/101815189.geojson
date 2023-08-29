@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0633\u0643\u064a"
+    ],
     "name:aze_x_preferred":[
         "Paldiski"
     ],
@@ -51,7 +54,11 @@
         "Paldiski"
     ],
     "name:deu_x_variant":[
-        "Baltischport"
+        "Baltischport",
+        "Baltisch-Port"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03bd\u03c4\u03af\u03c3\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Paldiski"
@@ -95,6 +102,9 @@
     "name:jpn_x_preferred":[
         "\u30d1\u30eb\u30c6\u30a3\u30b9\u30ad"
     ],
+    "name:jpn_x_variant":[
+        "\u30d1\u30eb\u30c7\u30a3\u30b9\u30ad"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10d0\u10da\u10d3\u10d8\u10e1\u10d9\u10d8"
     ],
@@ -109,6 +119,12 @@
     ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d3e\u0d7e\u0d21\u0d3f\u0d38\u0d4d\u0d15\u0d3f"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041f\u0430\u043b\u0434\u0438\u0441\u043a\u0438"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041f\u0430\u043b\u0434\u0438\u0441\u043a\u0438"
     ],
     "name:mrj_x_preferred":[
         "\u041f\u0430\u043b\u0434\u0438\u0441\u043a\u0438"
@@ -130,6 +146,9 @@
     ],
     "name:nor_x_preferred":[
         "Paldiski"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u0430\u043b\u0434\u0438\u0441\u043a\u0438"
     ],
     "name:pol_x_preferred":[
         "Paldiski"
@@ -201,6 +220,9 @@
     "name:vol_x_preferred":[
         "Paldiski"
     ],
+    "name:vro_x_preferred":[
+        "Paldiski"
+    ],
     "name:zho_x_preferred":[
         "\u5e15\u723e\u8fea\u65af\u57fa"
     ],
@@ -269,7 +291,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663323,
+    "wof:lastmodified":1690875695,
     "wof:name":"Paldiski",
     "wof:parent_id":1713307685,
     "wof:placetype":"locality",

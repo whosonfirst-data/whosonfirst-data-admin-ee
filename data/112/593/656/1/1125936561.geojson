@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Tuksi"
+    ],
     "name:dan_x_preferred":[
         "Bergsby"
     ],
@@ -34,11 +37,17 @@
     "name:est_x_preferred":[
         "Tuksi"
     ],
+    "name:fra_x_preferred":[
+        "Tuksi"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u0578\u0582\u056f\u057d\u056b"
     ],
     "name:isl_x_preferred":[
         "Bergsby"
+    ],
+    "name:nan_x_preferred":[
+        "Tuksi"
     ],
     "name:nld_x_preferred":[
         "Tuksi"
@@ -124,7 +133,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677444,
+    "wof:lastmodified":1690875721,
     "wof:name":"T\u00f5usi",
     "wof:parent_id":1713308783,
     "wof:placetype":"locality",
