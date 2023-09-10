@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":1016,
     "iso:country":"EE",
-    "lbl:latitude":59.29056,
-    "lbl:longitude":24.96583,
+    "lbl:latitude":59.289102,
+    "lbl:longitude":24.974326,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":59.289102,
@@ -95,7 +95,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -141,7 +141,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875841,
+    "wof:lastmodified":1694320349,
     "wof:name":"Vaida",
     "wof:parent_id":1713313187,
     "wof:placetype":"locality",

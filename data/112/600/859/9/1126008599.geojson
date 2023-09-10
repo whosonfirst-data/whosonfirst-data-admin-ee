@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":377,
     "iso:country":"EE",
-    "lbl:latitude":59.17861,
-    "lbl:longitude":25.21639,
+    "lbl:latitude":59.183366,
+    "lbl:longitude":25.222684,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":59.183366,
@@ -93,7 +93,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -139,7 +139,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875857,
+    "wof:lastmodified":1694320349,
     "wof:name":"Ravila",
     "wof:parent_id":1713306307,
     "wof:placetype":"locality",
