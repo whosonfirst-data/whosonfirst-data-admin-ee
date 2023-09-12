@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001066,
-    "geom:area_square_m":6666111.055312,
+    "geom:area_square_m":6666111.055308,
     "geom:bbox":"24.967603,59.607754,25.041605,59.647449",
     "geom:latitude":59.625652,
     "geom:longitude":25.006976,
     "iso:country":"EE",
     "label:eng_x_preferred_longname":[
-        "Harjumaa Maakond"
+        "Harjumaa County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
     ],
     "lbl:latitude":59.625917,
     "lbl:longitude":25.009483,
@@ -287,7 +290,7 @@
         "wd:id":"Q180200"
     },
     "wof:country":"EE",
-    "wof:geomhash":"f29e70bd284ae489a2e1d4d829fb8636",
+    "wof:geomhash":"736831910da774fab37a62e1998a8240",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -302,7 +305,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875676,
+    "wof:lastmodified":1694493162,
     "wof:name":"Harjumaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",
