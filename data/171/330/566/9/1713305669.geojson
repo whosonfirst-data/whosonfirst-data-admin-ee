@@ -72,10 +72,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":899,
+        "ee-mamt:okood":"899",
         "eg:gisco_id":"EE_0899",
         "eurostat:nuts_2021_id":"0899"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451877,
     "wof:geomhash":"4fc2a05bfe00c3af71cde53a616b0cbe",
@@ -94,7 +95,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352180,
+    "wof:lastmodified":1695886699,
     "wof:name":"Viljandi",
     "wof:parent_id":85682985,
     "wof:placetype":"county",

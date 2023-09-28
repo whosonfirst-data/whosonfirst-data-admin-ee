@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":424,
+        "ee-mamt:okood":"424",
         "eg:gisco_id":"EE_0424",
         "eurostat:nuts_2021_id":"0424"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815171,
         1713313739
@@ -92,7 +93,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352179,
+    "wof:lastmodified":1695886697,
     "wof:name":"Loksa",
     "wof:parent_id":85683055,
     "wof:placetype":"county",

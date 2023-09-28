@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":793,
+        "ee-mamt:okood":"793",
         "eg:gisco_id":"EE_0793",
         "eurostat:nuts_2021_id":"0793"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451879,
     "wof:geomhash":"7ab4974df25c74f62f0e6276ebbb55da",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352180,
+    "wof:lastmodified":1695886701,
     "wof:name":"Tartu",
     "wof:parent_id":85682995,
     "wof:placetype":"county",

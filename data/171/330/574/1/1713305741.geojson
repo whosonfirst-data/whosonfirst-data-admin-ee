@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":214,
+        "ee-mamt:okood":"214",
         "eg:gisco_id":"EE_0214",
         "eurostat:nuts_2021_id":"0214"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451901,
     "wof:geomhash":"9da5a84881e870fb7cf8da4f0c67eff4",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352193,
+    "wof:lastmodified":1695886725,
     "wof:name":"H\u00e4\u00e4demeeste",
     "wof:parent_id":85682981,
     "wof:placetype":"county",

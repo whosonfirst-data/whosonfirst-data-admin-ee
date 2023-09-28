@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":303,
+        "ee-mamt:okood":"303",
         "eg:gisco_id":"EE_0303",
         "eurostat:nuts_2021_id":"0303"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451869,
     "wof:geomhash":"1ee19c16993883c79ac4a733fad363be",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352176,
+    "wof:lastmodified":1695886693,
     "wof:name":"Kihnu",
     "wof:parent_id":85682981,
     "wof:placetype":"county",

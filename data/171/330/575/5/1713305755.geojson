@@ -75,10 +75,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":184,
+        "ee-mamt:okood":"184",
         "eg:gisco_id":"EE_0184",
         "eurostat:nuts_2021_id":"0184"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451906,
     "wof:geomhash":"b54f7148d130e812d5403021edab8afc",
@@ -97,7 +98,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352195,
+    "wof:lastmodified":1695886729,
     "wof:name":"Haapsalu",
     "wof:parent_id":85683001,
     "wof:placetype":"county",

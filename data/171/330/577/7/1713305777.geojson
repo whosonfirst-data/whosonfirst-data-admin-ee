@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":903,
+        "ee-mamt:okood":"903",
         "eg:gisco_id":"EE_0903",
         "eurostat:nuts_2021_id":"0903"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451914,
     "wof:geomhash":"9b74c319e017ec4d5e91387a4a4634b2",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352199,
+    "wof:lastmodified":1695886736,
     "wof:name":"Viru-Nigula",
     "wof:parent_id":85683049,
     "wof:placetype":"county",

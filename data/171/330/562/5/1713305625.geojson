@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":890,
+        "ee-mamt:okood":"890",
         "eg:gisco_id":"EE_0890",
         "eurostat:nuts_2021_id":"0890"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451855,
     "wof:geomhash":"38e6e266d4be9d2b243ca95a6b95bdc2",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352158,
+    "wof:lastmodified":1695886657,
     "wof:name":"Viimsi",
     "wof:parent_id":85683055,
     "wof:placetype":"county",

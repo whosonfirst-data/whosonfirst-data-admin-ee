@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":712,
+        "ee-mamt:okood":"712",
         "eg:gisco_id":"EE_0712",
         "eurostat:nuts_2021_id":"0712"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451889,
     "wof:geomhash":"65af37f026228cc3fee900b9ba60ad85",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352186,
+    "wof:lastmodified":1695886712,
     "wof:name":"Saarde",
     "wof:parent_id":85682981,
     "wof:placetype":"county",

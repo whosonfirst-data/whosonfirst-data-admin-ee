@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":432,
+        "ee-mamt:okood":"432",
         "eg:gisco_id":"EE_0432",
         "eurostat:nuts_2021_id":"0432"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451886,
     "wof:geomhash":"81b770d3fcb594af969b1481c34a954a",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352183,
+    "wof:lastmodified":1695886706,
     "wof:name":"Luunja",
     "wof:parent_id":85682995,
     "wof:placetype":"county",

@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":198,
+        "ee-mamt:okood":"198",
         "eg:gisco_id":"EE_0198",
         "eurostat:nuts_2021_id":"0198"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451881,
     "wof:geomhash":"f9519f8d1518a0aa5d382187f7abec06",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352182,
+    "wof:lastmodified":1695886702,
     "wof:name":"Harku",
     "wof:parent_id":85683055,
     "wof:placetype":"county",

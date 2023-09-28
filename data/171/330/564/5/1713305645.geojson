@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":784,
+        "ee-mamt:okood":"784",
         "eg:gisco_id":"EE_0784",
         "eurostat:nuts_2021_id":"0784"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101748153
     ],
@@ -91,7 +92,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352178,
+    "wof:lastmodified":1695886696,
     "wof:name":"Tallinn",
     "wof:parent_id":85683055,
     "wof:placetype":"county",

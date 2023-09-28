@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":321,
+        "ee-mamt:okood":"321",
         "eg:gisco_id":"EE_0321",
         "eurostat:nuts_2021_id":"0321"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451874,
     "wof:geomhash":"405af8788299774ed97475699af42531",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352179,
+    "wof:lastmodified":1695886697,
     "wof:name":"Kohtla-J\u00e4rve",
     "wof:parent_id":85683059,
     "wof:placetype":"county",

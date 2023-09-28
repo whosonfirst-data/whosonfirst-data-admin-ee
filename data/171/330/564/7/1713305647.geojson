@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":446,
+        "ee-mamt:okood":"446",
         "eg:gisco_id":"EE_0446",
         "eurostat:nuts_2021_id":"0446"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101753891,
         1713313119
@@ -92,7 +93,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352179,
+    "wof:lastmodified":1695886697,
     "wof:name":"Maardu",
     "wof:parent_id":85683055,
     "wof:placetype":"county",

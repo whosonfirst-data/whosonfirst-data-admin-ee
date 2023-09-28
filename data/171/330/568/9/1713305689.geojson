@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":245,
+        "ee-mamt:okood":"245",
         "eg:gisco_id":"EE_0245",
         "eurostat:nuts_2021_id":"0245"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451884,
     "wof:geomhash":"d4675975f8cd724191d07b9abc89b7eb",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352182,
+    "wof:lastmodified":1695886704,
     "wof:name":"J\u0151el\u00e4htme",
     "wof:parent_id":85683055,
     "wof:placetype":"county",
