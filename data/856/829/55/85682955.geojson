@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.328995,
-    "geom:area_square_m":2153283349.318734,
+    "geom:area_square_m":2153283349.3188,
     "geom:bbox":"26.566258,57.817328,27.818954,58.26824",
     "geom:latitude":58.041024,
     "geom:longitude":27.163458,
@@ -368,16 +368,22 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ee-mamt:okood":"65",
         "fips:code":"EN12",
         "gn:id":589373,
         "gp:id":2345284,
         "hasc:id":"EE.PL",
+        "iso:code":"EE-65",
         "iso:id":"EE-65",
         "unlc:id":"EE-65",
         "wd:id":"Q191813"
     },
+    "wof:concordances_official":"ee-mamt:okood",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"2a2837120cd944c71ce0d1b0e4a5878b",
+    "wof:geomhash":"f84319ce1230ad786d9c5b5f1c92b36c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -392,7 +398,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875674,
+    "wof:lastmodified":1695884441,
     "wof:name":"P\u00f5lva",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.464426,
-    "geom:area_square_m":2964374282.695363,
+    "geom:area_square_m":2964374282.695365,
     "geom:bbox":"24.07063,58.655561,25.333943,59.227984",
     "geom:latitude":58.922393,
     "geom:longitude":24.700424,
@@ -359,16 +359,22 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ee-mamt:okood":"70",
         "fips:code":"EN13",
         "gn:id":589115,
         "gp:id":2345285,
         "hasc:id":"EE.RA",
+        "iso:code":"EE-70",
         "iso:id":"EE-70",
         "unlc:id":"EE-70",
         "wd:id":"Q192352"
     },
+    "wof:concordances_official":"ee-mamt:okood",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"743bf3a9908f7d93c3aac3c1478aacbb",
+    "wof:geomhash":"81f647a963d2e96201c76310498a6dfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -383,7 +389,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875678,
+    "wof:lastmodified":1695884441,
     "wof:name":"Rapla",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

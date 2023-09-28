@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.375338,
-    "geom:area_square_m":2397661234.443867,
+    "geom:area_square_m":2397661234.444055,
     "geom:bbox":"23.116699,58.534504,24.192622,59.304622",
     "geom:latitude":58.894593,
     "geom:longitude":23.7665,
@@ -376,15 +376,21 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ee-mamt:okood":"57",
         "fips:code":"EN07",
         "gn:id":590856,
         "gp:id":2345281,
         "hasc:id":"EE.LN",
+        "iso:code":"EE-57",
         "iso:id":"EE-57",
         "wd:id":"Q189968"
     },
+    "wof:concordances_official":"ee-mamt:okood",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"e42e0b4f6983ee90d7fbcb64ce094107",
+    "wof:geomhash":"0a8d499853accb6f778ed3e7e6a5b0a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -399,7 +405,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875677,
+    "wof:lastmodified":1695884441,
     "wof:name":"L\u00e4\u00e4ne",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.529176,
-    "geom:area_square_m":3348732641.643922,
+    "geom:area_square_m":3348732641.643918,
     "geom:bbox":"26.702298,58.86564,28.20989,59.500179",
     "geom:latitude":59.217712,
     "geom:longitude":27.350366,
@@ -377,16 +377,22 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ee-mamt:okood":"44",
         "fips:code":"EN03",
         "gn:id":592075,
         "gp:id":2345278,
         "hasc:id":"EE.IV",
+        "iso:code":"EE-44",
         "iso:id":"EE-44",
         "unlc:id":"EE-44",
         "wd:id":"Q189963"
     },
+    "wof:concordances_official":"ee-mamt:okood",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"1864ace46280a20ae6034d2f94d3c795",
+    "wof:geomhash":"1558b4ff0186e4b072d7531703921adf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -401,7 +407,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875676,
+    "wof:lastmodified":1695884442,
     "wof:name":"Ida-Viru",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

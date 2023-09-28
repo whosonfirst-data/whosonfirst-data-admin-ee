@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.570982,
-    "geom:area_square_m":3608878113.668177,
+    "geom:area_square_m":3608878113.668231,
     "geom:bbox":"25.536391,58.876929,26.952785,59.636394",
     "geom:latitude":59.259356,
     "geom:longitude":26.330023,
@@ -378,16 +378,22 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ee-mamt:okood":"59",
         "fips:code":"EN08",
         "gn:id":590854,
         "gp:id":2345282,
         "hasc:id":"EE.LV",
+        "iso:code":"EE-59",
         "iso:id":"EE-59",
         "unlc:id":"EE-59",
         "wd:id":"Q189952"
     },
+    "wof:concordances_official":"ee-mamt:okood",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"024621d55e0200e96e6a2287c5bc6746",
+    "wof:geomhash":"5472bff706b80fcb86b36985e8fdf9e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -402,7 +408,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875678,
+    "wof:lastmodified":1695884441,
     "wof:name":"L\u00e4\u00e4ne-Viru",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

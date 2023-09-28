@@ -287,8 +287,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ee-mamt:okood":"37",
+        "iso:code":"EE-37",
         "wd:id":"Q180200"
     },
+    "wof:concordances_official":"ee-mamt:okood",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"EE",
     "wof:geomhash":"736831910da774fab37a62e1998a8240",
     "wof:hierarchy":[
@@ -305,7 +311,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1694493162,
+    "wof:lastmodified":1695884441,
     "wof:name":"Harjumaa",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

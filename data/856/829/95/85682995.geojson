@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.459566,
-    "geom:area_square_m":2980327052.704383,
+    "geom:area_square_m":2980327052.704386,
     "geom:bbox":"26.077109,58.113041,27.532307,58.682676",
     "geom:latitude":58.367797,
     "geom:longitude":26.741043,
@@ -382,15 +382,21 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ee-mamt:okood":"78",
         "fips:code":"EN18",
         "gn:id":588334,
         "gp:id":2345287,
         "hasc:id":"EE.TA",
+        "iso:code":"EE-78",
         "iso:id":"EE-78",
         "wd:id":"Q192370"
     },
+    "wof:concordances_official":"ee-mamt:okood",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"804f7950691596201fe62553434e8878",
+    "wof:geomhash":"164ebd0d7bf129a635273e32aae78b05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -405,7 +411,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875673,
+    "wof:lastmodified":1695884441,
     "wof:name":"Tartu",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.403474,
-    "geom:area_square_m":2590889614.696084,
+    "geom:area_square_m":2590889614.695992,
     "geom:bbox":"25.750228,58.470868,27.163627,58.968922",
     "geom:latitude":58.713575,
     "geom:longitude":26.445891,
@@ -377,16 +377,22 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ee-mamt:okood":"49",
         "fips:code":"EN05",
         "gn:id":591901,
         "gp:id":2345280,
         "hasc:id":"EE.JN",
+        "iso:code":"EE-49",
         "iso:id":"EE-49",
         "unlc:id":"EE-49",
         "wd:id":"Q189974"
     },
+    "wof:concordances_official":"ee-mamt:okood",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"b99547caa00215795bc5f0a216cc357a",
+    "wof:geomhash":"b8b548e8ca9af8d405f8020d71e6aee0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -401,7 +407,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875676,
+    "wof:lastmodified":1695884441,
     "wof:name":"J\u00f5geva",
     "wof:parent_id":85633135,
     "wof:placetype":"region",
