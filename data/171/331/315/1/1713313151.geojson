@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Undi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001034,
-    "geom:area_square_m":6684616.182823,
+    "geom:area_square_m":6684616.18282,
     "geom:bbox":"26.879417,58.468277,26.941494,58.510766",
     "geom:latitude":58.48856,
     "geom:longitude":26.907676,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8687
+        "ee-mamt:okood":"8687"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226505647
     ],
     "wof:country":"EE",
     "wof:created":1595460701,
-    "wof:geomhash":"509c6f3257382515e241039ad738830b",
+    "wof:geomhash":"b94ac8d10e4a7417beff806ac103e4e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660826,
+    "wof:lastmodified":1695876736,
     "wof:name":"Undi",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

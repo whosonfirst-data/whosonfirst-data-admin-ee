@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Muriste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000785,
-    "geom:area_square_m":5069408.386928,
+    "geom:area_square_m":5069408.386937,
     "geom:bbox":"23.609115,58.5117,23.665306,58.548045",
     "geom:latitude":58.531432,
     "geom:longitude":23.63887,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5049
+        "ee-mamt:okood":"5049"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226230395
     ],
     "wof:country":"EE",
     "wof:created":1595459753,
-    "wof:geomhash":"840f9e82c397bdbad4e655f5d3f865c5",
+    "wof:geomhash":"12ac1ca7ec8095d156e7c90f4be169d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661657,
+    "wof:lastmodified":1695876773,
     "wof:name":"Muriste",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

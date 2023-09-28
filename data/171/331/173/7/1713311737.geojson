@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Abja-Vanam\u0151isa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002116,
-    "geom:area_square_m":13823845.746484,
+    "geom:area_square_m":13823845.746481,
     "geom:bbox":"25.255513,58.072071,25.327658,58.121502",
     "geom:latitude":58.100508,
     "geom:longitude":25.294654,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8593
+        "ee-mamt:okood":"8593"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460407,
-    "wof:geomhash":"8234b34a0bef294878e5ed068e61f414",
+    "wof:geomhash":"28e54010bf6dc6d1da545073f49786a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661285,
+    "wof:lastmodified":1695876750,
     "wof:name":"Abja-Vanam\u0151isa",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

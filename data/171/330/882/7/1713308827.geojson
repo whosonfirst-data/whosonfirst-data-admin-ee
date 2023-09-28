@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Esik\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001243,
-    "geom:area_square_m":7957700.207205,
+    "geom:area_square_m":7957700.207203,
     "geom:bbox":"22.802769,58.796168,22.909255,58.827506",
     "geom:latitude":58.811508,
     "geom:longitude":22.845784,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1647
+        "ee-mamt:okood":"1647"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259385823
     ],
     "wof:country":"EE",
     "wof:created":1595459743,
-    "wof:geomhash":"0753c529e95e3ee20a3ce9d23f42c19b",
+    "wof:geomhash":"e0deebd86a22d610377ce14c4f6da9f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617129970,
+    "wof:lastmodified":1695877015,
     "wof:name":"Esik\u00fcla",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

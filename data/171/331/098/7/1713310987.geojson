@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Miiaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001095,
-    "geom:area_square_m":7155400.028294,
+    "geom:area_square_m":7155400.028292,
     "geom:bbox":"27.14678,58.079966,27.193862,58.121601",
     "geom:latitude":58.10108,
     "geom:longitude":27.171708,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4945
+        "ee-mamt:okood":"4945"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277157427
     ],
     "wof:country":"EE",
     "wof:created":1595460242,
-    "wof:geomhash":"98db785d1e9257a93f3478154db72e9b",
+    "wof:geomhash":"f973eb34ecdf19d0041baddc5d1fb493",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676938,
+    "wof:lastmodified":1695876971,
     "wof:name":"Miiaste",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

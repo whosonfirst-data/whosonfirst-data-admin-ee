@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Ardu Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000903,
-    "geom:area_square_m":5734149.04585,
+    "geom:area_square_m":5734149.045849,
     "geom:bbox":"25.317884,59.086254,25.385929,59.111758",
     "geom:latitude":59.098216,
     "geom:longitude":25.350894,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Ardu alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1340
+        "ee-mamt:okood":"1340"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125984167
     ],
     "wof:country":"EE",
     "wof:created":1595459135,
-    "wof:geomhash":"93a09ea85205462bd3c5f4d93a472fc7",
+    "wof:geomhash":"e3f373cbf2542dd3c47d4db69a0d6202",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661344,
+    "wof:lastmodified":1695876755,
     "wof:name":"Ardu",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

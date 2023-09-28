@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soonda K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000754,
-    "geom:area_square_m":4855769.291363,
+    "geom:area_square_m":4855769.291364,
     "geom:bbox":"23.24787,58.584509,23.292195,58.620136",
     "geom:latitude":58.60171,
     "geom:longitude":23.263955,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7724
+        "ee-mamt:okood":"7724"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242944047
     ],
     "wof:country":"EE",
     "wof:created":1595459112,
-    "wof:geomhash":"555549fb7bf85a11be8a826cf46b6638",
+    "wof:geomhash":"2a240275c3fba15d3c1face6afe765a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675104,
+    "wof:lastmodified":1695876903,
     "wof:name":"Soonda",
     "wof:parent_id":1713305623,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lanksaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005015,
-    "geom:area_square_m":32848523.374731,
+    "geom:area_square_m":32848523.374732,
     "geom:bbox":"24.728585,57.971935,24.841058,58.058808",
     "geom:latitude":58.013812,
     "geom:longitude":24.791385,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4104
+        "ee-mamt:okood":"4104"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259960901
     ],
     "wof:country":"EE",
     "wof:created":1595459907,
-    "wof:geomhash":"9eab725d58e08f610eeebee60a84ebff",
+    "wof:geomhash":"71d860bbae7647b3d7669847e83f95c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677726,
+    "wof:lastmodified":1695876997,
     "wof:name":"Lanksaare",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kodila K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001405,
-    "geom:area_square_m":8940519.012431,
+    "geom:area_square_m":8940519.012432,
     "geom:bbox":"24.59964,59.026441,24.69587,59.05159",
     "geom:latitude":59.039606,
     "geom:longitude":24.647859,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3242
+        "ee-mamt:okood":"3242"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037599
     ],
     "wof:country":"EE",
     "wof:created":1595461125,
-    "wof:geomhash":"fbe06108b888399d39cedd1a03eb9771",
+    "wof:geomhash":"d7eefe2e11557c55a67b9e76f878e032",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676705,
+    "wof:lastmodified":1695876942,
     "wof:name":"Kodila",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

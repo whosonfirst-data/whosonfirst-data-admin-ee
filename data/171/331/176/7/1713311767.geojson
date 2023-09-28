@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lohkuse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00024,
-    "geom:area_square_m":1514884.387826,
+    "geom:area_square_m":1514884.387825,
     "geom:bbox":"27.020135,59.346179,27.076944,59.359422",
     "geom:latitude":59.352602,
     "geom:longitude":27.048538,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4449
+        "ee-mamt:okood":"4449"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310013357
     ],
     "wof:country":"EE",
     "wof:created":1595460413,
-    "wof:geomhash":"b3783ceb50a4801125f9b1008a9c37a5",
+    "wof:geomhash":"da41712e08b292d5c5bafb9fb30e64c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660787,
+    "wof:lastmodified":1695876736,
     "wof:name":"Lohkuse",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

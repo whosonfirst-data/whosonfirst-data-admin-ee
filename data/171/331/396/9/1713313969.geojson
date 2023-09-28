@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suure-Rakke K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001226,
-    "geom:area_square_m":7954512.55049,
+    "geom:area_square_m":7954512.550493,
     "geom:bbox":"26.149824,58.336758,26.223396,58.366435",
     "geom:latitude":58.350898,
     "geom:longitude":26.186377,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7833
+        "ee-mamt:okood":"7833"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293664949
     ],
     "wof:country":"EE",
     "wof:created":1595460875,
-    "wof:geomhash":"70ebfea76e49a897a006d9def954055f",
+    "wof:geomhash":"0e9b70ab678bd83b846163e95802e978",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661901,
+    "wof:lastmodified":1695876787,
     "wof:name":"Suure-Rakke",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

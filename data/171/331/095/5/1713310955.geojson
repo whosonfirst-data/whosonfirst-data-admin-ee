@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Uibuj\u00e4rve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001199,
-    "geom:area_square_m":7848922.640093,
+    "geom:area_square_m":7848922.640099,
     "geom:bbox":"27.177525,58.014297,27.226561,58.05495",
     "geom:latitude":58.037065,
     "geom:longitude":27.201088,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8644
+        "ee-mamt:okood":"8644"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309886107
     ],
     "wof:country":"EE",
     "wof:created":1595460235,
-    "wof:geomhash":"25e1683cff105bc087acd0b65ffe688c",
+    "wof:geomhash":"b647de3ebc3135d42fa0643a512a6c94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676940,
+    "wof:lastmodified":1695876971,
     "wof:name":"Uibuj\u00e4rve",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

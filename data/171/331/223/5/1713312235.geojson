@@ -8,13 +8,13 @@
     "ee-mamt:animi":"J\u0151geva Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.00061,
-    "geom:area_square_m":3914852.24007,
+    "geom:area_square_m":3914852.240071,
     "geom:bbox":"26.361025,58.732073,26.419837,58.754344",
     "geom:latitude":58.744061,
     "geom:longitude":26.393853,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "J\u0151geva linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2262
+        "ee-mamt:okood":"2262"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815115
     ],
     "wof:country":"EE",
     "wof:created":1595460505,
-    "wof:geomhash":"def2433f544c794c637ccf90c42e88dc",
+    "wof:geomhash":"fa9ae7f18412b4715ac88837b8e7e355",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676558,
+    "wof:lastmodified":1695876923,
     "wof:name":"J\u0151geva",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

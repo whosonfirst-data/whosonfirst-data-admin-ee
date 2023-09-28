@@ -8,7 +8,7 @@
     "ee-mamt:animi":"L\u0151etsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000918,
-    "geom:area_square_m":5906645.89164,
+    "geom:area_square_m":5906645.891642,
     "geom:bbox":"23.292763,58.62436,23.362789,58.649881",
     "geom:latitude":58.637199,
     "geom:longitude":23.331577,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4595
+        "ee-mamt:okood":"4595"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242648311
     ],
     "wof:country":"EE",
     "wof:created":1595459090,
-    "wof:geomhash":"a92161d6cde68ba51c1e20f25844f17a",
+    "wof:geomhash":"5d9ac61142d72d646d7e60083a0004d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675114,
+    "wof:lastmodified":1695876904,
     "wof:name":"L\u0151etsa",
     "wof:parent_id":1713305623,
     "wof:placetype":"localadmin",

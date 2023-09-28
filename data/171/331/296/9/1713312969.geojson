@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valkla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002741,
-    "geom:area_square_m":17216058.765786,
+    "geom:area_square_m":17216058.765785,
     "geom:bbox":"25.277956,59.442191,25.378876,59.496195",
     "geom:latitude":59.471572,
     "geom:longitude":25.339286,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8954
+        "ee-mamt:okood":"8954"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126019595
     ],
     "wof:country":"EE",
     "wof:created":1595460662,
-    "wof:geomhash":"336362ca18915d0ace102b22e390d211",
+    "wof:geomhash":"e66da52b7caf70bbc048432e4bfc450d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617131195,
+    "wof:lastmodified":1695877019,
     "wof:name":"Valkla",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

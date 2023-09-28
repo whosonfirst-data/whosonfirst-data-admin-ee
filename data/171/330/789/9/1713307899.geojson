@@ -8,13 +8,13 @@
     "ee-mamt:animi":"\u00c4mari Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.001543,
-    "geom:area_square_m":9750613.917751,
+    "geom:area_square_m":9750613.91775,
     "geom:bbox":"24.164036,59.230498,24.256806,59.277384",
     "geom:latitude":59.255381,
     "geom:longitude":24.206319,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "\u00c4mari alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9752
+        "ee-mamt:okood":"9752"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243372973
     ],
     "wof:country":"EE",
     "wof:created":1595459512,
-    "wof:geomhash":"16fd65aeb4ac662027bc8e88b0a764c3",
+    "wof:geomhash":"e90f92ed7e7e8a72b251bd8915d772db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663298,
+    "wof:lastmodified":1695876817,
     "wof:name":"\u00c4mari",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

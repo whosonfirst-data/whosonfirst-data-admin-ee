@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Laiuse Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000126,
-    "geom:area_square_m":806420.005562,
+    "geom:area_square_m":806420.005561,
     "geom:bbox":"26.485428,58.779281,26.506305,58.793934",
     "geom:latitude":58.785878,
     "geom:longitude":26.495209,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Laiuse alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4078
+        "ee-mamt:okood":"4078"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125767459
     ],
     "wof:country":"EE",
     "wof:created":1595460529,
-    "wof:geomhash":"3174e433732fe978a2b5b885a13a113a",
+    "wof:geomhash":"215174e17ebd92b90c4cdb223c2e5a61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676552,
+    "wof:lastmodified":1695876921,
     "wof:name":"Laiuse",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

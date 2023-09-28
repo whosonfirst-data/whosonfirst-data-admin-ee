@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Iide K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000689,
-    "geom:area_square_m":4520141.075036,
+    "geom:area_square_m":4520141.075037,
     "geom:bbox":"22.046114,57.970125,22.097563,57.995604",
     "geom:latitude":57.981109,
     "geom:longitude":22.073836,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2014
+        "ee-mamt:okood":"2014"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293364087
     ],
     "wof:country":"EE",
     "wof:created":1595459367,
-    "wof:geomhash":"dfc3dfe8c287b6080916d788e3765291",
+    "wof:geomhash":"78a8c18b8ee5beee0da67fe4f343716f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672268,
+    "wof:lastmodified":1695876887,
     "wof:name":"Iide",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

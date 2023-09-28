@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Puhtaleiva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000708,
-    "geom:area_square_m":4572170.799811,
+    "geom:area_square_m":4572170.799812,
     "geom:bbox":"26.618572,58.501301,26.69203,58.526812",
     "geom:latitude":58.513964,
     "geom:longitude":26.656739,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6401
+        "ee-mamt:okood":"6401"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327200243
     ],
     "wof:country":"EE",
     "wof:created":1595459815,
-    "wof:geomhash":"161aef0cae34e6deb0b7922432b1897e",
+    "wof:geomhash":"1090f378300975ba88c5d84df8020176",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676463,
+    "wof:lastmodified":1695876912,
     "wof:name":"Puhtaleiva",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

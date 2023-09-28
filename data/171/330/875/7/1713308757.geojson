@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Riiviku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000545,
-    "geom:area_square_m":3555731.959995,
+    "geom:area_square_m":3555731.959994,
     "geom:bbox":"26.584256,58.156818,26.632657,58.177901",
     "geom:latitude":58.167625,
     "geom:longitude":26.607578,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6994
+        "ee-mamt:okood":"6994"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327309621
     ],
     "wof:country":"EE",
     "wof:created":1595459725,
-    "wof:geomhash":"039b441eff7e525c918b551bcc3c1abb",
+    "wof:geomhash":"72297f5b16720d2ded93dd9897b9d0d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676683,
+    "wof:lastmodified":1695876939,
     "wof:name":"Riiviku",
     "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",

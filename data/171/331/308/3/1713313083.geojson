@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Juula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000562,
-    "geom:area_square_m":3580557.976931,
+    "geom:area_square_m":3580557.976932,
     "geom:bbox":"24.766661,58.967302,24.837642,58.988795",
     "geom:latitude":58.977143,
     "geom:longitude":24.802867,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2216
+        "ee-mamt:okood":"2216"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460686,
-    "wof:geomhash":"04c1d196feefc6b28f97f33d8811d4f4",
+    "wof:geomhash":"5bbcb543b763b34b3434668f471ddcdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676701,
+    "wof:lastmodified":1695876941,
     "wof:name":"Juula",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

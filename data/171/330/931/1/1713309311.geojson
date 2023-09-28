@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valistre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00123,
-    "geom:area_square_m":7925742.821809,
+    "geom:area_square_m":7925742.82181,
     "geom:bbox":"24.533111,58.577013,24.590199,58.618094",
     "geom:latitude":58.59764,
     "geom:longitude":24.557603,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8947
+        "ee-mamt:okood":"8947"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193256535
     ],
     "wof:country":"EE",
     "wof:created":1595459857,
-    "wof:geomhash":"4ca2fb94f4965566417ea09ccf912b40",
+    "wof:geomhash":"4d0cf476c3928ad15e9f494cf53436f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663408,
+    "wof:lastmodified":1695876824,
     "wof:name":"Valistre",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

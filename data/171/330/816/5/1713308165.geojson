@@ -8,7 +8,7 @@
     "ee-mamt:animi":"\u00d6\u00f6riku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002374,
-    "geom:area_square_m":15306929.836918,
+    "geom:area_square_m":15306929.836919,
     "geom:bbox":"22.860748,58.546428,22.966798,58.591037",
     "geom:latitude":58.570148,
     "geom:longitude":22.917557,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9804
+        "ee-mamt:okood":"9804"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243038809
     ],
     "wof:country":"EE",
     "wof:created":1595459573,
-    "wof:geomhash":"4172ce5f8678280895f9a9027e279b9f",
+    "wof:geomhash":"f1f40092a7d0746bfb135116bd47d23b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671812,
+    "wof:lastmodified":1695876871,
     "wof:name":"\u00d6\u00f6riku",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

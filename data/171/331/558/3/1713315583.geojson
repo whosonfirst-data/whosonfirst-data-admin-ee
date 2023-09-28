@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Holdi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000065,
-    "geom:area_square_m":427033.706788,
+    "geom:area_square_m":427033.706787,
     "geom:bbox":"27.499541,57.742549,27.515732,57.749758",
     "geom:latitude":57.7465,
     "geom:longitude":27.507793,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1876
+        "ee-mamt:okood":"1876"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461251,
-    "wof:geomhash":"a479169305b6b49ed51dc1c80c366cc5",
+    "wof:geomhash":"68c61be28556084602717d0779d9af7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663625,
+    "wof:lastmodified":1695876835,
     "wof:name":"Holdi",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

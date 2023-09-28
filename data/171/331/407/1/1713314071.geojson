@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Papiaru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000553,
-    "geom:area_square_m":3482662.90888,
+    "geom:area_square_m":3482662.908881,
     "geom:bbox":"26.347873,59.364787,26.392911,59.38508",
     "geom:latitude":59.375062,
     "geom:longitude":26.369817,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5979
+        "ee-mamt:okood":"5979"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460897,
-    "wof:geomhash":"85f02a42ae2dbcc895e1772a13da0186",
+    "wof:geomhash":"bd685da8d95a2e8ccb372f2c87a0fd73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676666,
+    "wof:lastmodified":1695876937,
     "wof:name":"Papiaru",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

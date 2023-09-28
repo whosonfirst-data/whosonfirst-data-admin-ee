@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ilpla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001097,
-    "geom:area_square_m":7127566.240199,
+    "geom:area_square_m":7127566.240197,
     "geom:bbox":"22.616467,58.267767,22.681345,58.299741",
     "geom:latitude":58.285244,
     "geom:longitude":22.650485,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2056
+        "ee-mamt:okood":"2056"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343733209
     ],
     "wof:country":"EE",
     "wof:created":1595459421,
-    "wof:geomhash":"903f2d60b95034166a3c62b0191b888c",
+    "wof:geomhash":"5fbb48b2dc1896c5eb826a83c412415a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672349,
+    "wof:lastmodified":1695876891,
     "wof:name":"Ilpla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

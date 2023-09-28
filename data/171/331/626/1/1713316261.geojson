@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Voki-Tamme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000832,
-    "geom:area_square_m":5472770.48576,
+    "geom:area_square_m":5472770.485759,
     "geom:bbox":"27.113421,57.834797,27.1571,57.868251",
     "geom:latitude":57.852787,
     "geom:longitude":27.133643,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8109
+        "ee-mamt:okood":"8109"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461390,
-    "wof:geomhash":"0133b66f052f49ac5610030fdad148a8",
+    "wof:geomhash":"d980280960c56b796362100e929874de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660256,
+    "wof:lastmodified":1695876724,
     "wof:name":"Voki-Tamme",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

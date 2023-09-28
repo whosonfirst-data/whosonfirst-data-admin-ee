@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kivi-Vigala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000362,
-    "geom:area_square_m":2326289.829036,
+    "geom:area_square_m":2326289.829037,
     "geom:bbox":"24.345475,58.709106,24.383818,58.724842",
     "geom:latitude":58.716226,
     "geom:longitude":24.364766,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3175
+        "ee-mamt:okood":"3175"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125934441
     ],
     "wof:country":"EE",
     "wof:created":1595460333,
-    "wof:geomhash":"9dab4ba4f4cfd4e13a2257be8139d78a",
+    "wof:geomhash":"d5b12beaa037c2badd37f52f82b0bd58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662811,
+    "wof:lastmodified":1695876801,
     "wof:name":"Kivi-Vigala",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

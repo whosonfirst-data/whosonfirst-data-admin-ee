@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Petaaluse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001523,
-    "geom:area_square_m":9789694.664137,
+    "geom:area_square_m":9789694.664138,
     "geom:bbox":"23.675519,58.660698,23.743676,58.707965",
     "geom:latitude":58.683586,
     "geom:longitude":23.712109,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6131
+        "ee-mamt:okood":"6131"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225836653
     ],
     "wof:country":"EE",
     "wof:created":1595459807,
-    "wof:geomhash":"2fffb43f0528864b24baabfe0e833525",
+    "wof:geomhash":"f8d4c1f66c5adc1dcc73456d3b6e961a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661580,
+    "wof:lastmodified":1695876766,
     "wof:name":"Petaaluse",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

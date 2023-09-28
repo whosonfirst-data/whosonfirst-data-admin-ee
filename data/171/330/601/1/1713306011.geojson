@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rehatse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002986,
-    "geom:area_square_m":18783768.189353,
+    "geom:area_square_m":18783768.189355,
     "geom:bbox":"25.375774,59.399082,25.47615,59.442087",
     "geom:latitude":59.41967,
     "geom:longitude":25.425029,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6898
+        "ee-mamt:okood":"6898"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276995475
     ],
     "wof:country":"EE",
     "wof:created":1595459054,
-    "wof:geomhash":"a5aa866f03963d2e05d2e4afccd427f7",
+    "wof:geomhash":"28680f953a54863d880a63b450234b1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661821,
+    "wof:lastmodified":1695876778,
     "wof:name":"Rehatse",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

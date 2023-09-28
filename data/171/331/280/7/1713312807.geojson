@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karjak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004229,
-    "geom:area_square_m":27128466.303329,
+    "geom:area_square_m":27128466.303331,
     "geom:bbox":"25.200468,58.720094,25.321568,58.78017",
     "geom:latitude":58.751429,
     "geom:longitude":25.255621,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5144
+        "ee-mamt:okood":"5144"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360185321
     ],
     "wof:country":"EE",
     "wof:created":1595460626,
-    "wof:geomhash":"ab832882df22d90e55fd70e9236a42b5",
+    "wof:geomhash":"5fcdf7bee49d109957b16ede67d78339",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677981,
+    "wof:lastmodified":1695877008,
     "wof:name":"Karjak\u00fcla",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ranna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000312,
-    "geom:area_square_m":2003687.772635,
+    "geom:area_square_m":2003687.77264,
     "geom:bbox":"27.085793,58.71175,27.129872,58.741111",
     "geom:latitude":58.727526,
     "geom:longitude":27.106337,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6803
+        "ee-mamt:okood":"6803"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259902607
     ],
     "wof:country":"EE",
     "wof:created":1595459820,
-    "wof:geomhash":"388d89261ca66bd6592360583d7aa364",
+    "wof:geomhash":"a4d991fd35c0aa99c557544c6e492066",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660856,
+    "wof:lastmodified":1695876738,
     "wof:name":"Ranna",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

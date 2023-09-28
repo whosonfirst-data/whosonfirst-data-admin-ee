@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Haaslava K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001076,
-    "geom:area_square_m":6988270.683847,
+    "geom:area_square_m":6988270.683843,
     "geom:bbox":"26.777448,58.316543,26.843882,58.340809",
     "geom:latitude":58.328501,
     "geom:longitude":26.813331,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1696
+        "ee-mamt:okood":"1696"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890249
     ],
     "wof:country":"EE",
     "wof:created":1595460923,
-    "wof:geomhash":"abe97e5114aac0845bb4cac8eede9746",
+    "wof:geomhash":"765096f7973aa6cfe1593902a842dfb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660656,
+    "wof:lastmodified":1695876730,
     "wof:name":"Haaslava",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

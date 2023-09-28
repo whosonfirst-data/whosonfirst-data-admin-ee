@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aluste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001502,
-    "geom:area_square_m":9675469.703631,
+    "geom:area_square_m":9675469.703632,
     "geom:bbox":"24.882116,58.600313,24.957759,58.630416",
     "geom:latitude":58.614307,
     "geom:longitude":24.922528,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1237
+        "ee-mamt:okood":"1237"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125932881
     ],
     "wof:country":"EE",
     "wof:created":1595459868,
-    "wof:geomhash":"6a7089d28599d68c5b97137be2626db3",
+    "wof:geomhash":"b6f78ab2140ae309deda1f4107c4a5cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663410,
+    "wof:lastmodified":1695876825,
     "wof:name":"Aluste",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

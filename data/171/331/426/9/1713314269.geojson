@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hauka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001631,
-    "geom:area_square_m":10673321.113912,
+    "geom:area_square_m":10673321.113913,
     "geom:bbox":"26.580229,58.029416,26.663989,58.070081",
     "geom:latitude":58.047725,
     "geom:longitude":26.618697,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1785
+        "ee-mamt:okood":"1785"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343935005
     ],
     "wof:country":"EE",
     "wof:created":1595460941,
-    "wof:geomhash":"0edf6dcb425f579fdf691dd6813dfb33",
+    "wof:geomhash":"8c7f466a49b07cd0bf4ec6b282f73df6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676784,
+    "wof:lastmodified":1695876952,
     "wof:name":"Hauka",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

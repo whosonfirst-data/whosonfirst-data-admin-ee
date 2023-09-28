@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaude K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000508,
-    "geom:area_square_m":3257412.040491,
+    "geom:area_square_m":3257412.04049,
     "geom:bbox":"26.580931,58.744733,26.616231,58.766579",
     "geom:latitude":58.754421,
     "geom:longitude":26.595619,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2861
+        "ee-mamt:okood":"2861"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276761307
     ],
     "wof:country":"EE",
     "wof:created":1595460468,
-    "wof:geomhash":"b5136d2c594bea6dab6b9a6ae810eb1b",
+    "wof:geomhash":"4df73e3ab4eb4e45832072e31b851428",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676552,
+    "wof:lastmodified":1695876921,
     "wof:name":"Kaude",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

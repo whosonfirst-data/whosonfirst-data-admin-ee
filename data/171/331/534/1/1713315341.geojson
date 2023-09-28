@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u0151lendmaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.016314,
-    "geom:area_square_m":105768747.432525,
+    "geom:area_square_m":105768747.432531,
     "geom:bbox":"24.691779,58.332468,24.987533,58.424526",
     "geom:latitude":58.378084,
     "geom:longitude":24.848667,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6518
+        "ee-mamt:okood":"6518"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259761315
     ],
     "wof:country":"EE",
     "wof:created":1595461192,
-    "wof:geomhash":"7480155d010cac926d997bfe6f8b3d79",
+    "wof:geomhash":"045cf3ae8f834229bc04c2b3d0745474",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677696,
+    "wof:lastmodified":1695876995,
     "wof:name":"P\u0151lendmaa",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

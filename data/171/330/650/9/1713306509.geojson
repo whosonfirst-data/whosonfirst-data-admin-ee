@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laugu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001099,
-    "geom:area_square_m":7083683.643819,
+    "geom:area_square_m":7083683.643817,
     "geom:bbox":"22.578268,58.552295,22.633278,58.589642",
     "geom:latitude":58.572663,
     "geom:longitude":22.610513,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4138
+        "ee-mamt:okood":"4138"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343340515
     ],
     "wof:country":"EE",
     "wof:created":1595459174,
-    "wof:geomhash":"f03056598973c1322e3234b68ff54466",
+    "wof:geomhash":"0c4dc8e92941c11ddaa99ac9e2c5b3ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671918,
+    "wof:lastmodified":1695876874,
     "wof:name":"Laugu",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

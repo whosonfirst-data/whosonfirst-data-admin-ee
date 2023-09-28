@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nigula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000386,
-    "geom:area_square_m":2457787.754714,
+    "geom:area_square_m":2457787.754716,
     "geom:bbox":"23.76351,58.958936,23.808447,58.976765",
     "geom:latitude":58.964878,
     "geom:longitude":23.782831,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5407
+        "ee-mamt:okood":"5407"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125881997
     ],
     "wof:country":"EE",
     "wof:created":1595459789,
-    "wof:geomhash":"8d11b8f3ec6a66449e6be64afffc9b12",
+    "wof:geomhash":"71a1744751be161c79c6bf03d721df80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677176,
+    "wof:lastmodified":1695876986,
     "wof:name":"Nigula",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

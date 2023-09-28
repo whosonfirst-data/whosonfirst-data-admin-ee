@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Haava-Ts\u00e4psi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000876,
-    "geom:area_square_m":5790755.462976,
+    "geom:area_square_m":5790755.462978,
     "geom:bbox":"27.199635,57.672789,27.244239,57.711193",
     "geom:latitude":57.693697,
     "geom:longitude":27.223023,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1698
+        "ee-mamt:okood":"1698"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461288,
-    "wof:geomhash":"e66e5aabb03f40a8affd9041c9a6fc9f",
+    "wof:geomhash":"641dd47c8e9037d5fb857c69172ecfe8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660263,
+    "wof:lastmodified":1695876725,
     "wof:name":"Haava-Ts\u00e4psi",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

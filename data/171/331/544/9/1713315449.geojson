@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kahru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000136,
-    "geom:area_square_m":898673.93459,
+    "geom:area_square_m":898673.934589,
     "geom:bbox":"27.011591,57.701287,27.033244,57.712521",
     "geom:latitude":57.707539,
     "geom:longitude":27.023335,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2513
+        "ee-mamt:okood":"2513"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226813591
     ],
     "wof:country":"EE",
     "wof:created":1595461222,
-    "wof:geomhash":"fffae522ef6942ae8b11d8708167d99f",
+    "wof:geomhash":"c386e4955eb013bd17813dec9a2c22d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676848,
+    "wof:lastmodified":1695876965,
     "wof:name":"Kahru",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

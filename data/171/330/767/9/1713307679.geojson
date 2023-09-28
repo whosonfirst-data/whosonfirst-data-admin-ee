@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tammiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001839,
-    "geom:area_square_m":11650758.419127,
+    "geom:area_square_m":11650758.419125,
     "geom:bbox":"26.646309,59.167643,26.721325,59.21834",
     "geom:latitude":59.188345,
     "geom:longitude":26.680259,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8108
+        "ee-mamt:okood":"8108"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293385477
     ],
     "wof:country":"EE",
     "wof:created":1595459461,
-    "wof:geomhash":"9fe3e0f0424c66779405eb0cf00e100e",
+    "wof:geomhash":"19f6b2f81aec6250a578afe2280c4bfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677948,
+    "wof:lastmodified":1695877003,
     "wof:name":"Tammiku",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

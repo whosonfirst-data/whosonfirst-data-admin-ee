@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Selgase K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001675,
-    "geom:area_square_m":10841630.671529,
+    "geom:area_square_m":10841630.67153,
     "geom:bbox":"22.155135,58.41597,22.253303,58.451253",
     "geom:latitude":58.432532,
     "geom:longitude":22.198098,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7513
+        "ee-mamt:okood":"7513"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242956747
     ],
     "wof:country":"EE",
     "wof:created":1595459595,
-    "wof:geomhash":"aa4905df4d369f2ee08f917afbd3d919",
+    "wof:geomhash":"d827faeb7c6c70f1cbdd22562ad466c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671904,
+    "wof:lastmodified":1695876874,
     "wof:name":"Selgase",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

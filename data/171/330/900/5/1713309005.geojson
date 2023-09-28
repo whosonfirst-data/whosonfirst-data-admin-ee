@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aadma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00076,
-    "geom:area_square_m":4866705.188171,
+    "geom:area_square_m":4866705.18817,
     "geom:bbox":"22.62507,58.788959,22.670521,58.814163",
     "geom:latitude":58.801628,
     "geom:longitude":22.652685,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1013
+        "ee-mamt:okood":"1013"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326542803
     ],
     "wof:country":"EE",
     "wof:created":1595459783,
-    "wof:geomhash":"5604f3623c631192c9d4e7503f1ec755",
+    "wof:geomhash":"29f83e9e489543a9071b7bf25e328c0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666498,
+    "wof:lastmodified":1695876863,
     "wof:name":"Aadma",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

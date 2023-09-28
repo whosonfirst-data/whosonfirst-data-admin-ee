@@ -8,7 +8,7 @@
     "ee-mamt:animi":"F\u00f6rby K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001002,
-    "geom:area_square_m":6384292.114766,
+    "geom:area_square_m":6384292.114764,
     "geom:bbox":"23.077873,58.966089,23.178291,59.013676",
     "geom:latitude":58.996421,
     "geom:longitude":23.153149,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1670
+        "ee-mamt:okood":"1670"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276679837
     ],
     "wof:country":"EE",
     "wof:created":1595459353,
-    "wof:geomhash":"b63f0c17d39aad78b7f9718bb338a561",
+    "wof:geomhash":"f3caf08a3a91609c0ed0eb69c7e0ee5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663597,
+    "wof:lastmodified":1695876834,
     "wof:name":"F\u00f6rby",
     "wof:parent_id":1713305639,
     "wof:placetype":"localadmin",

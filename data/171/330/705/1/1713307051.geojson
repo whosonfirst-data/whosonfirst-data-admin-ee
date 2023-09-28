@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4gi-Kurdla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000726,
-    "geom:area_square_m":4701934.639152,
+    "geom:area_square_m":4701934.639148,
     "geom:bbox":"23.003211,58.402866,23.074701,58.431094",
     "geom:latitude":58.417745,
     "geom:longitude":23.036972,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5220
+        "ee-mamt:okood":"5220"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226721061
     ],
     "wof:country":"EE",
     "wof:created":1595459309,
-    "wof:geomhash":"b70174de61cffec7f6927b8dd468f9b1",
+    "wof:geomhash":"b1eab8ec7354b2013e578b271d87c618",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672131,
+    "wof:lastmodified":1695876881,
     "wof:name":"M\u00e4gi-Kurdla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

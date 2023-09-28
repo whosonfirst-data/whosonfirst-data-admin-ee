@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaali K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000602,
-    "geom:area_square_m":3907148.545958,
+    "geom:area_square_m":3907148.545959,
     "geom:bbox":"22.640976,58.345503,22.679256,58.379091",
     "geom:latitude":58.361,
     "geom:longitude":22.663557,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2398
+        "ee-mamt:okood":"2398"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226216327
     ],
     "wof:country":"EE",
     "wof:created":1595459421,
-    "wof:geomhash":"4d1cc13525b99a600870d619fe0d355b",
+    "wof:geomhash":"ed6993802eeaf0e6225a987c4a0f471d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672455,
+    "wof:lastmodified":1695876894,
     "wof:name":"Kaali",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Anguse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000649,
-    "geom:area_square_m":4101776.457413,
+    "geom:area_square_m":4101776.457412,
     "geom:bbox":"26.669578,59.223322,26.711589,59.250019",
     "geom:latitude":59.238646,
     "geom:longitude":26.692708,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1275
+        "ee-mamt:okood":"1275"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226262705
     ],
     "wof:country":"EE",
     "wof:created":1595459507,
-    "wof:geomhash":"393357fbdcf7ae8279ea2f9d488320b3",
+    "wof:geomhash":"b6e90a8e39108df4b1bb240f8ef2bc9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677946,
+    "wof:lastmodified":1695877003,
     "wof:name":"Anguse",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

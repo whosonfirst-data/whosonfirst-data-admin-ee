@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vasara K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001254,
-    "geom:area_square_m":8134791.297051,
+    "geom:area_square_m":8134791.29705,
     "geom:bbox":"25.747736,58.322022,25.813141,58.363459",
     "geom:latitude":58.345317,
     "geom:longitude":25.789965,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9103
+        "ee-mamt:okood":"9103"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226006537
     ],
     "wof:country":"EE",
     "wof:created":1595460015,
-    "wof:geomhash":"cdd118a565284a7173ecf91bfc28e12e",
+    "wof:geomhash":"59f92cb1351f12829c55e30a326052be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661234,
+    "wof:lastmodified":1695876748,
     "wof:name":"Vasara",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

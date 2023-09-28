@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vana-Kariste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002514,
-    "geom:area_square_m":16388881.653492,
+    "geom:area_square_m":16388881.653493,
     "geom:bbox":"25.255022,58.151789,25.337178,58.212358",
     "geom:latitude":58.179869,
     "geom:longitude":25.298001,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8984
+        "ee-mamt:okood":"8984"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936921
     ],
     "wof:country":"EE",
     "wof:created":1595460408,
-    "wof:geomhash":"519626e16f84e98c29de6692a4fe7a4f",
+    "wof:geomhash":"149461e1dca43f19ffeafa15a687ef3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661284,
+    "wof:lastmodified":1695876750,
     "wof:name":"Vana-Kariste",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

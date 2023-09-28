@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tabara K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003609,
-    "geom:area_square_m":22895815.502935,
+    "geom:area_square_m":22895815.502939,
     "geom:bbox":"24.167767,59.093383,24.259727,59.163267",
     "geom:latitude":59.129055,
     "geom:longitude":24.218412,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8006
+        "ee-mamt:okood":"8006"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276566287
     ],
     "wof:country":"EE",
     "wof:created":1595460629,
-    "wof:geomhash":"28615d46ab2571979864556302b389ab",
+    "wof:geomhash":"fcf04c99af0f385b82cf4b42a2599f54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663224,
+    "wof:lastmodified":1695876809,
     "wof:name":"Tabara",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

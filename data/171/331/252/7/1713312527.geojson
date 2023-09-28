@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Auvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.014685,
-    "geom:area_square_m":92675552.117497,
+    "geom:area_square_m":92675552.117505,
     "geom:bbox":"27.810112,59.245887,28.040696,59.365064",
     "geom:latitude":59.311558,
     "geom:longitude":27.925009,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1472
+        "ee-mamt:okood":"1472"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343573041
     ],
     "wof:country":"EE",
     "wof:created":1595460563,
-    "wof:geomhash":"448c131235a0ddb82563e7644f2c64a2",
+    "wof:geomhash":"7be231225832a6510e3ff2cbbd0dc5f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677756,
+    "wof:lastmodified":1695876998,
     "wof:name":"Auvere",
     "wof:parent_id":1713305779,
     "wof:placetype":"localadmin",

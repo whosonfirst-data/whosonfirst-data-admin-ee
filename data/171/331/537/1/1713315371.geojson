@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aabra K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000172,
-    "geom:area_square_m":1138254.273897,
+    "geom:area_square_m":1138254.273898,
     "geom:bbox":"26.999118,57.665593,27.032812,57.677616",
     "geom:latitude":57.671043,
     "geom:longitude":27.018563,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1005
+        "ee-mamt:okood":"1005"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326494631
     ],
     "wof:country":"EE",
     "wof:created":1595461198,
-    "wof:geomhash":"8db472cce239e42397a5d4eea7683ca2",
+    "wof:geomhash":"a36aa4047feb7501e21c5e8a80ad6ee1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676833,
+    "wof:lastmodified":1695876961,
     "wof:name":"Aabra",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

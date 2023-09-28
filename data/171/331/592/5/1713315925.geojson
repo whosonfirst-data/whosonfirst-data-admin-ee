@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u00fcri-Alliku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001659,
-    "geom:area_square_m":10617771.643752,
+    "geom:area_square_m":10617771.643756,
     "geom:bbox":"25.407873,58.806031,25.494409,58.839232",
     "geom:latitude":58.824985,
     "geom:longitude":25.451944,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8597
+        "ee-mamt:okood":"8597"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936647
     ],
     "wof:country":"EE",
     "wof:created":1595461322,
-    "wof:geomhash":"68e44f748a9b57efa2852a602a5651f5",
+    "wof:geomhash":"8ae7df5da24ccb3308261f6fe76f2992",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677978,
+    "wof:lastmodified":1695877007,
     "wof:name":"T\u00fcri-Alliku",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

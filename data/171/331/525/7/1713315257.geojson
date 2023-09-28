@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaivara K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001252,
-    "geom:area_square_m":7886227.715815,
+    "geom:area_square_m":7886227.715817,
     "geom:bbox":"27.759715,59.349689,27.814788,59.390139",
     "geom:latitude":59.368443,
     "geom:longitude":27.784979,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8895
+        "ee-mamt:okood":"8895"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125821315
     ],
     "wof:country":"EE",
     "wof:created":1595461164,
-    "wof:geomhash":"835bde076b0c21c0acb96448859f9f4a",
+    "wof:geomhash":"b7b152be808558dae4c7d7372e7f56f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677762,
+    "wof:lastmodified":1695876999,
     "wof:name":"Vaivara",
     "wof:parent_id":1713305779,
     "wof:placetype":"localadmin",

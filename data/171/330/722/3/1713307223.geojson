@@ -8,7 +8,7 @@
     "ee-mamt:animi":"L\u0151mala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001636,
-    "geom:area_square_m":10665285.420876,
+    "geom:area_square_m":10665285.420879,
     "geom:bbox":"22.106106,58.162362,22.19062,58.209204",
     "geom:latitude":58.190301,
     "geom:longitude":22.145746,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4604
+        "ee-mamt:okood":"4604"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226116207
     ],
     "wof:country":"EE",
     "wof:created":1595459349,
-    "wof:geomhash":"4f01f341cc3ab747b248ee091495d794",
+    "wof:geomhash":"a72590d54f9b8bfd8eef2f99528004f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672240,
+    "wof:lastmodified":1695876886,
     "wof:name":"L\u0151mala",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

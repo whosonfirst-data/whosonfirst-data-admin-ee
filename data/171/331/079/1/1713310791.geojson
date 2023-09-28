@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Luguse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000711,
-    "geom:area_square_m":4551300.322985,
+    "geom:area_square_m":4551300.322983,
     "geom:bbox":"22.693174,58.8008,22.741557,58.828697",
     "geom:latitude":58.813344,
     "geom:longitude":22.718941,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4537
+        "ee-mamt:okood":"4537"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242586313
     ],
     "wof:country":"EE",
     "wof:created":1595460201,
-    "wof:geomhash":"26e4846c494a744784fe402bf12a2651",
+    "wof:geomhash":"32676b3191a4c09f2d5524a1fb403084",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666454,
+    "wof:lastmodified":1695876859,
     "wof:name":"Luguse",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vintri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001113,
-    "geom:area_square_m":7284012.394169,
+    "geom:area_square_m":7284012.39417,
     "geom:bbox":"22.162827,58.016611,22.223238,58.062451",
     "geom:latitude":58.041198,
     "geom:longitude":22.191272,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9378
+        "ee-mamt:okood":"9378"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226820041
     ],
     "wof:country":"EE",
     "wof:created":1595459685,
-    "wof:geomhash":"53968d60ea699b24725152ecade20534",
+    "wof:geomhash":"965be8f9e2b5684511dd2ea3a1779e68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672555,
+    "wof:lastmodified":1695876899,
     "wof:name":"Vintri",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

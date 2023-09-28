@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ao K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001621,
-    "geom:area_square_m":10320279.200238,
+    "geom:area_square_m":10320279.200236,
     "geom:bbox":"26.160626,58.975565,26.228779,59.026889",
     "geom:latitude":59.001882,
     "geom:longitude":26.189602,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1309
+        "ee-mamt:okood":"1309"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310623287
     ],
     "wof:country":"EE",
     "wof:created":1595460434,
-    "wof:geomhash":"50cb19801093606c994eba308b20534a",
+    "wof:geomhash":"c3f8ac7c0421698666d2279f50585413",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676525,
+    "wof:lastmodified":1695876918,
     "wof:name":"Ao",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

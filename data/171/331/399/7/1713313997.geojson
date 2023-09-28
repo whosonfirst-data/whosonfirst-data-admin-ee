@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vahessaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001134,
-    "geom:area_square_m":7372629.297289,
+    "geom:area_square_m":7372629.29729,
     "geom:bbox":"26.310561,58.273144,26.392272,58.301481",
     "geom:latitude":58.287649,
     "geom:longitude":26.351856,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8846
+        "ee-mamt:okood":"8846"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310564413
     ],
     "wof:country":"EE",
     "wof:created":1595460880,
-    "wof:geomhash":"29cddbc0b29731207243e81a2de73803",
+    "wof:geomhash":"c54fc1e8211d4094e523a2ff291f8093",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661901,
+    "wof:lastmodified":1695876787,
     "wof:name":"Vahessaare",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

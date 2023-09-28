@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sandra K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.026628,
-    "geom:area_square_m":172243285.61717,
+    "geom:area_square_m":172243285.617125,
     "geom:bbox":"25.007752,58.402802,25.329173,58.518833",
     "geom:latitude":58.458467,
     "geom:longitude":25.160337,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7415
+        "ee-mamt:okood":"7415"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326991891
     ],
     "wof:country":"EE",
     "wof:created":1595460848,
-    "wof:geomhash":"6984501b1f17d0bb06bf6ea260e04099",
+    "wof:geomhash":"ef2249cd37eff1d3f90d46d05de682f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663443,
+    "wof:lastmodified":1695876829,
     "wof:name":"Sandra",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

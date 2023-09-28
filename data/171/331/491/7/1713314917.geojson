@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viitina K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000655,
-    "geom:area_square_m":4327805.091302,
+    "geom:area_square_m":4327805.091304,
     "geom:bbox":"26.917282,57.681009,26.988173,57.698388",
     "geom:latitude":57.688898,
     "geom:longitude":26.946322,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9307
+        "ee-mamt:okood":"9307"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125852567
     ],
     "wof:country":"EE",
     "wof:created":1595461093,
-    "wof:geomhash":"ce5a26918755b187d1b08431bc08f6a8",
+    "wof:geomhash":"6679bf1c338910cfaa77d741d960968e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676836,
+    "wof:lastmodified":1695876962,
     "wof:name":"Viitina",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

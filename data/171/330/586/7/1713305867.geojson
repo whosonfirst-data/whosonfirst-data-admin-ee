@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Naage K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000577,
-    "geom:area_square_m":3630860.141202,
+    "geom:area_square_m":3630860.141201,
     "geom:bbox":"24.339934,59.395357,24.382287,59.42049",
     "geom:latitude":59.405339,
     "geom:longitude":24.358366,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5327
+        "ee-mamt:okood":"5327"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125889649
     ],
     "wof:country":"EE",
     "wof:created":1595459017,
-    "wof:geomhash":"7939d96583b7f1c9573e80c5854ad2eb",
+    "wof:geomhash":"209c1e52f43c6779a38c1963169e5ff7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661451,
+    "wof:lastmodified":1695876761,
     "wof:name":"Naage",
     "wof:parent_id":1713305681,
     "wof:placetype":"localadmin",

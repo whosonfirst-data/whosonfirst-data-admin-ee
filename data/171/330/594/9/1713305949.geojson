@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Virve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00117,
-    "geom:area_square_m":7324645.041701,
+    "geom:area_square_m":7324645.041702,
     "geom:bbox":"25.519015,59.577986,25.611078,59.602591",
     "geom:latitude":59.592383,
     "geom:longitude":25.569245,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9411
+        "ee-mamt:okood":"9411"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125951065
     ],
     "wof:country":"EE",
     "wof:created":1595459035,
-    "wof:geomhash":"9269d9c01c2f74bd105996772634796c",
+    "wof:geomhash":"ca659a6ac9e82b00cbcd46f30e5eab66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661810,
+    "wof:lastmodified":1695876777,
     "wof:name":"Virve",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

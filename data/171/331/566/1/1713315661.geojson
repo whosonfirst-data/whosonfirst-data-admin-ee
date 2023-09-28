@@ -8,13 +8,13 @@
     "ee-mamt:animi":"K\u00e4ru Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000271,
-    "geom:area_square_m":1737515.357585,
+    "geom:area_square_m":1737515.357584,
     "geom:bbox":"25.129702,58.818873,25.154009,58.840128",
     "geom:latitude":58.830191,
     "geom:longitude":25.141488,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "K\u00e4ru alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3931
+        "ee-mamt:okood":"3931"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008347
     ],
     "wof:country":"EE",
     "wof:created":1595461268,
-    "wof:geomhash":"de4224b999b8a9bbaf8440b815d9fe99",
+    "wof:geomhash":"77f85bf71d853519d9dd6f1e97ff50e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677978,
+    "wof:lastmodified":1695877007,
     "wof:name":"K\u00e4ru",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

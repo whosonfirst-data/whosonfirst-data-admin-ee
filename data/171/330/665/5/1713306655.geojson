@@ -14,7 +14,7 @@
     "geom:longitude":25.56464,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Oisu alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5641
+        "ee-mamt:okood":"5641"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125971565
     ],
     "wof:country":"EE",
     "wof:created":1595459207,
-    "wof:geomhash":"0a910ff3e9b5d165d1cb194db281b041",
+    "wof:geomhash":"228691d89b900825a48af196b974247b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677974,
+    "wof:lastmodified":1695877006,
     "wof:name":"Oisu",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

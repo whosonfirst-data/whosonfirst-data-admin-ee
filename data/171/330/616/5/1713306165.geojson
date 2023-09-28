@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aljava K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000354,
-    "geom:area_square_m":2282729.433937,
+    "geom:area_square_m":2282729.433934,
     "geom:bbox":"23.171661,58.543985,23.2083,58.5652",
     "geom:latitude":58.555712,
     "geom:longitude":23.190999,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1196
+        "ee-mamt:okood":"1196"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242751601
     ],
     "wof:country":"EE",
     "wof:created":1595459092,
-    "wof:geomhash":"98d4f2aac11fd3b71499b262f8cd1d67",
+    "wof:geomhash":"e8cc9ed229d1eef2db925ec92021ad07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675115,
+    "wof:lastmodified":1695876904,
     "wof:name":"Aljava",
     "wof:parent_id":1713305623,
     "wof:placetype":"localadmin",

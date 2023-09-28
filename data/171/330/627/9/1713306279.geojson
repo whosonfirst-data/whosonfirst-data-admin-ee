@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paunaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000374,
-    "geom:area_square_m":2374012.332211,
+    "geom:area_square_m":2374012.332212,
     "geom:bbox":"25.241982,59.067288,25.280111,59.082611",
     "geom:latitude":59.074715,
     "geom:longitude":25.260439,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6052
+        "ee-mamt:okood":"6052"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343363153
     ],
     "wof:country":"EE",
     "wof:created":1595459120,
-    "wof:geomhash":"932c871e9a0494155fd01e6ce9d67be4",
+    "wof:geomhash":"15078f123559f5c42e4a10fa629bc4cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661342,
+    "wof:lastmodified":1695876755,
     "wof:name":"Paunaste",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

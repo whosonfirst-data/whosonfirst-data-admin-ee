@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valila K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001916,
-    "geom:area_square_m":12244631.596699,
+    "geom:area_square_m":12244631.5967,
     "geom:bbox":"25.905584,58.863586,25.976075,58.913406",
     "geom:latitude":58.88754,
     "geom:longitude":25.933767,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8944
+        "ee-mamt:okood":"8944"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125991775
     ],
     "wof:country":"EE",
     "wof:created":1595459304,
-    "wof:geomhash":"880955321c041ff8959e70705c214fe0",
+    "wof:geomhash":"d5cdcefe1bf67d30543390e02a839a57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676625,
+    "wof:lastmodified":1695876932,
     "wof:name":"Valila",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aravu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002643,
-    "geom:area_square_m":17207101.341559,
+    "geom:area_square_m":17207101.341558,
     "geom:bbox":"27.336945,58.207615,27.426939,58.256147",
     "geom:latitude":58.234879,
     "geom:longitude":27.385143,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1329
+        "ee-mamt:okood":"1329"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125955015
     ],
     "wof:country":"EE",
     "wof:created":1595460225,
-    "wof:geomhash":"e8c0d56ee210d8ed5f58eaf0a04f082d",
+    "wof:geomhash":"b23e86ecc430f321488602e50bf4c42d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676979,
+    "wof:lastmodified":1695876976,
     "wof:name":"Aravu",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

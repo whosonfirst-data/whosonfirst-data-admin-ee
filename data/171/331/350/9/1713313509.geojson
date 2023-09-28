@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Alak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000796,
-    "geom:area_square_m":5178754.785353,
+    "geom:area_square_m":5178754.785354,
     "geom:bbox":"26.895455,58.226853,26.949831,58.257906",
     "geom:latitude":58.243946,
     "geom:longitude":26.925013,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1167
+        "ee-mamt:okood":"1167"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209481521
     ],
     "wof:country":"EE",
     "wof:created":1595460777,
-    "wof:geomhash":"523ad1e6c1d39e32f5fad9eb724bd530",
+    "wof:geomhash":"09ccf8a50c6c2437ea733e95c176ef21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660655,
+    "wof:lastmodified":1695876729,
     "wof:name":"Alak\u00fcla",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

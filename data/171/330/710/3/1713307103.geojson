@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Parasmetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00134,
-    "geom:area_square_m":8644911.209,
+    "geom:area_square_m":8644911.209002,
     "geom:bbox":"22.62498,58.535278,22.674551,58.581096",
     "geom:latitude":58.562092,
     "geom:longitude":22.648315,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5994
+        "ee-mamt:okood":"5994"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310275789
     ],
     "wof:country":"EE",
     "wof:created":1595459321,
-    "wof:geomhash":"575777a68ad1661610f931fea279da18",
+    "wof:geomhash":"e40e2df9247882e63d131f2e0faacc26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672149,
+    "wof:lastmodified":1695876882,
     "wof:name":"Parasmetsa",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

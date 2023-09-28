@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laguja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000659,
-    "geom:area_square_m":4297653.476874,
+    "geom:area_square_m":4297653.476871,
     "geom:bbox":"26.440938,58.144945,26.491446,58.174725",
     "geom:latitude":58.159058,
     "geom:longitude":26.462104,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4046
+        "ee-mamt:okood":"4046"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343833935
     ],
     "wof:country":"EE",
     "wof:created":1595460839,
-    "wof:geomhash":"498f88236ebfc40f18ea5e64e0b7a4a8",
+    "wof:geomhash":"98f3e14c309525947eb50de3ff2ad06a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676755,
+    "wof:lastmodified":1695876948,
     "wof:name":"Laguja",
     "wof:parent_id":1713305715,
     "wof:placetype":"localadmin",

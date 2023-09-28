@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Jaamak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002157,
-    "geom:area_square_m":14031201.127523,
+    "geom:area_square_m":14031201.127524,
     "geom:bbox":"24.706704,58.240207,24.785169,58.293933",
     "geom:latitude":58.263837,
     "geom:longitude":24.742651,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2132
+        "ee-mamt:okood":"2132"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125933239
     ],
     "wof:country":"EE",
     "wof:created":1595459918,
-    "wof:geomhash":"95816e2ccc11f4213082bf87bb122d70",
+    "wof:geomhash":"63cb8f987a432d900183042771bd2798",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677721,
+    "wof:lastmodified":1695876996,
     "wof:name":"Jaamak\u00fcla",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Naelavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000989,
-    "geom:area_square_m":6373835.237114,
+    "geom:area_square_m":6373835.237115,
     "geom:bbox":"27.081762,58.573809,27.141306,58.602347",
     "geom:latitude":58.586868,
     "geom:longitude":27.110139,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5337
+        "ee-mamt:okood":"5337"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277051693
     ],
     "wof:country":"EE",
     "wof:created":1595459900,
-    "wof:geomhash":"0002b540ca0197d81011d2a02d197015",
+    "wof:geomhash":"074fbbef22401936387946ae23c48540",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660864,
+    "wof:lastmodified":1695876739,
     "wof:name":"Naelavere",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

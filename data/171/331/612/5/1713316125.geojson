@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hinniala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000045,
-    "geom:area_square_m":296565.568499,
+    "geom:area_square_m":296565.568497,
     "geom:bbox":"27.355428,57.765177,27.367463,57.774729",
     "geom:latitude":57.768826,
     "geom:longitude":27.360951,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1856
+        "ee-mamt:okood":"1856"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243131131
     ],
     "wof:country":"EE",
     "wof:created":1595461363,
-    "wof:geomhash":"77fdd2be09719a57696c7cb62647d9ac",
+    "wof:geomhash":"235444aabbdc01c10cf9444dea1984d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660274,
+    "wof:lastmodified":1695876727,
     "wof:name":"Hinniala",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

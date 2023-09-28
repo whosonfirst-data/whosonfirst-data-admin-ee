@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tuksi K\u00fcla / Bergsby",
     "ee-mamt:tyyp":8,
     "geom:area":0.002437,
-    "geom:area_square_m":15439789.869718,
+    "geom:area_square_m":15439789.86972,
     "geom:bbox":"23.528481,59.169682,23.64004,59.203282",
     "geom:latitude":59.183856,
     "geom:longitude":23.577253,
@@ -50,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8409
+        "ee-mamt:okood":"8409"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459733,
-    "wof:geomhash":"70465dfd4718381be04e7051031d9f18",
+    "wof:geomhash":"9fc484997d0ba24b8201b05fabb846a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677174,
+    "wof:lastmodified":1695876986,
     "wof:name":"Tuksi",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

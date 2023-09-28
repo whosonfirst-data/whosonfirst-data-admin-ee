@@ -8,7 +8,7 @@
     "ee-mamt:animi":"\u0150ruste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004286,
-    "geom:area_square_m":28152136.958817,
+    "geom:area_square_m":28152136.958814,
     "geom:bbox":"26.127727,57.882368,26.249269,57.939448",
     "geom:latitude":57.909485,
     "geom:longitude":26.188281,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9713
+        "ee-mamt:okood":"9713"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935095
     ],
     "wof:country":"EE",
     "wof:created":1595460186,
-    "wof:geomhash":"3da141148774d6d10bf77241354420f6",
+    "wof:geomhash":"71c183e95dfc4aaede4d46f83b0f2353",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661940,
+    "wof:lastmodified":1695876791,
     "wof:name":"\u0150ruste",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

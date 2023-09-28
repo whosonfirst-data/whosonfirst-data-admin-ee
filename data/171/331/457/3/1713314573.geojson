@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Loobu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003404,
-    "geom:area_square_m":21382347.82441,
+    "geom:area_square_m":21382347.824423,
     "geom:bbox":"25.832491,59.432457,25.990721,59.500119",
     "geom:latitude":59.468633,
     "geom:longitude":25.900246,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4498
+        "ee-mamt:okood":"4498"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260268501
     ],
     "wof:country":"EE",
     "wof:created":1595461012,
-    "wof:geomhash":"fcd22e47f74d84e3e4d73316b45c179e",
+    "wof:geomhash":"a093931ad08366db5b96e75be5cc002c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661725,
+    "wof:lastmodified":1695876775,
     "wof:name":"Loobu",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

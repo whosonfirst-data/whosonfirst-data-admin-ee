@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Uuesalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000572,
-    "geom:area_square_m":3603636.431179,
+    "geom:area_square_m":3603636.43118,
     "geom:bbox":"24.779179,59.35424,24.846252,59.369108",
     "geom:latitude":59.361253,
     "geom:longitude":24.818797,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8774
+        "ee-mamt:okood":"8774"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460751,
-    "wof:geomhash":"4d051501f91207ec4527c89ca84f92d1",
+    "wof:geomhash":"8086ffdccee794eb073999e740b91bba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661468,
+    "wof:lastmodified":1695876761,
     "wof:name":"Uuesalu",
     "wof:parent_id":1713305683,
     "wof:placetype":"localadmin",

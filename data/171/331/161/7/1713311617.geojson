@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paelama K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002992,
-    "geom:area_square_m":19345532.214429,
+    "geom:area_square_m":19345532.214424,
     "geom:bbox":"25.280011,58.435609,25.365316,58.504814",
     "geom:latitude":58.470365,
     "geom:longitude":25.318558,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5828
+        "ee-mamt:okood":"5828"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225810077
     ],
     "wof:country":"EE",
     "wof:created":1595460382,
-    "wof:geomhash":"cb1204e8b843246c50bf94626884a3ba",
+    "wof:geomhash":"9eb34114207dc56b24566d8ae684f626",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663442,
+    "wof:lastmodified":1695876829,
     "wof:name":"Paelama",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

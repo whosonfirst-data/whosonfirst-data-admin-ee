@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pilpa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005295,
-    "geom:area_square_m":34722846.46135,
+    "geom:area_square_m":34722846.46136,
     "geom:bbox":"25.580462,57.92256,25.694345,58.018338",
     "geom:latitude":57.969919,
     "geom:longitude":25.642097,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6257
+        "ee-mamt:okood":"6257"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243329151
     ],
     "wof:country":"EE",
     "wof:created":1595460833,
-    "wof:geomhash":"2dd42485fa18dcd73f1c109eb14ab780",
+    "wof:geomhash":"dbc61a7b786e08ebac33fc31908c5cd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661429,
+    "wof:lastmodified":1695876759,
     "wof:name":"Pilpa",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

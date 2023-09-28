@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Usinitsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000778,
-    "geom:area_square_m":5097727.6431,
+    "geom:area_square_m":5097727.643098,
     "geom:bbox":"27.481914,57.98092,27.551703,58.012583",
     "geom:latitude":57.99437,
     "geom:longitude":27.511297,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8737
+        "ee-mamt:okood":"8737"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360161871
     ],
     "wof:country":"EE",
     "wof:created":1595461428,
-    "wof:geomhash":"f69155879150ab33006fa604e056cf3b",
+    "wof:geomhash":"5dceb67a9d749eddf1e27b5b969b879a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663634,
+    "wof:lastmodified":1695876837,
     "wof:name":"Usinitsa",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

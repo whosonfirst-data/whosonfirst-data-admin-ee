@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koigi-V\u00e4ljak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000795,
-    "geom:area_square_m":5138474.070466,
+    "geom:area_square_m":5138474.070465,
     "geom:bbox":"22.885603,58.48256,22.939955,58.508082",
     "geom:latitude":58.492242,
     "geom:longitude":22.910406,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3290
+        "ee-mamt:okood":"3290"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459370,
-    "wof:geomhash":"18fd193e1ebf598accead715db18dbbc",
+    "wof:geomhash":"8cb0cd15b52b6fc37d4e2f8fa8c6b8a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672277,
+    "wof:lastmodified":1695876887,
     "wof:name":"Koigi-V\u00e4ljak\u00fcla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

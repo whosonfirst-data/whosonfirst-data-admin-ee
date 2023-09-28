@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Liivi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004369,
-    "geom:area_square_m":27964348.595488,
+    "geom:area_square_m":27964348.595479,
     "geom:bbox":"23.916931,58.788683,24.008695,58.865423",
     "geom:latitude":58.82976,
     "geom:longitude":23.962009,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4361
+        "ee-mamt:okood":"4361"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125831001
     ],
     "wof:country":"EE",
     "wof:created":1595459705,
-    "wof:geomhash":"6b54cab4c301684bbb62cbefc3af750c",
+    "wof:geomhash":"c134624ce34fd6b3199a7953b5b5cd66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677193,
+    "wof:lastmodified":1695876988,
     "wof:name":"Liivi",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

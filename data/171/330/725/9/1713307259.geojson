@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Himmiste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000759,
-    "geom:area_square_m":4937386.681333,
+    "geom:area_square_m":4937386.681332,
     "geom:bbox":"21.938237,58.262885,21.994056,58.286821",
     "geom:latitude":58.2744,
     "geom:longitude":21.965073,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1850
+        "ee-mamt:okood":"1850"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243041697
     ],
     "wof:country":"EE",
     "wof:created":1595459359,
-    "wof:geomhash":"f4755463ee792d4fd9dbecf3dd5ac2a6",
+    "wof:geomhash":"7a006a9b2bedcc8e0b04b698c71cfa7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672231,
+    "wof:lastmodified":1695876885,
     "wof:name":"Himmiste",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

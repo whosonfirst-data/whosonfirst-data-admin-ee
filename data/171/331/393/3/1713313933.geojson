@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kavastu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001613,
-    "geom:area_square_m":10132604.985372,
+    "geom:area_square_m":10132604.985374,
     "geom:bbox":"26.088082,59.457079,26.192031,59.491857",
     "geom:latitude":59.4735,
     "geom:longitude":26.140327,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2896
+        "ee-mamt:okood":"2896"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293277873
     ],
     "wof:country":"EE",
     "wof:created":1595460868,
-    "wof:geomhash":"1f249291abd6c6934b1ae6eca04986d3",
+    "wof:geomhash":"35476f79f4afb6e745735618a3f769a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678033,
+    "wof:lastmodified":1695877013,
     "wof:name":"Kavastu",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Sadala Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.00029,
-    "geom:area_square_m":1853820.487238,
+    "geom:area_square_m":1853820.487239,
     "geom:bbox":"26.590858,58.855305,26.620077,58.871952",
     "geom:latitude":58.863327,
     "geom:longitude":26.605652,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Sadala alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7318
+        "ee-mamt:okood":"7318"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125851369
     ],
     "wof:country":"EE",
     "wof:created":1595460495,
-    "wof:geomhash":"a53ce8dae7e9290b93eb233f20d21a6a",
+    "wof:geomhash":"28dae04738861b74c20b490eb27618ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676561,
+    "wof:lastmodified":1695876924,
     "wof:name":"Sadala",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

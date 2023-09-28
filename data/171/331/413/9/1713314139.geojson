@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tilla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003225,
-    "geom:area_square_m":20985103.376267,
+    "geom:area_square_m":20985103.376272,
     "geom:bbox":"25.239669,58.210762,25.327125,58.279856",
     "geom:latitude":58.24858,
     "geom:longitude":25.284566,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8240
+        "ee-mamt:okood":"8240"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243528905
     ],
     "wof:country":"EE",
     "wof:created":1595460911,
-    "wof:geomhash":"741b0e26aa870d7fbb840004cdbb8693",
+    "wof:geomhash":"8dbcfd90ed821814fe54d5b954841db3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661286,
+    "wof:lastmodified":1695876750,
     "wof:name":"Tilla",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

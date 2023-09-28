@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sopimetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001057,
-    "geom:area_square_m":6777515.310642,
+    "geom:area_square_m":6777515.310641,
     "geom:bbox":"25.967967,58.761499,26.03653,58.787274",
     "geom:latitude":58.775215,
     "geom:longitude":26.003116,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7753
+        "ee-mamt:okood":"7753"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226781453
     ],
     "wof:country":"EE",
     "wof:created":1595460961,
-    "wof:geomhash":"7533e891556b18af7f809ff42b696a93",
+    "wof:geomhash":"0eeec7e4293464e8844b1c83ea5dbcd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676488,
+    "wof:lastmodified":1695876915,
     "wof:name":"Sopimetsa",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

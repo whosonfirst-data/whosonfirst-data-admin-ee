@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4ike-Rakke K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002585,
-    "geom:area_square_m":16779463.240943,
+    "geom:area_square_m":16779463.240945,
     "geom:bbox":"26.150235,58.32276,26.268215,58.365303",
     "geom:latitude":58.341884,
     "geom:longitude":26.222674,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9633
+        "ee-mamt:okood":"9633"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126017789
     ],
     "wof:country":"EE",
     "wof:created":1595460177,
-    "wof:geomhash":"7fae80d9bbd137ad1d01a267191ea4b7",
+    "wof:geomhash":"dfe47c351c36703333a697c0bf242537",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661897,
+    "wof:lastmodified":1695876785,
     "wof:name":"V\u00e4ike-Rakke",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

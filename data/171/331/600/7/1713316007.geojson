@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Matsuri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000444,
-    "geom:area_square_m":2919369.396105,
+    "geom:area_square_m":2919369.396104,
     "geom:bbox":"27.550789,57.830793,27.594659,57.85238",
     "geom:latitude":57.839888,
     "geom:longitude":27.57679,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4827
+        "ee-mamt:okood":"4827"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326610175
     ],
     "wof:country":"EE",
     "wof:created":1595461339,
-    "wof:geomhash":"472b7695f84c57006ef524b408dc63de",
+    "wof:geomhash":"1ab84b62dcfc3f73b30b816d11658c04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663637,
+    "wof:lastmodified":1695876838,
     "wof:name":"Matsuri",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

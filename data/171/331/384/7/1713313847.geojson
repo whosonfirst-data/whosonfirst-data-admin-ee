@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Parasmaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00341,
-    "geom:area_square_m":21938802.983851,
+    "geom:area_square_m":21938802.983854,
     "geom:bbox":"24.217876,58.616962,24.305699,58.684199",
     "geom:latitude":58.652418,
     "geom:longitude":24.251221,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5990
+        "ee-mamt:okood":"5990"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310386675
     ],
     "wof:country":"EE",
     "wof:created":1595460849,
-    "wof:geomhash":"5b70040c3a2247d1f4f6a19f425a492e",
+    "wof:geomhash":"47c272aeb9af6ec8f6621939d38b9369",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661566,
+    "wof:lastmodified":1695876764,
     "wof:name":"Parasmaa",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

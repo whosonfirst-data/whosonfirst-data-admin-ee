@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Taevaskoja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001198,
-    "geom:area_square_m":7826553.28646,
+    "geom:area_square_m":7826553.286463,
     "geom:bbox":"27.002028,58.083795,27.082585,58.118899",
     "geom:latitude":58.100112,
     "geom:longitude":27.049373,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8028
+        "ee-mamt:okood":"8028"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125817091
     ],
     "wof:country":"EE",
     "wof:created":1595460681,
-    "wof:geomhash":"edf2dfc64f326dbb7493f8819933b7ae",
+    "wof:geomhash":"25d34a013ce41adb9c7a597c87968f53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676950,
+    "wof:lastmodified":1695876974,
     "wof:name":"Taevaskoja",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Sompa Linnaosa",
     "ee-mamt:tyyp":6,
     "geom:area":0.000731,
-    "geom:area_square_m":4612359.984142,
+    "geom:area_square_m":4612359.984143,
     "geom:bbox":"27.252274,59.318932,27.304228,59.348533",
     "geom:latitude":59.335163,
     "geom:longitude":27.277228,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "district"
+        "urban district"
     ],
     "label:est_x_preferred_longname":[
         "Sompa linnaosa"
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":747
+        "ee-mamt:okood":"747"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460945,
-    "wof:geomhash":"42c6f2744c3690be3fea376c193f1df7",
+    "wof:geomhash":"344b60d9141fc94f27eae4552c9609a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676519,
+    "wof:lastmodified":1695876917,
     "wof:name":"Sompa",
     "wof:parent_id":1713305653,
     "wof:placetype":"localadmin",

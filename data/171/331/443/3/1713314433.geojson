@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Oonurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.012373,
-    "geom:area_square_m":78519452.24493,
+    "geom:area_square_m":78519452.244935,
     "geom:bbox":"26.842121,59.073403,27.086089,59.165618",
     "geom:latitude":59.12145,
     "geom:longitude":26.968327,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5695
+        "ee-mamt:okood":"5695"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310013355
     ],
     "wof:country":"EE",
     "wof:created":1595460980,
-    "wof:geomhash":"77464c4b22dc31e2f04b831d0f5c8195",
+    "wof:geomhash":"4da748daa8834222ec636ee011307b47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660702,
+    "wof:lastmodified":1695876733,
     "wof:name":"Oonurme",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

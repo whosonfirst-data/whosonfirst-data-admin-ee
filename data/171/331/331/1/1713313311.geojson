@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Loo Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000893,
-    "geom:area_square_m":5619173.95105,
+    "geom:area_square_m":5619173.951052,
     "geom:bbox":"24.924429,59.412047,24.975862,59.447439",
     "geom:latitude":59.428393,
     "geom:longitude":24.948783,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Loo alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4496
+        "ee-mamt:okood":"4496"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815163
     ],
     "wof:country":"EE",
     "wof:created":1595460735,
-    "wof:geomhash":"a01ae0b5ea0804e12408138bc0f975ec",
+    "wof:geomhash":"90dbaf48b70036f704355c5c867e6419",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661372,
+    "wof:lastmodified":1695876756,
     "wof:name":"Loo",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

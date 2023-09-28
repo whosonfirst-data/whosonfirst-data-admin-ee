@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saaremaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000211,
-    "geom:area_square_m":1389992.423362,
+    "geom:area_square_m":1389992.423363,
     "geom:bbox":"27.12526,57.796137,27.158655,57.806513",
     "geom:latitude":57.80151,
     "geom:longitude":27.142737,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7292
+        "ee-mamt:okood":"7292"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309686173
     ],
     "wof:country":"EE",
     "wof:created":1595461377,
-    "wof:geomhash":"c4b46155434f34ff26558f86366c7e57",
+    "wof:geomhash":"53266fd92580e183dc52ede674aee316",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660226,
+    "wof:lastmodified":1695876721,
     "wof:name":"Saaremaa",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

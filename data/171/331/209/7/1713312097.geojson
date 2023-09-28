@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tiheda K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00087,
-    "geom:area_square_m":5574419.056282,
+    "geom:area_square_m":5574419.05628,
     "geom:bbox":"26.871526,58.790857,26.960848,58.808277",
     "geom:latitude":58.799478,
     "geom:longitude":26.916489,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8210
+        "ee-mamt:okood":"8210"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460480,
-    "wof:geomhash":"0d2a6a7e7246b1aaa61036462cb265d1",
+    "wof:geomhash":"5deff93741c1d8d8b3d91ba2f7b98cce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660972,
+    "wof:lastmodified":1695876741,
     "wof:name":"Tiheda",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

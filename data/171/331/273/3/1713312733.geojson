@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tarumaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.008585,
-    "geom:area_square_m":54356955.990191,
+    "geom:area_square_m":54356955.990195,
     "geom:bbox":"27.074262,59.143514,27.222357,59.252894",
     "geom:latitude":59.20132,
     "geom:longitude":27.13334,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8154
+        "ee-mamt:okood":"8154"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1210018411
     ],
     "wof:country":"EE",
     "wof:created":1595460611,
-    "wof:geomhash":"27b43bde278979bb2e5d11e8f91bc874",
+    "wof:geomhash":"75bd8b86e169128fb1d258d2c1940eae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660771,
+    "wof:lastmodified":1695876734,
     "wof:name":"Tarumaa",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Matsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001191,
-    "geom:area_square_m":7721684.163849,
+    "geom:area_square_m":7721684.163838,
     "geom:bbox":"23.725536,58.331468,23.773903,58.386096",
     "geom:latitude":58.362685,
     "geom:longitude":23.752191,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4824
+        "ee-mamt:okood":"4824"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260371635
     ],
     "wof:country":"EE",
     "wof:created":1595459887,
-    "wof:geomhash":"219c7ee888063480794f526a103706c7",
+    "wof:geomhash":"d838ff690c88534f74924c4b9bca39fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661594,
+    "wof:lastmodified":1695876767,
     "wof:name":"Matsi",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

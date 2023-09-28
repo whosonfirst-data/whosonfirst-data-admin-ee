@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lusti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00155,
-    "geom:area_square_m":10222892.312256,
+    "geom:area_square_m":10222892.312253,
     "geom:bbox":"26.427036,57.752008,26.498176,57.791544",
     "geom:latitude":57.773133,
     "geom:longitude":26.463291,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4563
+        "ee-mamt:okood":"4563"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125974749
     ],
     "wof:country":"EE",
     "wof:created":1595460956,
-    "wof:geomhash":"1d8853423f0e251e144b9af7caf27dda",
+    "wof:geomhash":"b0cf471ccd129e7b596f96f9c55bd4aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661939,
+    "wof:lastmodified":1695876791,
     "wof:name":"Lusti",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

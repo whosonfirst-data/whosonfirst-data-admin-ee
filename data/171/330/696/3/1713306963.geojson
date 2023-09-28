@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaalepi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003731,
-    "geom:area_square_m":23704861.490427,
+    "geom:area_square_m":23704861.490421,
     "geom:bbox":"25.596454,59.036772,25.70098,59.108791",
     "geom:latitude":59.078619,
     "geom:longitude":25.645706,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2395
+        "ee-mamt:okood":"2395"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242977077
     ],
     "wof:country":"EE",
     "wof:created":1595459289,
-    "wof:geomhash":"931045ca11eaa973bb149180d7b0dcc9",
+    "wof:geomhash":"f52ddf523d24f6bbdb5670f2830f0947",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676629,
+    "wof:lastmodified":1695876934,
     "wof:name":"Kaalepi",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lauri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000347,
-    "geom:area_square_m":2288329.524561,
+    "geom:area_square_m":2288329.524564,
     "geom:bbox":"26.852547,57.743796,26.888879,57.76943",
     "geom:latitude":57.755873,
     "geom:longitude":26.868876,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4158
+        "ee-mamt:okood":"4158"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226501437
     ],
     "wof:country":"EE",
     "wof:created":1595461041,
-    "wof:geomhash":"169d4906ce41728adb4041a8b74805a9",
+    "wof:geomhash":"82f7495e526e111c3a2978b2d1b8282e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676823,
+    "wof:lastmodified":1695876958,
     "wof:name":"Lauri",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

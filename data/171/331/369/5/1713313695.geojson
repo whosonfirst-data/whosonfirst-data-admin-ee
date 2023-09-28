@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rebu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001995,
-    "geom:area_square_m":12599461.327612,
+    "geom:area_square_m":12599461.327611,
     "geom:bbox":"27.009326,59.257019,27.090239,59.305652",
     "geom:latitude":59.282782,
     "geom:longitude":27.048556,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6894
+        "ee-mamt:okood":"6894"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243456195
     ],
     "wof:country":"EE",
     "wof:created":1595460816,
-    "wof:geomhash":"23363383bc1cbb9168ba6a8bfded295e",
+    "wof:geomhash":"adb485dfcc805986f9eaedd1edcf7410",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660779,
+    "wof:lastmodified":1695876735,
     "wof:name":"Rebu",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

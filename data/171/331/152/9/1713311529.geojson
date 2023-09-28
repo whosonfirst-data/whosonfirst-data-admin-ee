@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Agusalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.007167,
-    "geom:area_square_m":45514509.187709,
+    "geom:area_square_m":45514509.187705,
     "geom:bbox":"27.596958,59.064207,27.716033,59.137184",
     "geom:latitude":59.099191,
     "geom:longitude":27.653455,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1103
+        "ee-mamt:okood":"1103"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193023469
     ],
     "wof:country":"EE",
     "wof:created":1595460360,
-    "wof:geomhash":"8f9ca77bf042942061372749b35996cc",
+    "wof:geomhash":"f99f318f7b2ea43376dfc050b3d0215b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660695,
+    "wof:lastmodified":1695876732,
     "wof:name":"Agusalu",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

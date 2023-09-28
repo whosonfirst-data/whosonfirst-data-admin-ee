@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaasiksaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004671,
-    "geom:area_square_m":29735763.609172,
+    "geom:area_square_m":29735763.609171,
     "geom:bbox":"26.71327,58.975376,26.821658,59.053501",
     "geom:latitude":59.013114,
     "geom:longitude":26.767372,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2424
+        "ee-mamt:okood":"2424"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209299951
     ],
     "wof:country":"EE",
     "wof:created":1595460805,
-    "wof:geomhash":"fd1c8d33cff129b19a98165e8446e2f8",
+    "wof:geomhash":"14782510f4d8e6585304781584e62291",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677951,
+    "wof:lastmodified":1695877005,
     "wof:name":"Kaasiksaare",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

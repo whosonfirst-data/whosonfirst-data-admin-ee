@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sahargu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000409,
-    "geom:area_square_m":2604303.925261,
+    "geom:area_square_m":2604303.92526,
     "geom:bbox":"27.020381,59.032075,27.061721,59.048769",
     "geom:latitude":59.040617,
     "geom:longitude":27.042001,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7337
+        "ee-mamt:okood":"7337"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259584973
     ],
     "wof:country":"EE",
     "wof:created":1595460444,
-    "wof:geomhash":"f95a5575a91ca09d43a909433d1712ae",
+    "wof:geomhash":"088e95b8b3ab145e912d1df64e0aa36f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660707,
+    "wof:lastmodified":1695876733,
     "wof:name":"Sahargu",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

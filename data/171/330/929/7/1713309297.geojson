@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lahe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000203,
-    "geom:area_square_m":1311239.063638,
+    "geom:area_square_m":1311239.063631,
     "geom:bbox":"27.193062,58.567695,27.215884,58.591264",
     "geom:latitude":58.578655,
     "geom:longitude":27.205059,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4050
+        "ee-mamt:okood":"4050"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309872029
     ],
     "wof:country":"EE",
     "wof:created":1595459853,
-    "wof:geomhash":"a6c0cc74ac3015bfbc5fe959335890b1",
+    "wof:geomhash":"681c0e1f74464f9c63973a0b24819279",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660846,
+    "wof:lastmodified":1695876737,
     "wof:name":"Lahe",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

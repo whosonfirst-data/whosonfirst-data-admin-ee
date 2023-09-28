@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kirbla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001179,
-    "geom:area_square_m":7571773.082339,
+    "geom:area_square_m":7571773.082342,
     "geom:bbox":"23.924432,58.704662,23.99261,58.741036",
     "geom:latitude":58.72325,
     "geom:longitude":23.963001,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3113
+        "ee-mamt:okood":"3113"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126053851
     ],
     "wof:country":"EE",
     "wof:created":1595459922,
-    "wof:geomhash":"430d8d9109346462304dffeb7f24b813",
+    "wof:geomhash":"c852cf71b546fef32c2a5ddfba099555",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661607,
+    "wof:lastmodified":1695876768,
     "wof:name":"Kirbla",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

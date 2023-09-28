@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Humala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00112,
-    "geom:area_square_m":7058682.183977,
+    "geom:area_square_m":7058682.183979,
     "geom:bbox":"24.374657,59.345184,24.444565,59.380503",
     "geom:latitude":59.362822,
     "geom:longitude":24.40851,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1903
+        "ee-mamt:okood":"1903"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310618879
     ],
     "wof:country":"EE",
     "wof:created":1595460580,
-    "wof:geomhash":"1061c438f614acf10696e764965bbb12",
+    "wof:geomhash":"5c5f114a0553944512dfc0644be1258a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661448,
+    "wof:lastmodified":1695876760,
     "wof:name":"Humala",
     "wof:parent_id":1713305681,
     "wof:placetype":"localadmin",

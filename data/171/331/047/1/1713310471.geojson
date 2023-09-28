@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ermistu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004812,
-    "geom:area_square_m":31196939.770188,
+    "geom:area_square_m":31196939.770191,
     "geom:bbox":"23.961624,58.352406,24.101681,58.409887",
     "geom:latitude":58.376143,
     "geom:longitude":24.028508,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1628
+        "ee-mamt:okood":"1628"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327321761
     ],
     "wof:country":"EE",
     "wof:created":1595460128,
-    "wof:geomhash":"bf15904587ea2d2b28ac9a2e36fbb676",
+    "wof:geomhash":"c33f74c5b8b638775511aa4c074c497a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677680,
+    "wof:lastmodified":1695876994,
     "wof:name":"Ermistu",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

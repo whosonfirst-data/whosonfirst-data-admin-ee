@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Idaotsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000431,
-    "geom:area_square_m":2697660.434167,
+    "geom:area_square_m":2697660.434166,
     "geom:bbox":"25.002604,59.592305,25.102904,59.63012",
     "geom:latitude":59.615847,
     "geom:longitude":25.039521,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1984
+        "ee-mamt:okood":"1984"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125846281
     ],
     "wof:country":"EE",
     "wof:created":1595459060,
-    "wof:geomhash":"06dfac28f0d50074dcec04e0cb26d40f",
+    "wof:geomhash":"336b1718dc45e2ec4b9caf97604bfb19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675371,
+    "wof:lastmodified":1695876907,
     "wof:name":"Idaotsa",
     "wof:parent_id":1713305625,
     "wof:placetype":"localadmin",

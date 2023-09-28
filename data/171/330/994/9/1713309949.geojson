@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ruudik\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001575,
-    "geom:area_square_m":10225632.892764,
+    "geom:area_square_m":10225632.892769,
     "geom:bbox":"25.725172,58.315582,25.793114,58.358629",
     "geom:latitude":58.337183,
     "geom:longitude":25.757496,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7143
+        "ee-mamt:okood":"7143"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293454545
     ],
     "wof:country":"EE",
     "wof:created":1595460015,
-    "wof:geomhash":"deb8e0e8c4e36c85cfd53bbac6dc5b65",
+    "wof:geomhash":"f61262135b78fc0b3d858dd07be4e340",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661239,
+    "wof:lastmodified":1695876749,
     "wof:name":"Ruudik\u00fcla",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

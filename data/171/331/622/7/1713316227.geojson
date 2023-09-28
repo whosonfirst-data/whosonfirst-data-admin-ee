@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kurenurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003206,
-    "geom:area_square_m":21117273.746374,
+    "geom:area_square_m":21117273.746379,
     "geom:bbox":"26.662723,57.782552,26.758768,57.862214",
     "geom:latitude":57.815937,
     "geom:longitude":26.706553,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3649
+        "ee-mamt:okood":"3649"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209278849
     ],
     "wof:country":"EE",
     "wof:created":1595461384,
-    "wof:geomhash":"f1f57b16a0d35121687a1fde1da10787",
+    "wof:geomhash":"826bd5b4bd0526fe3589d1396cf94ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660266,
+    "wof:lastmodified":1695876726,
     "wof:name":"Kurenurme",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

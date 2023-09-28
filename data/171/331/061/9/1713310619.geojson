@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raavitsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003567,
-    "geom:area_square_m":23505257.154517,
+    "geom:area_square_m":23505257.154508,
     "geom:bbox":"26.092038,57.778233,26.239545,57.827284",
     "geom:latitude":57.798425,
     "geom:longitude":26.156659,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6702
+        "ee-mamt:okood":"6702"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293749227
     ],
     "wof:country":"EE",
     "wof:created":1595460165,
-    "wof:geomhash":"32a833e6dbd759074341b26889913a44",
+    "wof:geomhash":"aba9f0832ec5ac9a8c6c5961a7eaee71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661938,
+    "wof:lastmodified":1695876790,
     "wof:name":"Raavitsa",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

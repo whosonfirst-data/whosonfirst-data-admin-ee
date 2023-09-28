@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u00e4rvep\u00e4\u00e4 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000951,
-    "geom:area_square_m":6236800.144931,
+    "geom:area_square_m":6236800.144937,
     "geom:bbox":"27.467873,57.930557,27.522737,57.96785",
     "geom:latitude":57.950663,
     "geom:longitude":27.496605,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2362
+        "ee-mamt:okood":"2362"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343638589
     ],
     "wof:country":"EE",
     "wof:created":1595461328,
-    "wof:geomhash":"01b8d8044d923389dd663513ccc68074",
+    "wof:geomhash":"1f41603309cb5a692d54d93341ccaba8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663644,
+    "wof:lastmodified":1695876839,
     "wof:name":"J\u00e4rvep\u00e4\u00e4",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

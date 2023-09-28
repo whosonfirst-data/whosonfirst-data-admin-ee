@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaguvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000766,
-    "geom:area_square_m":4903307.872763,
+    "geom:area_square_m":4903307.872764,
     "geom:bbox":"24.327676,58.822078,24.371311,58.851097",
     "geom:latitude":58.83635,
     "geom:longitude":24.351969,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2504
+        "ee-mamt:okood":"2504"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460317,
-    "wof:geomhash":"04830fbdd3bbaf0160d58c5707e692a3",
+    "wof:geomhash":"da1dede9ae9b685b865dd9df1a540a36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662813,
+    "wof:lastmodified":1695876801,
     "wof:name":"Kaguvere",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

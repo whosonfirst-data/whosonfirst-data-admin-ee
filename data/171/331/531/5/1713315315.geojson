@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Seljak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.009508,
-    "geom:area_square_m":60399514.652485,
+    "geom:area_square_m":60399514.65249,
     "geom:bbox":"23.856096,59.032942,23.993896,59.140428",
     "geom:latitude":59.087188,
     "geom:longitude":23.923781,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7534
+        "ee-mamt:okood":"7534"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310493443
     ],
     "wof:country":"EE",
     "wof:created":1595461186,
-    "wof:geomhash":"c58af8a3ce2111195c92157899fe6161",
+    "wof:geomhash":"e6fce0081fff41679839b6c4a07d4870",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677189,
+    "wof:lastmodified":1695876988,
     "wof:name":"Seljak\u00fcla",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

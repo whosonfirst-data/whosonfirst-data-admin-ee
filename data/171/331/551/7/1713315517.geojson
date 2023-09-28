@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lakovitsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000179,
-    "geom:area_square_m":1175768.646428,
+    "geom:area_square_m":1175768.646427,
     "geom:bbox":"26.672569,57.887387,26.698291,57.900241",
     "geom:latitude":57.894123,
     "geom:longitude":26.685772,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4079
+        "ee-mamt:okood":"4079"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343626013
     ],
     "wof:country":"EE",
     "wof:created":1595461237,
-    "wof:geomhash":"05358c105529299418d286a3f2a21821",
+    "wof:geomhash":"f7e8b60f6cf0f4f8c84603ba83c1d4b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660243,
+    "wof:lastmodified":1695876723,
     "wof:name":"Lakovitsa",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

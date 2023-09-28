@@ -8,13 +8,13 @@
     "ee-mamt:animi":"V\u00e4ike-Maarja Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000275,
-    "geom:area_square_m":1746847.432293,
+    "geom:area_square_m":1746847.432294,
     "geom:bbox":"26.237783,59.118392,26.262956,59.137452",
     "geom:latitude":59.127481,
     "geom:longitude":26.250775,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "V\u00e4ike-Maarja alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9628
+        "ee-mamt:okood":"9628"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815151
     ],
     "wof:country":"EE",
     "wof:created":1595460384,
-    "wof:geomhash":"8ffe0e18a9a8209421041d4c3e45662e",
+    "wof:geomhash":"79ea8bdebeb30eef89af33441ffa2150",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676532,
+    "wof:lastmodified":1695876920,
     "wof:name":"V\u00e4ike-Maarja",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

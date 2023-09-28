@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sangla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00128,
-    "geom:area_square_m":8313610.488904,
+    "geom:area_square_m":8313610.488903,
     "geom:bbox":"26.178041,58.30604,26.260981,58.328404",
     "geom:latitude":58.317949,
     "geom:longitude":26.224073,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7420
+        "ee-mamt:okood":"7420"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343637383
     ],
     "wof:country":"EE",
     "wof:created":1595460150,
-    "wof:geomhash":"0bcf80da8e353bcc4eeb0cebfa71b239",
+    "wof:geomhash":"a5db6051be650529763c6a13130ce5bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661889,
+    "wof:lastmodified":1695876784,
     "wof:name":"Sangla",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

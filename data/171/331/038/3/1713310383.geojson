@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lahek\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000385,
-    "geom:area_square_m":2463646.4372,
+    "geom:area_square_m":2463646.437201,
     "geom:bbox":"22.785478,58.811924,22.818025,58.835229",
     "geom:latitude":58.826734,
     "geom:longitude":22.798896,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4056
+        "ee-mamt:okood":"4056"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460109,
-    "wof:geomhash":"7349169aca64f0858111f3ad6aca5676",
+    "wof:geomhash":"a2be789ddbc5ff61035c7220f24a7a92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666360,
+    "wof:lastmodified":1695876853,
     "wof:name":"Lahek\u00fcla",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

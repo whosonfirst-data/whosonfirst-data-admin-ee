@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vilusi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001004,
-    "geom:area_square_m":6416744.71044,
+    "geom:area_square_m":6416744.710437,
     "geom:bbox":"26.89894,58.865665,26.966713,58.898258",
     "geom:latitude":58.883425,
     "geom:longitude":26.937602,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9364
+        "ee-mamt:okood":"9364"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293110295
     ],
     "wof:country":"EE",
     "wof:created":1595460989,
-    "wof:geomhash":"7218e4d6ef5fb913ece1cabaf4ad99cb",
+    "wof:geomhash":"c8295fdcd55d6c5a847447c7b825917b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660975,
+    "wof:lastmodified":1695876741,
     "wof:name":"Vilusi",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

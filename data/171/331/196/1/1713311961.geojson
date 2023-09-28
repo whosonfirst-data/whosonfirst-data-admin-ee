@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vasavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003699,
-    "geom:area_square_m":23357409.74836,
+    "geom:area_square_m":23357409.748353,
     "geom:bbox":"27.497499,59.268682,27.612791,59.325696",
     "geom:latitude":59.292614,
     "geom:longitude":27.550346,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9106
+        "ee-mamt:okood":"9106"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890481
     ],
     "wof:country":"EE",
     "wof:created":1595460453,
-    "wof:geomhash":"4fd9c103f676c5ecb3a612c8e3143b39",
+    "wof:geomhash":"53d16b3cbc2be543954ea317481433e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660687,
+    "wof:lastmodified":1695876731,
     "wof:name":"Vasavere",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

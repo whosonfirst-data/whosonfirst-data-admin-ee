@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Miikse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000933,
-    "geom:area_square_m":6165109.177896,
+    "geom:area_square_m":6165109.177891,
     "geom:bbox":"27.368628,57.695806,27.415423,57.729502",
     "geom:latitude":57.712812,
     "geom:longitude":27.392627,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4843
+        "ee-mamt:okood":"4843"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209080221
     ],
     "wof:country":"EE",
     "wof:created":1595461249,
-    "wof:geomhash":"949cd76478a42749dc46fcb3c9f4521f",
+    "wof:geomhash":"3eb7af6b5f5e80f8e569b95c3e2a5e37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663649,
+    "wof:lastmodified":1695876840,
     "wof:name":"Miikse",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

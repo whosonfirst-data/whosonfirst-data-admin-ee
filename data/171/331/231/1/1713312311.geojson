@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lepiksaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000824,
-    "geom:area_square_m":5256579.630396,
+    "geom:area_square_m":5256579.630397,
     "geom:bbox":"26.810514,58.945613,26.870421,58.969897",
     "geom:latitude":58.957715,
     "geom:longitude":26.838833,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4287
+        "ee-mamt:okood":"4287"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460519,
-    "wof:geomhash":"56916de49e27bd433cab0de6bffc95aa",
+    "wof:geomhash":"d748c443fdb26330172c179eb2a0e95c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660951,
+    "wof:lastmodified":1695876740,
     "wof:name":"Lepiksaare",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

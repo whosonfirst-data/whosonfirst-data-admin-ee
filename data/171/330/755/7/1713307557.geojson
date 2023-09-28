@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Atla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003379,
-    "geom:area_square_m":21958289.085699,
+    "geom:area_square_m":21958289.085696,
     "geom:bbox":"21.764535,58.276781,21.982896,58.340151",
     "geom:latitude":58.297987,
     "geom:longitude":21.893295,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1436
+        "ee-mamt:okood":"1436"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259667173
     ],
     "wof:country":"EE",
     "wof:created":1595459433,
-    "wof:geomhash":"4af050cbc8f64829201295e5343d6ca5",
+    "wof:geomhash":"5fe9b939f8b72840107b7ef0658c3941",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672529,
+    "wof:lastmodified":1695876898,
     "wof:name":"Atla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

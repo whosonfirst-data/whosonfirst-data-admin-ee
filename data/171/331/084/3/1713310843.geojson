@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Linte K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001792,
-    "geom:area_square_m":11689731.552201,
+    "geom:area_square_m":11689731.5522,
     "geom:bbox":"27.404768,58.135456,27.505756,58.178926",
     "geom:latitude":58.156892,
     "geom:longitude":27.456753,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4410
+        "ee-mamt:okood":"4410"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037661
     ],
     "wof:country":"EE",
     "wof:created":1595460211,
-    "wof:geomhash":"68c5810aae37c21f05a9a2eb2717b9e8",
+    "wof:geomhash":"d9478a7cdc6cfe0a4e30193bda2379e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676981,
+    "wof:lastmodified":1695876977,
     "wof:name":"Linte",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

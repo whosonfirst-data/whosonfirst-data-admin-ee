@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Undva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002165,
-    "geom:area_square_m":13986622.842252,
+    "geom:area_square_m":13986622.842253,
     "geom:bbox":"21.906842,58.476329,22.024091,58.522704",
     "geom:latitude":58.49683,
     "geom:longitude":21.975342,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8692
+        "ee-mamt:okood":"8692"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310278699
     ],
     "wof:country":"EE",
     "wof:created":1595459638,
-    "wof:geomhash":"f9306dfe122fa6579625bbde7bc2c10c",
+    "wof:geomhash":"ccb0d9168749b71100d1557fe592a847",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671753,
+    "wof:lastmodified":1695876870,
     "wof:name":"Undva",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

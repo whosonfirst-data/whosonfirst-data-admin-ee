@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vana-Aespa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001021,
-    "geom:area_square_m":6466505.416225,
+    "geom:area_square_m":6466505.416224,
     "geom:bbox":"24.60472,59.176088,24.669259,59.205726",
     "geom:latitude":59.192113,
     "geom:longitude":24.641043,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8976
+        "ee-mamt:okood":"8976"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459144,
-    "wof:geomhash":"8803210262d8e9ff4e3472cb3523ff7b",
+    "wof:geomhash":"b367992e29955fe4d8ba0d0825a1c426",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677029,
+    "wof:lastmodified":1695876983,
     "wof:name":"Vana-Aespa",
     "wof:parent_id":1713305707,
     "wof:placetype":"localadmin",

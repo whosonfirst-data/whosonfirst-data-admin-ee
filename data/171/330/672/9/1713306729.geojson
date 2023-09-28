@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saue-Putla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001117,
-    "geom:area_square_m":7242002.137546,
+    "geom:area_square_m":7242002.137543,
     "geom:bbox":"22.589306,58.345503,22.645416,58.401068",
     "geom:latitude":58.376465,
     "geom:longitude":22.617348,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7451
+        "ee-mamt:okood":"7451"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293263115
     ],
     "wof:country":"EE",
     "wof:created":1595459223,
-    "wof:geomhash":"cd58683a0b693fa7dd1a7b5734b3ab6d",
+    "wof:geomhash":"46b5b506ea631f1bced9a17d3a8c2281",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671986,
+    "wof:lastmodified":1695876876,
     "wof:name":"Saue-Putla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vatsla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001641,
-    "geom:area_square_m":10332123.277129,
+    "geom:area_square_m":10332123.277122,
     "geom:bbox":"24.466612,59.374357,24.55637,59.412909",
     "geom:latitude":59.39763,
     "geom:longitude":24.510061,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9146
+        "ee-mamt:okood":"9146"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037959
     ],
     "wof:country":"EE",
     "wof:created":1595460693,
-    "wof:geomhash":"f9d83feb877bcec5fe9cb5faae145033",
+    "wof:geomhash":"8e26545fb191d5c47220d24e5e5dfecc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663237,
+    "wof:lastmodified":1695876812,
     "wof:name":"Vatsla",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

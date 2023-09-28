@@ -8,7 +8,7 @@
     "ee-mamt:animi":"L\u0151unak\u00fcla / Storbyn",
     "ee-mamt:tyyp":8,
     "geom:area":0.000589,
-    "geom:area_square_m":3691767.554571,
+    "geom:area_square_m":3691767.554574,
     "geom:bbox":"24.516788,59.536404,24.564269,59.562888",
     "geom:latitude":59.546814,
     "geom:longitude":24.541211,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4618
+        "ee-mamt:okood":"4618"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125879319
     ],
     "wof:country":"EE",
     "wof:created":1595459079,
-    "wof:geomhash":"8a020c6433f3ca6af160b5430867d553",
+    "wof:geomhash":"ff3cb379f7f48776f24a81ab65f12aaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675373,
+    "wof:lastmodified":1695876908,
     "wof:name":"L\u0151unak\u00fcla",
     "wof:parent_id":1713305625,
     "wof:placetype":"localadmin",

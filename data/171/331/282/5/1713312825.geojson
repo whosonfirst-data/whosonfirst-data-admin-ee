@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aude K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002429,
-    "geom:area_square_m":15399515.145387,
+    "geom:area_square_m":15399515.145385,
     "geom:bbox":"24.182803,59.128246,24.291088,59.174363",
     "geom:latitude":59.157217,
     "geom:longitude":24.244271,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1449
+        "ee-mamt:okood":"1449"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243278103
     ],
     "wof:country":"EE",
     "wof:created":1595460629,
-    "wof:geomhash":"247c85b1d5071a6845d07930d5b6f27a",
+    "wof:geomhash":"2f2439320eda78479235c812ca6f817f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663224,
+    "wof:lastmodified":1695876809,
     "wof:name":"Aude",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kelba K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002027,
-    "geom:area_square_m":12880559.3783,
+    "geom:area_square_m":12880559.378301,
     "geom:bbox":"24.593813,59.049018,24.664191,59.095766",
     "geom:latitude":59.074419,
     "geom:longitude":24.629499,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2933
+        "ee-mamt:okood":"2933"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360064585
     ],
     "wof:country":"EE",
     "wof:created":1595460892,
-    "wof:geomhash":"b72840618c0a136231798ff826782dd2",
+    "wof:geomhash":"91be35d01a8b9b41aaa2f3d2d8b7fcba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676704,
+    "wof:lastmodified":1695876942,
     "wof:name":"Kelba",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

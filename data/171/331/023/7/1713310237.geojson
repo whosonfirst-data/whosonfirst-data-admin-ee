@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001614,
-    "geom:area_square_m":10659061.439172,
+    "geom:area_square_m":10659061.439174,
     "geom:bbox":"26.180343,57.696027,26.267306,57.735846",
     "geom:latitude":57.721066,
     "geom:longitude":26.230746,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4281
+        "ee-mamt:okood":"4281"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310068219
     ],
     "wof:country":"EE",
     "wof:created":1595460078,
-    "wof:geomhash":"8f5c864665d453ec72b74e912e6a9004",
+    "wof:geomhash":"cb51f1f47c963df40bfe5c0dce75523c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661935,
+    "wof:lastmodified":1695876789,
     "wof:name":"Lepa",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

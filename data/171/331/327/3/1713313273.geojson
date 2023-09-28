@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Komsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000751,
-    "geom:area_square_m":4913210.044766,
+    "geom:area_square_m":4913210.044767,
     "geom:bbox":"26.240896,58.051838,26.281299,58.080978",
     "geom:latitude":58.064686,
     "geom:longitude":26.262371,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3369
+        "ee-mamt:okood":"3369"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209691209
     ],
     "wof:country":"EE",
     "wof:created":1595460727,
-    "wof:geomhash":"9e3380ca9f0441000178c6c68e2a5a8a",
+    "wof:geomhash":"9c21afc0797810c6aebf65ac9ff574cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661857,
+    "wof:lastmodified":1695876780,
     "wof:name":"Komsi",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

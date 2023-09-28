@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lompka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000254,
-    "geom:area_square_m":1675552.64112,
+    "geom:area_square_m":1675552.641119,
     "geom:bbox":"26.916407,57.77465,26.948097,57.791356",
     "geom:latitude":57.781831,
     "geom:longitude":26.931698,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4490
+        "ee-mamt:okood":"4490"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225908651
     ],
     "wof:country":"EE",
     "wof:created":1595461434,
-    "wof:geomhash":"6325b49499d673514afd0dd9734390e5",
+    "wof:geomhash":"67f22fdf644110d9b16b844f89e46cc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660251,
+    "wof:lastmodified":1695876724,
     "wof:name":"Lompka",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

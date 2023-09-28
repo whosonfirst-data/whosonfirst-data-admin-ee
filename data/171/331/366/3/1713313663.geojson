@@ -8,7 +8,7 @@
     "ee-mamt:animi":"N\u0151rava K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002795,
-    "geom:area_square_m":17720022.841509,
+    "geom:area_square_m":17720022.841505,
     "geom:bbox":"24.982172,59.117462,25.051973,59.18699",
     "geom:latitude":59.155283,
     "geom:longitude":25.020915,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5537
+        "ee-mamt:okood":"5537"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276562207
     ],
     "wof:country":"EE",
     "wof:created":1595460809,
-    "wof:geomhash":"d4fd41a52dec1befe08042c62516d6da",
+    "wof:geomhash":"7b0e5b507ee84d58a8cf11dde2219a4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661334,
+    "wof:lastmodified":1695876754,
     "wof:name":"N\u0151rava",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

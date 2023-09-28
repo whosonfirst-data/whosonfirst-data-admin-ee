@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Eru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001706,
-    "geom:area_square_m":10685880.23705,
+    "geom:area_square_m":10685880.237045,
     "geom:bbox":"25.830122,59.546097,25.928986,59.58781",
     "geom:latitude":59.567648,
     "geom:longitude":25.879938,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1637
+        "ee-mamt:okood":"1637"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242893819
     ],
     "wof:country":"EE",
     "wof:created":1595459653,
-    "wof:geomhash":"6a722207b24129a23e4b2281ccd9beab",
+    "wof:geomhash":"e5001900ed1fd74e2417ec23fbe0ce1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678011,
+    "wof:lastmodified":1695877008,
     "wof:name":"Eru",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

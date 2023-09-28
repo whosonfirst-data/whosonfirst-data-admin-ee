@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Angla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001302,
-    "geom:area_square_m":8402814.628524,
+    "geom:area_square_m":8402814.628521,
     "geom:bbox":"22.63993,58.518392,22.71143,58.552067",
     "geom:latitude":58.533175,
     "geom:longitude":22.672716,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1272
+        "ee-mamt:okood":"1272"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293757361
     ],
     "wof:country":"EE",
     "wof:created":1595459391,
-    "wof:geomhash":"ff201281805eac01e618b8c1f29a5ebc",
+    "wof:geomhash":"d795a64a532df8a61ab3bd96b3d9ce8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672370,
+    "wof:lastmodified":1695876891,
     "wof:name":"Angla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

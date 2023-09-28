@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00e4\u00e4v\u00e4kese K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000233,
-    "geom:area_square_m":1526705.349538,
+    "geom:area_square_m":1526705.349536,
     "geom:bbox":"27.481345,57.922627,27.509078,57.943714",
     "geom:latitude":57.933552,
     "geom:longitude":27.492373,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6632
+        "ee-mamt:okood":"6632"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327016921
     ],
     "wof:country":"EE",
     "wof:created":1595461427,
-    "wof:geomhash":"00eb5bf1d7a89aac4b39ce4c66828713",
+    "wof:geomhash":"8b758958b9a69cd4c809a2f2ed6a546f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660248,
+    "wof:lastmodified":1695876724,
     "wof:name":"P\u00e4\u00e4v\u00e4kese",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

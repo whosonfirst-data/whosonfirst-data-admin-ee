@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Palamulla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003926,
-    "geom:area_square_m":24995185.815063,
+    "geom:area_square_m":24995185.81506,
     "geom:bbox":"24.571474,58.977054,24.676288,59.040762",
     "geom:latitude":59.012249,
     "geom:longitude":24.619025,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5911
+        "ee-mamt:okood":"5911"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343934263
     ],
     "wof:country":"EE",
     "wof:created":1595461124,
-    "wof:geomhash":"6db9d9988cd5710a9bc47acade5debd2",
+    "wof:geomhash":"d9097d67c9838e1d81771936bcc9d75c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676711,
+    "wof:lastmodified":1695876944,
     "wof:name":"Palamulla",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Oiu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001901,
-    "geom:area_square_m":12313312.656611,
+    "geom:area_square_m":12313312.656612,
     "geom:bbox":"25.937099,58.39352,26.015032,58.435091",
     "geom:latitude":58.414469,
     "geom:longitude":25.973809,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5647
+        "ee-mamt:okood":"5647"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309967813
     ],
     "wof:country":"EE",
     "wof:created":1595459995,
-    "wof:geomhash":"a38ded910401de227dd6840f915ac9fe",
+    "wof:geomhash":"b1d383688d0fadc757d4d4385699e7b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661226,
+    "wof:lastmodified":1695876746,
     "wof:name":"Oiu",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

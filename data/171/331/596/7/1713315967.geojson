@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piipsem\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000363,
-    "geom:area_square_m":2402581.655786,
+    "geom:area_square_m":2402581.655784,
     "geom:bbox":"27.085929,57.662543,27.112081,57.682521",
     "geom:latitude":57.673141,
     "geom:longitude":27.099275,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6179
+        "ee-mamt:okood":"6179"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276296195
     ],
     "wof:country":"EE",
     "wof:created":1595461331,
-    "wof:geomhash":"9e341e94fe12c1191248fbcf3af06999",
+    "wof:geomhash":"688ffc9d6520260f2e28505360d626cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676856,
+    "wof:lastmodified":1695876967,
     "wof:name":"Piipsem\u00e4e",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

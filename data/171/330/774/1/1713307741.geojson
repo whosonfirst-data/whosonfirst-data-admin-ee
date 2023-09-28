@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tuulna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000507,
-    "geom:area_square_m":3197167.791489,
+    "geom:area_square_m":3197167.791488,
     "geom:bbox":"24.265856,59.327363,24.297795,59.352416",
     "geom:latitude":59.340568,
     "geom:longitude":24.281246,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8460
+        "ee-mamt:okood":"8460"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125945767
     ],
     "wof:country":"EE",
     "wof:created":1595459476,
-    "wof:geomhash":"a5db754201d0d045d2ccc12ed9739afd",
+    "wof:geomhash":"b6cda141e2011a588e3a90a86e25a3bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663299,
+    "wof:lastmodified":1695876817,
     "wof:name":"Tuulna",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

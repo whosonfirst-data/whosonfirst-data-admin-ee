@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soomevere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001179,
-    "geom:area_square_m":7590092.168808,
+    "geom:area_square_m":7590092.168807,
     "geom:bbox":"25.557327,58.616101,25.63312,58.650249",
     "geom:latitude":58.632719,
     "geom:longitude":25.601521,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7720
+        "ee-mamt:okood":"7720"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125767391
     ],
     "wof:country":"EE",
     "wof:created":1595460681,
-    "wof:geomhash":"94c7659972284953c1d0d5ace876530d",
+    "wof:geomhash":"e56a52cddb1c6ca8fb8f2ef426982b05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663438,
+    "wof:lastmodified":1695876828,
     "wof:name":"Soomevere",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

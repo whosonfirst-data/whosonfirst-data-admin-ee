@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u0151rgepalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001646,
-    "geom:area_square_m":10874658.040931,
+    "geom:area_square_m":10874658.04093,
     "geom:bbox":"26.689873,57.691192,26.764512,57.728908",
     "geom:latitude":57.712633,
     "geom:longitude":26.723275,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3793
+        "ee-mamt:okood":"3793"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343726435
     ],
     "wof:country":"EE",
     "wof:created":1595461138,
-    "wof:geomhash":"fdcbcde7901a5754333cbd2d12691a9c",
+    "wof:geomhash":"adec0862abcbc352946981364a4afce8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676813,
+    "wof:lastmodified":1695876955,
     "wof:name":"K\u0151rgepalu",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

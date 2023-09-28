@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kr\u00fc\u00fcdneri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001487,
-    "geom:area_square_m":9709841.662089,
+    "geom:area_square_m":9709841.662092,
     "geom:bbox":"26.654307,58.114209,26.731821,58.155723",
     "geom:latitude":58.132266,
     "geom:longitude":26.686027,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3511
+        "ee-mamt:okood":"3511"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327320773
     ],
     "wof:country":"EE",
     "wof:created":1595460826,
-    "wof:geomhash":"e722dcd956790f0f6c7fa73e8195636a",
+    "wof:geomhash":"9ca5ee3d98592fbb93478bd4fb6c038c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676784,
+    "wof:lastmodified":1695876952,
     "wof:name":"Kr\u00fc\u00fcdneri",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

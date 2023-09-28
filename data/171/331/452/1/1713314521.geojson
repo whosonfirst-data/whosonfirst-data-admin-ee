@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u0151ivere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003573,
-    "geom:area_square_m":22875415.4626,
+    "geom:area_square_m":22875415.462602,
     "geom:bbox":"26.012347,58.788481,26.143192,58.83927",
     "geom:latitude":58.816329,
     "geom:longitude":26.077795,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8483
+        "ee-mamt:okood":"8483"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225943205
     ],
     "wof:country":"EE",
     "wof:created":1595460999,
-    "wof:geomhash":"b717b1c2d4d50c518ae12ae091ed66e0",
+    "wof:geomhash":"0494e8ee330759a261c4078d1d4e2f9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676488,
+    "wof:lastmodified":1695876915,
     "wof:name":"T\u0151ivere",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

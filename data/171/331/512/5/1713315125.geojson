@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hapsu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000037,
-    "geom:area_square_m":243381.196606,
+    "geom:area_square_m":243381.196607,
     "geom:bbox":"26.994762,57.745011,27.012083,57.750797",
     "geom:latitude":57.74795,
     "geom:longitude":27.002014,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1756
+        "ee-mamt:okood":"1756"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461136,
-    "wof:geomhash":"15cbd3d6b35e93f78d5d435547bcd93b",
+    "wof:geomhash":"fd87e1b9721002c8f6c817707d8c8c5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676815,
+    "wof:lastmodified":1695876956,
     "wof:name":"Hapsu",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

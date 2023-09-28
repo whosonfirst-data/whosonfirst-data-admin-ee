@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paland\u0151 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000043,
-    "geom:area_square_m":282906.132297,
+    "geom:area_square_m":282906.132298,
     "geom:bbox":"27.450918,57.753581,27.459766,57.762636",
     "geom:latitude":57.757439,
     "geom:longitude":27.456368,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5914
+        "ee-mamt:okood":"5914"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276403875
     ],
     "wof:country":"EE",
     "wof:created":1595461361,
-    "wof:geomhash":"9338a089b090893475c283c1dbcb10c8",
+    "wof:geomhash":"026aeae2eddb8ccacaa3195298ebbd70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663636,
+    "wof:lastmodified":1695876838,
     "wof:name":"Paland\u0151",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

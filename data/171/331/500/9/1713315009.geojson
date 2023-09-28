@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kabeli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000902,
-    "geom:area_square_m":5778143.774357,
+    "geom:area_square_m":5778143.774358,
     "geom:bbox":"23.894236,58.773624,23.957529,58.801268",
     "geom:latitude":58.787012,
     "geom:longitude":23.926147,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2446
+        "ee-mamt:okood":"2446"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344049025
     ],
     "wof:country":"EE",
     "wof:created":1595461113,
-    "wof:geomhash":"a736801219836d08475b3829ea06e923",
+    "wof:geomhash":"79af868519b6bf017bd888e27da4e527",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677176,
+    "wof:lastmodified":1695876986,
     "wof:name":"Kabeli",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

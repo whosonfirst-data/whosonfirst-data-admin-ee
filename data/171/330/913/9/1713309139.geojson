@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soolu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00268,
-    "geom:area_square_m":17044547.220076,
+    "geom:area_square_m":17044547.220074,
     "geom:bbox":"23.699723,59.020536,23.778472,59.073048",
     "geom:latitude":59.04977,
     "geom:longitude":23.734837,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7709
+        "ee-mamt:okood":"7709"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310326233
     ],
     "wof:country":"EE",
     "wof:created":1595459818,
-    "wof:geomhash":"9addab05b2637806f71d93afb16c5581",
+    "wof:geomhash":"f72de20ea9b506251ede75e62ac74f64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677204,
+    "wof:lastmodified":1695876990,
     "wof:name":"Soolu",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

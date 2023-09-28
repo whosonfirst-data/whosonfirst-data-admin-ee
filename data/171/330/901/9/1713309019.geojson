@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u0151rungi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000172,
-    "geom:area_square_m":1111015.86273,
+    "geom:area_square_m":1111015.862731,
     "geom:bbox":"24.221101,58.558667,24.236046,58.57524",
     "geom:latitude":58.5674,
     "geom:longitude":24.227319,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9584
+        "ee-mamt:okood":"9584"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226223265
     ],
     "wof:country":"EE",
     "wof:created":1595459786,
-    "wof:geomhash":"1b2a40d657278bb0c85db191eddfadc3",
+    "wof:geomhash":"d40669f8d820798fce3891cae1cc248d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661603,
+    "wof:lastmodified":1695876768,
     "wof:name":"V\u0151rungi",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

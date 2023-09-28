@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kilomani K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000407,
-    "geom:area_square_m":2695486.469622,
+    "geom:area_square_m":2695486.469621,
     "geom:bbox":"26.992695,57.602477,27.039749,57.618587",
     "geom:latitude":57.609217,
     "geom:longitude":27.016476,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3089
+        "ee-mamt:okood":"3089"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259456971
     ],
     "wof:country":"EE",
     "wof:created":1595461121,
-    "wof:geomhash":"b2cde925977a29483002f11ed9e2b4ae",
+    "wof:geomhash":"ec7c2dab71b8e0cad05de82fd88e287a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676817,
+    "wof:lastmodified":1695876956,
     "wof:name":"Kilomani",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

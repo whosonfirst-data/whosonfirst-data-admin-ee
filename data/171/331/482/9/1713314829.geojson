@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Leevre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002646,
-    "geom:area_square_m":16854571.403712,
+    "geom:area_square_m":16854571.403713,
     "geom:bbox":"24.158745,58.958617,24.277055,59.02461",
     "geom:latitude":58.991437,
     "geom:longitude":24.216304,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4200
+        "ee-mamt:okood":"4200"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209902441
     ],
     "wof:country":"EE",
     "wof:created":1595461067,
-    "wof:geomhash":"584176d201a5ddb0d39f08bdf8e22686",
+    "wof:geomhash":"2d4f70ba39e8ffa46e84524cfbb2be8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662828,
+    "wof:lastmodified":1695876805,
     "wof:name":"Leevre",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

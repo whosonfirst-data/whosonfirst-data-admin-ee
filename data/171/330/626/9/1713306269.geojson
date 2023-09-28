@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pukam\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000207,
-    "geom:area_square_m":1311098.244398,
+    "geom:area_square_m":1311098.244399,
     "geom:bbox":"24.75718,59.142152,24.779772,59.158458",
     "geom:latitude":59.150198,
     "geom:longitude":24.768173,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6415
+        "ee-mamt:okood":"6415"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209801661
     ],
     "wof:country":"EE",
     "wof:created":1595459117,
-    "wof:geomhash":"233719bfede744b62bcd57a5f602f68a",
+    "wof:geomhash":"fa57c1bb238c1ac3bb68ad6bbc528684",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677030,
+    "wof:lastmodified":1695876983,
     "wof:name":"Pukam\u00e4e",
     "wof:parent_id":1713305707,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Puiatu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000804,
-    "geom:area_square_m":5212168.069783,
+    "geom:area_square_m":5212168.069785,
     "geom:bbox":"25.37223,58.349278,25.448925,58.370785",
     "geom:latitude":58.360013,
     "geom:longitude":25.413005,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6406
+        "ee-mamt:okood":"6406"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125956587
     ],
     "wof:country":"EE",
     "wof:created":1595460029,
-    "wof:geomhash":"39f98a4a46dbd3235c9cb26974e1afeb",
+    "wof:geomhash":"94707b4b77b04d29772be7cba7d78453",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661183,
+    "wof:lastmodified":1695876743,
     "wof:name":"Puiatu",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

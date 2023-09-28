@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Maltsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003262,
-    "geom:area_square_m":21285939.184147,
+    "geom:area_square_m":21285939.184133,
     "geom:bbox":"25.977642,58.111583,26.061013,58.202825",
     "geom:latitude":58.147725,
     "geom:longitude":26.019847,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4763
+        "ee-mamt:okood":"4763"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243528907
     ],
     "wof:country":"EE",
     "wof:created":1595460878,
-    "wof:geomhash":"364536e33dd354f2731c12a1580b2ee3",
+    "wof:geomhash":"e8da599597fa90b3b62638508c73e035",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661220,
+    "wof:lastmodified":1695876746,
     "wof:name":"Maltsa",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

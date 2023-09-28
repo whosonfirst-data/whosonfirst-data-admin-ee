@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tuuraste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000486,
-    "geom:area_square_m":3148044.805308,
+    "geom:area_square_m":3148044.805307,
     "geom:bbox":"24.218104,58.373573,24.273442,58.389951",
     "geom:latitude":58.381658,
     "geom:longitude":24.246874,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8463
+        "ee-mamt:okood":"8463"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243542665
     ],
     "wof:country":"EE",
     "wof:created":1595460050,
-    "wof:geomhash":"e36fa0f850b4601d7a48fcfde0ff9348",
+    "wof:geomhash":"e271a0332e25497a655610264c2c84f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677671,
+    "wof:lastmodified":1695876992,
     "wof:name":"Tuuraste",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

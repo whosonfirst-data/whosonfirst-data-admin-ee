@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sirgumetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003261,
-    "geom:area_square_m":21113894.246761,
+    "geom:area_square_m":21113894.24676,
     "geom:bbox":"26.952174,58.388202,27.052309,58.448253",
     "geom:latitude":58.425733,
     "geom:longitude":27.000399,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7635
+        "ee-mamt:okood":"7635"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260355483
     ],
     "wof:country":"EE",
     "wof:created":1595460657,
-    "wof:geomhash":"0f7458df630fbb802a41c9b94d66e723",
+    "wof:geomhash":"f5fd1a6bb55523de4827f4b6dba926a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660672,
+    "wof:lastmodified":1695876730,
     "wof:name":"Sirgumetsa",
     "wof:parent_id":1713305697,
     "wof:placetype":"localadmin",

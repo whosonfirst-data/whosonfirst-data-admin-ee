@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Perak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00026,
-    "geom:area_square_m":1708769.637574,
+    "geom:area_square_m":1708769.637573,
     "geom:bbox":"27.084347,57.937462,27.120993,57.957188",
     "geom:latitude":57.946903,
     "geom:longitude":27.102588,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6107
+        "ee-mamt:okood":"6107"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226620247
     ],
     "wof:country":"EE",
     "wof:created":1595461289,
-    "wof:geomhash":"6b75954936d9ce475122155e0d9c47de",
+    "wof:geomhash":"d97550a06802f872e1929ab8bb032a3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660229,
+    "wof:lastmodified":1695876721,
     "wof:name":"Perak\u00fcla",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

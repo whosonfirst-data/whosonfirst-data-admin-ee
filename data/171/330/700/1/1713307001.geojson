@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Panga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001245,
-    "geom:area_square_m":8032642.086905,
+    "geom:area_square_m":8032642.086904,
     "geom:bbox":"22.282657,58.542884,22.349365,58.573181",
     "geom:latitude":58.558732,
     "geom:longitude":22.312045,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5973
+        "ee-mamt:okood":"5973"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326913645
     ],
     "wof:country":"EE",
     "wof:created":1595459298,
-    "wof:geomhash":"3f4778c3eea61772cd24facc2994e466",
+    "wof:geomhash":"af91c3d86a259e1ad133be390666c106",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672191,
+    "wof:lastmodified":1695876884,
     "wof:name":"Panga",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

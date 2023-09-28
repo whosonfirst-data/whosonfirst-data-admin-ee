@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Sindi Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.000771,
-    "geom:area_square_m":4993737.206462,
+    "geom:area_square_m":4993737.20646,
     "geom:bbox":"24.621992,58.381087,24.682072,58.418385",
     "geom:latitude":58.400586,
     "geom:longitude":24.653547,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Sindi linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7607
+        "ee-mamt:okood":"7607"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101839829
     ],
     "wof:country":"EE",
     "wof:created":1595460534,
-    "wof:geomhash":"efbb0d84a6f626d2a7e6e5795308be12",
+    "wof:geomhash":"e0ad05b3970162c0071185ab647924a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663376,
+    "wof:lastmodified":1695876820,
     "wof:name":"Sindi",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

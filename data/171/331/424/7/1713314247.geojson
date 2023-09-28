@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Angerja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001967,
-    "geom:area_square_m":12455333.682168,
+    "geom:area_square_m":12455333.682165,
     "geom:bbox":"24.792925,59.160252,24.858039,59.224641",
     "geom:latitude":59.197083,
     "geom:longitude":24.826143,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1270
+        "ee-mamt:okood":"1270"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209200915
     ],
     "wof:country":"EE",
     "wof:created":1595460936,
-    "wof:geomhash":"a997fa754d158c365b526a91f212b42e",
+    "wof:geomhash":"ce2d26ce3d6d406acad93c3c4f72e08e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677030,
+    "wof:lastmodified":1695876983,
     "wof:name":"Angerja",
     "wof:parent_id":1713305707,
     "wof:placetype":"localadmin",

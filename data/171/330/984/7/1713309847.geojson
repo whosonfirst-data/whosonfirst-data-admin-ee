@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tagam\u0151isa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001253,
-    "geom:area_square_m":8173035.72664,
+    "geom:area_square_m":8173035.726648,
     "geom:bbox":"25.775443,58.139646,25.854147,58.193528",
     "geom:latitude":58.163854,
     "geom:longitude":25.811712,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8048
+        "ee-mamt:okood":"8048"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1192980269
     ],
     "wof:country":"EE",
     "wof:created":1595459989,
-    "wof:geomhash":"f83b7382b6d9bdf8d3a84b1cc9d6edc6",
+    "wof:geomhash":"83680a0998ceb90876f19af8d8c8f90a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661238,
+    "wof:lastmodified":1695876749,
     "wof:name":"Tagam\u0151isa",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

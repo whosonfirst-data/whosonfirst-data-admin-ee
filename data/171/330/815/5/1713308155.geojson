@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Lehtse Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000186,
-    "geom:area_square_m":1174982.80119,
+    "geom:area_square_m":1174982.801191,
     "geom:bbox":"25.818418,59.242078,25.840363,59.259161",
     "geom:latitude":59.251403,
     "geom:longitude":25.826919,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Lehtse alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4217
+        "ee-mamt:okood":"4217"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125858237
     ],
     "wof:country":"EE",
     "wof:created":1595459572,
-    "wof:geomhash":"b5d308e2f9692b0b5fe29369b6cfc907",
+    "wof:geomhash":"20e92590095305961c9b824b39fac8a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676589,
+    "wof:lastmodified":1695876926,
     "wof:name":"Lehtse",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

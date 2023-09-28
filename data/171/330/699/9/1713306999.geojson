@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pammana K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00076,
-    "geom:area_square_m":4892741.145898,
+    "geom:area_square_m":4892741.145895,
     "geom:bbox":"22.508418,58.616104,22.578868,58.663424",
     "geom:latitude":58.629366,
     "geom:longitude":22.551262,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5967
+        "ee-mamt:okood":"5967"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293084543
     ],
     "wof:country":"EE",
     "wof:created":1595459297,
-    "wof:geomhash":"a5dcb42cc2dcfedb63bc31a37bd093f0",
+    "wof:geomhash":"66f1d1a1b6857c4400de23ad229cf2cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672115,
+    "wof:lastmodified":1695876881,
     "wof:name":"Pammana",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

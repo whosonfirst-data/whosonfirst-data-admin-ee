@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kopli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000112,
-    "geom:area_square_m":723091.849854,
+    "geom:area_square_m":723091.849855,
     "geom:bbox":"22.710528,58.50729,22.725525,58.517052",
     "geom:latitude":58.512024,
     "geom:longitude":22.71776,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3437
+        "ee-mamt:okood":"3437"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243247131
     ],
     "wof:country":"EE",
     "wof:created":1595459426,
-    "wof:geomhash":"b3c4ac369f70751e7b1807d4c3266f45",
+    "wof:geomhash":"c8f96bbf7df699089a3279d801a9d99d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671628,
+    "wof:lastmodified":1695876865,
     "wof:name":"Kopli",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

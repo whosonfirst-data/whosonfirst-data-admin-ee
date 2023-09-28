@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Igavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000674,
-    "geom:area_square_m":4350820.819985,
+    "geom:area_square_m":4350820.819987,
     "geom:bbox":"26.737105,58.518199,26.792759,58.559616",
     "geom:latitude":58.538577,
     "geom:longitude":26.765879,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1993
+        "ee-mamt:okood":"1993"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343924157
     ],
     "wof:country":"EE",
     "wof:created":1595460799,
-    "wof:geomhash":"bb1823e0eda703d32d7b85c5a35536a0",
+    "wof:geomhash":"7e71fcc10255c7c13557008b761bb69b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676456,
+    "wof:lastmodified":1695876910,
     "wof:name":"Igavere",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

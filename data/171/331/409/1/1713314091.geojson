@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Narva Linn",
     "ee-mamt:tyyp":4,
     "geom:area":0.010843,
-    "geom:area_square_m":68343650.234764,
+    "geom:area_square_m":68343650.234711,
     "geom:bbox":"28.011294,59.295309,28.208962,59.443861",
     "geom:latitude":59.354339,
     "geom:longitude":28.108829,
@@ -20,7 +20,7 @@
         "Narva linn"
     ],
     "label:est_x_preferred_placetype":[
-        "linn"
+        "linna vald"
     ],
     "lbl:latitude":59.325994,
     "lbl:longitude":28.099394,
@@ -62,15 +62,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":511
+        "ee-mamt:okood":"511"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101748155,
         1713305671
     ],
     "wof:country":"EE",
     "wof:created":1595460901,
-    "wof:geomhash":"cf568100b88ab2fb3e0943cc7fcf0bd4",
+    "wof:geomhash":"876a37dad1361d51b0f826c78504e4e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +88,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502248,
+    "wof:lastmodified":1695877022,
     "wof:name":"Narva",
     "wof:parent_id":1713305671,
     "wof:placetype":"localadmin",

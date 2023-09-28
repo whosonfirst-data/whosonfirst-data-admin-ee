@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tuhu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0014,
-    "geom:area_square_m":9018912.964669,
+    "geom:area_square_m":9018912.964668,
     "geom:bbox":"23.820002,58.5794,23.882366,58.618324",
     "geom:latitude":58.597956,
     "geom:longitude":23.850168,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8401
+        "ee-mamt:okood":"8401"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209306161
     ],
     "wof:country":"EE",
     "wof:created":1595459890,
-    "wof:geomhash":"a2d52a7482b4430dcb8223f0dea74415",
+    "wof:geomhash":"ae159c5ceb32d94273d7969dd166e4f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661613,
+    "wof:lastmodified":1695876769,
     "wof:name":"Tuhu",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

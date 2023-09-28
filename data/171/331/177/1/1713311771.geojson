@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Atsalama K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001996,
-    "geom:area_square_m":12628723.267935,
+    "geom:area_square_m":12628723.267937,
     "geom:bbox":"27.326698,59.209554,27.416735,59.249769",
     "geom:latitude":59.231005,
     "geom:longitude":27.376087,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1443
+        "ee-mamt:okood":"1443"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327136177
     ],
     "wof:country":"EE",
     "wof:created":1595460414,
-    "wof:geomhash":"094fffff914f986aa54ba9f801821aec",
+    "wof:geomhash":"272f028e5ec6e799fc432f0c56101068",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660685,
+    "wof:lastmodified":1695876731,
     "wof:name":"Atsalama",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

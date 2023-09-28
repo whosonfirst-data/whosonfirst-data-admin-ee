@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rausvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000452,
-    "geom:area_square_m":2853275.559838,
+    "geom:area_square_m":2853275.559837,
     "geom:bbox":"27.484129,59.2883,27.509847,59.321642",
     "geom:latitude":59.302996,
     "geom:longitude":27.495569,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6866
+        "ee-mamt:okood":"6866"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310013445
     ],
     "wof:country":"EE",
     "wof:created":1595460637,
-    "wof:geomhash":"d95d6c69efd607f1d32fa4ec4aabee6d",
+    "wof:geomhash":"4c3d96dcdbdb26ac69546f323b7603ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660689,
+    "wof:lastmodified":1695876731,
     "wof:name":"Rausvere",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

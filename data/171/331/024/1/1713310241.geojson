@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u0151duk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00161,
-    "geom:area_square_m":10510345.967679,
+    "geom:area_square_m":10510345.96768,
     "geom:bbox":"26.257498,58.122071,26.340286,58.158908",
     "geom:latitude":58.142305,
     "geom:longitude":26.292696,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3738
+        "ee-mamt:okood":"3738"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125840383
     ],
     "wof:country":"EE",
     "wof:created":1595460079,
-    "wof:geomhash":"48bd6e9f1c94692f27143d51ceeb6d7f",
+    "wof:geomhash":"f8b73a8c91d2d217645cc0c942d9c6e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661887,
+    "wof:lastmodified":1695876783,
     "wof:name":"K\u0151duk\u00fcla",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

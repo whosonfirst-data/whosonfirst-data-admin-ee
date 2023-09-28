@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u0151hma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.006588,
-    "geom:area_square_m":42524553.507455,
+    "geom:area_square_m":42524553.507446,
     "geom:bbox":"22.275768,58.499619,22.465085,58.564656",
     "geom:latitude":58.534058,
     "geom:longitude":22.376499,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9497
+        "ee-mamt:okood":"9497"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225828739
     ],
     "wof:country":"EE",
     "wof:created":1595459701,
-    "wof:geomhash":"fcfe0cd50f795a4b73a6ef1f8a5b5f68",
+    "wof:geomhash":"1d694f6bec77a8ca4322907b0bf33899",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672570,
+    "wof:lastmodified":1695876900,
     "wof:name":"V\u0151hma",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

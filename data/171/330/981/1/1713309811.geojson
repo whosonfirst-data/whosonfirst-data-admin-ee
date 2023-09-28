@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Savikoti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001735,
-    "geom:area_square_m":11236535.015243,
+    "geom:area_square_m":11236535.015245,
     "geom:bbox":"25.450156,58.391868,25.511226,58.437792",
     "geom:latitude":58.415148,
     "geom:longitude":25.481484,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7494
+        "ee-mamt:okood":"7494"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936121
     ],
     "wof:country":"EE",
     "wof:created":1595459982,
-    "wof:geomhash":"2dcf12e6ad96abe1e1923c6054ae1710",
+    "wof:geomhash":"d1c7971cfbd376c547b33d6663448e26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661225,
+    "wof:lastmodified":1695876746,
     "wof:name":"Savikoti",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

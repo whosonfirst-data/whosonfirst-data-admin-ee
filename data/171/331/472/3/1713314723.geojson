@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00f6ldri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000179,
-    "geom:area_square_m":1181094.984073,
+    "geom:area_square_m":1181094.984074,
     "geom:bbox":"26.902503,57.733565,26.927151,57.746689",
     "geom:latitude":57.739754,
     "geom:longitude":26.913601,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5306
+        "ee-mamt:okood":"5306"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259939009
     ],
     "wof:country":"EE",
     "wof:created":1595461044,
-    "wof:geomhash":"2228e7d0bd157747e8823486825898e3",
+    "wof:geomhash":"071fc00cef2ab1d433e85ca141c5b03d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676824,
+    "wof:lastmodified":1695876958,
     "wof:name":"M\u00f6ldri",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

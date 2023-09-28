@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00e4iksi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000439,
-    "geom:area_square_m":2826463.730688,
+    "geom:area_square_m":2826463.730687,
     "geom:bbox":"27.079048,58.59521,27.118106,58.611025",
     "geom:latitude":58.603726,
     "geom:longitude":27.098075,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6577
+        "ee-mamt:okood":"6577"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276188107
     ],
     "wof:country":"EE",
     "wof:created":1595459859,
-    "wof:geomhash":"b15f777cc418e62100f3652e0063065a",
+    "wof:geomhash":"3c7392efc7306a2bd2aec856f1d56412",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660863,
+    "wof:lastmodified":1695876739,
     "wof:name":"P\u00e4iksi",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lutep\u00e4\u00e4 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000923,
-    "geom:area_square_m":6065222.469795,
+    "geom:area_square_m":6065222.469796,
     "geom:bbox":"27.64477,57.906841,27.719158,57.923703",
     "geom:latitude":57.915279,
     "geom:longitude":27.683077,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4570
+        "ee-mamt:okood":"4570"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226727103
     ],
     "wof:country":"EE",
     "wof:created":1595461430,
-    "wof:geomhash":"bbdeaa11ae72430ba153014ec51f7d77",
+    "wof:geomhash":"4f3dbbd4ece27bb244f5ba2b389208a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663634,
+    "wof:lastmodified":1695876837,
     "wof:name":"Lutep\u00e4\u00e4",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

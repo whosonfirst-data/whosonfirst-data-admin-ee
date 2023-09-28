@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Andineeme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000527,
-    "geom:area_square_m":3307092.828516,
+    "geom:area_square_m":3307092.828513,
     "geom:bbox":"25.445797,59.485067,25.482161,59.51937",
     "geom:latitude":59.502224,
     "geom:longitude":25.46505,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1256
+        "ee-mamt:okood":"1256"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326647633
     ],
     "wof:country":"EE",
     "wof:created":1595459023,
-    "wof:geomhash":"55e8b44dfacaf28fd84dd6768c316ac6",
+    "wof:geomhash":"258720d5377df2aaba7f369ed627f3d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661823,
+    "wof:lastmodified":1695876779,
     "wof:name":"Andineeme",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

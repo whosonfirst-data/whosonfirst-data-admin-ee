@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Elistvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001093,
-    "geom:area_square_m":7049277.531746,
+    "geom:area_square_m":7049277.531744,
     "geom:bbox":"26.654012,58.557498,26.722561,58.591958",
     "geom:latitude":58.573089,
     "geom:longitude":26.686335,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1579
+        "ee-mamt:okood":"1579"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125850357
     ],
     "wof:country":"EE",
     "wof:created":1595460828,
-    "wof:geomhash":"71a068cc787a50c1728f509c5941aa3b",
+    "wof:geomhash":"29ecc0765a0b978615b83fa20c3eea50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676452,
+    "wof:lastmodified":1695876909,
     "wof:name":"Elistvere",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

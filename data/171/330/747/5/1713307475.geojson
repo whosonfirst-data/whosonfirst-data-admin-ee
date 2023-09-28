@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaugatoma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000963,
-    "geom:area_square_m":6285968.416506,
+    "geom:area_square_m":6285968.416507,
     "geom:bbox":"22.179294,58.100404,22.24179,58.136872",
     "geom:latitude":58.119292,
     "geom:longitude":22.211348,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2864
+        "ee-mamt:okood":"2864"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276625605
     ],
     "wof:country":"EE",
     "wof:created":1595459409,
-    "wof:geomhash":"f57b4ff0b30b3a10d5514504e2f3d7c2",
+    "wof:geomhash":"895c1e562f8bbae7d7d15af54a886275",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671963,
+    "wof:lastmodified":1695876875,
     "wof:name":"Kaugatoma",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

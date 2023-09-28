@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Marinu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000676,
-    "geom:area_square_m":4245046.367188,
+    "geom:area_square_m":4245046.367187,
     "geom:bbox":"26.387973,59.461139,26.433404,59.486803",
     "geom:latitude":59.475168,
     "geom:longitude":26.411662,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4786
+        "ee-mamt:okood":"4786"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225964237
     ],
     "wof:country":"EE",
     "wof:created":1595461160,
-    "wof:geomhash":"696a866b139b3ec7a4663b96f6dc0c46",
+    "wof:geomhash":"3384a83b6bfd212cd6f1807b7211f250",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677914,
+    "wof:lastmodified":1695876999,
     "wof:name":"Marinu",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

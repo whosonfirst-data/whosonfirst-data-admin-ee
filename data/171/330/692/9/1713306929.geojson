@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nava K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000126,
-    "geom:area_square_m":814922.39962,
+    "geom:area_square_m":814922.399619,
     "geom:bbox":"22.656902,58.49032,22.677328,58.504478",
     "geom:latitude":58.497799,
     "geom:longitude":22.669091,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5374
+        "ee-mamt:okood":"5374"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260050893
     ],
     "wof:country":"EE",
     "wof:created":1595459280,
-    "wof:geomhash":"c086f64ca3db89f79f0bbb62831f0d30",
+    "wof:geomhash":"b7a7ebde021695ea6a5c031152f5d841",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672059,
+    "wof:lastmodified":1695876879,
     "wof:name":"Nava",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

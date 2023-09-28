@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Alu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001055,
-    "geom:area_square_m":6831738.0221,
+    "geom:area_square_m":6831738.022098,
     "geom:bbox":"24.020614,58.401897,24.062701,58.448314",
     "geom:latitude":58.423609,
     "geom:longitude":24.039859,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1229
+        "ee-mamt:okood":"1229"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226523433
     ],
     "wof:country":"EE",
     "wof:created":1595460160,
-    "wof:geomhash":"95b57afe23d8f84a72bdbc3721f83c0b",
+    "wof:geomhash":"924884bb8c16784f35615d1d9e4a0e08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677681,
+    "wof:lastmodified":1695876994,
     "wof:name":"Alu",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

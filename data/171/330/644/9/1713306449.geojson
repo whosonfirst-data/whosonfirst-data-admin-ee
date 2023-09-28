@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hara K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005337,
-    "geom:area_square_m":33434489.932159,
+    "geom:area_square_m":33434489.932158,
     "geom:bbox":"25.546463,59.521755,25.712025,59.589201",
     "geom:latitude":59.556813,
     "geom:longitude":25.620327,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1761
+        "ee-mamt:okood":"1761"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125800077
     ],
     "wof:country":"EE",
     "wof:created":1595459160,
-    "wof:geomhash":"fa2ef51fa2208a4fedcf24104c3b0f33",
+    "wof:geomhash":"23a7eaa8b7d014f81a082dd0cec1b42b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617131279,
+    "wof:lastmodified":1695877019,
     "wof:name":"Hara",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

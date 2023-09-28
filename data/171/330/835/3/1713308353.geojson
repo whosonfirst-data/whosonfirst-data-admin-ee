@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Korjuse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001248,
-    "geom:area_square_m":7816542.924786,
+    "geom:area_square_m":7816542.924787,
     "geom:bbox":"25.886463,59.543267,25.949495,59.57594",
     "geom:latitude":59.559133,
     "geom:longitude":25.918403,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3449
+        "ee-mamt:okood":"3449"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242774717
     ],
     "wof:country":"EE",
     "wof:created":1595459625,
-    "wof:geomhash":"5ac32f16ee5cfa8d266adbd97027c1a8",
+    "wof:geomhash":"838a75966cbe63ed85d90fad3ce4b4a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678026,
+    "wof:lastmodified":1695877012,
     "wof:name":"Korjuse",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

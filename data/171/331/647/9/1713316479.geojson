@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sulbi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000086,
-    "geom:area_square_m":568324.555663,
+    "geom:area_square_m":568324.555662,
     "geom:bbox":"27.416671,57.71875,27.44308,57.728554",
     "geom:latitude":57.722572,
     "geom:longitude":27.431475,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7786
+        "ee-mamt:okood":"7786"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461435,
-    "wof:geomhash":"86ff5a48173245ac09c296ad79e1a486",
+    "wof:geomhash":"f2163f46fc20a6ecc65c08942f4d98e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663661,
+    "wof:lastmodified":1695876843,
     "wof:name":"Sulbi",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

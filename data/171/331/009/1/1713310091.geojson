@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Peerni K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00034,
-    "geom:area_square_m":2214912.098039,
+    "geom:area_square_m":2214912.09804,
     "geom:bbox":"24.116483,58.244325,24.152245,58.260525",
     "geom:latitude":58.253458,
     "geom:longitude":24.131724,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6082
+        "ee-mamt:okood":"6082"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326618095
     ],
     "wof:country":"EE",
     "wof:created":1595460047,
-    "wof:geomhash":"18849b68f8d765db4007777cfbc2ca0b",
+    "wof:geomhash":"d495a40d583514ad2f9a39a569cc19b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617130940,
+    "wof:lastmodified":1695877018,
     "wof:name":"Peerni",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

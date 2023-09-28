@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Turja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000979,
-    "geom:area_square_m":6357537.671562,
+    "geom:area_square_m":6357537.671559,
     "geom:bbox":"22.887979,58.298355,22.970528,58.350235",
     "geom:latitude":58.334466,
     "geom:longitude":22.921986,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8426
+        "ee-mamt:okood":"8426"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310679987
     ],
     "wof:country":"EE",
     "wof:created":1595459617,
-    "wof:geomhash":"b9b0fa08afb16de22b8b87cf2be95a5c",
+    "wof:geomhash":"0f56599465205c43e3762c3b5dcbb1a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671879,
+    "wof:lastmodified":1695876873,
     "wof:name":"Turja",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

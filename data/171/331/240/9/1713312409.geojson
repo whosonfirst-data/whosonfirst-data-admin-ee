@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Eavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002292,
-    "geom:area_square_m":14783000.819462,
+    "geom:area_square_m":14783000.819466,
     "geom:bbox":"24.537519,58.532015,24.609626,58.588145",
     "geom:latitude":58.561784,
     "geom:longitude":24.57421,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1516
+        "ee-mamt:okood":"1516"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276321849
     ],
     "wof:country":"EE",
     "wof:created":1595460538,
-    "wof:geomhash":"a42418fdbb09d7f04a5b90737a563db6",
+    "wof:geomhash":"6c55df7ce2b0a9685d0b79bcae0b3bc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663376,
+    "wof:lastmodified":1695876820,
     "wof:name":"Eavere",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

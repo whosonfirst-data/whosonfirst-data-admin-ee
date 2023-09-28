@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laulasmaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001082,
-    "geom:area_square_m":6817639.283622,
+    "geom:area_square_m":6817639.283624,
     "geom:bbox":"24.207068,59.357266,24.271994,59.398948",
     "geom:latitude":59.377798,
     "geom:longitude":24.24337,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4148
+        "ee-mamt:okood":"4148"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125887327
     ],
     "wof:country":"EE",
     "wof:created":1595459489,
-    "wof:geomhash":"9d445e72b790b73e1e8f4bea8fa056fc",
+    "wof:geomhash":"f892bf6ab5a51035bd8623a977af104f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663300,
+    "wof:lastmodified":1695876817,
     "wof:name":"Laulasmaa",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

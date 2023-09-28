@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Haage K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000455,
-    "geom:area_square_m":2948304.326469,
+    "geom:area_square_m":2948304.326468,
     "geom:bbox":"26.606256,58.34649,26.642633,58.372379",
     "geom:latitude":58.359957,
     "geom:longitude":26.621806,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1681
+        "ee-mamt:okood":"1681"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125933017
     ],
     "wof:country":"EE",
     "wof:created":1595460899,
-    "wof:geomhash":"cd3828d168940ad3961f4d95d8643626",
+    "wof:geomhash":"3464c85e861069f2cc3958d287cae279",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661168,
+    "wof:lastmodified":1695876743,
     "wof:name":"Haage",
     "wof:parent_id":1713305675,
     "wof:placetype":"localadmin",

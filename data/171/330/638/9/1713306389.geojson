@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Maardu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001692,
-    "geom:area_square_m":10640323.3795,
+    "geom:area_square_m":10640323.379498,
     "geom:bbox":"25.007645,59.407357,25.059957,59.452445",
     "geom:latitude":59.431454,
     "geom:longitude":25.035535,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4704
+        "ee-mamt:okood":"4704"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310519273
     ],
     "wof:country":"EE",
     "wof:created":1595459146,
-    "wof:geomhash":"3adb7a21cb0dd2005c04bb07502959d1",
+    "wof:geomhash":"70119bd1c2b73f40df47ce2df532e865",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661379,
+    "wof:lastmodified":1695876757,
     "wof:name":"Maardu",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

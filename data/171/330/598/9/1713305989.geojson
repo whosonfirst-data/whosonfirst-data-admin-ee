@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Neeme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000607,
-    "geom:area_square_m":3806252.717036,
+    "geom:area_square_m":3806252.717043,
     "geom:bbox":"25.13389,59.508907,25.184158,59.541381",
     "geom:latitude":59.522824,
     "geom:longitude":25.160109,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5389
+        "ee-mamt:okood":"5389"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125821689
     ],
     "wof:country":"EE",
     "wof:created":1595459049,
-    "wof:geomhash":"2ac19516f1ee5f200d09d6136539bd7c",
+    "wof:geomhash":"49634a3a22705f9b13460ac5bbee423a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661378,
+    "wof:lastmodified":1695876757,
     "wof:name":"Neeme",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

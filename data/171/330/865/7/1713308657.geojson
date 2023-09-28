@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tidriku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001959,
-    "geom:area_square_m":12290977.044503,
+    "geom:area_square_m":12290977.044502,
     "geom:bbox":"26.328322,59.488731,26.427067,59.534866",
     "geom:latitude":59.517418,
     "geom:longitude":26.373878,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8178
+        "ee-mamt:okood":"8178"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309697897
     ],
     "wof:country":"EE",
     "wof:created":1595459700,
-    "wof:geomhash":"7f30aeca94023aa8ad68e49d1bb7cc1c",
+    "wof:geomhash":"2f3e2978a02a5dbd375d89f3e65b2dc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678011,
+    "wof:lastmodified":1695877009,
     "wof:name":"Tidriku",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

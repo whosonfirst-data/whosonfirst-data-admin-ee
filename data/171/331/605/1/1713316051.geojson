@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Leiso K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000128,
-    "geom:area_square_m":837716.992619,
+    "geom:area_square_m":837716.99262,
     "geom:bbox":"26.764301,57.8977,26.785699,57.908107",
     "geom:latitude":57.903403,
     "geom:longitude":26.775801,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4240
+        "ee-mamt:okood":"4240"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243337541
     ],
     "wof:country":"EE",
     "wof:created":1595461348,
-    "wof:geomhash":"5b6efe224255af66f362da5493695326",
+    "wof:geomhash":"e3ce0f185ab8e18ea7bcc21157f0c789",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660250,
+    "wof:lastmodified":1695876724,
     "wof:name":"Leiso",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

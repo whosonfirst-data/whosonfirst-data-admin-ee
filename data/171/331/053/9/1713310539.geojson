@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Patk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003107,
-    "geom:area_square_m":20373156.820203,
+    "geom:area_square_m":20373156.820211,
     "geom:bbox":"25.835067,57.944457,25.94035,57.995706",
     "geom:latitude":57.971857,
     "geom:longitude":25.897157,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6042
+        "ee-mamt:okood":"6042"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008559
     ],
     "wof:country":"EE",
     "wof:created":1595460148,
-    "wof:geomhash":"d084d17df65d48e6cc923fc4832263eb",
+    "wof:geomhash":"539dbaa48b4212e2d639020f30b9041e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661419,
+    "wof:lastmodified":1695876757,
     "wof:name":"Patk\u00fcla",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

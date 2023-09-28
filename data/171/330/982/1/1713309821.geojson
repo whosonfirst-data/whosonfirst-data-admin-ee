@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soodoma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001604,
-    "geom:area_square_m":10523486.77308,
+    "geom:area_square_m":10523486.773077,
     "geom:bbox":"26.791031,57.937175,26.876694,57.971346",
     "geom:latitude":57.954416,
     "geom:longitude":26.828542,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7696
+        "ee-mamt:okood":"7696"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890027
     ],
     "wof:country":"EE",
     "wof:created":1595459984,
-    "wof:geomhash":"8a67ba606782868940cf97ef5b8c3a35",
+    "wof:geomhash":"88781533a4a1ca94b61b201e3e643bcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676780,
+    "wof:lastmodified":1695876951,
     "wof:name":"Soodoma",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

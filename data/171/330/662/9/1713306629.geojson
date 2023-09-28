@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Metsal\u0151uka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000208,
-    "geom:area_square_m":1356183.424335,
+    "geom:area_square_m":1356183.424336,
     "geom:bbox":"22.159402,58.174295,22.184894,58.190313",
     "geom:latitude":58.180772,
     "geom:longitude":22.171443,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4899
+        "ee-mamt:okood":"4899"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260369193
     ],
     "wof:country":"EE",
     "wof:created":1595459201,
-    "wof:geomhash":"2c852f02438c8501cee80a9002850b20",
+    "wof:geomhash":"b1836d4f8d0e24ab948b2ede8c6414cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671934,
+    "wof:lastmodified":1695876875,
     "wof:name":"Metsal\u0151uka",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

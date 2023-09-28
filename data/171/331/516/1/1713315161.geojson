@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Luutsniku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001635,
-    "geom:area_square_m":10825210.55129,
+    "geom:area_square_m":10825210.551291,
     "geom:bbox":"26.92629,57.610144,27.021177,57.643917",
     "geom:latitude":57.627386,
     "geom:longitude":26.972522,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4591
+        "ee-mamt:okood":"4591"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276612671
     ],
     "wof:country":"EE",
     "wof:created":1595461144,
-    "wof:geomhash":"fa575c3d3e3069f0fabed7f90a3d8a3e",
+    "wof:geomhash":"19b241ccede551b8299ff43d988410a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676820,
+    "wof:lastmodified":1695876957,
     "wof:name":"Luutsniku",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

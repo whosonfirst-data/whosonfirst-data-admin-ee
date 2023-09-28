@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pringi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002035,
-    "geom:area_square_m":13337914.73618,
+    "geom:area_square_m":13337914.736181,
     "geom:bbox":"26.257736,57.968573,26.331254,58.018165",
     "geom:latitude":57.996105,
     "geom:longitude":26.290984,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6371
+        "ee-mamt:okood":"6371"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327097031
     ],
     "wof:country":"EE",
     "wof:created":1595459966,
-    "wof:geomhash":"3739bed16362db0aa1b2a5d576d618f9",
+    "wof:geomhash":"aa58133b7ac538ed28e35b2227a382de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661866,
+    "wof:lastmodified":1695876781,
     "wof:name":"Pringi",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

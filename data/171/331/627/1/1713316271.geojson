@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mauri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000431,
-    "geom:area_square_m":2851944.604233,
+    "geom:area_square_m":2851944.604231,
     "geom:bbox":"27.255462,57.664736,27.287748,57.689875",
     "geom:latitude":57.677628,
     "geom:longitude":27.270775,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4830
+        "ee-mamt:okood":"4830"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310064683
     ],
     "wof:country":"EE",
     "wof:created":1595461393,
-    "wof:geomhash":"49f4ed07a6f724849ad5778acd413430",
+    "wof:geomhash":"d3961f4c5730bde722458593c46370f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676861,
+    "wof:lastmodified":1695876968,
     "wof:name":"Mauri",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

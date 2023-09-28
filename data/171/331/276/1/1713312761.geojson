@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kikkaoja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000811,
-    "geom:area_square_m":5355082.088776,
+    "geom:area_square_m":5355082.088773,
     "geom:bbox":"26.654279,57.703103,26.704046,57.734734",
     "geom:latitude":57.718639,
     "geom:longitude":26.679446,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3069
+        "ee-mamt:okood":"3069"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310659627
     ],
     "wof:country":"EE",
     "wof:created":1595460616,
-    "wof:geomhash":"b29cfeef4e0cfc7cc466c5c15bcea16a",
+    "wof:geomhash":"776e722a4a4128a0d45476392dd8f70b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677018,
+    "wof:lastmodified":1695876982,
     "wof:name":"Kikkaoja",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

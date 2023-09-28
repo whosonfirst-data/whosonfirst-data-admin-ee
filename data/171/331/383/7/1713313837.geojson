@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Varbuse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000868,
-    "geom:area_square_m":5680918.902804,
+    "geom:area_square_m":5680918.902801,
     "geom:bbox":"26.888839,58.00019,26.933481,58.037964",
     "geom:latitude":58.023144,
     "geom:longitude":26.911539,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9066
+        "ee-mamt:okood":"9066"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1292981057
     ],
     "wof:country":"EE",
     "wof:created":1595460847,
-    "wof:geomhash":"ee7d78d561aa2f84106dca417c6edf24",
+    "wof:geomhash":"4805093107436b5e833ed1cb63933cce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676775,
+    "wof:lastmodified":1695876950,
     "wof:name":"Varbuse",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

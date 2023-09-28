@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Otslava K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001496,
-    "geom:area_square_m":9631920.824383,
+    "geom:area_square_m":9631920.824377,
     "geom:bbox":"26.648615,58.589629,26.720492,58.631691",
     "geom:latitude":58.610316,
     "geom:longitude":26.683421,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5769
+        "ee-mamt:okood":"5769"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259387385
     ],
     "wof:country":"EE",
     "wof:created":1595460792,
-    "wof:geomhash":"baf9d23552b7673ab401a2a933ee6ac3",
+    "wof:geomhash":"c33ede551081a2bc756cad65e61d8f48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676456,
+    "wof:lastmodified":1695876910,
     "wof:name":"Otslava",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

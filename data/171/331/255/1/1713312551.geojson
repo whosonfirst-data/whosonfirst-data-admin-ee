@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koimla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004035,
-    "geom:area_square_m":26269139.86162,
+    "geom:area_square_m":26269139.861623,
     "geom:bbox":"22.090489,58.207812,22.208481,58.272258",
     "geom:latitude":58.234783,
     "geom:longitude":22.153514,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3298
+        "ee-mamt:okood":"3298"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008361
     ],
     "wof:country":"EE",
     "wof:created":1595460567,
-    "wof:geomhash":"01dab94a4848f6e1310caacc39c3e32d",
+    "wof:geomhash":"a072a90293259f5bcea334f337c20ae6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671566,
+    "wof:lastmodified":1695876863,
     "wof:name":"Koimla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

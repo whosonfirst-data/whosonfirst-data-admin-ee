@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tiast\u0151 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000154,
-    "geom:area_square_m":1018771.29092,
+    "geom:area_square_m":1018771.290919,
     "geom:bbox":"27.31971,57.641095,27.339535,57.658071",
     "geom:latitude":57.650604,
     "geom:longitude":27.329983,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8177
+        "ee-mamt:okood":"8177"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461268,
-    "wof:geomhash":"a26ddfc439b9956bc248a83dad3d2876",
+    "wof:geomhash":"8cde68ca7b4d2d2087fe7c8653033b6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663641,
+    "wof:lastmodified":1695876839,
     "wof:name":"Tiast\u0151",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

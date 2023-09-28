@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Riisa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005374,
-    "geom:area_square_m":34761288.915254,
+    "geom:area_square_m":34761288.915258,
     "geom:bbox":"24.93766,58.410884,25.047797,58.509809",
     "geom:latitude":58.459751,
     "geom:longitude":24.98333,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6986
+        "ee-mamt:okood":"6986"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125817041
     ],
     "wof:country":"EE",
     "wof:created":1595461072,
-    "wof:geomhash":"815133af09efc141ddd0a984f04cc4da",
+    "wof:geomhash":"ef7fc1a3104e925fdcdfa47f41347f59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663375,
+    "wof:lastmodified":1695876820,
     "wof:name":"Riisa",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

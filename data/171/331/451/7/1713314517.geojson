@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaali K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004847,
-    "geom:area_square_m":31005679.448915,
+    "geom:area_square_m":31005679.448904,
     "geom:bbox":"25.913233,58.812851,26.058283,58.874886",
     "geom:latitude":58.84353,
     "geom:longitude":25.979454,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8803
+        "ee-mamt:okood":"8803"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293316611
     ],
     "wof:country":"EE",
     "wof:created":1595460998,
-    "wof:geomhash":"2213d944444bd5d9d46333bb65f5e571",
+    "wof:geomhash":"ddabcef498580f7333a9ce5f1c28eb74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676631,
+    "wof:lastmodified":1695876934,
     "wof:name":"Vaali",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

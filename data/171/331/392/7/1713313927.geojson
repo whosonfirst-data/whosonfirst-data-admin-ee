@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Riidaja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00211,
-    "geom:area_square_m":13791999.23746,
+    "geom:area_square_m":13791999.237459,
     "geom:bbox":"25.852675,58.070531,25.933933,58.113156",
     "geom:latitude":58.092971,
     "geom:longitude":25.896389,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6976
+        "ee-mamt:okood":"6976"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125956693
     ],
     "wof:country":"EE",
     "wof:created":1595460866,
-    "wof:geomhash":"ec47cc56c5e6c3411f421f3df0d002cd",
+    "wof:geomhash":"7c9ee3a09882ceb706b55142e80e4dcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661428,
+    "wof:lastmodified":1695876759,
     "wof:name":"Riidaja",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

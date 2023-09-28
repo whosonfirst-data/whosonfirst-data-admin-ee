@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koork\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004634,
-    "geom:area_square_m":30411951.249762,
+    "geom:area_square_m":30411951.249759,
     "geom:bbox":"25.775496,57.908668,25.884714,57.976813",
     "geom:latitude":57.945615,
     "geom:longitude":25.829625,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3420
+        "ee-mamt:okood":"3420"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293267351
     ],
     "wof:country":"EE",
     "wof:created":1595460113,
-    "wof:geomhash":"602b1230c30125597ab787c903418aae",
+    "wof:geomhash":"13250d70a80a3a1ff7fb8452e2c86b87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661421,
+    "wof:lastmodified":1695876758,
     "wof:name":"Koork\u00fcla",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

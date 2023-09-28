@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Iila K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001337,
-    "geom:area_square_m":8395652.041705,
+    "geom:area_square_m":8395652.041702,
     "geom:bbox":"26.624716,59.469807,26.684875,59.512518",
     "geom:latitude":59.491359,
     "geom:longitude":26.656895,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2019
+        "ee-mamt:okood":"2019"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209706369
     ],
     "wof:country":"EE",
     "wof:created":1595459543,
-    "wof:geomhash":"26bd738d9de05cc4d33bc48706b661a0",
+    "wof:geomhash":"6a5561e8fed542993386f48244ecaaf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677922,
+    "wof:lastmodified":1695877001,
     "wof:name":"Iila",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

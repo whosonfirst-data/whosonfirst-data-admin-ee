@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Urmi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000673,
-    "geom:area_square_m":4396293.391709,
+    "geom:area_square_m":4396293.391707,
     "geom:bbox":"26.331825,58.114249,26.387449,58.138389",
     "geom:latitude":58.127943,
     "geom:longitude":26.363332,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8727
+        "ee-mamt:okood":"8727"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243147411
     ],
     "wof:country":"EE",
     "wof:created":1595460160,
-    "wof:geomhash":"538c27dfd75625293e9d77e528611d77",
+    "wof:geomhash":"d1bfdea7b559e2fd6da4c7dc7e50cc43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661905,
+    "wof:lastmodified":1695876788,
     "wof:name":"Urmi",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Holdre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.007658,
-    "geom:area_square_m":50267029.728269,
+    "geom:area_square_m":50267029.728267,
     "geom:bbox":"25.647175,57.898257,25.817895,57.977151",
     "geom:latitude":57.937025,
     "geom:longitude":25.730774,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1883
+        "ee-mamt:okood":"1883"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226607595
     ],
     "wof:country":"EE",
     "wof:created":1595460101,
-    "wof:geomhash":"98c6d9357a7a5df1bc1298ab67aca79b",
+    "wof:geomhash":"b3326059c59c001caa1947401c660a75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661420,
+    "wof:lastmodified":1695876758,
     "wof:name":"Holdre",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

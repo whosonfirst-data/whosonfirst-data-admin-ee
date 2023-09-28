@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saastna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001079,
-    "geom:area_square_m":6927055.653574,
+    "geom:area_square_m":6927055.653597,
     "geom:bbox":"23.52345,58.708099,23.600833,58.740524",
     "geom:latitude":58.7244,
     "geom:longitude":23.562295,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7310
+        "ee-mamt:okood":"7310"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343949617
     ],
     "wof:country":"EE",
     "wof:created":1595459879,
-    "wof:geomhash":"733e99a82fc8220df48e2f8e3b47f887",
+    "wof:geomhash":"120e16c37b0801e279df8131767d33eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661612,
+    "wof:lastmodified":1695876769,
     "wof:name":"Saastna",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

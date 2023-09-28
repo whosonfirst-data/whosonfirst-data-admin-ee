@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kirikum\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000703,
-    "geom:area_square_m":4645585.707131,
+    "geom:area_square_m":4645585.707132,
     "geom:bbox":"27.224706,57.67485,27.273111,57.700437",
     "geom:latitude":57.687103,
     "geom:longitude":27.247505,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3130
+        "ee-mamt:okood":"3130"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242742313
     ],
     "wof:country":"EE",
     "wof:created":1595461413,
-    "wof:geomhash":"75680eae46e49ea5980d44a1daf98f9f",
+    "wof:geomhash":"20f00e7f843a5966ab01dc123b9cbaab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660254,
+    "wof:lastmodified":1695876724,
     "wof:name":"Kirikum\u00e4e",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

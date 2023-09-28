@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaberneeme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001876,
-    "geom:area_square_m":11772729.161496,
+    "geom:area_square_m":11772729.1615,
     "geom:bbox":"25.228489,59.476866,25.318704,59.528685",
     "geom:latitude":59.498363,
     "geom:longitude":25.258118,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2452
+        "ee-mamt:okood":"2452"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008731
     ],
     "wof:country":"EE",
     "wof:created":1595460617,
-    "wof:geomhash":"b97959f8575d7396c4ff3279f05b01d4",
+    "wof:geomhash":"a3cc8052e4302fa694d789f3dfcc469d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661368,
+    "wof:lastmodified":1695876756,
     "wof:name":"Kaberneeme",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

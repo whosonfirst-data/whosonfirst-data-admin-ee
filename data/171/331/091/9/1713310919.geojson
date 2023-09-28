@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Meeksi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00306,
-    "geom:area_square_m":19928320.621511,
+    "geom:area_square_m":19928320.621514,
     "geom:bbox":"27.403675,58.191064,27.480789,58.258877",
     "geom:latitude":58.222308,
     "geom:longitude":27.443444,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4842
+        "ee-mamt:okood":"4842"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125971411
     ],
     "wof:country":"EE",
     "wof:created":1595460227,
-    "wof:geomhash":"2dbe846dc415be766603a59eb2859c87",
+    "wof:geomhash":"c76b23c8462e4ecd9f7399cdf3d49136",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676979,
+    "wof:lastmodified":1695876976,
     "wof:name":"Meeksi",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

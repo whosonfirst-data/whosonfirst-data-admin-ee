@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kurtna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002704,
-    "geom:area_square_m":17085064.372918,
+    "geom:area_square_m":17085064.372917,
     "geom:bbox":"27.44782,59.251143,27.57409,59.290176",
     "geom:latitude":59.268456,
     "geom:longitude":27.512249,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3696
+        "ee-mamt:okood":"3696"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890373
     ],
     "wof:country":"EE",
     "wof:created":1595460550,
-    "wof:geomhash":"beded9ab546226516cb879eaacfd8af1",
+    "wof:geomhash":"01d25152394c8e265a4c0deda8a9a1f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660698,
+    "wof:lastmodified":1695876732,
     "wof:name":"Kurtna",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

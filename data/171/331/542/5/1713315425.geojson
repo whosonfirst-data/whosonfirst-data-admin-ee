@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tuim\u0151isa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003184,
-    "geom:area_square_m":20328289.586624,
+    "geom:area_square_m":20328289.586626,
     "geom:bbox":"26.565352,58.870683,26.628073,58.949694",
     "geom:latitude":58.910713,
     "geom:longitude":26.599845,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8404
+        "ee-mamt:okood":"8404"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343358217
     ],
     "wof:country":"EE",
     "wof:created":1595461215,
-    "wof:geomhash":"8a8bdbc966738421582e9a04c719a283",
+    "wof:geomhash":"10e9648a001990b4fefc79ac3423ad92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676563,
+    "wof:lastmodified":1695876925,
     "wof:name":"Tuim\u0151isa",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

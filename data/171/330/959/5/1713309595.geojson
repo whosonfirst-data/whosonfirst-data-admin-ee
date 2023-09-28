@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saburi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001061,
-    "geom:area_square_m":6844893.374897,
+    "geom:area_square_m":6844893.374895,
     "geom:bbox":"27.082594,58.53711,27.167095,58.565152",
     "geom:latitude":58.552256,
     "geom:longitude":27.125988,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7314
+        "ee-mamt:okood":"7314"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309781947
     ],
     "wof:country":"EE",
     "wof:created":1595459927,
-    "wof:geomhash":"d2e075ec2baeb1a20165cd3d2ef979f9",
+    "wof:geomhash":"203e23b2134dfb0c941a5da21e76b790",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660854,
+    "wof:lastmodified":1695876738,
     "wof:name":"Saburi",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

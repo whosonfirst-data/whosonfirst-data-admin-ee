@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Uulu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000958,
-    "geom:area_square_m":6229640.992532,
+    "geom:area_square_m":6229640.99253,
     "geom:bbox":"24.532428,58.260443,24.596643,58.291348",
     "geom:latitude":58.276304,
     "geom:longitude":24.570395,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8779
+        "ee-mamt:okood":"8779"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008709
     ],
     "wof:country":"EE",
     "wof:created":1595459844,
-    "wof:geomhash":"b58c8719637d80fcd6c328663e25718a",
+    "wof:geomhash":"f0f299bd63f95920f3a09dcd5fa14628",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663040,
+    "wof:lastmodified":1695876809,
     "wof:name":"Uulu",
     "wof:parent_id":1713305741,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Avanduse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001462,
-    "geom:area_square_m":9292251.075073,
+    "geom:area_square_m":9292251.075077,
     "geom:bbox":"26.383407,59.040766,26.455692,59.081059",
     "geom:latitude":59.05921,
     "geom:longitude":26.419746,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1476
+        "ee-mamt:okood":"1476"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125932917
     ],
     "wof:country":"EE",
     "wof:created":1595460435,
-    "wof:geomhash":"cbae463e0782d09a255521d4630afb17",
+    "wof:geomhash":"efa1284895ce1dab9d26d285d01907af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676533,
+    "wof:lastmodified":1695876920,
     "wof:name":"Avanduse",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

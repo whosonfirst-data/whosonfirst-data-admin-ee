@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Puka Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000242,
-    "geom:area_square_m":1582195.278557,
+    "geom:area_square_m":1582195.278558,
     "geom:bbox":"26.217657,58.047158,26.249684,58.0629",
     "geom:latitude":58.054743,
     "geom:longitude":26.232665,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Puka alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6417
+        "ee-mamt:okood":"6417"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126039079
     ],
     "wof:country":"EE",
     "wof:created":1595460014,
-    "wof:geomhash":"78d61fb1a1b8228b7988f73a045e8b7a",
+    "wof:geomhash":"581bf580710b0a4d6eae89524fc387a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661870,
+    "wof:lastmodified":1695876782,
     "wof:name":"Puka",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

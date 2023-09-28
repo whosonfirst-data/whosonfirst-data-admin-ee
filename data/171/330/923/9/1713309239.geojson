@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paatsalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002998,
-    "geom:area_square_m":19352943.288715,
+    "geom:area_square_m":19352943.288708,
     "geom:bbox":"23.648897,58.498083,23.769654,58.54936",
     "geom:latitude":58.525077,
     "geom:longitude":23.7196,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5801
+        "ee-mamt:okood":"5801"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1192999429
     ],
     "wof:country":"EE",
     "wof:created":1595459840,
-    "wof:geomhash":"8b585aef169ce34a6f9649cd031d7c21",
+    "wof:geomhash":"a12d840658ae34f0e56a9f7d9d8811fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661619,
+    "wof:lastmodified":1695876769,
     "wof:name":"Paatsalu",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

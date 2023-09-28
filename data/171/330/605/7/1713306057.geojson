@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kelnase K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000376,
-    "geom:area_square_m":2349771.586188,
+    "geom:area_square_m":2349771.586177,
     "geom:bbox":"24.957244,59.627733,25.024124,59.700126",
     "geom:latitude":59.637391,
     "geom:longitude":24.995145,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2944
+        "ee-mamt:okood":"2944"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125892615
     ],
     "wof:country":"EE",
     "wof:created":1595459065,
-    "wof:geomhash":"8e6f4ec50b2f4f7a9ff1fb57f23e871b",
+    "wof:geomhash":"14940c738c72dbf30283d69d149148a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675370,
+    "wof:lastmodified":1695876907,
     "wof:name":"Kelnase",
     "wof:parent_id":1713305625,
     "wof:placetype":"localadmin",

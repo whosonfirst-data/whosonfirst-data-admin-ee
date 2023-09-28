@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lellapere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001033,
-    "geom:area_square_m":6594530.746224,
+    "geom:area_square_m":6594530.746222,
     "geom:bbox":"24.796345,58.875777,24.839504,58.931198",
     "geom:latitude":58.903987,
     "geom:longitude":24.816666,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4248
+        "ee-mamt:okood":"4248"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326609349
     ],
     "wof:country":"EE",
     "wof:created":1595460936,
-    "wof:geomhash":"e86743775a47d8d99b7d0d9b82a1b05a",
+    "wof:geomhash":"1abba92cf7eef4adb8a1a1a53e1a5f1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676735,
+    "wof:lastmodified":1695876946,
     "wof:name":"Lellapere",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

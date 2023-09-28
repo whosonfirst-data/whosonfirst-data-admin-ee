@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u00e4rin\u00e4 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000328,
-    "geom:area_square_m":2168574.320838,
+    "geom:area_square_m":2168574.320837,
     "geom:bbox":"27.18049,57.626756,27.209014,57.649233",
     "geom:latitude":57.638876,
     "geom:longitude":27.19586,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3906
+        "ee-mamt:okood":"3906"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461354,
-    "wof:geomhash":"78614c4e3c6f6882e72049cb3201d567",
+    "wof:geomhash":"067bb56d6566848ecd76c64224ca85bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676840,
+    "wof:lastmodified":1695876963,
     "wof:name":"K\u00e4rin\u00e4",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

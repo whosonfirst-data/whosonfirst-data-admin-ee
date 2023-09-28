@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aardlapalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000233,
-    "geom:area_square_m":1510137.77901,
+    "geom:area_square_m":1510137.779009,
     "geom:bbox":"26.745681,58.323055,26.790612,58.332504",
     "geom:latitude":58.327315,
     "geom:longitude":26.767441,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1022
+        "ee-mamt:okood":"1022"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460838,
-    "wof:geomhash":"9767fb4856f32df9ce492d84f46f11fa",
+    "wof:geomhash":"3e89111645e5f7c917595ab7af3f9a32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660646,
+    "wof:lastmodified":1695876728,
     "wof:name":"Aardlapalu",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

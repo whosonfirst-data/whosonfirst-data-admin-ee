@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Madi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000168,
-    "geom:area_square_m":1103117.436334,
+    "geom:area_square_m":1103117.436333,
     "geom:bbox":"27.450355,57.859853,27.479972,57.872119",
     "geom:latitude":57.865558,
     "geom:longitude":27.466625,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4716
+        "ee-mamt:okood":"4716"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310681263
     ],
     "wof:country":"EE",
     "wof:created":1595461246,
-    "wof:geomhash":"344819b657d75a21c23a4d7185b3d610",
+    "wof:geomhash":"a53b9c9e6b4de0d53b472db4ff16f6a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660245,
+    "wof:lastmodified":1695876723,
     "wof:name":"Madi",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

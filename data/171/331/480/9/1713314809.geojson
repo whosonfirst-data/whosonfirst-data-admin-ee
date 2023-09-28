@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koobassaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005432,
-    "geom:area_square_m":35905370.409679,
+    "geom:area_square_m":35905370.409683,
     "geom:bbox":"26.353846,57.648001,26.481371,57.732084",
     "geom:latitude":57.685977,
     "geom:longitude":26.413359,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3383
+        "ee-mamt:okood":"3383"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310663159
     ],
     "wof:country":"EE",
     "wof:created":1595461062,
-    "wof:geomhash":"6d49ecd574f6d310c2f03b84d58f8c53",
+    "wof:geomhash":"d56fcf13720ac2ebb4f4daab3d371d8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661944,
+    "wof:lastmodified":1695876791,
     "wof:name":"Koobassaare",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

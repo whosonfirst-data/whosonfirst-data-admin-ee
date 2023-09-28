@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Jaluse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00142,
-    "geom:area_square_m":9011559.476045,
+    "geom:area_square_m":9011559.476044,
     "geom:bbox":"24.932279,59.095824,24.998614,59.147463",
     "geom:latitude":59.120999,
     "geom:longitude":24.966105,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2169
+        "ee-mamt:okood":"2169"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326916599
     ],
     "wof:country":"EE",
     "wof:created":1595460295,
-    "wof:geomhash":"791d836fa096918750a17046e523b170",
+    "wof:geomhash":"f231cbd2edb879d70a2c56d45e7f0c0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676714,
+    "wof:lastmodified":1695876944,
     "wof:name":"Jaluse",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

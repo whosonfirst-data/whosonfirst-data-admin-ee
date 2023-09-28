@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Perjatsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001313,
-    "geom:area_square_m":8268240.429076,
+    "geom:area_square_m":8268240.429074,
     "geom:bbox":"27.784882,59.364051,27.846033,59.397709",
     "geom:latitude":59.380641,
     "geom:longitude":27.817832,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6125
+        "ee-mamt:okood":"6125"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293795577
     ],
     "wof:country":"EE",
     "wof:created":1595460794,
-    "wof:geomhash":"4a0317aa7c8b670d544b7633c4dc10b3",
+    "wof:geomhash":"77c0e4677d6d77958c1b242448bc292f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677757,
+    "wof:lastmodified":1695876998,
     "wof:name":"Perjatsi",
     "wof:parent_id":1713305779,
     "wof:placetype":"localadmin",

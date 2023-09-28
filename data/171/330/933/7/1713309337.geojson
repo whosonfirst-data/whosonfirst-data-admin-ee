@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rootsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000899,
-    "geom:area_square_m":5774297.897345,
+    "geom:area_square_m":5774297.897343,
     "geom:bbox":"23.972995,58.671005,24.044542,58.702523",
     "geom:latitude":58.686385,
     "geom:longitude":24.017019,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7087
+        "ee-mamt:okood":"7087"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310097297
     ],
     "wof:country":"EE",
     "wof:created":1595459863,
-    "wof:geomhash":"aae092e49245a89107b7aaae9e3f0b46",
+    "wof:geomhash":"def816f1adbfae52232e0f3bf83b3d6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661662,
+    "wof:lastmodified":1695876773,
     "wof:name":"Rootsi",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

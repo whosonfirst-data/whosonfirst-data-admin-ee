@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kildu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001952,
-    "geom:area_square_m":12621002.610767,
+    "geom:area_square_m":12621002.610768,
     "geom:bbox":"25.386251,58.441858,25.435049,58.50128",
     "geom:latitude":58.470689,
     "geom:longitude":25.410097,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3079
+        "ee-mamt:okood":"3079"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276293355
     ],
     "wof:country":"EE",
     "wof:created":1595460411,
-    "wof:geomhash":"265589d460b7c734a0df3afcf512c782",
+    "wof:geomhash":"dee561a4389124e8e4c65c64dc099c8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663437,
+    "wof:lastmodified":1695876828,
     "wof:name":"Kildu",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

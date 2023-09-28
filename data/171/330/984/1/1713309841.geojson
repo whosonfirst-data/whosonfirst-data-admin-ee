@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kivil\u0151ppe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001773,
-    "geom:area_square_m":11544048.895404,
+    "geom:area_square_m":11544048.895412,
     "geom:bbox":"25.946886,58.199491,25.999795,58.256939",
     "geom:latitude":58.225481,
     "geom:longitude":25.96981,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3185
+        "ee-mamt:okood":"3185"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293175361
     ],
     "wof:country":"EE",
     "wof:created":1595459988,
-    "wof:geomhash":"7b968fcdf418fa3b5bef414faff9609a",
+    "wof:geomhash":"208639fa37c7392b9f8ccd42296a9359",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661226,
+    "wof:lastmodified":1695876746,
     "wof:name":"Kivil\u0151ppe",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

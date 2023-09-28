@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Maima K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001544,
-    "geom:area_square_m":9951891.431952,
+    "geom:area_square_m":9951891.431956,
     "geom:bbox":"24.380917,58.575812,24.468285,58.607252",
     "geom:latitude":58.590292,
     "geom:longitude":24.430306,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4743
+        "ee-mamt:okood":"4743"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242756037
     ],
     "wof:country":"EE",
     "wof:created":1595459904,
-    "wof:geomhash":"f931d3a7b3862bcaf16ec3228b24da04",
+    "wof:geomhash":"7f785e4589f3f32d38c7450b44452bad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663405,
+    "wof:lastmodified":1695876823,
     "wof:name":"Maima",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Iru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000187,
-    "geom:area_square_m":1172213.998389,
+    "geom:area_square_m":1172213.998388,
     "geom:bbox":"24.90443,59.444407,24.93601,59.461341",
     "geom:latitude":59.452776,
     "geom:longitude":24.915982,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2100
+        "ee-mamt:okood":"2100"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460634,
-    "wof:geomhash":"49970d17244d676ea2e62a25c9260b76",
+    "wof:geomhash":"4c1aecbba8169e8d965b265559420adb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661370,
+    "wof:lastmodified":1695876756,
     "wof:name":"Iru",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Voka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001163,
-    "geom:area_square_m":7324008.915844,
+    "geom:area_square_m":7324008.915843,
     "geom:bbox":"27.542443,59.372551,27.585796,59.419929",
     "geom:latitude":59.396848,
     "geom:longitude":27.562864,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9453
+        "ee-mamt:okood":"9453"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460690,
-    "wof:geomhash":"ec1208f63ed17b98af83c5f5ec891793",
+    "wof:geomhash":"a772abc369ab54c16eb673927e762bf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676909,
+    "wof:lastmodified":1695876971,
     "wof:name":"Voka",
     "wof:parent_id":1713305783,
     "wof:placetype":"localadmin",

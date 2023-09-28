@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Uue-Antsla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000817,
-    "geom:area_square_m":5370922.669766,
+    "geom:area_square_m":5370922.669767,
     "geom:bbox":"26.516296,57.865806,26.590034,57.884726",
     "geom:latitude":57.875357,
     "geom:longitude":26.552126,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8757
+        "ee-mamt:okood":"8757"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008697
     ],
     "wof:country":"EE",
     "wof:created":1595460255,
-    "wof:geomhash":"66cc339bcdacbfe277df53241a933340",
+    "wof:geomhash":"8c9097b8e2587d4d33c5fca970bac04c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677009,
+    "wof:lastmodified":1695876980,
     "wof:name":"Uue-Antsla",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

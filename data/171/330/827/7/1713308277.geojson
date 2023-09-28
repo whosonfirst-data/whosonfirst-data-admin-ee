@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tehumardi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001418,
-    "geom:area_square_m":9239843.007508,
+    "geom:area_square_m":9239843.00751,
     "geom:bbox":"22.213703,58.165855,22.261709,58.224261",
     "geom:latitude":58.197177,
     "geom:longitude":22.239382,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8185
+        "ee-mamt:okood":"8185"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360056451
     ],
     "wof:country":"EE",
     "wof:created":1595459605,
-    "wof:geomhash":"caa2f174b549811d17204d2d8a3f7db5",
+    "wof:geomhash":"92d12cbfb0c9ef1bd603014ecbd52ffc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672577,
+    "wof:lastmodified":1695876901,
     "wof:name":"Tehumardi",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u00e4hemaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004574,
-    "geom:area_square_m":29593251.905658,
+    "geom:area_square_m":29593251.905661,
     "geom:bbox":"27.035023,58.415822,27.133051,58.485049",
     "geom:latitude":58.44921,
     "geom:longitude":27.085446,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8555
+        "ee-mamt:okood":"8555"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209069617
     ],
     "wof:country":"EE",
     "wof:created":1595460684,
-    "wof:geomhash":"26772f0495810c2d047996b9c7fd57be",
+    "wof:geomhash":"4385408cd7bfd469132855f259b000c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660872,
+    "wof:lastmodified":1695876739,
     "wof:name":"T\u00e4hemaa",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

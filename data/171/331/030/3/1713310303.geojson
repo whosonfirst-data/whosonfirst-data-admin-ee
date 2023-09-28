@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sooblase K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000912,
-    "geom:area_square_m":6037753.022662,
+    "geom:area_square_m":6037753.022661,
     "geom:bbox":"26.346098,57.592589,26.394467,57.627318",
     "geom:latitude":57.610996,
     "geom:longitude":26.366529,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7686
+        "ee-mamt:okood":"7686"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276522849
     ],
     "wof:country":"EE",
     "wof:created":1595460092,
-    "wof:geomhash":"b1a75f57d3f0feabc49f4b2c4d1b1869",
+    "wof:geomhash":"c387003159effdf1ced0824c9881f03d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661936,
+    "wof:lastmodified":1695876789,
     "wof:name":"Sooblase",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

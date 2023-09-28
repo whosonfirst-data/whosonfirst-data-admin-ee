@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiisli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001562,
-    "geom:area_square_m":10038174.982753,
+    "geom:area_square_m":10038174.982748,
     "geom:bbox":"26.885214,58.663771,26.964326,58.700885",
     "geom:latitude":58.682205,
     "geom:longitude":26.917923,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3051
+        "ee-mamt:okood":"3051"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326753165
     ],
     "wof:country":"EE",
     "wof:created":1595460669,
-    "wof:geomhash":"985bddf955b3ba4a9ca24c771ea0677e",
+    "wof:geomhash":"9eef662a3a362c4ee52b4705c9e44271",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660957,
+    "wof:lastmodified":1695876740,
     "wof:name":"Kiisli",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4dapea K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001718,
-    "geom:area_square_m":10843849.372428,
+    "geom:area_square_m":10843849.372426,
     "geom:bbox":"26.2215,59.29568,26.292628,59.336186",
     "geom:latitude":59.314435,
     "geom:longitude":26.256802,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5182
+        "ee-mamt:okood":"5182"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209412245
     ],
     "wof:country":"EE",
     "wof:created":1595459546,
-    "wof:geomhash":"8fa0497a08ae9c8f595abaad9e5d1b05",
+    "wof:geomhash":"50f7b3544bb2e18a3f9282e7abac8ade",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676667,
+    "wof:lastmodified":1695876937,
     "wof:name":"M\u00e4dapea",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

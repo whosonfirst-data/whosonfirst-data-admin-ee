@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Salme Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000278,
-    "geom:area_square_m":1815445.121588,
+    "geom:area_square_m":1815445.121592,
     "geom:bbox":"22.234002,58.147839,22.257222,58.174639",
     "geom:latitude":58.161549,
     "geom:longitude":22.247614,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Salme alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7387
+        "ee-mamt:okood":"7387"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125910929
     ],
     "wof:country":"EE",
     "wof:created":1595459587,
-    "wof:geomhash":"2a79273f0291f946a017c583d04ec37a",
+    "wof:geomhash":"dccb18ed701b392ed00d724671a4b67e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671744,
+    "wof:lastmodified":1695876870,
     "wof:name":"Salme",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

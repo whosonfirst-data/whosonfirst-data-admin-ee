@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaskr\u00e4\u00e4ma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002102,
-    "geom:area_square_m":13653498.286517,
+    "geom:area_square_m":13653498.286521,
     "geom:bbox":"24.635192,58.287418,24.71759,58.328248",
     "geom:latitude":58.309967,
     "geom:longitude":24.671328,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9113
+        "ee-mamt:okood":"9113"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276321655
     ],
     "wof:country":"EE",
     "wof:created":1595461123,
-    "wof:geomhash":"36014d2dbdbadf22bcc8103e1ffd3efe",
+    "wof:geomhash":"156382fc3a0a4458d41085aa9d9db2cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677683,
+    "wof:lastmodified":1695876995,
     "wof:name":"Vaskr\u00e4\u00e4ma",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

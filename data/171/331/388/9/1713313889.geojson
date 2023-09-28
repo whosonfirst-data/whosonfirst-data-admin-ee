@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiini K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003278,
-    "geom:area_square_m":21284563.208622,
+    "geom:area_square_m":21284563.208624,
     "geom:bbox":"25.338389,58.290049,25.448585,58.364551",
     "geom:latitude":58.323236,
     "geom:longitude":25.385311,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3042
+        "ee-mamt:okood":"3042"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343832389
     ],
     "wof:country":"EE",
     "wof:created":1595460858,
-    "wof:geomhash":"6f547a0cb60f35ed65e729f30be3a000",
+    "wof:geomhash":"14c0e879fdf89bf505ca7d33662da76a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661206,
+    "wof:lastmodified":1695876745,
     "wof:name":"Kiini",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

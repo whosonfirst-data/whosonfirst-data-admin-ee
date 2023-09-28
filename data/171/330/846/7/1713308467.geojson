@@ -14,7 +14,7 @@
     "geom:longitude":23.529464,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Paralepa alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5989
+        "ee-mamt:okood":"5989"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126017703
     ],
     "wof:country":"EE",
     "wof:created":1595459652,
-    "wof:geomhash":"62aaf9f993e9b551bd40f3211eb4320d",
+    "wof:geomhash":"869322bb690f76bbc0f31c89e80c2427",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662506,
+    "wof:lastmodified":1695876793,
     "wof:name":"Paralepa",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

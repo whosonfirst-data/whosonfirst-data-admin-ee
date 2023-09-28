@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Massu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000337,
-    "geom:area_square_m":2167648.308353,
+    "geom:area_square_m":2167648.308355,
     "geom:bbox":"24.948214,58.610991,24.971873,58.641096",
     "geom:latitude":58.626081,
     "geom:longitude":24.959637,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4808
+        "ee-mamt:okood":"4808"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276852029
     ],
     "wof:country":"EE",
     "wof:created":1595459860,
-    "wof:geomhash":"1662955a943d11dfa342fd361be07fc9",
+    "wof:geomhash":"a833773488d0e0db58ff0909dfa1d425",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663406,
+    "wof:lastmodified":1695876824,
     "wof:name":"Massu",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

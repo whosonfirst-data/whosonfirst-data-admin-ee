@@ -8,7 +8,7 @@
     "ee-mamt:animi":"N\u0151mmise K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000598,
-    "geom:area_square_m":3771359.145477,
+    "geom:area_square_m":3771359.145479,
     "geom:bbox":"26.609247,59.333711,26.658165,59.356138",
     "geom:latitude":59.343431,
     "geom:longitude":26.633478,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5521
+        "ee-mamt:okood":"5521"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326827023
     ],
     "wof:country":"EE",
     "wof:created":1595459550,
-    "wof:geomhash":"43febc096f8acf14c97a0e4d10040f9e",
+    "wof:geomhash":"c71c4b686648953fc3d040e341fcf5ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677946,
+    "wof:lastmodified":1695877003,
     "wof:name":"N\u0151mmise",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

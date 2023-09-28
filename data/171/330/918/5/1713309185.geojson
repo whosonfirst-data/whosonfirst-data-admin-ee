@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saarde K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002412,
-    "geom:area_square_m":15749408.392139,
+    "geom:area_square_m":15749408.392136,
     "geom:bbox":"24.901494,58.102364,24.98362,58.148882",
     "geom:latitude":58.127255,
     "geom:longitude":24.944286,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7280
+        "ee-mamt:okood":"7280"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343649541
     ],
     "wof:country":"EE",
     "wof:created":1595459828,
-    "wof:geomhash":"1574e2957272d575cc7d5c1677939a0c",
+    "wof:geomhash":"e2452e7aa4d37e3a841ef0567b721520",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677724,
+    "wof:lastmodified":1695876996,
     "wof:name":"Saarde",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Haeska K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004239,
-    "geom:area_square_m":27448723.311041,
+    "geom:area_square_m":27448723.311043,
     "geom:bbox":"22.578311,58.394635,22.6953,58.453716",
     "geom:latitude":58.42087,
     "geom:longitude":22.640516,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1712
+        "ee-mamt:okood":"1712"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327404831
     ],
     "wof:country":"EE",
     "wof:created":1595459357,
-    "wof:geomhash":"54b6c6b079ee11e8c960260fc55a77ee",
+    "wof:geomhash":"d8ec64b8f7ef883dd0850d50e53ce01f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672238,
+    "wof:lastmodified":1695876886,
     "wof:name":"Haeska",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

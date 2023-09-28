@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuusn\u0151mme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001805,
-    "geom:area_square_m":11718230.741896,
+    "geom:area_square_m":11718230.7419,
     "geom:bbox":"21.924414,58.293954,22.005686,58.357941",
     "geom:latitude":58.325873,
     "geom:longitude":21.966578,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3726
+        "ee-mamt:okood":"3726"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226225597
     ],
     "wof:country":"EE",
     "wof:created":1595459364,
-    "wof:geomhash":"1f93bc277abd7f66ee75e2fb20f4db6b",
+    "wof:geomhash":"7147c8906cc7aa401c8d5578bb9fd4ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672388,
+    "wof:lastmodified":1695876892,
     "wof:name":"Kuusn\u0151mme",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Toolamaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000719,
-    "geom:area_square_m":4642036.808153,
+    "geom:area_square_m":4642036.808155,
     "geom:bbox":"26.725879,58.52003,26.771228,58.552232",
     "geom:latitude":58.534303,
     "geom:longitude":26.74874,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8290
+        "ee-mamt:okood":"8290"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125913121
     ],
     "wof:country":"EE",
     "wof:created":1595460605,
-    "wof:geomhash":"5bbb805da058f02e602c256fca8dcf4d",
+    "wof:geomhash":"a66510be46c7cbeadabfe174ba335d7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676451,
+    "wof:lastmodified":1695876909,
     "wof:name":"Toolamaa",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

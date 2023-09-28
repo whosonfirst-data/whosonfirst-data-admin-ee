@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tammneeme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000343,
-    "geom:area_square_m":2147437.123183,
+    "geom:area_square_m":2147437.123181,
     "geom:bbox":"24.862823,59.521833,24.905116,59.542415",
     "geom:latitude":59.532361,
     "geom:longitude":24.884062,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8126
+        "ee-mamt:okood":"8126"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037917
     ],
     "wof:country":"EE",
     "wof:created":1595459067,
-    "wof:geomhash":"406e5b3d6fdac36046cc9dae47b05282",
+    "wof:geomhash":"77cd2aed7995adde2523aa98b3f27578",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675379,
+    "wof:lastmodified":1695876908,
     "wof:name":"Tammneeme",
     "wof:parent_id":1713305625,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u0151itra K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001367,
-    "geom:area_square_m":8812750.86453,
+    "geom:area_square_m":8812750.864531,
     "geom:bbox":"24.068843,58.556538,24.127007,58.591859",
     "geom:latitude":58.573833,
     "geom:longitude":24.09651,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9544
+        "ee-mamt:okood":"9544"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310482699
     ],
     "wof:country":"EE",
     "wof:created":1595459796,
-    "wof:geomhash":"8d0ff000d2c955982997316e788c1007",
+    "wof:geomhash":"2bb5a346631a174158c78c3400749eba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661596,
+    "wof:lastmodified":1695876767,
     "wof:name":"V\u0151itra",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

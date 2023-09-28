@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saareotsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001627,
-    "geom:area_square_m":10444508.949988,
+    "geom:area_square_m":10444508.949984,
     "geom:bbox":"25.53379,58.705909,25.594533,58.74981",
     "geom:latitude":58.727424,
     "geom:longitude":25.563181,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7293
+        "ee-mamt:okood":"7293"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327467031
     ],
     "wof:country":"EE",
     "wof:created":1595459206,
-    "wof:geomhash":"802630cddadf10eba9ed534e584d139e",
+    "wof:geomhash":"461198d3c97db0e2adbcfc996527ff5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677975,
+    "wof:lastmodified":1695877006,
     "wof:name":"Saareotsa",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u0151lli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004054,
-    "geom:area_square_m":25795546.766853,
+    "geom:area_square_m":25795546.76686,
     "geom:bbox":"24.448195,58.990062,24.574025,59.057443",
     "geom:latitude":59.028004,
     "geom:longitude":24.503974,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6523
+        "ee-mamt:okood":"6523"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293376269
     ],
     "wof:country":"EE",
     "wof:created":1595461217,
-    "wof:geomhash":"518eaf68017296aacf5cc73843e139ba",
+    "wof:geomhash":"0ffd500a703d65b15539742f47a148b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662830,
+    "wof:lastmodified":1695876805,
     "wof:name":"P\u0151lli",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

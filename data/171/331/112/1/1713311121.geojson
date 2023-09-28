@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Palase K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002109,
-    "geom:area_square_m":13534644.67903,
+    "geom:area_square_m":13534644.679024,
     "geom:bbox":"24.422966,58.711977,24.495726,58.765338",
     "geom:latitude":58.734601,
     "geom:longitude":24.454547,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5921
+        "ee-mamt:okood":"5921"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326501509
     ],
     "wof:country":"EE",
     "wof:created":1595460270,
-    "wof:geomhash":"106ec0d39a24eacd3d09c9094f166857",
+    "wof:geomhash":"ea47ee63144ed17a6f42d1811d9e8719",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662816,
+    "wof:lastmodified":1695876802,
     "wof:name":"Palase",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

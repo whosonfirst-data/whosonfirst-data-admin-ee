@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ilvese K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.008562,
-    "geom:area_square_m":55773103.426478,
+    "geom:area_square_m":55773103.426475,
     "geom:bbox":"24.585824,58.165164,24.731666,58.251826",
     "geom:latitude":58.208456,
     "geom:longitude":24.655224,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2062
+        "ee-mamt:okood":"2062"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125933169
     ],
     "wof:country":"EE",
     "wof:created":1595460625,
-    "wof:geomhash":"25386e30ddcddf972929c0cc41f3714e",
+    "wof:geomhash":"42a7e6be4f22496bebfcaa34105ced43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677728,
+    "wof:lastmodified":1695876997,
     "wof:name":"Ilvese",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

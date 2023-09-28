@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Metsk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00455,
-    "geom:area_square_m":29481642.575051,
+    "geom:area_square_m":29481642.575049,
     "geom:bbox":"25.266051,58.37545,25.469625,58.427956",
     "geom:latitude":58.40203,
     "geom:longitude":25.388417,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4925
+        "ee-mamt:okood":"4925"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125871003
     ],
     "wof:country":"EE",
     "wof:created":1595460388,
-    "wof:geomhash":"90c2f55b4cc4c85db51f1996e708ace5",
+    "wof:geomhash":"8402e898f1cbaec5cc582dc1ed85c34a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663439,
+    "wof:lastmodified":1695876828,
     "wof:name":"Metsk\u00fcla",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

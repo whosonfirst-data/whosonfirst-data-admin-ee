@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u0151ljala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002363,
-    "geom:area_square_m":15331713.926273,
+    "geom:area_square_m":15331713.92627,
     "geom:bbox":"22.671382,58.329999,22.770209,58.379157",
     "geom:latitude":58.356675,
     "geom:longitude":22.722264,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3757
+        "ee-mamt:okood":"3757"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125889923
     ],
     "wof:country":"EE",
     "wof:created":1595459366,
-    "wof:geomhash":"f1d1adc387e45750e254e9aa2f914889",
+    "wof:geomhash":"df03460b34d5602957416506b07154f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672266,
+    "wof:lastmodified":1695876887,
     "wof:name":"K\u0151ljala",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

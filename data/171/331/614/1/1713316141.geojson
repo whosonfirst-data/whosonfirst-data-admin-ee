@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tsirgu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000372,
-    "geom:area_square_m":2455654.604954,
+    "geom:area_square_m":2455654.604951,
     "geom:bbox":"27.40123,57.746425,27.428169,57.776475",
     "geom:latitude":57.75967,
     "geom:longitude":27.412853,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8363
+        "ee-mamt:okood":"8363"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242742307
     ],
     "wof:country":"EE",
     "wof:created":1595461366,
-    "wof:geomhash":"c3d769891ea32d02e7229ff250e61146",
+    "wof:geomhash":"4733f25c8061644ac895dc0f962358d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663646,
+    "wof:lastmodified":1695876840,
     "wof:name":"Tsirgu",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

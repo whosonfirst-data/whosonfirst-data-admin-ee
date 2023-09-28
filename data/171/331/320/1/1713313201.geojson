@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mukri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003491,
-    "geom:area_square_m":22403340.546853,
+    "geom:area_square_m":22403340.546855,
     "geom:bbox":"24.966062,58.707216,25.070234,58.764811",
     "geom:latitude":58.73527,
     "geom:longitude":25.021461,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5015
+        "ee-mamt:okood":"5015"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260066683
     ],
     "wof:country":"EE",
     "wof:created":1595460711,
-    "wof:geomhash":"9a7b94ff257705e21ac077ebc506b3a8",
+    "wof:geomhash":"2fa18645586b4908419fe0f90606eb3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676740,
+    "wof:lastmodified":1695876947,
     "wof:name":"Mukri",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

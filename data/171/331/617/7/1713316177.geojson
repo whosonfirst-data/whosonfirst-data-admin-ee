@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kriiva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001212,
-    "geom:area_square_m":8031137.609739,
+    "geom:area_square_m":8031137.609741,
     "geom:bbox":"27.320949,57.580473,27.389193,57.625871",
     "geom:latitude":57.603786,
     "geom:longitude":27.343892,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3502
+        "ee-mamt:okood":"3502"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209278839
     ],
     "wof:country":"EE",
     "wof:created":1595461374,
-    "wof:geomhash":"e96f4654b17de2d98ce0285200a84f7a",
+    "wof:geomhash":"ef841cd8cd19af43eafa3d42bfbcc131",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663659,
+    "wof:lastmodified":1695876842,
     "wof:name":"Kriiva",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

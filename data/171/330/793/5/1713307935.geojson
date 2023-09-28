@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Niitv\u00e4lja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002067,
-    "geom:area_square_m":13045154.889471,
+    "geom:area_square_m":13045154.889469,
     "geom:bbox":"24.246957,59.298044,24.350317,59.333097",
     "geom:latitude":59.313463,
     "geom:longitude":24.300712,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5424
+        "ee-mamt:okood":"5424"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310219261
     ],
     "wof:country":"EE",
     "wof:created":1595459520,
-    "wof:geomhash":"f08d541eb96898a7aa83838a90896b8f",
+    "wof:geomhash":"07896b7d771526459df1db88fee98505",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663306,
+    "wof:lastmodified":1695876818,
     "wof:name":"Niitv\u00e4lja",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

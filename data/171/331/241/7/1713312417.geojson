@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00e4rivere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001698,
-    "geom:area_square_m":10968388.177257,
+    "geom:area_square_m":10968388.177256,
     "geom:bbox":"24.563577,58.487825,24.644664,58.525655",
     "geom:latitude":58.507809,
     "geom:longitude":24.601097,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6608
+        "ee-mamt:okood":"6608"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226830255
     ],
     "wof:country":"EE",
     "wof:created":1595460540,
-    "wof:geomhash":"cc6edee4a08233173b82b7a175b24038",
+    "wof:geomhash":"cdbb356fce25501339aaa7fc125ba372",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663370,
+    "wof:lastmodified":1695876818,
     "wof:name":"P\u00e4rivere",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

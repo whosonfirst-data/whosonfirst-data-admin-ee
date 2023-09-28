@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kostkova K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000175,
-    "geom:area_square_m":1147957.828728,
+    "geom:area_square_m":1147957.828729,
     "geom:bbox":"27.646767,57.941404,27.669603,57.955335",
     "geom:latitude":57.947335,
     "geom:longitude":27.658805,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3470
+        "ee-mamt:okood":"3470"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461346,
-    "wof:geomhash":"1e0dc7866f316bb71f94a418c6d6ae6f",
+    "wof:geomhash":"ab4f02e8d8289b5dffc1fc2f307edc06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663644,
+    "wof:lastmodified":1695876839,
     "wof:name":"Kostkova",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

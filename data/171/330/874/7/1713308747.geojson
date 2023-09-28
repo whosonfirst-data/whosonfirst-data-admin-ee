@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Jaakna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003427,
-    "geom:area_square_m":21829989.200919,
+    "geom:area_square_m":21829989.200918,
     "geom:bbox":"23.93546,58.961663,24.035997,59.019964",
     "geom:latitude":58.992302,
     "geom:longitude":23.986914,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2126
+        "ee-mamt:okood":"2126"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209910997
     ],
     "wof:country":"EE",
     "wof:created":1595459721,
-    "wof:geomhash":"1b755c6157ae7841315484e112bbbe2a",
+    "wof:geomhash":"399a577b9b4ef87fa2039b5532419ff8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677181,
+    "wof:lastmodified":1695876987,
     "wof:name":"Jaakna",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

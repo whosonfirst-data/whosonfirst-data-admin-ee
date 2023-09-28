@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000233,
-    "geom:area_square_m":1501074.632827,
+    "geom:area_square_m":1501074.632828,
     "geom:bbox":"22.772134,58.604226,22.800375,58.620067",
     "geom:latitude":58.610516,
     "geom:longitude":22.785125,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5792
+        "ee-mamt:okood":"5792"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293672629
     ],
     "wof:country":"EE",
     "wof:created":1595459283,
-    "wof:geomhash":"79c87f8cd93c980a73e8c084198865a1",
+    "wof:geomhash":"23c1d7c7e2733486cac68615bf4224f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672021,
+    "wof:lastmodified":1695876878,
     "wof:name":"Paaste",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

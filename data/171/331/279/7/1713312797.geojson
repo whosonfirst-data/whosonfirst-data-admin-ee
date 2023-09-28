@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hertu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000728,
-    "geom:area_square_m":4640617.421745,
+    "geom:area_square_m":4640617.421743,
     "geom:bbox":"24.854558,58.950027,24.900552,58.983168",
     "geom:latitude":58.967443,
     "geom:longitude":24.877193,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1826
+        "ee-mamt:okood":"1826"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125933085
     ],
     "wof:country":"EE",
     "wof:created":1595460624,
-    "wof:geomhash":"129c3e1f9a8426b38856a8e75e3e7868",
+    "wof:geomhash":"f28cbdcbc0163a15859239a16d2a6aad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676737,
+    "wof:lastmodified":1695876946,
     "wof:name":"Hertu",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

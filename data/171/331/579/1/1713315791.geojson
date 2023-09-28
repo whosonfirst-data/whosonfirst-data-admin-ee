@@ -8,7 +8,7 @@
     "ee-mamt:animi":"R\u0151ssa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001003,
-    "geom:area_square_m":6589269.350321,
+    "geom:area_square_m":6589269.350323,
     "geom:bbox":"27.435399,57.894007,27.509134,57.932887",
     "geom:latitude":57.917542,
     "geom:longitude":27.473645,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7172
+        "ee-mamt:okood":"7172"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310392533
     ],
     "wof:country":"EE",
     "wof:created":1595461294,
-    "wof:geomhash":"b138f765e0793a2ebcf74f4221cbb994",
+    "wof:geomhash":"79be4b8566574d84a43d745ffcc9432a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660219,
+    "wof:lastmodified":1695876720,
     "wof:name":"R\u0151ssa",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

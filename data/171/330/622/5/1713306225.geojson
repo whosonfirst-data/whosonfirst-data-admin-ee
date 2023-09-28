@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lalli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000186,
-    "geom:area_square_m":1199764.906412,
+    "geom:area_square_m":1199764.906411,
     "geom:bbox":"23.332992,58.620435,23.361238,58.634291",
     "geom:latitude":58.627588,
     "geom:longitude":23.348694,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4083
+        "ee-mamt:okood":"4083"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243538161
     ],
     "wof:country":"EE",
     "wof:created":1595459107,
-    "wof:geomhash":"126138f3eee028aeadaf4654e9833321",
+    "wof:geomhash":"623ddb3ff556ececbd521261e230e927",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675120,
+    "wof:lastmodified":1695876905,
     "wof:name":"Lalli",
     "wof:parent_id":1713305623,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vanaveski K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002529,
-    "geom:area_square_m":16400399.751028,
+    "geom:area_square_m":16400399.751035,
     "geom:bbox":"25.250302,58.348179,25.343123,58.410472",
     "geom:latitude":58.375675,
     "geom:longitude":25.295361,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9036
+        "ee-mamt:okood":"9036"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276189809
     ],
     "wof:country":"EE",
     "wof:created":1595460890,
-    "wof:geomhash":"c085ab5e93e6519ab061e781d85e9fba",
+    "wof:geomhash":"d7be43fbd1680325d6bb98d8249dbd8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663438,
+    "wof:lastmodified":1695876828,
     "wof:name":"Vanaveski",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaskjala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001158,
-    "geom:area_square_m":7294065.181126,
+    "geom:area_square_m":7294065.181125,
     "geom:bbox":"24.920296,59.345687,24.976849,59.387508",
     "geom:latitude":59.363172,
     "geom:longitude":24.949648,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9108
+        "ee-mamt:okood":"9108"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125977847
     ],
     "wof:country":"EE",
     "wof:created":1595459016,
-    "wof:geomhash":"bb62d9645f6f423cf3a14f09a7d430c2",
+    "wof:geomhash":"ab15bf4f79a5cd22d33254e57ef3e12c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661471,
+    "wof:lastmodified":1695876762,
     "wof:name":"Vaskjala",
     "wof:parent_id":1713305683,
     "wof:placetype":"localadmin",

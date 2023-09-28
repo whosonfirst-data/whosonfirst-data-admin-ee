@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suurk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001991,
-    "geom:area_square_m":12577100.33099,
+    "geom:area_square_m":12577100.330991,
     "geom:bbox":"24.143226,59.245662,24.243213,59.293673",
     "geom:latitude":59.272156,
     "geom:longitude":24.18487,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7856
+        "ee-mamt:okood":"7856"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327148601
     ],
     "wof:country":"EE",
     "wof:created":1595459504,
-    "wof:geomhash":"7664ced28532261341a1dfd35796f74d",
+    "wof:geomhash":"d6a7f40100c7b31253783feddcc6f7bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663290,
+    "wof:lastmodified":1695876814,
     "wof:name":"Suurk\u00fcla",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

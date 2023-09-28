@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Risti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00072,
-    "geom:area_square_m":4587034.144566,
+    "geom:area_square_m":4587034.144567,
     "geom:bbox":"22.617317,58.99498,22.668123,59.022564",
     "geom:latitude":59.008238,
     "geom:longitude":22.642783,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7009
+        "ee-mamt:okood":"7009"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226451557
     ],
     "wof:country":"EE",
     "wof:created":1595460163,
-    "wof:geomhash":"acb155f10c43bfa1ad106fea01231313",
+    "wof:geomhash":"32f1c2f73316ef03670a94c9d6c1ee76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666379,
+    "wof:lastmodified":1695876854,
     "wof:name":"Risti",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

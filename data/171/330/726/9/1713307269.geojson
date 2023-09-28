@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuiste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000664,
-    "geom:area_square_m":4294445.618521,
+    "geom:area_square_m":4294445.618522,
     "geom:bbox":"22.880539,58.421207,22.925328,58.447984",
     "geom:latitude":58.436941,
     "geom:longitude":22.900752,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3544
+        "ee-mamt:okood":"3544"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327417313
     ],
     "wof:country":"EE",
     "wof:created":1595459362,
-    "wof:geomhash":"567624611bd8a2a0fccb819683b8f4c5",
+    "wof:geomhash":"497a37db8fdcb71681c4059ea8fde45c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672247,
+    "wof:lastmodified":1695876886,
     "wof:name":"Kuiste",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

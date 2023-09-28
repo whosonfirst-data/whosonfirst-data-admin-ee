@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Keravere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000757,
-    "geom:area_square_m":4847478.700474,
+    "geom:area_square_m":4847478.700475,
     "geom:bbox":"23.708945,58.782819,23.760753,58.821033",
     "geom:latitude":58.802223,
     "geom:longitude":23.739711,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2958
+        "ee-mamt:okood":"2958"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209910789
     ],
     "wof:country":"EE",
     "wof:created":1595460626,
-    "wof:geomhash":"dd5bfebdba3b50d5d8adcfd085b1b1cb",
+    "wof:geomhash":"a9ae0adfa2e96746767850e9ad5c970b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677166,
+    "wof:lastmodified":1695876984,
     "wof:name":"Keravere",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

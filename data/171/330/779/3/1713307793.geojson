@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u0151nuste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003914,
-    "geom:area_square_m":24822396.129408,
+    "geom:area_square_m":24822396.12941,
     "geom:bbox":"24.39054,59.10751,24.491319,59.179827",
     "geom:latitude":59.141219,
     "geom:longitude":24.433194,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5157
+        "ee-mamt:okood":"5157"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310519229
     ],
     "wof:country":"EE",
     "wof:created":1595459487,
-    "wof:geomhash":"29168febf12fdd7597bbdce678c04266",
+    "wof:geomhash":"3e29a27fb71e9150d73035c5c2f2d58d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663229,
+    "wof:lastmodified":1695876810,
     "wof:name":"M\u0151nuste",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

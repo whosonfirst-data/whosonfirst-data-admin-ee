@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Loja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00101,
-    "geom:area_square_m":6443968.061193,
+    "geom:area_square_m":6443968.061194,
     "geom:bbox":"22.791364,58.915505,22.850926,58.9448",
     "geom:latitude":58.930768,
     "geom:longitude":22.825229,
@@ -53,14 +53,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4465
+        "ee-mamt:okood":"4465"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242590647
     ],
     "wof:country":"EE",
     "wof:created":1595460117,
-    "wof:geomhash":"4130dcc7a37046627a2bb509ab6d8f5e",
+    "wof:geomhash":"ce3fa43d9fb5839ebdab0095b46ef612",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +78,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502249,
+    "wof:lastmodified":1695877023,
     "wof:name":"Loja",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

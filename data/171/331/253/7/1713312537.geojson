@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soosilla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000323,
-    "geom:area_square_m":2097303.918767,
+    "geom:area_square_m":2097303.918768,
     "geom:bbox":"26.574867,58.311986,26.596811,58.335295",
     "geom:latitude":58.323673,
     "geom:longitude":26.587596,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7743
+        "ee-mamt:okood":"7743"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226815459
     ],
     "wof:country":"EE",
     "wof:created":1595460565,
-    "wof:geomhash":"8964265fb1a654286a98c65e6c413c6a",
+    "wof:geomhash":"876cd9e511b2984cf9da3734915f3ae7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676677,
+    "wof:lastmodified":1695876937,
     "wof:name":"Soosilla",
     "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",

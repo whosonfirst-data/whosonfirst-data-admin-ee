@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tepelv\u00e4lja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000989,
-    "geom:area_square_m":6196900.591892,
+    "geom:area_square_m":6196900.591894,
     "geom:bbox":"26.044513,59.54342,26.094076,59.575461",
     "geom:latitude":59.561716,
     "geom:longitude":26.069518,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8195
+        "ee-mamt:okood":"8195"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326850341
     ],
     "wof:country":"EE",
     "wof:created":1595459672,
-    "wof:geomhash":"8eb24811cd06f5757539944bddf0d99e",
+    "wof:geomhash":"575fbcf301e820afc0bc3fe3198b2eec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678031,
+    "wof:lastmodified":1695877013,
     "wof:name":"Tepelv\u00e4lja",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

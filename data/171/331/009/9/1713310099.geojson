@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Leie K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002185,
-    "geom:area_square_m":14144204.714828,
+    "geom:area_square_m":14144204.714831,
     "geom:bbox":"25.969379,58.409433,26.079066,58.451204",
     "geom:latitude":58.429693,
     "geom:longitude":26.024799,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4225
+        "ee-mamt:okood":"4225"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125835627
     ],
     "wof:country":"EE",
     "wof:created":1595460049,
-    "wof:geomhash":"5298559ee3bf8067d35c15e0d64624fa",
+    "wof:geomhash":"ebb6154c9df51cd52fdd15331e64cab3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661195,
+    "wof:lastmodified":1695876744,
     "wof:name":"Leie",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

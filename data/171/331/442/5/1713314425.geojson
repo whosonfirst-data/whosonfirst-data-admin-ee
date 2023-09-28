@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hurmi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00178,
-    "geom:area_square_m":11659729.200674,
+    "geom:area_square_m":11659729.20067,
     "geom:bbox":"26.840571,57.988786,26.910835,58.035665",
     "geom:latitude":58.01229,
     "geom:longitude":26.877815,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1914
+        "ee-mamt:okood":"1914"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310488737
     ],
     "wof:country":"EE",
     "wof:created":1595460979,
-    "wof:geomhash":"16c3fa389f93b720c9c934a4614692e1",
+    "wof:geomhash":"c6566b829bb0d79e06444cb843e9e53f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676773,
+    "wof:lastmodified":1695876949,
     "wof:name":"Hurmi",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

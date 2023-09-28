@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuig\u0151 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000194,
-    "geom:area_square_m":1281695.931017,
+    "geom:area_square_m":1281695.931016,
     "geom:bbox":"27.468525,57.718645,27.492572,57.733365",
     "geom:latitude":57.724814,
     "geom:longitude":27.480665,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3536
+        "ee-mamt:okood":"3536"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293748067
     ],
     "wof:country":"EE",
     "wof:created":1595461270,
-    "wof:geomhash":"ac3f4581db515444339933f1e12c728e",
+    "wof:geomhash":"3aa6141ec373d73553b294ee6399cb7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663642,
+    "wof:lastmodified":1695876839,
     "wof:name":"Kuig\u0151",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

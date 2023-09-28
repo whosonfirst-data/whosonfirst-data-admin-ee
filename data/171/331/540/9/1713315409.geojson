@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00e4hni K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004221,
-    "geom:area_square_m":27948745.707024,
+    "geom:area_square_m":27948745.707026,
     "geom:bbox":"26.653167,57.577455,26.838926,57.651962",
     "geom:latitude":57.619223,
     "geom:longitude":26.740339,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6564
+        "ee-mamt:okood":"6564"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293748013
     ],
     "wof:country":"EE",
     "wof:created":1595461212,
-    "wof:geomhash":"c5f35ff13a0a94becdc47a0eeda9cfe3",
+    "wof:geomhash":"2b783095b1636b2a3bafe641bcee8867",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676848,
+    "wof:lastmodified":1695876965,
     "wof:name":"P\u00e4hni",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"H\u00e4mkoti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000214,
-    "geom:area_square_m":1416731.534263,
+    "geom:area_square_m":1416731.534264,
     "geom:bbox":"27.098427,57.687019,27.121571,57.701701",
     "geom:latitude":57.69417,
     "geom:longitude":27.108848,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1933
+        "ee-mamt:okood":"1933"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276398069
     ],
     "wof:country":"EE",
     "wof:created":1595461140,
-    "wof:geomhash":"dd80ff76f489c8af07c2bccbccdabaf2",
+    "wof:geomhash":"826803f65c1e8765436e40793320ff4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676830,
+    "wof:lastmodified":1695876960,
     "wof:name":"H\u00e4mkoti",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

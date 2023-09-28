@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sonni K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004367,
-    "geom:area_square_m":27888559.937471,
+    "geom:area_square_m":27888559.937467,
     "geom:bbox":"25.118834,58.870891,25.258104,58.940714",
     "geom:latitude":58.904059,
     "geom:longitude":25.172693,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7683
+        "ee-mamt:okood":"7683"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293087463
     ],
     "wof:country":"EE",
     "wof:created":1595461201,
-    "wof:geomhash":"6ddec4f5e7b43ebd53d4f67ec0cddcf8",
+    "wof:geomhash":"af5ce325b45a7ca555ed86cf91ab4503",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677978,
+    "wof:lastmodified":1695877007,
     "wof:name":"Sonni",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

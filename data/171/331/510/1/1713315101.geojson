@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Purku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000965,
-    "geom:area_square_m":6167286.364582,
+    "geom:area_square_m":6167286.364585,
     "geom:bbox":"24.761777,58.857411,24.803743,58.892259",
     "geom:latitude":58.876563,
     "geom:longitude":24.784323,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6445
+        "ee-mamt:okood":"6445"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935603
     ],
     "wof:country":"EE",
     "wof:created":1595461132,
-    "wof:geomhash":"b5688c93d4167fcc98a5bb18db485231",
+    "wof:geomhash":"b320bec18c9c4de6feef098808db538e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676705,
+    "wof:lastmodified":1695876942,
     "wof:name":"Purku",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

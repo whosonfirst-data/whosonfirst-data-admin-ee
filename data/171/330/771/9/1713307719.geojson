@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kloogaranna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001437,
-    "geom:area_square_m":9063340.428685,
+    "geom:area_square_m":9063340.428689,
     "geom:bbox":"24.207996,59.322276,24.300515,59.36053",
     "geom:latitude":59.341469,
     "geom:longitude":24.258093,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3207
+        "ee-mamt:okood":"3207"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126034363
     ],
     "wof:country":"EE",
     "wof:created":1595459470,
-    "wof:geomhash":"a6384e90392f0a4205ced28899a3b547",
+    "wof:geomhash":"c994a6d8a4c845ce14935df9b23208e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663303,
+    "wof:lastmodified":1695876817,
     "wof:name":"Kloogaranna",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

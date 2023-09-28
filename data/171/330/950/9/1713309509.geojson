@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Meoma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001642,
-    "geom:area_square_m":10599625.585576,
+    "geom:area_square_m":10599625.585574,
     "geom:bbox":"26.99266,58.518061,27.061136,58.559853",
     "geom:latitude":58.538233,
     "geom:longitude":27.030406,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4871
+        "ee-mamt:okood":"4871"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242840629
     ],
     "wof:country":"EE",
     "wof:created":1595459901,
-    "wof:geomhash":"66824a38b37d001030140e41cf03e554",
+    "wof:geomhash":"b6c1d734ce13c6b41bd8ae2a01d7e408",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660855,
+    "wof:lastmodified":1695876738,
     "wof:name":"Meoma",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

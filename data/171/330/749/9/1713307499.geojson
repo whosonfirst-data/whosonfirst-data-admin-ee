@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ansek\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00098,
-    "geom:area_square_m":6406109.372875,
+    "geom:area_square_m":6406109.372874,
     "geom:bbox":"22.186126,58.08037,22.251201,58.112133",
     "geom:latitude":58.09732,
     "geom:longitude":22.225798,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1297
+        "ee-mamt:okood":"1297"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226629699
     ],
     "wof:country":"EE",
     "wof:created":1595459418,
-    "wof:geomhash":"1f71864a857e8ab91353fd4fb8fa2537",
+    "wof:geomhash":"9a59863db720810925d2e579b2dbe29a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672448,
+    "wof:lastmodified":1695876894,
     "wof:name":"Ansek\u00fcla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

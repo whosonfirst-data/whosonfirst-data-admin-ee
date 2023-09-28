@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u0151llinge K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000539,
-    "geom:area_square_m":3496715.743339,
+    "geom:area_square_m":3496715.743341,
     "geom:bbox":"26.315178,58.352246,26.366414,58.37312",
     "geom:latitude":58.361103,
     "geom:longitude":26.336449,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2842
+        "ee-mamt:okood":"2842"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460198,
-    "wof:geomhash":"863103132b79b32ecc8183028db3905a",
+    "wof:geomhash":"d5b8cff8f3ac86660060b0bf600dfd6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661897,
+    "wof:lastmodified":1695876786,
     "wof:name":"V\u0151llinge",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

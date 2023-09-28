@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaarlij\u00e4rve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001397,
-    "geom:area_square_m":9084781.697681,
+    "geom:area_square_m":9084781.697679,
     "geom:bbox":"26.139508,58.266933,26.226786,58.292155",
     "geom:latitude":58.280091,
     "geom:longitude":26.184486,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2409
+        "ee-mamt:okood":"2409"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125933371
     ],
     "wof:country":"EE",
     "wof:created":1595460199,
-    "wof:geomhash":"0091c287ad9e94aeffed17984c5883c6",
+    "wof:geomhash":"a3f5a350358cb66b09b67f9ac104e61e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661899,
+    "wof:lastmodified":1695876786,
     "wof:name":"Kaarlij\u00e4rve",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

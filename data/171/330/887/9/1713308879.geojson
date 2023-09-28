@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kokre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000483,
-    "geom:area_square_m":3086332.788913,
+    "geom:area_square_m":3086332.788912,
     "geom:bbox":"23.848704,58.855218,23.884317,58.881297",
     "geom:latitude":58.870121,
     "geom:longitude":23.867211,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3321
+        "ee-mamt:okood":"3321"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225866343
     ],
     "wof:country":"EE",
     "wof:created":1595459755,
-    "wof:geomhash":"eb29bc3ff33287c0e6f4094369e23bc9",
+    "wof:geomhash":"7e5e6093148ba51213363e33f8eaca01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677186,
+    "wof:lastmodified":1695876987,
     "wof:name":"Kokre",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

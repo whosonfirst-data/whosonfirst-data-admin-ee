@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Unipiha K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001384,
-    "geom:area_square_m":9002072.187432,
+    "geom:area_square_m":9002072.18743,
     "geom:bbox":"26.579878,58.233914,26.644686,58.274297",
     "geom:latitude":58.25448,
     "geom:longitude":26.607721,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8698
+        "ee-mamt:okood":"8698"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343728419
     ],
     "wof:country":"EE",
     "wof:created":1595461153,
-    "wof:geomhash":"d1e410e56bac657b89c4514fa21afec3",
+    "wof:geomhash":"9ed4bfbda73cdfb85b3df7b9ce1785b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676757,
+    "wof:lastmodified":1695876949,
     "wof:name":"Unipiha",
     "wof:parent_id":1713305715,
     "wof:placetype":"localadmin",

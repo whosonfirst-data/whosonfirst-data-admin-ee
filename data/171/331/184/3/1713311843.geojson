@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piilse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004706,
-    "geom:area_square_m":29773075.639291,
+    "geom:area_square_m":29773075.639285,
     "geom:bbox":"26.924549,59.19633,27.083501,59.25999",
     "geom:latitude":59.229844,
     "geom:longitude":27.002745,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6172
+        "ee-mamt:okood":"6172"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327438995
     ],
     "wof:country":"EE",
     "wof:created":1595460429,
-    "wof:geomhash":"37b97730b7bf6770ab2e20f049eea75e",
+    "wof:geomhash":"8026e9072b5b60109b3e8f7e3cf97957",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660770,
+    "wof:lastmodified":1695876734,
     "wof:name":"Piilse",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

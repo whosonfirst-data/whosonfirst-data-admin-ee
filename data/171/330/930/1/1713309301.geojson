@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Moku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000745,
-    "geom:area_square_m":4794081.812181,
+    "geom:area_square_m":4794081.812182,
     "geom:bbox":"26.99688,58.641468,27.045774,58.670389",
     "geom:latitude":58.653812,
     "geom:longitude":27.022279,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4972
+        "ee-mamt:okood":"4972"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209614259
     ],
     "wof:country":"EE",
     "wof:created":1595459855,
-    "wof:geomhash":"145ee6e7e3bd00a166ebe61530bf0582",
+    "wof:geomhash":"2fce52162613978da922d3fa27df7cf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660843,
+    "wof:lastmodified":1695876737,
     "wof:name":"Moku",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

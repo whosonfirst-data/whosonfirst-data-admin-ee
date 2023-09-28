@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kehra Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.000611,
-    "geom:area_square_m":3852545.69998,
+    "geom:area_square_m":3852545.699981,
     "geom:bbox":"25.309363,59.325143,25.357065,59.346817",
     "geom:latitude":59.335786,
     "geom:longitude":25.330857,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Kehra linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2928
+        "ee-mamt:okood":"2928"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815175
     ],
     "wof:country":"EE",
     "wof:created":1595459287,
-    "wof:geomhash":"1760a3daee9d7934ba75162b0f2db9ee",
+    "wof:geomhash":"e419813c019e49b0e6f7b5d99df1af44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662790,
+    "wof:lastmodified":1695876798,
     "wof:name":"Kehra",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

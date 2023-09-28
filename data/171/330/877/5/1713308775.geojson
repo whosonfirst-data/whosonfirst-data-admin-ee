@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kedre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000619,
-    "geom:area_square_m":3950517.052248,
+    "geom:area_square_m":3950517.05225,
     "geom:bbox":"23.786364,58.915824,23.825889,58.953925",
     "geom:latitude":58.9347,
     "geom:longitude":23.805745,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2904
+        "ee-mamt:okood":"2904"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310693269
     ],
     "wof:country":"EE",
     "wof:created":1595459731,
-    "wof:geomhash":"16f381cf064d64d33cde20b7f8145fd8",
+    "wof:geomhash":"c449be8062158f4471631b794120b785",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677178,
+    "wof:lastmodified":1695876986,
     "wof:name":"Kedre",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

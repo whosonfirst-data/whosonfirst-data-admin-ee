@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Liiva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000977,
-    "geom:area_square_m":6429873.790797,
+    "geom:area_square_m":6429873.790794,
     "geom:bbox":"26.628704,57.840719,26.68209,57.875937",
     "geom:latitude":57.855886,
     "geom:longitude":26.655531,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4357
+        "ee-mamt:okood":"4357"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260256595
     ],
     "wof:country":"EE",
     "wof:created":1595461417,
-    "wof:geomhash":"4dcb3506cb01c06ffb56273204344cd9",
+    "wof:geomhash":"6d8c8346b6322177d1d78b67383b0537",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660230,
+    "wof:lastmodified":1695876721,
     "wof:name":"Liiva",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

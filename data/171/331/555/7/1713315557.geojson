@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Jantra K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002576,
-    "geom:area_square_m":16935535.254579,
+    "geom:area_square_m":16935535.254581,
     "geom:bbox":"27.277172,57.85105,27.383399,57.910733",
     "geom:latitude":57.88368,
     "geom:longitude":27.337747,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2172
+        "ee-mamt:okood":"2172"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193114335
     ],
     "wof:country":"EE",
     "wof:created":1595461245,
-    "wof:geomhash":"db06db7bd56d37c20172ed9599d86dee",
+    "wof:geomhash":"dc332a79f7147c3b5cd43ae441bc5931",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660242,
+    "wof:lastmodified":1695876723,
     "wof:name":"Jantra",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

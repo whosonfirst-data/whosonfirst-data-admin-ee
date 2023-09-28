@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sadala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000604,
-    "geom:area_square_m":3835322.056992,
+    "geom:area_square_m":3835322.056991,
     "geom:bbox":"24.889092,59.104446,24.94049,59.123555",
     "geom:latitude":59.114139,
     "geom:longitude":24.912187,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7319
+        "ee-mamt:okood":"7319"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209801841
     ],
     "wof:country":"EE",
     "wof:created":1595460260,
-    "wof:geomhash":"49b2cd79a7c7bdb593bb9956bc3bcf49",
+    "wof:geomhash":"c5c8fde7cb6b6dc7e73762273611cd1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676698,
+    "wof:lastmodified":1695876940,
     "wof:name":"Sadala",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

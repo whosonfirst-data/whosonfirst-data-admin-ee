@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tiitsuotsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000597,
-    "geom:area_square_m":3859809.430023,
+    "geom:area_square_m":3859809.430022,
     "geom:bbox":"22.558752,58.476489,22.603376,58.503393",
     "geom:latitude":58.488531,
     "geom:longitude":22.584396,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8230
+        "ee-mamt:okood":"8230"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276210085
     ],
     "wof:country":"EE",
     "wof:created":1595459606,
-    "wof:geomhash":"3d5099f29c6e0ef7e7979a4f1bb7e321",
+    "wof:geomhash":"db733552b81e2b05e9970aa95dd5e69c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672537,
+    "wof:lastmodified":1695876899,
     "wof:name":"Tiitsuotsa",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

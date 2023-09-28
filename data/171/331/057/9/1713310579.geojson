@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soontaga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.006067,
-    "geom:area_square_m":39743521.743736,
+    "geom:area_square_m":39743521.743747,
     "geom:bbox":"26.043541,57.963927,26.162685,58.064275",
     "geom:latitude":58.007324,
     "geom:longitude":26.088735,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7730
+        "ee-mamt:okood":"7730"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209691181
     ],
     "wof:country":"EE",
     "wof:created":1595460156,
-    "wof:geomhash":"5403519e0fc51d3e1b6bec7eb5c5b710",
+    "wof:geomhash":"ccfec192ab27178f952c1e4b53869060",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661424,
+    "wof:lastmodified":1695876759,
     "wof:name":"Soontaga",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Arvila K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00224,
-    "geom:area_square_m":14164743.761902,
+    "geom:area_square_m":14164743.761906,
     "geom:bbox":"27.166419,59.219984,27.2583,59.255048",
     "geom:latitude":59.237479,
     "geom:longitude":27.207265,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1398
+        "ee-mamt:okood":"1398"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209015935
     ],
     "wof:country":"EE",
     "wof:created":1595460610,
-    "wof:geomhash":"e6cd79c740ef830716e4dbfb2ff0e17d",
+    "wof:geomhash":"552d9c4cdf9f7e6d3706abda51790e39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660710,
+    "wof:lastmodified":1695876733,
     "wof:name":"Arvila",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

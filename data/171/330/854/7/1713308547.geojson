@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tatruse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002148,
-    "geom:area_square_m":13499901.175865,
+    "geom:area_square_m":13499901.175866,
     "geom:bbox":"26.25331,59.435393,26.348018,59.478192",
     "geom:latitude":59.454032,
     "geom:longitude":26.293357,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8167
+        "ee-mamt:okood":"8167"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243058493
     ],
     "wof:country":"EE",
     "wof:created":1595459671,
-    "wof:geomhash":"2d6f5f1e1a6a792244e64c82db7faeb1",
+    "wof:geomhash":"84ae60600e1b79aa298d6ea6359cf233",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678031,
+    "wof:lastmodified":1695877013,
     "wof:name":"Tatruse",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

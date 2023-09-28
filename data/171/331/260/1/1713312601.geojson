@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lalsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005842,
-    "geom:area_square_m":37772011.936271,
+    "geom:area_square_m":37772011.936275,
     "geom:bbox":"25.986902,58.44571,26.166135,58.512213",
     "geom:latitude":58.476105,
     "geom:longitude":26.073541,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4088
+        "ee-mamt:okood":"4088"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125934709
     ],
     "wof:country":"EE",
     "wof:created":1595460578,
-    "wof:geomhash":"21ed1d8cf1c5bed1f5f8b25ddd248a8f",
+    "wof:geomhash":"442ea5f4469b5b506801244befb468bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661196,
+    "wof:lastmodified":1695876744,
     "wof:name":"Lalsi",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

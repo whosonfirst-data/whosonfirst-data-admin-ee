@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaansoo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003583,
-    "geom:area_square_m":23092211.16934,
+    "geom:area_square_m":23092211.169337,
     "geom:bbox":"25.105193,58.556514,25.246378,58.610025",
     "geom:latitude":58.581316,
     "geom:longitude":25.184102,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2400
+        "ee-mamt:okood":"2400"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125934081
     ],
     "wof:country":"EE",
     "wof:created":1595461157,
-    "wof:geomhash":"e8b9e497da3884aeca1415c2427215d9",
+    "wof:geomhash":"8dcb244bcab56d186fe10965ab08eb4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663397,
+    "wof:lastmodified":1695876821,
     "wof:name":"Kaansoo",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

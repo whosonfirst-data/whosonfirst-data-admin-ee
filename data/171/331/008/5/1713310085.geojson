@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tarvastu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001647,
-    "geom:area_square_m":10721150.222616,
+    "geom:area_square_m":10721150.22262,
     "geom:bbox":"25.885782,58.215976,25.960996,58.268308",
     "geom:latitude":58.237817,
     "geom:longitude":25.928515,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8159
+        "ee-mamt:okood":"8159"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1292965681
     ],
     "wof:country":"EE",
     "wof:created":1595460045,
-    "wof:geomhash":"202c544494e2a3f78b41a4f963d23900",
+    "wof:geomhash":"6beea310bb208ab83853e5f475c0adae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661194,
+    "wof:lastmodified":1695876744,
     "wof:name":"Tarvastu",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

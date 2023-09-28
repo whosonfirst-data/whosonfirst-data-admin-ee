@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lahepera K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000419,
-    "geom:area_square_m":2698800.476683,
+    "geom:area_square_m":2698800.476681,
     "geom:bbox":"27.127379,58.578524,27.178867,58.596041",
     "geom:latitude":58.585211,
     "geom:longitude":27.152218,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4055
+        "ee-mamt:okood":"4055"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276738607
     ],
     "wof:country":"EE",
     "wof:created":1595459901,
-    "wof:geomhash":"a7ac58c2fc54938c8308a911e28578c1",
+    "wof:geomhash":"ff7e4966f6ffc41723754044b4d90979",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660866,
+    "wof:lastmodified":1695876739,
     "wof:name":"Lahepera",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

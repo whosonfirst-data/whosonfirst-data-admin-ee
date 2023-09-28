@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Toolse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000789,
-    "geom:area_square_m":4944407.913019,
+    "geom:area_square_m":4944407.913021,
     "geom:bbox":"26.419457,59.511707,26.538149,59.683031",
     "geom:latitude":59.528217,
     "geom:longitude":26.452636,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8293
+        "ee-mamt:okood":"8293"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125912513
     ],
     "wof:country":"EE",
     "wof:created":1595461136,
-    "wof:geomhash":"588c027f21d52491b1744774bbf23fc3",
+    "wof:geomhash":"1ddb3b380bc9fc12f22117bbd75f5a04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678017,
+    "wof:lastmodified":1695877010,
     "wof:name":"Toolse",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

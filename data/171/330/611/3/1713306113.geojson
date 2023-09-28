@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tagak\u00fcla / Bakbyn",
     "ee-mamt:tyyp":8,
     "geom:area":0.001781,
-    "geom:area_square_m":11149842.946099,
+    "geom:area_square_m":11149842.946102,
     "geom:bbox":"24.474996,59.557919,24.547706,59.606255",
     "geom:latitude":59.576714,
     "geom:longitude":24.5129,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8039
+        "ee-mamt:okood":"8039"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310515655
     ],
     "wof:country":"EE",
     "wof:created":1595459080,
-    "wof:geomhash":"904be86119b559dd88dfd8d37749cceb",
+    "wof:geomhash":"6fb7e6d9129fac3c8d768147ebd0684b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675374,
+    "wof:lastmodified":1695876908,
     "wof:name":"Tagak\u00fcla",
     "wof:parent_id":1713305625,
     "wof:placetype":"localadmin",

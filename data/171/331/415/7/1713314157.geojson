@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vilussaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001066,
-    "geom:area_square_m":6895596.975618,
+    "geom:area_square_m":6895596.975617,
     "geom:bbox":"26.961902,58.442561,27.017271,58.480904",
     "geom:latitude":58.459046,
     "geom:longitude":26.99556,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9367
+        "ee-mamt:okood":"9367"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310181031
     ],
     "wof:country":"EE",
     "wof:created":1595460915,
-    "wof:geomhash":"1aab0283e4596b3df0baa53cbc79ae54",
+    "wof:geomhash":"57569860f3adc4730ed97bdc4f3c02af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676464,
+    "wof:lastmodified":1695876912,
     "wof:name":"Vilussaare",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

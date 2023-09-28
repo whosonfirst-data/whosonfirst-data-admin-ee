@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ontika K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001608,
-    "geom:area_square_m":10109659.831351,
+    "geom:area_square_m":10109659.831355,
     "geom:bbox":"27.249855,59.413683,27.335456,59.445067",
     "geom:latitude":59.432978,
     "geom:longitude":27.286537,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5680
+        "ee-mamt:okood":"5680"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243556357
     ],
     "wof:country":"EE",
     "wof:created":1595459235,
-    "wof:geomhash":"46eac3b82f2a4250689599dbfe445452",
+    "wof:geomhash":"3ad083a42a4be4da3e8d549931ad4c52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676907,
+    "wof:lastmodified":1695876970,
     "wof:name":"Ontika",
     "wof:parent_id":1713305783,
     "wof:placetype":"localadmin",

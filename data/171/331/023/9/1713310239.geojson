@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pugritsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002171,
-    "geom:area_square_m":14328622.946965,
+    "geom:area_square_m":14328622.946966,
     "geom:bbox":"26.161377,57.726824,26.264235,57.765267",
     "geom:latitude":57.744838,
     "geom:longitude":26.207893,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6388
+        "ee-mamt:okood":"6388"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326692633
     ],
     "wof:country":"EE",
     "wof:created":1595460079,
-    "wof:geomhash":"83dddb8c10522ee2910c1217af8cc652",
+    "wof:geomhash":"517b23fe924c398755ea4d79343ef41d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661936,
+    "wof:lastmodified":1695876789,
     "wof:name":"Pugritsa",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koogi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000594,
-    "geom:area_square_m":3733448.207397,
+    "geom:area_square_m":3733448.207398,
     "geom:bbox":"25.149793,59.426343,25.194544,59.450705",
     "geom:latitude":59.437731,
     "geom:longitude":25.171295,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3385
+        "ee-mamt:okood":"3385"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125816931
     ],
     "wof:country":"EE",
     "wof:created":1595459057,
-    "wof:geomhash":"6e928c5c0fc5f14d007e33d8af46454b",
+    "wof:geomhash":"51e643a956a247aef4f4df50f2357e00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661370,
+    "wof:lastmodified":1695876756,
     "wof:name":"Koogi",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

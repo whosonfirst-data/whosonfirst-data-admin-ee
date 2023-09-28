@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Augli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000472,
-    "geom:area_square_m":3119915.25325,
+    "geom:area_square_m":3119915.253251,
     "geom:bbox":"26.942296,57.7059,26.98425,57.726348",
     "geom:latitude":57.716008,
     "geom:longitude":26.962005,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1456
+        "ee-mamt:okood":"1456"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209479531
     ],
     "wof:country":"EE",
     "wof:created":1595461133,
-    "wof:geomhash":"8750f8522c8f56c1b967c7340f1b6799",
+    "wof:geomhash":"98f4c7e8faf9ed26f7493847ea6ac5c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676812,
+    "wof:lastmodified":1695876955,
     "wof:name":"Augli",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaelase K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000397,
-    "geom:area_square_m":2550747.205567,
+    "geom:area_square_m":2550747.205568,
     "geom:bbox":"24.50503,58.688597,24.547664,58.708033",
     "geom:latitude":58.69709,
     "geom:longitude":24.526403,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2493
+        "ee-mamt:okood":"2493"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243341771
     ],
     "wof:country":"EE",
     "wof:created":1595460916,
-    "wof:geomhash":"44707f91ae70cde73d035cf2ffd432d5",
+    "wof:geomhash":"2c83a4a0edf0c2a69dd2b55c11ec719c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663400,
+    "wof:lastmodified":1695876822,
     "wof:name":"Kaelase",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

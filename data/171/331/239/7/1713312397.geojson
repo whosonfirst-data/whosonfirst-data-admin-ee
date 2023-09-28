@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Muti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000881,
-    "geom:area_square_m":5684783.143992,
+    "geom:area_square_m":5684783.143993,
     "geom:bbox":"24.795406,58.527093,24.875014,58.548265",
     "geom:latitude":58.536663,
     "geom:longitude":24.83231,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5101
+        "ee-mamt:okood":"5101"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293270357
     ],
     "wof:country":"EE",
     "wof:created":1595460536,
-    "wof:geomhash":"e23577da49cf24d704530049cbf770a6",
+    "wof:geomhash":"7d75eb10a1a140c95b7d7778052d6f34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663371,
+    "wof:lastmodified":1695876819,
     "wof:name":"Muti",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

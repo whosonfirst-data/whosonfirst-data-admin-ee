@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ubja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001049,
-    "geom:area_square_m":6599652.02818,
+    "geom:area_square_m":6599652.028179,
     "geom:bbox":"26.392212,59.399222,26.453527,59.432669",
     "geom:latitude":59.414958,
     "geom:longitude":26.422348,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8610
+        "ee-mamt:okood":"8610"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126057249
     ],
     "wof:country":"EE",
     "wof:created":1595459533,
-    "wof:geomhash":"0316a10bb63abc7563df879e3161570b",
+    "wof:geomhash":"39268b87d34fa3739b81a814e06db981",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676665,
+    "wof:lastmodified":1695876937,
     "wof:name":"Ubja",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

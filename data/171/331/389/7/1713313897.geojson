@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00f6llatsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001594,
-    "geom:area_square_m":10319043.772304,
+    "geom:area_square_m":10319043.772301,
     "geom:bbox":"26.787034,58.401563,26.870887,58.441667",
     "geom:latitude":58.421522,
     "geom:longitude":26.825076,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5310
+        "ee-mamt:okood":"5310"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226218375
     ],
     "wof:country":"EE",
     "wof:created":1595460860,
-    "wof:geomhash":"968a89a6a97142db76ba48a56200b3a6",
+    "wof:geomhash":"0a667ba3c554f24f29be4c99e7300791",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676463,
+    "wof:lastmodified":1695876912,
     "wof:name":"M\u00f6llatsi",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

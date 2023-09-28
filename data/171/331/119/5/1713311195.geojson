@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u0151isamaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001074,
-    "geom:area_square_m":6861525.74663,
+    "geom:area_square_m":6861525.746628,
     "geom:bbox":"24.498315,58.871826,24.600089,58.898835",
     "geom:latitude":58.88417,
     "geom:longitude":24.551302,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5133
+        "ee-mamt:okood":"5133"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125934963
     ],
     "wof:country":"EE",
     "wof:created":1595460284,
-    "wof:geomhash":"2d4004f3df3c7ba511c0fd72599b629a",
+    "wof:geomhash":"26961101c452af983a06ebc468ed9bb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662809,
+    "wof:lastmodified":1695876800,
     "wof:name":"M\u0151isamaa",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

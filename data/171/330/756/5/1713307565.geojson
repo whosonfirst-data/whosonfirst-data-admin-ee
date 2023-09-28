@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kogula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001727,
-    "geom:area_square_m":11235033.290842,
+    "geom:area_square_m":11235033.290838,
     "geom:bbox":"22.281915,58.236607,22.355361,58.300058",
     "geom:latitude":58.259753,
     "geom:longitude":22.312038,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3258
+        "ee-mamt:okood":"3258"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326501173
     ],
     "wof:country":"EE",
     "wof:created":1595459434,
-    "wof:geomhash":"80bac1cdea9f25bce76b38e00b681194",
+    "wof:geomhash":"892c2ed9d59a1cec2ae065da0fb00ea9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672480,
+    "wof:lastmodified":1695876895,
     "wof:name":"Kogula",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

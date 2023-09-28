@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tormi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00028,
-    "geom:area_square_m":1805742.714293,
+    "geom:area_square_m":1805742.714294,
     "geom:bbox":"26.570402,58.558516,26.600713,58.584185",
     "geom:latitude":58.571832,
     "geom:longitude":26.586436,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8334
+        "ee-mamt:okood":"8334"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276799021
     ],
     "wof:country":"EE",
     "wof:created":1595460663,
-    "wof:geomhash":"67c69b9359cca253a8512fbd0982570d",
+    "wof:geomhash":"d8378b07caa12f26b302edc04450ad46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676450,
+    "wof:lastmodified":1695876909,
     "wof:name":"Tormi",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

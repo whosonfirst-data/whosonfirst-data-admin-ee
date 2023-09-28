@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Liimala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000391,
-    "geom:area_square_m":2459090.401206,
+    "geom:area_square_m":2459090.401208,
     "geom:bbox":"26.954188,59.420333,26.996573,59.43669",
     "geom:latitude":59.429691,
     "geom:longitude":26.974818,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4347
+        "ee-mamt:okood":"4347"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343965425
     ],
     "wof:country":"EE",
     "wof:created":1595460451,
-    "wof:geomhash":"f120c24decef3e72987d7de1e54d7625",
+    "wof:geomhash":"3454ba359a842dd9a2eaa291dd0b333a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660787,
+    "wof:lastmodified":1695876736,
     "wof:name":"Liimala",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Niguli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002389,
-    "geom:area_square_m":15561286.448631,
+    "geom:area_square_m":15561286.448632,
     "geom:bbox":"25.332982,58.201777,25.447319,58.240241",
     "geom:latitude":58.217111,
     "geom:longitude":25.395857,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5411
+        "ee-mamt:okood":"5411"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360050325
     ],
     "wof:country":"EE",
     "wof:created":1595460394,
-    "wof:geomhash":"03884dafe49659c0243f88205ebe717e",
+    "wof:geomhash":"3d5ad522ce48fe81b81515e23872af42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661288,
+    "wof:lastmodified":1695876751,
     "wof:name":"Niguli",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

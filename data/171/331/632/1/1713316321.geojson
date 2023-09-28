@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tonja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000566,
-    "geom:area_square_m":3710981.116363,
+    "geom:area_square_m":3710981.116366,
     "geom:bbox":"27.574402,57.962212,27.612399,57.991631",
     "geom:latitude":57.977767,
     "geom:longitude":27.595544,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8286
+        "ee-mamt:okood":"8286"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226529411
     ],
     "wof:country":"EE",
     "wof:created":1595461403,
-    "wof:geomhash":"1085131e02d88acea24fefb80a4aa455",
+    "wof:geomhash":"3e652e7513948133741e3096141c95b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663633,
+    "wof:lastmodified":1695876837,
     "wof:name":"Tonja",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"J\u00fcri Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000564,
-    "geom:area_square_m":3553473.661698,
+    "geom:area_square_m":3553473.661697,
     "geom:bbox":"24.880564,59.345447,24.935091,59.366156",
     "geom:latitude":59.355785,
     "geom:longitude":24.907529,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "J\u00fcri alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2377
+        "ee-mamt:okood":"2377"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815183
     ],
     "wof:country":"EE",
     "wof:created":1595459014,
-    "wof:geomhash":"9dd5dadbd31b8473fa81c74befa9df0c",
+    "wof:geomhash":"83c63cdde03d218c40f6c7ed33ef56ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661469,
+    "wof:lastmodified":1695876761,
     "wof:name":"J\u00fcri",
     "wof:parent_id":1713305683,
     "wof:placetype":"localadmin",

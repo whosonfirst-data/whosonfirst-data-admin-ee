@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kasepere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001157,
-    "geom:area_square_m":7323174.903054,
+    "geom:area_square_m":7323174.903052,
     "geom:bbox":"24.129352,59.193787,24.208035,59.229623",
     "geom:latitude":59.21349,
     "geom:longitude":24.16986,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2797
+        "ee-mamt:okood":"2797"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008357
     ],
     "wof:country":"EE",
     "wof:created":1595459521,
-    "wof:geomhash":"f4c4ce9b53985fb41f721ee50e260a83",
+    "wof:geomhash":"53cb6aec500cd164aba0c366f6e0af1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663287,
+    "wof:lastmodified":1695876813,
     "wof:name":"Kasepere",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

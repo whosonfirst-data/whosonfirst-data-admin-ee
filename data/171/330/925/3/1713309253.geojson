@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Reiu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002134,
-    "geom:area_square_m":13856397.095089,
+    "geom:area_square_m":13856397.095101,
     "geom:bbox":"24.56227,58.28671,24.618691,58.36",
     "geom:latitude":58.328159,
     "geom:longitude":24.597249,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6925
+        "ee-mamt:okood":"6925"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125879305
     ],
     "wof:country":"EE",
     "wof:created":1595459843,
-    "wof:geomhash":"9d7df984bdcc21ab1de1b9552a55cf5d",
+    "wof:geomhash":"d3ddda01a13fd0f08935647cf5cb0ca6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663038,
+    "wof:lastmodified":1695876808,
     "wof:name":"Reiu",
     "wof:parent_id":1713305741,
     "wof:placetype":"localadmin",

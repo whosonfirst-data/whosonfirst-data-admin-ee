@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hirmuse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00058,
-    "geom:area_square_m":3660467.599095,
+    "geom:area_square_m":3660467.599089,
     "geom:bbox":"26.948532,59.320326,27.007746,59.345554",
     "geom:latitude":59.333533,
     "geom:longitude":26.977016,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1871
+        "ee-mamt:okood":"1871"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310206829
     ],
     "wof:country":"EE",
     "wof:created":1595460360,
-    "wof:geomhash":"c7b3ad60a43797d8266f21e71f926dd3",
+    "wof:geomhash":"c1a7edbfe78e1056ca5f18cf7361a9e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660786,
+    "wof:lastmodified":1695876736,
     "wof:name":"Hirmuse",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

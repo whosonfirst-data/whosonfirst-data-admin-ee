@@ -8,7 +8,7 @@
     "ee-mamt:animi":"N\u00fcri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.009914,
-    "geom:area_square_m":62587772.017813,
+    "geom:area_square_m":62587772.017821,
     "geom:bbox":"26.741538,59.239533,26.909404,59.347372",
     "geom:latitude":59.298903,
     "geom:longitude":26.817825,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5569
+        "ee-mamt:okood":"5569"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209016013
     ],
     "wof:country":"EE",
     "wof:created":1595460707,
-    "wof:geomhash":"b3c01cd8c48ab8d70e046a8d17855074",
+    "wof:geomhash":"4ac99adce99e7f2dc1f2d8187c50ba3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660788,
+    "wof:lastmodified":1695876736,
     "wof:name":"N\u00fcri",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

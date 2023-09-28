@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Emmaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000555,
-    "geom:area_square_m":3564993.271252,
+    "geom:area_square_m":3564993.271253,
     "geom:bbox":"22.558576,58.691526,22.618165,58.712732",
     "geom:latitude":58.70346,
     "geom:longitude":22.586302,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1589
+        "ee-mamt:okood":"1589"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125862985
     ],
     "wof:country":"EE",
     "wof:created":1595459742,
-    "wof:geomhash":"eed38f6db9e9ef6a406ac55c4847f2fe",
+    "wof:geomhash":"a1a49f5bea215b854259c6eac46b4349",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666487,
+    "wof:lastmodified":1695876862,
     "wof:name":"Emmaste",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

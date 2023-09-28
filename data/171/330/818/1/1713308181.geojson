@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Praakli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000482,
-    "geom:area_square_m":3137967.104865,
+    "geom:area_square_m":3137967.104866,
     "geom:bbox":"22.542079,58.255007,22.585148,58.277192",
     "geom:latitude":58.265603,
     "geom:longitude":22.563545,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6343
+        "ee-mamt:okood":"6343"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344127937
     ],
     "wof:country":"EE",
     "wof:created":1595459577,
-    "wof:geomhash":"558cd75eb17b6629a33c9d6cc427ecc5",
+    "wof:geomhash":"1120e505e88867f0b0e3237f2b1ada9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672546,
+    "wof:lastmodified":1695876899,
     "wof:name":"Praakli",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

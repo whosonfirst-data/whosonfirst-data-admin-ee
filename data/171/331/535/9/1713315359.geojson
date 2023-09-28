@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karkuse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002262,
-    "geom:area_square_m":14320191.815232,
+    "geom:area_square_m":14320191.815237,
     "geom:bbox":"25.935575,59.18124,26.026345,59.220899",
     "geom:latitude":59.202184,
     "geom:longitude":25.984714,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2762
+        "ee-mamt:okood":"2762"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226227763
     ],
     "wof:country":"EE",
     "wof:created":1595461195,
-    "wof:geomhash":"b86be9528fb51da73366d51f162350d8",
+    "wof:geomhash":"de2ec541a0f9faf0c0f3bbc4af332c4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676597,
+    "wof:lastmodified":1695876928,
     "wof:name":"Karkuse",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

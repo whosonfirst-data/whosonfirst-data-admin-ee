@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Taaravainu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000563,
-    "geom:area_square_m":3549676.3959,
+    "geom:area_square_m":3549676.395897,
     "geom:bbox":"26.31015,59.320103,26.346549,59.350145",
     "geom:latitude":59.334374,
     "geom:longitude":26.331456,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8001
+        "ee-mamt:okood":"8001"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936367
     ],
     "wof:country":"EE",
     "wof:created":1595460933,
-    "wof:geomhash":"1dbd5bcbaa43d40aaa230e1913b3a004",
+    "wof:geomhash":"2b7ed69933b27af30307c5f0b88d4358",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676666,
+    "wof:lastmodified":1695876937,
     "wof:name":"Taaravainu",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

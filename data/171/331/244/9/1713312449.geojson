@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Taali K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000846,
-    "geom:area_square_m":5473303.067625,
+    "geom:area_square_m":5473303.067624,
     "geom:bbox":"24.744094,58.430633,24.795379,58.463596",
     "geom:latitude":58.446628,
     "geom:longitude":24.771529,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7996
+        "ee-mamt:okood":"7996"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125888733
     ],
     "wof:country":"EE",
     "wof:created":1595460546,
-    "wof:geomhash":"0674d8373fdb0ec26139a2b3c3ddfb49",
+    "wof:geomhash":"e33cf0d1a65d2726e07046191ccc6708",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663377,
+    "wof:lastmodified":1695876820,
     "wof:name":"Taali",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

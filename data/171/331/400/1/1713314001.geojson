@@ -8,13 +8,13 @@
     "ee-mamt:animi":"R\u00e4ni Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000755,
-    "geom:area_square_m":4899237.223322,
+    "geom:area_square_m":4899237.223324,
     "geom:bbox":"26.622901,58.342348,26.678128,58.367083",
     "geom:latitude":58.353276,
     "geom:longitude":26.652349,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "R\u00e4ni alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7214
+        "ee-mamt:okood":"7214"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935813
     ],
     "wof:country":"EE",
     "wof:created":1595460881,
-    "wof:geomhash":"9bd7db2443d19061ce1ef438bbc1731f",
+    "wof:geomhash":"e18dc45282753439f59f95d27634cb6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676686,
+    "wof:lastmodified":1695876940,
     "wof:name":"R\u00e4ni",
     "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Linnape K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001298,
-    "geom:area_square_m":8212064.324633,
+    "geom:area_square_m":8212064.324632,
     "geom:bbox":"25.787631,59.198804,25.857443,59.230623",
     "geom:latitude":59.214913,
     "geom:longitude":25.817133,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4403
+        "ee-mamt:okood":"4403"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209300073
     ],
     "wof:country":"EE",
     "wof:created":1595461152,
-    "wof:geomhash":"6890525c905c4ddf8eb8cc94a82b67fc",
+    "wof:geomhash":"5f6f6a2752bec8d80fe64502d987598f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676592,
+    "wof:lastmodified":1695876927,
     "wof:name":"Linnape",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

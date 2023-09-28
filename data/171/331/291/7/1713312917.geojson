@@ -20,7 +20,7 @@
         "Viljandi linn"
     ],
     "label:est_x_preferred_placetype":[
-        "linn"
+        "linna vald"
     ],
     "lbl:latitude":58.357717,
     "lbl:longitude":25.583306,
@@ -53,15 +53,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":897
+        "ee-mamt:okood":"897"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815089,
         1713305641
     ],
     "wof:country":"EE",
     "wof:created":1595460651,
-    "wof:geomhash":"b25ce560c9cc4e69d5625da7fa6115a1",
+    "wof:geomhash":"78c18e7aa60f691421417e1a481c97ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +79,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502250,
+    "wof:lastmodified":1695877023,
     "wof:name":"Viljandi",
     "wof:parent_id":1713305641,
     "wof:placetype":"localadmin",

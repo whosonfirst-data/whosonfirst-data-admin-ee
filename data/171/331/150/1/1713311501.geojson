@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Liigvalla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002893,
-    "geom:area_square_m":18421087.550119,
+    "geom:area_square_m":18421087.550115,
     "geom:bbox":"26.088085,58.983506,26.172779,59.03311",
     "geom:latitude":59.00948,
     "geom:longitude":26.134746,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4339
+        "ee-mamt:okood":"4339"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126017677
     ],
     "wof:country":"EE",
     "wof:created":1595460354,
-    "wof:geomhash":"1f80218a230c0fb38d086238470fbd37",
+    "wof:geomhash":"3a16986910157a392c8dfd9a43fcaec3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676524,
+    "wof:lastmodified":1695876918,
     "wof:name":"Liigvalla",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

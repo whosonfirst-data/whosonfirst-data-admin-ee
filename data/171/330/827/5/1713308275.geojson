@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vainupea K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001285,
-    "geom:area_square_m":8045055.907946,
+    "geom:area_square_m":8045055.907947,
     "geom:bbox":"26.194492,59.563961,26.362786,59.822014",
     "geom:latitude":59.579585,
     "geom:longitude":26.242223,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8888
+        "ee-mamt:okood":"8888"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125951047
     ],
     "wof:country":"EE",
     "wof:created":1595459604,
-    "wof:geomhash":"18bd7d28c09ba6ffcae4ae077281224f",
+    "wof:geomhash":"c81523d67736f741b89063be03db5437",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678016,
+    "wof:lastmodified":1695877009,
     "wof:name":"Vainupea",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"\u00dcrjaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000757,
-    "geom:area_square_m":4802641.957481,
+    "geom:area_square_m":4802641.957483,
     "geom:bbox":"24.310329,59.094251,24.361187,59.125414",
     "geom:latitude":59.109413,
     "geom:longitude":24.333258,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9846
+        "ee-mamt:okood":"9846"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310322883
     ],
     "wof:country":"EE",
     "wof:created":1595459494,
-    "wof:geomhash":"0e87980297280a03488ae14ddbab40da",
+    "wof:geomhash":"a9149fcc84aefa9cb5ff064f801f399b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663232,
+    "wof:lastmodified":1695876811,
     "wof:name":"\u00dcrjaste",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

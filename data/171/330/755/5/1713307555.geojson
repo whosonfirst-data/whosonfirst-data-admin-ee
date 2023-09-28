@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Asva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001351,
-    "geom:area_square_m":8755032.074175,
+    "geom:area_square_m":8755032.074176,
     "geom:bbox":"23.000056,58.377627,23.094623,58.41641",
     "geom:latitude":58.397638,
     "geom:longitude":23.051705,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1429
+        "ee-mamt:okood":"1429"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226822857
     ],
     "wof:country":"EE",
     "wof:created":1595459432,
-    "wof:geomhash":"5c9c575148198f0305ebd312e27d135c",
+    "wof:geomhash":"047f5db66199055fc0e30aada80c69de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672527,
+    "wof:lastmodified":1695876898,
     "wof:name":"Asva",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

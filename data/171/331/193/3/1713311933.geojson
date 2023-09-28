@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kadik\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000476,
-    "geom:area_square_m":3034555.803247,
+    "geom:area_square_m":3034555.803246,
     "geom:bbox":"26.385886,58.932949,26.435785,58.948435",
     "geom:latitude":58.940096,
     "geom:longitude":26.4113,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2480
+        "ee-mamt:okood":"2480"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276437553
     ],
     "wof:country":"EE",
     "wof:created":1595460448,
-    "wof:geomhash":"89e41485affd05b3ad9df32d31637e68",
+    "wof:geomhash":"6f2f955655451a17e0f8a80b965ee297",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676527,
+    "wof:lastmodified":1695876919,
     "wof:name":"Kadik\u00fcla",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raikk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001362,
-    "geom:area_square_m":8685826.794472,
+    "geom:area_square_m":8685826.794471,
     "geom:bbox":"24.702672,58.922665,24.778779,58.96039",
     "geom:latitude":58.940514,
     "geom:longitude":24.737472,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6758
+        "ee-mamt:okood":"6758"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126003931
     ],
     "wof:country":"EE",
     "wof:created":1595460343,
-    "wof:geomhash":"eb48b15a4aa5990f656df234d7dfc267",
+    "wof:geomhash":"605d64e0832ffd64d31de14b6bb6ff4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676700,
+    "wof:lastmodified":1695876941,
     "wof:name":"Raikk\u00fcla",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

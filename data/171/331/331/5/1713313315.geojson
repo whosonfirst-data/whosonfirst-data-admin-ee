@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001173,
-    "geom:area_square_m":7453947.244948,
+    "geom:area_square_m":7453947.244947,
     "geom:bbox":"24.764311,59.056185,24.83902,59.087423",
     "geom:latitude":59.07236,
     "geom:longitude":24.800634,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3569
+        "ee-mamt:okood":"3569"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243239943
     ],
     "wof:country":"EE",
     "wof:created":1595460736,
-    "wof:geomhash":"114f99d4c5a8833f2125aeaeb244e6ac",
+    "wof:geomhash":"1258542659ee952f449f2eb2cba2372a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676709,
+    "wof:lastmodified":1695876943,
     "wof:name":"Kuku",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

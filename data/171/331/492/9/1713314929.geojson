@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sillam\u00e4e Linn",
     "ee-mamt:tyyp":4,
     "geom:area":0.001881,
-    "geom:area_square_m":11842478.77939,
+    "geom:area_square_m":11842478.779394,
     "geom:bbox":"27.702803,59.380738,27.806803,59.423876",
     "geom:latitude":59.399122,
     "geom:longitude":27.741929,
@@ -20,7 +20,7 @@
         "Sillam\u00e4e linn"
     ],
     "label:est_x_preferred_placetype":[
-        "linn"
+        "linna vald"
     ],
     "lbl:latitude":59.400085,
     "lbl:longitude":27.73837,
@@ -42,20 +42,21 @@
     "wof:belongsto":[
         102191581,
         85633135,
-        1713305729,
-        85683059
+        85683059,
+        1713305729
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":735
+        "ee-mamt:okood":"735"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815211,
         1713305729
     ],
     "wof:country":"EE",
     "wof:created":1595461096,
-    "wof:geomhash":"37392de1680176a20f237df99324ff60",
+    "wof:geomhash":"c09dae59750c2dd66fa383d91be3af0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +73,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1607984265,
+    "wof:lastmodified":1695877014,
     "wof:name":"Sillam\u00e4e",
     "wof:parent_id":1713305729,
     "wof:placetype":"localadmin",

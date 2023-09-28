@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saha K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00145,
-    "geom:area_square_m":9120151.521186,
+    "geom:area_square_m":9120151.521188,
     "geom:bbox":"24.970217,59.401648,25.042342,59.443552",
     "geom:latitude":59.419665,
     "geom:longitude":25.000023,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7335
+        "ee-mamt:okood":"7335"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125850377
     ],
     "wof:country":"EE",
     "wof:created":1595460903,
-    "wof:geomhash":"e012b99e9ca0c92e326013ea2bedf12c",
+    "wof:geomhash":"711750bfea8ace9d3bd4e5191e7db9e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661373,
+    "wof:lastmodified":1695876756,
     "wof:name":"Saha",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

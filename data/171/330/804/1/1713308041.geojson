@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u0151rgem\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000579,
-    "geom:area_square_m":3651344.428349,
+    "geom:area_square_m":3651344.428348,
     "geom:bbox":"26.239038,59.332261,26.293082,59.34837",
     "geom:latitude":59.34039,
     "geom:longitude":26.268239,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3790
+        "ee-mamt:okood":"3790"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327224477
     ],
     "wof:country":"EE",
     "wof:created":1595459545,
-    "wof:geomhash":"d2fa3ccf2d2aeda241c2be0ed7789568",
+    "wof:geomhash":"2948513373a5ab947f15637852cf49a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676667,
+    "wof:lastmodified":1695876937,
     "wof:name":"K\u0151rgem\u00e4e",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

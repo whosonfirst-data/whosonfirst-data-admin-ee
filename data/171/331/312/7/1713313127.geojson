@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koorvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000882,
-    "geom:area_square_m":5758955.418555,
+    "geom:area_square_m":5758955.418557,
     "geom:bbox":"26.934429,58.113577,26.992611,58.140974",
     "geom:latitude":58.128703,
     "geom:longitude":26.962793,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3422
+        "ee-mamt:okood":"3422"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242960373
     ],
     "wof:country":"EE",
     "wof:created":1595460696,
-    "wof:geomhash":"109c3ce95f83cc94bfeb8face49a221d",
+    "wof:geomhash":"ea8c666fc246645185aba7d32c094420",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676951,
+    "wof:lastmodified":1695876974,
     "wof:name":"Koorvere",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

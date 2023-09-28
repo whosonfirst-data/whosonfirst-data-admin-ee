@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiruvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004371,
-    "geom:area_square_m":27732651.075118,
+    "geom:area_square_m":27732651.075122,
     "geom:bbox":"25.316629,59.103986,25.451845,59.158241",
     "geom:latitude":59.132315,
     "geom:longitude":25.386291,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3156
+        "ee-mamt:okood":"3156"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193033617
     ],
     "wof:country":"EE",
     "wof:created":1595459150,
-    "wof:geomhash":"fbcbb43d37a2d80deabcba6e00de9ad8",
+    "wof:geomhash":"7b70549021db655f6e06d33c516e35cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661344,
+    "wof:lastmodified":1695876755,
     "wof:name":"Kiruvere",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

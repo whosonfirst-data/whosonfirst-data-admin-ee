@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Iira K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001165,
-    "geom:area_square_m":7423426.637063,
+    "geom:area_square_m":7423426.637064,
     "geom:bbox":"24.702753,58.963462,24.75761,59.006796",
     "geom:latitude":58.987355,
     "geom:longitude":24.733743,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2020
+        "ee-mamt:okood":"2020"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460304,
-    "wof:geomhash":"374a8b071105743ea48e2f1277cd7388",
+    "wof:geomhash":"2bdce68333544003261abab292d1d774",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676699,
+    "wof:lastmodified":1695876940,
     "wof:name":"Iira",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

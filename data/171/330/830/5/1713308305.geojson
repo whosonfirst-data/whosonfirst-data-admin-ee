@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002571,
-    "geom:area_square_m":16123394.123811,
+    "geom:area_square_m":16123394.123808,
     "geom:bbox":"26.242411,59.50267,26.336234,59.554481",
     "geom:latitude":59.527134,
     "geom:longitude":26.282974,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3173
+        "ee-mamt:okood":"3173"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259803607
     ],
     "wof:country":"EE",
     "wof:created":1595459611,
-    "wof:geomhash":"d8e43df7810bcdca5d93dcd22ea792c9",
+    "wof:geomhash":"dfb263a1469b2408fbe36afd35913be1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678018,
+    "wof:lastmodified":1695877010,
     "wof:name":"Kiva",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

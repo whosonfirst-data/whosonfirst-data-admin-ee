@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Parivere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004194,
-    "geom:area_square_m":26983970.53209,
+    "geom:area_square_m":26983970.532089,
     "geom:bbox":"23.822838,58.60915,23.980046,58.678594",
     "geom:latitude":58.642245,
     "geom:longitude":23.896283,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6013
+        "ee-mamt:okood":"6013"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226744359
     ],
     "wof:country":"EE",
     "wof:created":1595459812,
-    "wof:geomhash":"b4d83e816cc232ab8736bd0416246281",
+    "wof:geomhash":"6ecc20980bb2a1f471897223bab632ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661614,
+    "wof:lastmodified":1695876769,
     "wof:name":"Parivere",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

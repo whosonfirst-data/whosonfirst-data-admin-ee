@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ammuta K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001611,
-    "geom:area_square_m":10267528.754819,
+    "geom:area_square_m":10267528.75482,
     "geom:bbox":"25.81767,58.965814,25.897687,59.002283",
     "geom:latitude":58.982727,
     "geom:longitude":25.860133,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1252
+        "ee-mamt:okood":"1252"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1210016921
     ],
     "wof:country":"EE",
     "wof:created":1595459241,
-    "wof:geomhash":"374983dd41d0a52b8e94a2804dcf04bb",
+    "wof:geomhash":"8b650f6eafcdcc1a439aca0c4b56f244",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676628,
+    "wof:lastmodified":1695876933,
     "wof:name":"Ammuta",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

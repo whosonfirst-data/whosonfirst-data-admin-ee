@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Perametsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002245,
-    "geom:area_square_m":14403556.064437,
+    "geom:area_square_m":14403556.064436,
     "geom:bbox":"26.910016,58.719714,26.995424,58.770242",
     "geom:latitude":58.746964,
     "geom:longitude":26.955261,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6111
+        "ee-mamt:okood":"6111"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310104733
     ],
     "wof:country":"EE",
     "wof:created":1595460863,
-    "wof:geomhash":"a38c68955318857e0da49b9a107a96f5",
+    "wof:geomhash":"ea19e29006c8a5f0d34bf6e52be11d63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660827,
+    "wof:lastmodified":1695876736,
     "wof:name":"Perametsa",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

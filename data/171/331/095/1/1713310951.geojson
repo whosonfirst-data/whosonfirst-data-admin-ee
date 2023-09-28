@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vareste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000689,
-    "geom:area_square_m":4520944.879633,
+    "geom:area_square_m":4520944.87963,
     "geom:bbox":"27.195919,57.953179,27.236326,57.990217",
     "geom:latitude":57.971654,
     "geom:longitude":27.216267,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9080
+        "ee-mamt:okood":"9080"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343845061
     ],
     "wof:country":"EE",
     "wof:created":1595460234,
-    "wof:geomhash":"cc6987c337217ce30a51556e5192d50d",
+    "wof:geomhash":"dc9844378114c4a675d40e0565a9192e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676981,
+    "wof:lastmodified":1695876977,
     "wof:name":"Vareste",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

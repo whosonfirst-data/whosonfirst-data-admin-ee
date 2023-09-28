@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pikakannu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000556,
-    "geom:area_square_m":3657291.263968,
+    "geom:area_square_m":3657291.26397,
     "geom:bbox":"27.219546,57.855915,27.255413,57.888486",
     "geom:latitude":57.874528,
     "geom:longitude":27.237244,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6212
+        "ee-mamt:okood":"6212"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226116541
     ],
     "wof:country":"EE",
     "wof:created":1595461408,
-    "wof:geomhash":"67e1c510568b3e2498519f4f8f449812",
+    "wof:geomhash":"32cec7dd2dcd65a1a6431f077b4249fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660233,
+    "wof:lastmodified":1695876722,
     "wof:name":"Pikakannu",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

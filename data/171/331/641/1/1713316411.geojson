@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Marga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000661,
-    "geom:area_square_m":4347705.873179,
+    "geom:area_square_m":4347705.87318,
     "geom:bbox":"27.423961,57.844964,27.462951,57.875867",
     "geom:latitude":57.858466,
     "geom:longitude":27.442934,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4784
+        "ee-mamt:okood":"4784"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360161787
     ],
     "wof:country":"EE",
     "wof:created":1595461421,
-    "wof:geomhash":"28d6e42a1c1ee19bd5c3512ccb83f36a",
+    "wof:geomhash":"e47a2acd85fe09631f072a87b912b8c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660248,
+    "wof:lastmodified":1695876724,
     "wof:name":"Marga",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pohla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0015,
-    "geom:area_square_m":9506466.062402,
+    "geom:area_square_m":9506466.0624,
     "geom:bbox":"24.363439,59.141764,24.428306,59.187242",
     "geom:latitude":59.167516,
     "geom:longitude":24.394635,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6308
+        "ee-mamt:okood":"6308"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327152187
     ],
     "wof:country":"EE",
     "wof:created":1595459493,
-    "wof:geomhash":"166bd956a7db114509a7e70412ae1611",
+    "wof:geomhash":"840c1f10832452227e659c7b9f4f0cd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663230,
+    "wof:lastmodified":1695876811,
     "wof:name":"Pohla",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

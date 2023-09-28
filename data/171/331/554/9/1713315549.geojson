@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaugu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000482,
-    "geom:area_square_m":3186256.584011,
+    "geom:area_square_m":3186256.584012,
     "geom:bbox":"26.780755,57.706994,26.821388,57.729393",
     "geom:latitude":57.718787,
     "geom:longitude":26.800487,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2866
+        "ee-mamt:okood":"2866"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360158751
     ],
     "wof:country":"EE",
     "wof:created":1595461244,
-    "wof:geomhash":"368d12b9fa2fa9b54a084c945d30a3ba",
+    "wof:geomhash":"24b934129e9efb02b8a5f94279954ac7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676849,
+    "wof:lastmodified":1695876965,
     "wof:name":"Kaugu",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

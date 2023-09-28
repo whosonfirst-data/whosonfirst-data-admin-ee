@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Keelva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00126,
-    "geom:area_square_m":7940461.117026,
+    "geom:area_square_m":7940461.117029,
     "geom:bbox":"24.29203,59.340825,24.370372,59.371759",
     "geom:latitude":59.357442,
     "geom:longitude":24.329145,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2909
+        "ee-mamt:okood":"2909"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327043865
     ],
     "wof:country":"EE",
     "wof:created":1595460867,
-    "wof:geomhash":"aab6c762d2ef715cdeb3576a528e0329",
+    "wof:geomhash":"54162da304584bc44019158cf4c0c2e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663304,
+    "wof:lastmodified":1695876818,
     "wof:name":"Keelva",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viita K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00023,
-    "geom:area_square_m":1469007.717726,
+    "geom:area_square_m":1469007.717727,
     "geom:bbox":"22.33074,58.897276,22.362352,58.912705",
     "geom:latitude":58.90524,
     "geom:longitude":22.344082,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9303
+        "ee-mamt:okood":"9303"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209109381
     ],
     "wof:country":"EE",
     "wof:created":1595460076,
-    "wof:geomhash":"74e3d41d52cde3f6c19013cf8e472596",
+    "wof:geomhash":"b2452bfc3b859c811a92b1b136e30fa1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666258,
+    "wof:lastmodified":1695876846,
     "wof:name":"Viita",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

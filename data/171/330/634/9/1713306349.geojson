@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Leistu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001025,
-    "geom:area_square_m":6498919.771971,
+    "geom:area_square_m":6498919.77197,
     "geom:bbox":"25.306634,59.148276,25.376165,59.179547",
     "geom:latitude":59.163816,
     "geom:longitude":25.34186,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4242
+        "ee-mamt:okood":"4242"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310010051
     ],
     "wof:country":"EE",
     "wof:created":1595459136,
-    "wof:geomhash":"4a7197525908fbce43c0f6bc76941f2c",
+    "wof:geomhash":"4182f9ac95860e105ce8883d8ac4f57c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661343,
+    "wof:lastmodified":1695876755,
     "wof:name":"Leistu",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

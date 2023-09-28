@@ -8,13 +8,13 @@
     "ee-mamt:animi":"K\u00fclitse Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.001292,
-    "geom:area_square_m":8386445.602892,
+    "geom:area_square_m":8386445.602893,
     "geom:bbox":"26.584383,58.307214,26.653431,58.35019",
     "geom:latitude":58.327762,
     "geom:longitude":26.615277,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "K\u00fclitse alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3986
+        "ee-mamt:okood":"3986"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890339
     ],
     "wof:country":"EE",
     "wof:created":1595460875,
-    "wof:geomhash":"6ff48d53291c077dd9f69ccae49243b3",
+    "wof:geomhash":"d099f04bfb3e5c90d0f0b9c7616bb789",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676686,
+    "wof:lastmodified":1695876940,
     "wof:name":"K\u00fclitse",
     "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",

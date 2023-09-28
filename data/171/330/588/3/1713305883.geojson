@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lehmja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000761,
-    "geom:area_square_m":4792198.70008,
+    "geom:area_square_m":4792198.700079,
     "geom:bbox":"24.843548,59.352049,24.902595,59.374623",
     "geom:latitude":59.364687,
     "geom:longitude":24.871821,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4208
+        "ee-mamt:okood":"4208"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242695509
     ],
     "wof:country":"EE",
     "wof:created":1595459020,
-    "wof:geomhash":"aae777795be78fceff58ce8c79488fb0",
+    "wof:geomhash":"f5ebf5cf84f4078bcfd37d4920d47861",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661469,
+    "wof:lastmodified":1695876761,
     "wof:name":"Lehmja",
     "wof:parent_id":1713305683,
     "wof:placetype":"localadmin",

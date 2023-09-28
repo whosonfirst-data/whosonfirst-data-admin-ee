@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u00fclaaseme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001383,
-    "geom:area_square_m":8988902.305846,
+    "geom:area_square_m":8988902.305848,
     "geom:bbox":"26.377869,58.263575,26.447186,58.298493",
     "geom:latitude":58.282216,
     "geom:longitude":26.413922,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3973
+        "ee-mamt:okood":"3973"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344223255
     ],
     "wof:country":"EE",
     "wof:created":1595460714,
-    "wof:geomhash":"864e44b3e991737391b59303200a0c69",
+    "wof:geomhash":"d85f9d37283cdf79fcaabcb283dea591",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661897,
+    "wof:lastmodified":1695876786,
     "wof:name":"K\u00fclaaseme",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

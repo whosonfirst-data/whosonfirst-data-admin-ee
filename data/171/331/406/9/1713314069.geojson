@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rakvere Linn",
     "ee-mamt:tyyp":4,
     "geom:area":0.001695,
-    "geom:area_square_m":10687933.664424,
+    "geom:area_square_m":10687933.664419,
     "geom:bbox":"26.325634,59.322488,26.397505,59.367005",
     "geom:latitude":59.345302,
     "geom:longitude":26.362904,
@@ -20,7 +20,7 @@
         "Rakvere linn"
     ],
     "label:est_x_preferred_placetype":[
-        "linn"
+        "linna vald"
     ],
     "lbl:latitude":59.342347,
     "lbl:longitude":26.360441,
@@ -42,20 +42,21 @@
     "wof:belongsto":[
         102191581,
         85633135,
-        1713305667,
-        85683049
+        85683049,
+        1713305667
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":663
+        "ee-mamt:okood":"663"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101839837,
         1713305667
     ],
     "wof:country":"EE",
     "wof:created":1595460896,
-    "wof:geomhash":"5de5b79d9c3b6e3d90182aa7f4ca5170",
+    "wof:geomhash":"6e4c834b73fff1b1b2e39246bf2634bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +73,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1607984074,
+    "wof:lastmodified":1695877014,
     "wof:name":"Rakvere",
     "wof:parent_id":1713305667,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vatsk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000522,
-    "geom:area_square_m":3396597.932856,
+    "geom:area_square_m":3396597.932854,
     "geom:bbox":"22.608907,58.264273,22.654275,58.284114",
     "geom:latitude":58.274085,
     "geom:longitude":22.627492,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9145
+        "ee-mamt:okood":"9145"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276843987
     ],
     "wof:country":"EE",
     "wof:created":1595459666,
-    "wof:geomhash":"72cbcf43e93e1747b875c7c7ac0a3337",
+    "wof:geomhash":"7003bf64fd61aeed6051286d3a10dda8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671847,
+    "wof:lastmodified":1695876872,
     "wof:name":"Vatsk\u00fcla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

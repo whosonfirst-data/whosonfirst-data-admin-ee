@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kalmak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000303,
-    "geom:area_square_m":1935078.904668,
+    "geom:area_square_m":1935078.904667,
     "geom:bbox":"26.945649,58.885534,26.990274,58.903692",
     "geom:latitude":58.894597,
     "geom:longitude":26.968387,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2616
+        "ee-mamt:okood":"2616"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209113597
     ],
     "wof:country":"EE",
     "wof:created":1595460517,
-    "wof:geomhash":"fd3a4f8b269bf633fc5b1fd87c5f67f1",
+    "wof:geomhash":"fd18f1cec222264d5edcb494fbbd1884",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660954,
+    "wof:lastmodified":1695876740,
     "wof:name":"Kalmak\u00fcla",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

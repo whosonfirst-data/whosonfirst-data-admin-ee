@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00141,
-    "geom:area_square_m":9246811.350857,
+    "geom:area_square_m":9246811.350856,
     "geom:bbox":"26.225008,57.952344,26.280711,57.998238",
     "geom:latitude":57.977305,
     "geom:longitude":26.247909,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8806
+        "ee-mamt:okood":"8806"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293267337
     ],
     "wof:country":"EE",
     "wof:created":1595460786,
-    "wof:geomhash":"c6e6323b3929d2c711f5340cc3d7101b",
+    "wof:geomhash":"a9ff8e47bbd03ec82553a4c86f4508dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661864,
+    "wof:lastmodified":1695876781,
     "wof:name":"Vaalu",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

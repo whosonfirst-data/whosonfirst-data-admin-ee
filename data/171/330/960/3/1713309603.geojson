@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Savimetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001108,
-    "geom:area_square_m":7147355.796193,
+    "geom:area_square_m":7147355.796192,
     "geom:bbox":"27.157814,58.5515,27.218422,58.579603",
     "geom:latitude":58.565048,
     "geom:longitude":27.185026,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7499
+        "ee-mamt:okood":"7499"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209491203
     ],
     "wof:country":"EE",
     "wof:created":1595459928,
-    "wof:geomhash":"dd1e76a2a272dcdd66f25e70741a15fe",
+    "wof:geomhash":"b1c5acf0e00c42ce36665eb555261ea2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660847,
+    "wof:lastmodified":1695876738,
     "wof:name":"Savimetsa",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

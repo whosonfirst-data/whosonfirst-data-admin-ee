@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kurista K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002359,
-    "geom:area_square_m":15140202.014719,
+    "geom:area_square_m":15140202.014717,
     "geom:bbox":"26.276789,58.701042,26.369585,58.773328",
     "geom:latitude":58.733904,
     "geom:longitude":26.32556,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3676
+        "ee-mamt:okood":"3676"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125934629
     ],
     "wof:country":"EE",
     "wof:created":1595460507,
-    "wof:geomhash":"e6a54fb9eb22af2330adb3c2f4266555",
+    "wof:geomhash":"efddd60558db5d012ac2f5fb7fe55150",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676560,
+    "wof:lastmodified":1695876924,
     "wof:name":"Kurista",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

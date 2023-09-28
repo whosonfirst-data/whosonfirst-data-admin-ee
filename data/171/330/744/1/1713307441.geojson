@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kehila K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001904,
-    "geom:area_square_m":12328275.977923,
+    "geom:area_square_m":12328275.977925,
     "geom:bbox":"22.023413,58.397922,22.091126,58.44526",
     "geom:latitude":58.420372,
     "geom:longitude":22.054951,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2922
+        "ee-mamt:okood":"2922"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243425237
     ],
     "wof:country":"EE",
     "wof:created":1595459401,
-    "wof:geomhash":"21a7275cd49b8ef54bb4d0845110bb53",
+    "wof:geomhash":"b5f66c88d70e42ae90972652421b2b45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672367,
+    "wof:lastmodified":1695876891,
     "wof:name":"Kehila",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

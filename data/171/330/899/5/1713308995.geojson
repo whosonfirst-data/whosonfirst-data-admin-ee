@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valuste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000714,
-    "geom:area_square_m":4589420.663479,
+    "geom:area_square_m":4589420.663478,
     "geom:bbox":"23.784102,58.655862,23.832818,58.685097",
     "geom:latitude":58.670202,
     "geom:longitude":23.809499,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8974
+        "ee-mamt:okood":"8974"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276895599
     ],
     "wof:country":"EE",
     "wof:created":1595459781,
-    "wof:geomhash":"fb55bdc7eb931254695e4059f3c76ce4",
+    "wof:geomhash":"c83dc80a6b1fd59cb669106cef930a33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661639,
+    "wof:lastmodified":1695876771,
     "wof:name":"Valuste",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

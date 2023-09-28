@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00f6ldre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002214,
-    "geom:area_square_m":14497476.67598,
+    "geom:area_square_m":14497476.675985,
     "geom:bbox":"25.869338,58.011249,25.97391,58.061673",
     "geom:latitude":58.032143,
     "geom:longitude":25.919413,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5304
+        "ee-mamt:okood":"5304"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125934987
     ],
     "wof:country":"EE",
     "wof:created":1595461163,
-    "wof:geomhash":"425f45e2f4fdcf1a21856a6312926315",
+    "wof:geomhash":"3ed58278669b0570d0fc19dfb0edd87f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661427,
+    "wof:lastmodified":1695876759,
     "wof:name":"M\u00f6ldre",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

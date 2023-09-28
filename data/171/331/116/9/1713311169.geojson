@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Manni K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000529,
-    "geom:area_square_m":3397901.506586,
+    "geom:area_square_m":3397901.506587,
     "geom:bbox":"24.393857,58.720926,24.42367,58.748562",
     "geom:latitude":58.735786,
     "geom:longitude":24.410988,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4775
+        "ee-mamt:okood":"4775"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327413049
     ],
     "wof:country":"EE",
     "wof:created":1595460279,
-    "wof:geomhash":"a7385923b019b22ce5a4fadf41ea433a",
+    "wof:geomhash":"5d8f1bacf8c6064ca0b5232de62775ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662810,
+    "wof:lastmodified":1695876801,
     "wof:name":"Manni",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

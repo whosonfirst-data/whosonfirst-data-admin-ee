@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ahisilla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001836,
-    "geom:area_square_m":11619534.112777,
+    "geom:area_square_m":11619534.112782,
     "geom:bbox":"25.133394,59.190997,25.185581,59.23911",
     "geom:latitude":59.213305,
     "geom:longitude":25.159905,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1113
+        "ee-mamt:okood":"1113"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310020043
     ],
     "wof:country":"EE",
     "wof:created":1595459153,
-    "wof:geomhash":"ac5391cfc9d59eb30f952f91b94acaf8",
+    "wof:geomhash":"3a54ab3c8c90670eb4f01e8210dd59be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661340,
+    "wof:lastmodified":1695876754,
     "wof:name":"Ahisilla",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

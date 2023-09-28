@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Linnam\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001053,
-    "geom:area_square_m":6920698.264382,
+    "geom:area_square_m":6920698.26438,
     "geom:bbox":"26.690939,57.856722,26.732676,57.895903",
     "geom:latitude":57.877147,
     "geom:longitude":26.711533,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4401
+        "ee-mamt:okood":"4401"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225804093
     ],
     "wof:country":"EE",
     "wof:created":1595461415,
-    "wof:geomhash":"70052814b95559ffb5be62734e279a8f",
+    "wof:geomhash":"887dea601717225c9a0b91e130f0c3bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660278,
+    "wof:lastmodified":1695876727,
     "wof:name":"Linnam\u00e4e",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

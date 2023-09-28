@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Palometsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000502,
-    "geom:area_square_m":3304324.010336,
+    "geom:area_square_m":3304324.010335,
     "geom:bbox":"27.08227,57.798427,27.127025,57.817766",
     "geom:latitude":57.808292,
     "geom:longitude":27.109463,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5941
+        "ee-mamt:okood":"5941"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293159737
     ],
     "wof:country":"EE",
     "wof:created":1595461377,
-    "wof:geomhash":"1c5b85dba9329c4685cc076ef8c6f57d",
+    "wof:geomhash":"fa4e1a7b86bf6049dc4ad21e54af2d93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660233,
+    "wof:lastmodified":1695876722,
     "wof:name":"Palometsa",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

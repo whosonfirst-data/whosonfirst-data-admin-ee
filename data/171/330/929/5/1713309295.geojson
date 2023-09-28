@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kadrina K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000438,
-    "geom:area_square_m":2813519.334235,
+    "geom:area_square_m":2813519.334236,
     "geom:bbox":"27.05427,58.691423,27.105971,58.708639",
     "geom:latitude":58.700553,
     "geom:longitude":27.077947,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2489
+        "ee-mamt:okood":"2489"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327133603
     ],
     "wof:country":"EE",
     "wof:created":1595459853,
-    "wof:geomhash":"09adb7c78c36e4aa6322c94bf58fd866",
+    "wof:geomhash":"8db8d23bbb35144fb9e5dd2a5b10f891",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660861,
+    "wof:lastmodified":1695876739,
     "wof:name":"Kadrina",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

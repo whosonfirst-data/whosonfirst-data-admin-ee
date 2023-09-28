@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vatla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001836,
-    "geom:area_square_m":11842908.604985,
+    "geom:area_square_m":11842908.604982,
     "geom:bbox":"23.687449,58.534815,23.79338,58.574765",
     "geom:latitude":58.552744,
     "geom:longitude":23.7394,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9141
+        "ee-mamt:okood":"9141"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936993
     ],
     "wof:country":"EE",
     "wof:created":1595459729,
-    "wof:geomhash":"0bf06214ee8906f361f3e2206b876738",
+    "wof:geomhash":"81a80562aac49a43d62b2bfdb656d4a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661598,
+    "wof:lastmodified":1695876767,
     "wof:name":"Vatla",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

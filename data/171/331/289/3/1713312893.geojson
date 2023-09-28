@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Saku Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000818,
-    "geom:area_square_m":5162095.47318,
+    "geom:area_square_m":5162095.473181,
     "geom:bbox":"24.631284,59.28915,24.682334,59.316652",
     "geom:latitude":59.303116,
     "geom:longitude":24.658335,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Saku alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7361
+        "ee-mamt:okood":"7361"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815185
     ],
     "wof:country":"EE",
     "wof:created":1595460646,
-    "wof:geomhash":"3af0b40d51e463b37b682af7e7560f1d",
+    "wof:geomhash":"5f01db9c184d9e498ba22e0d59348c08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661500,
+    "wof:lastmodified":1695876763,
     "wof:name":"Saku",
     "wof:parent_id":1713305685,
     "wof:placetype":"localadmin",

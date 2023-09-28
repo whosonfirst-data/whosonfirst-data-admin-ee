@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vahtraste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000987,
-    "geom:area_square_m":6350762.888399,
+    "geom:area_square_m":6350762.888401,
     "geom:bbox":"23.256631,58.624463,23.331031,58.65779",
     "geom:latitude":58.641344,
     "geom:longitude":23.292034,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8851
+        "ee-mamt:okood":"8851"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360168231
     ],
     "wof:country":"EE",
     "wof:created":1595459097,
-    "wof:geomhash":"ddb090ed6364388654d227197a587d0a",
+    "wof:geomhash":"1626b03710f816580501acfd28c5efc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675122,
+    "wof:lastmodified":1695876905,
     "wof:name":"Vahtraste",
     "wof:parent_id":1713305623,
     "wof:placetype":"localadmin",

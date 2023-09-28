@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rimmi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003106,
-    "geom:area_square_m":20471350.415268,
+    "geom:area_square_m":20471350.415272,
     "geom:bbox":"26.570771,57.766181,26.679664,57.809311",
     "geom:latitude":57.787648,
     "geom:longitude":26.623221,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7000
+        "ee-mamt:okood":"7000"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935941
     ],
     "wof:country":"EE",
     "wof:created":1595461384,
-    "wof:geomhash":"cdf38d0511eb4bb09ab7d1ae8289e501",
+    "wof:geomhash":"796fd4b6b245fa119533723282b4d2ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677016,
+    "wof:lastmodified":1695876982,
     "wof:name":"Rimmi",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

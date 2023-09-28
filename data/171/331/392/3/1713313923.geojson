@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4geva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001171,
-    "geom:area_square_m":7480232.356985,
+    "geom:area_square_m":7480232.356984,
     "geom:bbox":"26.265719,58.89714,26.345226,58.921289",
     "geom:latitude":58.909874,
     "geom:longitude":26.306192,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9615
+        "ee-mamt:okood":"9615"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276368851
     ],
     "wof:country":"EE",
     "wof:created":1595460865,
-    "wof:geomhash":"befc18d5c9576416797361dfe6085f11",
+    "wof:geomhash":"46ca99b018afbc960e1f39e8a02a213b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676558,
+    "wof:lastmodified":1695876923,
     "wof:name":"V\u00e4geva",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

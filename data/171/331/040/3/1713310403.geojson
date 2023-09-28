@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rulli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000768,
-    "geom:area_square_m":5026827.917953,
+    "geom:area_square_m":5026827.917951,
     "geom:bbox":"25.961779,58.034267,26.02435,58.062896",
     "geom:latitude":58.046329,
     "geom:longitude":25.996146,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7113
+        "ee-mamt:okood":"7113"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327495911
     ],
     "wof:country":"EE",
     "wof:created":1595460114,
-    "wof:geomhash":"f85ec389b1b49673aedcfb6fac7eda74",
+    "wof:geomhash":"4c8580eca9cd72be595a84d2ecdff1ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661421,
+    "wof:lastmodified":1695876758,
     "wof:name":"Rulli",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

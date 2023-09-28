@@ -14,7 +14,7 @@
     "geom:longitude":27.155095,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Kallaste linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2596
+        "ee-mamt:okood":"2596"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815095
     ],
     "wof:country":"EE",
     "wof:created":1595460781,
-    "wof:geomhash":"b8eb685decf1575a21bb33c43057aab2",
+    "wof:geomhash":"644f73a8e3214bbf896135a35d494d6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660829,
+    "wof:lastmodified":1695876736,
     "wof:name":"Kallaste",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Reti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002211,
-    "geom:area_square_m":14435959.814543,
+    "geom:area_square_m":14435959.814547,
     "geom:bbox":"25.830123,58.105571,25.920974,58.147526",
     "geom:latitude":58.124654,
     "geom:longitude":25.878213,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6946
+        "ee-mamt:okood":"6946"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226621397
     ],
     "wof:country":"EE",
     "wof:created":1595460924,
-    "wof:geomhash":"a8256afd5fdbcf66a79c796af3766c80",
+    "wof:geomhash":"0eb12ca561f7960c9d9bb97c08c03939",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661428,
+    "wof:lastmodified":1695876759,
     "wof:name":"Reti",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

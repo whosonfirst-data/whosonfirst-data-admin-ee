@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raigla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001865,
-    "geom:area_square_m":12183868.950745,
+    "geom:area_square_m":12183868.950749,
     "geom:bbox":"27.470602,58.08338,27.554556,58.128531",
     "geom:latitude":58.105482,
     "geom:longitude":27.511876,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6753
+        "ee-mamt:okood":"6753"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126003925
     ],
     "wof:country":"EE",
     "wof:created":1595460660,
-    "wof:geomhash":"3814425d6d4604bb12994e41dad4a8e9",
+    "wof:geomhash":"550b75f48a348b5a7eb90834c1111262",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676985,
+    "wof:lastmodified":1695876978,
     "wof:name":"Raigla",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

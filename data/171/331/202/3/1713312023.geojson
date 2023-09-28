@@ -8,7 +8,7 @@
     "ee-mamt:animi":"S\u00e4lliksaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000579,
-    "geom:area_square_m":3688965.323932,
+    "geom:area_square_m":3688965.323933,
     "geom:bbox":"26.85617,58.962202,26.905703,58.983718",
     "geom:latitude":58.972927,
     "geom:longitude":26.880896,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7921
+        "ee-mamt:okood":"7921"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276342607
     ],
     "wof:country":"EE",
     "wof:created":1595460466,
-    "wof:geomhash":"d5dc44042d394fd08141b745e41ee72d",
+    "wof:geomhash":"0a9cce7d91cf1c52a12d9e3920ad55c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660957,
+    "wof:lastmodified":1695876740,
     "wof:name":"S\u00e4lliksaare",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

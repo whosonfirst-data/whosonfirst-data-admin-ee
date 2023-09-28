@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lemmetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004069,
-    "geom:area_square_m":26340066.645773,
+    "geom:area_square_m":26340066.64577,
     "geom:bbox":"24.314977,58.410303,24.448717,58.469111",
     "geom:latitude":58.435325,
     "geom:longitude":24.387307,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4268
+        "ee-mamt:okood":"4268"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125934757
     ],
     "wof:country":"EE",
     "wof:created":1595460927,
-    "wof:geomhash":"27a795954ff8f54bb2777e6f4640acd9",
+    "wof:geomhash":"d20ebc6ae9f90644f1ef5a46be822586",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677695,
+    "wof:lastmodified":1695876995,
     "wof:name":"Lemmetsa",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Altk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002145,
-    "geom:area_square_m":13564181.544991,
+    "geom:area_square_m":13564181.54499,
     "geom:bbox":"23.988131,59.223172,24.084664,59.261739",
     "geom:latitude":59.243726,
     "geom:longitude":24.039136,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1221
+        "ee-mamt:okood":"1221"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242595441
     ],
     "wof:country":"EE",
     "wof:created":1595459481,
-    "wof:geomhash":"20e493aa714c373f24adb4fd765b3516",
+    "wof:geomhash":"8a42f4594ce8d9990670a04e46af1829",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663288,
+    "wof:lastmodified":1695876814,
     "wof:name":"Altk\u00fcla",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"H\u00fc\u00fcru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00205,
-    "geom:area_square_m":12910862.737534,
+    "geom:area_square_m":12910862.737536,
     "geom:bbox":"24.488689,59.356844,24.594715,59.407605",
     "geom:latitude":59.381749,
     "geom:longitude":24.542496,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1975
+        "ee-mamt:okood":"1975"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125872377
     ],
     "wof:country":"EE",
     "wof:created":1595460821,
-    "wof:geomhash":"adb03c1f0bdb6444f6e8ab2110ee5de0",
+    "wof:geomhash":"0d08f84d7211c068f7bbe32f62ab53f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663236,
+    "wof:lastmodified":1695876812,
     "wof:name":"H\u00fc\u00fcru",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

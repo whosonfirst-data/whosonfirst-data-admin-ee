@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u00e4rgula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001173,
-    "geom:area_square_m":7702567.413844,
+    "geom:area_square_m":7702567.413843,
     "geom:bbox":"26.664978,57.912525,26.742831,57.94192",
     "geom:latitude":57.926163,
     "geom:longitude":26.706234,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3903
+        "ee-mamt:okood":"3903"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309970425
     ],
     "wof:country":"EE",
     "wof:created":1595461336,
-    "wof:geomhash":"5eef039fca1429f4bff684dc9d023977",
+    "wof:geomhash":"6fe947572b593a94d2f314bd4de10d11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660251,
+    "wof:lastmodified":1695876724,
     "wof:name":"K\u00e4rgula",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

@@ -14,7 +14,7 @@
     "geom:longitude":24.808107,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Rapla linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6826
+        "ee-mamt:okood":"6826"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815129
     ],
     "wof:country":"EE",
     "wof:created":1595460259,
-    "wof:geomhash":"2402c83c42029ee08c9c10e4e25fd085",
+    "wof:geomhash":"b3c885d95cb2d8c93c9e4fb0361dccf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676699,
+    "wof:lastmodified":1695876940,
     "wof:name":"Rapla",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

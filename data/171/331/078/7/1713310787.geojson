@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ligema K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000431,
-    "geom:area_square_m":2760392.739105,
+    "geom:area_square_m":2760392.739102,
     "geom:bbox":"22.587656,58.775858,22.628938,58.794862",
     "geom:latitude":58.786886,
     "geom:longitude":22.608192,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4319
+        "ee-mamt:okood":"4319"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344169941
     ],
     "wof:country":"EE",
     "wof:created":1595460200,
-    "wof:geomhash":"e77646c8bac7afe3c324d8ead21f7ff6",
+    "wof:geomhash":"b78c69b45fe8630ebb5072c67fb4b5f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666457,
+    "wof:lastmodified":1695876859,
     "wof:name":"Ligema",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

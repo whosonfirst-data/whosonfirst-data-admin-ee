@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Keila-Joa Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.00035,
-    "geom:area_square_m":2199980.104709,
+    "geom:area_square_m":2199980.104712,
     "geom:bbox":"24.281529,59.39127,24.31283,59.416581",
     "geom:latitude":59.402797,
     "geom:longitude":24.297421,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Keila-Joa alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2931
+        "ee-mamt:okood":"2931"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125892621
     ],
     "wof:country":"EE",
     "wof:created":1595460979,
-    "wof:geomhash":"2e306be1438c19f84caaa15e232da934",
+    "wof:geomhash":"64abd9765de308fabf317f82ba562e63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663305,
+    "wof:lastmodified":1695876818,
     "wof:name":"Keila-Joa",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

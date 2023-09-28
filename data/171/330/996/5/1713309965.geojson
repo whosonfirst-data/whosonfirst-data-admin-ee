@@ -8,7 +8,7 @@
     "ee-mamt:animi":"L\u00e4tkalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001874,
-    "geom:area_square_m":12125864.019497,
+    "geom:area_square_m":12125864.019499,
     "geom:bbox":"25.990105,58.414498,26.084387,58.468358",
     "geom:latitude":58.448152,
     "geom:longitude":26.039277,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4650
+        "ee-mamt:okood":"4650"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310266579
     ],
     "wof:country":"EE",
     "wof:created":1595460018,
-    "wof:geomhash":"a173d20fbb9ab682437e672b12d3dfd0",
+    "wof:geomhash":"ef1d8e09b036f2bf4135ecf9f357c661",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661231,
+    "wof:lastmodified":1695876747,
     "wof:name":"L\u00e4tkalu",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

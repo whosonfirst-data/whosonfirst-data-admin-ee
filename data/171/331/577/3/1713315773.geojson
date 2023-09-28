@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Madala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001388,
-    "geom:area_square_m":9124242.565095,
+    "geom:area_square_m":9124242.565096,
     "geom:bbox":"27.2695,57.865274,27.339031,57.916589",
     "geom:latitude":57.889004,
     "geom:longitude":27.304946,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4715
+        "ee-mamt:okood":"4715"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310279037
     ],
     "wof:country":"EE",
     "wof:created":1595461291,
-    "wof:geomhash":"c04a975b08367be33b942b6279eda4f4",
+    "wof:geomhash":"0865d62df9372b224e007173c04b775e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660241,
+    "wof:lastmodified":1695876723,
     "wof:name":"Madala",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

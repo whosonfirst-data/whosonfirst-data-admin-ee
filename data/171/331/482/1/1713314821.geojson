@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00098,
-    "geom:area_square_m":6467528.885684,
+    "geom:area_square_m":6467528.885683,
     "geom:bbox":"26.706249,57.724049,26.77045,57.747078",
     "geom:latitude":57.735589,
     "geom:longitude":26.741303,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9391
+        "ee-mamt:okood":"9391"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243131135
     ],
     "wof:country":"EE",
     "wof:created":1595461065,
-    "wof:geomhash":"1528aa3f43271a5f10e4b16e7e60f5a9",
+    "wof:geomhash":"e37704cb5989387579f627f64b8158ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676809,
+    "wof:lastmodified":1695876954,
     "wof:name":"Viru",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

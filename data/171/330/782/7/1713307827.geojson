@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kurkse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002242,
-    "geom:area_square_m":14166228.731763,
+    "geom:area_square_m":14166228.731761,
     "geom:bbox":"23.970785,59.252478,24.085088,59.290992",
     "geom:latitude":59.273019,
     "geom:longitude":24.032873,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3682
+        "ee-mamt:okood":"3682"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310120143
     ],
     "wof:country":"EE",
     "wof:created":1595459496,
-    "wof:geomhash":"cd9d28f42b3c68a12d67fd577b79a2b0",
+    "wof:geomhash":"87fd216e4fa7ec14c75754d5a204d53c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663292,
+    "wof:lastmodified":1695876815,
     "wof:name":"Kurkse",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

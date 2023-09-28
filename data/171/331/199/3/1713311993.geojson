@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soonurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002555,
-    "geom:area_square_m":16124842.023576,
+    "geom:area_square_m":16124842.023578,
     "geom:bbox":"26.89206,59.297595,26.998852,59.338234",
     "geom:latitude":59.315871,
     "geom:longitude":26.940088,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7735
+        "ee-mamt:okood":"7735"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327438823
     ],
     "wof:country":"EE",
     "wof:created":1595460459,
-    "wof:geomhash":"8715b3b9423eb6e8d0ec5d346b2e444a",
+    "wof:geomhash":"afa5128fe7888f4f7154b47e5a533868",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660783,
+    "wof:lastmodified":1695876735,
     "wof:name":"Soonurme",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

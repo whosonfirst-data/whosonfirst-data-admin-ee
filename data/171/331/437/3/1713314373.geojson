@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u0151drangu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000944,
-    "geom:area_square_m":5984416.049354,
+    "geom:area_square_m":5984416.049357,
     "geom:bbox":"26.098004,59.122726,26.154387,59.155957",
     "geom:latitude":59.139857,
     "geom:longitude":26.129022,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6491
+        "ee-mamt:okood":"6491"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125956509
     ],
     "wof:country":"EE",
     "wof:created":1595460963,
-    "wof:geomhash":"536ea1366a75f76e2f76d4693e1c1a43",
+    "wof:geomhash":"3c2267f26ac8a7f20d0d51a632262ff1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676588,
+    "wof:lastmodified":1695876926,
     "wof:name":"P\u0151drangu",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

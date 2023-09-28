@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Seinapalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003806,
-    "geom:area_square_m":24356288.63626,
+    "geom:area_square_m":24356288.636258,
     "geom:bbox":"25.523302,58.808793,25.648366,58.862743",
     "geom:latitude":58.833994,
     "geom:longitude":25.58778,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7508
+        "ee-mamt:okood":"7508"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327467019
     ],
     "wof:country":"EE",
     "wof:created":1595459569,
-    "wof:geomhash":"32c2ee86b711bf0d98d1cf2b2dbbc64d",
+    "wof:geomhash":"ab44972a4f7b78d31480d060099ccb9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661319,
+    "wof:lastmodified":1695876753,
     "wof:name":"Seinapalu",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

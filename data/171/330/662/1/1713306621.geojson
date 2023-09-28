@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Meedla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000577,
-    "geom:area_square_m":3742611.632944,
+    "geom:area_square_m":3742611.632942,
     "geom:bbox":"22.496474,58.319134,22.5488,58.341931",
     "geom:latitude":58.33217,
     "geom:longitude":22.529017,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4834
+        "ee-mamt:okood":"4834"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326901345
     ],
     "wof:country":"EE",
     "wof:created":1595459200,
-    "wof:geomhash":"d618d3dc333447e9937fd82278ff289a",
+    "wof:geomhash":"b92a4abcc7d726566a2ff3624dc1bd41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671650,
+    "wof:lastmodified":1695876866,
     "wof:name":"Meedla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

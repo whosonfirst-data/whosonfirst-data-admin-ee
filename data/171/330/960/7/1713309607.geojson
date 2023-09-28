@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Orik\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001052,
-    "geom:area_square_m":6768975.130602,
+    "geom:area_square_m":6768975.130603,
     "geom:bbox":"25.153723,58.632382,25.221374,58.662006",
     "geom:latitude":58.646909,
     "geom:longitude":25.189161,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5720
+        "ee-mamt:okood":"5720"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343836363
     ],
     "wof:country":"EE",
     "wof:created":1595459929,
-    "wof:geomhash":"65add07291eb5731312f41c0f1242f32",
+    "wof:geomhash":"266baddda8f17bfb8fd978b0b3471ace",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663408,
+    "wof:lastmodified":1695876825,
     "wof:name":"Orik\u00fcla",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

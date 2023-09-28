@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Joonuse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000277,
-    "geom:area_square_m":1788558.892329,
+    "geom:area_square_m":1788558.892331,
     "geom:bbox":"24.206791,58.555542,24.229043,58.582249",
     "geom:latitude":58.568971,
     "geom:longitude":24.217677,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2192
+        "ee-mamt:okood":"2192"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226123731
     ],
     "wof:country":"EE",
     "wof:created":1595459737,
-    "wof:geomhash":"bee82d75925288347c2014efad79d52e",
+    "wof:geomhash":"3d91c8c0a8280a949d845e759367741a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661581,
+    "wof:lastmodified":1695876766,
     "wof:name":"Joonuse",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

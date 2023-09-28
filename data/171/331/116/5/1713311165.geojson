@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u0151rsaku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000983,
-    "geom:area_square_m":6269752.355527,
+    "geom:area_square_m":6269752.355525,
     "geom:bbox":"24.878423,58.945692,24.937496,58.980444",
     "geom:latitude":58.965265,
     "geom:longitude":24.907134,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6546
+        "ee-mamt:okood":"6546"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293271529
     ],
     "wof:country":"EE",
     "wof:created":1595460278,
-    "wof:geomhash":"c775313f02b0aef3764512ec8f20ae98",
+    "wof:geomhash":"7c1d50e60a4d2f61e49e82c2be4217b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676734,
+    "wof:lastmodified":1695876945,
     "wof:name":"P\u0151rsaku",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

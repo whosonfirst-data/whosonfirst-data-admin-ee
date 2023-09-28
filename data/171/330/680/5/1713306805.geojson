@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tudre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000919,
-    "geom:area_square_m":5859254.161017,
+    "geom:area_square_m":5859254.161018,
     "geom:bbox":"25.892698,58.962228,25.962374,58.98747",
     "geom:latitude":58.974467,
     "geom:longitude":25.927851,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8388
+        "ee-mamt:okood":"8388"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226443073
     ],
     "wof:country":"EE",
     "wof:created":1595459245,
-    "wof:geomhash":"c7bb8e1422b35db00b59f8feaa9f5e9d",
+    "wof:geomhash":"e3b2b0384c406cdffd044411f753b18e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676617,
+    "wof:lastmodified":1695876930,
     "wof:name":"Tudre",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

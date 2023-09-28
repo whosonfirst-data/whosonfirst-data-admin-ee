@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Niitsiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000411,
-    "geom:area_square_m":2693049.007063,
+    "geom:area_square_m":2693049.007062,
     "geom:bbox":"27.44375,57.95509,27.475142,57.979275",
     "geom:latitude":57.967008,
     "geom:longitude":27.460004,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5422
+        "ee-mamt:okood":"5422"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193005187
     ],
     "wof:country":"EE",
     "wof:created":1595461328,
-    "wof:geomhash":"b045e4e31172ecd0b6f7c2cac631a7c0",
+    "wof:geomhash":"609a7729fda8f0e7612cd4c99bd17c54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663643,
+    "wof:lastmodified":1695876839,
     "wof:name":"Niitsiku",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Padari K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001022,
-    "geom:area_square_m":6666790.143598,
+    "geom:area_square_m":6666790.143596,
     "geom:bbox":"26.937259,58.152356,26.997734,58.187559",
     "geom:latitude":58.167458,
     "geom:longitude":26.974104,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5809
+        "ee-mamt:okood":"5809"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343648659
     ],
     "wof:country":"EE",
     "wof:created":1595460247,
-    "wof:geomhash":"e6ffa4e0ed5192b96d8b9c2c84a4923a",
+    "wof:geomhash":"1fe6593af6077d5f4422bfdef4b6c8bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676941,
+    "wof:lastmodified":1695876972,
     "wof:name":"Padari",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

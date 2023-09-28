@@ -14,7 +14,7 @@
     "geom:longitude":27.298364,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "M\u00e4etaguse alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5213
+        "ee-mamt:okood":"5213"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1713351499
     ],
     "wof:country":"EE",
     "wof:created":1595460382,
-    "wof:geomhash":"5c00a0bafd06d68a4bd2e6e22374eb50",
+    "wof:geomhash":"0e800a2dce0621a6d1ea7869d40fc58f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660714,
+    "wof:lastmodified":1695876733,
     "wof:name":"M\u00e4etaguse",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

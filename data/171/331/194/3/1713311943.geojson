@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Jaska K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00208,
-    "geom:area_square_m":13418255.501203,
+    "geom:area_square_m":13418255.501198,
     "geom:bbox":"25.546343,58.518207,25.613397,58.576685",
     "geom:latitude":58.547097,
     "geom:longitude":25.580372,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2175
+        "ee-mamt:okood":"2175"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125933297
     ],
     "wof:country":"EE",
     "wof:created":1595460449,
-    "wof:geomhash":"9541e948d9c2a2117b9a26b670ab644e",
+    "wof:geomhash":"0b0b554c040ab9b8a0858ed4382512be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663437,
+    "wof:lastmodified":1695876828,
     "wof:name":"Jaska",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

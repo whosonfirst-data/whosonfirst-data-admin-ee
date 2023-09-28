@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Voki K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001036,
-    "geom:area_square_m":6838128.847399,
+    "geom:area_square_m":6838128.847401,
     "geom:bbox":"27.116266,57.729782,27.173174,57.763776",
     "geom:latitude":57.746542,
     "geom:longitude":27.145306,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9458
+        "ee-mamt:okood":"9458"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293653603
     ],
     "wof:country":"EE",
     "wof:created":1595461293,
-    "wof:geomhash":"dea1cf4e1b5fec0d44fc567b04d9bb9b",
+    "wof:geomhash":"34b1b567a8106b211bbc79118f9d8462",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660230,
+    "wof:lastmodified":1695876721,
     "wof:name":"Voki",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

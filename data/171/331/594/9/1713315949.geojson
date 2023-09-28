@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Puugnitsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000414,
-    "geom:area_square_m":2712671.47253,
+    "geom:area_square_m":2712671.472532,
     "geom:bbox":"27.472789,57.975911,27.499611,57.99886",
     "geom:latitude":57.986357,
     "geom:longitude":27.48654,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6474
+        "ee-mamt:okood":"6474"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243240789
     ],
     "wof:country":"EE",
     "wof:created":1595461327,
-    "wof:geomhash":"f5485cd52cfbc57c1351f81332c9b4fd",
+    "wof:geomhash":"7e7e30f63bd6549307ffc1112187e4cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663657,
+    "wof:lastmodified":1695876842,
     "wof:name":"Puugnitsa",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

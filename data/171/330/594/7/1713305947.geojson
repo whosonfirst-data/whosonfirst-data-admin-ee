@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuusalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000608,
-    "geom:area_square_m":3818512.975784,
+    "geom:area_square_m":3818512.975783,
     "geom:bbox":"25.409588,59.447658,25.46114,59.476213",
     "geom:latitude":59.460244,
     "geom:longitude":25.436529,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3718
+        "ee-mamt:okood":"3718"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459035,
-    "wof:geomhash":"2d893648e36d0df021c5138882967c5f",
+    "wof:geomhash":"de8ac2d389badde27a7fda7f22335680",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661806,
+    "wof:lastmodified":1695876776,
     "wof:name":"Kuusalu",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

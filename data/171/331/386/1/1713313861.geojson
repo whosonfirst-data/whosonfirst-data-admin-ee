@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ilmatsalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001979,
-    "geom:area_square_m":12820760.56581,
+    "geom:area_square_m":12820760.565811,
     "geom:bbox":"26.485388,58.368346,26.560064,58.421948",
     "geom:latitude":58.398099,
     "geom:longitude":26.52704,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2049
+        "ee-mamt:okood":"2049"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125870143
     ],
     "wof:country":"EE",
     "wof:created":1595460852,
-    "wof:geomhash":"cc878f0efc92ccc8661b7db168e927e4",
+    "wof:geomhash":"087f3274b0ef0932445fa77f16173a90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661164,
+    "wof:lastmodified":1695876743,
     "wof:name":"Ilmatsalu",
     "wof:parent_id":1713305675,
     "wof:placetype":"localadmin",

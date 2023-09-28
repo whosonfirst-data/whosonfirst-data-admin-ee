@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hiiemetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000626,
-    "geom:area_square_m":3942252.689618,
+    "geom:area_square_m":3942252.689617,
     "geom:bbox":"27.92903,59.364106,27.974472,59.384432",
     "geom:latitude":59.373636,
     "geom:longitude":27.948733,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1833
+        "ee-mamt:okood":"1833"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242779783
     ],
     "wof:country":"EE",
     "wof:created":1595459449,
-    "wof:geomhash":"7fad5bd724e1e10230c4b204b2421a01",
+    "wof:geomhash":"dc269adfad7b8fa84f0ffcf9e49ccc43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677759,
+    "wof:lastmodified":1695876998,
     "wof:name":"Hiiemetsa",
     "wof:parent_id":1713305779,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaibla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003896,
-    "geom:area_square_m":25235771.348853,
+    "geom:area_square_m":25235771.348842,
     "geom:bbox":"26.00948,58.384092,26.190842,58.444815",
     "geom:latitude":58.412947,
     "geom:longitude":26.12192,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8864
+        "ee-mamt:okood":"8864"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260145117
     ],
     "wof:country":"EE",
     "wof:created":1595460853,
-    "wof:geomhash":"dfec7bdde4ca880d3791e742047219c3",
+    "wof:geomhash":"87d9b49ae7ac3499d81aa830cb578515",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661223,
+    "wof:lastmodified":1695876746,
     "wof:name":"Vaibla",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

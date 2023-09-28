@@ -8,13 +8,13 @@
     "ee-mamt:animi":"J\u00e4rve Linnaosa",
     "ee-mamt:tyyp":6,
     "geom:area":0.003407,
-    "geom:area_square_m":21449550.00888,
+    "geom:area_square_m":21449550.008877,
     "geom:bbox":"27.197445,59.359769,27.302947,59.419912",
     "geom:latitude":59.392943,
     "geom:longitude":27.250588,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "district"
+        "urban district"
     ],
     "label:est_x_preferred_longname":[
         "J\u00e4rve linnaosa"
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":265
+        "ee-mamt:okood":"265"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460922,
-    "wof:geomhash":"e3ece0f6b7b055689c3c7663aa4c9596",
+    "wof:geomhash":"5c5d40d50e83b3e6593618e1cbbf5732",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676520,
+    "wof:lastmodified":1695876917,
     "wof:name":"J\u00e4rve",
     "wof:parent_id":1713305653,
     "wof:placetype":"localadmin",

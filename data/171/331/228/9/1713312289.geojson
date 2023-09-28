@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ehavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001196,
-    "geom:area_square_m":7696016.629202,
+    "geom:area_square_m":7696016.629204,
     "geom:bbox":"26.612106,58.622074,26.674155,58.660093",
     "geom:latitude":58.639774,
     "geom:longitude":26.640575,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1543
+        "ee-mamt:okood":"1543"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326652795
     ],
     "wof:country":"EE",
     "wof:created":1595460515,
-    "wof:geomhash":"0bb8a6e8a1dbe1147d3655cfa3f8b0ef",
+    "wof:geomhash":"02e9dbcb561e138377d7e62b3743115b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676566,
+    "wof:lastmodified":1695876925,
     "wof:name":"Ehavere",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

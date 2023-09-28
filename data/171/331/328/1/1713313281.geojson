@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lilastvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00181,
-    "geom:area_square_m":11564114.636487,
+    "geom:area_square_m":11564114.636485,
     "geom:bbox":"26.683862,58.860996,26.753029,58.901617",
     "geom:latitude":58.883614,
     "geom:longitude":26.715851,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4367
+        "ee-mamt:okood":"4367"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343660959
     ],
     "wof:country":"EE",
     "wof:created":1595460729,
-    "wof:geomhash":"fe86900a87f627f9fd901dc1d0a8c53e",
+    "wof:geomhash":"b39f2a131644c07f71e14533e49a79e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676557,
+    "wof:lastmodified":1695876923,
     "wof:name":"Lilastvere",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

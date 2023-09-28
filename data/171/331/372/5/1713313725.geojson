@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kibena K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001746,
-    "geom:area_square_m":11431545.963563,
+    "geom:area_square_m":11431545.963557,
     "geom:bbox":"26.232559,58.021544,26.313357,58.05654",
     "geom:latitude":58.038029,
     "geom:longitude":26.266884,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2998
+        "ee-mamt:okood":"2998"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326796159
     ],
     "wof:country":"EE",
     "wof:created":1595460822,
-    "wof:geomhash":"1fa5c7cdbfe11aabf44f015d50f6c487",
+    "wof:geomhash":"6d891635a9f6a06cb0b4f9afcf481105",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661864,
+    "wof:lastmodified":1695876781,
     "wof:name":"Kibena",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

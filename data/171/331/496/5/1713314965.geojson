@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001423,
-    "geom:area_square_m":9427811.867062,
+    "geom:area_square_m":9427811.867063,
     "geom:bbox":"26.469689,57.594214,26.576071,57.623705",
     "geom:latitude":57.607132,
     "geom:longitude":26.53369,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7436
+        "ee-mamt:okood":"7436"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890301
     ],
     "wof:country":"EE",
     "wof:created":1595461103,
-    "wof:geomhash":"f4e1f36eaa0f26922193b4a9d8efc2f3",
+    "wof:geomhash":"e1c457dd7e324b6bd12cbd78f05513d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676808,
+    "wof:lastmodified":1695876954,
     "wof:name":"Saru",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

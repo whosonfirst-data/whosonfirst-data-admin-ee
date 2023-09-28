@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saate K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003483,
-    "geom:area_square_m":22792273.026195,
+    "geom:area_square_m":22792273.026194,
     "geom:bbox":"25.379093,58.015247,25.48824,58.077756",
     "geom:latitude":58.043359,
     "geom:longitude":25.426129,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7313
+        "ee-mamt:okood":"7313"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309767963
     ],
     "wof:country":"EE",
     "wof:created":1595460410,
-    "wof:geomhash":"5e73ae130c992eb5b21bc1658b96a1e3",
+    "wof:geomhash":"dffe3b40a410734d3a2afd9cd2eac43b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661282,
+    "wof:lastmodified":1695876749,
     "wof:name":"Saate",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

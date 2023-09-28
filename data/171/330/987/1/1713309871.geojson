@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kookla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001935,
-    "geom:area_square_m":12523505.59578,
+    "geom:area_square_m":12523505.595782,
     "geom:bbox":"25.50042,58.417121,25.575242,58.469345",
     "geom:latitude":58.445235,
     "geom:longitude":25.53983,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3396
+        "ee-mamt:okood":"3396"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360047125
     ],
     "wof:country":"EE",
     "wof:created":1595459994,
-    "wof:geomhash":"58fb5b0c9f0c986249f8daca679f5c09",
+    "wof:geomhash":"18caeee061c7db769edea26ffc24581a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661237,
+    "wof:lastmodified":1695876748,
     "wof:name":"Kookla",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

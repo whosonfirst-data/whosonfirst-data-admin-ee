@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Metsalauka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00061,
-    "geom:area_square_m":3916101.017702,
+    "geom:area_square_m":3916101.017703,
     "geom:bbox":"22.561654,58.712607,22.601159,58.738624",
     "geom:latitude":58.726436,
     "geom:longitude":22.579247,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4898
+        "ee-mamt:okood":"4898"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225848359
     ],
     "wof:country":"EE",
     "wof:created":1595460201,
-    "wof:geomhash":"d9d4789ebfa2edc329955dad515a6581",
+    "wof:geomhash":"d4d433a2338aebabf0f7b58dd03bb7d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666460,
+    "wof:lastmodified":1695876859,
     "wof:name":"Metsalauka",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

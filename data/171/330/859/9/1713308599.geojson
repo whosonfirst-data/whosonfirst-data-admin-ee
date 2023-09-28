@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vilsandi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001645,
-    "geom:area_square_m":10665701.071995,
+    "geom:area_square_m":10665701.071999,
     "geom:bbox":"21.798337,58.358457,21.939962,58.401862",
     "geom:latitude":58.38152,
     "geom:longitude":21.865134,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9357
+        "ee-mamt:okood":"9357"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259654659
     ],
     "wof:country":"EE",
     "wof:created":1595459684,
-    "wof:geomhash":"185b96033318cd8c636cc496a55cbde6",
+    "wof:geomhash":"e7767308037feed04828268f5723826d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672593,
+    "wof:lastmodified":1695876901,
     "wof:name":"Vilsandi",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

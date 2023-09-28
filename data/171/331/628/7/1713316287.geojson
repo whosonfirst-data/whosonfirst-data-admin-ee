@@ -8,13 +8,13 @@
     "ee-mamt:animi":"S\u0151merpalu Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000544,
-    "geom:area_square_m":3581918.618122,
+    "geom:area_square_m":3581918.618119,
     "geom:bbox":"26.808028,57.834809,26.846255,57.858855",
     "geom:latitude":57.845043,
     "geom:longitude":26.829365,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "S\u0151merpalu alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7887
+        "ee-mamt:okood":"7887"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037843
     ],
     "wof:country":"EE",
     "wof:created":1595461396,
-    "wof:geomhash":"a82503650eaa31c841d39ff93e2c7bf4",
+    "wof:geomhash":"25aa22e1d92fd74fed76cf430b59b393",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660268,
+    "wof:lastmodified":1695876726,
     "wof:name":"S\u0151merpalu",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Puugi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001462,
-    "geom:area_square_m":9552678.755333,
+    "geom:area_square_m":9552678.755331,
     "geom:bbox":"26.591553,58.082486,26.654989,58.124582",
     "geom:latitude":58.103927,
     "geom:longitude":26.622363,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6472
+        "ee-mamt:okood":"6472"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293860977
     ],
     "wof:country":"EE",
     "wof:created":1595460823,
-    "wof:geomhash":"7db5260c8a50a9d82e18b641118516ef",
+    "wof:geomhash":"03d4f2d9d51b9e8781ea3f80e183035f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676784,
+    "wof:lastmodified":1695876952,
     "wof:name":"Puugi",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

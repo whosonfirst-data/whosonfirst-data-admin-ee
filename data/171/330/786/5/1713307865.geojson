@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lohusalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00033,
-    "geom:area_square_m":2074332.871467,
+    "geom:area_square_m":2074332.871471,
     "geom:bbox":"24.178728,59.386472,24.220199,59.406573",
     "geom:latitude":59.395785,
     "geom:longitude":24.200375,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4456
+        "ee-mamt:okood":"4456"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125968457
     ],
     "wof:country":"EE",
     "wof:created":1595459505,
-    "wof:geomhash":"3128d13ee9c8d92e441d91746113b376",
+    "wof:geomhash":"12c6bf8d0964de5fa460b7e7d957089b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663293,
+    "wof:lastmodified":1695876816,
     "wof:name":"Lohusalu",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

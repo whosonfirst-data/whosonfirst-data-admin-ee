@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kotka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000286,
-    "geom:area_square_m":1890827.897939,
+    "geom:area_square_m":1890827.897938,
     "geom:bbox":"27.008799,57.65469,27.045962,57.668379",
     "geom:latitude":57.662808,
     "geom:longitude":27.025961,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3478
+        "ee-mamt:okood":"3478"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1292959811
     ],
     "wof:country":"EE",
     "wof:created":1595461148,
-    "wof:geomhash":"5a6bda2eb38cb8651cb2f0c76396f129",
+    "wof:geomhash":"d2e4a7b5a046febd2dfd988bcaabe0a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676829,
+    "wof:lastmodified":1695876959,
     "wof:name":"Kotka",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

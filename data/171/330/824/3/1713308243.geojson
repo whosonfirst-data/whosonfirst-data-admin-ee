@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Talila K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000232,
-    "geom:area_square_m":1496670.603176,
+    "geom:area_square_m":1496670.603175,
     "geom:bbox":"23.172069,58.494996,23.196034,58.51405",
     "geom:latitude":58.50544,
     "geom:longitude":23.183874,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8084
+        "ee-mamt:okood":"8084"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360256093
     ],
     "wof:country":"EE",
     "wof:created":1595459596,
-    "wof:geomhash":"6ca46d28174d4babaa674e50a3bc9b20",
+    "wof:geomhash":"973b42a22f5141b19eafa232578da9aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671748,
+    "wof:lastmodified":1695876870,
     "wof:name":"Talila",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

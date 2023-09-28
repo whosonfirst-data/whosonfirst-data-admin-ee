@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Alekvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.007055,
-    "geom:area_square_m":44781779.023088,
+    "geom:area_square_m":44781779.02309,
     "geom:bbox":"26.623323,59.081529,26.817072,59.143795",
     "geom:latitude":59.113595,
     "geom:longitude":26.72158,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1193
+        "ee-mamt:okood":"1193"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343546735
     ],
     "wof:country":"EE",
     "wof:created":1595459486,
-    "wof:geomhash":"0bcaae73743656e8ea418534ec6469f1",
+    "wof:geomhash":"fffe301dc48d8f858a3818dabed70984",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677952,
+    "wof:lastmodified":1695877005,
     "wof:name":"Alekvere",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

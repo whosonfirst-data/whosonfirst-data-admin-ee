@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pikknurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005619,
-    "geom:area_square_m":36202757.431691,
+    "geom:area_square_m":36202757.431683,
     "geom:bbox":"26.15716,58.5596,26.272846,58.647867",
     "geom:latitude":58.599518,
     "geom:longitude":26.221424,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6236
+        "ee-mamt:okood":"6236"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037761
     ],
     "wof:country":"EE",
     "wof:created":1595460954,
-    "wof:geomhash":"f9e867eee4cb51b0e113d467ec4e5461",
+    "wof:geomhash":"ba8d1457aa127ee1fb20cb2b9576b4d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676492,
+    "wof:lastmodified":1695876916,
     "wof:name":"Pikknurme",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

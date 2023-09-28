@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sooru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002218,
-    "geom:area_square_m":14588738.16826,
+    "geom:area_square_m":14588738.168263,
     "geom:bbox":"26.06088,57.830936,26.134173,57.888524",
     "geom:latitude":57.859391,
     "geom:longitude":26.099291,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7738
+        "ee-mamt:okood":"7738"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125952091
     ],
     "wof:country":"EE",
     "wof:created":1595460607,
-    "wof:geomhash":"740fc1858ac862c343234d127b764a8d",
+    "wof:geomhash":"2891286294e6512b792b2a282ee6decd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661937,
+    "wof:lastmodified":1695876790,
     "wof:name":"Sooru",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

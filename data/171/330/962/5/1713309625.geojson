@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Lihula Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.000649,
-    "geom:area_square_m":4172337.057299,
+    "geom:area_square_m":4172337.057298,
     "geom:bbox":"23.808745,58.671985,23.854147,58.698166",
     "geom:latitude":58.685243,
     "geom:longitude":23.830352,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Lihula linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4330
+        "ee-mamt:okood":"4330"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815107
     ],
     "wof:country":"EE",
     "wof:created":1595459933,
-    "wof:geomhash":"f1fefd27463ea412c36a1d3b4ddf77c5",
+    "wof:geomhash":"7609486dcc7acc06b9c32ee46093d4e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661606,
+    "wof:lastmodified":1695876768,
     "wof:name":"Lihula",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

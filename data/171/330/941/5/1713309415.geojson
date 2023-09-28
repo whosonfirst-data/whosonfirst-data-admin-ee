@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kirtsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000511,
-    "geom:area_square_m":3287340.814622,
+    "geom:area_square_m":3287340.814624,
     "geom:bbox":"26.934039,58.662602,26.983719,58.684641",
     "geom:latitude":58.6763,
     "geom:longitude":26.963042,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3151
+        "ee-mamt:okood":"3151"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243559415
     ],
     "wof:country":"EE",
     "wof:created":1595459881,
-    "wof:geomhash":"f8112522516aa10fe60805cc75669db8",
+    "wof:geomhash":"589a7461442de25280b6da4c18393366",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660830,
+    "wof:lastmodified":1695876737,
     "wof:name":"Kirtsi",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

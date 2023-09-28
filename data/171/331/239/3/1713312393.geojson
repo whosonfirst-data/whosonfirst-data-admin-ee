@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuiaru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002251,
-    "geom:area_square_m":14548528.087566,
+    "geom:area_square_m":14548528.087565,
     "geom:bbox":"24.704351,58.449322,24.788016,58.522773",
     "geom:latitude":58.48623,
     "geom:longitude":24.746009,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3526
+        "ee-mamt:okood":"3526"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193006227
     ],
     "wof:country":"EE",
     "wof:created":1595460535,
-    "wof:geomhash":"7b72edb83a25c9491b478ebfb3727b1f",
+    "wof:geomhash":"41a4ce63133b8b2aed7fbe88ce094c02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663369,
+    "wof:lastmodified":1695876818,
     "wof:name":"Kuiaru",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

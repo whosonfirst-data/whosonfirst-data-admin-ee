@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Reinu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002944,
-    "geom:area_square_m":19278044.158911,
+    "geom:area_square_m":19278044.158915,
     "geom:bbox":"24.701425,57.982132,24.776722,58.0613",
     "geom:latitude":58.02704,
     "geom:longitude":24.737687,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6919
+        "ee-mamt:okood":"6919"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293089195
     ],
     "wof:country":"EE",
     "wof:created":1595460850,
-    "wof:geomhash":"a2d6368e23e697dc8ae8c88abfee730c",
+    "wof:geomhash":"84b3a30e0f77efa4360d85f3ce9b854c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677722,
+    "wof:lastmodified":1695876996,
     "wof:name":"Reinu",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

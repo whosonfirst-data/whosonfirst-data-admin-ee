@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hellamaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001191,
-    "geom:area_square_m":7599648.89889,
+    "geom:area_square_m":7599648.898894,
     "geom:bbox":"22.876869,58.902642,22.976813,58.954681",
     "geom:latitude":58.926673,
     "geom:longitude":22.909266,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1807
+        "ee-mamt:okood":"1807"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226351325
     ],
     "wof:country":"EE",
     "wof:created":1595460171,
-    "wof:geomhash":"bd22058731e039171d60368be2e9cb77",
+    "wof:geomhash":"367954c2cd6b6900de11bf4126e7b439",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666341,
+    "wof:lastmodified":1695876851,
     "wof:name":"Hellamaa",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

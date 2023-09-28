@@ -14,7 +14,7 @@
     "geom:longitude":26.023165,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Koeru alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3255
+        "ee-mamt:okood":"3255"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815133
     ],
     "wof:country":"EE",
     "wof:created":1595459249,
-    "wof:geomhash":"c7ad9c592a067485b06735f2bb458ace",
+    "wof:geomhash":"1cab0d994ccc25e89257fcfdb94ffb22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676620,
+    "wof:lastmodified":1695876931,
     "wof:name":"Koeru",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

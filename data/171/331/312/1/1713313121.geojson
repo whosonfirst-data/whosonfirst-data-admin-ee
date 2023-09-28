@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Luige Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000536,
-    "geom:area_square_m":3377659.152319,
+    "geom:area_square_m":3377659.15232,
     "geom:bbox":"24.762131,59.315024,24.79328,59.343299",
     "geom:latitude":59.330279,
     "geom:longitude":24.776523,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Luige alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4549
+        "ee-mamt:okood":"4549"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815195
     ],
     "wof:country":"EE",
     "wof:created":1595460695,
-    "wof:geomhash":"3c6212922cb1ce87c1574b2a5e071a4e",
+    "wof:geomhash":"c34e2047a59b5cfb78410ae93862583d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663494,
+    "wof:lastmodified":1695876831,
     "wof:name":"Luige",
     "wof:parent_id":1713305643,
     "wof:placetype":"localadmin",

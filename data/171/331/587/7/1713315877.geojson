@@ -8,7 +8,7 @@
     "ee-mamt:animi":"L\u00fc\u00fcbnitsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000849,
-    "geom:area_square_m":5555620.976168,
+    "geom:area_square_m":5555620.976172,
     "geom:bbox":"27.555238,58.043416,27.600728,58.076482",
     "geom:latitude":58.059274,
     "geom:longitude":27.578267,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4692
+        "ee-mamt:okood":"4692"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276203235
     ],
     "wof:country":"EE",
     "wof:created":1595461312,
-    "wof:geomhash":"e579a7796dbd35a59cb89935ad09a264",
+    "wof:geomhash":"1d07d3018470604e031103ed7fa4508b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617130611,
+    "wof:lastmodified":1695877017,
     "wof:name":"L\u00fc\u00fcbnitsa",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

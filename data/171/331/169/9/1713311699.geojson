@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Uhe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002075,
-    "geom:area_square_m":13137323.761869,
+    "geom:area_square_m":13137323.761867,
     "geom:bbox":"27.280616,59.178233,27.358359,59.226096",
     "geom:latitude":59.204718,
     "geom:longitude":27.319625,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8624
+        "ee-mamt:okood":"8624"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226349791
     ],
     "wof:country":"EE",
     "wof:created":1595460399,
-    "wof:geomhash":"4056d3558ed1643a7fc1fd9e7bcf3c21",
+    "wof:geomhash":"67cb8a2f86becd7da2b4b68d6e185a4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660717,
+    "wof:lastmodified":1695876734,
     "wof:name":"Uhe",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

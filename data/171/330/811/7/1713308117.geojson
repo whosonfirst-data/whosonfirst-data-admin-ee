@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Saue Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.000692,
-    "geom:area_square_m":4363274.767869,
+    "geom:area_square_m":4363274.767868,
     "geom:bbox":"24.5182,59.31145,24.585997,59.332156",
     "geom:latitude":59.319988,
     "geom:longitude":24.556651,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Saue linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7453
+        "ee-mamt:okood":"7453"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101816177
     ],
     "wof:country":"EE",
     "wof:created":1595459562,
-    "wof:geomhash":"76439019099b3c9339c18589eb509bb0",
+    "wof:geomhash":"6a6baf9e8ce229cc8ce0342972e62b92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663231,
+    "wof:lastmodified":1695876811,
     "wof:name":"Saue",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

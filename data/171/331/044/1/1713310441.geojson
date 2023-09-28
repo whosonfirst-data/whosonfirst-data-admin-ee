@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tilga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002257,
-    "geom:area_square_m":14721666.699507,
+    "geom:area_square_m":14721666.699508,
     "geom:bbox":"26.213416,58.148291,26.300633,58.188482",
     "geom:latitude":58.168696,
     "geom:longitude":26.258811,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8238
+        "ee-mamt:okood":"8238"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125974765
     ],
     "wof:country":"EE",
     "wof:created":1595460122,
-    "wof:geomhash":"8f6f7ba12e44d5cd30a844b5f16fc70f",
+    "wof:geomhash":"790e6321332bb79d6596351f864c3199",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661893,
+    "wof:lastmodified":1695876784,
     "wof:name":"Tilga",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

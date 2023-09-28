@@ -14,7 +14,7 @@
     "geom:longitude":25.900138,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Helme alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1815
+        "ee-mamt:okood":"1815"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125941411
     ],
     "wof:country":"EE",
     "wof:created":1595461162,
-    "wof:geomhash":"032d2d4a533152cb1cd7f60e6bd1322a",
+    "wof:geomhash":"d3a7922ce16d9838aee511dc377f32ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661427,
+    "wof:lastmodified":1695876759,
     "wof:name":"Helme",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

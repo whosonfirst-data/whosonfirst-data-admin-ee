@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kargaja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003084,
-    "geom:area_square_m":19942959.782105,
+    "geom:area_square_m":19942959.782116,
     "geom:bbox":"27.107888,58.429946,27.187725,58.499236",
     "geom:latitude":58.469965,
     "geom:longitude":27.145041,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2717
+        "ee-mamt:okood":"2717"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259349113
     ],
     "wof:country":"EE",
     "wof:created":1595459865,
-    "wof:geomhash":"9c29f0402330d01869e48c5712313bc7",
+    "wof:geomhash":"0519299a4213099e583b3753e5d2f239",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660851,
+    "wof:lastmodified":1695876738,
     "wof:name":"Kargaja",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

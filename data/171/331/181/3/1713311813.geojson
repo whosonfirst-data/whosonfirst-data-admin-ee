@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Roostoja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.009258,
-    "geom:area_square_m":58832221.67013,
+    "geom:area_square_m":58832221.670127,
     "geom:bbox":"27.028253,59.017561,27.199131,59.136366",
     "geom:latitude":59.075538,
     "geom:longitude":27.120782,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7086
+        "ee-mamt:okood":"7086"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243179773
     ],
     "wof:country":"EE",
     "wof:created":1595460423,
-    "wof:geomhash":"132b7710e21793eac704c881747ae545",
+    "wof:geomhash":"737a3732c7800b672940ecb6beb1825c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660706,
+    "wof:lastmodified":1695876733,
     "wof:name":"Roostoja",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

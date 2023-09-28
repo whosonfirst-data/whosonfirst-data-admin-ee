@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Voose K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003252,
-    "geom:area_square_m":20599415.548855,
+    "geom:area_square_m":20599415.548853,
     "geom:bbox":"25.391425,59.142849,25.505686,59.215546",
     "geom:latitude":59.184877,
     "geom:longitude":25.450387,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9480
+        "ee-mamt:okood":"9480"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293897541
     ],
     "wof:country":"EE",
     "wof:created":1595460858,
-    "wof:geomhash":"2ac07371e2072d6758ba80d34f69305f",
+    "wof:geomhash":"a415e201ffab768dff820980c516424c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662793,
+    "wof:lastmodified":1695876799,
     "wof:name":"Voose",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

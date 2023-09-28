@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saarnak\u0151rve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002676,
-    "geom:area_square_m":17021942.182055,
+    "geom:area_square_m":17021942.18206,
     "geom:bbox":"25.351204,59.00705,25.410072,59.076233",
     "geom:latitude":59.039735,
     "geom:longitude":25.381235,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7308
+        "ee-mamt:okood":"7308"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310222753
     ],
     "wof:country":"EE",
     "wof:created":1595460762,
-    "wof:geomhash":"7149857c21062ad65c12ea9948d728cf",
+    "wof:geomhash":"8d02c0a62f9668c4c7e3bbd286bafbac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661345,
+    "wof:lastmodified":1695876755,
     "wof:name":"Saarnak\u0151rve",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

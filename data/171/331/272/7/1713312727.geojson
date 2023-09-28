@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Salu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000667,
-    "geom:area_square_m":4307684.541438,
+    "geom:area_square_m":4307684.541437,
     "geom:bbox":"26.696691,58.51703,26.74653,58.547426",
     "geom:latitude":58.53014,
     "geom:longitude":26.723755,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7393
+        "ee-mamt:okood":"7393"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125921845
     ],
     "wof:country":"EE",
     "wof:created":1595460610,
-    "wof:geomhash":"40c664cc6a9d2e5a235b6f5e21c7fec6",
+    "wof:geomhash":"1632fc48f6a822b5a5ec60977e207b5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676454,
+    "wof:lastmodified":1695876910,
     "wof:name":"Salu",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

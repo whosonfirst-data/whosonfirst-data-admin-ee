@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Mustvee Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.000887,
-    "geom:area_square_m":5671165.190035,
+    "geom:area_square_m":5671165.190039,
     "geom:bbox":"26.908839,58.828531,26.956344,58.867203",
     "geom:latitude":58.847943,
     "geom:longitude":26.936205,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Mustvee linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5097
+        "ee-mamt:okood":"5097"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815111
     ],
     "wof:country":"EE",
     "wof:created":1595460951,
-    "wof:geomhash":"8102e1fcfbbae1f71e5d6ac95d0725ca",
+    "wof:geomhash":"fc76f01dfcdfb4045976ac11c9fae52f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660978,
+    "wof:lastmodified":1695876742,
     "wof:name":"Mustvee",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

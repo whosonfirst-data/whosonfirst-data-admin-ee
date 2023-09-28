@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suislepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001893,
-    "geom:area_square_m":12350443.731201,
+    "geom:area_square_m":12350443.731204,
     "geom:bbox":"25.916787,58.133744,25.991928,58.175784",
     "geom:latitude":58.155345,
     "geom:longitude":25.952622,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7779
+        "ee-mamt:okood":"7779"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125914601
     ],
     "wof:country":"EE",
     "wof:created":1595459989,
-    "wof:geomhash":"d938a6e7f62f2f16b9887e08439d29c6",
+    "wof:geomhash":"8db7f6961df0df7fb4b49241a663b5a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661230,
+    "wof:lastmodified":1695876747,
     "wof:name":"Suislepa",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

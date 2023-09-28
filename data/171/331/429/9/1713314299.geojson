@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vana-Kuuste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001814,
-    "geom:area_square_m":11795726.254459,
+    "geom:area_square_m":11795726.254458,
     "geom:bbox":"26.744787,58.240573,26.831606,58.283703",
     "geom:latitude":58.262837,
     "geom:longitude":26.783743,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8992
+        "ee-mamt:okood":"8992"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890479
     ],
     "wof:country":"EE",
     "wof:created":1595460947,
-    "wof:geomhash":"c11cafaeb8d6871b35100a864b0d947c",
+    "wof:geomhash":"20dac66b983b090c08c45ce61f59086a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676681,
+    "wof:lastmodified":1695876938,
     "wof:name":"Vana-Kuuste",
     "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",

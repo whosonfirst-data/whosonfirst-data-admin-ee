@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tamme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001894,
-    "geom:area_square_m":12206379.934572,
+    "geom:area_square_m":12206379.934571,
     "geom:bbox":"24.208208,58.580033,24.315913,58.605582",
     "geom:latitude":58.590596,
     "geom:longitude":24.265029,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8092
+        "ee-mamt:okood":"8092"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310479777
     ],
     "wof:country":"EE",
     "wof:created":1595459890,
-    "wof:geomhash":"e96e31b1ef31c0a3d5027905e6776165",
+    "wof:geomhash":"42571346ec9ffd3733478c18402c19c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661559,
+    "wof:lastmodified":1695876764,
     "wof:name":"Tamme",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

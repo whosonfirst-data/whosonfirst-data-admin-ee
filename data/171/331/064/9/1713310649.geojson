@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sakla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000355,
-    "geom:area_square_m":2265441.806767,
+    "geom:area_square_m":2265441.806766,
     "geom:bbox":"22.810451,58.939605,22.850703,58.962594",
     "geom:latitude":58.950618,
     "geom:longitude":22.832744,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7349
+        "ee-mamt:okood":"7349"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276456515
     ],
     "wof:country":"EE",
     "wof:created":1595460171,
-    "wof:geomhash":"bacbc11565e1030c65dd456d264576b4",
+    "wof:geomhash":"0ccefdd3adf8ece12ad2d6a6deec7c37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666428,
+    "wof:lastmodified":1695876857,
     "wof:name":"Sakla",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Leppneeme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000471,
-    "geom:area_square_m":2952647.959093,
+    "geom:area_square_m":2952647.95909,
     "geom:bbox":"24.84025,59.534718,24.888041,59.555043",
     "geom:latitude":59.545009,
     "geom:longitude":24.866319,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4299
+        "ee-mamt:okood":"4299"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125831013
     ],
     "wof:country":"EE",
     "wof:created":1595459069,
-    "wof:geomhash":"46afb7f22e977722664d4902d5146fdb",
+    "wof:geomhash":"eaa016e675086c982e7734c797f7cd30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675368,
+    "wof:lastmodified":1695876906,
     "wof:name":"Leppneeme",
     "wof:parent_id":1713305625,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piiumetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004379,
-    "geom:area_square_m":27972425.446434,
+    "geom:area_square_m":27972425.446433,
     "geom:bbox":"25.236474,58.854564,25.370187,58.921743",
     "geom:latitude":58.892213,
     "geom:longitude":25.296407,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6206
+        "ee-mamt:okood":"6206"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327232715
     ],
     "wof:country":"EE",
     "wof:created":1595461079,
-    "wof:geomhash":"b041bc5848b9461697eed5147e30a2e4",
+    "wof:geomhash":"c4722230841e785c908c99929b556c96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677983,
+    "wof:lastmodified":1695877008,
     "wof:name":"Piiumetsa",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

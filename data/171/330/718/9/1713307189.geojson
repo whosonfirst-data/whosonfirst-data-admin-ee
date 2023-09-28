@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Salumetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000768,
-    "geom:area_square_m":4840324.020876,
+    "geom:area_square_m":4840324.020879,
     "geom:bbox":"25.271505,59.324229,25.315049,59.35573",
     "geom:latitude":59.339155,
     "geom:longitude":25.292209,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7396
+        "ee-mamt:okood":"7396"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193033609
     ],
     "wof:country":"EE",
     "wof:created":1595459341,
-    "wof:geomhash":"adeece0c6ceb79b7311e22376445d4ac",
+    "wof:geomhash":"8d8b4134b925f7cc778dd8dd887e93e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662792,
+    "wof:lastmodified":1695876798,
     "wof:name":"Salumetsa",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

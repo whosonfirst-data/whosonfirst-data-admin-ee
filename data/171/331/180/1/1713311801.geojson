@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Navesti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001937,
-    "geom:area_square_m":12485578.293921,
+    "geom:area_square_m":12485578.293924,
     "geom:bbox":"25.485984,58.568054,25.586315,58.609825",
     "geom:latitude":58.589154,
     "geom:longitude":25.531097,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5375
+        "ee-mamt:okood":"5375"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935023
     ],
     "wof:country":"EE",
     "wof:created":1595460420,
-    "wof:geomhash":"904916567aa686cf25e4792eff89c682",
+    "wof:geomhash":"f26ff2e186f93e9f9df92ba277368cdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663435,
+    "wof:lastmodified":1695876827,
     "wof:name":"Navesti",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Uralaane K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001019,
-    "geom:area_square_m":6663459.666477,
+    "geom:area_square_m":6663459.666474,
     "geom:bbox":"25.966303,58.044427,26.017391,58.077317",
     "geom:latitude":58.062676,
     "geom:longitude":25.989948,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8714
+        "ee-mamt:okood":"8714"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243329127
     ],
     "wof:country":"EE",
     "wof:created":1595460103,
-    "wof:geomhash":"58453b9ff01ab171a4d39f01704481ea",
+    "wof:geomhash":"4dbd7b812a4150b8884b0318e65d0821",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661420,
+    "wof:lastmodified":1695876758,
     "wof:name":"Uralaane",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

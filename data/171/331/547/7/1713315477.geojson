@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mutsu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000449,
-    "geom:area_square_m":2962029.351231,
+    "geom:area_square_m":2962029.351232,
     "geom:bbox":"27.274238,57.773139,27.313387,57.7962",
     "geom:latitude":57.783162,
     "geom:longitude":27.294158,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5100
+        "ee-mamt:okood":"5100"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209065381
     ],
     "wof:country":"EE",
     "wof:created":1595461228,
-    "wof:geomhash":"76e66143ca8f0509839dff7539b5de3a",
+    "wof:geomhash":"5bffb05bb6beead8099e51e6b3593c8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660240,
+    "wof:lastmodified":1695876723,
     "wof:name":"Mutsu",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

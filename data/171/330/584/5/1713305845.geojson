@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kristiine Linnaosa",
     "ee-mamt:tyyp":6,
     "geom:area":0.001238,
-    "geom:area_square_m":7791507.571297,
+    "geom:area_square_m":7791507.571294,
     "geom:bbox":"24.673696,59.393302,24.734282,59.43432",
     "geom:latitude":59.415102,
     "geom:longitude":24.711226,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "district"
+        "urban district"
     ],
     "label:est_x_preferred_longname":[
         "Kristiine linnaosa"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":339
+        "ee-mamt:okood":"339"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1713348879
     ],
     "wof:country":"EE",
     "wof:created":1595459010,
-    "wof:geomhash":"98ff0a60103bc67c0e483780158d9dd8",
+    "wof:geomhash":"b6aac9fa9bfed8754823fae8a9a7f32a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663510,
+    "wof:lastmodified":1695876832,
     "wof:name":"Kristiine",
     "wof:parent_id":1713305645,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koimula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000623,
-    "geom:area_square_m":3990085.015565,
+    "geom:area_square_m":3990085.015564,
     "geom:bbox":"26.613849,58.807609,26.665346,58.832492",
     "geom:latitude":58.818912,
     "geom:longitude":26.637601,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3302
+        "ee-mamt:okood":"3302"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260181155
     ],
     "wof:country":"EE",
     "wof:created":1595460482,
-    "wof:geomhash":"eb874bb36d30790437ead21431d331ff",
+    "wof:geomhash":"39959cf5b89a9ede3bd6f8963ead70d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676559,
+    "wof:lastmodified":1695876923,
     "wof:name":"Koimula",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

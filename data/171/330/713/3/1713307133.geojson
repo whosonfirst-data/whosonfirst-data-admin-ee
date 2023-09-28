@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pihtla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001189,
-    "geom:area_square_m":7727376.806726,
+    "geom:area_square_m":7727376.806727,
     "geom:bbox":"22.669491,58.280288,22.729274,58.332439",
     "geom:latitude":58.303596,
     "geom:longitude":22.697517,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6153
+        "ee-mamt:okood":"6153"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126057191
     ],
     "wof:country":"EE",
     "wof:created":1595459328,
-    "wof:geomhash":"2cd2a99e5cd6845da12632a306051e11",
+    "wof:geomhash":"539c8b175959e33117ee9c42b7f52a96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672133,
+    "wof:lastmodified":1695876882,
     "wof:name":"Pihtla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vihtra K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003873,
-    "geom:area_square_m":24972970.475023,
+    "geom:area_square_m":24972970.475022,
     "geom:bbox":"24.999396,58.545628,25.126339,58.600148",
     "geom:latitude":58.57315,
     "geom:longitude":25.057916,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9267
+        "ee-mamt:okood":"9267"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125908853
     ],
     "wof:country":"EE",
     "wof:created":1595461158,
-    "wof:geomhash":"e36dc83488f7201bed5780c03acd1ef3",
+    "wof:geomhash":"377f5c892b9027a593ed0eb48fba328a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663397,
+    "wof:lastmodified":1695876821,
     "wof:name":"Vihtra",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

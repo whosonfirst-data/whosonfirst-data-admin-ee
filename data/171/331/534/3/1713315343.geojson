@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karis\u00f6\u00f6di K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004825,
-    "geom:area_square_m":32017018.384686,
+    "geom:area_square_m":32017018.384665,
     "geom:bbox":"26.508857,57.509313,26.654354,57.570286",
     "geom:latitude":57.541819,
     "geom:longitude":26.576799,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2738
+        "ee-mamt:okood":"2738"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226009129
     ],
     "wof:country":"EE",
     "wof:created":1595461192,
-    "wof:geomhash":"b4e1a9ac356e7c0118385903f15fe7ec",
+    "wof:geomhash":"9d0b7e67544156c8c5ff221973dc3c19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676834,
+    "wof:lastmodified":1695876961,
     "wof:name":"Karis\u00f6\u00f6di",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

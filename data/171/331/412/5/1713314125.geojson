@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kodesmaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001419,
-    "geom:area_square_m":9133148.186591,
+    "geom:area_square_m":9133148.186594,
     "geom:bbox":"24.446717,58.61809,24.532919,58.651526",
     "geom:latitude":58.633468,
     "geom:longitude":24.489146,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3237
+        "ee-mamt:okood":"3237"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293371175
     ],
     "wof:country":"EE",
     "wof:created":1595460908,
-    "wof:geomhash":"363b1e579060e63501304ced9e503bfa",
+    "wof:geomhash":"fd95c3566ee964c2aed057a6e17abe6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663400,
+    "wof:lastmodified":1695876822,
     "wof:name":"Kodesmaa",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

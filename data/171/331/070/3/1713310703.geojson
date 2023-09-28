@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suureranna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001238,
-    "geom:area_square_m":7908100.68426,
+    "geom:area_square_m":7908100.684261,
     "geom:bbox":"22.261326,58.878213,22.328961,58.918687",
     "geom:latitude":58.901157,
     "geom:longitude":22.296332,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7850
+        "ee-mamt:okood":"7850"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276776365
     ],
     "wof:country":"EE",
     "wof:created":1595460183,
-    "wof:geomhash":"88b869c836d37c7e34f98cc155b5287b",
+    "wof:geomhash":"fcdf1dc5937ba48a2701b30001dec1fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666444,
+    "wof:lastmodified":1695876858,
     "wof:name":"Suureranna",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

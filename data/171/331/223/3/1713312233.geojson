@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u0151ikvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000639,
-    "geom:area_square_m":4098123.54829,
+    "geom:area_square_m":4098123.548289,
     "geom:bbox":"26.441375,58.721862,26.496116,58.745079",
     "geom:latitude":58.734474,
     "geom:longitude":26.470138,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9529
+        "ee-mamt:okood":"9529"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293788663
     ],
     "wof:country":"EE",
     "wof:created":1595460505,
-    "wof:geomhash":"0ddaffd4bb0a22fe5571dfab6f7e3bc2",
+    "wof:geomhash":"b2e321e0ec90268ab42869158083b423",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676558,
+    "wof:lastmodified":1695876923,
     "wof:name":"V\u0151ikvere",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

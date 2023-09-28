@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Varangu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002087,
-    "geom:area_square_m":13108847.637031,
+    "geom:area_square_m":13108847.63703,
     "geom:bbox":"26.279209,59.452957,26.358557,59.50756",
     "geom:latitude":59.477492,
     "geom:longitude":26.320955,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2779
+        "ee-mamt:okood":"2779"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226735403
     ],
     "wof:country":"EE",
     "wof:created":1595459690,
-    "wof:geomhash":"1322713a920a1782bc851c9e41a1259c",
+    "wof:geomhash":"8f682f077f11168728e04da94a3986e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678036,
+    "wof:lastmodified":1695877013,
     "wof:name":"Varangu",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

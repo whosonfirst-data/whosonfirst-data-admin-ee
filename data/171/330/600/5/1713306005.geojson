@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tapurla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000555,
-    "geom:area_square_m":3474821.386637,
+    "geom:area_square_m":3474821.386636,
     "geom:bbox":"25.517247,59.597523,25.575974,59.617361",
     "geom:latitude":59.605765,
     "geom:longitude":25.546815,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8144
+        "ee-mamt:okood":"8144"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243558703
     ],
     "wof:country":"EE",
     "wof:created":1595459053,
-    "wof:geomhash":"5b09be68d073048a6b679fb5cf72ded5",
+    "wof:geomhash":"4de4fc611d0934575b00073a8170adad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661826,
+    "wof:lastmodified":1695876779,
     "wof:name":"Tapurla",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

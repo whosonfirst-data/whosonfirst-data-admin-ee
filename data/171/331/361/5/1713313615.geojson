@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Viiratsi Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000251,
-    "geom:area_square_m":1631351.37537,
+    "geom:area_square_m":1631351.375371,
     "geom:bbox":"25.617245,58.353148,25.65468,58.366526",
     "geom:latitude":58.358374,
     "geom:longitude":25.638836,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Viiratsi alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9292
+        "ee-mamt:okood":"9292"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815087
     ],
     "wof:country":"EE",
     "wof:created":1595460800,
-    "wof:geomhash":"423ec287652606a80c09720140897ebb",
+    "wof:geomhash":"66c6ccaacaca718477c174cb8873b6f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661214,
+    "wof:lastmodified":1695876745,
     "wof:name":"Viiratsi",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

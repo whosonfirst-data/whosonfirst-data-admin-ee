@@ -8,7 +8,7 @@
     "ee-mamt:animi":"R\u00e4gavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000541,
-    "geom:area_square_m":3415778.113333,
+    "geom:area_square_m":3415778.113332,
     "geom:bbox":"26.478825,59.311201,26.522314,59.336025",
     "geom:latitude":59.322581,
     "geom:longitude":26.497059,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7199
+        "ee-mamt:okood":"7199"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126018199
     ],
     "wof:country":"EE",
     "wof:created":1595460591,
-    "wof:geomhash":"f6e1826dd7fe05705ba618c52319f155",
+    "wof:geomhash":"6373f22b24358383cfc720697a3d9f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676658,
+    "wof:lastmodified":1695876935,
     "wof:name":"R\u00e4gavere",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

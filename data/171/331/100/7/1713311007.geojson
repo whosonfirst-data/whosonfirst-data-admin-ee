@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Naruski K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000896,
-    "geom:area_square_m":5873649.423243,
+    "geom:area_square_m":5873649.423244,
     "geom:bbox":"27.081083,57.959452,27.13004,57.992825",
     "geom:latitude":57.976105,
     "geom:longitude":27.104737,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5355
+        "ee-mamt:okood":"5355"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360065505
     ],
     "wof:country":"EE",
     "wof:created":1595460246,
-    "wof:geomhash":"79f922c6e29c9840f6bf58eb3ac289cb",
+    "wof:geomhash":"3d35b7a395e7dfd0d03ed0f212ba286a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676947,
+    "wof:lastmodified":1695876973,
     "wof:name":"Naruski",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

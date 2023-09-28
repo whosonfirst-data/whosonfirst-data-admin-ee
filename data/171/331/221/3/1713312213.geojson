@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vorsti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000291,
-    "geom:area_square_m":1871869.994091,
+    "geom:area_square_m":1871869.99409,
     "geom:bbox":"25.95726,58.691451,25.991031,58.710826",
     "geom:latitude":58.701461,
     "geom:longitude":25.972952,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9486
+        "ee-mamt:okood":"9486"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310304095
     ],
     "wof:country":"EE",
     "wof:created":1595460501,
-    "wof:geomhash":"7a9302616aad188671163f9b3298154c",
+    "wof:geomhash":"b2e555c30f24183cbe6f3ea74dfbea36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676489,
+    "wof:lastmodified":1695876915,
     "wof:name":"Vorsti",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

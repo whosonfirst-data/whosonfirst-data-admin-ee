@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paduvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000963,
-    "geom:area_square_m":6165806.031732,
+    "geom:area_square_m":6165806.031731,
     "geom:bbox":"26.314111,58.787691,26.375602,58.813189",
     "geom:latitude":58.801322,
     "geom:longitude":26.338962,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5817
+        "ee-mamt:okood":"5817"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260283123
     ],
     "wof:country":"EE",
     "wof:created":1595460474,
-    "wof:geomhash":"4198af04f13bbb5f0d6ebe808cde1526",
+    "wof:geomhash":"93081f4882791f466ce3ec7c937be747",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676554,
+    "wof:lastmodified":1695876921,
     "wof:name":"Paduvere",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

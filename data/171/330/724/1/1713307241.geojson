@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Norrby K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000612,
-    "geom:area_square_m":3896435.151865,
+    "geom:area_square_m":3896435.151863,
     "geom:bbox":"23.3202,59.007402,23.364352,59.042318",
     "geom:latitude":59.019829,
     "geom:longitude":23.337678,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5453
+        "ee-mamt:okood":"5453"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343979357
     ],
     "wof:country":"EE",
     "wof:created":1595459354,
-    "wof:geomhash":"c923865dc09ef42da746641775bbe401",
+    "wof:geomhash":"bd88b61caf120b2602ed6c9801d1bdb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663595,
+    "wof:lastmodified":1695876833,
     "wof:name":"Norrby",
     "wof:parent_id":1713305639,
     "wof:placetype":"localadmin",

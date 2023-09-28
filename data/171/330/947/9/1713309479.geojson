@@ -8,7 +8,7 @@
     "ee-mamt:animi":"H\u00e4lvati K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.007915,
-    "geom:area_square_m":50877122.592254,
+    "geom:area_square_m":50877122.592257,
     "geom:bbox":"23.820968,58.629988,24.005026,58.713812",
     "geom:latitude":58.677994,
     "geom:longitude":23.919143,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1936
+        "ee-mamt:okood":"1936"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293192383
     ],
     "wof:country":"EE",
     "wof:created":1595459895,
-    "wof:geomhash":"29df7f3b108f87c5756c1d6ba145ef81",
+    "wof:geomhash":"f31eef6ca2d9ce97e2370f2f65a432bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617131192,
+    "wof:lastmodified":1695877019,
     "wof:name":"H\u00e4lvati",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

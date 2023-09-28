@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koidu-Ellavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001189,
-    "geom:area_square_m":7591139.971848,
+    "geom:area_square_m":7591139.971847,
     "geom:bbox":"25.97442,58.878674,26.031796,58.924612",
     "geom:latitude":58.90454,
     "geom:longitude":26.00387,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3273
+        "ee-mamt:okood":"3273"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260086351
     ],
     "wof:country":"EE",
     "wof:created":1595459249,
-    "wof:geomhash":"7545d979eba5c995251bef6ae12b922b",
+    "wof:geomhash":"6979f8341d66edb961c1f490062fda9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676619,
+    "wof:lastmodified":1695876930,
     "wof:name":"Koidu-Ellavere",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

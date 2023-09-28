@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002325,
-    "geom:area_square_m":14988713.769312,
+    "geom:area_square_m":14988713.769308,
     "geom:bbox":"26.473144,58.562142,26.584292,58.601982",
     "geom:latitude":58.580047,
     "geom:longitude":26.529494,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7542
+        "ee-mamt:okood":"7542"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293593901
     ],
     "wof:country":"EE",
     "wof:created":1595460844,
-    "wof:geomhash":"9e8d977c9008669a6eb21a3ed7f8885e",
+    "wof:geomhash":"050a7da96e2141c1836db3e2a553e5f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676452,
+    "wof:lastmodified":1695876909,
     "wof:name":"Sepa",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

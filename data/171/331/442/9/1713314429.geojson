@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u00fcrisalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001015,
-    "geom:area_square_m":6384947.889969,
+    "geom:area_square_m":6384947.889968,
     "geom:bbox":"24.297119,59.382709,24.348074,59.421724",
     "geom:latitude":59.404391,
     "geom:longitude":24.322877,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8599
+        "ee-mamt:okood":"8599"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125817131
     ],
     "wof:country":"EE",
     "wof:created":1595460980,
-    "wof:geomhash":"d7f40eb7d9dc36e9099cdc8926dde0f4",
+    "wof:geomhash":"0101e86b3b4786145389fd264b53267c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661452,
+    "wof:lastmodified":1695876761,
     "wof:name":"T\u00fcrisalu",
     "wof:parent_id":1713305681,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Edise K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00089,
-    "geom:area_square_m":5609657.690934,
+    "geom:area_square_m":5609657.690936,
     "geom:bbox":"27.35161,59.356476,27.404298,59.387455",
     "geom:latitude":59.370943,
     "geom:longitude":27.376715,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1524
+        "ee-mamt:okood":"1524"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126003571
     ],
     "wof:country":"EE",
     "wof:created":1595459162,
-    "wof:geomhash":"824897e6c4e63e5aa8c97b575510082a",
+    "wof:geomhash":"5366226bda6f4ba29c9e4aaedba2bdb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676509,
+    "wof:lastmodified":1695876917,
     "wof:name":"Edise",
     "wof:parent_id":1713305651,
     "wof:placetype":"localadmin",

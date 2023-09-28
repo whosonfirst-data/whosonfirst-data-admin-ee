@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Neitla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000382,
-    "geom:area_square_m":2427053.239414,
+    "geom:area_square_m":2427053.239415,
     "geom:bbox":"25.721342,59.094549,25.768472,59.109705",
     "geom:latitude":59.101843,
     "geom:longitude":25.747177,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5402
+        "ee-mamt:okood":"5402"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310029545
     ],
     "wof:country":"EE",
     "wof:created":1595459267,
-    "wof:geomhash":"4db1dd6c44cd86ad324fb53da83f1aec",
+    "wof:geomhash":"bf7499ddb8276628cbe868689a238287",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676620,
+    "wof:lastmodified":1695876931,
     "wof:name":"Neitla",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

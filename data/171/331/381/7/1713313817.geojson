@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rassi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.009745,
-    "geom:area_square_m":62704072.487763,
+    "geom:area_square_m":62704072.48777,
     "geom:bbox":"25.247081,58.606137,25.446681,58.688675",
     "geom:latitude":58.644064,
     "geom:longitude":25.350234,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6831
+        "ee-mamt:okood":"6831"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225968459
     ],
     "wof:country":"EE",
     "wof:created":1595460843,
-    "wof:geomhash":"ac488b8a45dd881e558ccadb4686830e",
+    "wof:geomhash":"605ddefe6e8d02d3a20b3e08598bb66b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677982,
+    "wof:lastmodified":1695877008,
     "wof:name":"Rassi",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

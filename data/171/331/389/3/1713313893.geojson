@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Savikoja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001018,
-    "geom:area_square_m":6598252.097245,
+    "geom:area_square_m":6598252.097244,
     "geom:bbox":"26.836363,58.38038,26.901088,58.410451",
     "geom:latitude":58.394725,
     "geom:longitude":26.868601,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7491
+        "ee-mamt:okood":"7491"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209390773
     ],
     "wof:country":"EE",
     "wof:created":1595460859,
-    "wof:geomhash":"e04fdedbe4dd87c75fae3451f89680d7",
+    "wof:geomhash":"08964314f736817cb729fa9f5e2a1743",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660673,
+    "wof:lastmodified":1695876730,
     "wof:name":"Savikoja",
     "wof:parent_id":1713305697,
     "wof:placetype":"localadmin",

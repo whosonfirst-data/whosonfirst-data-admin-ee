@@ -8,7 +8,7 @@
     "ee-mamt:animi":"L\u0151pemetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001643,
-    "geom:area_square_m":10484882.69223,
+    "geom:area_square_m":10484882.692233,
     "geom:bbox":"24.572832,58.888507,24.63309,58.942402",
     "geom:latitude":58.922005,
     "geom:longitude":24.599,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4614
+        "ee-mamt:okood":"4614"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343647913
     ],
     "wof:country":"EE",
     "wof:created":1595460981,
-    "wof:geomhash":"e6741611c37141fdb8d75733017ab8a5",
+    "wof:geomhash":"3daaf3c618823a9049f638c5f2df2670",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676711,
+    "wof:lastmodified":1695876944,
     "wof:name":"L\u0151pemetsa",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

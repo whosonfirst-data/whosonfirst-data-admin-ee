@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rutikvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001648,
-    "geom:area_square_m":10561830.814039,
+    "geom:area_square_m":10561830.814038,
     "geom:bbox":"25.904462,58.751193,25.97115,58.804568",
     "geom:latitude":58.775339,
     "geom:longitude":25.944644,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7135
+        "ee-mamt:okood":"7135"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309929753
     ],
     "wof:country":"EE",
     "wof:created":1595461029,
-    "wof:geomhash":"8c6dff738386cb96cf5b0571b693226c",
+    "wof:geomhash":"a8016356a3d2deea8134852788019283",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676631,
+    "wof:lastmodified":1695876934,
     "wof:name":"Rutikvere",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

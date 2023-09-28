@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Keibu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003207,
-    "geom:area_square_m":20283110.900327,
+    "geom:area_square_m":20283110.900331,
     "geom:bbox":"23.729992,59.206323,23.799995,59.273821",
     "geom:latitude":59.238009,
     "geom:longitude":23.759559,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2927
+        "ee-mamt:okood":"2927"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1292907621
     ],
     "wof:country":"EE",
     "wof:created":1595459464,
-    "wof:geomhash":"8d88e040c83635ec65434e32fce76fff",
+    "wof:geomhash":"7f5c169c222f2b7d6089ca44bd76fdd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663288,
+    "wof:lastmodified":1695876813,
     "wof:name":"Keibu",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

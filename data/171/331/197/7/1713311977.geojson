@@ -8,7 +8,7 @@
     "ee-mamt:animi":"R\u00e4itsvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0012,
-    "geom:area_square_m":7640611.678445,
+    "geom:area_square_m":7640611.678444,
     "geom:bbox":"26.196683,58.997087,26.255814,59.030709",
     "geom:latitude":59.011819,
     "geom:longitude":26.227248,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7202
+        "ee-mamt:okood":"7202"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276330151
     ],
     "wof:country":"EE",
     "wof:created":1595460456,
-    "wof:geomhash":"a078c038c63edfa7df87cfa12d0b30ff",
+    "wof:geomhash":"bd0ee8d6da914fd180c79ba09803fe93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676528,
+    "wof:lastmodified":1695876919,
     "wof:name":"R\u00e4itsvere",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

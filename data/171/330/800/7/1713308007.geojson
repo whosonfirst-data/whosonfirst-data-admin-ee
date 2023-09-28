@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Laekvere Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.001288,
-    "geom:area_square_m":8186650.419425,
+    "geom:area_square_m":8186650.419426,
     "geom:bbox":"26.533368,59.059109,26.595676,59.092451",
     "geom:latitude":59.07599,
     "geom:longitude":26.566281,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Laekvere alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4035
+        "ee-mamt:okood":"4035"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125934665
     ],
     "wof:country":"EE",
     "wof:created":1595459537,
-    "wof:geomhash":"5894458eff65f622770c8c6eddae80c2",
+    "wof:geomhash":"eb5734deba5fcfea78d80fc0591582db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677948,
+    "wof:lastmodified":1695877004,
     "wof:name":"Laekvere",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

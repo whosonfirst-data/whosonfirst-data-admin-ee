@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Linaleo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000328,
-    "geom:area_square_m":2111144.458252,
+    "geom:area_square_m":2111144.458253,
     "geom:bbox":"27.093566,58.628341,27.129789,58.646325",
     "geom:latitude":58.636368,
     "geom:longitude":27.11456,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4379
+        "ee-mamt:okood":"4379"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343624837
     ],
     "wof:country":"EE",
     "wof:created":1595459881,
-    "wof:geomhash":"7c5030eb855d4021fe2cc36b48dc601c",
+    "wof:geomhash":"8502b4f6be297e2b3893d5cad8afd12f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660864,
+    "wof:lastmodified":1695876739,
     "wof:name":"Linaleo",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

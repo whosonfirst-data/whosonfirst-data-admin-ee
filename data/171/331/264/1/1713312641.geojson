@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiia K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001532,
-    "geom:area_square_m":9656859.670813,
+    "geom:area_square_m":9656859.670815,
     "geom:bbox":"24.450157,59.333237,24.513218,59.376582",
     "geom:latitude":59.356932,
     "geom:longitude":24.482053,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3025
+        "ee-mamt:okood":"3025"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126003735
     ],
     "wof:country":"EE",
     "wof:created":1595460587,
-    "wof:geomhash":"f8ee742768869b229bf45f76092fb462",
+    "wof:geomhash":"aabe06dc1e9845cf7ae09a483ad1f631",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663236,
+    "wof:lastmodified":1695876812,
     "wof:name":"Kiia",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

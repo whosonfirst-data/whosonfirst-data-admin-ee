@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pori K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001445,
-    "geom:area_square_m":9443987.687358,
+    "geom:area_square_m":9443987.687354,
     "geom:bbox":"25.820199,58.061919,25.879206,58.100524",
     "geom:latitude":58.080197,
     "geom:longitude":25.850965,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6330
+        "ee-mamt:okood":"6330"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293554883
     ],
     "wof:country":"EE",
     "wof:created":1595460963,
-    "wof:geomhash":"7e1e4a5ad8db97973a756cad1d6a0db7",
+    "wof:geomhash":"9d76ce37af6b161f181631c83a471c7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661427,
+    "wof:lastmodified":1695876759,
     "wof:name":"Pori",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Leetva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002667,
-    "geom:area_square_m":17210726.325776,
+    "geom:area_square_m":17210726.325778,
     "geom:bbox":"25.080253,58.515586,25.190389,58.568388",
     "geom:latitude":58.544125,
     "geom:longitude":25.131336,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4190
+        "ee-mamt:okood":"4190"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276967425
     ],
     "wof:country":"EE",
     "wof:created":1595461108,
-    "wof:geomhash":"b6f3cfe2295d42fe0f7edcb1803c8390",
+    "wof:geomhash":"0f104d3b6085d2317e814fbca92722ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663415,
+    "wof:lastmodified":1695876826,
     "wof:name":"Leetva",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

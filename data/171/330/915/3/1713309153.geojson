@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rehemetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003157,
-    "geom:area_square_m":20418205.534099,
+    "geom:area_square_m":20418205.534098,
     "geom:bbox":"27.165111,58.439452,27.246563,58.498225",
     "geom:latitude":58.466228,
     "geom:longitude":27.204337,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6902
+        "ee-mamt:okood":"6902"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344120167
     ],
     "wof:country":"EE",
     "wof:created":1595459820,
-    "wof:geomhash":"b4428a2236a7732d22418fae4e4bbdba",
+    "wof:geomhash":"c5bf27e34cae1f9ca37bd0aa3c76b923",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660842,
+    "wof:lastmodified":1695876737,
     "wof:name":"Rehemetsa",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

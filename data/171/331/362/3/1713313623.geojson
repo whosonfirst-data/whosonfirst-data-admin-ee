@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Peressaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00606,
-    "geom:area_square_m":38499574.821749,
+    "geom:area_square_m":38499574.821753,
     "geom:bbox":"26.807272,59.034642,26.939803,59.124336",
     "geom:latitude":59.081494,
     "geom:longitude":26.85564,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6117
+        "ee-mamt:okood":"6117"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310206943
     ],
     "wof:country":"EE",
     "wof:created":1595460801,
-    "wof:geomhash":"86a296ab9a74d39a6f9e6c9fbe81cb40",
+    "wof:geomhash":"2a7aefe96224792492f79c2551a9dbb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660723,
+    "wof:lastmodified":1695876734,
     "wof:name":"Peressaare",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

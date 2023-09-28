@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pedaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001168,
-    "geom:area_square_m":7633644.710204,
+    "geom:area_square_m":7633644.710206,
     "geom:bbox":"26.210956,58.074514,26.279017,58.114368",
     "geom:latitude":58.096907,
     "geom:longitude":26.244009,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6071
+        "ee-mamt:okood":"6071"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276737949
     ],
     "wof:country":"EE",
     "wof:created":1595460094,
-    "wof:geomhash":"3236fba4ab92dae02a906a9c179daee3",
+    "wof:geomhash":"62133ac136eb9560af993ea9193717d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661905,
+    "wof:lastmodified":1695876787,
     "wof:name":"Pedaste",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

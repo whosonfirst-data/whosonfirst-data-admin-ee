@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rassiotsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001197,
-    "geom:area_square_m":7643100.62961,
+    "geom:area_square_m":7643100.629609,
     "geom:bbox":"24.471265,58.90003,24.560665,58.928999",
     "geom:latitude":58.915251,
     "geom:longitude":24.510106,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6832
+        "ee-mamt:okood":"6832"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293568679
     ],
     "wof:country":"EE",
     "wof:created":1595460313,
-    "wof:geomhash":"75525b02a41c812e094eaf966ebe3cbd",
+    "wof:geomhash":"eedcd49e901ab6a7ebc6d691d52ac256",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662823,
+    "wof:lastmodified":1695876804,
     "wof:name":"Rassiotsa",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"V\u0151su Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.00092,
-    "geom:area_square_m":5758974.008175,
+    "geom:area_square_m":5758974.008178,
     "geom:bbox":"25.927366,59.562367,25.997907,59.590455",
     "geom:latitude":59.575286,
     "geom:longitude":25.965099,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "V\u0151su alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9592
+        "ee-mamt:okood":"9592"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125932297
     ],
     "wof:country":"EE",
     "wof:created":1595459699,
-    "wof:geomhash":"18a6c7783bd02f7a50e3c08d9d594096",
+    "wof:geomhash":"b92a755c19f9639ab75c8a072166bc17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678019,
+    "wof:lastmodified":1695877010,
     "wof:name":"V\u0151su",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

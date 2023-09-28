@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kriimani K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000954,
-    "geom:area_square_m":6205159.779352,
+    "geom:area_square_m":6205159.779354,
     "geom:bbox":"26.925857,58.26377,26.985807,58.297462",
     "geom:latitude":58.279575,
     "geom:longitude":26.957704,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3500
+        "ee-mamt:okood":"3500"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209781975
     ],
     "wof:country":"EE",
     "wof:created":1595460311,
-    "wof:geomhash":"8a81f46aa0df8993fb96d28d47082cf2",
+    "wof:geomhash":"e3808fe9706feb0f18c2bc3d71f2d626",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660643,
+    "wof:lastmodified":1695876728,
     "wof:name":"Kriimani",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

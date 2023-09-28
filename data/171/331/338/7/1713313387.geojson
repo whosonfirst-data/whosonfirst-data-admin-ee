@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Valga Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.002513,
-    "geom:area_square_m":16565853.572395,
+    "geom:area_square_m":16565853.572399,
     "geom:bbox":"26.020427,57.755916,26.12353,57.803917",
     "geom:latitude":57.778475,
     "geom:longitude":26.070784,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Valga linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8918
+        "ee-mamt:okood":"8918"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101841149
     ],
     "wof:country":"EE",
     "wof:created":1595460751,
-    "wof:geomhash":"dd81208f5132bcc827b706f779ea7cdd",
+    "wof:geomhash":"08711f5b43482d587db3d55b0fcb2e45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661939,
+    "wof:lastmodified":1695876790,
     "wof:name":"Valga",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

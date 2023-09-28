@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0007,
-    "geom:area_square_m":4537261.217552,
+    "geom:area_square_m":4537261.217551,
     "geom:bbox":"23.811331,58.35781,23.861818,58.381714",
     "geom:latitude":58.371445,
     "geom:longitude":23.83668,
@@ -56,11 +56,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7287
+        "ee-mamt:okood":"7287"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459772,
-    "wof:geomhash":"034586f70804e8b804c4da1513af7937",
+    "wof:geomhash":"c327abdc39ff173cb3b946d96ad929ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +78,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502252,
+    "wof:lastmodified":1695877024,
     "wof:name":"Saare",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

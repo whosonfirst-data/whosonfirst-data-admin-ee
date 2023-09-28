@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaisi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004019,
-    "geom:area_square_m":25446658.072883,
+    "geom:area_square_m":25446658.072882,
     "geom:bbox":"23.669428,59.168776,23.78319,59.237426",
     "geom:latitude":59.196667,
     "geom:longitude":23.728577,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8890
+        "ee-mamt:okood":"8890"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293581113
     ],
     "wof:country":"EE",
     "wof:created":1595459757,
-    "wof:geomhash":"e8909152a79301593faa38040ad6e2d3",
+    "wof:geomhash":"49a820b2f1e704dcc8113c3fddbd75c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677179,
+    "wof:lastmodified":1695876986,
     "wof:name":"Vaisi",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

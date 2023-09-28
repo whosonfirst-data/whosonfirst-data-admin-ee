@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paju-Kurdla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001061,
-    "geom:area_square_m":6862799.72608,
+    "geom:area_square_m":6862799.726078,
     "geom:bbox":"22.94287,58.430215,23.028879,58.465286",
     "geom:latitude":58.445899,
     "geom:longitude":22.984661,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5882
+        "ee-mamt:okood":"5882"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226516059
     ],
     "wof:country":"EE",
     "wof:created":1595459292,
-    "wof:geomhash":"2ca1597f348ca3cfbfe6547dd9af6eea",
+    "wof:geomhash":"87f74f455b9abb7cd364ef1fc72fcb4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672082,
+    "wof:lastmodified":1695876880,
     "wof:name":"Paju-Kurdla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

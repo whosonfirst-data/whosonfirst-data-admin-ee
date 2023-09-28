@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ohtu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004636,
-    "geom:area_square_m":29292761.14582,
+    "geom:area_square_m":29292761.145818,
     "geom:bbox":"24.307102,59.236311,24.445673,59.300175",
     "geom:latitude":59.270036,
     "geom:longitude":24.376931,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5628
+        "ee-mamt:okood":"5628"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125971443
     ],
     "wof:country":"EE",
     "wof:created":1595460594,
-    "wof:geomhash":"b8eb53823c764ba5821f78ef6e0d9a95",
+    "wof:geomhash":"56ffe5b31984bb732fa60614db8d700e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663285,
+    "wof:lastmodified":1695876813,
     "wof:name":"Ohtu",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

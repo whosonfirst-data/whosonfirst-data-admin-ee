@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lutsu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000186,
-    "geom:area_square_m":1177484.531495,
+    "geom:area_square_m":1177484.531496,
     "geom:bbox":"25.125253,59.109997,25.147965,59.124737",
     "geom:latitude":59.117138,
     "geom:longitude":25.136861,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4577
+        "ee-mamt:okood":"4577"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326639509
     ],
     "wof:country":"EE",
     "wof:created":1595459139,
-    "wof:geomhash":"178e93841ece411d0614b6aedf636c1c",
+    "wof:geomhash":"a31b49c26c54c238a13c224f3e28f0d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661338,
+    "wof:lastmodified":1695876754,
     "wof:name":"Lutsu",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

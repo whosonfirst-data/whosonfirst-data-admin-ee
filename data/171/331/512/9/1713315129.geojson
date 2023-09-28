@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vana-Roosa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003461,
-    "geom:area_square_m":22878526.257278,
+    "geom:area_square_m":22878526.257281,
     "geom:bbox":"26.590224,57.653326,26.693672,57.707854",
     "geom:latitude":57.680708,
     "geom:longitude":26.646122,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9002
+        "ee-mamt:okood":"9002"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125778813
     ],
     "wof:country":"EE",
     "wof:created":1595461138,
-    "wof:geomhash":"6af1be0728aa312523decb22bc8ee0f0",
+    "wof:geomhash":"b4c73f5fc5053620009bd7e8f67a29a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676819,
+    "wof:lastmodified":1695876957,
     "wof:name":"Vana-Roosa",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

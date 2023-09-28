@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ohepalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001741,
-    "geom:area_square_m":10978983.385482,
+    "geom:area_square_m":10978983.38548,
     "geom:bbox":"25.931378,59.315073,25.999538,59.365326",
     "geom:latitude":59.340631,
     "geom:longitude":25.960613,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5620
+        "ee-mamt:okood":"5620"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293277829
     ],
     "wof:country":"EE",
     "wof:created":1595460562,
-    "wof:geomhash":"0a328d8bf70efd748a9e7de39b128a1c",
+    "wof:geomhash":"d6db8dba0803be114bd5aa7fb5037ee2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661716,
+    "wof:lastmodified":1695876774,
     "wof:name":"Ohepalu",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

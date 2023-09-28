@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Seidla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000443,
-    "geom:area_square_m":2810649.73891,
+    "geom:area_square_m":2810649.738909,
     "geom:bbox":"25.681968,59.087882,25.723406,59.109559",
     "geom:latitude":59.099955,
     "geom:longitude":25.701221,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7505
+        "ee-mamt:okood":"7505"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343864443
     ],
     "wof:country":"EE",
     "wof:created":1595459269,
-    "wof:geomhash":"3dea6321f9d1873f5c06429ebc288ba6",
+    "wof:geomhash":"0a0fea2a739ec7741687274dab42f38d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676623,
+    "wof:lastmodified":1695876932,
     "wof:name":"Seidla",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

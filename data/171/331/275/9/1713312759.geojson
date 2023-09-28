@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lestima K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001681,
-    "geom:area_square_m":10683056.136725,
+    "geom:area_square_m":10683056.136722,
     "geom:bbox":"24.447816,59.049481,24.537119,59.08278",
     "geom:latitude":59.065433,
     "geom:longitude":24.49067,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4302
+        "ee-mamt:okood":"4302"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276205825
     ],
     "wof:country":"EE",
     "wof:created":1595460616,
-    "wof:geomhash":"735eae8f7647751c97e070f376d68ab2",
+    "wof:geomhash":"d2fdee239ee29666c94820ce80156d58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662825,
+    "wof:lastmodified":1695876805,
     "wof:name":"Lestima",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

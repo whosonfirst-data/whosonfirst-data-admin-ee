@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ama K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00218,
-    "geom:area_square_m":13715475.503266,
+    "geom:area_square_m":13715475.503271,
     "geom:bbox":"26.019692,59.392874,26.100926,59.446328",
     "geom:latitude":59.423292,
     "geom:longitude":26.057328,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1245
+        "ee-mamt:okood":"1245"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126038999
     ],
     "wof:country":"EE",
     "wof:created":1595460720,
-    "wof:geomhash":"01cc4951c054815951f8ca072e3d332f",
+    "wof:geomhash":"9af46cc4dab9e54ceff2715832f60359",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661722,
+    "wof:lastmodified":1695876774,
     "wof:name":"Ama",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

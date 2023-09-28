@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Imste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001044,
-    "geom:area_square_m":6793475.219079,
+    "geom:area_square_m":6793475.21908,
     "geom:bbox":"27.037177,58.24528,27.111181,58.273914",
     "geom:latitude":58.261257,
     "geom:longitude":27.078891,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2076
+        "ee-mamt:okood":"2076"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326896719
     ],
     "wof:country":"EE",
     "wof:created":1595460305,
-    "wof:geomhash":"b90fb1a6b7bc39b0ffd08aa5cbbabe1e",
+    "wof:geomhash":"26044375709af8a1f41e4059c51bc801",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660649,
+    "wof:lastmodified":1695876729,
     "wof:name":"Imste",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

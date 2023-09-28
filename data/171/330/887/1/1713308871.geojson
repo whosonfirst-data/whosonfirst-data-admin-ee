@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pivarootsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000982,
-    "geom:area_square_m":6335051.194502,
+    "geom:area_square_m":6335051.1945,
     "geom:bbox":"23.567433,58.534535,23.629282,58.566423",
     "geom:latitude":58.553125,
     "geom:longitude":23.602599,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6286
+        "ee-mamt:okood":"6286"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226741515
     ],
     "wof:country":"EE",
     "wof:created":1595459753,
-    "wof:geomhash":"9a54d188fdcf55cbc6584e29c8858ff5",
+    "wof:geomhash":"6d2edb03e6dafc5d6545e9c06cb5700e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661633,
+    "wof:lastmodified":1695876771,
     "wof:name":"Pivarootsi",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Metsav\u00e4lja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00075,
-    "geom:area_square_m":4719255.474469,
+    "geom:area_square_m":4719255.47447,
     "geom:bbox":"26.712285,59.380509,26.756178,59.415947",
     "geom:latitude":59.395441,
     "geom:longitude":26.731753,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4926
+        "ee-mamt:okood":"4926"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125836981
     ],
     "wof:country":"EE",
     "wof:created":1595459459,
-    "wof:geomhash":"c369c497075e5c32bca458490940b10f",
+    "wof:geomhash":"44fbc3a13ee86300ca3732a92f660230",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677923,
+    "wof:lastmodified":1695877001,
     "wof:name":"Metsav\u00e4lja",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

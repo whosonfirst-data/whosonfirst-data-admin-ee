@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiruma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000249,
-    "geom:area_square_m":1607220.303767,
+    "geom:area_square_m":1607220.303768,
     "geom:bbox":"22.359571,58.465255,22.380492,58.480399",
     "geom:latitude":58.473265,
     "geom:longitude":22.370759,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3152
+        "ee-mamt:okood":"3152"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243337311
     ],
     "wof:country":"EE",
     "wof:created":1595459355,
-    "wof:geomhash":"7a4fb3385daca8530e694f4b25d5bd50",
+    "wof:geomhash":"46c510dfa5a5126a83b24bfa99f9077d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671927,
+    "wof:lastmodified":1695876874,
     "wof:name":"Kiruma",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

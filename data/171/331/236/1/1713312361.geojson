@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raaduvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002541,
-    "geom:area_square_m":16273381.082147,
+    "geom:area_square_m":16273381.082146,
     "geom:bbox":"26.396086,58.769947,26.505101,58.83762",
     "geom:latitude":58.805887,
     "geom:longitude":26.446633,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6684
+        "ee-mamt:okood":"6684"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226650801
     ],
     "wof:country":"EE",
     "wof:created":1595460528,
-    "wof:geomhash":"043496d7006b3b780c740e4b8b524152",
+    "wof:geomhash":"272f57362b7a3d7e53371dd78b2bfb81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676560,
+    "wof:lastmodified":1695876924,
     "wof:name":"Raaduvere",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

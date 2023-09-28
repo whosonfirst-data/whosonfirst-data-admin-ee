@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rajak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00049,
-    "geom:area_square_m":3102060.292311,
+    "geom:area_square_m":3102060.292313,
     "geom:bbox":"27.308216,59.222214,27.354422,59.247546",
     "geom:latitude":59.234415,
     "geom:longitude":27.330952,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6767
+        "ee-mamt:okood":"6767"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276336705
     ],
     "wof:country":"EE",
     "wof:created":1595460389,
-    "wof:geomhash":"3fbb50ca08f883bf824008fa52ff1e2e",
+    "wof:geomhash":"adb01aa0b05c951e6299aa49209bee07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660684,
+    "wof:lastmodified":1695876731,
     "wof:name":"Rajak\u00fcla",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

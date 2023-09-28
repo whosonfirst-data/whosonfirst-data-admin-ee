@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Udria K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00163,
-    "geom:area_square_m":10265494.32632,
+    "geom:area_square_m":10265494.326319,
     "geom:bbox":"27.876291,59.376742,27.961636,59.406799",
     "geom:latitude":59.390085,
     "geom:longitude":27.914498,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8619
+        "ee-mamt:okood":"8619"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293106435
     ],
     "wof:country":"EE",
     "wof:created":1595459478,
-    "wof:geomhash":"74d777c9a5d3308f4b7badfa2523d794",
+    "wof:geomhash":"33e6d0ad3e962f39862357c871c296ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677758,
+    "wof:lastmodified":1695876998,
     "wof:name":"Udria",
     "wof:parent_id":1713305779,
     "wof:placetype":"localadmin",

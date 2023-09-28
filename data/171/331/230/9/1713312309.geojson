@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaave K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00057,
-    "geom:area_square_m":3657121.547389,
+    "geom:area_square_m":3657121.54739,
     "geom:bbox":"26.258259,58.720615,26.294022,58.747383",
     "geom:latitude":58.734734,
     "geom:longitude":26.273789,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2436
+        "ee-mamt:okood":"2436"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360008519
     ],
     "wof:country":"EE",
     "wof:created":1595460518,
-    "wof:geomhash":"fc4960396f1caa7d8f64458201efc188",
+    "wof:geomhash":"b10a6187723cd0f03e17c6512b0b255f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676557,
+    "wof:lastmodified":1695876923,
     "wof:name":"Kaave",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

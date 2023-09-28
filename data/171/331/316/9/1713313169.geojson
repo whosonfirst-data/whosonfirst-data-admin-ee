@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kiili Alev",
     "ee-mamt:tyyp":3,
     "geom:area":0.001134,
-    "geom:area_square_m":7157038.249172,
+    "geom:area_square_m":7157038.249171,
     "geom:bbox":"24.805445,59.292119,24.870398,59.320371",
     "geom:latitude":59.307964,
     "geom:longitude":24.837798,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "alev"
+        "town"
     ],
     "label:est_x_preferred_longname":[
         "Kiili alev"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3039
+        "ee-mamt:okood":"3039"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815193
     ],
     "wof:country":"EE",
     "wof:created":1595460705,
-    "wof:geomhash":"20f3008308ecc0cca5c94830904461d2",
+    "wof:geomhash":"a37383e147652d46d6128ee70555fa9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663494,
+    "wof:lastmodified":1695876831,
     "wof:name":"Kiili",
     "wof:parent_id":1713305643,
     "wof:placetype":"localadmin",

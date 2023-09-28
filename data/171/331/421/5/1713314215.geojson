@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nepste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00735,
-    "geom:area_square_m":48036146.453092,
+    "geom:area_square_m":48036146.453084,
     "geom:bbox":"24.554642,58.048932,24.699372,58.140586",
     "geom:latitude":58.090464,
     "geom:longitude":24.626983,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5403
+        "ee-mamt:okood":"5403"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242765769
     ],
     "wof:country":"EE",
     "wof:created":1595460927,
-    "wof:geomhash":"adf8a3bdde4e2d4c7f0217c31744b718",
+    "wof:geomhash":"ad4235aaa668198f59e94172ec07bc2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663027,
+    "wof:lastmodified":1695876806,
     "wof:name":"Nepste",
     "wof:parent_id":1713305741,
     "wof:placetype":"localadmin",

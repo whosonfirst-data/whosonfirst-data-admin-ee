@@ -14,7 +14,7 @@
     "geom:longitude":26.658094,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Varstu alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9095
+        "ee-mamt:okood":"9095"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125835897
     ],
     "wof:country":"EE",
     "wof:created":1595461080,
-    "wof:geomhash":"35d5b4ffd3f819003f90cb26f2cf1ccc",
+    "wof:geomhash":"bec3dc4714cdfa98db9ce1bdc1380ee0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676832,
+    "wof:lastmodified":1695876960,
     "wof:name":"Varstu",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

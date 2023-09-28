@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aruvalla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002587,
-    "geom:area_square_m":16357231.849885,
+    "geom:area_square_m":16357231.849886,
     "geom:bbox":"24.975271,59.228521,25.08934,59.270854",
     "geom:latitude":59.249287,
     "geom:longitude":25.024123,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1391
+        "ee-mamt:okood":"1391"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125868001
     ],
     "wof:country":"EE",
     "wof:created":1595460804,
-    "wof:geomhash":"c344888777b4bae1cc72b57b45a27d27",
+    "wof:geomhash":"e8210ec85143581dce11c27416eb7640",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661472,
+    "wof:lastmodified":1695876762,
     "wof:name":"Aruvalla",
     "wof:parent_id":1713305683,
     "wof:placetype":"localadmin",

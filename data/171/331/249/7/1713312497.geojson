@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tagassaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003291,
-    "geom:area_square_m":21190308.719549,
+    "geom:area_square_m":21190308.719545,
     "geom:bbox":"25.110476,58.598809,25.262836,58.647608",
     "geom:latitude":58.62338,
     "geom:longitude":25.189429,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8055
+        "ee-mamt:okood":"8055"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1192996473
     ],
     "wof:country":"EE",
     "wof:created":1595460556,
-    "wof:geomhash":"ad4fda42041bf5edf203307829357f31",
+    "wof:geomhash":"32f3c6c3ac5c48e293299f10bee3104d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663396,
+    "wof:lastmodified":1695876821,
     "wof:name":"Tagassaare",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

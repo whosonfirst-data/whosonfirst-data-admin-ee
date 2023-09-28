@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Terepi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001323,
-    "geom:area_square_m":8624345.828372,
+    "geom:area_square_m":8624345.828375,
     "geom:bbox":"27.222934,58.166514,27.296075,58.210209",
     "geom:latitude":58.185933,
     "geom:longitude":27.264981,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8198
+        "ee-mamt:okood":"8198"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259856665
     ],
     "wof:country":"EE",
     "wof:created":1595460223,
-    "wof:geomhash":"08d120b10db272bfcd9e18c519d263c2",
+    "wof:geomhash":"1e3abbf4a7450dca7ee4a87c50e1edac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676947,
+    "wof:lastmodified":1695876973,
     "wof:name":"Terepi",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

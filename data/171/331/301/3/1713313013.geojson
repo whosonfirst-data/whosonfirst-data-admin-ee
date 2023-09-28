@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Illi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001209,
-    "geom:area_square_m":7877449.287881,
+    "geom:area_square_m":7877449.28788,
     "geom:bbox":"26.420422,58.18201,26.47671,58.218744",
     "geom:latitude":58.198213,
     "geom:longitude":26.447766,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2039
+        "ee-mamt:okood":"2039"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460672,
-    "wof:geomhash":"43951bfb91310d0bb742a04ce6731543",
+    "wof:geomhash":"8b89cfd0aca457468f5fc7e44aaad558",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676752,
+    "wof:lastmodified":1695876948,
     "wof:name":"Illi",
     "wof:parent_id":1713305715,
     "wof:placetype":"localadmin",

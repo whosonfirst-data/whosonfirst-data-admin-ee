@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saia K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000567,
-    "geom:area_square_m":3679503.752014,
+    "geom:area_square_m":3679503.752013,
     "geom:bbox":"22.435272,58.31353,22.471354,58.344558",
     "geom:latitude":58.331149,
     "geom:longitude":22.454176,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7340
+        "ee-mamt:okood":"7340"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243525573
     ],
     "wof:country":"EE",
     "wof:created":1595459221,
-    "wof:geomhash":"19bf4a301dc7d7653645046240d9c630",
+    "wof:geomhash":"0b138e5db4a3354e3eef56d0f2fd6cd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671968,
+    "wof:lastmodified":1695876876,
     "wof:name":"Saia",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

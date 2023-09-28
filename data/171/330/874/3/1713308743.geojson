@@ -8,7 +8,7 @@
     "ee-mamt:animi":"H\u00f6bringi K\u00fcla / H\u00f6bring",
     "ee-mamt:tyyp":8,
     "geom:area":0.006645,
-    "geom:area_square_m":42136416.800946,
+    "geom:area_square_m":42136416.80095,
     "geom:bbox":"23.556556,59.117318,23.742839,59.17591",
     "geom:latitude":59.146687,
     "geom:longitude":23.641871,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1964
+        "ee-mamt:okood":"1964"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225839433
     ],
     "wof:country":"EE",
     "wof:created":1595459720,
-    "wof:geomhash":"deaa8b69ad949eb13152dbba63547e37",
+    "wof:geomhash":"8133f52fe09992ecd02e14ab713cf54d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677174,
+    "wof:lastmodified":1695876985,
     "wof:name":"H\u00f6bringi",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

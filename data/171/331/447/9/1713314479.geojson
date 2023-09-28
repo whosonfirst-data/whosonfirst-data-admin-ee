@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kabala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000607,
-    "geom:area_square_m":3870852.395886,
+    "geom:area_square_m":3870852.395885,
     "geom:bbox":"24.623422,58.916231,24.681543,58.935634",
     "geom:latitude":58.926652,
     "geom:longitude":24.647263,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2444
+        "ee-mamt:okood":"2444"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259459259
     ],
     "wof:country":"EE",
     "wof:created":1595460990,
-    "wof:geomhash":"0c7b3aa2c7982a39d9e4a9d8f6f8ac5f",
+    "wof:geomhash":"db670cb1bb5b1fecfbbe4d0db45a2c1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676710,
+    "wof:lastmodified":1695876943,
     "wof:name":"Kabala",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

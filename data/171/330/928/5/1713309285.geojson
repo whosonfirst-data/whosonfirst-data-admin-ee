@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rame K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001072,
-    "geom:area_square_m":6908478.217951,
+    "geom:area_square_m":6908478.21795,
     "geom:bbox":"23.564462,58.558796,23.622018,58.58937",
     "geom:latitude":58.575814,
     "geom:longitude":23.596123,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6778
+        "ee-mamt:okood":"6778"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360179071
     ],
     "wof:country":"EE",
     "wof:created":1595459851,
-    "wof:geomhash":"3737bef245e083e088ebef7b39a54368",
+    "wof:geomhash":"4081098e69158aeb6ca058562c78cefc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661611,
+    "wof:lastmodified":1695876769,
     "wof:name":"Rame",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

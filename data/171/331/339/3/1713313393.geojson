@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vissi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002203,
-    "geom:area_square_m":14367612.590877,
+    "geom:area_square_m":14367612.590874,
     "geom:bbox":"26.653151,58.153133,26.747577,58.191198",
     "geom:latitude":58.170626,
     "geom:longitude":26.702375,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9422
+        "ee-mamt:okood":"9422"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259660895
     ],
     "wof:country":"EE",
     "wof:created":1595460752,
-    "wof:geomhash":"2e3f253d01b48fe547c460a753b0c896",
+    "wof:geomhash":"68308ad624c73c2e5e7336ca68e03510",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676776,
+    "wof:lastmodified":1695876950,
     "wof:name":"Vissi",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

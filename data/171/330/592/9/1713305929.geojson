@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tsitre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000256,
-    "geom:area_square_m":1605225.338137,
+    "geom:area_square_m":1605225.338139,
     "geom:bbox":"25.480221,59.511137,25.536651,59.520467",
     "geom:latitude":59.516304,
     "geom:longitude":25.51353,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8367
+        "ee-mamt:okood":"8367"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125772881
     ],
     "wof:country":"EE",
     "wof:created":1595459030,
-    "wof:geomhash":"f0c9fe7e0a7e85eb70b1f62e38d89180",
+    "wof:geomhash":"192b460a2ba9b3d3086d8d7b86f57459",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661825,
+    "wof:lastmodified":1695876779,
     "wof:name":"Tsitre",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

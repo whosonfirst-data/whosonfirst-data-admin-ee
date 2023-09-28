@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hannuste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000389,
-    "geom:area_square_m":2564787.041239,
+    "geom:area_square_m":2564787.04124,
     "geom:bbox":"26.997713,57.761218,27.029284,57.780881",
     "geom:latitude":57.769872,
     "geom:longitude":27.015056,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1759
+        "ee-mamt:okood":"1759"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293742729
     ],
     "wof:country":"EE",
     "wof:created":1595461242,
-    "wof:geomhash":"f92e773a67c5b85da4cf264df18026ee",
+    "wof:geomhash":"e9fde3d02af378465f3f66a149f17e40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660241,
+    "wof:lastmodified":1695876723,
     "wof:name":"Hannuste",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

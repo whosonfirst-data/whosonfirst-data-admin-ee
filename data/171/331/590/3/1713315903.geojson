@@ -8,13 +8,13 @@
     "ee-mamt:animi":"S\u00e4revere Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.00014,
-    "geom:area_square_m":896122.601184,
+    "geom:area_square_m":896122.601185,
     "geom:bbox":"25.419911,58.77737,25.437183,58.794649",
     "geom:latitude":58.785701,
     "geom:longitude":25.429048,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "S\u00e4revere alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7931
+        "ee-mamt:okood":"7931"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125932333
     ],
     "wof:country":"EE",
     "wof:created":1595461317,
-    "wof:geomhash":"d8144a0255757834e92389276f9b1aca",
+    "wof:geomhash":"e2a6b2ba434a1c9cdd2b0c612e44145d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677978,
+    "wof:lastmodified":1695877007,
     "wof:name":"S\u00e4revere",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

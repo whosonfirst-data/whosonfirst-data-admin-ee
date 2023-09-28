@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kihmla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000765,
-    "geom:area_square_m":4821088.805918,
+    "geom:area_square_m":4821088.805919,
     "geom:bbox":"25.226113,59.35573,25.290075,59.378326",
     "geom:latitude":59.365896,
     "geom:longitude":25.257972,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3022
+        "ee-mamt:okood":"3022"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259894107
     ],
     "wof:country":"EE",
     "wof:created":1595459288,
-    "wof:geomhash":"7bda292abdba2e872cefb1f7b6bb3489",
+    "wof:geomhash":"295d6281fd27f5c248df7a127aa4544d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662790,
+    "wof:lastmodified":1695876798,
     "wof:name":"Kihmla",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

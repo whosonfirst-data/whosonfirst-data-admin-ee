@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Haamse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000343,
-    "geom:area_square_m":2223259.264916,
+    "geom:area_square_m":2223259.264918,
     "geom:bbox":"22.437458,58.361632,22.468473,58.386671",
     "geom:latitude":58.376427,
     "geom:longitude":22.453409,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1686
+        "ee-mamt:okood":"1686"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259853313
     ],
     "wof:country":"EE",
     "wof:created":1595459586,
-    "wof:geomhash":"b6c2ce3ec09d88933675b889d9a0255b",
+    "wof:geomhash":"bc2fe873e59d6d4c08288e64196b5113",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672575,
+    "wof:lastmodified":1695876901,
     "wof:name":"Haamse",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

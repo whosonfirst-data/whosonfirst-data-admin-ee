@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Poaka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001908,
-    "geom:area_square_m":12209361.012032,
+    "geom:area_square_m":12209361.012028,
     "geom:bbox":"25.477519,58.816576,25.545612,58.864754",
     "geom:latitude":58.840686,
     "geom:longitude":25.510506,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6300
+        "ee-mamt:okood":"6300"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310006411
     ],
     "wof:country":"EE",
     "wof:created":1595459217,
-    "wof:geomhash":"108b5ac1b74c2d879dd167b2a9554403",
+    "wof:geomhash":"c27c9beab89a2be74cb59501288171f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677981,
+    "wof:lastmodified":1695877008,
     "wof:name":"Poaka",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

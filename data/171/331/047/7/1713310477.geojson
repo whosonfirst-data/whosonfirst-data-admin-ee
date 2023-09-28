@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kulli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.006458,
-    "geom:area_square_m":42453231.539539,
+    "geom:area_square_m":42453231.539535,
     "geom:bbox":"25.928221,57.845878,26.055588,57.930557",
     "geom:latitude":57.885192,
     "geom:longitude":25.999927,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3596
+        "ee-mamt:okood":"3596"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309868243
     ],
     "wof:country":"EE",
     "wof:created":1595460130,
-    "wof:geomhash":"cfa7567f654075daee909af4cf6eaa7e",
+    "wof:geomhash":"b6c3ebd054d17341d41582e4a39736c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661423,
+    "wof:lastmodified":1695876759,
     "wof:name":"Kulli",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

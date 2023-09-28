@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lahu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001109,
-    "geom:area_square_m":7070347.928189,
+    "geom:area_square_m":7070347.928191,
     "geom:bbox":"26.159621,58.956353,26.224938,58.990822",
     "geom:latitude":58.971036,
     "geom:longitude":26.188331,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4065
+        "ee-mamt:okood":"4065"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293409703
     ],
     "wof:country":"EE",
     "wof:created":1595460346,
-    "wof:geomhash":"d14a452d3d76345a8c63e51aee594ef9",
+    "wof:geomhash":"cf074e08fd02e823a6aa07930ff6ad23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676532,
+    "wof:lastmodified":1695876920,
     "wof:name":"Lahu",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

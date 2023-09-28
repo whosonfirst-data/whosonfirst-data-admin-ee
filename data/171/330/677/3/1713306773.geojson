@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kabelimetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000179,
-    "geom:area_square_m":1127915.531794,
+    "geom:area_square_m":1127915.531793,
     "geom:bbox":"27.341383,59.371605,27.367086,59.384914",
     "geom:latitude":59.3777,
     "geom:longitude":27.354982,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2448
+        "ee-mamt:okood":"2448"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459238,
-    "wof:geomhash":"ec4dfe105dbcb03ea1d491250505b324",
+    "wof:geomhash":"cfe99dd508df636761a2f1d68080cd81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676906,
+    "wof:lastmodified":1695876970,
     "wof:name":"Kabelimetsa",
     "wof:parent_id":1713305783,
     "wof:placetype":"localadmin",

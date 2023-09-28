@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soonuka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000861,
-    "geom:area_square_m":5458233.649733,
+    "geom:area_square_m":5458233.649732,
     "geom:bbox":"26.616967,59.132957,26.656546,59.16625",
     "geom:latitude":59.148987,
     "geom:longitude":26.63454,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7733
+        "ee-mamt:okood":"7733"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344242561
     ],
     "wof:country":"EE",
     "wof:created":1595459447,
-    "wof:geomhash":"8cfed25802599382f103ede5a8e47d01",
+    "wof:geomhash":"1324a7efdaa3a48af6308ea79acda1f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677947,
+    "wof:lastmodified":1695877003,
     "wof:name":"Soonuka",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

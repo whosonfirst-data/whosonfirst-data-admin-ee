@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sagariste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001074,
-    "geom:area_square_m":6964719.956388,
+    "geom:area_square_m":6964719.956389,
     "geom:bbox":"22.710708,58.368311,22.782404,58.399251",
     "geom:latitude":58.379873,
     "geom:longitude":22.742411,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7330
+        "ee-mamt:okood":"7330"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293473419
     ],
     "wof:country":"EE",
     "wof:created":1595459584,
-    "wof:geomhash":"d9d9eab187616b078af030af6c29bfbf",
+    "wof:geomhash":"42e71f39a347ac93be70731fe48ce1fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672572,
+    "wof:lastmodified":1695876901,
     "wof:name":"Sagariste",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

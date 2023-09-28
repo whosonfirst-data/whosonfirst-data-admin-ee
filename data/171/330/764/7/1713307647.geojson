@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Simunam\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00076,
-    "geom:area_square_m":4766299.409459,
+    "geom:area_square_m":4766299.409458,
     "geom:bbox":"26.560561,59.503268,26.615003,59.529864",
     "geom:latitude":59.514449,
     "geom:longitude":26.586543,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7602
+        "ee-mamt:okood":"7602"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259368565
     ],
     "wof:country":"EE",
     "wof:created":1595459452,
-    "wof:geomhash":"3d2b85f9f64a3a2c5b3634357a63da86",
+    "wof:geomhash":"9748ebe069e04dd766dcc13864f681f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677919,
+    "wof:lastmodified":1695877000,
     "wof:name":"Simunam\u00e4e",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

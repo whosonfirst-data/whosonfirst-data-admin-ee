@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000463,
-    "geom:area_square_m":2988211.791569,
+    "geom:area_square_m":2988211.791568,
     "geom:bbox":"23.141029,58.495436,23.178569,58.515179",
     "geom:latitude":58.505511,
     "geom:longitude":23.16272,
@@ -119,11 +119,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8652
+        "ee-mamt:okood":"8652"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459636,
-    "wof:geomhash":"90f22e8f67c538ce28bc24cd4030532f",
+    "wof:geomhash":"68e68db3f7b0e4ea555c3e1af821c698",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,7 +141,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502256,
+    "wof:lastmodified":1695877024,
     "wof:name":"Ula",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

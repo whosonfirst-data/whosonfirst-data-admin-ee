@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laadla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000333,
-    "geom:area_square_m":2184819.393271,
+    "geom:area_square_m":2184819.39327,
     "geom:bbox":"22.023111,57.969308,22.052405,57.98623",
     "geom:latitude":57.977497,
     "geom:longitude":22.038204,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4009
+        "ee-mamt:okood":"4009"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327205083
     ],
     "wof:country":"EE",
     "wof:created":1595459417,
-    "wof:geomhash":"84e2d9ce3f37fefcd15c3d94928cf0bb",
+    "wof:geomhash":"48f67ab6caebc28bfcf4a6e4884b78c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672439,
+    "wof:lastmodified":1695876894,
     "wof:name":"Laadla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

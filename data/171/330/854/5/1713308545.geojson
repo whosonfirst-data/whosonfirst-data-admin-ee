@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Palmse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001639,
-    "geom:area_square_m":10280559.372139,
+    "geom:area_square_m":10280559.372141,
     "geom:bbox":"25.90689,59.490897,25.976811,59.539985",
     "geom:latitude":59.515747,
     "geom:longitude":25.946747,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5936
+        "ee-mamt:okood":"5936"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126023017
     ],
     "wof:country":"EE",
     "wof:created":1595459671,
-    "wof:geomhash":"4f063f7986b03ac33093a16cfea6f22b",
+    "wof:geomhash":"f02b548a247c0264d137ad075b674c3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678024,
+    "wof:lastmodified":1695877011,
     "wof:name":"Palmse",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

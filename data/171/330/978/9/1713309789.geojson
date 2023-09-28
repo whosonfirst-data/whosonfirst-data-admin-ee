@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hino K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001823,
-    "geom:area_square_m":11954754.81193,
+    "geom:area_square_m":11954754.811928,
     "geom:bbox":"26.658437,57.96503,26.74646,57.999284",
     "geom:latitude":57.980904,
     "geom:longitude":26.70352,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1857
+        "ee-mamt:okood":"1857"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327121413
     ],
     "wof:country":"EE",
     "wof:created":1595459978,
-    "wof:geomhash":"11dd4ff7883501681f6fa1498d52e12b",
+    "wof:geomhash":"a11ba6b1ceb924d8338b87c7a24fbcf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676782,
+    "wof:lastmodified":1695876952,
     "wof:name":"Hino",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

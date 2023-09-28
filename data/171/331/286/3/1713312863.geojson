@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaitsem\u0151isa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001352,
-    "geom:area_square_m":8716084.169099,
+    "geom:area_square_m":8716084.1691,
     "geom:bbox":"26.79157,58.562572,26.851081,58.598045",
     "geom:latitude":58.583103,
     "geom:longitude":26.822295,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2550
+        "ee-mamt:okood":"2550"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327430863
     ],
     "wof:country":"EE",
     "wof:created":1595460637,
-    "wof:geomhash":"ab5e1675f90a290ccd5616fd181518c4",
+    "wof:geomhash":"a0082630a676660d50d7e5358bc6496a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676465,
+    "wof:lastmodified":1695876913,
     "wof:name":"Kaitsem\u0151isa",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

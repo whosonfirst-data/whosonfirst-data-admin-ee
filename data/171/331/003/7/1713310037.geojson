@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Alustre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001537,
-    "geom:area_square_m":9968055.897823,
+    "geom:area_square_m":9968055.897821,
     "geom:bbox":"25.432394,58.354687,25.506506,58.39504",
     "geom:latitude":58.373818,
     "geom:longitude":25.476376,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1240
+        "ee-mamt:okood":"1240"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259344597
     ],
     "wof:country":"EE",
     "wof:created":1595460034,
-    "wof:geomhash":"281a2c57f92cc514077ea002a069cd17",
+    "wof:geomhash":"f432ab13594194b86e4503ef04e356c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661189,
+    "wof:lastmodified":1695876744,
     "wof:name":"Alustre",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

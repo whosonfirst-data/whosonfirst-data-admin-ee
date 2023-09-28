@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lapi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000218,
-    "geom:area_square_m":1431405.622268,
+    "geom:area_square_m":1431405.622267,
     "geom:bbox":"26.985385,57.898249,27.005486,57.918818",
     "geom:latitude":57.907553,
     "geom:longitude":26.996231,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4118
+        "ee-mamt:okood":"4118"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310064711
     ],
     "wof:country":"EE",
     "wof:created":1595461283,
-    "wof:geomhash":"2616e3b283b7ad810672810321d61071",
+    "wof:geomhash":"d3807ae793fd3660a562dd4b8a2a8443",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660219,
+    "wof:lastmodified":1695876720,
     "wof:name":"Lapi",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

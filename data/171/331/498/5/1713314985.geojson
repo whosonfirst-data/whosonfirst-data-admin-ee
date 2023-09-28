@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koemetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.007698,
-    "geom:area_square_m":50926240.168562,
+    "geom:area_square_m":50926240.168555,
     "geom:bbox":"26.443422,57.602349,26.623289,57.69084",
     "geom:latitude":57.653827,
     "geom:longitude":26.530845,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3250
+        "ee-mamt:okood":"3250"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242636295
     ],
     "wof:country":"EE",
     "wof:created":1595461108,
-    "wof:geomhash":"804f0817c802d5e2670808ea1d4d9de3",
+    "wof:geomhash":"5425795a15fc0fa2a092342169e5c702",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676865,
+    "wof:lastmodified":1695876969,
     "wof:name":"Koemetsa",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

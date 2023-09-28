@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Savim\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001248,
-    "geom:area_square_m":8132092.891223,
+    "geom:area_square_m":8132092.89122,
     "geom:bbox":"27.27211,58.173205,27.334452,58.220527",
     "geom:latitude":58.20135,
     "geom:longitude":27.305014,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7501
+        "ee-mamt:okood":"7501"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343648681
     ],
     "wof:country":"EE",
     "wof:created":1595460939,
-    "wof:geomhash":"4270b27404a6508e18e1601c6acf1a7e",
+    "wof:geomhash":"3156406b4bc9c043090740055f21e0e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676948,
+    "wof:lastmodified":1695876974,
     "wof:name":"Savim\u00e4e",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Oara K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002037,
-    "geom:area_square_m":13174503.609635,
+    "geom:area_square_m":13174503.609633,
     "geom:bbox":"24.244681,58.448582,24.334025,58.492112",
     "geom:latitude":58.468214,
     "geom:longitude":24.285609,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5578
+        "ee-mamt:okood":"5578"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125956383
     ],
     "wof:country":"EE",
     "wof:created":1595460987,
-    "wof:geomhash":"fbe44af4cc59371333c7f774a9776cb5",
+    "wof:geomhash":"0545270d4e43ddd46704b4e900787ee9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677691,
+    "wof:lastmodified":1695876995,
     "wof:name":"Oara",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

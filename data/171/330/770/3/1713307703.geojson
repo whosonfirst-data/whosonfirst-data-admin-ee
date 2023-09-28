@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rannu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000654,
-    "geom:area_square_m":4110456.203535,
+    "geom:area_square_m":4110456.203534,
     "geom:bbox":"26.823904,59.424938,26.868276,59.451511",
     "geom:latitude":59.437673,
     "geom:longitude":26.84601,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6821
+        "ee-mamt:okood":"6821"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037813
     ],
     "wof:country":"EE",
     "wof:created":1595459466,
-    "wof:geomhash":"973f2ec34672c93ffed86475aed09703",
+    "wof:geomhash":"143ba10198d65e4b015300e277260f0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677916,
+    "wof:lastmodified":1695877000,
     "wof:name":"Rannu",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

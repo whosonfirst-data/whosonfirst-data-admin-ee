@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001969,
-    "geom:area_square_m":12587642.304131,
+    "geom:area_square_m":12587642.304135,
     "geom:bbox":"24.685814,58.841937,24.773334,58.896069",
     "geom:latitude":58.866841,
     "geom:longitude":24.739138,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8961
+        "ee-mamt:okood":"8961"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260269297
     ],
     "wof:country":"EE",
     "wof:created":1595460268,
-    "wof:geomhash":"b198b3691a83cf04402262395093a3e0",
+    "wof:geomhash":"38ba07aab440a4069331c29382e75b64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676698,
+    "wof:lastmodified":1695876940,
     "wof:name":"Valli",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

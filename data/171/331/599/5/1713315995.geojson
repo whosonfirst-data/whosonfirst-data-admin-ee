@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kundruse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000385,
-    "geom:area_square_m":2530450.663966,
+    "geom:area_square_m":2530450.663967,
     "geom:bbox":"27.720355,57.87183,27.763586,57.89357",
     "geom:latitude":57.882887,
     "geom:longitude":27.742646,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3609
+        "ee-mamt:okood":"3609"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461336,
-    "wof:geomhash":"46385413ad282af2fd767d17e451a1c6",
+    "wof:geomhash":"d9d1bfebb8c0e4f2e41580e6fa32cf61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663631,
+    "wof:lastmodified":1695876836,
     "wof:name":"Kundruse",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Easte K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000305,
-    "geom:area_square_m":1993267.759478,
+    "geom:area_square_m":1993267.759479,
     "geom:bbox":"22.192815,58.100744,22.224656,58.116995",
     "geom:latitude":58.108675,
     "geom:longitude":22.20994,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1514
+        "ee-mamt:okood":"1514"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310475559
     ],
     "wof:country":"EE",
     "wof:created":1595459437,
-    "wof:geomhash":"bc850f52044084f473472bfcb18ffead",
+    "wof:geomhash":"70ce15ea3ccac184fc74c60a621f60c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672483,
+    "wof:lastmodified":1695876895,
     "wof:name":"Easte",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

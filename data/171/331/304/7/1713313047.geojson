@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vodja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001194,
-    "geom:area_square_m":7618418.88194,
+    "geom:area_square_m":7618418.881941,
     "geom:bbox":"25.666099,58.910654,25.714224,58.944966",
     "geom:latitude":58.92933,
     "geom:longitude":25.691517,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9446
+        "ee-mamt:okood":"9446"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344163011
     ],
     "wof:country":"EE",
     "wof:created":1595460679,
-    "wof:geomhash":"59b87ad59ab14545a2695a09e41ac5d1",
+    "wof:geomhash":"54933f3e84a7c8c0179a106b60701c74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676627,
+    "wof:lastmodified":1695876933,
     "wof:name":"Vodja",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

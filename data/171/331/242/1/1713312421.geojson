@@ -8,7 +8,7 @@
     "ee-mamt:animi":"R\u00e4tsepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001163,
-    "geom:area_square_m":7517319.429586,
+    "geom:area_square_m":7517319.429584,
     "geom:bbox":"24.91033,58.461573,24.977512,58.503825",
     "geom:latitude":58.485035,
     "geom:longitude":24.938538,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5292
+        "ee-mamt:okood":"5292"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209703767
     ],
     "wof:country":"EE",
     "wof:created":1595460541,
-    "wof:geomhash":"37adfcd54f23680fa3d88ca4465d7800",
+    "wof:geomhash":"d7eddbdc82916b40c55f83324c6f0cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663374,
+    "wof:lastmodified":1695876820,
     "wof:name":"R\u00e4tsepa",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Erra Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000755,
-    "geom:area_square_m":4753945.879825,
+    "geom:area_square_m":4753945.879823,
     "geom:bbox":"26.968064,59.36185,27.015879,59.391978",
     "geom:latitude":59.37588,
     "geom:longitude":26.993357,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Erra alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1631
+        "ee-mamt:okood":"1631"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037437
     ],
     "wof:country":"EE",
     "wof:created":1595460348,
-    "wof:geomhash":"7b96fdcc9f823899241c5be1fa325c66",
+    "wof:geomhash":"f9e502636a1eb135d71eec8f7787efb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660786,
+    "wof:lastmodified":1695876736,
     "wof:name":"Erra",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

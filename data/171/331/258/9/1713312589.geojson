@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4llikvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001577,
-    "geom:area_square_m":10135529.48659,
+    "geom:area_square_m":10135529.486588,
     "geom:bbox":"25.921152,58.661266,25.993265,58.698198",
     "geom:latitude":58.679701,
     "geom:longitude":25.957709,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5253
+        "ee-mamt:okood":"5253"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125858281
     ],
     "wof:country":"EE",
     "wof:created":1595460576,
-    "wof:geomhash":"c6cecf1f7db69b8d397afea8510b8024",
+    "wof:geomhash":"8e04bf6255e874d27e6d06246c200cc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676487,
+    "wof:lastmodified":1695876914,
     "wof:name":"M\u00e4llikvere",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

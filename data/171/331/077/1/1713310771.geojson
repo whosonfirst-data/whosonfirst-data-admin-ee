@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tohvri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000638,
-    "geom:area_square_m":4097326.436886,
+    "geom:area_square_m":4097326.436895,
     "geom:bbox":"22.442609,58.705944,22.517008,58.72793",
     "geom:latitude":58.716661,
     "geom:longitude":22.493309,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8271
+        "ee-mamt:okood":"8271"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310705085
     ],
     "wof:country":"EE",
     "wof:created":1595460197,
-    "wof:geomhash":"50ecc1b26dded58b1ab986b19229174c",
+    "wof:geomhash":"643419526b6d874dc0ecbff0b155985d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666474,
+    "wof:lastmodified":1695876860,
     "wof:name":"Tohvri",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soosalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001773,
-    "geom:area_square_m":11286722.641569,
+    "geom:area_square_m":11286722.641568,
     "geom:bbox":"24.149333,58.991489,24.236189,59.034385",
     "geom:latitude":59.013341,
     "geom:longitude":24.195791,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7740
+        "ee-mamt:okood":"7740"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260056459
     ],
     "wof:country":"EE",
     "wof:created":1595460744,
-    "wof:geomhash":"69a458f12f9e15b6b3d0076cec42fe1c",
+    "wof:geomhash":"f5bccd08d526ee811b266e589f8f7a85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662814,
+    "wof:lastmodified":1695876801,
     "wof:name":"Soosalu",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

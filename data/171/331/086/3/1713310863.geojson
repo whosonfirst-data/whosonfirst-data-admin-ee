@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Jaanim\u0151isa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001166,
-    "geom:area_square_m":7606191.383081,
+    "geom:area_square_m":7606191.383078,
     "geom:bbox":"27.197856,58.12463,27.269039,58.160971",
     "geom:latitude":58.146661,
     "geom:longitude":27.236629,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2142
+        "ee-mamt:okood":"2142"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125933247
     ],
     "wof:country":"EE",
     "wof:created":1595460215,
-    "wof:geomhash":"7ec4ea66b7cabafe6977146e6254c884",
+    "wof:geomhash":"ae24eb1b88a94270e20253598b892112",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676947,
+    "wof:lastmodified":1695876973,
     "wof:name":"Jaanim\u0151isa",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

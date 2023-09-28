@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hellenurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001204,
-    "geom:area_square_m":7859606.870007,
+    "geom:area_square_m":7859606.870006,
     "geom:bbox":"26.337503,58.112922,26.414738,58.15059",
     "geom:latitude":58.134097,
     "geom:longitude":26.383325,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1813
+        "ee-mamt:okood":"1813"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125941379
     ],
     "wof:country":"EE",
     "wof:created":1595461223,
-    "wof:geomhash":"e28bee4fec99f903e8266dfe747b8dc4",
+    "wof:geomhash":"a568bba299ed4f60f40e91fb58847177",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661907,
+    "wof:lastmodified":1695876788,
     "wof:name":"Hellenurme",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

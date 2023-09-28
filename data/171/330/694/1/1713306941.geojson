@@ -14,7 +14,7 @@
     "geom:longitude":23.079998,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Orissaare alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5725
+        "ee-mamt:okood":"5725"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815067
     ],
     "wof:country":"EE",
     "wof:created":1595459282,
-    "wof:geomhash":"7073c5340268d2ca86070f9124e08399",
+    "wof:geomhash":"9374421e73318d992c5ed1d19c69badd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672189,
+    "wof:lastmodified":1695876884,
     "wof:name":"Orissaare",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

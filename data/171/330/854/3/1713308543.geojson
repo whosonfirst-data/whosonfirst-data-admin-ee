@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Porkuni K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001403,
-    "geom:area_square_m":8887571.720876,
+    "geom:area_square_m":8887571.720878,
     "geom:bbox":"26.17615,59.167101,26.250396,59.21343",
     "geom:latitude":59.191648,
     "geom:longitude":26.20882,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6333
+        "ee-mamt:okood":"6333"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126003913
     ],
     "wof:country":"EE",
     "wof:created":1595459671,
-    "wof:geomhash":"83f8014f4f4aa0897d52577c37cac79d",
+    "wof:geomhash":"04a265d2b845f880909bf240d3144720",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676599,
+    "wof:lastmodified":1695876929,
     "wof:name":"Porkuni",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

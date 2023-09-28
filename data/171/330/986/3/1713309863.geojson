@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koidu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00113,
-    "geom:area_square_m":7356981.036305,
+    "geom:area_square_m":7356981.036303,
     "geom:bbox":"25.788077,58.218714,25.853999,58.251189",
     "geom:latitude":58.23773,
     "geom:longitude":25.820349,
@@ -53,14 +53,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3275
+        "ee-mamt:okood":"3275"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226207237
     ],
     "wof:country":"EE",
     "wof:created":1595459993,
-    "wof:geomhash":"23711a1cdaa9e1fc36e4ff090eb2eadd",
+    "wof:geomhash":"76cbd012d46d63f26ddc5e189deeca36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +78,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502256,
+    "wof:lastmodified":1695877025,
     "wof:name":"Koidu",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

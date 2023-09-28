@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mullutu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002221,
-    "geom:area_square_m":14446855.459604,
+    "geom:area_square_m":14446855.459608,
     "geom:bbox":"22.353431,58.239206,22.420632,58.291866",
     "geom:latitude":58.266538,
     "geom:longitude":22.383678,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5025
+        "ee-mamt:okood":"5025"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343645169
     ],
     "wof:country":"EE",
     "wof:created":1595459181,
-    "wof:geomhash":"17e08ff2211938e0ddeb5f8ab9454bc2",
+    "wof:geomhash":"52337a5f5a020ffeb738ee1b90db6f71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671801,
+    "wof:lastmodified":1695876871,
     "wof:name":"Mullutu",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

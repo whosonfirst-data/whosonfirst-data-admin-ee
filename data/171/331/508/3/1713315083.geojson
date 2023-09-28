@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Linna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001372,
-    "geom:area_square_m":8980478.178214,
+    "geom:area_square_m":8980478.178211,
     "geom:bbox":"25.800628,58.013281,25.878645,58.049608",
     "geom:latitude":58.03151,
     "geom:longitude":25.844919,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4390
+        "ee-mamt:okood":"4390"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125955797
     ],
     "wof:country":"EE",
     "wof:created":1595461129,
-    "wof:geomhash":"64f416947b387442b9350660fda27fdc",
+    "wof:geomhash":"10ae8edcd909acf8f4dc8648bdb2f8e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661425,
+    "wof:lastmodified":1695876759,
     "wof:name":"Linna",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

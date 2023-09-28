@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Otik\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001351,
-    "geom:area_square_m":8743481.171163,
+    "geom:area_square_m":8743481.171167,
     "geom:bbox":"25.908496,58.42282,25.989051,58.456449",
     "geom:latitude":58.44028,
     "geom:longitude":25.943796,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5763
+        "ee-mamt:okood":"5763"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226606785
     ],
     "wof:country":"EE",
     "wof:created":1595460024,
-    "wof:geomhash":"3350ff22f59fff40afa585090d38cab7",
+    "wof:geomhash":"f2ec4b4e17ec1cc63e20dc7fdd57d5b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661240,
+    "wof:lastmodified":1695876749,
     "wof:name":"Otik\u00fcla",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

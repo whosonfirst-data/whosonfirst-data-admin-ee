@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuura K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000922,
-    "geom:area_square_m":6105050.448784,
+    "geom:area_square_m":6105050.448785,
     "geom:bbox":"27.118261,57.588091,27.169215,57.623252",
     "geom:latitude":57.604088,
     "geom:longitude":27.139842,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3713
+        "ee-mamt:okood":"3713"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209379229
     ],
     "wof:country":"EE",
     "wof:created":1595461277,
-    "wof:geomhash":"0f510d7cc9b6ef80d8cc43e917d2ad83",
+    "wof:geomhash":"265e0b11c5890bcf365a373ba3981807",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676853,
+    "wof:lastmodified":1695876966,
     "wof:name":"Kuura",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

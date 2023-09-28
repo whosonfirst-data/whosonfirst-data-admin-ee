@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ruhve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000777,
-    "geom:area_square_m":5036621.72183,
+    "geom:area_square_m":5036621.721825,
     "geom:bbox":"22.994185,58.356598,23.052013,58.387545",
     "geom:latitude":58.37143,
     "geom:longitude":23.022024,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7107
+        "ee-mamt:okood":"7107"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1292984471
     ],
     "wof:country":"EE",
     "wof:created":1595460633,
-    "wof:geomhash":"b7542f6f7f9609a5a26c983f0d63e78a",
+    "wof:geomhash":"a2907d65ca8bd0859e5ef22d013ad556",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671619,
+    "wof:lastmodified":1695876865,
     "wof:name":"Ruhve",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

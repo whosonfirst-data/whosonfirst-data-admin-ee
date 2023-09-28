@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u0151geveste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004931,
-    "geom:area_square_m":32302827.602332,
+    "geom:area_square_m":32302827.602338,
     "geom:bbox":"25.932772,57.972254,26.057082,58.047471",
     "geom:latitude":58.010933,
     "geom:longitude":26.003657,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2264
+        "ee-mamt:okood":"2264"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126025101
     ],
     "wof:country":"EE",
     "wof:created":1595460101,
-    "wof:geomhash":"8ac09b48eeb078a402e2c2a19b78d24e",
+    "wof:geomhash":"39c8e07a0acd29d2a91f630914a85458",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661420,
+    "wof:lastmodified":1695876758,
     "wof:name":"J\u0151geveste",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

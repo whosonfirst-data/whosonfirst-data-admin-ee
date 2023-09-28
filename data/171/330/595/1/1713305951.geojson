@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kolga-Aabla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000576,
-    "geom:area_square_m":3608631.49611,
+    "geom:area_square_m":3608631.496108,
     "geom:bbox":"25.524515,59.552983,25.565166,59.579028",
     "geom:latitude":59.567536,
     "geom:longitude":25.542421,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1007
+        "ee-mamt:okood":"1007"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126046541
     ],
     "wof:country":"EE",
     "wof:created":1595459036,
-    "wof:geomhash":"672528d668fa9f6a46d2ba4a6c577e79",
+    "wof:geomhash":"08a430a6e3c09fbab4040a13a36c08dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661818,
+    "wof:lastmodified":1695876778,
     "wof:name":"Kolga-Aabla",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

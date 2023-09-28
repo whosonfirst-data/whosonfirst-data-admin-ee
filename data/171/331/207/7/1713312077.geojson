@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuningam\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000976,
-    "geom:area_square_m":6280713.194918,
+    "geom:area_square_m":6280713.194919,
     "geom:bbox":"25.910063,58.631526,25.966421,58.657758",
     "geom:latitude":58.64498,
     "geom:longitude":25.936696,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3624
+        "ee-mamt:okood":"3624"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309743821
     ],
     "wof:country":"EE",
     "wof:created":1595460477,
-    "wof:geomhash":"77bb6e43c910e9a3238614720dd1c347",
+    "wof:geomhash":"df3efab5ff85dc6526905c6e95ba8b02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676485,
+    "wof:lastmodified":1695876914,
     "wof:name":"Kuningam\u00e4e",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

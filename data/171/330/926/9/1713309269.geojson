@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u00fchjasma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000686,
-    "geom:area_square_m":4417080.940521,
+    "geom:area_square_m":4417080.94052,
     "geom:bbox":"24.584613,58.627715,24.622507,58.656913",
     "geom:latitude":58.643357,
     "geom:longitude":24.604019,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8588
+        "ee-mamt:okood":"8588"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344135049
     ],
     "wof:country":"EE",
     "wof:created":1595459847,
-    "wof:geomhash":"902c40ca7d269bb265cd2316e89898f6",
+    "wof:geomhash":"1e3e60102c5febe078a1a82cf9c4c210",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663411,
+    "wof:lastmodified":1695876826,
     "wof:name":"T\u00fchjasma",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

@@ -14,7 +14,7 @@
     "geom:longitude":26.530102,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Antsla linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1301
+        "ee-mamt:okood":"1301"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101816255
     ],
     "wof:country":"EE",
     "wof:created":1595460239,
-    "wof:geomhash":"74248121019d516f6d276729992c0928",
+    "wof:geomhash":"2fffa7e4ff25c252955a5caec821906d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677009,
+    "wof:lastmodified":1695876980,
     "wof:name":"Antsla",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

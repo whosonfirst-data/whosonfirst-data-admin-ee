@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ura K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00047,
-    "geom:area_square_m":3026734.808324,
+    "geom:area_square_m":3026734.808325,
     "geom:bbox":"24.178178,58.580747,24.217395,58.605191",
     "geom:latitude":58.594799,
     "geom:longitude":24.19894,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8712
+        "ee-mamt:okood":"8712"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260058405
     ],
     "wof:country":"EE",
     "wof:created":1595459746,
-    "wof:geomhash":"8af6b44d6ddef0997070d84c551f4d13",
+    "wof:geomhash":"676afaa01f7a57140ed7d7543174fa4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661599,
+    "wof:lastmodified":1695876767,
     "wof:name":"Ura",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

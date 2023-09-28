@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rebala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00112,
-    "geom:area_square_m":7034593.081033,
+    "geom:area_square_m":7034593.081031,
     "geom:bbox":"25.064065,59.442701,25.120685,59.481107",
     "geom:latitude":59.463559,
     "geom:longitude":25.092906,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6882
+        "ee-mamt:okood":"6882"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209629505
     ],
     "wof:country":"EE",
     "wof:created":1595459048,
-    "wof:geomhash":"dca252878c1424fb7bd9e7bb134205a1",
+    "wof:geomhash":"bc3694edfb131942ae42d693547a3e13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661378,
+    "wof:lastmodified":1695876757,
     "wof:name":"Rebala",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kamara K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00072,
-    "geom:area_square_m":4698886.333848,
+    "geom:area_square_m":4698886.33385,
     "geom:bbox":"25.176338,58.114992,25.22055,58.141065",
     "geom:latitude":58.12637,
     "geom:longitude":25.20041,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2634
+        "ee-mamt:okood":"2634"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125933663
     ],
     "wof:country":"EE",
     "wof:created":1595460392,
-    "wof:geomhash":"ed5552fc41d5b7cf5c5f99da6800ba67",
+    "wof:geomhash":"94e2e5f0c1b43bbed68e8f59575d1477",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661281,
+    "wof:lastmodified":1695876749,
     "wof:name":"Kamara",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

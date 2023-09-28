@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sikalaan\u0151 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000057,
-    "geom:area_square_m":375058.784831,
+    "geom:area_square_m":375058.78483,
     "geom:bbox":"26.788795,57.746344,26.809797,57.752678",
     "geom:latitude":57.749069,
     "geom:longitude":26.799385,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7575
+        "ee-mamt:okood":"7575"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461098,
-    "wof:geomhash":"5e70b144ab65a3384aa0ed152dd663bf",
+    "wof:geomhash":"e958dfb2d51462f8c7c17bf7099c6b8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676818,
+    "wof:lastmodified":1695876956,
     "wof:name":"Sikalaan\u0151",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

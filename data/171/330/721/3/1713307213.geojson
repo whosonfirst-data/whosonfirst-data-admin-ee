@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuusem\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000827,
-    "geom:area_square_m":5211940.168945,
+    "geom:area_square_m":5211940.168943,
     "geom:bbox":"25.277604,59.358739,25.34459,59.38761",
     "geom:latitude":59.372376,
     "geom:longitude":25.313665,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3716
+        "ee-mamt:okood":"3716"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276242703
     ],
     "wof:country":"EE",
     "wof:created":1595459347,
-    "wof:geomhash":"f6335db0045f88e7598ea4e90afcf932",
+    "wof:geomhash":"4c281c82cbcd4b81fedc19aa5b2b2b63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662792,
+    "wof:lastmodified":1695876798,
     "wof:name":"Kuusem\u00e4e",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

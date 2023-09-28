@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4e-Palo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000196,
-    "geom:area_square_m":1296100.747058,
+    "geom:area_square_m":1296100.747059,
     "geom:bbox":"27.099762,57.6162,27.128889,57.629282",
     "geom:latitude":57.620901,
     "geom:longitude":27.114621,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5187
+        "ee-mamt:okood":"5187"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461277,
-    "wof:geomhash":"6c9e61cf6537e45f0ae528930e111612",
+    "wof:geomhash":"6feddf3313574e73f6ee044c269d2433",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676837,
+    "wof:lastmodified":1695876962,
     "wof:name":"M\u00e4e-Palo",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

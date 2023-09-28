@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tuulem\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000956,
-    "geom:area_square_m":6250123.272822,
+    "geom:area_square_m":6250123.27282,
     "geom:bbox":"26.761463,58.044377,26.826461,58.078684",
     "geom:latitude":58.063489,
     "geom:longitude":26.802813,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8455
+        "ee-mamt:okood":"8455"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209301423
     ],
     "wof:country":"EE",
     "wof:created":1595459992,
-    "wof:geomhash":"533f83a754cc6fec209f9d2656ab0136",
+    "wof:geomhash":"bc288cfcb44b9b73e550cf0d4e6923ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676782,
+    "wof:lastmodified":1695876952,
     "wof:name":"Tuulem\u00e4e",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

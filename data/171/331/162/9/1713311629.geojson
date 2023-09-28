@@ -14,7 +14,7 @@
     "geom:longitude":25.182093,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "M\u0151isak\u00fcla linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5145
+        "ee-mamt:okood":"5145"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101816267
     ],
     "wof:country":"EE",
     "wof:created":1595460385,
-    "wof:geomhash":"2ed0c4ecb488b5546b833017b0ddcafc",
+    "wof:geomhash":"c22768367c9248284763d2700fa8115c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661291,
+    "wof:lastmodified":1695876751,
     "wof:name":"M\u0151isak\u00fcla",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

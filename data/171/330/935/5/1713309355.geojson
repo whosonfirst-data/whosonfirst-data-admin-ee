@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Allik\u0151nnu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000979,
-    "geom:area_square_m":6294597.665122,
+    "geom:area_square_m":6294597.66512,
     "geom:bbox":"24.957566,58.64621,25.025974,58.667241",
     "geom:latitude":58.655207,
     "geom:longitude":24.996185,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1215
+        "ee-mamt:okood":"1215"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193118383
     ],
     "wof:country":"EE",
     "wof:created":1595459867,
-    "wof:geomhash":"b82f57d8e79777feaad893ebbd0cf77b",
+    "wof:geomhash":"33f21263b1811c9e6ce574e30e241c5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663407,
+    "wof:lastmodified":1695876824,
     "wof:name":"Allik\u0151nnu",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

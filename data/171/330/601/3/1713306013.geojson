@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pudisoo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001475,
-    "geom:area_square_m":9249359.382516,
+    "geom:area_square_m":9249359.382511,
     "geom:bbox":"25.538861,59.50989,25.624631,59.537412",
     "geom:latitude":59.523243,
     "geom:longitude":25.579915,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6378
+        "ee-mamt:okood":"6378"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125821771
     ],
     "wof:country":"EE",
     "wof:created":1595459055,
-    "wof:geomhash":"ef0681127eb398a984fa430732617283",
+    "wof:geomhash":"67a899fd109a3fb8a421bf277ed7fce4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661806,
+    "wof:lastmodified":1695876776,
     "wof:name":"Pudisoo",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

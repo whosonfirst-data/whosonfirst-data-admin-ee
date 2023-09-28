@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vagivere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000648,
-    "geom:area_square_m":4170614.352681,
+    "geom:area_square_m":4170614.352682,
     "geom:bbox":"23.695865,58.629902,23.736998,58.661804",
     "geom:latitude":58.648841,
     "geom:longitude":23.716345,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8830
+        "ee-mamt:okood":"8830"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209509589
     ],
     "wof:country":"EE",
     "wof:created":1595459728,
-    "wof:geomhash":"4a0bbe56be05d5aa711a1c549f5f806c",
+    "wof:geomhash":"1e2182fe93954504f54e2b304f6c7219",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661574,
+    "wof:lastmodified":1695876765,
     "wof:name":"Vagivere",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

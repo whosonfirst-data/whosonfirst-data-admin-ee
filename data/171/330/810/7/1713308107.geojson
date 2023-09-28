@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Otiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001283,
-    "geom:area_square_m":8172134.449451,
+    "geom:area_square_m":8172134.44945,
     "geom:bbox":"25.525612,58.968227,25.601008,59.002848",
     "geom:latitude":58.989142,
     "geom:longitude":25.567881,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5761
+        "ee-mamt:okood":"5761"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293298927
     ],
     "wof:country":"EE",
     "wof:created":1595459560,
-    "wof:geomhash":"c461f7545cba456c673864cdd4f802b9",
+    "wof:geomhash":"13121e97f908f6445b68c3716e08656e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661318,
+    "wof:lastmodified":1695876752,
     "wof:name":"Otiku",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vorbuse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0026,
-    "geom:area_square_m":16835382.304511,
+    "geom:area_square_m":16835382.304514,
     "geom:bbox":"26.590295,58.408111,26.689037,58.456668",
     "geom:latitude":58.427193,
     "geom:longitude":26.631734,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9483
+        "ee-mamt:okood":"9483"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890629
     ],
     "wof:country":"EE",
     "wof:created":1595460785,
-    "wof:geomhash":"7fa169815c14b15a86e4ef5e81f3b2cf",
+    "wof:geomhash":"ca58ae7425a23c211bbc578a285c3eb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661163,
+    "wof:lastmodified":1695876743,
     "wof:name":"Vorbuse",
     "wof:parent_id":1713305675,
     "wof:placetype":"localadmin",

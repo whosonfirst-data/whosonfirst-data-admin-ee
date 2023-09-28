@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Supsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002851,
-    "geom:area_square_m":18524807.162703,
+    "geom:area_square_m":18524807.162704,
     "geom:bbox":"25.209145,58.266492,25.339433,58.319842",
     "geom:latitude":58.294857,
     "geom:longitude":25.280166,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7804
+        "ee-mamt:okood":"7804"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037847
     ],
     "wof:country":"EE",
     "wof:created":1595460916,
-    "wof:geomhash":"785dda6223b40bbe32551465127b764f",
+    "wof:geomhash":"a2871d77ca7eac01fa16dc650596c48d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663450,
+    "wof:lastmodified":1695876831,
     "wof:name":"Supsi",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

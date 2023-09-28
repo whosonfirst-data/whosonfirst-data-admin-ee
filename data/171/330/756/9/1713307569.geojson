@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Jursi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000805,
-    "geom:area_square_m":5216112.917168,
+    "geom:area_square_m":5216112.91717,
     "geom:bbox":"22.817776,58.374086,22.870569,58.399138",
     "geom:latitude":58.387387,
     "geom:longitude":22.845091,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2215
+        "ee-mamt:okood":"2215"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310376449
     ],
     "wof:country":"EE",
     "wof:created":1595459435,
-    "wof:geomhash":"f70f68d7e48a6a7ccb506fc0445b46de",
+    "wof:geomhash":"8960f3470c41aa9c909937898ec93040",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672487,
+    "wof:lastmodified":1695876895,
     "wof:name":"Jursi",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

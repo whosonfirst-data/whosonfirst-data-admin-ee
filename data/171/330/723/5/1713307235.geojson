@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rumpo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000666,
-    "geom:area_square_m":4242499.820824,
+    "geom:area_square_m":4242499.820829,
     "geom:bbox":"23.236119,58.937244,23.31371,58.986083",
     "geom:latitude":58.967564,
     "geom:longitude":23.274691,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7124
+        "ee-mamt:okood":"7124"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125816815
     ],
     "wof:country":"EE",
     "wof:created":1595459353,
-    "wof:geomhash":"2a30575d79e3d1f3c8f8e0f8e89652b1",
+    "wof:geomhash":"c47c09d1835034d50ac2e45f7325e2e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663598,
+    "wof:lastmodified":1695876834,
     "wof:name":"Rumpo",
     "wof:parent_id":1713305639,
     "wof:placetype":"localadmin",

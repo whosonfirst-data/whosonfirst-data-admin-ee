@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Emmu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001125,
-    "geom:area_square_m":7241547.792889,
+    "geom:area_square_m":7241547.792891,
     "geom:bbox":"24.056412,58.613914,24.115586,58.657258",
     "geom:latitude":58.632994,
     "geom:longitude":24.081172,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1591
+        "ee-mamt:okood":"1591"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310393507
     ],
     "wof:country":"EE",
     "wof:created":1595459876,
-    "wof:geomhash":"a63415799a2dcf4ff97bf19a17cf9786",
+    "wof:geomhash":"1cb5fbe870e1417afe474cedabb781be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661589,
+    "wof:lastmodified":1695876767,
     "wof:name":"Emmu",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

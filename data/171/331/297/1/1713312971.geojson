@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Vahi Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.001422,
-    "geom:area_square_m":9210856.301371,
+    "geom:area_square_m":9210856.301373,
     "geom:bbox":"26.675061,58.396862,26.752345,58.433024",
     "geom:latitude":58.41663,
     "geom:longitude":26.714433,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Vahi alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8850
+        "ee-mamt:okood":"8850"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125971715
     ],
     "wof:country":"EE",
     "wof:created":1595460663,
-    "wof:geomhash":"edbc191d6daa111cf63557a34e843dde",
+    "wof:geomhash":"eb080433cca2c607f0af9b38ee0344ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676467,
+    "wof:lastmodified":1695876913,
     "wof:name":"Vahi",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

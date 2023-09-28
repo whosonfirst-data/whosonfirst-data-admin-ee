@@ -8,13 +8,13 @@
     "ee-mamt:animi":"T\u0151ravere Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000486,
-    "geom:area_square_m":3161094.223255,
+    "geom:area_square_m":3161094.223257,
     "geom:bbox":"26.446421,58.252525,26.490007,58.273199",
     "geom:latitude":58.263667,
     "geom:longitude":26.467546,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "T\u0151ravere alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8512
+        "ee-mamt:okood":"8512"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126017743
     ],
     "wof:country":"EE",
     "wof:created":1595459116,
-    "wof:geomhash":"c29314c051af385d81efaf9074bfca67",
+    "wof:geomhash":"80c099efc5957733b119041dca3c3687",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676754,
+    "wof:lastmodified":1695876948,
     "wof:name":"T\u0151ravere",
     "wof:parent_id":1713305715,
     "wof:placetype":"localadmin",

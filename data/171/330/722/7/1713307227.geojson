@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hosby K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000489,
-    "geom:area_square_m":3117237.810238,
+    "geom:area_square_m":3117237.810235,
     "geom:bbox":"23.33767,58.967942,23.389776,58.995099",
     "geom:latitude":58.985139,
     "geom:longitude":23.359564,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1892
+        "ee-mamt:okood":"1892"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260077145
     ],
     "wof:country":"EE",
     "wof:created":1595459351,
-    "wof:geomhash":"3fb38076342135695781fc5829382437",
+    "wof:geomhash":"c5193cdb2af54c8f8bb84d5393fe9ed3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663595,
+    "wof:lastmodified":1695876833,
     "wof:name":"Hosby",
     "wof:parent_id":1713305639,
     "wof:placetype":"localadmin",

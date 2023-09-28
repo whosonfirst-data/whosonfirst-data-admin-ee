@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vajangu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002584,
-    "geom:area_square_m":16407594.742738,
+    "geom:area_square_m":16407594.742739,
     "geom:bbox":"25.938724,59.088944,26.035532,59.137529",
     "geom:latitude":59.107877,
     "geom:longitude":25.985749,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8903
+        "ee-mamt:okood":"8903"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125957301
     ],
     "wof:country":"EE",
     "wof:created":1595459619,
-    "wof:geomhash":"0caaf07fb29d126e201feeb8fd9ad8ec",
+    "wof:geomhash":"ac117fe50ce85cac003bce58b2d510aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676593,
+    "wof:lastmodified":1695876928,
     "wof:name":"Vajangu",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

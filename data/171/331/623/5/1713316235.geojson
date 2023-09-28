@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ruutsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000217,
-    "geom:area_square_m":1430109.315961,
+    "geom:area_square_m":1430109.315959,
     "geom:bbox":"27.386252,57.736102,27.419036,57.749487",
     "geom:latitude":57.742249,
     "geom:longitude":27.402942,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7152
+        "ee-mamt:okood":"7152"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293742675
     ],
     "wof:country":"EE",
     "wof:created":1595461385,
-    "wof:geomhash":"c0f8a1804a927a0071cf7d76851a678f",
+    "wof:geomhash":"74df2acbfaab53c45d2c5e2534e21b6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663632,
+    "wof:lastmodified":1695876837,
     "wof:name":"Ruutsi",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Keava Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000115,
-    "geom:area_square_m":735831.37341,
+    "geom:area_square_m":735831.373409,
     "geom:bbox":"24.888402,58.938037,24.913957,58.95168",
     "geom:latitude":58.944914,
     "geom:longitude":24.901716,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Keava alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2903
+        "ee-mamt:okood":"2903"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125934111
     ],
     "wof:country":"EE",
     "wof:created":1595460288,
-    "wof:geomhash":"4af1141272488d0ee49accbde4084a69",
+    "wof:geomhash":"3d8e171f70e13ee7360f5e2da5e68281",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676735,
+    "wof:lastmodified":1695876945,
     "wof:name":"Keava",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

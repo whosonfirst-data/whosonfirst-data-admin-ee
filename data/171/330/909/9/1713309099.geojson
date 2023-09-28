@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Putkaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000845,
-    "geom:area_square_m":5406109.17392,
+    "geom:area_square_m":5406109.173922,
     "geom:bbox":"23.788867,58.831267,23.848703,58.857426",
     "geom:latitude":58.842088,
     "geom:longitude":23.819813,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6464
+        "ee-mamt:okood":"6464"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209707233
     ],
     "wof:country":"EE",
     "wof:created":1595459809,
-    "wof:geomhash":"1bc8709ed218955bf74abb5aca835c75",
+    "wof:geomhash":"dc0a8d466d6a4298de1899d358ad3dd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677188,
+    "wof:lastmodified":1695876988,
     "wof:name":"Putkaste",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

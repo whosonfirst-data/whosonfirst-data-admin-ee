@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vilivalla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003084,
-    "geom:area_square_m":19504390.85933,
+    "geom:area_square_m":19504390.859327,
     "geom:bbox":"23.900736,59.212832,24.002949,59.257581",
     "geom:latitude":59.234336,
     "geom:longitude":23.947259,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9339
+        "ee-mamt:okood":"9339"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243278247
     ],
     "wof:country":"EE",
     "wof:created":1595459516,
-    "wof:geomhash":"065101befd2859be4154fb49c487153a",
+    "wof:geomhash":"ceaf95bbbeb678e694e319dc5abe97f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663298,
+    "wof:lastmodified":1695876817,
     "wof:name":"Vilivalla",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

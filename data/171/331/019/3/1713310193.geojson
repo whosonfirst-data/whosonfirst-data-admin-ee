@@ -14,7 +14,7 @@
     "geom:longitude":26.19424,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Kurek\u00fcla alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3637
+        "ee-mamt:okood":"3637"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125858201
     ],
     "wof:country":"EE",
     "wof:created":1595460068,
-    "wof:geomhash":"fdae699b63851fa16082813c1677dfc9",
+    "wof:geomhash":"9165baae5d037a9efee1c2ba124a3518",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661886,
+    "wof:lastmodified":1695876783,
     "wof:name":"Kurek\u00fcla",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rupsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001389,
-    "geom:area_square_m":8959315.621729,
+    "geom:area_square_m":8959315.621727,
     "geom:bbox":"27.080994,58.553112,27.176718,58.581973",
     "geom:latitude":58.569189,
     "geom:longitude":27.127852,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7127
+        "ee-mamt:okood":"7127"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309688039
     ],
     "wof:country":"EE",
     "wof:created":1595459858,
-    "wof:geomhash":"55485c7ca0900960aa11a8b24f8ac25c",
+    "wof:geomhash":"f7ad7b00b9b8329552a3bf2882477652",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660850,
+    "wof:lastmodified":1695876738,
     "wof:name":"Rupsi",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

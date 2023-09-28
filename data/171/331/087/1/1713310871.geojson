@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sarvem\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000429,
-    "geom:area_square_m":2810951.938797,
+    "geom:area_square_m":2810951.938795,
     "geom:bbox":"27.242401,57.975796,27.275147,58.003753",
     "geom:latitude":57.991044,
     "geom:longitude":27.256434,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7439
+        "ee-mamt:okood":"7439"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259670849
     ],
     "wof:country":"EE",
     "wof:created":1595460217,
-    "wof:geomhash":"0ee0e5d25cc012f94bf342cac525611b",
+    "wof:geomhash":"660df4d3eb98fc2d3efb351cfad07c0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676981,
+    "wof:lastmodified":1695876977,
     "wof:name":"Sarvem\u00e4e",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

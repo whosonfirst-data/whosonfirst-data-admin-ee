@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kangrussaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000926,
-    "geom:area_square_m":5964268.384233,
+    "geom:area_square_m":5964268.384234,
     "geom:bbox":"25.702994,58.604383,25.770892,58.628667",
     "geom:latitude":58.616457,
     "geom:longitude":25.735607,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2674
+        "ee-mamt:okood":"2674"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277039911
     ],
     "wof:country":"EE",
     "wof:created":1595461027,
-    "wof:geomhash":"d9071b3fb400630e3adae708f247b083",
+    "wof:geomhash":"a66348aa30dce55bf4981e02f2f0d922",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663445,
+    "wof:lastmodified":1695876830,
     "wof:name":"Kangrussaare",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

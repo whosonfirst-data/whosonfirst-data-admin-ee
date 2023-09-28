@@ -8,7 +8,7 @@
     "ee-mamt:animi":"S\u00e4re K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00234,
-    "geom:area_square_m":15410969.807637,
+    "geom:area_square_m":15410969.807636,
     "geom:bbox":"26.551039,57.80184,26.660484,57.843912",
     "geom:latitude":57.824262,
     "geom:longitude":26.612233,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7933
+        "ee-mamt:okood":"7933"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209780151
     ],
     "wof:country":"EE",
     "wof:created":1595461308,
-    "wof:geomhash":"2204f5ac1325c5154d40933bc210ef76",
+    "wof:geomhash":"f3ea0bf0306a1c9cb10fc21221f1dcd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677015,
+    "wof:lastmodified":1695876982,
     "wof:name":"S\u00e4re",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

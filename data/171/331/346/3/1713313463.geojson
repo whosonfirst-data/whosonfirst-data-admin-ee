@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Serva\u00e4\u00e4re K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000666,
-    "geom:area_square_m":4200614.683631,
+    "geom:area_square_m":4200614.683629,
     "geom:bbox":"27.239964,59.336691,27.278439,59.371292",
     "geom:latitude":59.353009,
     "geom:longitude":27.25842,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7551
+        "ee-mamt:okood":"7551"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310503497
     ],
     "wof:country":"EE",
     "wof:created":1595460767,
-    "wof:geomhash":"0251fd68d3517535a13aa98293c59da2",
+    "wof:geomhash":"93c2fb2390505215586683e9fe691481",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676904,
+    "wof:lastmodified":1695876970,
     "wof:name":"Serva\u00e4\u00e4re",
     "wof:parent_id":1713305783,
     "wof:placetype":"localadmin",

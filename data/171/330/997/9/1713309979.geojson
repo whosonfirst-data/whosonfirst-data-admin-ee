@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Eidapere Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000159,
-    "geom:area_square_m":1020268.472235,
+    "geom:area_square_m":1020268.472236,
     "geom:bbox":"24.932189,58.744988,24.95055,58.76366",
     "geom:latitude":58.754641,
     "geom:longitude":24.94255,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Eidapere alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1550
+        "ee-mamt:okood":"1550"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126019557
     ],
     "wof:country":"EE",
     "wof:created":1595460021,
-    "wof:geomhash":"58b22491e0ee5a59920147c4dcb96ab1",
+    "wof:geomhash":"ab85d211c936af6cc1a0473ae658eefc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676739,
+    "wof:lastmodified":1695876947,
     "wof:name":"Eidapere",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

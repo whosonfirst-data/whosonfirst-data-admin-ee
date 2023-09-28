@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pihali K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002695,
-    "geom:area_square_m":17098619.433725,
+    "geom:area_square_m":17098619.433726,
     "geom:bbox":"24.540136,59.11106,24.6526,59.155062",
     "geom:latitude":59.133612,
     "geom:longitude":24.595345,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6140
+        "ee-mamt:okood":"6140"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125956497
     ],
     "wof:country":"EE",
     "wof:created":1595460783,
-    "wof:geomhash":"f4cef60e32aae36c90122c4105a4d1bb",
+    "wof:geomhash":"245f7f9e328087eea88da7988ba5ae10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677032,
+    "wof:lastmodified":1695876984,
     "wof:name":"Pihali",
     "wof:parent_id":1713305707,
     "wof:placetype":"localadmin",

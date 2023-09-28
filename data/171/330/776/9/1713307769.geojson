@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Harju-Risti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000567,
-    "geom:area_square_m":3588224.979508,
+    "geom:area_square_m":3588224.97951,
     "geom:bbox":"23.987073,59.218277,24.049494,59.23508",
     "geom:latitude":59.226725,
     "geom:longitude":24.018788,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1771
+        "ee-mamt:okood":"1771"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037449
     ],
     "wof:country":"EE",
     "wof:created":1595459482,
-    "wof:geomhash":"d5d1979a138085df40ce6255b35ed6d6",
+    "wof:geomhash":"d56d6edfa1be3f0ac01f34f43bd5141c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663286,
+    "wof:lastmodified":1695876813,
     "wof:name":"Harju-Risti",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

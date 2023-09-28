@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tuhalaane K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00276,
-    "geom:area_square_m":17991889.683402,
+    "geom:area_square_m":17991889.683404,
     "geom:bbox":"25.596523,58.149953,25.687758,58.208704",
     "geom:latitude":58.178852,
     "geom:longitude":25.650513,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8398
+        "ee-mamt:okood":"8398"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936631
     ],
     "wof:country":"EE",
     "wof:created":1595460770,
-    "wof:geomhash":"7c0d32c87c1a985cc0cb28370a974b95",
+    "wof:geomhash":"b9cc2332f62e8d3d86a1245a321ae16e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661296,
+    "wof:lastmodified":1695876752,
     "wof:name":"Tuhalaane",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

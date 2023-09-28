@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tarbja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002235,
-    "geom:area_square_m":14260227.652912,
+    "geom:area_square_m":14260227.652915,
     "geom:bbox":"25.545191,58.906257,25.629386,58.949583",
     "geom:latitude":58.93195,
     "geom:longitude":25.587292,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8152
+        "ee-mamt:okood":"8152"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125875483
     ],
     "wof:country":"EE",
     "wof:created":1595459639,
-    "wof:geomhash":"0951f37357ff84b891fa735b79d1b3ae",
+    "wof:geomhash":"89c1bca9c535f705a0ebc82643d2ca94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661319,
+    "wof:lastmodified":1695876753,
     "wof:name":"Tarbja",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

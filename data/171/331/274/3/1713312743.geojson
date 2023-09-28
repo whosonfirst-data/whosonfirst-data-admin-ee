@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u0151hmassaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001625,
-    "geom:area_square_m":10462966.816177,
+    "geom:area_square_m":10462966.816179,
     "geom:bbox":"25.484481,58.596218,25.562732,58.633491",
     "geom:latitude":58.614859,
     "geom:longitude":25.528621,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9503
+        "ee-mamt:okood":"9503"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310367219
     ],
     "wof:country":"EE",
     "wof:created":1595460613,
-    "wof:geomhash":"ef097afd4b94367d2f6568b77801d117",
+    "wof:geomhash":"009b0d9cba039ab191e997bb33aacc6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663441,
+    "wof:lastmodified":1695876829,
     "wof:name":"V\u0151hmassaare",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

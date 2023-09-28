@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mulgi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001291,
-    "geom:area_square_m":8405287.61878,
+    "geom:area_square_m":8405287.618783,
     "geom:bbox":"25.314623,58.206023,25.364411,58.260337",
     "geom:latitude":58.234173,
     "geom:longitude":25.341459,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5020
+        "ee-mamt:okood":"5020"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293563559
     ],
     "wof:country":"EE",
     "wof:created":1595460393,
-    "wof:geomhash":"016f54c43c7050e8273c82b2a11f4365",
+    "wof:geomhash":"bff456082e8995d3a89bc27c6bca3656",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661287,
+    "wof:lastmodified":1695876750,
     "wof:name":"Mulgi",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

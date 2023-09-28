@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mustivere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002253,
-    "geom:area_square_m":14601113.418351,
+    "geom:area_square_m":14601113.41835,
     "geom:bbox":"25.480631,58.366561,25.570523,58.405841",
     "geom:latitude":58.385175,
     "geom:longitude":25.530472,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5075
+        "ee-mamt:okood":"5075"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125956301
     ],
     "wof:country":"EE",
     "wof:created":1595460019,
-    "wof:geomhash":"56a34f4926acb6f13cfdf605e3c65ceb",
+    "wof:geomhash":"fe75b913133f71994294c73a4b1ef10e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661232,
+    "wof:lastmodified":1695876748,
     "wof:name":"Mustivere",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

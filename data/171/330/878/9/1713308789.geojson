@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4ek\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000593,
-    "geom:area_square_m":3860312.88992,
+    "geom:area_square_m":3860312.889922,
     "geom:bbox":"26.702877,58.221945,26.759802,58.240506",
     "geom:latitude":58.23132,
     "geom:longitude":26.734707,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5194
+        "ee-mamt:okood":"5194"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459733,
-    "wof:geomhash":"d9ed763cb279b450b446116143e85b59",
+    "wof:geomhash":"8740cf7f8c6d944097c8ceaf2ea7c8a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676683,
+    "wof:lastmodified":1695876939,
     "wof:name":"M\u00e4ek\u00fcla",
     "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",

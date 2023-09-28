@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Leibre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000606,
-    "geom:area_square_m":3889010.425484,
+    "geom:area_square_m":3889010.425483,
     "geom:bbox":"24.376635,58.691228,24.416917,58.721726",
     "geom:latitude":58.707121,
     "geom:longitude":24.397862,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4221
+        "ee-mamt:okood":"4221"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277062675
     ],
     "wof:country":"EE",
     "wof:created":1595460269,
-    "wof:geomhash":"a58ea3006c9095e176654fa46ce7b767",
+    "wof:geomhash":"815c4ea3b6c89d9846ebed5b88b4df63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662821,
+    "wof:lastmodified":1695876803,
     "wof:name":"Leibre",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

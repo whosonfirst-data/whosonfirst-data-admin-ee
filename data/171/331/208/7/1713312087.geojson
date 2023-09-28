@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lahavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004582,
-    "geom:area_square_m":29388247.766694,
+    "geom:area_square_m":29388247.766693,
     "geom:bbox":"26.069659,58.720708,26.198437,58.792512",
     "geom:latitude":58.753194,
     "geom:longitude":26.139669,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4049
+        "ee-mamt:okood":"4049"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125875411
     ],
     "wof:country":"EE",
     "wof:created":1595460478,
-    "wof:geomhash":"f5b5b1c9b96dd5aa442a00b13d2e6ea3",
+    "wof:geomhash":"3fd1e93a440045d7a28bac1e91d08cf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676490,
+    "wof:lastmodified":1695876915,
     "wof:name":"Lahavere",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

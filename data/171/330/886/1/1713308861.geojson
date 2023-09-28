@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00fchi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00108,
-    "geom:area_square_m":7030858.064647,
+    "geom:area_square_m":7030858.06465,
     "geom:bbox":"26.621634,58.215014,26.689347,58.244029",
     "geom:latitude":58.230572,
     "geom:longitude":26.653875,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6666
+        "ee-mamt:okood":"6666"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260156863
     ],
     "wof:country":"EE",
     "wof:created":1595459751,
-    "wof:geomhash":"9c3d2a8adb3459d3c0d2720f9b4399ca",
+    "wof:geomhash":"ca0fc36ecc7743520f481bf8a57fec2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676684,
+    "wof:lastmodified":1695876939,
     "wof:name":"P\u00fchi",
     "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",

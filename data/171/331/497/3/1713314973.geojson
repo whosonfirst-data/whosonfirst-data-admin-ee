@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nogu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000294,
-    "geom:area_square_m":1938387.570339,
+    "geom:area_square_m":1938387.570338,
     "geom:bbox":"26.945596,57.72167,26.976238,57.743127",
     "geom:latitude":57.734397,
     "geom:longitude":26.961221,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5434
+        "ee-mamt:okood":"5434"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277033669
     ],
     "wof:country":"EE",
     "wof:created":1595461105,
-    "wof:geomhash":"35e864a8c79501aab7eed60e2159bfb4",
+    "wof:geomhash":"0bfaa0efa54012bbe7e5d389ebcf6531",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676826,
+    "wof:lastmodified":1695876958,
     "wof:name":"Nogu",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

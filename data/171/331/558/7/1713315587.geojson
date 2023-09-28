@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vastaba K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00423,
-    "geom:area_square_m":27196256.625175,
+    "geom:area_square_m":27196256.625171,
     "geom:bbox":"24.039609,58.634301,24.18592,58.699706",
     "geom:latitude":58.668365,
     "geom:longitude":24.111111,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9134
+        "ee-mamt:okood":"9134"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243351511
     ],
     "wof:country":"EE",
     "wof:created":1595461252,
-    "wof:geomhash":"25ffc2a3a5a382e4ddacfc2d8b9fc499",
+    "wof:geomhash":"da3184bcb2f3a4dc3b65f69f42facb3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661660,
+    "wof:lastmodified":1695876773,
     "wof:name":"Vastaba",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

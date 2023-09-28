@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nugeri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001395,
-    "geom:area_square_m":8770232.33976,
+    "geom:area_square_m":8770232.339759,
     "geom:bbox":"26.608846,59.430803,26.687691,59.467456",
     "geom:latitude":59.450932,
     "geom:longitude":26.647398,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5456
+        "ee-mamt:okood":"5456"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293385633
     ],
     "wof:country":"EE",
     "wof:created":1595459467,
-    "wof:geomhash":"84e89464053c0f4bbd2254d90f736f1f",
+    "wof:geomhash":"6d89eae87f820a985f994dddd74ea191",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677916,
+    "wof:lastmodified":1695877000,
     "wof:name":"Nugeri",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

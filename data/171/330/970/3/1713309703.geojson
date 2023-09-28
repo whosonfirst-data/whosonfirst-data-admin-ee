@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vanaussaia K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000928,
-    "geom:area_square_m":5992518.759483,
+    "geom:area_square_m":5992518.759481,
     "geom:bbox":"27.126566,58.491891,27.195226,58.518913",
     "geom:latitude":58.504559,
     "geom:longitude":27.159422,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9031
+        "ee-mamt:okood":"9031"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193100209
     ],
     "wof:country":"EE",
     "wof:created":1595459955,
-    "wof:geomhash":"da74fb8a8016f3cee931730d946f9869",
+    "wof:geomhash":"9f7082ead4c5299d05c7cb545ee32289",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660848,
+    "wof:lastmodified":1695876738,
     "wof:name":"Vanaussaia",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koluta K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001133,
-    "geom:area_square_m":7210391.105911,
+    "geom:area_square_m":7210391.105913,
     "geom:bbox":"24.306006,59.023638,24.360211,59.056225",
     "geom:latitude":59.039289,
     "geom:longitude":24.335476,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3365
+        "ee-mamt:okood":"3365"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293366653
     ],
     "wof:country":"EE",
     "wof:created":1595460339,
-    "wof:geomhash":"c45fa05af8d48cfa2f8709e4aa3e8edc",
+    "wof:geomhash":"6aa78a0230a9b837c8b0d54d1a6195d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662810,
+    "wof:lastmodified":1695876801,
     "wof:name":"Koluta",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

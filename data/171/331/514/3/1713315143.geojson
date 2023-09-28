@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hurda K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000504,
-    "geom:area_square_m":3326496.760326,
+    "geom:area_square_m":3326496.760327,
     "geom:bbox":"26.813812,57.697701,26.868075,57.730436",
     "geom:latitude":57.713656,
     "geom:longitude":26.838442,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1911
+        "ee-mamt:okood":"1911"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326889367
     ],
     "wof:country":"EE",
     "wof:created":1595461140,
-    "wof:geomhash":"bb8e9b0c52c3c93e4737579ae5ab6ef5",
+    "wof:geomhash":"2396617f25037436f615a8309e20999f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676827,
+    "wof:lastmodified":1695876959,
     "wof:name":"Hurda",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

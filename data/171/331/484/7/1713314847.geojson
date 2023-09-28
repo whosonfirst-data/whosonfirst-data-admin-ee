@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tipu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.013515,
-    "geom:area_square_m":87642027.328502,
+    "geom:area_square_m":87642027.328518,
     "geom:bbox":"24.97194,58.311591,25.133049,58.435005",
     "geom:latitude":58.369966,
     "geom:longitude":25.049394,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8251
+        "ee-mamt:okood":"8251"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309867531
     ],
     "wof:country":"EE",
     "wof:created":1595461070,
-    "wof:geomhash":"69524cf5cb5f8be832d6f5148f074520",
+    "wof:geomhash":"06b1a22c47dd45bbcf8c24d49a886911",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663445,
+    "wof:lastmodified":1695876830,
     "wof:name":"Tipu",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

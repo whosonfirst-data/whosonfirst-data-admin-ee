@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Loosi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001483,
-    "geom:area_square_m":9772850.684922,
+    "geom:area_square_m":9772850.684926,
     "geom:bbox":"27.190262,57.779813,27.248037,57.823597",
     "geom:latitude":57.802811,
     "geom:longitude":27.214439,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4517
+        "ee-mamt:okood":"4517"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226307309
     ],
     "wof:country":"EE",
     "wof:created":1595461256,
-    "wof:geomhash":"18a27f1a7ee0aa965352d8ffd53e1bd5",
+    "wof:geomhash":"1ee49037835e5bcc7fd3dcaed5ee3c14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660215,
+    "wof:lastmodified":1695876720,
     "wof:name":"Loosi",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

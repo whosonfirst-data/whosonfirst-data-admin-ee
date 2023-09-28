@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vilima K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0002,
-    "geom:area_square_m":1280079.71979,
+    "geom:area_square_m":1280079.719791,
     "geom:bbox":"22.223587,58.889585,22.249976,58.905415",
     "geom:latitude":58.897347,
     "geom:longitude":22.237533,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9327
+        "ee-mamt:okood":"9327"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260083317
     ],
     "wof:country":"EE",
     "wof:created":1595460065,
-    "wof:geomhash":"10d156e644e3aaeae4d60303eccdb719",
+    "wof:geomhash":"2ad952d06e94c3804dcf368d5041101d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666283,
+    "wof:lastmodified":1695876847,
     "wof:name":"Vilima",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

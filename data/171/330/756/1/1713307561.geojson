@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuninguste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000996,
-    "geom:area_square_m":6428028.471603,
+    "geom:area_square_m":6428028.471602,
     "geom:bbox":"22.893026,58.512357,22.936606,58.551598",
     "geom:latitude":58.530788,
     "geom:longitude":22.916675,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3625
+        "ee-mamt:okood":"3625"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310574893
     ],
     "wof:country":"EE",
     "wof:created":1595459434,
-    "wof:geomhash":"2f194ee43aa9299f7a14cc384ee50e4b",
+    "wof:geomhash":"ae2aec886ef3f8821b26e5338b8e8fcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672474,
+    "wof:lastmodified":1695876895,
     "wof:name":"Kuninguste",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pirgu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002461,
-    "geom:area_square_m":15615681.543087,
+    "geom:area_square_m":15615681.543084,
     "geom:bbox":"24.802436,59.092024,24.883067,59.16362",
     "geom:latitude":59.126828,
     "geom:longitude":24.846461,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6274
+        "ee-mamt:okood":"6274"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125778145
     ],
     "wof:country":"EE",
     "wof:created":1595460871,
-    "wof:geomhash":"6df539e83a21e10f24d2c0d6e7ffa3ca",
+    "wof:geomhash":"48efaa69c7d11dbdc443d1192a7ce282",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676702,
+    "wof:lastmodified":1695876941,
     "wof:name":"Pirgu",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

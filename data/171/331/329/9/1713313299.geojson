@@ -8,7 +8,7 @@
     "ee-mamt:animi":"L\u0151iuse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002114,
-    "geom:area_square_m":13409975.043952,
+    "geom:area_square_m":13409975.043953,
     "geom:bbox":"24.841546,59.106198,24.929443,59.164923",
     "geom:latitude":59.136533,
     "geom:longitude":24.88801,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4602
+        "ee-mamt:okood":"4602"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276965461
     ],
     "wof:country":"EE",
     "wof:created":1595460733,
-    "wof:geomhash":"6d51a6ed806dc9bf63298ffd9a7763e5",
+    "wof:geomhash":"1b423e7684fe705dfdc5c890a2e304ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676714,
+    "wof:lastmodified":1695876944,
     "wof:name":"L\u0151iuse",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lehetu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004719,
-    "geom:area_square_m":30017303.859604,
+    "geom:area_square_m":30017303.859599,
     "geom:bbox":"24.195728,59.008039,24.315046,59.078413",
     "geom:latitude":59.043865,
     "geom:longitude":24.249641,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4206
+        "ee-mamt:okood":"4206"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125955743
     ],
     "wof:country":"EE",
     "wof:created":1595461066,
-    "wof:geomhash":"7cd0a63f64c2565dcc0a153af3eaa678",
+    "wof:geomhash":"2f08fcb994bf6908da2a260187b4ad5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663239,
+    "wof:lastmodified":1695876813,
     "wof:name":"Lehetu",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lemmaku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003114,
-    "geom:area_square_m":19824013.026779,
+    "geom:area_square_m":19824013.026777,
     "geom:bbox":"27.048456,58.993151,27.190971,59.031295",
     "geom:latitude":59.012136,
     "geom:longitude":27.130229,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4258
+        "ee-mamt:okood":"4258"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327136075
     ],
     "wof:country":"EE",
     "wof:created":1595460803,
-    "wof:geomhash":"8422997d3b3b309a24064f04ecfee293",
+    "wof:geomhash":"d8ea8f1f4305565d8438830e91514350",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660719,
+    "wof:lastmodified":1695876734,
     "wof:name":"Lemmaku",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"N\u0151mpa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002787,
-    "geom:area_square_m":18058805.632761,
+    "geom:area_square_m":18058805.632762,
     "geom:bbox":"22.21807,58.371307,22.325787,58.419027",
     "geom:latitude":58.394633,
     "geom:longitude":22.271748,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5528
+        "ee-mamt:okood":"5528"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259953679
     ],
     "wof:country":"EE",
     "wof:created":1595459321,
-    "wof:geomhash":"4443aa0b20818a0f12d17cfbdfd9aae5",
+    "wof:geomhash":"6d283bd53c2220ba3122b320796943f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672171,
+    "wof:lastmodified":1695876883,
     "wof:name":"N\u0151mpa",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

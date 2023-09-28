@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pahtp\u00e4\u00e4 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000985,
-    "geom:area_square_m":6453329.392996,
+    "geom:area_square_m":6453329.392998,
     "geom:bbox":"27.342878,58.005687,27.397067,58.038817",
     "geom:latitude":58.023302,
     "geom:longitude":27.369618,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5857
+        "ee-mamt:okood":"5857"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935151
     ],
     "wof:country":"EE",
     "wof:created":1595460251,
-    "wof:geomhash":"99e5915a0c4c3a6ff059c536ba8dbc31",
+    "wof:geomhash":"362a4a6ecc1b65a511261c13bff0b91b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676984,
+    "wof:lastmodified":1695876978,
     "wof:name":"Pahtp\u00e4\u00e4",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiissa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002322,
-    "geom:area_square_m":14768460.071245,
+    "geom:area_square_m":14768460.071244,
     "geom:bbox":"26.866798,59.031067,26.951438,59.071023",
     "geom:latitude":59.052393,
     "geom:longitude":26.90815,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3052
+        "ee-mamt:okood":"3052"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259590813
     ],
     "wof:country":"EE",
     "wof:created":1595460805,
-    "wof:geomhash":"def1383d797742290a0a8fcaa2558647",
+    "wof:geomhash":"0d3c77d7ec39be6296eb133eebea2a15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660986,
+    "wof:lastmodified":1695876742,
     "wof:name":"Kiissa",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Liiapeksi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000977,
-    "geom:area_square_m":6143360.212332,
+    "geom:area_square_m":6143360.212328,
     "geom:bbox":"25.618869,59.436665,25.687817,59.463304",
     "geom:latitude":59.451315,
     "geom:longitude":25.654288,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4334
+        "ee-mamt:okood":"4334"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276667365
     ],
     "wof:country":"EE",
     "wof:created":1595459023,
-    "wof:geomhash":"2a8a63ea3c83da35c2342f24a3208e9f",
+    "wof:geomhash":"224e0c7a242f187dc714ae623e9c6dca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661823,
+    "wof:lastmodified":1695876779,
     "wof:name":"Liiapeksi",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

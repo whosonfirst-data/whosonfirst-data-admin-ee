@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tobia K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00066,
-    "geom:area_square_m":4162382.567976,
+    "geom:area_square_m":4162382.567975,
     "geom:bbox":"26.284951,59.332361,26.333874,59.353088",
     "geom:latitude":59.342607,
     "geom:longitude":26.310901,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8261
+        "ee-mamt:okood":"8261"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259768803
     ],
     "wof:country":"EE",
     "wof:created":1595461023,
-    "wof:geomhash":"bdafbb10b0615eb7600bbb3193bfb4b0",
+    "wof:geomhash":"8fd1c8c5bf8bda8117da69da5d71a3ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676666,
+    "wof:lastmodified":1695876937,
     "wof:name":"Tobia",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kok\u0151m\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000162,
-    "geom:area_square_m":1068472.240918,
+    "geom:area_square_m":1068472.24092,
     "geom:bbox":"26.997265,57.707765,27.016522,57.722241",
     "geom:latitude":57.714774,
     "geom:longitude":27.007322,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3318
+        "ee-mamt:okood":"3318"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360044331
     ],
     "wof:country":"EE",
     "wof:created":1595461104,
-    "wof:geomhash":"290b8a31cc4fd9844ce53a96d879fbea",
+    "wof:geomhash":"a9ddeb90240383a1f27de454a473f73e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676816,
+    "wof:lastmodified":1695876956,
     "wof:name":"Kok\u0151m\u00e4e",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

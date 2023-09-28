@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nurtu-N\u0151lva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002261,
-    "geom:area_square_m":14498408.499251,
+    "geom:area_square_m":14498408.49925,
     "geom:bbox":"24.557176,58.746988,24.666461,58.784318",
     "geom:latitude":58.767936,
     "geom:longitude":24.607415,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5482
+        "ee-mamt:okood":"5482"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209501257
     ],
     "wof:country":"EE",
     "wof:created":1595460299,
-    "wof:geomhash":"b954011ae6504ad5ea4503254bc339a1",
+    "wof:geomhash":"565018c984e2ac4c98d1bc066ff8d0c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662820,
+    "wof:lastmodified":1695876803,
     "wof:name":"Nurtu-N\u0151lva",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

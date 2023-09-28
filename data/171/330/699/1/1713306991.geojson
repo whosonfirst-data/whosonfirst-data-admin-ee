@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00e4llastvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002423,
-    "geom:area_square_m":15541728.512053,
+    "geom:area_square_m":15541728.512052,
     "geom:bbox":"25.630615,58.7206,25.739341,58.779034",
     "geom:latitude":58.751565,
     "geom:longitude":25.676983,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6583
+        "ee-mamt:okood":"6583"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209914731
     ],
     "wof:country":"EE",
     "wof:created":1595459295,
-    "wof:geomhash":"994005390074a42be597bc842e5f2ae2",
+    "wof:geomhash":"db964e454d4cf8041b7200e350d49adf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676624,
+    "wof:lastmodified":1695876932,
     "wof:name":"P\u00e4llastvere",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

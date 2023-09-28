@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Haimre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000918,
-    "geom:area_square_m":5867949.427916,
+    "geom:area_square_m":5867949.427915,
     "geom:bbox":"24.433941,58.863305,24.487423,58.895287",
     "geom:latitude":58.879293,
     "geom:longitude":24.461516,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1725
+        "ee-mamt:okood":"1725"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125959145
     ],
     "wof:country":"EE",
     "wof:created":1595460308,
-    "wof:geomhash":"eeb5affd957a29ac291a45cdb7a83475",
+    "wof:geomhash":"525c5683267286ac7223f167ff49ba95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662811,
+    "wof:lastmodified":1695876801,
     "wof:name":"Haimre",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiislova K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000373,
-    "geom:area_square_m":2466937.092734,
+    "geom:area_square_m":2466937.092736,
     "geom:bbox":"27.406479,57.699603,27.447003,57.721839",
     "geom:latitude":57.710501,
     "geom:longitude":27.425704,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3053
+        "ee-mamt:okood":"3053"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326489341
     ],
     "wof:country":"EE",
     "wof:created":1595461425,
-    "wof:geomhash":"ec4f52461cebf34c4ca13f99260e0d52",
+    "wof:geomhash":"5e9fd3a98bd28d6da7b20eaea083f14c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663661,
+    "wof:lastmodified":1695876843,
     "wof:name":"Kiislova",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

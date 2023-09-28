@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kakusuu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000224,
-    "geom:area_square_m":1474976.516389,
+    "geom:area_square_m":1474976.51639,
     "geom:bbox":"27.446294,57.864691,27.470886,57.880828",
     "geom:latitude":57.872425,
     "geom:longitude":27.456541,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2559
+        "ee-mamt:okood":"2559"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226826239
     ],
     "wof:country":"EE",
     "wof:created":1595461418,
-    "wof:geomhash":"3696567beb247fe61429338228c48586",
+    "wof:geomhash":"71c6e4e61bfb945b4e30d17df3af312c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660277,
+    "wof:lastmodified":1695876727,
     "wof:name":"Kakusuu",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

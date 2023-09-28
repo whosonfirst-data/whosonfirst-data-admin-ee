@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karjatnurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.006069,
-    "geom:area_square_m":39737985.856578,
+    "geom:area_square_m":39737985.856574,
     "geom:bbox":"25.715656,57.977151,25.842732,58.072794",
     "geom:latitude":58.02493,
     "geom:longitude":25.779955,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2757
+        "ee-mamt:okood":"2757"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126045157
     ],
     "wof:country":"EE",
     "wof:created":1595460577,
-    "wof:geomhash":"4f1ee4b4fd4c09cdc29edeebbf7e91a5",
+    "wof:geomhash":"d7791dc6ab5ec612de9b484be6c94eda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661422,
+    "wof:lastmodified":1695876758,
     "wof:name":"Karjatnurme",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

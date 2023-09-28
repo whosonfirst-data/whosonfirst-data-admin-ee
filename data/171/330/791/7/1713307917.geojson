@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vihterpalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001165,
-    "geom:area_square_m":7362916.716001,
+    "geom:area_square_m":7362916.716003,
     "geom:bbox":"23.854496,59.224708,23.90981,59.270977",
     "geom:latitude":59.248005,
     "geom:longitude":23.884757,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9265
+        "ee-mamt:okood":"9265"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226351951
     ],
     "wof:country":"EE",
     "wof:created":1595459516,
-    "wof:geomhash":"6260d6b6bed7d4b5544836ab04362eaf",
+    "wof:geomhash":"92739ad9ada7d837dd6c07e3c023d25a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663297,
+    "wof:lastmodified":1695876816,
     "wof:name":"Vihterpalu",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

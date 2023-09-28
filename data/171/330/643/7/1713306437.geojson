@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laane K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004801,
-    "geom:area_square_m":30417345.947555,
+    "geom:area_square_m":30417345.947552,
     "geom:bbox":"25.289317,59.151432,25.445316,59.21046",
     "geom:latitude":59.179554,
     "geom:longitude":25.373234,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4020
+        "ee-mamt:okood":"4020"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310119903
     ],
     "wof:country":"EE",
     "wof:created":1595459157,
-    "wof:geomhash":"ba9ec1642408a125d080e295eb51d6de",
+    "wof:geomhash":"0e9e8dddc60a04c05a6ed660c90d1142",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661344,
+    "wof:lastmodified":1695876755,
     "wof:name":"Laane",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kloostri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003265,
-    "geom:area_square_m":20942404.2916,
+    "geom:area_square_m":20942404.291608,
     "geom:bbox":"23.746815,58.724068,23.888846,58.77438",
     "geom:latitude":58.754034,
     "geom:longitude":23.82241,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3210
+        "ee-mamt:okood":"3210"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260176477
     ],
     "wof:country":"EE",
     "wof:created":1595461181,
-    "wof:geomhash":"8ca6feb15a642f7aab9296fa299df9a8",
+    "wof:geomhash":"fb689db18e67c56cf23a90e9e9e1f83e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617131357,
+    "wof:lastmodified":1695877020,
     "wof:name":"Kloostri",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

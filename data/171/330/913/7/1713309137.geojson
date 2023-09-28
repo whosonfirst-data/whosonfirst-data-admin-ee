@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aulepa K\u00fcla / Dirsl\u00e4tt",
     "ee-mamt:tyyp":8,
     "geom:area":0.001227,
-    "geom:area_square_m":7797288.951713,
+    "geom:area_square_m":7797288.951714,
     "geom:bbox":"23.547296,59.066173,23.614629,59.095715",
     "geom:latitude":59.083028,
     "geom:longitude":23.583119,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1469
+        "ee-mamt:okood":"1469"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209235813
     ],
     "wof:country":"EE",
     "wof:created":1595459817,
-    "wof:geomhash":"d21ffc84746e2a195bc8ddd436b58d2e",
+    "wof:geomhash":"4aad415241b0dcc89d942f73fda728b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677188,
+    "wof:lastmodified":1695876988,
     "wof:name":"Aulepa",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

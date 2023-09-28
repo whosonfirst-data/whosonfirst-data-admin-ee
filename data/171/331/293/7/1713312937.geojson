@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaiavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000858,
-    "geom:area_square_m":5528629.27415,
+    "geom:area_square_m":5528629.274153,
     "geom:bbox":"26.61639,58.589663,26.676662,58.628783",
     "geom:latitude":58.610123,
     "geom:longitude":26.647359,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2523
+        "ee-mamt:okood":"2523"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326935045
     ],
     "wof:country":"EE",
     "wof:created":1595460655,
-    "wof:geomhash":"50aa0a31f6ac53fbf99de328248ee03f",
+    "wof:geomhash":"513926b6f91a36d0ec893551188cfb40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676566,
+    "wof:lastmodified":1695876925,
     "wof:name":"Kaiavere",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

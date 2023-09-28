@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kalina K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004367,
-    "geom:area_square_m":27583609.779882,
+    "geom:area_square_m":27583609.779879,
     "geom:bbox":"27.280196,59.245249,27.397249,59.309961",
     "geom:latitude":59.280529,
     "geom:longitude":27.338539,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2586
+        "ee-mamt:okood":"2586"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310212729
     ],
     "wof:country":"EE",
     "wof:created":1595460945,
-    "wof:geomhash":"b3c062df8f58f7ac9c553c40e3bd1c4d",
+    "wof:geomhash":"ced4a090ecf63feed54286ae61cdf4b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660724,
+    "wof:lastmodified":1695876734,
     "wof:name":"Kalina",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

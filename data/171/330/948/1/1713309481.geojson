@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karin\u0151mme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001282,
-    "geom:area_square_m":8252962.031531,
+    "geom:area_square_m":8252962.031532,
     "geom:bbox":"23.94694,58.594179,24.004568,58.631918",
     "geom:latitude":58.613697,
     "geom:longitude":23.977704,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2732
+        "ee-mamt:okood":"2732"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225826499
     ],
     "wof:country":"EE",
     "wof:created":1595459895,
-    "wof:geomhash":"4bab3edc56e2d45fc379595cbfe336d1",
+    "wof:geomhash":"4ba7e287432cdfd380acb25337cb043c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661645,
+    "wof:lastmodified":1695876772,
     "wof:name":"Karin\u0151mme",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kasvandu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002372,
-    "geom:area_square_m":15095675.876201,
+    "geom:area_square_m":15095675.876203,
     "geom:bbox":"24.989445,58.999366,25.077155,59.060077",
     "geom:latitude":59.028524,
     "geom:longitude":25.03563,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2845
+        "ee-mamt:okood":"2845"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343440407
     ],
     "wof:country":"EE",
     "wof:created":1595461139,
-    "wof:geomhash":"a1e61d76296f4ecc6d9d057af8f7181c",
+    "wof:geomhash":"db2989f4a492c75441460d5897c9be50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676712,
+    "wof:lastmodified":1695876944,
     "wof:name":"Kasvandu",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

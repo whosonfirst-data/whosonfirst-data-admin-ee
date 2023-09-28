@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sae K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000562,
-    "geom:area_square_m":3563217.346095,
+    "geom:area_square_m":3563217.346097,
     "geom:bbox":"25.268167,59.148916,25.316768,59.172722",
     "geom:latitude":59.16124,
     "geom:longitude":25.292377,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7324
+        "ee-mamt:okood":"7324"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310705967
     ],
     "wof:country":"EE",
     "wof:created":1595459132,
-    "wof:geomhash":"2c85fb4da21a586f358ee89a3a232fff",
+    "wof:geomhash":"7d58f2b01c43011f972d45edb33305dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661336,
+    "wof:lastmodified":1695876754,
     "wof:name":"Sae",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

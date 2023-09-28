@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saagri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000283,
-    "geom:area_square_m":1872191.695781,
+    "geom:area_square_m":1872191.695782,
     "geom:bbox":"27.294864,57.638278,27.330641,57.653943",
     "geom:latitude":57.646368,
     "geom:longitude":27.311231,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7274
+        "ee-mamt:okood":"7274"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461281,
-    "wof:geomhash":"134446c3a912d6cb8753771df0f36801",
+    "wof:geomhash":"db2c09766e7cdf2eb819988d59460796",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663627,
+    "wof:lastmodified":1695876835,
     "wof:name":"Saagri",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

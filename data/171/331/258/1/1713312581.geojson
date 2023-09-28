@@ -14,7 +14,7 @@
     "geom:longitude":25.897292,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Adavere alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1076
+        "ee-mamt:okood":"1076"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125869909
     ],
     "wof:country":"EE",
     "wof:created":1595460574,
-    "wof:geomhash":"f5a363f057f0a1c98bebdbac080738b2",
+    "wof:geomhash":"a22f8da9afea007936c1eaaba013cca2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676483,
+    "wof:lastmodified":1695876913,
     "wof:name":"Adavere",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

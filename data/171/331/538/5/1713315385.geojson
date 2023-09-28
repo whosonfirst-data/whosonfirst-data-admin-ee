@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u0151lliku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002944,
-    "geom:area_square_m":18778496.780255,
+    "geom:area_square_m":18778496.780254,
     "geom:bbox":"25.114714,58.916115,25.212117,58.977736",
     "geom:latitude":58.948968,
     "geom:longitude":25.170151,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6526
+        "ee-mamt:okood":"6526"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310687607
     ],
     "wof:country":"EE",
     "wof:created":1595461201,
-    "wof:geomhash":"4699339b3facd9fd40fe00cbde8fe4f9",
+    "wof:geomhash":"e91d11c7933c347e3b013a971672e103",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676713,
+    "wof:lastmodified":1695876944,
     "wof:name":"P\u0151lliku",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

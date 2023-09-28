@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raiste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001406,
-    "geom:area_square_m":9233900.607907,
+    "geom:area_square_m":9233900.607905,
     "geom:bbox":"26.934098,57.89681,26.992274,57.940382",
     "geom:latitude":57.917455,
     "geom:longitude":26.960606,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6761
+        "ee-mamt:okood":"6761"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125956657
     ],
     "wof:country":"EE",
     "wof:created":1595461255,
-    "wof:geomhash":"d4dac5399ec535d32b92c08bbed156cf",
+    "wof:geomhash":"233f5b625f2b87f6990bb4c174dab75e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660242,
+    "wof:lastmodified":1695876723,
     "wof:name":"Raiste",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

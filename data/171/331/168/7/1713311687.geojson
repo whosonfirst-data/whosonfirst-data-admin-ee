@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Veskim\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002372,
-    "geom:area_square_m":15480461.924246,
+    "geom:area_square_m":15480461.924247,
     "geom:bbox":"25.256078,58.11865,25.342784,58.16431",
     "geom:latitude":58.13779,
     "geom:longitude":25.299574,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9235
+        "ee-mamt:okood":"9235"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125957583
     ],
     "wof:country":"EE",
     "wof:created":1595460396,
-    "wof:geomhash":"5eca7948705a599d29399a7f966053c6",
+    "wof:geomhash":"1ed4ec7b2de39dd02610848a20897267",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661290,
+    "wof:lastmodified":1695876751,
     "wof:name":"Veskim\u00e4e",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

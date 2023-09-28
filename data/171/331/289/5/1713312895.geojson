@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Voorek\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002613,
-    "geom:area_square_m":17033086.23108,
+    "geom:area_square_m":17033086.231082,
     "geom:bbox":"26.817386,58.154266,26.92903,58.202419",
     "geom:latitude":58.179482,
     "geom:longitude":26.879873,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9470
+        "ee-mamt:okood":"9470"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259660915
     ],
     "wof:country":"EE",
     "wof:created":1595460646,
-    "wof:geomhash":"b2df4f082e30e3e2bbed375322aa1fdc",
+    "wof:geomhash":"8d9d4ae46581a50215332bca71cf9947",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676956,
+    "wof:lastmodified":1695876975,
     "wof:name":"Voorek\u00fcla",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

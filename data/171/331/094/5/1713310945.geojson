@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suurmetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001239,
-    "geom:area_square_m":8092114.762364,
+    "geom:area_square_m":8092114.762363,
     "geom:bbox":"27.233781,58.10557,27.30764,58.147425",
     "geom:latitude":58.125865,
     "geom:longitude":27.272648,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7858
+        "ee-mamt:okood":"7858"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309692383
     ],
     "wof:country":"EE",
     "wof:created":1595460233,
-    "wof:geomhash":"ec08b98625a35e77a9876f6797eb4b18",
+    "wof:geomhash":"2c147e1def397a0b0bed922a720c265a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676939,
+    "wof:lastmodified":1695876971,
     "wof:name":"Suurmetsa",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

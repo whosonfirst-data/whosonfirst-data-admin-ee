@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Abaja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001145,
-    "geom:area_square_m":7308025.87231,
+    "geom:area_square_m":7308025.872309,
     "geom:bbox":"25.931887,58.895843,25.993953,58.928106",
     "geom:latitude":58.912988,
     "geom:longitude":25.9595,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1055
+        "ee-mamt:okood":"1055"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327237723
     ],
     "wof:country":"EE",
     "wof:created":1595459266,
-    "wof:geomhash":"5d833005dc7911a36ddeb3ed4ac41e00",
+    "wof:geomhash":"7c0abe044dc6f217616d0b1f83327482",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676622,
+    "wof:lastmodified":1695876931,
     "wof:name":"Abaja",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Arase K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000874,
-    "geom:area_square_m":5617475.589354,
+    "geom:area_square_m":5617475.589353,
     "geom:bbox":"24.451628,58.66404,24.512506,58.690897",
     "geom:latitude":58.676211,
     "geom:longitude":24.481112,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1314
+        "ee-mamt:okood":"1314"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326508241
     ],
     "wof:country":"EE",
     "wof:created":1595460959,
-    "wof:geomhash":"6c1c110e482853bb36fb66ad82e7b640",
+    "wof:geomhash":"28c584db50c41002eac8c6eadc19ceeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663402,
+    "wof:lastmodified":1695876823,
     "wof:name":"Arase",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

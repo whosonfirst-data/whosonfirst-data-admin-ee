@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Albu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002183,
-    "geom:area_square_m":13841428.833498,
+    "geom:area_square_m":13841428.833496,
     "geom:bbox":"25.604552,59.128563,25.706581,59.167395",
     "geom:latitude":59.146768,
     "geom:longitude":25.657065,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1188
+        "ee-mamt:okood":"1188"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125941369
     ],
     "wof:country":"EE",
     "wof:created":1595459271,
-    "wof:geomhash":"e5a6abbe18fa32758bc298a17f9507e8",
+    "wof:geomhash":"d9985255b6204e3de82f580713f7239d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676623,
+    "wof:lastmodified":1695876932,
     "wof:name":"Albu",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

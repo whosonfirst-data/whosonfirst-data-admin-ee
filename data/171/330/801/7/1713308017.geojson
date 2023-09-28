@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Uhtna Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000761,
-    "geom:area_square_m":4788255.326143,
+    "geom:area_square_m":4788255.326144,
     "geom:bbox":"26.527922,59.377638,26.58895,59.408115",
     "geom:latitude":59.393018,
     "geom:longitude":26.559086,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Uhtna alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8637
+        "ee-mamt:okood":"8637"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125908229
     ],
     "wof:country":"EE",
     "wof:created":1595459540,
-    "wof:geomhash":"a178540eabcb5dcf197d7b9ccca597a6",
+    "wof:geomhash":"ff1f8ec0bc0f9c3cc52ede17097c3ae5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676664,
+    "wof:lastmodified":1695876936,
     "wof:name":"Uhtna",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

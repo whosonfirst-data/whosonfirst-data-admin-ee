@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aasuv\u00e4lja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002074,
-    "geom:area_square_m":13254238.938331,
+    "geom:area_square_m":13254238.938332,
     "geom:bbox":"25.363886,58.869752,25.462836,58.90433",
     "geom:latitude":58.885676,
     "geom:longitude":25.41655,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1041
+        "ee-mamt:okood":"1041"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309809531
     ],
     "wof:country":"EE",
     "wof:created":1595461315,
-    "wof:geomhash":"f3714c8ddb0c03f5db10c99453c19ba8",
+    "wof:geomhash":"b8de66ca7ae95876ef622e66dea58b26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677979,
+    "wof:lastmodified":1695877007,
     "wof:name":"Aasuv\u00e4lja",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

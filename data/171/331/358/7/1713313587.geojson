@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aovere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00053,
-    "geom:area_square_m":3429763.381084,
+    "geom:area_square_m":3429763.381085,
     "geom:bbox":"26.800942,58.434521,26.840636,58.458068",
     "geom:latitude":58.446935,
     "geom:longitude":26.820666,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1312
+        "ee-mamt:okood":"1312"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309781807
     ],
     "wof:country":"EE",
     "wof:created":1595460793,
-    "wof:geomhash":"661a3ec9d7a9b96621b62c5ded1b6ffa",
+    "wof:geomhash":"073667dadd7514a670cdc93c4f2da3a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676456,
+    "wof:lastmodified":1695876910,
     "wof:name":"Aovere",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

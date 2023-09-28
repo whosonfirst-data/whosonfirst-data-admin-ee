@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuumi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000737,
-    "geom:area_square_m":4775986.302015,
+    "geom:area_square_m":4775986.302016,
     "geom:bbox":"22.165254,58.367106,22.207328,58.395272",
     "geom:latitude":58.382566,
     "geom:longitude":22.185873,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3712
+        "ee-mamt:okood":"3712"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225828797
     ],
     "wof:country":"EE",
     "wof:created":1595459440,
-    "wof:geomhash":"97d98202e8594093efd66286d21f80a4",
+    "wof:geomhash":"a252d9ac5a65b9158871a04adb970c8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672513,
+    "wof:lastmodified":1695876896,
     "wof:name":"Kuumi",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

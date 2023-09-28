@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u00e4rsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001855,
-    "geom:area_square_m":11798242.335291,
+    "geom:area_square_m":11798242.335288,
     "geom:bbox":"26.251138,59.019884,26.324477,59.073818",
     "geom:latitude":59.046318,
     "geom:longitude":26.290797,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3924
+        "ee-mamt:okood":"3924"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293679879
     ],
     "wof:country":"EE",
     "wof:created":1595460440,
-    "wof:geomhash":"9392e9f1a50058b908a89471d061a9be",
+    "wof:geomhash":"27cc728834563cc7007abd0cfed3bf55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676532,
+    "wof:lastmodified":1695876920,
     "wof:name":"K\u00e4rsa",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

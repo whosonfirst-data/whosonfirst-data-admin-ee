@@ -8,7 +8,7 @@
     "ee-mamt:animi":"H\u00fcti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001001,
-    "geom:area_square_m":6393989.40716,
+    "geom:area_square_m":6393989.407159,
     "geom:bbox":"22.459644,58.897009,22.515556,58.924797",
     "geom:latitude":58.911015,
     "geom:longitude":22.489634,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1971
+        "ee-mamt:okood":"1971"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460071,
-    "wof:geomhash":"a5065744988b7a699ad51b371e140efd",
+    "wof:geomhash":"9149bd4ef39afaed95b398f75e197cbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666286,
+    "wof:lastmodified":1695876847,
     "wof:name":"H\u00fcti",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

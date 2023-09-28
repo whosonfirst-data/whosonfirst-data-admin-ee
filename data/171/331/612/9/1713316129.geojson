@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Treiali K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000181,
-    "geom:area_square_m":1196553.823658,
+    "geom:area_square_m":1196553.823656,
     "geom:bbox":"27.380589,57.764975,27.404415,57.777365",
     "geom:latitude":57.771099,
     "geom:longitude":27.393178,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8337
+        "ee-mamt:okood":"8337"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461364,
-    "wof:geomhash":"9a83b0ef09006e651be2b0c8803a1013",
+    "wof:geomhash":"c30242b4685896776cba3372bd45eb51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663657,
+    "wof:lastmodified":1695876842,
     "wof:name":"Treiali",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

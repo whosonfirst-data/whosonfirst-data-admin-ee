@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Savioja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000178,
-    "geom:area_square_m":1177262.5126,
+    "geom:area_square_m":1177262.512599,
     "geom:bbox":"27.331519,57.754782,27.35966,57.767458",
     "geom:latitude":57.760815,
     "geom:longitude":27.345999,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7503
+        "ee-mamt:okood":"7503"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277150963
     ],
     "wof:country":"EE",
     "wof:created":1595461402,
-    "wof:geomhash":"d6dac7db35cfc951ffbba198627908c2",
+    "wof:geomhash":"424aff05edc3c6a5f53331891124cd1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660236,
+    "wof:lastmodified":1695876722,
     "wof:name":"Savioja",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

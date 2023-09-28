@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuningvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000307,
-    "geom:area_square_m":1976171.790084,
+    "geom:area_square_m":1976171.790086,
     "geom:bbox":"27.065272,58.610348,27.102132,58.628011",
     "geom:latitude":58.621158,
     "geom:longitude":27.082723,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3626
+        "ee-mamt:okood":"3626"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326906245
     ],
     "wof:country":"EE",
     "wof:created":1595459893,
-    "wof:geomhash":"00dfd25cc1fdbac07baf98c8cc5cead5",
+    "wof:geomhash":"6af0f217a9fe5628de9979ef4758f377",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660837,
+    "wof:lastmodified":1695876737,
     "wof:name":"Kuningvere",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

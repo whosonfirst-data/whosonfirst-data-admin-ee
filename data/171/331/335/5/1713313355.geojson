@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piibe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003963,
-    "geom:area_square_m":25295403.927248,
+    "geom:area_square_m":25295403.927246,
     "geom:bbox":"26.150193,58.889342,26.230505,58.961217",
     "geom:latitude":58.92489,
     "geom:longitude":26.191419,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6158
+        "ee-mamt:okood":"6158"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242563091
     ],
     "wof:country":"EE",
     "wof:created":1595460744,
-    "wof:geomhash":"86ab0b1613e03e9cd3e5e2dc6c08d8b7",
+    "wof:geomhash":"18acddfc6a5a23617fd7ac169685f690",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676535,
+    "wof:lastmodified":1695876921,
     "wof:name":"Piibe",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ummaru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00103,
-    "geom:area_square_m":6567613.31509,
+    "geom:area_square_m":6567613.315091,
     "geom:bbox":"24.583148,58.93078,24.678212,58.94988",
     "geom:latitude":58.941264,
     "geom:longitude":24.633947,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8677
+        "ee-mamt:okood":"8677"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309792251
     ],
     "wof:country":"EE",
     "wof:created":1595460981,
-    "wof:geomhash":"5414304c9d1c70d83d2686b75c4b8916",
+    "wof:geomhash":"0fc25f8a1096bd08e553c974770b1f8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676711,
+    "wof:lastmodified":1695876943,
     "wof:name":"Ummaru",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

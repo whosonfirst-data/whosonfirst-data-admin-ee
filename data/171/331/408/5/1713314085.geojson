@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaardi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00087,
-    "geom:area_square_m":5695010.621291,
+    "geom:area_square_m":5695010.62129,
     "geom:bbox":"26.131915,58.009255,26.196022,58.03478",
     "geom:latitude":58.021986,
     "geom:longitude":26.161951,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8808
+        "ee-mamt:okood":"8808"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226317891
     ],
     "wof:country":"EE",
     "wof:created":1595460900,
-    "wof:geomhash":"7c7319298b8015fede8b020da4dabb0e",
+    "wof:geomhash":"3e5d90585ba9dc0125d327385899b0d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661865,
+    "wof:lastmodified":1695876781,
     "wof:name":"Vaardi",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

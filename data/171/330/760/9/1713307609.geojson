@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kanguristi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000535,
-    "geom:area_square_m":3358446.423042,
+    "geom:area_square_m":3358446.423045,
     "geom:bbox":"26.63853,59.45763,26.685383,59.483806",
     "geom:latitude":59.469247,
     "geom:longitude":26.665167,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2675
+        "ee-mamt:okood":"2675"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293679873
     ],
     "wof:country":"EE",
     "wof:created":1595459444,
-    "wof:geomhash":"08a721c0278613aecb0e64090130bbee",
+    "wof:geomhash":"958fee3810d3513e947841677c7d7e9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677918,
+    "wof:lastmodified":1695877000,
     "wof:name":"Kanguristi",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Muike K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000785,
-    "geom:area_square_m":4925690.920862,
+    "geom:area_square_m":4925690.920863,
     "geom:bbox":"25.899821,59.510237,25.949744,59.54409",
     "geom:latitude":59.526903,
     "geom:longitude":25.925052,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5009
+        "ee-mamt:okood":"5009"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209906915
     ],
     "wof:country":"EE",
     "wof:created":1595459634,
-    "wof:geomhash":"89a0b0a4662c07dd1c6a327ee5d12bdf",
+    "wof:geomhash":"c8db415871929190a0803f6a3a27ace1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678015,
+    "wof:lastmodified":1695877009,
     "wof:name":"Muike",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

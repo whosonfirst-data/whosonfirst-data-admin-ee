@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pragi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001295,
-    "geom:area_square_m":8487682.377565,
+    "geom:area_square_m":8487682.377573,
     "geom:bbox":"26.989198,57.975857,27.056935,58.005758",
     "geom:latitude":57.992256,
     "geom:longitude":27.025006,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6347
+        "ee-mamt:okood":"6347"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276525061
     ],
     "wof:country":"EE",
     "wof:created":1595460219,
-    "wof:geomhash":"26d605603f4a4fd67b81381055f953a4",
+    "wof:geomhash":"1726cd83ab22a62b0b8ace803046cb82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617131436,
+    "wof:lastmodified":1695877021,
     "wof:name":"Pragi",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

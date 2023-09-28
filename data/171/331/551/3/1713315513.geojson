@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Maaslova K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000095,
-    "geom:area_square_m":625048.798427,
+    "geom:area_square_m":625048.798426,
     "geom:bbox":"27.523733,57.806735,27.542648,57.816266",
     "geom:latitude":57.811195,
     "geom:longitude":27.533187,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4710
+        "ee-mamt:okood":"4710"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344130867
     ],
     "wof:country":"EE",
     "wof:created":1595461236,
-    "wof:geomhash":"41fc2270c820d5f69eb3f593249f3418",
+    "wof:geomhash":"a390daa541952954a67d1e48f8810a0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663642,
+    "wof:lastmodified":1695876839,
     "wof:name":"Maaslova",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

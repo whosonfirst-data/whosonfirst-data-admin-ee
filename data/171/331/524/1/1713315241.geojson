@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rusa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000217,
-    "geom:area_square_m":1438983.245301,
+    "geom:area_square_m":1438983.2453,
     "geom:bbox":"27.033893,57.620318,27.065182,57.63082",
     "geom:latitude":57.625129,
     "geom:longitude":27.050508,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7125
+        "ee-mamt:okood":"7125"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226101111
     ],
     "wof:country":"EE",
     "wof:created":1595461161,
-    "wof:geomhash":"fb95a5e21a6b245c47b7276b3d99c987",
+    "wof:geomhash":"3aa85160ad9d321d0b524f7258ff15a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676817,
+    "wof:lastmodified":1695876956,
     "wof:name":"Rusa",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

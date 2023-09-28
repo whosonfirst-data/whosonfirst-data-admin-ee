@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karilatsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0011,
-    "geom:area_square_m":7177828.507845,
+    "geom:area_square_m":7177828.507854,
     "geom:bbox":"26.874337,58.12638,26.94147,58.161295",
     "geom:latitude":58.143636,
     "geom:longitude":26.909169,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2728
+        "ee-mamt:okood":"2728"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125838365
     ],
     "wof:country":"EE",
     "wof:created":1595460580,
-    "wof:geomhash":"8b7f6ab5a0a0cbcdb224c98479c1c8fb",
+    "wof:geomhash":"4f56fc6eb12b68c1ccb441db2033935a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676949,
+    "wof:lastmodified":1695876974,
     "wof:name":"Karilatsi",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

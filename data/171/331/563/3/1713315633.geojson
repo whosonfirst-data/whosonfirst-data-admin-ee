@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Toodsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000414,
-    "geom:area_square_m":2739874.219825,
+    "geom:area_square_m":2739874.219823,
     "geom:bbox":"27.361916,57.600756,27.404824,57.62472",
     "geom:latitude":57.612324,
     "geom:longitude":27.38504,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8314
+        "ee-mamt:okood":"8314"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209880499
     ],
     "wof:country":"EE",
     "wof:created":1595461262,
-    "wof:geomhash":"ed3c08a33d420f90c5b68f256a0cde18",
+    "wof:geomhash":"358f30181a3ca1bdebd17a5ee133e7de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663640,
+    "wof:lastmodified":1695876838,
     "wof:name":"Toodsi",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

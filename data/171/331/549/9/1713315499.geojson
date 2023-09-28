@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sutte K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0017,
-    "geom:area_square_m":11196458.858306,
+    "geom:area_square_m":11196458.858304,
     "geom:bbox":"27.222224,57.789494,27.324724,57.827932",
     "geom:latitude":57.810116,
     "geom:longitude":27.269829,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7820
+        "ee-mamt:okood":"7820"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326989161
     ],
     "wof:country":"EE",
     "wof:created":1595461233,
-    "wof:geomhash":"c621f7fe7b4c95332a1d6759ee1a2ca3",
+    "wof:geomhash":"4bb38ed4ad85b4903504a920c1ad034e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660237,
+    "wof:lastmodified":1695876722,
     "wof:name":"Sutte",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Liivaranna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000643,
-    "geom:area_square_m":4143839.76279,
+    "geom:area_square_m":4143839.762787,
     "geom:bbox":"22.340002,58.55418,22.395721,58.577213",
     "geom:latitude":58.566797,
     "geom:longitude":22.371797,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4343
+        "ee-mamt:okood":"4343"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459208,
-    "wof:geomhash":"b99762a7592f6a9cf36f967c1dc8f99a",
+    "wof:geomhash":"08a679250e14f844050b3adefda61435",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671718,
+    "wof:lastmodified":1695876869,
     "wof:name":"Liivaranna",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

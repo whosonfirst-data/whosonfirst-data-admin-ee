@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hargi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000353,
-    "geom:area_square_m":2319729.802423,
+    "geom:area_square_m":2319729.802422,
     "geom:bbox":"26.638808,57.86891,26.676175,57.885696",
     "geom:latitude":57.879166,
     "geom:longitude":26.654363,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1764
+        "ee-mamt:okood":"1764"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293548347
     ],
     "wof:country":"EE",
     "wof:created":1595461358,
-    "wof:geomhash":"ede43bc55204b1ff570208428b043c5f",
+    "wof:geomhash":"d6251a61e9279a9bf70512a034e247d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660251,
+    "wof:lastmodified":1695876724,
     "wof:name":"Hargi",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

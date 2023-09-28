@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiltsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001287,
-    "geom:area_square_m":8218995.280511,
+    "geom:area_square_m":8218995.28051,
     "geom:bbox":"23.463332,58.900858,23.536549,58.934618",
     "geom:latitude":58.91678,
     "geom:longitude":23.503686,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3090
+        "ee-mamt:okood":"3090"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309800437
     ],
     "wof:country":"EE",
     "wof:created":1595459679,
-    "wof:geomhash":"7a1267253aeccebc136acd9f206ba078",
+    "wof:geomhash":"fa1052b29f299c8e8d414cb9631f7207",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662515,
+    "wof:lastmodified":1695876794,
     "wof:name":"Kiltsi",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

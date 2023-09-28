@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kurgja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002236,
-    "geom:area_square_m":14377699.16047,
+    "geom:area_square_m":14377699.160475,
     "geom:bbox":"25.212532,58.639993,25.290594,58.688812",
     "geom:latitude":58.663617,
     "geom:longitude":25.247133,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3666
+        "ee-mamt:okood":"3666"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209793829
     ],
     "wof:country":"EE",
     "wof:created":1595460874,
-    "wof:geomhash":"00880b232dff5abc8b28877d8c9254b9",
+    "wof:geomhash":"f1f157c4abc5eab357ca3fe8ccf9b768",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663399,
+    "wof:lastmodified":1695876822,
     "wof:name":"Kurgja",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

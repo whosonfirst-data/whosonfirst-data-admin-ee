@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Metsla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002232,
-    "geom:area_square_m":14212043.096063,
+    "geom:area_square_m":14212043.096059,
     "geom:bbox":"25.946568,58.991076,26.042218,59.034047",
     "geom:latitude":59.012359,
     "geom:longitude":25.993485,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4927
+        "ee-mamt:okood":"4927"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226540639
     ],
     "wof:country":"EE",
     "wof:created":1595459265,
-    "wof:geomhash":"83cf01082a4829846063941a5572ff79",
+    "wof:geomhash":"102a6476d299631e2c82e8bbde943b7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676621,
+    "wof:lastmodified":1695876931,
     "wof:name":"Metsla",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

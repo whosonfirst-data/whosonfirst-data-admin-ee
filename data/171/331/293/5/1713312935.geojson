@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soeva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.012524,
-    "geom:area_square_m":80977879.763328,
+    "geom:area_square_m":80977879.763317,
     "geom:bbox":"23.991568,58.410805,24.186679,58.524975",
     "geom:latitude":58.475077,
     "geom:longitude":24.086596,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7663
+        "ee-mamt:okood":"7663"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936257
     ],
     "wof:country":"EE",
     "wof:created":1595460654,
-    "wof:geomhash":"a5b4493a47770d1b9d166229703a8147",
+    "wof:geomhash":"03afd5578b4a83c5f884b7457ac09329",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677690,
+    "wof:lastmodified":1695876995,
     "wof:name":"Soeva",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

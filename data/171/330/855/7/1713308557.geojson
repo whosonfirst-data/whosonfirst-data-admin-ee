@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Veeriku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000814,
-    "geom:area_square_m":5269284.589676,
+    "geom:area_square_m":5269284.589677,
     "geom:bbox":"22.822539,58.411101,22.869116,58.440792",
     "geom:latitude":58.426199,
     "geom:longitude":22.843643,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9172
+        "ee-mamt:okood":"9172"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226413437
     ],
     "wof:country":"EE",
     "wof:created":1595459674,
-    "wof:geomhash":"79af60c6fd3bd88f944901b86015045c",
+    "wof:geomhash":"90a7c8f95008a6e1b3789e310f4103bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671833,
+    "wof:lastmodified":1695876872,
     "wof:name":"Veeriku",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

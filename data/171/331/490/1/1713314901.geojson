@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Oola K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000773,
-    "geom:area_square_m":4915759.936023,
+    "geom:area_square_m":4915759.936024,
     "geom:bbox":"24.858311,59.020252,24.903068,59.05519",
     "geom:latitude":59.03771,
     "geom:longitude":24.883592,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5687
+        "ee-mamt:okood":"5687"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343238517
     ],
     "wof:country":"EE",
     "wof:created":1595461090,
-    "wof:geomhash":"ece50b507d106967d0a94147a48887e5",
+    "wof:geomhash":"967dd96e275051da5d28605eef70ccdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676705,
+    "wof:lastmodified":1695876942,
     "wof:name":"Oola",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

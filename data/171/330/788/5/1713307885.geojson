@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kabila K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001892,
-    "geom:area_square_m":11971860.276493,
+    "geom:area_square_m":11971860.276492,
     "geom:bbox":"24.364116,59.204825,24.461418,59.245635",
     "geom:latitude":59.228602,
     "geom:longitude":24.416288,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2455
+        "ee-mamt:okood":"2455"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293394043
     ],
     "wof:country":"EE",
     "wof:created":1595459509,
-    "wof:geomhash":"a8c8baee08d1db79bdfdf7e18430d2d6",
+    "wof:geomhash":"fab1e4abf3eec0b53e8c2802d25ca8d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663232,
+    "wof:lastmodified":1695876811,
     "wof:name":"Kabila",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

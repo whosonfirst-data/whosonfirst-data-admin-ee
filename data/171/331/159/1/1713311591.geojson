@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaatermu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003299,
-    "geom:area_square_m":20914004.315974,
+    "geom:area_square_m":20914004.315973,
     "geom:bbox":"27.499667,59.131922,27.582511,59.186502",
     "geom:latitude":59.157596,
     "geom:longitude":27.541001,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2431
+        "ee-mamt:okood":"2431"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209915845
     ],
     "wof:country":"EE",
     "wof:created":1595460377,
-    "wof:geomhash":"f4e1e63812719c8f02de410d07ede15b",
+    "wof:geomhash":"7ed1a10d69f2a1ece73c0083eb0112c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660685,
+    "wof:lastmodified":1695876731,
     "wof:name":"Kaatermu",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

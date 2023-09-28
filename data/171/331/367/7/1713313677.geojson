@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kidise K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001564,
-    "geom:area_square_m":10104913.275213,
+    "geom:area_square_m":10104913.275215,
     "geom:bbox":"23.892624,58.472897,23.963179,58.512356",
     "geom:latitude":58.492718,
     "geom:longitude":23.926736,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3006
+        "ee-mamt:okood":"3006"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326708465
     ],
     "wof:country":"EE",
     "wof:created":1595460812,
-    "wof:geomhash":"75ef7c79d1f15b5b2c5c25b5d8ce0c6e",
+    "wof:geomhash":"98cedf0fce0e3b7219ee42d5b84c5761",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661572,
+    "wof:lastmodified":1695876765,
     "wof:name":"Kidise",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

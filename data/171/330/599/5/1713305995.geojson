@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pedaspea K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000513,
-    "geom:area_square_m":3217067.560434,
+    "geom:area_square_m":3217067.560436,
     "geom:bbox":"25.540571,59.533841,25.58308,59.556859",
     "geom:latitude":59.545404,
     "geom:longitude":25.563291,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6065
+        "ee-mamt:okood":"6065"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242782097
     ],
     "wof:country":"EE",
     "wof:created":1595459051,
-    "wof:geomhash":"e74d1188e00d220f7451156016d58920",
+    "wof:geomhash":"fb802e5ad12352ecb1eb802bffcf5342",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661810,
+    "wof:lastmodified":1695876777,
     "wof:name":"Pedaspea",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

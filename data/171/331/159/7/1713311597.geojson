@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kellassaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004249,
-    "geom:area_square_m":27011785.466701,
+    "geom:area_square_m":27011785.466697,
     "geom:bbox":"26.92734,59.037243,27.051206,59.096099",
     "geom:latitude":59.064116,
     "geom:longitude":26.994759,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2939
+        "ee-mamt:okood":"2939"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242579343
     ],
     "wof:country":"EE",
     "wof:created":1595460378,
-    "wof:geomhash":"c5587e5bce03422f413dc9cfb5a9e50d",
+    "wof:geomhash":"5a90fed82f1659f88c6d6daae3b8794f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660694,
+    "wof:lastmodified":1695876732,
     "wof:name":"Kellassaare",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

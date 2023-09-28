@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Leipste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003537,
-    "geom:area_square_m":23096203.583716,
+    "geom:area_square_m":23096203.583718,
     "geom:bbox":"24.964826,58.089479,25.089441,58.149353",
     "geom:latitude":58.119176,
     "geom:longitude":25.016396,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4235
+        "ee-mamt:okood":"4235"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125974503
     ],
     "wof:country":"EE",
     "wof:created":1595460673,
-    "wof:geomhash":"aa0a3f56a7fe3b6c7988f197a406ad69",
+    "wof:geomhash":"076a65de260fe22115df4e5caad5aedd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677727,
+    "wof:lastmodified":1695876997,
     "wof:name":"Leipste",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

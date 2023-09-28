@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vetiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001908,
-    "geom:area_square_m":12034268.459259,
+    "geom:area_square_m":12034268.459261,
     "geom:bbox":"26.413551,59.31007,26.481057,59.355756",
     "geom:latitude":59.331987,
     "geom:longitude":26.4456,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9245
+        "ee-mamt:okood":"9245"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125957617
     ],
     "wof:country":"EE",
     "wof:created":1595459810,
-    "wof:geomhash":"6068ae5856a15659856e0cc4474cb22b",
+    "wof:geomhash":"8487e38214248a3e2ae1cd3186ae31fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677954,
+    "wof:lastmodified":1695877005,
     "wof:name":"Vetiku",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

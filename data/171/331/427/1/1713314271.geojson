@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Reolasoo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000387,
-    "geom:area_square_m":2515515.416583,
+    "geom:area_square_m":2515515.416582,
     "geom:bbox":"26.725283,58.246526,26.761161,58.266664",
     "geom:latitude":58.256695,
     "geom:longitude":26.743287,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6935
+        "ee-mamt:okood":"6935"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259346067
     ],
     "wof:country":"EE",
     "wof:created":1595460941,
-    "wof:geomhash":"5937e14d056141466fc1428144ca016a",
+    "wof:geomhash":"d0cf05cf81120b2b3cf989be6de8dfc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676680,
+    "wof:lastmodified":1695876938,
     "wof:name":"Reolasoo",
     "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",

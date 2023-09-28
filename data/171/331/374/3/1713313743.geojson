@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Seljametsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004394,
-    "geom:area_square_m":28497379.883641,
+    "geom:area_square_m":28497379.883639,
     "geom:bbox":"24.621326,58.32559,24.711864,58.410598",
     "geom:latitude":58.363311,
     "geom:longitude":24.667628,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7536
+        "ee-mamt:okood":"7536"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125956859
     ],
     "wof:country":"EE",
     "wof:created":1595460826,
-    "wof:geomhash":"2719c68ada7b776705a7af2d602ef94b",
+    "wof:geomhash":"750b032512eedb22bc5ced1724b52830",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677694,
+    "wof:lastmodified":1695876995,
     "wof:name":"Seljametsa",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

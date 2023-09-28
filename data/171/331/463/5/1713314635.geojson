@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pariisi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001582,
-    "geom:area_square_m":9998056.057801,
+    "geom:area_square_m":9998056.057802,
     "geom:bbox":"26.095761,59.249212,26.174063,59.291831",
     "geom:latitude":59.269534,
     "geom:longitude":26.133132,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6004
+        "ee-mamt:okood":"6004"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276356245
     ],
     "wof:country":"EE",
     "wof:created":1595461026,
-    "wof:geomhash":"35b1bd0d50a94594c1d3320e35a7ea4b",
+    "wof:geomhash":"d78b4ba9642f2f649d3e01fdc47bc16b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617130008,
+    "wof:lastmodified":1695877015,
     "wof:name":"Pariisi",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

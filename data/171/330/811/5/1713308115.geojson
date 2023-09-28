@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Roosna-Alliku Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000164,
-    "geom:area_square_m":1042118.49684,
+    "geom:area_square_m":1042118.496841,
     "geom:bbox":"25.694989,59.019901,25.721742,59.033503",
     "geom:latitude":59.02779,
     "geom:longitude":25.707249,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Roosna-Alliku alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7083
+        "ee-mamt:okood":"7083"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125817053
     ],
     "wof:country":"EE",
     "wof:created":1595459562,
-    "wof:geomhash":"9a5777cfbe35ffeb2cd3f769ea15695e",
+    "wof:geomhash":"5c9ad70d70174ea734b8941ba925c4ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661318,
+    "wof:lastmodified":1695876752,
     "wof:name":"Roosna-Alliku",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

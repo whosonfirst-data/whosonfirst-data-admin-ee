@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Veskik\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000959,
-    "geom:area_square_m":6064129.27058,
+    "geom:area_square_m":6064129.270579,
     "geom:bbox":"24.1892,59.231138,24.275505,59.250923",
     "geom:latitude":59.240049,
     "geom:longitude":24.2308,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9231
+        "ee-mamt:okood":"9231"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890065
     ],
     "wof:country":"EE",
     "wof:created":1595459512,
-    "wof:geomhash":"f2a19a366c772d09b2f91b18545911d5",
+    "wof:geomhash":"d30edf455790c8f554f58a5a038749aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663296,
+    "wof:lastmodified":1695876816,
     "wof:name":"Veskik\u00fcla",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

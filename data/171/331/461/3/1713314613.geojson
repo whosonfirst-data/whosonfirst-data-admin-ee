@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aruaru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001894,
-    "geom:area_square_m":11925370.5219,
+    "geom:area_square_m":11925370.521899,
     "geom:bbox":"25.104635,59.368342,25.174453,59.408928",
     "geom:latitude":59.387129,
     "geom:longitude":25.14373,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1367
+        "ee-mamt:okood":"1367"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326647773
     ],
     "wof:country":"EE",
     "wof:created":1595461021,
-    "wof:geomhash":"32b96eaf0aa42e20d6023c87e6f7eb9d",
+    "wof:geomhash":"2de51b7d517bf7b52fdd01cf03805f21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661375,
+    "wof:lastmodified":1695876756,
     "wof:name":"Aruaru",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaasiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000419,
-    "geom:area_square_m":2688885.259971,
+    "geom:area_square_m":2688885.259973,
     "geom:bbox":"26.940286,58.76794,26.993309,58.781292",
     "geom:latitude":58.774575,
     "geom:longitude":26.964515,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2430
+        "ee-mamt:okood":"2430"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293882769
     ],
     "wof:country":"EE",
     "wof:created":1595460694,
-    "wof:geomhash":"7dd228abd6d91b13e08ed0bedd33cff2",
+    "wof:geomhash":"b66674db7589174c01387852d4b496d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661003,
+    "wof:lastmodified":1695876742,
     "wof:name":"Kaasiku",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

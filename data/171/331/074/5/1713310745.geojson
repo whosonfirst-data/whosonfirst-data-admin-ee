@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lassi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000329,
-    "geom:area_square_m":2111751.517804,
+    "geom:area_square_m":2111751.517805,
     "geom:bbox":"22.507366,58.766656,22.547994,58.784037",
     "geom:latitude":58.776168,
     "geom:longitude":22.525963,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4128
+        "ee-mamt:okood":"4128"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226146197
     ],
     "wof:country":"EE",
     "wof:created":1595460191,
-    "wof:geomhash":"48f769647e422cb6281a6681cff93956",
+    "wof:geomhash":"32874d0cb3248122853870f1fae36095",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666431,
+    "wof:lastmodified":1695876858,
     "wof:name":"Lassi",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

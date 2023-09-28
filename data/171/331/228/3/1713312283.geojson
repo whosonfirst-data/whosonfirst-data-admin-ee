@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Luunja Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.0005,
-    "geom:area_square_m":3246120.693779,
+    "geom:area_square_m":3246120.69378,
     "geom:bbox":"26.851555,58.345552,26.899739,58.366626",
     "geom:latitude":58.356041,
     "geom:longitude":26.877685,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Luunja alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4583
+        "ee-mamt:okood":"4583"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126017685
     ],
     "wof:country":"EE",
     "wof:created":1595460514,
-    "wof:geomhash":"9450bb55b08d62c094020733a907b54a",
+    "wof:geomhash":"36d3ecbc564d19a21a55e079316c4603",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660674,
+    "wof:lastmodified":1695876730,
     "wof:name":"Luunja",
     "wof:parent_id":1713305697,
     "wof:placetype":"localadmin",

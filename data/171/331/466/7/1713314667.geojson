@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valmaotsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.013103,
-    "geom:area_square_m":84762350.854723,
+    "geom:area_square_m":84762350.854726,
     "geom:bbox":"26.144928,58.409031,26.415314,58.499187",
     "geom:latitude":58.454764,
     "geom:longitude":26.273739,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8966
+        "ee-mamt:okood":"8966"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242753853
     ],
     "wof:country":"EE",
     "wof:created":1595461033,
-    "wof:geomhash":"17a53724ee87690960caef55ad0e0e8c",
+    "wof:geomhash":"afa8859058a56a469d8c60d06ef65f71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676453,
+    "wof:lastmodified":1695876910,
     "wof:name":"Valmaotsa",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

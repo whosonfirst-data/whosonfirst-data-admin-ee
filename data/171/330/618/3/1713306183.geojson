@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tusti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000263,
-    "geom:area_square_m":1694594.093253,
+    "geom:area_square_m":1694594.093251,
     "geom:bbox":"23.345842,58.571987,23.370859,58.59836",
     "geom:latitude":58.585655,
     "geom:longitude":23.357842,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8440
+        "ee-mamt:okood":"8440"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309683185
     ],
     "wof:country":"EE",
     "wof:created":1595459097,
-    "wof:geomhash":"a1305b13ff0ac7cb4130024ced624568",
+    "wof:geomhash":"4d6ec7dc797da028a07542dcc66d8ba9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675105,
+    "wof:lastmodified":1695876903,
     "wof:name":"Tusti",
     "wof:parent_id":1713305623,
     "wof:placetype":"localadmin",

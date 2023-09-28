@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lemmikk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000314,
-    "geom:area_square_m":2010653.87904,
+    "geom:area_square_m":2010653.879041,
     "geom:bbox":"24.016515,58.821686,24.057467,58.837252",
     "geom:latitude":58.829661,
     "geom:longitude":24.039223,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4271
+        "ee-mamt:okood":"4271"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310097175
     ],
     "wof:country":"EE",
     "wof:created":1595459704,
-    "wof:geomhash":"071a478d698ca298ac5cb3eee4c4bb07",
+    "wof:geomhash":"992b9222872c79c6b7eee7eb60f3e432",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677198,
+    "wof:lastmodified":1695876989,
     "wof:name":"Lemmikk\u00fcla",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

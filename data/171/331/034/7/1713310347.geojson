@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kalme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001563,
-    "geom:area_square_m":10249320.714641,
+    "geom:area_square_m":10249320.714643,
     "geom:bbox":"25.958135,57.958691,26.014331,57.999199",
     "geom:latitude":57.979579,
     "geom:longitude":25.985562,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2623
+        "ee-mamt:okood":"2623"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125933389
     ],
     "wof:country":"EE",
     "wof:created":1595460102,
-    "wof:geomhash":"5c59a31c6db60efa3dec68285ddfb120",
+    "wof:geomhash":"234e7fd7a60eaff51393ff148bca3cf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661420,
+    "wof:lastmodified":1695876758,
     "wof:name":"Kalme",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

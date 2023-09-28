@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karitsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00164,
-    "geom:area_square_m":10354687.195133,
+    "geom:area_square_m":10354687.195137,
     "geom:bbox":"26.307044,59.268674,26.364464,59.316513",
     "geom:latitude":59.292235,
     "geom:longitude":26.337703,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2741
+        "ee-mamt:okood":"2741"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125889915
     ],
     "wof:country":"EE",
     "wof:created":1595461080,
-    "wof:geomhash":"9538bff76c097f4dbc3e129f3756092a",
+    "wof:geomhash":"4f6baebb5ca5cc26314561bb9a1f06ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676657,
+    "wof:lastmodified":1695876935,
     "wof:name":"Karitsa",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

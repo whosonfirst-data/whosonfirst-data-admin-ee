@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ubasalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003913,
-    "geom:area_square_m":24996976.849885,
+    "geom:area_square_m":24996976.849884,
     "geom:bbox":"23.935003,58.861881,24.039157,58.923027",
     "geom:latitude":58.891927,
     "geom:longitude":23.991871,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8607
+        "ee-mamt:okood":"8607"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344148565
     ],
     "wof:country":"EE",
     "wof:created":1595459764,
-    "wof:geomhash":"0680bb487a104e64606b293dcc971c9b",
+    "wof:geomhash":"f2929a9f62a3797855027e36e59b9f4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677195,
+    "wof:lastmodified":1695876988,
     "wof:name":"Ubasalu",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

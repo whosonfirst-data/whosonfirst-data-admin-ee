@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vohnja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000857,
-    "geom:area_square_m":5395242.511784,
+    "geom:area_square_m":5395242.511785,
     "geom:bbox":"26.017729,59.364651,26.06925,59.39741",
     "geom:latitude":59.380387,
     "geom:longitude":26.044444,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9449
+        "ee-mamt:okood":"9449"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008727
     ],
     "wof:country":"EE",
     "wof:created":1595459078,
-    "wof:geomhash":"c212d33daee31aa2de69d0dc91e875aa",
+    "wof:geomhash":"8ff5af374cc6ef77b50861e3a0c143d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661716,
+    "wof:lastmodified":1695876774,
     "wof:name":"Vohnja",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

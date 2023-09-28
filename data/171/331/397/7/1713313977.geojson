@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lebavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00188,
-    "geom:area_square_m":12108874.155421,
+    "geom:area_square_m":12108874.155419,
     "geom:bbox":"25.750621,58.598741,25.879446,58.624125",
     "geom:latitude":58.610091,
     "geom:longitude":25.809735,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4170
+        "ee-mamt:okood":"4170"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242700599
     ],
     "wof:country":"EE",
     "wof:created":1595460876,
-    "wof:geomhash":"c9f20a1713b4f0f0f94ab17bd203dfad",
+    "wof:geomhash":"73532c48d01bb8f3e368640cb6a2868e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676495,
+    "wof:lastmodified":1695876916,
     "wof:name":"Lebavere",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

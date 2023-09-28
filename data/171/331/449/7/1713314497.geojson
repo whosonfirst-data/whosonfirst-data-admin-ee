@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kullenga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00109,
-    "geom:area_square_m":6900652.513524,
+    "geom:area_square_m":6900652.513522,
     "geom:bbox":"26.23131,59.196041,26.311013,59.22253",
     "geom:latitude":59.208869,
     "geom:longitude":26.274272,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3592
+        "ee-mamt:okood":"3592"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310492267
     ],
     "wof:country":"EE",
     "wof:created":1595460993,
-    "wof:geomhash":"8be1f376e9d520f43d984e354b08197e",
+    "wof:geomhash":"84433f5f1bb2943675cf4e59a315dfcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676591,
+    "wof:lastmodified":1695876927,
     "wof:name":"Kullenga",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

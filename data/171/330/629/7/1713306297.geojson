@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raveliku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000666,
-    "geom:area_square_m":4216916.65283,
+    "geom:area_square_m":4216916.652829,
     "geom:bbox":"25.225461,59.162782,25.273655,59.184661",
     "geom:latitude":59.17373,
     "geom:longitude":25.247962,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6872
+        "ee-mamt:okood":"6872"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360098893
     ],
     "wof:country":"EE",
     "wof:created":1595459124,
-    "wof:geomhash":"940e9da4a92b6d17d44c08321897f460",
+    "wof:geomhash":"d6938ee521631f394fc0cc206af52880",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661343,
+    "wof:lastmodified":1695876755,
     "wof:name":"Raveliku",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

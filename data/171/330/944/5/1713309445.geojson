@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saulepi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000626,
-    "geom:area_square_m":4064190.134502,
+    "geom:area_square_m":4064190.13451,
     "geom:bbox":"23.770571,58.329046,23.806915,58.368165",
     "geom:latitude":58.351672,
     "geom:longitude":23.785909,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7462
+        "ee-mamt:okood":"7462"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310093621
     ],
     "wof:country":"EE",
     "wof:created":1595459887,
-    "wof:geomhash":"4d118f6f34e4e1a54a4b38eb81f6ce87",
+    "wof:geomhash":"1ae6e5e9a65985c1a1824291955c5ed2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661610,
+    "wof:lastmodified":1695876768,
     "wof:name":"Saulepi",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

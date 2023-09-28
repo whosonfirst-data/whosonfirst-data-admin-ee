@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pedajam\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001407,
-    "geom:area_square_m":9202968.806924,
+    "geom:area_square_m":9202968.806921,
     "geom:bbox":"26.410453,58.057487,26.47191,58.098363",
     "geom:latitude":58.075891,
     "geom:longitude":26.444537,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6060
+        "ee-mamt:okood":"6060"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310168001
     ],
     "wof:country":"EE",
     "wof:created":1595459986,
-    "wof:geomhash":"dab9b3557f0cd28afbf187815314b13e",
+    "wof:geomhash":"16511700021587bdea14cee72ce984fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661867,
+    "wof:lastmodified":1695876781,
     "wof:name":"Pedajam\u00e4e",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

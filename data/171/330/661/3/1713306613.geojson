@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lungu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005488,
-    "geom:area_square_m":35088155.034881,
+    "geom:area_square_m":35088155.034882,
     "geom:bbox":"25.102798,58.843423,25.279444,58.897411",
     "geom:latitude":58.866257,
     "geom:longitude":25.194992,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4560
+        "ee-mamt:okood":"4560"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310081981
     ],
     "wof:country":"EE",
     "wof:created":1595459198,
-    "wof:geomhash":"8e09bcb5173a772db9c8431836375a84",
+    "wof:geomhash":"210a1eb72e3b4d00f83359c8a348124b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677976,
+    "wof:lastmodified":1695877006,
     "wof:name":"Lungu",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

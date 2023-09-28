@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kanak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.016223,
-    "geom:area_square_m":105481643.07191,
+    "geom:area_square_m":105481643.071915,
     "geom:bbox":"24.990715,58.224947,25.270674,58.329621",
     "geom:latitude":58.275978,
     "geom:longitude":25.122961,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2648
+        "ee-mamt:okood":"2648"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125889897
     ],
     "wof:country":"EE",
     "wof:created":1595460910,
-    "wof:geomhash":"dddfc605841b09d22fc9f4550b5c31f0",
+    "wof:geomhash":"97d4635195192705c8f9ccd2a7b79d31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677728,
+    "wof:lastmodified":1695876997,
     "wof:name":"Kanak\u00fcla",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

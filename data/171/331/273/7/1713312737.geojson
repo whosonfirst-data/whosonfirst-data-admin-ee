@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u00e4gala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00306,
-    "geom:area_square_m":19248442.956511,
+    "geom:area_square_m":19248442.956509,
     "geom:bbox":"25.169411,59.393814,25.287264,59.43869",
     "geom:latitude":59.419525,
     "geom:longitude":25.235446,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2299
+        "ee-mamt:okood":"2299"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125788295
     ],
     "wof:country":"EE",
     "wof:created":1595460611,
-    "wof:geomhash":"a556b9cfdc5e5d18829f9afc30fa55d2",
+    "wof:geomhash":"4c130492bd3415c82badb62976eec29f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661368,
+    "wof:lastmodified":1695876755,
     "wof:name":"J\u00e4gala",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

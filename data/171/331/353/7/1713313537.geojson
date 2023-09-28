@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tagametsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002966,
-    "geom:area_square_m":18779892.494119,
+    "geom:area_square_m":18779892.49412,
     "geom:bbox":"24.472214,59.172199,24.568618,59.239542",
     "geom:latitude":59.203323,
     "geom:longitude":24.523113,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8045
+        "ee-mamt:okood":"8045"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360094659
     ],
     "wof:country":"EE",
     "wof:created":1595460783,
-    "wof:geomhash":"f43cbe0261384a574875eaff2beb78e7",
+    "wof:geomhash":"61eff56397094d8af2ca3b76cdaafed9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663228,
+    "wof:lastmodified":1695876810,
     "wof:name":"Tagametsa",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

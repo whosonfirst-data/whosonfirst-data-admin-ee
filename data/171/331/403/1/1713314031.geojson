@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pihke K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000905,
-    "geom:area_square_m":5917264.815979,
+    "geom:area_square_m":5917264.815978,
     "geom:bbox":"24.715483,58.058264,24.765341,58.086244",
     "geom:latitude":58.072249,
     "geom:longitude":24.738727,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6143
+        "ee-mamt:okood":"6143"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1292979227
     ],
     "wof:country":"EE",
     "wof:created":1595460888,
-    "wof:geomhash":"2e2473da98048abde9d058bb23a6184e",
+    "wof:geomhash":"9a9d79456897a3460125422f0a45ab2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677723,
+    "wof:lastmodified":1695876996,
     "wof:name":"Pihke",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

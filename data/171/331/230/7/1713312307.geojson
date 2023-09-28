@@ -8,13 +8,13 @@
     "ee-mamt:animi":"J\u0151geva Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000213,
-    "geom:area_square_m":1362696.548704,
+    "geom:area_square_m":1362696.548703,
     "geom:bbox":"26.391085,58.753875,26.420124,58.771273",
     "geom:latitude":58.761905,
     "geom:longitude":26.401162,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "J\u0151geva alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2261
+        "ee-mamt:okood":"2261"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1713351503
     ],
     "wof:country":"EE",
     "wof:created":1595460518,
-    "wof:geomhash":"7aab75e1ebea90921d1fa3fdfeb17472",
+    "wof:geomhash":"859fc0621139af3501303532165eb056",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676557,
+    "wof:lastmodified":1695876923,
     "wof:name":"J\u0151geva",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

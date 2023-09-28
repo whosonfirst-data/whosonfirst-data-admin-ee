@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ristik\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003267,
-    "geom:area_square_m":21302699.848733,
+    "geom:area_square_m":21302699.848723,
     "geom:bbox":"24.701175,58.138986,24.821493,58.204646",
     "geom:latitude":58.176522,
     "geom:longitude":24.764539,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7013
+        "ee-mamt:okood":"7013"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226120637
     ],
     "wof:country":"EE",
     "wof:created":1595459934,
-    "wof:geomhash":"925fff752b550685b32ef64829203f87",
+    "wof:geomhash":"56d518f054819dd8dcdebb664f1ac5bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677725,
+    "wof:lastmodified":1695876997,
     "wof:name":"Ristik\u00fcla",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

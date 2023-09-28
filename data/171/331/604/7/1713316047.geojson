@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u00e4rvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00143,
-    "geom:area_square_m":9406447.046678,
+    "geom:area_square_m":9406447.046681,
     "geom:bbox":"26.834057,57.834405,26.902606,57.867781",
     "geom:latitude":57.851257,
     "geom:longitude":26.865416,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2365
+        "ee-mamt:okood":"2365"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125872401
     ],
     "wof:country":"EE",
     "wof:created":1595461347,
-    "wof:geomhash":"3f9f92ab334ec55047810992fcf3df6f",
+    "wof:geomhash":"4b3b9933be79c04f88912f9a827b6114",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660232,
+    "wof:lastmodified":1695876722,
     "wof:name":"J\u00e4rvere",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

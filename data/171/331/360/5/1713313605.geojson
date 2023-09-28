@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4\u00e4gvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000384,
-    "geom:area_square_m":2484731.815015,
+    "geom:area_square_m":2484731.815014,
     "geom:bbox":"26.820877,58.457683,26.863993,58.478721",
     "geom:latitude":58.467374,
     "geom:longitude":26.840036,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9680
+        "ee-mamt:okood":"9680"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226405599
     ],
     "wof:country":"EE",
     "wof:created":1595460797,
-    "wof:geomhash":"8ed9ed2cdb4d6a79ce7942d688530c4e",
+    "wof:geomhash":"2e4da3ea059ca50308a0893d21edcdff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676466,
+    "wof:lastmodified":1695876913,
     "wof:name":"V\u00e4\u00e4gvere",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

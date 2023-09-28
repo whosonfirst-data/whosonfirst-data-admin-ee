@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sikeldi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001357,
-    "geom:area_square_m":8631874.37197,
+    "geom:area_square_m":8631874.371969,
     "geom:bbox":"24.687762,59.013008,24.758753,59.05156",
     "geom:latitude":59.031515,
     "geom:longitude":24.728792,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7586
+        "ee-mamt:okood":"7586"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276846985
     ],
     "wof:country":"EE",
     "wof:created":1595460261,
-    "wof:geomhash":"3a967ffc12e8e974da99aa286310af03",
+    "wof:geomhash":"79da96038e2501c0c1dc4e156ae322d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676700,
+    "wof:lastmodified":1695876940,
     "wof:name":"Sikeldi",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

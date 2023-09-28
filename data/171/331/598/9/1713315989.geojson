@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiviora K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000899,
-    "geom:area_square_m":5956824.928736,
+    "geom:area_square_m":5956824.928735,
     "geom:bbox":"27.265896,57.570136,27.325909,57.593141",
     "geom:latitude":57.582075,
     "geom:longitude":27.299703,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3193
+        "ee-mamt:okood":"3193"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276306613
     ],
     "wof:country":"EE",
     "wof:created":1595461335,
-    "wof:geomhash":"54299dfcf63eba9b1c294bcdf3b618f5",
+    "wof:geomhash":"e12741c1c42a2cd0b8048d4ec853f640",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676865,
+    "wof:lastmodified":1695876969,
     "wof:name":"Kiviora",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

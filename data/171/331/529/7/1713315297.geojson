@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pehka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00187,
-    "geom:area_square_m":11740244.919315,
+    "geom:area_square_m":11740244.919308,
     "geom:bbox":"26.32361,59.460387,26.3925,59.524934",
     "geom:latitude":59.488022,
     "geom:longitude":26.356738,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6093
+        "ee-mamt:okood":"6093"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242673015
     ],
     "wof:country":"EE",
     "wof:created":1595461182,
-    "wof:geomhash":"674ccbc9fb8fa435a0d221ebb20ec89f",
+    "wof:geomhash":"5588323431c89deed3a0d3ddb7cb8551",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678037,
+    "wof:lastmodified":1695877013,
     "wof:name":"Pehka",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

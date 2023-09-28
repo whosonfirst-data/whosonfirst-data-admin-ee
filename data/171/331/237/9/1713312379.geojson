@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Are Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000443,
-    "geom:area_square_m":2863270.596983,
+    "geom:area_square_m":2863270.596984,
     "geom:bbox":"24.549716,58.512335,24.585689,58.532816",
     "geom:latitude":58.522574,
     "geom:longitude":24.565602,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Are alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1344
+        "ee-mamt:okood":"1344"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1292989001
     ],
     "wof:country":"EE",
     "wof:created":1595460532,
-    "wof:geomhash":"cb81fd78cd97614b215cabbfaf9aeb0e",
+    "wof:geomhash":"ae01a496a882b085dda52585b69b0de1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663372,
+    "wof:lastmodified":1695876819,
     "wof:name":"Are",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

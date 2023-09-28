@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Randiv\u00e4lja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00099,
-    "geom:area_square_m":6405246.844411,
+    "geom:area_square_m":6405246.844415,
     "geom:bbox":"24.777552,58.44149,24.839203,58.475266",
     "geom:latitude":58.456225,
     "geom:longitude":24.807785,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6792
+        "ee-mamt:okood":"6792"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276848951
     ],
     "wof:country":"EE",
     "wof:created":1595460549,
-    "wof:geomhash":"e3fa9dd6987c80efd1b7deae06dfc6f5",
+    "wof:geomhash":"5a2ea42ed24d113c5f1e04ffc49172c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663372,
+    "wof:lastmodified":1695876819,
     "wof:name":"Randiv\u00e4lja",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

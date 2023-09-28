@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Andja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001723,
-    "geom:area_square_m":10826764.191026,
+    "geom:area_square_m":10826764.191025,
     "geom:bbox":"26.434037,59.431641,26.507971,59.470681",
     "geom:latitude":59.451239,
     "geom:longitude":26.474667,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1259
+        "ee-mamt:okood":"1259"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1292996103
     ],
     "wof:country":"EE",
     "wof:created":1595461183,
-    "wof:geomhash":"a03ea6160171d0b0060ccaa045164408",
+    "wof:geomhash":"8e3ce1467f47b26d6c47b8cf8876f975",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676664,
+    "wof:lastmodified":1695876937,
     "wof:name":"Andja",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

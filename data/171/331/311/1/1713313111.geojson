@@ -8,7 +8,7 @@
     "ee-mamt:animi":"S\u0151rve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001744,
-    "geom:area_square_m":10967593.2375,
+    "geom:area_square_m":10967593.237503,
     "geom:bbox":"24.43296,59.404254,24.526559,59.440385",
     "geom:latitude":59.421055,
     "geom:longitude":24.471287,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7905
+        "ee-mamt:okood":"7905"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209928555
     ],
     "wof:country":"EE",
     "wof:created":1595460692,
-    "wof:geomhash":"a2caa89d950256faf73d76a95e839a27",
+    "wof:geomhash":"964323c65bcf78c23103490c56927109",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661448,
+    "wof:lastmodified":1695876760,
     "wof:name":"S\u0151rve",
     "wof:parent_id":1713305681,
     "wof:placetype":"localadmin",

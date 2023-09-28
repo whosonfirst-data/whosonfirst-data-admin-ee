@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u0151rrem\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000549,
-    "geom:area_square_m":3458514.412574,
+    "geom:area_square_m":3458514.412573,
     "geom:bbox":"26.312527,59.351536,26.351287,59.377283",
     "geom:latitude":59.365083,
     "geom:longitude":26.332917,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8525
+        "ee-mamt:okood":"8525"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125957239
     ],
     "wof:country":"EE",
     "wof:created":1595461023,
-    "wof:geomhash":"7a150e73804f5698b596324bf8c1e5c8",
+    "wof:geomhash":"f040583fa06d7fa4409b6ceece351d73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676666,
+    "wof:lastmodified":1695876937,
     "wof:name":"T\u0151rrem\u00e4e",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Juuru Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000624,
-    "geom:area_square_m":3964362.587868,
+    "geom:area_square_m":3964362.58787,
     "geom:bbox":"24.926636,59.051318,24.992409,59.076527",
     "geom:latitude":59.061193,
     "geom:longitude":24.952466,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Juuru alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2223
+        "ee-mamt:okood":"2223"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125800803
     ],
     "wof:country":"EE",
     "wof:created":1595460309,
-    "wof:geomhash":"2b31d955e402f793db42501568ed01c4",
+    "wof:geomhash":"045f66fb0b69a6dedadd44a3784b3abe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676703,
+    "wof:lastmodified":1695876941,
     "wof:name":"Juuru",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

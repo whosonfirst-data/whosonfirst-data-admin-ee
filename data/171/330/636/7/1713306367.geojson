@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kose Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.00092,
-    "geom:area_square_m":5829838.637972,
+    "geom:area_square_m":5829838.637973,
     "geom:bbox":"25.140989,59.163523,25.19121,59.1967",
     "geom:latitude":59.181792,
     "geom:longitude":25.169099,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Kose alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3460
+        "ee-mamt:okood":"3460"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815181
     ],
     "wof:country":"EE",
     "wof:created":1595459141,
-    "wof:geomhash":"8a8050722d9ecf4c5cf08074df65eb75",
+    "wof:geomhash":"7c82552d70617c74208942f0fc69f3ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661344,
+    "wof:lastmodified":1695876755,
     "wof:name":"Kose",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

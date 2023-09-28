@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Luke K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003425,
-    "geom:area_square_m":22292039.711887,
+    "geom:area_square_m":22292039.711886,
     "geom:bbox":"26.474922,58.214297,26.598959,58.264129",
     "geom:latitude":58.23754,
     "geom:longitude":26.541881,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4557
+        "ee-mamt:okood":"4557"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125837995
     ],
     "wof:country":"EE",
     "wof:created":1595461075,
-    "wof:geomhash":"19734d0c517377bc1a9c6afeb1ac067d",
+    "wof:geomhash":"c601280deee8010159af6ea1eb60578f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676757,
+    "wof:lastmodified":1695876949,
     "wof:name":"Luke",
     "wof:parent_id":1713305715,
     "wof:placetype":"localadmin",

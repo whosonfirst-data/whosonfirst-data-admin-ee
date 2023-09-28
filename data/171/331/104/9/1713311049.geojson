@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Himmaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001834,
-    "geom:area_square_m":11991956.508746,
+    "geom:area_square_m":11991956.508743,
     "geom:bbox":"27.064089,58.063736,27.139869,58.108201",
     "geom:latitude":58.084165,
     "geom:longitude":27.103487,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1846
+        "ee-mamt:okood":"1846"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125933119
     ],
     "wof:country":"EE",
     "wof:created":1595460254,
-    "wof:geomhash":"1636e66b9f785a68f0f05ca2c984f721",
+    "wof:geomhash":"2f8a8cda25a43464d68a3c36610d274a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676942,
+    "wof:lastmodified":1695876972,
     "wof:name":"Himmaste",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

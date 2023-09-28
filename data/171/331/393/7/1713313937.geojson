@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sirgu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000914,
-    "geom:area_square_m":5926009.023358,
+    "geom:area_square_m":5926009.023356,
     "geom:bbox":"26.883949,58.358547,26.946307,58.387957",
     "geom:latitude":58.373094,
     "geom:longitude":26.910549,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7632
+        "ee-mamt:okood":"7632"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936227
     ],
     "wof:country":"EE",
     "wof:created":1595460868,
-    "wof:geomhash":"1e364431e9060a4dbb247ecf517110c7",
+    "wof:geomhash":"74ef17169d1c4d5d0f28fa566694db58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660675,
+    "wof:lastmodified":1695876731,
     "wof:name":"Sirgu",
     "wof:parent_id":1713305697,
     "wof:placetype":"localadmin",

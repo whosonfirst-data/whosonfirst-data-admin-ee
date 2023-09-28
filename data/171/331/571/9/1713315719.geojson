@@ -14,7 +14,7 @@
     "geom:longitude":26.984721,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Parksepa alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6017
+        "ee-mamt:okood":"6017"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125971627
     ],
     "wof:country":"EE",
     "wof:created":1595461280,
-    "wof:geomhash":"1a2d83cba1510b3b0a1fd79fea3a3892",
+    "wof:geomhash":"b9a95a6f426a6ec25ef5c3910a567c25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660260,
+    "wof:lastmodified":1695876725,
     "wof:name":"Parksepa",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

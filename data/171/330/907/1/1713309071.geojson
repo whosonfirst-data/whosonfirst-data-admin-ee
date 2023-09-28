@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Osmussaare K\u00fcla / Odensholm",
     "ee-mamt:tyyp":8,
     "geom:area":0.000768,
-    "geom:area_square_m":4849935.250945,
+    "geom:area_square_m":4849935.250941,
     "geom:bbox":"23.358721,59.273281,23.427973,59.30436",
     "geom:latitude":59.290897,
     "geom:longitude":23.392718,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5743
+        "ee-mamt:okood":"5743"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276357591
     ],
     "wof:country":"EE",
     "wof:created":1595459798,
-    "wof:geomhash":"de4f51480f0fc8fdef3841799a45a999",
+    "wof:geomhash":"756c3b301a343ce4353d349bf013b584",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677201,
+    "wof:lastmodified":1695876989,
     "wof:name":"Osmussaare",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

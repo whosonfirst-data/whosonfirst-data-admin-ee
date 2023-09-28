@@ -8,13 +8,13 @@
     "ee-mamt:animi":"P\u00e4rnu-Jaagupi Alev",
     "ee-mamt:tyyp":3,
     "geom:area":0.000979,
-    "geom:area_square_m":6306699.773025,
+    "geom:area_square_m":6306699.773024,
     "geom:bbox":"24.480983,58.598831,24.545948,58.62298",
     "geom:latitude":58.611893,
     "geom:longitude":24.509659,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "alev"
+        "town"
     ],
     "label:est_x_preferred_longname":[
         "P\u00e4rnu-Jaagupi alev"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6617
+        "ee-mamt:okood":"6617"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815073
     ],
     "wof:country":"EE",
     "wof:created":1595459930,
-    "wof:geomhash":"5a75a29454dfc0fb86a0a70f5b911c8c",
+    "wof:geomhash":"c3874362af282f3e0d89dced3656c66a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663411,
+    "wof:lastmodified":1695876826,
     "wof:name":"P\u00e4rnu-Jaagupi",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

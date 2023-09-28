@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lasinurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001295,
-    "geom:area_square_m":8259865.490516,
+    "geom:area_square_m":8259865.490518,
     "geom:bbox":"26.295135,58.926375,26.351357,58.961864",
     "geom:latitude":58.945381,
     "geom:longitude":26.320614,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4125
+        "ee-mamt:okood":"4125"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193134259
     ],
     "wof:country":"EE",
     "wof:created":1595460427,
-    "wof:geomhash":"bd32f8843be3435e0802ed6e60ac7e86",
+    "wof:geomhash":"f83c34d9be58de1123b5975764808d3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676530,
+    "wof:lastmodified":1695876919,
     "wof:name":"Lasinurme",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

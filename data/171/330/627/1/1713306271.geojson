@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u00e4riste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000568,
-    "geom:area_square_m":3694045.909619,
+    "geom:area_square_m":3694045.90962,
     "geom:bbox":"26.548626,58.284525,26.595878,58.304992",
     "geom:latitude":58.295807,
     "geom:longitude":26.568428,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2327
+        "ee-mamt:okood":"2327"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360051723
     ],
     "wof:country":"EE",
     "wof:created":1595459118,
-    "wof:geomhash":"5f5c1ee9b34bb4d86b26a8eff3c3f433",
+    "wof:geomhash":"8b88b04157a25d5715620f1d3d40e87e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676755,
+    "wof:lastmodified":1695876948,
     "wof:name":"J\u00e4riste",
     "wof:parent_id":1713305715,
     "wof:placetype":"localadmin",

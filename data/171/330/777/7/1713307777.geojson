@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kohala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001255,
-    "geom:area_square_m":7893250.134357,
+    "geom:area_square_m":7893250.134358,
     "geom:bbox":"26.483351,59.394172,26.549767,59.431752",
     "geom:latitude":59.414225,
     "geom:longitude":26.51951,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3263
+        "ee-mamt:okood":"3263"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126045151
     ],
     "wof:country":"EE",
     "wof:created":1595459484,
-    "wof:geomhash":"351636ad3dbba4d4cdad06a172a2f2d2",
+    "wof:geomhash":"5da5142b1fb39bf9df565912e0e2aca0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676661,
+    "wof:lastmodified":1695876936,
     "wof:name":"Kohala",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

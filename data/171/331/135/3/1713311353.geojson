@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rangu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003522,
-    "geom:area_square_m":22469911.907531,
+    "geom:area_square_m":22469911.907534,
     "geom:bbox":"24.352823,58.905956,24.436235,58.976323",
     "geom:latitude":58.936591,
     "geom:longitude":24.396448,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6800
+        "ee-mamt:okood":"6800"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935797
     ],
     "wof:country":"EE",
     "wof:created":1595460318,
-    "wof:geomhash":"e75267488102c37676f42927aa6fae18",
+    "wof:geomhash":"40f666bc7291776e513a30ccb6679fcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662820,
+    "wof:lastmodified":1695876803,
     "wof:name":"Rangu",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

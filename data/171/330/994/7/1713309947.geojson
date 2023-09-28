@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tiidu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002183,
-    "geom:area_square_m":14331018.40996,
+    "geom:area_square_m":14331018.409958,
     "geom:bbox":"26.23236,57.904872,26.325639,57.944387",
     "geom:latitude":57.925161,
     "geom:longitude":26.279941,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8219
+        "ee-mamt:okood":"8219"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125768377
     ],
     "wof:country":"EE",
     "wof:created":1595460014,
-    "wof:geomhash":"75b412f53e8f0498c2f967d9c8cdf499",
+    "wof:geomhash":"c6c9b5fb0f96669ca6b613e6a20370f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661870,
+    "wof:lastmodified":1695876783,
     "wof:name":"Tiidu",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

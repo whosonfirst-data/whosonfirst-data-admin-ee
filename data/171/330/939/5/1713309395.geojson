@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Esivere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002808,
-    "geom:area_square_m":18078570.495325,
+    "geom:area_square_m":18078570.495331,
     "geom:bbox":"23.399774,58.592609,23.590653,58.68854",
     "geom:latitude":58.628346,
     "geom:longitude":23.540796,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1649
+        "ee-mamt:okood":"1649"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243088851
     ],
     "wof:country":"EE",
     "wof:created":1595459877,
-    "wof:geomhash":"b1eee8c3b1c176d17e88240a64ce0921",
+    "wof:geomhash":"7028364b373f757c6fcd33972d7b8dd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661625,
+    "wof:lastmodified":1695876770,
     "wof:name":"Esivere",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

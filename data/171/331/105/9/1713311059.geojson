@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Leevi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002618,
-    "geom:area_square_m":17180262.584812,
+    "geom:area_square_m":17180262.584818,
     "geom:bbox":"27.182009,57.915339,27.283762,57.964586",
     "geom:latitude":57.94209,
     "geom:longitude":27.228739,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4195
+        "ee-mamt:okood":"4195"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126057105
     ],
     "wof:country":"EE",
     "wof:created":1595460257,
-    "wof:geomhash":"5f3b0a1fd22af54ec0d57fa355b349bd",
+    "wof:geomhash":"946a6bbfa7521b73462f00b48990784d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676987,
+    "wof:lastmodified":1695876979,
     "wof:name":"Leevi",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

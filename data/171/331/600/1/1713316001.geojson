@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Voropi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000469,
-    "geom:area_square_m":3088765.376883,
+    "geom:area_square_m":3088765.376884,
     "geom:bbox":"27.596697,57.838006,27.641446,57.856807",
     "geom:latitude":57.845811,
     "geom:longitude":27.619695,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9484
+        "ee-mamt:okood":"9484"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461338,
-    "wof:geomhash":"b1504bd308c218ed1d9b916284f2c8b0",
+    "wof:geomhash":"6a6c4500f923c3ca504c937f306a9880",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663645,
+    "wof:lastmodified":1695876839,
     "wof:name":"Voropi",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

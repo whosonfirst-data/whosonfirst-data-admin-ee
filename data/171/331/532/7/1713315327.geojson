@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lau K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002557,
-    "geom:area_square_m":16297480.086449,
+    "geom:area_square_m":16297480.086447,
     "geom:bbox":"24.932169,58.950107,25.025032,59.001375",
     "geom:latitude":58.975563,
     "geom:longitude":24.977901,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4133
+        "ee-mamt:okood":"4133"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310085019
     ],
     "wof:country":"EE",
     "wof:created":1595461189,
-    "wof:geomhash":"6e4ed143673ecef9aa4852f5c8b74957",
+    "wof:geomhash":"0a766b44049ecd623ea19793ac1e4b03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676739,
+    "wof:lastmodified":1695876947,
     "wof:name":"Lau",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

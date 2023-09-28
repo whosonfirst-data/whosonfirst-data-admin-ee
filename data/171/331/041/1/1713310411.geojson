@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Rannu Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000254,
-    "geom:area_square_m":1651012.596981,
+    "geom:area_square_m":1651012.596982,
     "geom:bbox":"26.20093,58.234995,26.230386,58.248791",
     "geom:latitude":58.240874,
     "geom:longitude":26.21429,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Rannu alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6822
+        "ee-mamt:okood":"6822"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037809
     ],
     "wof:country":"EE",
     "wof:created":1595460115,
-    "wof:geomhash":"2f125e3d4e57087aefcb73baf2da2aba",
+    "wof:geomhash":"2a3e7e6ff94a2fbdc2e95405cd4d9a99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661891,
+    "wof:lastmodified":1695876784,
     "wof:name":"Rannu",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

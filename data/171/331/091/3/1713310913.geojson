@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viluste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00103,
-    "geom:area_square_m":6753053.387482,
+    "geom:area_square_m":6753053.387483,
     "geom:bbox":"27.30584,57.97866,27.363829,58.010094",
     "geom:latitude":57.993706,
     "geom:longitude":27.327404,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9369
+        "ee-mamt:okood":"9369"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125858443
     ],
     "wof:country":"EE",
     "wof:created":1595460226,
-    "wof:geomhash":"9b896afdabfdd0b0defd5eacfc41bb50",
+    "wof:geomhash":"f177598b5235d05106e5b105432005ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676977,
+    "wof:lastmodified":1695876976,
     "wof:name":"Viluste",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

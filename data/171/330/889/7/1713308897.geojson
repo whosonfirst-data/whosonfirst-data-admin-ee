@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Penij\u0151e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001275,
-    "geom:area_square_m":8185653.429801,
+    "geom:area_square_m":8185653.429803,
     "geom:bbox":"23.774517,58.7015,23.851277,58.739923",
     "geom:latitude":58.72098,
     "geom:longitude":23.815168,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6096
+        "ee-mamt:okood":"6096"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226336855
     ],
     "wof:country":"EE",
     "wof:created":1595459759,
-    "wof:geomhash":"1cad2320760e59c3a0df6015d325d7d0",
+    "wof:geomhash":"03f6642d3fbd40a2ddedccb9d2650653",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661586,
+    "wof:lastmodified":1695876766,
     "wof:name":"Penij\u0151e",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Luhte K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000674,
-    "geom:area_square_m":4457728.328452,
+    "geom:area_square_m":4457728.328451,
     "geom:bbox":"27.144882,57.675297,27.188927,57.701097",
     "geom:latitude":57.687978,
     "geom:longitude":27.167425,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4544
+        "ee-mamt:okood":"4544"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326804527
     ],
     "wof:country":"EE",
     "wof:created":1595461404,
-    "wof:geomhash":"9568c141600dcb7213faa9fca7673986",
+    "wof:geomhash":"15f95f5c21a37eb4c882c557669a8f79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660280,
+    "wof:lastmodified":1695876728,
     "wof:name":"Luhte",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

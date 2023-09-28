@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laisi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002959,
-    "geom:area_square_m":19615546.855606,
+    "geom:area_square_m":19615546.855598,
     "geom:bbox":"27.088271,57.553669,27.237448,57.59088",
     "geom:latitude":57.575135,
     "geom:longitude":27.152325,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4071
+        "ee-mamt:okood":"4071"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242932339
     ],
     "wof:country":"EE",
     "wof:created":1595461340,
-    "wof:geomhash":"d5063ef9c60342ddddc159254ebbeca9",
+    "wof:geomhash":"05397f7d4099cd7cc4859eab6142eabf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676851,
+    "wof:lastmodified":1695876966,
     "wof:name":"Laisi",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

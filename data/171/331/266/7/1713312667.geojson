@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Raasiku Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000505,
-    "geom:area_square_m":3183291.728184,
+    "geom:area_square_m":3183291.728183,
     "geom:bbox":"25.140771,59.36147,25.203735,59.384339",
     "geom:latitude":59.370358,
     "geom:longitude":25.175581,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Raasiku alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6694
+        "ee-mamt:okood":"6694"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815161
     ],
     "wof:country":"EE",
     "wof:created":1595460592,
-    "wof:geomhash":"ba44fbae650d1ae90a5c0c9343104ab6",
+    "wof:geomhash":"4d29645c37a6d0bb97ba2cd895bec2e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661929,
+    "wof:lastmodified":1695876789,
     "wof:name":"Raasiku",
     "wof:parent_id":1713305751,
     "wof:placetype":"localadmin",

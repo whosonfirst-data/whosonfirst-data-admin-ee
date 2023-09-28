@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Abruka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001626,
-    "geom:area_square_m":10609304.688659,
+    "geom:area_square_m":10609304.688668,
     "geom:bbox":"22.46425,58.096004,22.562024,58.177722",
     "geom:latitude":58.149184,
     "geom:longitude":22.507945,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1064
+        "ee-mamt:okood":"1064"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242944005
     ],
     "wof:country":"EE",
     "wof:created":1595459380,
-    "wof:geomhash":"7a0766850186931361690e757c505c2c",
+    "wof:geomhash":"3ce232b52c1e9e9a21ec8aa4c6d444f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672518,
+    "wof:lastmodified":1695876896,
     "wof:name":"Abruka",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

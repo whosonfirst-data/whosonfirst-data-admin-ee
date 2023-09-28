@@ -14,7 +14,7 @@
     "geom:longitude":27.222721,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Kasep\u00e4\u00e4 alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2799
+        "ee-mamt:okood":"2799"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037563
     ],
     "wof:country":"EE",
     "wof:created":1595459871,
-    "wof:geomhash":"e237d8c98f1b55237036be889da32d19",
+    "wof:geomhash":"17f20cfff379157e6737707b28ed00ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660844,
+    "wof:lastmodified":1695876737,
     "wof:name":"Kasep\u00e4\u00e4",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

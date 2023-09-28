@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Papsaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002026,
-    "geom:area_square_m":13125508.558276,
+    "geom:area_square_m":13125508.558278,
     "geom:bbox":"24.373097,58.384094,24.46383,58.424475",
     "geom:latitude":58.404108,
     "geom:longitude":24.421168,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5986
+        "ee-mamt:okood":"5986"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125809223
     ],
     "wof:country":"EE",
     "wof:created":1595460700,
-    "wof:geomhash":"2a3ef7150538a3f43a8808094898969c",
+    "wof:geomhash":"4ec7359e545746b383f1294f83fd0496",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677695,
+    "wof:lastmodified":1695876995,
     "wof:name":"Papsaare",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

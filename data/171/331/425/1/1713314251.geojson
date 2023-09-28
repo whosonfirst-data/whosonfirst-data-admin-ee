@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u0151epere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002066,
-    "geom:area_square_m":13046153.29963,
+    "geom:area_square_m":13046153.299633,
     "geom:bbox":"26.135166,59.261779,26.229168,59.309931",
     "geom:latitude":59.289423,
     "geom:longitude":26.1788,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2245
+        "ee-mamt:okood":"2245"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326816017
     ],
     "wof:country":"EE",
     "wof:created":1595460937,
-    "wof:geomhash":"bae0788be5f3b930ad3d3bc9887e515a",
+    "wof:geomhash":"e9b8257d60b54ed5158f03575912ca5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661723,
+    "wof:lastmodified":1695876775,
     "wof:name":"J\u0151epere",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

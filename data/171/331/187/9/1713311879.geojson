@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Edru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002026,
-    "geom:area_square_m":12919589.660174,
+    "geom:area_square_m":12919589.660171,
     "geom:bbox":"26.214001,58.92594,26.285792,58.972201",
     "geom:latitude":58.950078,
     "geom:longitude":26.25155,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1529
+        "ee-mamt:okood":"1529"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209936565
     ],
     "wof:country":"EE",
     "wof:created":1595460436,
-    "wof:geomhash":"b59e1122115ecb3e9824d41d5d1d313b",
+    "wof:geomhash":"6149b94f0492e6e021aae4340ae257e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676534,
+    "wof:lastmodified":1695876920,
     "wof:name":"Edru",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

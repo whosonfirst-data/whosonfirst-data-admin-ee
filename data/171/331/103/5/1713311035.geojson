@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ristipalo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000921,
-    "geom:area_square_m":6018636.040272,
+    "geom:area_square_m":6018636.040276,
     "geom:bbox":"27.470625,58.065292,27.530869,58.100261",
     "geom:latitude":58.083086,
     "geom:longitude":27.50389,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7016
+        "ee-mamt:okood":"7016"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125875477
     ],
     "wof:country":"EE",
     "wof:created":1595460252,
-    "wof:geomhash":"e59a666018bce0257f00f9e9b36fab55",
+    "wof:geomhash":"df3a5032993256b0fba65661926773c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676992,
+    "wof:lastmodified":1695876980,
     "wof:name":"Ristipalo",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

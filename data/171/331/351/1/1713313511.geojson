@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rookse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00136,
-    "geom:area_square_m":8853620.479501,
+    "geom:area_square_m":8853620.4795,
     "geom:bbox":"26.976678,58.225184,27.046253,58.26039",
     "geom:latitude":58.241906,
     "geom:longitude":27.012982,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7066
+        "ee-mamt:okood":"7066"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209378191
     ],
     "wof:country":"EE",
     "wof:created":1595460777,
-    "wof:geomhash":"58923e379dcd8f094d77562bc92f6269",
+    "wof:geomhash":"617b6a8b16b1e14017e05007ad3fa86a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660653,
+    "wof:lastmodified":1695876729,
     "wof:name":"Rookse",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u00e4esalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000979,
-    "geom:area_square_m":6165379.473766,
+    "geom:area_square_m":6165379.473768,
     "geom:bbox":"24.26572,59.357058,24.328444,59.388236",
     "geom:latitude":59.370533,
     "geom:longitude":24.29659,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3857
+        "ee-mamt:okood":"3857"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360295117
     ],
     "wof:country":"EE",
     "wof:created":1595460847,
-    "wof:geomhash":"bb3189d7e55cbe15453a51600e6ff7f7",
+    "wof:geomhash":"3aa85cfc1bfbe14d5bfb59c2cb15ad7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663304,
+    "wof:lastmodified":1695876818,
     "wof:name":"K\u00e4esalu",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

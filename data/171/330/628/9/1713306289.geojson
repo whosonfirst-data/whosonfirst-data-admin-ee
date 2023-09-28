@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kata K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001018,
-    "geom:area_square_m":6443882.582575,
+    "geom:area_square_m":6443882.582574,
     "geom:bbox":"24.929493,59.174903,24.984933,59.212295",
     "geom:latitude":59.192102,
     "geom:longitude":24.957957,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2848
+        "ee-mamt:okood":"2848"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293606823
     ],
     "wof:country":"EE",
     "wof:created":1595459122,
-    "wof:geomhash":"f4d1d3913ed32d6eb752305b17a96066",
+    "wof:geomhash":"d11922cb1557d86dd1653bd9998acabc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661342,
+    "wof:lastmodified":1695876755,
     "wof:name":"Kata",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

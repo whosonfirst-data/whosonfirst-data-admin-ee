@@ -14,7 +14,7 @@
     "geom:longitude":26.43127,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "S\u0151meru alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7892
+        "ee-mamt:okood":"7892"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101839155
     ],
     "wof:country":"EE",
     "wof:created":1595459498,
-    "wof:geomhash":"13ab2dc925bcfd9d6c61b2f37aae450b",
+    "wof:geomhash":"49a3cd6ee9d5164d316af81a1cef8ad7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676660,
+    "wof:lastmodified":1695876936,
     "wof:name":"S\u0151meru",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

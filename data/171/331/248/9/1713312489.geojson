@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ilmandu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000724,
-    "geom:area_square_m":4553536.685853,
+    "geom:area_square_m":4553536.685851,
     "geom:bbox":"24.454561,59.429827,24.500019,59.456409",
     "geom:latitude":59.442034,
     "geom:longitude":24.476665,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2047
+        "ee-mamt:okood":"2047"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125870069
     ],
     "wof:country":"EE",
     "wof:created":1595460555,
-    "wof:geomhash":"f812d0b4a8f278400edd007fbe27568b",
+    "wof:geomhash":"46d30e54a0c9cf411a1b74eab1abcc20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661444,
+    "wof:lastmodified":1695876760,
     "wof:name":"Ilmandu",
     "wof:parent_id":1713305681,
     "wof:placetype":"localadmin",

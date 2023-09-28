@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laadjala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000895,
-    "geom:area_square_m":5816178.318892,
+    "geom:area_square_m":5816178.318891,
     "geom:bbox":"22.496702,58.284847,22.568682,58.324834",
     "geom:latitude":58.306053,
     "geom:longitude":22.535236,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4007
+        "ee-mamt:okood":"4007"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343434747
     ],
     "wof:country":"EE",
     "wof:created":1595459173,
-    "wof:geomhash":"4f4f9d87247ae3636e5dd9e2c3bd1094",
+    "wof:geomhash":"d9950c063e5499a8bb2915e48ddb6713",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671643,
+    "wof:lastmodified":1695876866,
     "wof:name":"Laadjala",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

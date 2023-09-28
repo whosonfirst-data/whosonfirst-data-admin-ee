@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4lgi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000582,
-    "geom:area_square_m":3784296.630306,
+    "geom:area_square_m":3784296.630304,
     "geom:bbox":"26.310918,58.251557,26.364673,58.274033",
     "geom:latitude":58.262409,
     "geom:longitude":26.339947,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5248
+        "ee-mamt:okood":"5248"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209280667
     ],
     "wof:country":"EE",
     "wof:created":1595460085,
-    "wof:geomhash":"eeda05f3a0f94929893e611154011c25",
+    "wof:geomhash":"e7c4080701d17e76aeca917ada6cfa99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661888,
+    "wof:lastmodified":1695876783,
     "wof:name":"M\u00e4lgi",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

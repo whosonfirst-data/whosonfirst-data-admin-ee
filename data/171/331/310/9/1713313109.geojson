@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vardja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002443,
-    "geom:area_square_m":15858757.822982,
+    "geom:area_square_m":15858757.822987,
     "geom:bbox":"25.575498,58.307782,25.663286,58.356333",
     "geom:latitude":58.328168,
     "geom:longitude":25.617876,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9073
+        "ee-mamt:okood":"9073"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125858419
     ],
     "wof:country":"EE",
     "wof:created":1595460691,
-    "wof:geomhash":"a018a7dc0726d3df14cdbdae56b739ab",
+    "wof:geomhash":"b85c29b9a95fc27f5901845be47606a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661200,
+    "wof:lastmodified":1695876744,
     "wof:name":"Vardja",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

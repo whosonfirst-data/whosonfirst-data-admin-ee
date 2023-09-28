@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kilksama K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.006126,
-    "geom:area_square_m":39650295.110766,
+    "geom:area_square_m":39650295.110762,
     "geom:bbox":"24.494206,58.40464,24.66554,58.476794",
     "geom:latitude":58.438595,
     "geom:longitude":24.576228,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3084
+        "ee-mamt:okood":"3084"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225922305
     ],
     "wof:country":"EE",
     "wof:created":1595460543,
-    "wof:geomhash":"e4c648a49c55ba9809d9298215c7d845",
+    "wof:geomhash":"2346463869af8b3993eb174b0cec8061",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663370,
+    "wof:lastmodified":1695876818,
     "wof:name":"Kilksama",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

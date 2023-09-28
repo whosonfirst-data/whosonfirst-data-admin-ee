@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hara K\u00fcla / Harga",
     "ee-mamt:tyyp":8,
     "geom:area":0.001829,
-    "geom:area_square_m":11622883.796903,
+    "geom:area_square_m":11622883.796901,
     "geom:bbox":"23.498206,59.047974,23.582802,59.096205",
     "geom:latitude":59.072843,
     "geom:longitude":23.539716,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1760
+        "ee-mamt:okood":"1760"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360079691
     ],
     "wof:country":"EE",
     "wof:created":1595459716,
-    "wof:geomhash":"0fe8844c9c3c86e685d3105aee70b064",
+    "wof:geomhash":"f8ebdfb967d172f5ba32623609ba77f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677181,
+    "wof:lastmodified":1695876987,
     "wof:name":"Hara",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

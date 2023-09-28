@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u00e4psi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000575,
-    "geom:area_square_m":3711701.743898,
+    "geom:area_square_m":3711701.743897,
     "geom:bbox":"23.853952,58.508272,23.89718,58.532057",
     "geom:latitude":58.520906,
     "geom:longitude":23.87547,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8577
+        "ee-mamt:okood":"8577"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309783983
     ],
     "wof:country":"EE",
     "wof:created":1595460815,
-    "wof:geomhash":"d0bdfa891ca8f89e098d4e18e7db0c02",
+    "wof:geomhash":"e0887fa5b264aba557d93c0619fda93d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661563,
+    "wof:lastmodified":1695876764,
     "wof:name":"T\u00e4psi",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u0151gehara K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002043,
-    "geom:area_square_m":13406506.454184,
+    "geom:area_square_m":13406506.454183,
     "geom:bbox":"26.6394,57.929616,26.724404,57.973221",
     "geom:latitude":57.950812,
     "geom:longitude":26.682949,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2259
+        "ee-mamt:okood":"2259"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209502193
     ],
     "wof:country":"EE",
     "wof:created":1595461307,
-    "wof:geomhash":"96c0b2970aa578229a192251eee7a3ec",
+    "wof:geomhash":"f69c2198192c481bb0eb955f5edc9206",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676783,
+    "wof:lastmodified":1695876952,
     "wof:name":"J\u0151gehara",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

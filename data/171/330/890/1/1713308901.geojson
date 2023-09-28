@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raheste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000473,
-    "geom:area_square_m":3065652.149984,
+    "geom:area_square_m":3065652.149983,
     "geom:bbox":"23.743759,58.418405,23.809728,58.433599",
     "geom:latitude":58.424802,
     "geom:longitude":23.771433,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6722
+        "ee-mamt:okood":"6722"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343639587
     ],
     "wof:country":"EE",
     "wof:created":1595459760,
-    "wof:geomhash":"93929c184cd734083d8cf32cad749f0c",
+    "wof:geomhash":"44d9179589939c8723cf7b238095b5f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661637,
+    "wof:lastmodified":1695876771,
     "wof:name":"Raheste",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

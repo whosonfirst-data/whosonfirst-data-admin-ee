@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Roela Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.001049,
-    "geom:area_square_m":6651455.714721,
+    "geom:area_square_m":6651455.71472,
     "geom:bbox":"26.559301,59.151268,26.623539,59.17942",
     "geom:latitude":59.165817,
     "geom:longitude":26.589859,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Roela alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7028
+        "ee-mamt:okood":"7028"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125956711
     ],
     "wof:country":"EE",
     "wof:created":1595459475,
-    "wof:geomhash":"915d5e2f02222c79a883d17723387d9b",
+    "wof:geomhash":"4f826a61214448762dbe152f4588503c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677946,
+    "wof:lastmodified":1695877003,
     "wof:name":"Roela",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

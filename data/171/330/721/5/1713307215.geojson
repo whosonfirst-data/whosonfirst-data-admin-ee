@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Borrby K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001933,
-    "geom:area_square_m":12303053.712865,
+    "geom:area_square_m":12303053.712868,
     "geom:bbox":"23.184432,59.003702,23.268479,59.054034",
     "geom:latitude":59.023434,
     "geom:longitude":23.230278,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1493
+        "ee-mamt:okood":"1493"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343455539
     ],
     "wof:country":"EE",
     "wof:created":1595459348,
-    "wof:geomhash":"951897273c012ae580b9b72c751bfe02",
+    "wof:geomhash":"705c2cf9692d5242b96d4ca77095272f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663596,
+    "wof:lastmodified":1695876834,
     "wof:name":"Borrby",
     "wof:parent_id":1713305639,
     "wof:placetype":"localadmin",

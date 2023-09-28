@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sassi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000709,
-    "geom:area_square_m":4621885.401385,
+    "geom:area_square_m":4621885.401384,
     "geom:bbox":"26.433846,58.161981,26.491236,58.184158",
     "geom:latitude":58.174441,
     "geom:longitude":26.463855,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7441
+        "ee-mamt:okood":"7441"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310666955
     ],
     "wof:country":"EE",
     "wof:created":1595460573,
-    "wof:geomhash":"0f8d7a5f9302383545d31fede0210adb",
+    "wof:geomhash":"b83b4b300c95d4dc9460091e7a6a56c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676753,
+    "wof:lastmodified":1695876948,
     "wof:name":"Sassi",
     "wof:parent_id":1713305715,
     "wof:placetype":"localadmin",

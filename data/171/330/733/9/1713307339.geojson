@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kuressaare Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.00237,
-    "geom:area_square_m":15421763.29479,
+    "geom:area_square_m":15421763.294786,
     "geom:bbox":"22.440487,58.213118,22.527223,58.273254",
     "geom:latitude":58.248757,
     "geom:longitude":22.490101,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Kuressaare linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3655
+        "ee-mamt:okood":"3655"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101816261
     ],
     "wof:country":"EE",
     "wof:created":1595459378,
-    "wof:geomhash":"fd097022b55eba9ba9d03a3974da57bd",
+    "wof:geomhash":"1d82243819037ae76bdd56186e52c656",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672261,
+    "wof:lastmodified":1695876887,
     "wof:name":"Kuressaare",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

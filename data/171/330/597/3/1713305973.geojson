@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Aruk\u00fcla Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000558,
-    "geom:area_square_m":3518660.92435,
+    "geom:area_square_m":3518660.924351,
     "geom:bbox":"25.048856,59.350261,25.089971,59.37644",
     "geom:latitude":59.362118,
     "geom:longitude":25.071162,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Aruk\u00fcla alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1373
+        "ee-mamt:okood":"1373"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815177
     ],
     "wof:country":"EE",
     "wof:created":1595459041,
-    "wof:geomhash":"7a80e16c0f47f77133a60e3962206be9",
+    "wof:geomhash":"6238361242469355a97e62f5790557b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661926,
+    "wof:lastmodified":1695876788,
     "wof:name":"Aruk\u00fcla",
     "wof:parent_id":1713305751,
     "wof:placetype":"localadmin",

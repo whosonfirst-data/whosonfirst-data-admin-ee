@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00fchaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002515,
-    "geom:area_square_m":16433400.622935,
+    "geom:area_square_m":16433400.622942,
     "geom:bbox":"26.074245,58.083394,26.168847,58.124633",
     "geom:latitude":58.104404,
     "geom:longitude":26.12514,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6663
+        "ee-mamt:okood":"6663"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327296327
     ],
     "wof:country":"EE",
     "wof:created":1595460114,
-    "wof:geomhash":"55028cada75b8bdd9754f3c559ad62bf",
+    "wof:geomhash":"0e4340790a7805da5af2330bc346a1f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661892,
+    "wof:lastmodified":1695876784,
     "wof:name":"P\u00fchaste",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

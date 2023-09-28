@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kirikuk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002987,
-    "geom:area_square_m":19578757.755472,
+    "geom:area_square_m":19578757.755477,
     "geom:bbox":"25.766293,57.965031,25.912551,58.018277",
     "geom:latitude":57.992602,
     "geom:longitude":25.84188,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3124
+        "ee-mamt:okood":"3124"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276845523
     ],
     "wof:country":"EE",
     "wof:created":1595460121,
-    "wof:geomhash":"95586decb6b9d8239d90df44d63cec19",
+    "wof:geomhash":"3cf6fb5679eefecfea822f340de08919",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661423,
+    "wof:lastmodified":1695876758,
     "wof:name":"Kirikuk\u00fcla",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

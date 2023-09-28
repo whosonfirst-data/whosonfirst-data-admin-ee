@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lohu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000373,
-    "geom:area_square_m":2369437.853223,
+    "geom:area_square_m":2369437.853222,
     "geom:bbox":"24.760092,59.120476,24.794494,59.144802",
     "geom:latitude":59.131287,
     "geom:longitude":24.778023,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4453
+        "ee-mamt:okood":"4453"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037677
     ],
     "wof:country":"EE",
     "wof:created":1595459077,
-    "wof:geomhash":"7eef9cae0bd152a4ab2e67cafc6a0385",
+    "wof:geomhash":"e9d777f425785961d0040d7142aac389",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677028,
+    "wof:lastmodified":1695876982,
     "wof:name":"Lohu",
     "wof:parent_id":1713305707,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kolgak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003036,
-    "geom:area_square_m":19039583.137425,
+    "geom:area_square_m":19039583.137424,
     "geom:bbox":"25.641437,59.509582,25.770184,59.553742",
     "geom:latitude":59.528802,
     "geom:longitude":25.697113,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3343
+        "ee-mamt:okood":"3343"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125854683
     ],
     "wof:country":"EE",
     "wof:created":1595459037,
-    "wof:geomhash":"6d6af1b5c8de36b7e7f64eee73f08ccb",
+    "wof:geomhash":"6465fb33e662176b91b0bdeec731d5d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661811,
+    "wof:lastmodified":1695876777,
     "wof:name":"Kolgak\u00fcla",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

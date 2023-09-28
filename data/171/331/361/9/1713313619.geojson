@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Visela K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002163,
-    "geom:area_square_m":14200984.710231,
+    "geom:area_square_m":14200984.710226,
     "geom:bbox":"26.397046,57.915738,26.52453,57.955014",
     "geom:latitude":57.93285,
     "geom:longitude":26.461405,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9414
+        "ee-mamt:okood":"9414"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326894881
     ],
     "wof:country":"EE",
     "wof:created":1595460800,
-    "wof:geomhash":"1dee6fb0b9ec247099d0a8c2c59c0227",
+    "wof:geomhash":"b80c079ed25bda79e9e7329a92b2380c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677011,
+    "wof:lastmodified":1695876981,
     "wof:name":"Visela",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

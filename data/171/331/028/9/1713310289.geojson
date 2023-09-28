@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kodeste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001093,
-    "geom:area_square_m":6957448.533657,
+    "geom:area_square_m":6957448.533654,
     "geom:bbox":"22.591877,59.010591,22.655178,59.040888",
     "geom:latitude":59.027625,
     "geom:longitude":22.625119,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3235
+        "ee-mamt:okood":"3235"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460089,
-    "wof:geomhash":"a33fbcfd8243fb2d1537b4f4f71ef80c",
+    "wof:geomhash":"ab7f3e2be71d9f524a240ad552974120",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666319,
+    "wof:lastmodified":1695876849,
     "wof:name":"Kodeste",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

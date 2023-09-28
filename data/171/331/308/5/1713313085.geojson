@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Palamuste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000997,
-    "geom:area_square_m":6516831.894348,
+    "geom:area_square_m":6516831.894349,
     "geom:bbox":"26.218381,58.068565,26.294432,58.105952",
     "geom:latitude":58.086544,
     "geom:longitude":26.261214,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5916
+        "ee-mamt:okood":"5916"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343423469
     ],
     "wof:country":"EE",
     "wof:created":1595460687,
-    "wof:geomhash":"a53672d447d007a3e9b81d57da949b10",
+    "wof:geomhash":"7203c441797964a955f184b134206446",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661906,
+    "wof:lastmodified":1695876788,
     "wof:name":"Palamuste",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sandimetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000198,
-    "geom:area_square_m":1257195.013084,
+    "geom:area_square_m":1257195.013083,
     "geom:bbox":"26.230574,59.092702,26.260399,59.101844",
     "geom:latitude":59.097355,
     "geom:longitude":26.24561,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7412
+        "ee-mamt:okood":"7412"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360307759
     ],
     "wof:country":"EE",
     "wof:created":1595460364,
-    "wof:geomhash":"cf713c9f578ed6be21e39083653e2c8f",
+    "wof:geomhash":"b81f1dc95c84b48c82e679273e5a8a3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676524,
+    "wof:lastmodified":1695876918,
     "wof:name":"Sandimetsa",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

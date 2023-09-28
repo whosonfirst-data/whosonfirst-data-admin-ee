@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Seli-Nurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000372,
-    "geom:area_square_m":2364297.544564,
+    "geom:area_square_m":2364297.544563,
     "geom:bbox":"24.711735,59.050831,24.748247,59.074468",
     "geom:latitude":59.061564,
     "geom:longitude":24.730808,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5470
+        "ee-mamt:okood":"5470"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461070,
-    "wof:geomhash":"3dfeab8311cf53e2e210d793020385b4",
+    "wof:geomhash":"8fdee5384fc46f2b988b53c6451a906d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676705,
+    "wof:lastmodified":1695876942,
     "wof:name":"Seli-Nurme",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

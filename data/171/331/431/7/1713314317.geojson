@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vana-Otep\u00e4\u00e4 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002362,
-    "geom:area_square_m":15440779.966049,
+    "geom:area_square_m":15440779.96605,
     "geom:bbox":"26.499683,58.065385,26.595784,58.108805",
     "geom:latitude":58.085766,
     "geom:longitude":26.547368,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8999
+        "ee-mamt:okood":"8999"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360060525
     ],
     "wof:country":"EE",
     "wof:created":1595460951,
-    "wof:geomhash":"9f9f5430675a392d07459a2664da64f1",
+    "wof:geomhash":"2b9c23097ea4fa695213224cbbdda50c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661865,
+    "wof:lastmodified":1695876781,
     "wof:name":"Vana-Otep\u00e4\u00e4",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

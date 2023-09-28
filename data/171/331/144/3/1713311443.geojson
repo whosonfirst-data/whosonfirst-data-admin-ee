@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Purila K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001291,
-    "geom:area_square_m":8205941.645469,
+    "geom:area_square_m":8205941.645468,
     "geom:bbox":"24.81541,59.053269,24.897317,59.097285",
     "geom:latitude":59.076531,
     "geom:longitude":24.855715,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6443
+        "ee-mamt:okood":"6443"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125889989
     ],
     "wof:country":"EE",
     "wof:created":1595460337,
-    "wof:geomhash":"18106ff77d0faf70f600d18d6bacdb43",
+    "wof:geomhash":"c6d389f0029484be9546135d15b5ce10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676701,
+    "wof:lastmodified":1695876941,
     "wof:name":"Purila",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

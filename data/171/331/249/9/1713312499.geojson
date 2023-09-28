@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaiatu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000893,
-    "geom:area_square_m":5625786.311929,
+    "geom:area_square_m":5625786.311931,
     "geom:bbox":"25.974597,59.33897,26.041628,59.376411",
     "geom:latitude":59.360707,
     "geom:longitude":26.005548,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8860
+        "ee-mamt:okood":"8860"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125872461
     ],
     "wof:country":"EE",
     "wof:created":1595460557,
-    "wof:geomhash":"21ae7c3004f7aad2f6a5128c622f5e7a",
+    "wof:geomhash":"52d3c9588ed5b2818040b13820db9097",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661716,
+    "wof:lastmodified":1695876774,
     "wof:name":"Vaiatu",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

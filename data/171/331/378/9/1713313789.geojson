@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mustla-N\u0151mme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001138,
-    "geom:area_square_m":7231233.394985,
+    "geom:area_square_m":7231233.394989,
     "geom:bbox":"25.388988,59.062455,25.464717,59.09292",
     "geom:latitude":59.076324,
     "geom:longitude":25.422686,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5090
+        "ee-mamt:okood":"5090"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343685615
     ],
     "wof:country":"EE",
     "wof:created":1595460837,
-    "wof:geomhash":"1e6840434a3a90e33fa0af1c492b6135",
+    "wof:geomhash":"f5fdf76b50fbf18dfa0e2819c6395670",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661313,
+    "wof:lastmodified":1695876752,
     "wof:name":"Mustla-N\u0151mme",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Metsakivi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00127,
-    "geom:area_square_m":8195710.836974,
+    "geom:area_square_m":8195710.836976,
     "geom:bbox":"27.051518,58.529975,27.123335,58.558029",
     "geom:latitude":58.543995,
     "geom:longitude":27.086364,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4889
+        "ee-mamt:okood":"4889"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125956121
     ],
     "wof:country":"EE",
     "wof:created":1595459893,
-    "wof:geomhash":"647bf20d867d842d3c4af4e31c626d80",
+    "wof:geomhash":"9d1c94e476e2e0165b2fa2619138f520",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660861,
+    "wof:lastmodified":1695876739,
     "wof:name":"Metsakivi",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

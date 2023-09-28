@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piilsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003551,
-    "geom:area_square_m":22670837.317444,
+    "geom:area_square_m":22670837.317448,
     "geom:bbox":"26.872605,58.891234,26.979675,58.944327",
     "geom:latitude":58.915806,
     "geom:longitude":26.930455,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6174
+        "ee-mamt:okood":"6174"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276559587
     ],
     "wof:country":"EE",
     "wof:created":1595460488,
-    "wof:geomhash":"23be9d2eab24510152578057b0cf33cf",
+    "wof:geomhash":"26c44c3d674bd315d7a66a2669c73559",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660950,
+    "wof:lastmodified":1695876740,
     "wof:name":"Piilsi",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

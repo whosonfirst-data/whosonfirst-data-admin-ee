@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Odivere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001733,
-    "geom:area_square_m":11128507.454248,
+    "geom:area_square_m":11128507.454247,
     "geom:bbox":"26.778747,58.700277,26.848628,58.742736",
     "geom:latitude":58.719213,
     "geom:longitude":26.818024,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5598
+        "ee-mamt:okood":"5598"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310405071
     ],
     "wof:country":"EE",
     "wof:created":1595460560,
-    "wof:geomhash":"3ae80aed7e8d9b07ae1595d4c9a6efa9",
+    "wof:geomhash":"da3949aa1537edef84f8e1c83ac2a2fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660949,
+    "wof:lastmodified":1695876740,
     "wof:name":"Odivere",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

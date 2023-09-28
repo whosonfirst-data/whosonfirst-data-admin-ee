@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lota K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001404,
-    "geom:area_square_m":9211521.584673,
+    "geom:area_square_m":9211521.584674,
     "geom:bbox":"26.177071,57.933093,26.241973,57.968768",
     "geom:latitude":57.950321,
     "geom:longitude":26.211616,
@@ -68,14 +68,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4530
+        "ee-mamt:okood":"4530"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310566927
     ],
     "wof:country":"EE",
     "wof:created":1595460787,
-    "wof:geomhash":"3d121fda932165477b14ebf304a5df6f",
+    "wof:geomhash":"d38b37ff759e9dbe03a5d763bbcf4588",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,7 +93,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502248,
+    "wof:lastmodified":1695877022,
     "wof:name":"Lota",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

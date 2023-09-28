@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Loksu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00071,
-    "geom:area_square_m":4488760.474049,
+    "geom:area_square_m":4488760.474048,
     "geom:bbox":"26.011212,59.254234,26.064887,59.289101",
     "geom:latitude":59.269115,
     "geom:longitude":26.040748,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4473
+        "ee-mamt:okood":"4473"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310090983
     ],
     "wof:country":"EE",
     "wof:created":1595461051,
-    "wof:geomhash":"71ddad7656383cedadeb959d868b5c9e",
+    "wof:geomhash":"6a6f9a52dedec724a2af37a880d037c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676592,
+    "wof:lastmodified":1695876927,
     "wof:name":"Loksu",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

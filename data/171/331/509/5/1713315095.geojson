@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Keila Linn",
     "ee-mamt:tyyp":4,
     "geom:area":0.001769,
-    "geom:area_square_m":11163843.9762,
+    "geom:area_square_m":11163843.976191,
     "geom:bbox":"24.330777,59.296132,24.442213,59.326641",
     "geom:latitude":59.311821,
     "geom:longitude":24.39322,
@@ -20,7 +20,7 @@
         "Keila linn"
     ],
     "label:est_x_preferred_placetype":[
-        "linn"
+        "linna vald"
     ],
     "lbl:latitude":59.307991,
     "lbl:longitude":24.41098,
@@ -42,20 +42,21 @@
     "wof:belongsto":[
         102191581,
         85633135,
-        1713305743,
-        85683055
+        85683055,
+        1713305743
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":296
+        "ee-mamt:okood":"296"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815187,
         1713305743
     ],
     "wof:country":"EE",
     "wof:created":1595461131,
-    "wof:geomhash":"665d87f6a777feb1dc2e34a1927708db",
+    "wof:geomhash":"e503ed49290c5d7ddbf211b748791dc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +73,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1607984165,
+    "wof:lastmodified":1695877014,
     "wof:name":"Keila",
     "wof:parent_id":1713305743,
     "wof:placetype":"localadmin",

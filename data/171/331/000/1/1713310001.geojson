@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hendrikum\u0151isa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000454,
-    "geom:area_square_m":2950137.624136,
+    "geom:area_square_m":2950137.624137,
     "geom:bbox":"25.583034,58.277473,25.625032,58.295564",
     "geom:latitude":58.285354,
     "geom:longitude":25.604184,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1821
+        "ee-mamt:okood":"1821"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310266615
     ],
     "wof:country":"EE",
     "wof:created":1595460027,
-    "wof:geomhash":"4f227f49b45e230f1b2cb21f101a2e44",
+    "wof:geomhash":"2ae91da05d45b390c84adc7d45819d00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661182,
+    "wof:lastmodified":1695876743,
     "wof:name":"Hendrikum\u0151isa",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

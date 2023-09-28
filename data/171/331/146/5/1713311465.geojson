@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tolli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002203,
-    "geom:area_square_m":14100103.032247,
+    "geom:area_square_m":14100103.032249,
     "geom:bbox":"24.241381,58.80781,24.353168,58.861734",
     "geom:latitude":58.828405,
     "geom:longitude":24.311032,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8283
+        "ee-mamt:okood":"8283"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226128747
     ],
     "wof:country":"EE",
     "wof:created":1595460341,
-    "wof:geomhash":"3f8790ae13406cf57701c00c33eea1f8",
+    "wof:geomhash":"fc77533a054d9bac89f71bf0844ab7e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662812,
+    "wof:lastmodified":1695876801,
     "wof:name":"Tolli",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

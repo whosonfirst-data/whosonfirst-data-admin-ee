@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Veskisoo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001298,
-    "geom:area_square_m":8366573.202498,
+    "geom:area_square_m":8366573.202497,
     "geom:bbox":"25.111933,58.568006,25.163774,58.612323",
     "geom:latitude":58.593407,
     "geom:longitude":25.136776,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9237
+        "ee-mamt:okood":"9237"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326611231
     ],
     "wof:country":"EE",
     "wof:created":1595461158,
-    "wof:geomhash":"637f548af22fbe41c75c9083814904eb",
+    "wof:geomhash":"e7619daba541affed276e02e52432600",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663398,
+    "wof:lastmodified":1695876822,
     "wof:name":"Veskisoo",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Upa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000769,
-    "geom:area_square_m":4998506.258611,
+    "geom:area_square_m":4998506.258609,
     "geom:bbox":"22.516236,58.271812,22.55945,58.302909",
     "geom:latitude":58.288371,
     "geom:longitude":22.540273,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8708
+        "ee-mamt:okood":"8708"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260266421
     ],
     "wof:country":"EE",
     "wof:created":1595459646,
-    "wof:geomhash":"6ecd51d93400ee9808131bc796d6a8ff",
+    "wof:geomhash":"105d8b230f1d47ffbd6c79d597d80fa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671750,
+    "wof:lastmodified":1695876870,
     "wof:name":"Upa",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

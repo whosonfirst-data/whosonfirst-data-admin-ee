@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Palli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000987,
-    "geom:area_square_m":6532652.127959,
+    "geom:area_square_m":6532652.127958,
     "geom:bbox":"26.932393,57.631262,27.007802,57.65698",
     "geom:latitude":57.6438,
     "geom:longitude":26.972561,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5933
+        "ee-mamt:okood":"5933"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343620617
     ],
     "wof:country":"EE",
     "wof:created":1595461197,
-    "wof:geomhash":"b0a2e2fba212647e0e4474edeee3d66a",
+    "wof:geomhash":"321df806eb3e33a7358e2f921234ac51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676834,
+    "wof:lastmodified":1695876961,
     "wof:name":"Palli",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

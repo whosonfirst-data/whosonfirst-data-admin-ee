@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kalbu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000883,
-    "geom:area_square_m":5638630.139951,
+    "geom:area_square_m":5638630.139953,
     "geom:bbox":"24.858697,58.872074,24.903101,58.915361",
     "geom:latitude":58.89245,
     "geom:longitude":24.879227,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2567
+        "ee-mamt:okood":"2567"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125955365
     ],
     "wof:country":"EE",
     "wof:created":1595460291,
-    "wof:geomhash":"52c5263231a3171131088219e64cbc07",
+    "wof:geomhash":"dd0735554a0041611de0dbc08744a0c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676736,
+    "wof:lastmodified":1695876946,
     "wof:name":"Kalbu",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

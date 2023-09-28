@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Selik\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001759,
-    "geom:area_square_m":11176345.027513,
+    "geom:area_square_m":11176345.027512,
     "geom:bbox":"25.787041,59.059797,25.872611,59.096798",
     "geom:latitude":59.078906,
     "geom:longitude":25.835305,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7521
+        "ee-mamt:okood":"7521"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209821551
     ],
     "wof:country":"EE",
     "wof:created":1595459300,
-    "wof:geomhash":"90734c0e1998c8905e6f80396416d767",
+    "wof:geomhash":"33f799af30b1677ebdb3ef8ec411cb8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676628,
+    "wof:lastmodified":1695876933,
     "wof:name":"Selik\u00fcla",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

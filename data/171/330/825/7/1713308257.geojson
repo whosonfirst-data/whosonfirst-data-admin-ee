@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saiakopli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001999,
-    "geom:area_square_m":12647241.795934,
+    "geom:area_square_m":12647241.795933,
     "geom:bbox":"26.033213,59.193345,26.124571,59.242823",
     "geom:latitude":59.218803,
     "geom:longitude":26.072638,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7343
+        "ee-mamt:okood":"7343"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193038115
     ],
     "wof:country":"EE",
     "wof:created":1595459600,
-    "wof:geomhash":"2077cb906781f62561c73aae92a82a65",
+    "wof:geomhash":"5611fd51c6950cf945e5e676dac9c2dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676594,
+    "wof:lastmodified":1695876928,
     "wof:name":"Saiakopli",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

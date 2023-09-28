@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kootsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004796,
-    "geom:area_square_m":30895883.645206,
+    "geom:area_square_m":30895883.645199,
     "geom:bbox":"25.212318,58.572618,25.345098,58.628176",
     "geom:latitude":58.598873,
     "geom:longitude":25.277777,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3430
+        "ee-mamt:okood":"3430"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343336117
     ],
     "wof:country":"EE",
     "wof:created":1595460965,
-    "wof:geomhash":"1793c03bd500de24aea9b0d43b5eff47",
+    "wof:geomhash":"755e017bcc3d76e890b477c3f7d7a9c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663450,
+    "wof:lastmodified":1695876831,
     "wof:name":"Kootsi",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

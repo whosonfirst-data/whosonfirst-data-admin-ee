@@ -8,7 +8,7 @@
     "ee-mamt:animi":"\u00c4rina K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001458,
-    "geom:area_square_m":9245258.335473,
+    "geom:area_square_m":9245258.33547,
     "geom:bbox":"26.200135,59.12859,26.263424,59.169672",
     "geom:latitude":59.147708,
     "geom:longitude":26.230184,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9783
+        "ee-mamt:okood":"9783"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327119779
     ],
     "wof:country":"EE",
     "wof:created":1595460383,
-    "wof:geomhash":"3d843a8779225ea1918d8440dd547dc5",
+    "wof:geomhash":"4e10d25f3ced9b70915dc6a14d55cf96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676526,
+    "wof:lastmodified":1695876918,
     "wof:name":"\u00c4rina",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aindu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000908,
-    "geom:area_square_m":5879018.084787,
+    "geom:area_square_m":5879018.084786,
     "geom:bbox":"25.561609,58.389293,25.600605,58.426678",
     "geom:latitude":58.40611,
     "geom:longitude":25.579291,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1147
+        "ee-mamt:okood":"1147"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326904837
     ],
     "wof:country":"EE",
     "wof:created":1595460034,
-    "wof:geomhash":"51e363018226a85f2988c5fa44ad68e4",
+    "wof:geomhash":"9cd0ff7f8b5d9b48dff6fffd19a618d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661190,
+    "wof:lastmodified":1695876744,
     "wof:name":"Aindu",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

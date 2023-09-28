@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lilbi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000339,
-    "geom:area_square_m":2204893.855503,
+    "geom:area_square_m":2204893.855504,
     "geom:bbox":"22.547813,58.275678,22.583848,58.291736",
     "geom:latitude":58.284168,
     "geom:longitude":22.565182,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4368
+        "ee-mamt:okood":"4368"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293560123
     ],
     "wof:country":"EE",
     "wof:created":1595459176,
-    "wof:geomhash":"1e33ec9e16ba5ba5f6d767df833e8ddd",
+    "wof:geomhash":"5b93aebbd527cbaf42f1ca268dcadb0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671913,
+    "wof:lastmodified":1695876874,
     "wof:name":"Lilbi",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

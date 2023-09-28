@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Lavassaare Alev",
     "ee-mamt:tyyp":3,
     "geom:area":0.001238,
-    "geom:area_square_m":7994141.352334,
+    "geom:area_square_m":7994141.352336,
     "geom:bbox":"24.342053,58.489332,24.410055,58.521814",
     "geom:latitude":58.506716,
     "geom:longitude":24.376012,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "alev"
+        "town"
     ],
     "label:est_x_preferred_longname":[
         "Lavassaare alev"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4165
+        "ee-mamt:okood":"4165"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125941447
     ],
     "wof:country":"EE",
     "wof:created":1595461032,
-    "wof:geomhash":"0f5de2228109be86fb5445a2618beca2",
+    "wof:geomhash":"f5ba8d757f89ee2224136e61eb28ed43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677689,
+    "wof:lastmodified":1695876995,
     "wof:name":"Lavassaare",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piiri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001745,
-    "geom:area_square_m":11475552.263448,
+    "geom:area_square_m":11475552.263442,
     "geom:bbox":"26.033722,57.848432,26.092755,57.905297",
     "geom:latitude":57.880223,
     "geom:longitude":26.061921,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6186
+        "ee-mamt:okood":"6186"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125872437
     ],
     "wof:country":"EE",
     "wof:created":1595460154,
-    "wof:geomhash":"d287553fea6fb9a639052134dee58a1e",
+    "wof:geomhash":"2f91f200f924ea6e76234f2ecb6b7ff2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661422,
+    "wof:lastmodified":1695876758,
     "wof:name":"Piiri",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ostrova K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000398,
-    "geom:area_square_m":2626492.398083,
+    "geom:area_square_m":2626492.398084,
     "geom:bbox":"27.408643,57.762303,27.45114,57.781999",
     "geom:latitude":57.772525,
     "geom:longitude":27.430806,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5746
+        "ee-mamt:okood":"5746"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259447425
     ],
     "wof:country":"EE",
     "wof:created":1595461366,
-    "wof:geomhash":"16b5e78fd58a6d955d85c696199e21e1",
+    "wof:geomhash":"1ddf1fe4c87ba3c031545a9937dbc325",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663633,
+    "wof:lastmodified":1695876837,
     "wof:name":"Ostrova",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

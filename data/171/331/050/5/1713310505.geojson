@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Muhkva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000685,
-    "geom:area_square_m":4507861.057784,
+    "geom:area_square_m":4507861.057782,
     "geom:bbox":"26.248053,57.846966,26.298719,57.87221",
     "geom:latitude":57.857651,
     "geom:longitude":26.273362,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5003
+        "ee-mamt:okood":"5003"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276835335
     ],
     "wof:country":"EE",
     "wof:created":1595460135,
-    "wof:geomhash":"58d2c8801d8604786465b6175262e911",
+    "wof:geomhash":"0824cd1170a18aed4ffbcf930fa0e4df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661937,
+    "wof:lastmodified":1695876790,
     "wof:name":"Muhkva",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

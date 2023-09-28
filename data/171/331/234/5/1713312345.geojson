@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaarepere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00112,
-    "geom:area_square_m":7203062.742669,
+    "geom:area_square_m":7203062.742668,
     "geom:bbox":"26.471678,58.644458,26.551122,58.67066",
     "geom:latitude":58.657411,
     "geom:longitude":26.511245,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2403
+        "ee-mamt:okood":"2403"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125955261
     ],
     "wof:country":"EE",
     "wof:created":1595460525,
-    "wof:geomhash":"41e147ef41d489c23bacd7e61460a7a1",
+    "wof:geomhash":"303ed58e21090596ad4813b4dd168e7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676562,
+    "wof:lastmodified":1695876924,
     "wof:name":"Kaarepere",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

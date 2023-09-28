@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u00e4rlepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001571,
-    "geom:area_square_m":9965208.231176,
+    "geom:area_square_m":9965208.231174,
     "geom:bbox":"24.898983,59.11816,24.981001,59.155443",
     "geom:latitude":59.136305,
     "geom:longitude":24.934997,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2330
+        "ee-mamt:okood":"2330"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125826729
     ],
     "wof:country":"EE",
     "wof:created":1595460310,
-    "wof:geomhash":"23df78f7c6251efb57a547919182dfb1",
+    "wof:geomhash":"3fe87eb7cd953e4aade14b59bdf95630",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676714,
+    "wof:lastmodified":1695876944,
     "wof:name":"J\u00e4rlepa",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

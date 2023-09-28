@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Unik\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001602,
-    "geom:area_square_m":10415622.489024,
+    "geom:area_square_m":10415622.48902,
     "geom:bbox":"26.867965,58.25433,26.93596,58.292579",
     "geom:latitude":58.272828,
     "geom:longitude":26.902618,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8695
+        "ee-mamt:okood":"8695"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326996375
     ],
     "wof:country":"EE",
     "wof:created":1595460301,
-    "wof:geomhash":"3a01ca07dd3f88ac43935b2a9815b841",
+    "wof:geomhash":"70fad1491dceffcdf742bc290b5bda05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660643,
+    "wof:lastmodified":1695876728,
     "wof:name":"Unik\u00fcla",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

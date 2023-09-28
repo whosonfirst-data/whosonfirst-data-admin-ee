@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Leemeti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000809,
-    "geom:area_square_m":5246249.187576,
+    "geom:area_square_m":5246249.187578,
     "geom:bbox":"25.360371,58.338704,25.41866,58.366105",
     "geom:latitude":58.350512,
     "geom:longitude":25.386624,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4185
+        "ee-mamt:okood":"4185"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293554189
     ],
     "wof:country":"EE",
     "wof:created":1595459962,
-    "wof:geomhash":"68d1e03681edf0969c1380f66a136d7c",
+    "wof:geomhash":"13bfa7552611b294ed2fb1fb64bf34db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661234,
+    "wof:lastmodified":1695876748,
     "wof:name":"Leemeti",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

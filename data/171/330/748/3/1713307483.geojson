@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiirassaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000318,
-    "geom:area_square_m":2061794.02256,
+    "geom:area_square_m":2061794.022562,
     "geom:bbox":"21.986209,58.332771,22.020739,58.352158",
     "geom:latitude":58.342559,
     "geom:longitude":22.00187,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3045
+        "ee-mamt:okood":"3045"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310388833
     ],
     "wof:country":"EE",
     "wof:created":1595459413,
-    "wof:geomhash":"434dd41fae93170fc6832db28d22e497",
+    "wof:geomhash":"fc314304c7a6c0b70e249fec522680dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671624,
+    "wof:lastmodified":1695876865,
     "wof:name":"Kiirassaare",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

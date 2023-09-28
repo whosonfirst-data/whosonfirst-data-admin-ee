@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Liiguste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001514,
-    "geom:area_square_m":9515075.342392,
+    "geom:area_square_m":9515075.342396,
     "geom:bbox":"26.044569,59.441778,26.113378,59.481189",
     "geom:latitude":59.461296,
     "geom:longitude":26.08161,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4337
+        "ee-mamt:okood":"4337"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226527863
     ],
     "wof:country":"EE",
     "wof:created":1595461021,
-    "wof:geomhash":"ba6e07e52ee742493890fddbd7d2c5a2",
+    "wof:geomhash":"8a441f9173d5680c7d08c7cfe2c4690f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678033,
+    "wof:lastmodified":1695877013,
     "wof:name":"Liiguste",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tolla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001549,
-    "geom:area_square_m":9865312.184851,
+    "geom:area_square_m":9865312.184852,
     "geom:bbox":"25.057791,58.985919,25.157698,59.016733",
     "geom:latitude":59.001229,
     "geom:longitude":25.108913,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8279
+        "ee-mamt:okood":"8279"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260269399
     ],
     "wof:country":"EE",
     "wof:created":1595460283,
-    "wof:geomhash":"3e1d05c3f3e6604065562d15ee76fc14",
+    "wof:geomhash":"3f50757ea1454079bd1440524a78c336",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676698,
+    "wof:lastmodified":1695876940,
     "wof:name":"Tolla",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

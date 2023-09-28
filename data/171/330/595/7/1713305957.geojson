@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Turbuneeme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000825,
-    "geom:area_square_m":5158094.972104,
+    "geom:area_square_m":5158094.972103,
     "geom:bbox":"25.72516,59.606769,25.785718,59.632213",
     "geom:latitude":59.616827,
     "geom:longitude":25.755891,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8424
+        "ee-mamt:okood":"8424"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259600965
     ],
     "wof:country":"EE",
     "wof:created":1595459037,
-    "wof:geomhash":"fa91e72b54ffcd4b0b64129504354055",
+    "wof:geomhash":"f995519693770bed67039abf505403a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661822,
+    "wof:lastmodified":1695876779,
     "wof:name":"Turbuneeme",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

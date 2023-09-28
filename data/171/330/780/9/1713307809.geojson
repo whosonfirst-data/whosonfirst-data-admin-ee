@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aravuse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002494,
-    "geom:area_square_m":15770900.332459,
+    "geom:area_square_m":15770900.332456,
     "geom:bbox":"26.614528,59.211201,26.693549,59.270558",
     "geom:latitude":59.24277,
     "geom:longitude":26.655694,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1331
+        "ee-mamt:okood":"1331"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310324921
     ],
     "wof:country":"EE",
     "wof:created":1595459491,
-    "wof:geomhash":"a4d95db8123e320293cfa0e1dcb34f80",
+    "wof:geomhash":"e4b84605b776c0af34110c41b7d4ff00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677947,
+    "wof:lastmodified":1695877003,
     "wof:name":"Aravuse",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

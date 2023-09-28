@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rauksi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001663,
-    "geom:area_square_m":10750857.249223,
+    "geom:area_square_m":10750857.249227,
     "geom:bbox":"23.837455,58.471371,23.913482,58.513052",
     "geom:latitude":58.488849,
     "geom:longitude":23.873713,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6865
+        "ee-mamt:okood":"6865"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259461101
     ],
     "wof:country":"EE",
     "wof:created":1595459761,
-    "wof:geomhash":"1e09ae505a951010bcc385f60bccf699",
+    "wof:geomhash":"f79821457f4e69a6d787eeb0bc30c3b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661584,
+    "wof:lastmodified":1695876766,
     "wof:name":"Rauksi",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

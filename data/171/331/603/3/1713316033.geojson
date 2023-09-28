@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4iko-Tiilige K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000271,
-    "geom:area_square_m":1797202.175504,
+    "geom:area_square_m":1797202.175505,
     "geom:bbox":"27.280204,57.601496,27.312309,57.615178",
     "geom:latitude":57.608052,
     "geom:longitude":27.294958,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9640
+        "ee-mamt:okood":"9640"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226301717
     ],
     "wof:country":"EE",
     "wof:created":1595461344,
-    "wof:geomhash":"be7bc3472ed082a443c1186d4b079d8e",
+    "wof:geomhash":"1d0f3dece058deee664ea3348ddb9e28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676854,
+    "wof:lastmodified":1695876967,
     "wof:name":"V\u00e4iko-Tiilige",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

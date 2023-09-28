@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Preeksa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000488,
-    "geom:area_square_m":3229797.263585,
+    "geom:area_square_m":3229797.263586,
     "geom:bbox":"27.141338,57.633001,27.177298,57.659643",
     "geom:latitude":57.648608,
     "geom:longitude":27.157299,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6358
+        "ee-mamt:okood":"6358"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1192992397
     ],
     "wof:country":"EE",
     "wof:created":1595461291,
-    "wof:geomhash":"6d90cc5d64f69fceab106670522b08c6",
+    "wof:geomhash":"b82b6f4f7f4791bc28396ed2a7e9bbc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676848,
+    "wof:lastmodified":1695876965,
     "wof:name":"Preeksa",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

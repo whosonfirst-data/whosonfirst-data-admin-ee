@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001749,
-    "geom:area_square_m":11038506.592183,
+    "geom:area_square_m":11038506.592186,
     "geom:bbox":"26.062844,59.277643,26.132502,59.327843",
     "geom:latitude":59.300551,
     "geom:longitude":26.093142,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3074
+        "ee-mamt:okood":"3074"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125955443
     ],
     "wof:country":"EE",
     "wof:created":1595461027,
-    "wof:geomhash":"7e9cd4441df48a6d173e78c3851480f7",
+    "wof:geomhash":"aff5338a9c30242768e808ce61e5b052",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661720,
+    "wof:lastmodified":1695876774,
     "wof:name":"Kiku",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

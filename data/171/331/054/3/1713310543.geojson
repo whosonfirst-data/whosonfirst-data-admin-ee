@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Puide K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002612,
-    "geom:area_square_m":17145100.277501,
+    "geom:area_square_m":17145100.2775,
     "geom:bbox":"25.919526,57.917248,26.01097,57.959126",
     "geom:latitude":57.937676,
     "geom:longitude":25.96252,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6408
+        "ee-mamt:okood":"6408"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259448617
     ],
     "wof:country":"EE",
     "wof:created":1595460148,
-    "wof:geomhash":"f9a21b338818d2bad8225260ad4b4832",
+    "wof:geomhash":"9ce74e548f2cdec6a5f0bb6116598d9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661422,
+    "wof:lastmodified":1695876758,
     "wof:name":"Puide",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

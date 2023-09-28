@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tiilima K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000908,
-    "geom:area_square_m":5862459.450131,
+    "geom:area_square_m":5862459.450128,
     "geom:bbox":"23.88069,58.504381,23.9343,58.537987",
     "geom:latitude":58.519706,
     "geom:longitude":23.905839,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8220
+        "ee-mamt:okood":"8220"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243251627
     ],
     "wof:country":"EE",
     "wof:created":1595460818,
-    "wof:geomhash":"031053d3a29decb15ee721de981f8469",
+    "wof:geomhash":"6ac98e3e166f17da5d0007c97829aa2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661554,
+    "wof:lastmodified":1695876764,
     "wof:name":"Tiilima",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

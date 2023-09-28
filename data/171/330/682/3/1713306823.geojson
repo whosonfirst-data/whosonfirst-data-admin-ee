@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Udeva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000732,
-    "geom:area_square_m":4670430.62494,
+    "geom:area_square_m":4670430.624941,
     "geom:bbox":"26.002778,58.913595,26.036739,58.947043",
     "geom:latitude":58.929784,
     "geom:longitude":26.018689,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8616
+        "ee-mamt:okood":"8616"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1210022567
     ],
     "wof:country":"EE",
     "wof:created":1595459251,
-    "wof:geomhash":"ed00d149b561833e2c4a05550260c4b0",
+    "wof:geomhash":"e5de3033a7dba7af09b1fa88f9b482ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676619,
+    "wof:lastmodified":1695876930,
     "wof:name":"Udeva",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Andi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000404,
-    "geom:area_square_m":2532606.625427,
+    "geom:area_square_m":2532606.625429,
     "geom:bbox":"26.256421,59.549443,26.29563,59.566318",
     "geom:latitude":59.55726,
     "geom:longitude":26.274118,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1255
+        "ee-mamt:okood":"1255"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360170311
     ],
     "wof:country":"EE",
     "wof:created":1595459613,
-    "wof:geomhash":"b8ea2efaeeb68a04f5d5705548ba6b26",
+    "wof:geomhash":"a57f2ddaac2df5639b61d00533762026",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678018,
+    "wof:lastmodified":1695877010,
     "wof:name":"Andi",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

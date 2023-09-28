@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soldina K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00233,
-    "geom:area_square_m":14679202.108359,
+    "geom:area_square_m":14679202.108363,
     "geom:bbox":"28.01588,59.352377,28.148396,59.391063",
     "geom:latitude":59.374192,
     "geom:longitude":28.080678,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7674
+        "ee-mamt:okood":"7674"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125858389
     ],
     "wof:country":"EE",
     "wof:created":1595460902,
-    "wof:geomhash":"ff88252cabe2c3bf52587a9bda5c0637",
+    "wof:geomhash":"96eb8362f34cd878c096a8b4eb5c53c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677761,
+    "wof:lastmodified":1695876999,
     "wof:name":"Soldina",
     "wof:parent_id":1713305779,
     "wof:placetype":"localadmin",

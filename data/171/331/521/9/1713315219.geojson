@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Reastvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.008981,
-    "geom:area_square_m":57361367.316257,
+    "geom:area_square_m":57361367.316264,
     "geom:bbox":"26.415803,58.855953,26.588623,58.948294",
     "geom:latitude":58.900075,
     "geom:longitude":26.509173,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6879
+        "ee-mamt:okood":"6879"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276476693
     ],
     "wof:country":"EE",
     "wof:created":1595461156,
-    "wof:geomhash":"64d25a02d47d31028ba331dbf1622bb4",
+    "wof:geomhash":"c14b663b1111eb62a15d2c1b591592ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676568,
+    "wof:lastmodified":1695876926,
     "wof:name":"Reastvere",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

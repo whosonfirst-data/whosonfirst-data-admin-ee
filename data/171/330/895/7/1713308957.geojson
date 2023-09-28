@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Seira K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000977,
-    "geom:area_square_m":6274240.930228,
+    "geom:area_square_m":6274240.930226,
     "geom:bbox":"23.967987,58.697245,24.021465,58.730177",
     "geom:latitude":58.712752,
     "geom:longitude":23.995826,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7511
+        "ee-mamt:okood":"7511"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260076915
     ],
     "wof:country":"EE",
     "wof:created":1595459772,
-    "wof:geomhash":"005d8cac196047603cc0c515e0e86f5f",
+    "wof:geomhash":"2dfbb04564a6341dbb181b371961c7c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661627,
+    "wof:lastmodified":1695876770,
     "wof:name":"Seira",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

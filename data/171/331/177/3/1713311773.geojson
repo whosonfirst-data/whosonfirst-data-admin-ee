@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Edivere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000685,
-    "geom:area_square_m":4332001.8205,
+    "geom:area_square_m":4332001.820501,
     "geom:bbox":"27.500834,59.218889,27.529269,59.25778",
     "geom:latitude":59.239776,
     "geom:longitude":27.516935,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1526
+        "ee-mamt:okood":"1526"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343366529
     ],
     "wof:country":"EE",
     "wof:created":1595460415,
-    "wof:geomhash":"306157f27c0ea38d7c71f4c1ada06a94",
+    "wof:geomhash":"a5b7ebf8cbce009580feed8b152fe2c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660685,
+    "wof:lastmodified":1695876731,
     "wof:name":"Edivere",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

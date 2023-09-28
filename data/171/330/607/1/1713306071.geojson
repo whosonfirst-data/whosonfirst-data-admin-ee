@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Randvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000518,
-    "geom:area_square_m":3251691.92847,
+    "geom:area_square_m":3251691.928469,
     "geom:bbox":"24.888187,59.490375,24.925274,59.524832",
     "geom:latitude":59.506476,
     "geom:longitude":24.906086,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6797
+        "ee-mamt:okood":"6797"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101753889
     ],
     "wof:country":"EE",
     "wof:created":1595459068,
-    "wof:geomhash":"2f165858c9cb7013f586529158c6be53",
+    "wof:geomhash":"8dad62ba74c5f84ac550b878557aac2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675376,
+    "wof:lastmodified":1695876908,
     "wof:name":"Randvere",
     "wof:parent_id":1713305625,
     "wof:placetype":"localadmin",

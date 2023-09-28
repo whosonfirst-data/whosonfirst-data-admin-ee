@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Perek\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00198,
-    "geom:area_square_m":12755179.002556,
+    "geom:area_square_m":12755179.002559,
     "geom:bbox":"24.291462,58.580672,24.385391,58.615104",
     "geom:latitude":58.59541,
     "geom:longitude":24.341121,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6113
+        "ee-mamt:okood":"6113"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343339873
     ],
     "wof:country":"EE",
     "wof:created":1595460977,
-    "wof:geomhash":"89199b03d81922fedcdb43c2d5c025ec",
+    "wof:geomhash":"ca5283daa7250ca9a9df8a2a33b5e7e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663412,
+    "wof:lastmodified":1695876826,
     "wof:name":"Perek\u00fcla",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

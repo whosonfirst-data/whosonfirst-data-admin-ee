@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kustja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00385,
-    "geom:area_square_m":24442682.593126,
+    "geom:area_square_m":24442682.593117,
     "geom:bbox":"24.395922,59.091379,24.57139,59.131759",
     "geom:latitude":59.109549,
     "geom:longitude":24.500406,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3705
+        "ee-mamt:okood":"3705"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193030211
     ],
     "wof:country":"EE",
     "wof:created":1595459531,
-    "wof:geomhash":"680b465938eb7746bc2517a36ff90f2f",
+    "wof:geomhash":"fa37397507f0909840fea231780ad208",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663238,
+    "wof:lastmodified":1695876813,
     "wof:name":"Kustja",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

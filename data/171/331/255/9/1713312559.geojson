@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Reola K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00187,
-    "geom:area_square_m":12152993.400824,
+    "geom:area_square_m":12152993.400816,
     "geom:bbox":"26.666713,58.281972,26.758391,58.329965",
     "geom:latitude":58.30167,
     "geom:longitude":26.710802,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6932
+        "ee-mamt:okood":"6932"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935909
     ],
     "wof:country":"EE",
     "wof:created":1595460569,
-    "wof:geomhash":"4e4c86c349b2a7cf677d6543e39015f1",
+    "wof:geomhash":"201204b57d0d92e30aa9897cd43e8d33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676685,
+    "wof:lastmodified":1695876939,
     "wof:name":"Reola",
     "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",

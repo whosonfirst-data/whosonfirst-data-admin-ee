@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Haabsaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001013,
-    "geom:area_square_m":6678346.845706,
+    "geom:area_square_m":6678346.845708,
     "geom:bbox":"26.483324,57.749619,26.533301,57.786198",
     "geom:latitude":57.768636,
     "geom:longitude":26.50829,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1678
+        "ee-mamt:okood":"1678"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309980113
     ],
     "wof:country":"EE",
     "wof:created":1595460962,
-    "wof:geomhash":"8c6406b65c3cec25faf78a154da67af4",
+    "wof:geomhash":"1598e1f7c4e4d8f24636f43bcecc0644",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677012,
+    "wof:lastmodified":1695876981,
     "wof:name":"Haabsaare",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

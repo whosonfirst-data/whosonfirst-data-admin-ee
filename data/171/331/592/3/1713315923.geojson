@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u0151ru Linn",
     "ee-mamt:tyyp":4,
     "geom:area":0.002118,
-    "geom:area_square_m":13943177.916499,
+    "geom:area_square_m":13943177.916491,
     "geom:bbox":"26.962021,57.806598,27.052229,57.864566",
     "geom:latitude":57.838432,
     "geom:longitude":27.004593,
@@ -20,7 +20,7 @@
         "V\u0151ru linn"
     ],
     "label:est_x_preferred_placetype":[
-        "linn"
+        "linna vald"
     ],
     "lbl:latitude":57.833399,
     "lbl:longitude":27.018913,
@@ -42,20 +42,21 @@
     "wof:belongsto":[
         102191581,
         85633135,
-        1713305785,
-        85682937
+        85682937,
+        1713305785
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":919
+        "ee-mamt:okood":"919"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101816257,
         1713305785
     ],
     "wof:country":"EE",
     "wof:created":1595461322,
-    "wof:geomhash":"08293646daaf31726dd8eb1923a32a77",
+    "wof:geomhash":"4a971c39cac8a1af7e2c1ace592e5459",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +73,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1607983998,
+    "wof:lastmodified":1695877014,
     "wof:name":"V\u0151ru",
     "wof:parent_id":1713305785,
     "wof:placetype":"localadmin",

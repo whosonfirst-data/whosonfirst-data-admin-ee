@@ -14,7 +14,7 @@
     "geom:longitude":25.88734,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "alev"
+        "town"
     ],
     "label:est_x_preferred_longname":[
         "J\u00e4rva-Jaani alev"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2341
+        "ee-mamt:okood":"2341"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815131
     ],
     "wof:country":"EE",
     "wof:created":1595459344,
-    "wof:geomhash":"5c1e195b5472e6ebf665f26097fc79f7",
+    "wof:geomhash":"1e44a619da1db58900a44503fcb9bbcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676616,
+    "wof:lastmodified":1695876929,
     "wof:name":"J\u00e4rva-Jaani",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lipniku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000943,
-    "geom:area_square_m":5985066.51316,
+    "geom:area_square_m":5985066.513161,
     "geom:bbox":"27.31571,59.094774,27.372247,59.121047",
     "geom:latitude":59.107374,
     "geom:longitude":27.33892,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4418
+        "ee-mamt:okood":"4418"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225945957
     ],
     "wof:country":"EE",
     "wof:created":1595460416,
-    "wof:geomhash":"9c3540b1213ac2e7958f163a16335995",
+    "wof:geomhash":"68c9cedcc0425fcdb9a893c802b7c059",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660716,
+    "wof:lastmodified":1695876734,
     "wof:name":"Lipniku",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Keeni K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00173,
-    "geom:area_square_m":11346874.020289,
+    "geom:area_square_m":11346874.020293,
     "geom:bbox":"26.235783,57.934175,26.327594,57.973094",
     "geom:latitude":57.955593,
     "geom:longitude":26.280361,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2914
+        "ee-mamt:okood":"2914"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125941431
     ],
     "wof:country":"EE",
     "wof:created":1595459986,
-    "wof:geomhash":"2cf5da91c022c5dee6c7b45f73a624f3",
+    "wof:geomhash":"496fd5e7d2ff1017f5a057f385e21634",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661870,
+    "wof:lastmodified":1695876782,
     "wof:name":"Keeni",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

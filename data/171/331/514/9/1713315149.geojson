@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Urevere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003404,
-    "geom:area_square_m":21772938.011859,
+    "geom:area_square_m":21772938.011858,
     "geom:bbox":"24.220843,58.81782,24.326957,58.878178",
     "geom:latitude":58.846247,
     "geom:longitude":24.277409,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8717
+        "ee-mamt:okood":"8717"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259459241
     ],
     "wof:country":"EE",
     "wof:created":1595461142,
-    "wof:geomhash":"14ed5b5bd88d281733173688d50dfe9c",
+    "wof:geomhash":"4135027c2f065c437d2da4a1c1f1ce99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662818,
+    "wof:lastmodified":1695876803,
     "wof:name":"Urevere",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Riidaku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001091,
-    "geom:area_square_m":6958635.387616,
+    "geom:area_square_m":6958635.387614,
     "geom:bbox":"24.535734,58.920722,24.582038,58.959914",
     "geom:latitude":58.940141,
     "geom:longitude":24.560306,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6979
+        "ee-mamt:okood":"6979"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243339921
     ],
     "wof:country":"EE",
     "wof:created":1595460958,
-    "wof:geomhash":"3cd1a519890a58ac3f72f7769b636934",
+    "wof:geomhash":"0d28325d00fa6092f96cb3e35e5582b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662824,
+    "wof:lastmodified":1695876804,
     "wof:name":"Riidaku",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

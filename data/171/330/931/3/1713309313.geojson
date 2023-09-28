@@ -8,13 +8,13 @@
     "ee-mamt:animi":"V\u00e4ndra Alev",
     "ee-mamt:tyyp":3,
     "geom:area":0.000504,
-    "geom:area_square_m":3244334.208113,
+    "geom:area_square_m":3244334.208112,
     "geom:bbox":"25.022381,58.643454,25.053166,58.667355",
     "geom:latitude":58.654423,
     "geom:longitude":25.03648,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "alev"
+        "town"
     ],
     "label:est_x_preferred_longname":[
         "V\u00e4ndra alev"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9663
+        "ee-mamt:okood":"9663"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815079
     ],
     "wof:country":"EE",
     "wof:created":1595459857,
-    "wof:geomhash":"1013393735acfac66e5cec17e6ee059c",
+    "wof:geomhash":"26b23bb447b5820ef491733a82e318e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663409,
+    "wof:lastmodified":1695876825,
     "wof:name":"V\u00e4ndra",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

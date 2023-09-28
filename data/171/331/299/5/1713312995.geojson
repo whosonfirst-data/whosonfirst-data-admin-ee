@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paasvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.009264,
-    "geom:area_square_m":58876634.717939,
+    "geom:area_square_m":58876634.717931,
     "geom:bbox":"26.586226,59.038614,26.814028,59.099361",
     "geom:latitude":59.069526,
     "geom:longitude":26.713221,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5794
+        "ee-mamt:okood":"5794"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125809175
     ],
     "wof:country":"EE",
     "wof:created":1595460669,
-    "wof:geomhash":"05f0dca52299ebc114952712cf865d4b",
+    "wof:geomhash":"98139f9258e173b21b3535833382b8ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677951,
+    "wof:lastmodified":1695877004,
     "wof:name":"Paasvere",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

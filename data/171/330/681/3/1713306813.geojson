@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Visusti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001329,
-    "geom:area_square_m":8469763.720869,
+    "geom:area_square_m":8469763.720872,
     "geom:bbox":"25.947483,58.966862,26.010409,59.00439",
     "geom:latitude":58.987502,
     "geom:longitude":25.981924,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9430
+        "ee-mamt:okood":"9430"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209639421
     ],
     "wof:country":"EE",
     "wof:created":1595459248,
-    "wof:geomhash":"bb70debc5c998646605f5a51684da5f7",
+    "wof:geomhash":"397f8f1a3cdd67ac22266ff954dc3fc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676618,
+    "wof:lastmodified":1695876930,
     "wof:name":"Visusti",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

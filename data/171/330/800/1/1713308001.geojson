@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Oru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0008,
-    "geom:area_square_m":5028599.238524,
+    "geom:area_square_m":5028599.238525,
     "geom:bbox":"26.786014,59.439758,26.84554,59.464236",
     "geom:latitude":59.450594,
     "geom:longitude":26.808534,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5739
+        "ee-mamt:okood":"5739"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327233455
     ],
     "wof:country":"EE",
     "wof:created":1595459536,
-    "wof:geomhash":"cd8e6e80e9cc4a808de572d53a963153",
+    "wof:geomhash":"1a9cfbd6640c84f09e63bd514940592b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677921,
+    "wof:lastmodified":1695877001,
     "wof:name":"Oru",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

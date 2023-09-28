@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sirtsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004005,
-    "geom:area_square_m":25296602.62168,
+    "geom:area_square_m":25296602.621674,
     "geom:bbox":"26.806792,59.261013,26.978028,59.301263",
     "geom:latitude":59.281263,
     "geom:longitude":26.905082,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7640
+        "ee-mamt:okood":"7640"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242982419
     ],
     "wof:country":"EE",
     "wof:created":1595460763,
-    "wof:geomhash":"4a029f44ac62997cda75c97391db40fe",
+    "wof:geomhash":"c59f3fa8e4a5d520c704d2ecbaab039e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660777,
+    "wof:lastmodified":1695876735,
     "wof:name":"Sirtsi",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

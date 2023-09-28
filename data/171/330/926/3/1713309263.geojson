@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Arumetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002476,
-    "geom:area_square_m":16191980.703205,
+    "geom:area_square_m":16191980.703206,
     "geom:bbox":"24.480778,58.05204,24.597539,58.084504",
     "geom:latitude":58.067174,
     "geom:longitude":24.5439,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1378
+        "ee-mamt:okood":"1378"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125889865
     ],
     "wof:country":"EE",
     "wof:created":1595459845,
-    "wof:geomhash":"96c1915b2ef2fbc1734111977b1222d7",
+    "wof:geomhash":"619e132692101b9aec40d781b3cda2e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663031,
+    "wof:lastmodified":1695876807,
     "wof:name":"Arumetsa",
     "wof:parent_id":1713305741,
     "wof:placetype":"localadmin",

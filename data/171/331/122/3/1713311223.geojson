@@ -14,7 +14,7 @@
     "geom:longitude":24.812001,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Hagudi alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1716
+        "ee-mamt:okood":"1716"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126003591
     ],
     "wof:country":"EE",
     "wof:created":1595460290,
-    "wof:geomhash":"f7f5ddfc1b2139efdd06e8e6e9248375",
+    "wof:geomhash":"b07d1d36c8528f3b131725060d6cca20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676706,
+    "wof:lastmodified":1695876942,
     "wof:name":"Hagudi",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

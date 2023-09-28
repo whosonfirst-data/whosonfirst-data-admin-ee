@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Assaku Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000301,
-    "geom:area_square_m":1895735.270423,
+    "geom:area_square_m":1895735.270422,
     "geom:bbox":"24.82317,59.366053,24.861956,59.381203",
     "geom:latitude":59.372488,
     "geom:longitude":24.842153,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Assaku alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1408
+        "ee-mamt:okood":"1408"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125889877
     ],
     "wof:country":"EE",
     "wof:created":1595459014,
-    "wof:geomhash":"f9d4dec2b0584a676dd27e2408764ee6",
+    "wof:geomhash":"f148862ee0fc0cb0e8bb45a76daed08e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661468,
+    "wof:lastmodified":1695876761,
     "wof:name":"Assaku",
     "wof:parent_id":1713305683,
     "wof:placetype":"localadmin",

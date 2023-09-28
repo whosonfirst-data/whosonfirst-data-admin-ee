@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kalju K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001276,
-    "geom:area_square_m":8148636.49454,
+    "geom:area_square_m":8148636.494541,
     "geom:bbox":"24.02946,58.89024,24.086599,58.923026",
     "geom:latitude":58.906633,
     "geom:longitude":24.054472,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2593
+        "ee-mamt:okood":"2593"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310026891
     ],
     "wof:country":"EE",
     "wof:created":1595459748,
-    "wof:geomhash":"45ec616b23ddcf20f08479c10fe48f71",
+    "wof:geomhash":"65d440e35778fb785dfaa9df9f4af521",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677185,
+    "wof:lastmodified":1695876987,
     "wof:name":"Kalju",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

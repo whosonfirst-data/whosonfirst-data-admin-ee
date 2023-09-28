@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Joandu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000623,
-    "geom:area_square_m":3908270.440338,
+    "geom:area_square_m":3908270.440339,
     "geom:bbox":"25.798917,59.51144,25.863372,59.531782",
     "geom:latitude":59.52249,
     "geom:longitude":25.831988,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2191
+        "ee-mamt:okood":"2191"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309731923
     ],
     "wof:country":"EE",
     "wof:created":1595460838,
-    "wof:geomhash":"f417833ae0a7f5f5941aa9120fa47e90",
+    "wof:geomhash":"c1b30a1e2499337e3c38450479a06a2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678014,
+    "wof:lastmodified":1695877009,
     "wof:name":"Joandu",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u0151riska K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001978,
-    "geom:area_square_m":12790921.255943,
+    "geom:area_square_m":12790921.255941,
     "geom:bbox":"22.871179,58.438101,22.941767,58.484571",
     "geom:latitude":58.462593,
     "geom:longitude":22.909268,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3800
+        "ee-mamt:okood":"3800"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225819239
     ],
     "wof:country":"EE",
     "wof:created":1595459371,
-    "wof:geomhash":"4d76ef9eaab0fcdf4cedae28e60fbd7f",
+    "wof:geomhash":"3f99a73beb51bbc770f1742707c80600",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672287,
+    "wof:lastmodified":1695876888,
     "wof:name":"K\u0151riska",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

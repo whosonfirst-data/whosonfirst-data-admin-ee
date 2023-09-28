@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Partsaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000652,
-    "geom:area_square_m":4107446.963571,
+    "geom:area_square_m":4107446.963572,
     "geom:bbox":"25.27147,59.384086,25.332414,59.408607",
     "geom:latitude":59.395656,
     "geom:longitude":25.301481,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6022
+        "ee-mamt:okood":"6022"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327337597
     ],
     "wof:country":"EE",
     "wof:created":1595459336,
-    "wof:geomhash":"3eb2030d9a09565a4faa7059a3b055b2",
+    "wof:geomhash":"6dfc9d73b6922a93fc0b62aa6860596e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662793,
+    "wof:lastmodified":1695876799,
     "wof:name":"Partsaare",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

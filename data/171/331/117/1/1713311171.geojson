@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vana-Vigala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002462,
-    "geom:area_square_m":15774140.580475,
+    "geom:area_square_m":15774140.580473,
     "geom:bbox":"24.198984,58.76099,24.286002,58.815643",
     "geom:latitude":58.791782,
     "geom:longitude":24.24819,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9007
+        "ee-mamt:okood":"9007"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125957475
     ],
     "wof:country":"EE",
     "wof:created":1595460279,
-    "wof:geomhash":"3938fabd209467b4f951681d369b1ad4",
+    "wof:geomhash":"0d82e9d17f2051a357523cbbc226361d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662818,
+    "wof:lastmodified":1695876802,
     "wof:name":"Vana-Vigala",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

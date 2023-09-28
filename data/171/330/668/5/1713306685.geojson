@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Linnaka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000687,
-    "geom:area_square_m":4437738.316157,
+    "geom:area_square_m":4437738.316155,
     "geom:bbox":"22.706542,58.493849,22.746414,58.527848",
     "geom:latitude":58.513031,
     "geom:longitude":22.725377,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4395
+        "ee-mamt:okood":"4395"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125821947
     ],
     "wof:country":"EE",
     "wof:created":1595459213,
-    "wof:geomhash":"dcad0e98ac02b625769419b8adcd7376",
+    "wof:geomhash":"7318ad92301402d02ba3904274645780",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671966,
+    "wof:lastmodified":1695876875,
     "wof:name":"Linnaka",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

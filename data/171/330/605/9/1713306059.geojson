@@ -8,7 +8,7 @@
     "ee-mamt:animi":"S\u0151itme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001272,
-    "geom:area_square_m":7991123.410462,
+    "geom:area_square_m":7991123.410463,
     "geom:bbox":"25.434639,59.458641,25.496268,59.494131",
     "geom:latitude":59.476521,
     "geom:longitude":25.469166,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7882
+        "ee-mamt:okood":"7882"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259597427
     ],
     "wof:country":"EE",
     "wof:created":1595459065,
-    "wof:geomhash":"65ff1efe83a8c2fb978e5d62abc1af57",
+    "wof:geomhash":"61c8d580792c0452469289843e95dd6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661827,
+    "wof:lastmodified":1695876779,
     "wof:name":"S\u0151itme",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

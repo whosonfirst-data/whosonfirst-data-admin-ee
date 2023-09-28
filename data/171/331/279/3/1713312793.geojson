@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Keeri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001676,
-    "geom:area_square_m":10882264.743049,
+    "geom:area_square_m":10882264.743044,
     "geom:bbox":"26.443234,58.303559,26.5256,58.337362",
     "geom:latitude":58.319265,
     "geom:longitude":26.487798,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2916
+        "ee-mamt:okood":"2916"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226205589
     ],
     "wof:country":"EE",
     "wof:created":1595460623,
-    "wof:geomhash":"f2e55145109cb567b7378aa3ae17b68c",
+    "wof:geomhash":"633c9c7ce5adc3ccdc1d47294ee49662",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676754,
+    "wof:lastmodified":1695876948,
     "wof:name":"Keeri",
     "wof:parent_id":1713305715,
     "wof:placetype":"localadmin",

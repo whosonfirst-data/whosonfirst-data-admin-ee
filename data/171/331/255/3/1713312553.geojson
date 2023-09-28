@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Taritu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000441,
-    "geom:area_square_m":2871811.99949,
+    "geom:area_square_m":2871811.999489,
     "geom:bbox":"22.075647,58.198934,22.123904,58.215105",
     "geom:latitude":58.207178,
     "geom:longitude":22.100936,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8158
+        "ee-mamt:okood":"8158"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259654707
     ],
     "wof:country":"EE",
     "wof:created":1595460568,
-    "wof:geomhash":"46f43cb73700dc2795c0279bc4aaf9df",
+    "wof:geomhash":"37a2f77d98c702c99a48d52c7d92e1b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671573,
+    "wof:lastmodified":1695876863,
     "wof:name":"Taritu",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

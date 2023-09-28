@@ -8,7 +8,7 @@
     "ee-mamt:animi":"N\u00fcpli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002132,
-    "geom:area_square_m":13957090.642336,
+    "geom:area_square_m":13957090.64234,
     "geom:bbox":"26.459195,58.001197,26.52287,58.055701",
     "geom:latitude":58.026513,
     "geom:longitude":26.494097,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5567
+        "ee-mamt:okood":"5567"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126023001
     ],
     "wof:country":"EE",
     "wof:created":1595460596,
-    "wof:geomhash":"ad6c90b5bf1ab76e0445f5c4ad49939c",
+    "wof:geomhash":"8ef3469e382bf20aa2940eb8eb4786c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661857,
+    "wof:lastmodified":1695876780,
     "wof:name":"N\u00fcpli",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

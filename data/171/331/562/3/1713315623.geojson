@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pruntova K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000267,
-    "geom:area_square_m":1768411.170999,
+    "geom:area_square_m":1768411.171,
     "geom:bbox":"27.351494,57.612703,27.371637,57.639358",
     "geom:latitude":57.626905,
     "geom:longitude":27.362049,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6375
+        "ee-mamt:okood":"6375"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461260,
-    "wof:geomhash":"706c43b21c0c4b6eef7d1a7ea893f935",
+    "wof:geomhash":"2035f7a02c1f3d62707eebf40f21424e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663649,
+    "wof:lastmodified":1695876840,
     "wof:name":"Pruntova",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

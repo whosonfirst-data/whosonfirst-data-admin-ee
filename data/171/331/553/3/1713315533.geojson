@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Verij\u00e4rve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000984,
-    "geom:area_square_m":6483567.335941,
+    "geom:area_square_m":6483567.335943,
     "geom:bbox":"27.034058,57.789283,27.097406,57.825041",
     "geom:latitude":57.806815,
     "geom:longitude":27.0614,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9218
+        "ee-mamt:okood":"9218"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125957535
     ],
     "wof:country":"EE",
     "wof:created":1595461241,
-    "wof:geomhash":"0dc658928051b3c3bb8f95c0329c4a0a",
+    "wof:geomhash":"866ea347581211b93d27d3bce06243d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660242,
+    "wof:lastmodified":1695876723,
     "wof:name":"Verij\u00e4rve",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

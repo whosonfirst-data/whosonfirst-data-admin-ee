@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sadram\u0151tsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002051,
-    "geom:area_square_m":13563150.991227,
+    "geom:area_square_m":13563150.991231,
     "geom:bbox":"26.744122,57.643163,26.814303,57.710156",
     "geom:latitude":57.671481,
     "geom:longitude":26.782233,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7321
+        "ee-mamt:okood":"7321"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327392897
     ],
     "wof:country":"EE",
     "wof:created":1595461046,
-    "wof:geomhash":"6d07952ed31ce65b76dfe91132062b95",
+    "wof:geomhash":"05b7de45e73006e3fa5cb1b2169d70f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676828,
+    "wof:lastmodified":1695876959,
     "wof:name":"Sadram\u0151tsa",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

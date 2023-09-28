@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kungla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001053,
-    "geom:area_square_m":6831488.491661,
+    "geom:area_square_m":6831488.491664,
     "geom:bbox":"22.902838,58.345622,22.970975,58.375172",
     "geom:latitude":58.359694,
     "geom:longitude":22.937498,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3614
+        "ee-mamt:okood":"3614"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243525607
     ],
     "wof:country":"EE",
     "wof:created":1595459428,
-    "wof:geomhash":"692f4d736761f2251412bd70b3c4c708",
+    "wof:geomhash":"17c02d373fac8cdef19cba3197a0c691",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672492,
+    "wof:lastmodified":1695876895,
     "wof:name":"Kungla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

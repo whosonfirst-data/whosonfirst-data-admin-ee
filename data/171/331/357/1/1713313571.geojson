@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaidasoo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003103,
-    "geom:area_square_m":19599526.696997,
+    "geom:area_square_m":19599526.696996,
     "geom:bbox":"24.949775,59.253481,25.051451,59.301879",
     "geom:latitude":59.279404,
     "geom:longitude":25.002226,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8869
+        "ee-mamt:okood":"8869"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890057
     ],
     "wof:country":"EE",
     "wof:created":1595460790,
-    "wof:geomhash":"63ad21f4db3ef3bcc56c4498671c8986",
+    "wof:geomhash":"916473da288baebd6283557a0ce90d9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661472,
+    "wof:lastmodified":1695876762,
     "wof:name":"Vaidasoo",
     "wof:parent_id":1713305683,
     "wof:placetype":"localadmin",

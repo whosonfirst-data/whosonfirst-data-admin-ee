@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kirna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000678,
-    "geom:area_square_m":4329064.017871,
+    "geom:area_square_m":4329064.017869,
     "geom:bbox":"23.857841,58.877737,23.910557,58.90684",
     "geom:latitude":58.890657,
     "geom:longitude":23.879834,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3147
+        "ee-mamt:okood":"3147"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276869029
     ],
     "wof:country":"EE",
     "wof:created":1595459762,
-    "wof:geomhash":"17dcc7d751be165a96cbb0b689ab4387",
+    "wof:geomhash":"61b6365e1a6db8fe5755d328fe630c34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677201,
+    "wof:lastmodified":1695876989,
     "wof:name":"Kirna",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

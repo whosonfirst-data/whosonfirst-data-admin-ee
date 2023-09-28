@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koolma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000318,
-    "geom:area_square_m":2090399.176744,
+    "geom:area_square_m":2090399.176746,
     "geom:bbox":"27.143718,57.92384,27.175167,57.947378",
     "geom:latitude":57.935411,
     "geom:longitude":27.161517,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3405
+        "ee-mamt:okood":"3405"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326717505
     ],
     "wof:country":"EE",
     "wof:created":1595461303,
-    "wof:geomhash":"28889ca569f2c9db61b14e5b4d067f0a",
+    "wof:geomhash":"4af4fe63eb39db1457f488a7d2b82306",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676988,
+    "wof:lastmodified":1695876979,
     "wof:name":"Koolma",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

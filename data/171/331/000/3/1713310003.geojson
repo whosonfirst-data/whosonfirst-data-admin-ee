@@ -14,7 +14,7 @@
     "geom:longitude":23.988682,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "T\u0151stamaa alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8540
+        "ee-mamt:okood":"8540"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126017753
     ],
     "wof:country":"EE",
     "wof:created":1595460028,
-    "wof:geomhash":"6bef1b7f931ec455a80fa9c5681b4871",
+    "wof:geomhash":"bee808b1008c2668323bada221f2ee7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677665,
+    "wof:lastmodified":1695876991,
     "wof:name":"T\u0151stamaa",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

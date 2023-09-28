@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nihatu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001892,
-    "geom:area_square_m":12208588.222196,
+    "geom:area_square_m":12208588.222194,
     "geom:bbox":"22.75904,58.516387,22.839862,58.556407",
     "geom:latitude":58.536314,
     "geom:longitude":22.799838,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5414
+        "ee-mamt:okood":"5414"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293263287
     ],
     "wof:country":"EE",
     "wof:created":1595459316,
-    "wof:geomhash":"7172af46117dadd58f7ede3c8eea05ca",
+    "wof:geomhash":"b05ffa1b99b302d39d4a1bec977678ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672140,
+    "wof:lastmodified":1695876882,
     "wof:name":"Nihatu",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

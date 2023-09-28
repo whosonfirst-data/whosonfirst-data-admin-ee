@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lep\u00e4 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00027,
-    "geom:area_square_m":1777892.181626,
+    "geom:area_square_m":1777892.181625,
     "geom:bbox":"27.447741,57.754543,27.477533,57.773494",
     "geom:latitude":57.764317,
     "geom:longitude":27.461569,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4297
+        "ee-mamt:okood":"4297"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461367,
-    "wof:geomhash":"3990c0becc705e759e6dea5ac8be5ffd",
+    "wof:geomhash":"687ef4f061d681c6dd98905bf4aa8adf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663660,
+    "wof:lastmodified":1695876843,
     "wof:name":"Lep\u00e4",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

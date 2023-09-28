@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Arandi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000619,
-    "geom:area_square_m":4021449.201086,
+    "geom:area_square_m":4021449.201087,
     "geom:bbox":"22.22175,58.287008,22.272664,58.309629",
     "geom:latitude":58.297142,
     "geom:longitude":22.249843,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1313
+        "ee-mamt:okood":"1313"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459385,
-    "wof:geomhash":"122ffa02b53a61650608535db38e4ea0",
+    "wof:geomhash":"0251e59e25e348bd0d253920207405a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671605,
+    "wof:lastmodified":1695876864,
     "wof:name":"Arandi",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

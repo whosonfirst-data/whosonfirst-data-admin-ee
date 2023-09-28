@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Otste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000472,
-    "geom:area_square_m":3011719.561961,
+    "geom:area_square_m":3011719.561962,
     "geom:bbox":"22.49339,58.960175,22.5502,58.976657",
     "geom:latitude":58.968693,
     "geom:longitude":22.520418,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5767
+        "ee-mamt:okood":"5767"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343270753
     ],
     "wof:country":"EE",
     "wof:created":1595460134,
-    "wof:geomhash":"0ea587f6aa2f73e746521cb66cf728d6",
+    "wof:geomhash":"dae7b473473aac4ed187180fccf7bfff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666368,
+    "wof:lastmodified":1695876853,
     "wof:name":"Otste",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

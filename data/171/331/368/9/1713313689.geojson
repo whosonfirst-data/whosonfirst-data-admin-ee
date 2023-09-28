@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valgma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001119,
-    "geom:area_square_m":7219924.032619,
+    "geom:area_square_m":7219924.032623,
     "geom:bbox":"26.592489,58.533045,26.66746,58.570539",
     "geom:latitude":58.555304,
     "geom:longitude":26.632055,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8934
+        "ee-mamt:okood":"8934"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125805109
     ],
     "wof:country":"EE",
     "wof:created":1595460815,
-    "wof:geomhash":"cb55030ae3203f0eb958582a328725e8",
+    "wof:geomhash":"7c86c447f08e04465f8bfca2aeee9430",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676451,
+    "wof:lastmodified":1695876909,
     "wof:name":"Valgma",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

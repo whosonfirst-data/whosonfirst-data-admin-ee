@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karaski K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000719,
-    "geom:area_square_m":4705167.35509,
+    "geom:area_square_m":4705167.355089,
     "geom:bbox":"26.833348,58.028686,26.895946,58.055706",
     "geom:latitude":58.042081,
     "geom:longitude":26.867442,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2707
+        "ee-mamt:okood":"2707"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259370047
     ],
     "wof:country":"EE",
     "wof:created":1595459977,
-    "wof:geomhash":"40d7ebd7ec100722e9f393e770c257ea",
+    "wof:geomhash":"cfcbfde4940738f8c521d0953426504f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676782,
+    "wof:lastmodified":1695876952,
     "wof:name":"Karaski",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

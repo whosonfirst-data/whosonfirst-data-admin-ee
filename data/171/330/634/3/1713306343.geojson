@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Silmsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000758,
-    "geom:area_square_m":4810323.998976,
+    "geom:area_square_m":4810323.998977,
     "geom:bbox":"25.287608,59.098639,25.335995,59.125611",
     "geom:latitude":59.111818,
     "geom:longitude":25.313569,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7597
+        "ee-mamt:okood":"7597"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309821549
     ],
     "wof:country":"EE",
     "wof:created":1595459134,
-    "wof:geomhash":"ce5bc7aeaa5d7dbbdeb3ebfcfb2b34b3",
+    "wof:geomhash":"600cf200998c3b64fec0c045a2e56310",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661337,
+    "wof:lastmodified":1695876754,
     "wof:name":"Silmsi",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

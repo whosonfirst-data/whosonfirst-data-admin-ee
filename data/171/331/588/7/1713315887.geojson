@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Varesm\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000634,
-    "geom:area_square_m":4149874.723742,
+    "geom:area_square_m":4149874.72374,
     "geom:bbox":"27.507339,58.042855,27.551866,58.06647",
     "geom:latitude":58.052991,
     "geom:longitude":27.527047,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9078
+        "ee-mamt:okood":"9078"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276528211
     ],
     "wof:country":"EE",
     "wof:created":1595461314,
-    "wof:geomhash":"6e3bfc1922c24ea605d147e4932f2609",
+    "wof:geomhash":"9af1ddc61f0d856e212824abc8a89bd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663653,
+    "wof:lastmodified":1695876841,
     "wof:name":"Varesm\u00e4e",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kullimaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.006634,
-    "geom:area_square_m":42556111.754215,
+    "geom:area_square_m":42556111.754208,
     "geom:bbox":"25.044545,58.718874,25.216771,58.780242",
     "geom:latitude":58.747181,
     "geom:longitude":25.12871,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3600
+        "ee-mamt:okood":"3600"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193004619
     ],
     "wof:country":"EE",
     "wof:created":1595460768,
-    "wof:geomhash":"4fedb5f1474e4ec084b6051f82fa8f03",
+    "wof:geomhash":"95197257cecf30b35a4b1338782d7cc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677981,
+    "wof:lastmodified":1695877008,
     "wof:name":"Kullimaa",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

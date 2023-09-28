@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laukna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004467,
-    "geom:area_square_m":28521107.132541,
+    "geom:area_square_m":28521107.132543,
     "geom:bbox":"24.127241,58.867371,24.257627,58.937368",
     "geom:latitude":58.909033,
     "geom:longitude":24.179434,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4143
+        "ee-mamt:okood":"4143"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125955677
     ],
     "wof:country":"EE",
     "wof:created":1595460713,
-    "wof:geomhash":"b8d8fc8844ce042374b53533e8bc2a72",
+    "wof:geomhash":"43ffb342ef5b4ba1b115b324202df8aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662825,
+    "wof:lastmodified":1695876805,
     "wof:name":"Laukna",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tobraselja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001272,
-    "geom:area_square_m":8238649.185994,
+    "geom:area_square_m":8238649.185993,
     "geom:bbox":"25.576228,58.408471,25.644757,58.438083",
     "geom:latitude":58.422116,
     "geom:longitude":25.61214,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8264
+        "ee-mamt:okood":"8264"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226407147
     ],
     "wof:country":"EE",
     "wof:created":1595460016,
-    "wof:geomhash":"498f59be3f3193edee0c0c4f61ec372a",
+    "wof:geomhash":"957964ebab34c3890abf101aeb9b111e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661228,
+    "wof:lastmodified":1695876747,
     "wof:name":"Tobraselja",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pisisaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001356,
-    "geom:area_square_m":8701097.339066,
+    "geom:area_square_m":8701097.339068,
     "geom:bbox":"25.923963,58.71384,26.0136,58.744854",
     "geom:latitude":58.729746,
     "geom:longitude":25.97038,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6280
+        "ee-mamt:okood":"6280"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935491
     ],
     "wof:country":"EE",
     "wof:created":1595460567,
-    "wof:geomhash":"6dd8cb85ecccc70457478c079e4f8a9e",
+    "wof:geomhash":"790822703561833f31ef2eee8d90b905",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676487,
+    "wof:lastmodified":1695876914,
     "wof:name":"Pisisaare",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

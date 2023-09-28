@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Haapsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00064,
-    "geom:area_square_m":4145798.95335,
+    "geom:area_square_m":4145798.953349,
     "geom:bbox":"23.710088,58.37816,23.755355,58.404716",
     "geom:latitude":58.39305,
     "geom:longitude":23.732873,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1690
+        "ee-mamt:okood":"1690"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310689253
     ],
     "wof:country":"EE",
     "wof:created":1595459886,
-    "wof:geomhash":"8500c4aa14d17ef1bd332e69ba1b7348",
+    "wof:geomhash":"8a0d28fc26aa625a7d985e0f3e2abc9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661600,
+    "wof:lastmodified":1695876768,
     "wof:name":"Haapsi",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

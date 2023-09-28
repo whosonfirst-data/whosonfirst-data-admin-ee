@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vainu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000353,
-    "geom:area_square_m":2288855.246228,
+    "geom:area_square_m":2288855.24623,
     "geom:bbox":"24.619025,58.405032,24.657825,58.428249",
     "geom:latitude":58.416789,
     "geom:longitude":24.637595,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8885
+        "ee-mamt:okood":"8885"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326908523
     ],
     "wof:country":"EE",
     "wof:created":1595460539,
-    "wof:geomhash":"e9fa4aeae0e3c193fb8d07e1ac823a51",
+    "wof:geomhash":"deefb250ebef73afbc04f63d1eedb951",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663374,
+    "wof:lastmodified":1695876820,
     "wof:name":"Vainu",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

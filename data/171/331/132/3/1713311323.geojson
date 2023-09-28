@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Araste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002488,
-    "geom:area_square_m":15953959.95088,
+    "geom:area_square_m":15953959.950876,
     "geom:bbox":"24.311453,58.731933,24.396342,58.781785",
     "geom:latitude":58.760616,
     "geom:longitude":24.352919,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1319
+        "ee-mamt:okood":"1319"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293760085
     ],
     "wof:country":"EE",
     "wof:created":1595460312,
-    "wof:geomhash":"19a191f79d0380de50b3dc4562a5435b",
+    "wof:geomhash":"4058a56fd08939e96ad09bd58a7c303b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662822,
+    "wof:lastmodified":1695876804,
     "wof:name":"Araste",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

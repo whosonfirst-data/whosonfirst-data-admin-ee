@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Heltermaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00027,
-    "geom:area_square_m":1727036.355131,
+    "geom:area_square_m":1727036.35513,
     "geom:bbox":"23.020826,58.858532,23.050722,58.874094",
     "geom:latitude":58.865388,
     "geom:longitude":23.034824,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1818
+        "ee-mamt:okood":"1818"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125990349
     ],
     "wof:country":"EE",
     "wof:created":1595460177,
-    "wof:geomhash":"2672f3c5cf92d8525c22ce4d067103ed",
+    "wof:geomhash":"626fe31ab228b0f399b6fa72be63edbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666417,
+    "wof:lastmodified":1695876857,
     "wof:name":"Heltermaa",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

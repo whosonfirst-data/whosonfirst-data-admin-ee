@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u0151rgessaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001157,
-    "geom:area_square_m":7601631.584749,
+    "geom:area_square_m":7601631.58475,
     "geom:bbox":"27.238328,57.869295,27.297682,57.90881",
     "geom:latitude":57.891782,
     "geom:longitude":27.267892,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3796
+        "ee-mamt:okood":"3796"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259447435
     ],
     "wof:country":"EE",
     "wof:created":1595461299,
-    "wof:geomhash":"82b7f7bfc62daa3ce60f6e8b0843fe79",
+    "wof:geomhash":"552a06d098aace6af193e3b74ec26cf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660270,
+    "wof:lastmodified":1695876726,
     "wof:name":"K\u0151rgessaare",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

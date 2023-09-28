@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000518,
-    "geom:area_square_m":3294706.379004,
+    "geom:area_square_m":3294706.379003,
     "geom:bbox":"25.572496,59.02109,25.612517,59.043381",
     "geom:latitude":59.033182,
     "geom:longitude":25.590469,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5466
+        "ee-mamt:okood":"5466"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293722485
     ],
     "wof:country":"EE",
     "wof:created":1595459618,
-    "wof:geomhash":"f62b3ae400fe82ccbc160946644c78d2",
+    "wof:geomhash":"3ca96f19b0594c03d30ab8eeab8ed95c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661323,
+    "wof:lastmodified":1695876753,
     "wof:name":"Nurme",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

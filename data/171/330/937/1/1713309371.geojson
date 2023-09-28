@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Uluste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000223,
-    "geom:area_square_m":1433359.379003,
+    "geom:area_square_m":1433359.379004,
     "geom:bbox":"24.055258,58.720749,24.084046,58.735625",
     "geom:latitude":58.72911,
     "geom:longitude":24.06978,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8666
+        "ee-mamt:okood":"8666"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226234167
     ],
     "wof:country":"EE",
     "wof:created":1595459870,
-    "wof:geomhash":"3cbf821cdd14760d801748fc53da89a7",
+    "wof:geomhash":"6f8f25731fb9332678a22f03c7b01b26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661638,
+    "wof:lastmodified":1695876771,
     "wof:name":"Uluste",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

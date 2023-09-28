@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lillim\u0151isa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00013,
-    "geom:area_square_m":860014.638241,
+    "geom:area_square_m":860014.63824,
     "geom:bbox":"27.086077,57.609789,27.104293,57.627125",
     "geom:latitude":57.61873,
     "geom:longitude":27.094597,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4372
+        "ee-mamt:okood":"4372"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260144745
     ],
     "wof:country":"EE",
     "wof:created":1595461259,
-    "wof:geomhash":"02d3de8b819ca0092ed2fabcaf3e1967",
+    "wof:geomhash":"a8f744fce8e106336380f3d18fadc617",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676852,
+    "wof:lastmodified":1695876966,
     "wof:name":"Lillim\u0151isa",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

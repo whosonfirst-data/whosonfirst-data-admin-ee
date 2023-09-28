@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laaneotsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000245,
-    "geom:area_square_m":1561599.484266,
+    "geom:area_square_m":1561599.484267,
     "geom:bbox":"25.99736,58.966001,26.021491,58.987945",
     "geom:latitude":58.975447,
     "geom:longitude":26.00984,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4022
+        "ee-mamt:okood":"4022"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293883993
     ],
     "wof:country":"EE",
     "wof:created":1595459254,
-    "wof:geomhash":"d20253020ba2d72b8a30fbf29f361071",
+    "wof:geomhash":"542293ac4dd7db3e4b83c7b6c7e78f5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676614,
+    "wof:lastmodified":1695876929,
     "wof:name":"Laaneotsa",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

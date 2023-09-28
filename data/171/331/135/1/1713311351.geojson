@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kangru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00079,
-    "geom:area_square_m":5053916.562524,
+    "geom:area_square_m":5053916.562523,
     "geom:bbox":"24.534321,58.81127,24.608227,58.836206",
     "geom:latitude":58.825576,
     "geom:longitude":24.570104,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2668
+        "ee-mamt:okood":"2668"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277153391
     ],
     "wof:country":"EE",
     "wof:created":1595460317,
-    "wof:geomhash":"1465249e25583e14cfdc142f2016618e",
+    "wof:geomhash":"21b771a7076496698420188107f9740a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662817,
+    "wof:lastmodified":1695876802,
     "wof:name":"Kangru",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

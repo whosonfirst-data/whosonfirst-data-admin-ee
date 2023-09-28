@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paadrema K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001126,
-    "geom:area_square_m":7267288.764152,
+    "geom:area_square_m":7267288.764151,
     "geom:bbox":"23.805794,58.512813,23.84961,58.559663",
     "geom:latitude":58.536613,
     "geom:longitude":23.829456,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5776
+        "ee-mamt:okood":"5776"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226520497
     ],
     "wof:country":"EE",
     "wof:created":1595459831,
-    "wof:geomhash":"074e28ea115f99c697cf8d94eb5b42e1",
+    "wof:geomhash":"268968999c2a368d331add4b8db6c0f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661585,
+    "wof:lastmodified":1695876766,
     "wof:name":"Paadrema",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tiido K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001529,
-    "geom:area_square_m":10000593.902192,
+    "geom:area_square_m":10000593.902194,
     "geom:bbox":"26.729326,58.036866,26.821215,58.077525",
     "geom:latitude":58.054341,
     "geom:longitude":26.773136,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8217
+        "ee-mamt:okood":"8217"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260378073
     ],
     "wof:country":"EE",
     "wof:created":1595459977,
-    "wof:geomhash":"7416847183e2d5bd57e4610e5e152e2a",
+    "wof:geomhash":"4d4e6b1f752b834a2230f3b51471dc05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676777,
+    "wof:lastmodified":1695876950,
     "wof:name":"Tiido",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

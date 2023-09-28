@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000991,
-    "geom:area_square_m":6215450.24767,
+    "geom:area_square_m":6215450.247668,
     "geom:bbox":"26.351058,59.524023,26.445303,59.549393",
     "geom:latitude":59.536173,
     "geom:longitude":26.407052,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2715
+        "ee-mamt:okood":"2715"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343481249
     ],
     "wof:country":"EE",
     "wof:created":1595459624,
-    "wof:geomhash":"61d74116f0e02e215f36a67d2c98c280",
+    "wof:geomhash":"80ea3bedcfe5022ebfeb63834d719f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678029,
+    "wof:lastmodified":1695877012,
     "wof:name":"Karepa",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

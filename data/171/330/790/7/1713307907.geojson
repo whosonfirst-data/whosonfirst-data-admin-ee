@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aruk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004251,
-    "geom:area_square_m":26918217.41886,
+    "geom:area_square_m":26918217.418864,
     "geom:bbox":"26.438371,59.156893,26.542542,59.225367",
     "geom:latitude":59.192223,
     "geom:longitude":26.487154,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1372
+        "ee-mamt:okood":"1372"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343948775
     ],
     "wof:country":"EE",
     "wof:created":1595459513,
-    "wof:geomhash":"84cfc46f05f459d6d09ab0c0fd508f1c",
+    "wof:geomhash":"7de8de9411a19cea5c87461f047561a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677954,
+    "wof:lastmodified":1695877005,
     "wof:name":"Aruk\u00fcla",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pusi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000296,
-    "geom:area_square_m":1907504.7688,
+    "geom:area_square_m":1907504.768801,
     "geom:bbox":"27.154623,58.631825,27.178679,58.65582",
     "geom:latitude":58.642963,
     "geom:longitude":27.165463,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6458
+        "ee-mamt:okood":"6458"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343325107
     ],
     "wof:country":"EE",
     "wof:created":1595460552,
-    "wof:geomhash":"c673185abc386261a538191656c82bc0",
+    "wof:geomhash":"585645c4a87376d3f328ee139295ee1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660830,
+    "wof:lastmodified":1695876737,
     "wof:name":"Pusi",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vansi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000585,
-    "geom:area_square_m":3705931.895911,
+    "geom:area_square_m":3705931.895912,
     "geom:bbox":"24.332013,59.197384,24.39397,59.216976",
     "geom:latitude":59.207169,
     "geom:longitude":24.366215,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9049
+        "ee-mamt:okood":"9049"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461049,
-    "wof:geomhash":"1c6a4f377fa3b0d68340dfef6f9577ce",
+    "wof:geomhash":"68ddd406a7c6e24251dd717722e3a9d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663228,
+    "wof:lastmodified":1695876810,
     "wof:name":"Vansi",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

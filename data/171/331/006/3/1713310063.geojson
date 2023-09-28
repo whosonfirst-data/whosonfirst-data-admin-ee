@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Malda K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001369,
-    "geom:area_square_m":8857788.691112,
+    "geom:area_square_m":8857788.691108,
     "geom:bbox":"24.26785,58.409431,24.32566,58.458525",
     "geom:latitude":58.436616,
     "geom:longitude":24.29802,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4753
+        "ee-mamt:okood":"4753"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125934861
     ],
     "wof:country":"EE",
     "wof:created":1595460040,
-    "wof:geomhash":"908a753a9017179363042f946f0481a8",
+    "wof:geomhash":"6dd3560a8627ec69d3c01a767900ab7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677668,
+    "wof:lastmodified":1695876992,
     "wof:name":"Malda",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kleemu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00119,
-    "geom:area_square_m":7621787.361677,
+    "geom:area_square_m":7621787.361676,
     "geom:bbox":"22.648336,58.793459,22.706896,58.830302",
     "geom:latitude":58.813008,
     "geom:longitude":22.681237,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3196
+        "ee-mamt:okood":"3196"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276660471
     ],
     "wof:country":"EE",
     "wof:created":1595460095,
-    "wof:geomhash":"6e0ff662012f6d4580111544eedadc87",
+    "wof:geomhash":"5fb1bc0d8e1549a098c764ebee038afc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666321,
+    "wof:lastmodified":1695876849,
     "wof:name":"Kleemu",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

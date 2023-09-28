@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rutja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001477,
-    "geom:area_square_m":9259033.781859,
+    "geom:area_square_m":9259033.781854,
     "geom:bbox":"26.305011,59.524759,26.405033,59.556876",
     "geom:latitude":59.54175,
     "geom:longitude":26.353594,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7138
+        "ee-mamt:okood":"7138"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344247757
     ],
     "wof:country":"EE",
     "wof:created":1595459604,
-    "wof:geomhash":"f880203a9e9b9c8b490e553add2b3f06",
+    "wof:geomhash":"a6b5bb715cb8f3e23e881de5836d1226",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678018,
+    "wof:lastmodified":1695877010,
     "wof:name":"Rutja",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

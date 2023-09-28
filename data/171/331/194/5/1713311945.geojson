@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kurnuvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003032,
-    "geom:area_square_m":19559531.040387,
+    "geom:area_square_m":19559531.040388,
     "geom:bbox":"25.599545,58.522679,25.681121,58.588052",
     "geom:latitude":58.554923,
     "geom:longitude":25.644757,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3690
+        "ee-mamt:okood":"3690"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310466693
     ],
     "wof:country":"EE",
     "wof:created":1595460450,
-    "wof:geomhash":"100f173adbbc738cbe48d856c268be70",
+    "wof:geomhash":"5a6c9a750ccf2186ac5e163ec8021492",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663438,
+    "wof:lastmodified":1695876828,
     "wof:name":"Kurnuvere",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

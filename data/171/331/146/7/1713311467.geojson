@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Konuvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002848,
-    "geom:area_square_m":18235311.559566,
+    "geom:area_square_m":18235311.559568,
     "geom:bbox":"24.316993,58.790954,24.433791,58.831425",
     "geom:latitude":58.809766,
     "geom:longitude":24.380774,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3380
+        "ee-mamt:okood":"3380"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243334963
     ],
     "wof:country":"EE",
     "wof:created":1595460342,
-    "wof:geomhash":"6efce6b1de6fd599b8bcbf9e63759a8b",
+    "wof:geomhash":"2f1d735d34ef21432180dc88d7e0ede2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662824,
+    "wof:lastmodified":1695876804,
     "wof:name":"Konuvere",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

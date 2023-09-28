@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kabli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000931,
-    "geom:area_square_m":6101765.257319,
+    "geom:area_square_m":6101765.257323,
     "geom:bbox":"24.414341,57.982355,24.472929,58.022628",
     "geom:latitude":58.001335,
     "geom:longitude":24.444857,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2463
+        "ee-mamt:okood":"2463"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125850745
     ],
     "wof:country":"EE",
     "wof:created":1595459842,
-    "wof:geomhash":"617650508f17c7a13395cd0493f5d99f",
+    "wof:geomhash":"3d73af2414745152a5ea91c3a350ab16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617130595,
+    "wof:lastmodified":1695877017,
     "wof:name":"Kabli",
     "wof:parent_id":1713305741,
     "wof:placetype":"localadmin",

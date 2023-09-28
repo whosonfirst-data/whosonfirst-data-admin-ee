@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaarlim\u0151isa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000658,
-    "geom:area_square_m":4269761.623844,
+    "geom:area_square_m":4269761.623845,
     "geom:bbox":"27.017722,58.349095,27.065867,58.375639",
     "geom:latitude":58.36167,
     "geom:longitude":27.04396,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2411
+        "ee-mamt:okood":"2411"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209177457
     ],
     "wof:country":"EE",
     "wof:created":1595460310,
-    "wof:geomhash":"9ee2cffb74226d9c8264b89bb9354a12",
+    "wof:geomhash":"f13eab46cf9e0a95a2d1ddda61e44e6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660650,
+    "wof:lastmodified":1695876729,
     "wof:name":"Kaarlim\u0151isa",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

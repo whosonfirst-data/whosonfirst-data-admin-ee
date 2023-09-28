@@ -14,7 +14,7 @@
     "geom:longitude":24.221948,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Klooga alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3205
+        "ee-mamt:okood":"3205"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101847799
     ],
     "wof:country":"EE",
     "wof:created":1595459495,
-    "wof:geomhash":"934ca6c1bfcc28f20d117361a4a70f50",
+    "wof:geomhash":"f3ad363def8ad4ee6ecb87b5bfcb031a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663295,
+    "wof:lastmodified":1695876816,
     "wof:name":"Klooga",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

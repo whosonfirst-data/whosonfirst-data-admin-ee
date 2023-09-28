@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4ike-Rahula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001725,
-    "geom:area_square_m":11131247.027613,
+    "geom:area_square_m":11131247.027612,
     "geom:bbox":"22.927414,58.531218,23.018734,58.567788",
     "geom:latitude":58.550857,
     "geom:longitude":22.964725,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9632
+        "ee-mamt:okood":"9632"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459550,
-    "wof:geomhash":"1ebe002d3d25dcb4d55691632cf702e1",
+    "wof:geomhash":"4c117dba1b6a4465f52ff37e4bcc556a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671849,
+    "wof:lastmodified":1695876872,
     "wof:name":"V\u00e4ike-Rahula",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

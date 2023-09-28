@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pilkuse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004033,
-    "geom:area_square_m":26399143.394071,
+    "geom:area_square_m":26399143.394072,
     "geom:bbox":"26.504566,58.00256,26.594199,58.072584",
     "geom:latitude":58.035308,
     "geom:longitude":26.551753,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6252
+        "ee-mamt:okood":"6252"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890419
     ],
     "wof:country":"EE",
     "wof:created":1595460919,
-    "wof:geomhash":"522af504ceefa20202f6f103e2a30ba7",
+    "wof:geomhash":"3b2689185766fd1f5502cae3ea7fff0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661864,
+    "wof:lastmodified":1695876781,
     "wof:name":"Pilkuse",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

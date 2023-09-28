@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Tapa Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.00273,
-    "geom:area_square_m":17258466.104168,
+    "geom:area_square_m":17258466.104169,
     "geom:bbox":"25.902548,59.22275,25.991665,59.278176",
     "geom:latitude":59.25318,
     "geom:longitude":25.947586,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Tapa linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8140
+        "ee-mamt:okood":"8140"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815157
     ],
     "wof:country":"EE",
     "wof:created":1595461180,
-    "wof:geomhash":"8704a89c3b47cf8ce808313e9b9f55ce",
+    "wof:geomhash":"5fa4f79f16ca2b8ef0227310dc1c34c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676598,
+    "wof:lastmodified":1695876929,
     "wof:name":"Tapa",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

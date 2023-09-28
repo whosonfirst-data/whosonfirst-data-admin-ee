@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lohkva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000852,
-    "geom:area_square_m":5525737.682102,
+    "geom:area_square_m":5525737.6821,
     "geom:bbox":"26.775235,58.348086,26.827888,58.384654",
     "geom:latitude":58.367262,
     "geom:longitude":26.801114,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4451
+        "ee-mamt:okood":"4451"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125870785
     ],
     "wof:country":"EE",
     "wof:created":1595460851,
-    "wof:geomhash":"05a40e00eca80c6c977442eb290c17bc",
+    "wof:geomhash":"c9f3b0e2eddeabb54ced8396808ff385",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660672,
+    "wof:lastmodified":1695876730,
     "wof:name":"Lohkva",
     "wof:parent_id":1713305697,
     "wof:placetype":"localadmin",

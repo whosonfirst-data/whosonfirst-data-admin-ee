@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Metsakasti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000293,
-    "geom:area_square_m":1841627.186979,
+    "geom:area_square_m":1841627.186978,
     "geom:bbox":"24.879859,59.485364,24.931466,59.502273",
     "geom:latitude":59.492531,
     "geom:longitude":24.900002,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4887
+        "ee-mamt:okood":"4887"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226761819
     ],
     "wof:country":"EE",
     "wof:created":1595459149,
-    "wof:geomhash":"cae2d681dbadaf8bdfca5acca0391cfa",
+    "wof:geomhash":"2f4a0ef3197018782c40f61bc6c6f938",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675395,
+    "wof:lastmodified":1695876909,
     "wof:name":"Metsakasti",
     "wof:parent_id":1713305625,
     "wof:placetype":"localadmin",

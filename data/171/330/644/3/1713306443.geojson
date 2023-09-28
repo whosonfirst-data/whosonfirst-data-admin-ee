@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kasispea K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001598,
-    "geom:area_square_m":10000219.307382,
+    "geom:area_square_m":10000219.307384,
     "geom:bbox":"25.706571,59.563558,25.782799,59.607355",
     "geom:latitude":59.590559,
     "geom:longitude":25.753788,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2804
+        "ee-mamt:okood":"2804"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126003727
     ],
     "wof:country":"EE",
     "wof:created":1595459158,
-    "wof:geomhash":"1a5e33d7e8ae0b811b44084e4262be30",
+    "wof:geomhash":"411c949cb9b87283ad6632187d07e5ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661813,
+    "wof:lastmodified":1695876777,
     "wof:name":"Kasispea",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Prassi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001103,
-    "geom:area_square_m":7080068.326853,
+    "geom:area_square_m":7080068.326852,
     "geom:bbox":"22.598879,58.703069,22.681022,58.733532",
     "geom:latitude":58.719545,
     "geom:longitude":22.644189,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6357
+        "ee-mamt:okood":"6357"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209223545
     ],
     "wof:country":"EE",
     "wof:created":1595460151,
-    "wof:geomhash":"a9a010448f91a12b160a023eed8c29a9",
+    "wof:geomhash":"7b34fc2f76ef231fc42aef351b8e9f6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666408,
+    "wof:lastmodified":1695876856,
     "wof:name":"Prassi",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

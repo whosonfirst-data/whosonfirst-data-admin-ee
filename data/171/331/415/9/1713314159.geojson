@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ojamaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00081,
-    "geom:area_square_m":5114706.343224,
+    "geom:area_square_m":5114706.343226,
     "geom:bbox":"27.074397,59.270739,27.12954,59.302882",
     "geom:latitude":59.288239,
     "geom:longitude":27.108824,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5652
+        "ee-mamt:okood":"5652"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209717389
     ],
     "wof:country":"EE",
     "wof:created":1595460915,
-    "wof:geomhash":"aec83838f0c3f219fb5e91fae6d78164",
+    "wof:geomhash":"e5d2e86d3b4ff6c5e74b2fa3fb4918a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660794,
+    "wof:lastmodified":1695876736,
     "wof:name":"Ojamaa",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nurkse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00173,
-    "geom:area_square_m":10920575.386593,
+    "geom:area_square_m":10920575.386594,
     "geom:bbox":"26.546558,59.269063,26.606336,59.318972",
     "geom:latitude":59.294864,
     "geom:longitude":26.576996,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5465
+        "ee-mamt:okood":"5465"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209811083
     ],
     "wof:country":"EE",
     "wof:created":1595459549,
-    "wof:geomhash":"49861fb5e3c7bd5adc99e07238cd8c05",
+    "wof:geomhash":"b1d894d7a12acaadeb2cca6bcdac48d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677944,
+    "wof:lastmodified":1695877002,
     "wof:name":"Nurkse",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

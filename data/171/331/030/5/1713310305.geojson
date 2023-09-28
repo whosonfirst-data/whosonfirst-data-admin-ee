@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tagula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00286,
-    "geom:area_square_m":18813251.009581,
+    "geom:area_square_m":18813251.009572,
     "geom:bbox":"26.310621,57.83584,26.439172,57.886881",
     "geom:latitude":57.85934,
     "geom:longitude":26.378084,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8064
+        "ee-mamt:okood":"8064"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125768349
     ],
     "wof:country":"EE",
     "wof:created":1595460092,
-    "wof:geomhash":"641ae13fd60812700651f7b06e98d975",
+    "wof:geomhash":"83f5a188ad5355b89ad238d64fbead16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661946,
+    "wof:lastmodified":1695876792,
     "wof:name":"Tagula",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

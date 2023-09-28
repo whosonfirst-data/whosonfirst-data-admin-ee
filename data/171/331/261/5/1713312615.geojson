@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Eametsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001601,
-    "geom:area_square_m":10365823.402893,
+    "geom:area_square_m":10365823.402895,
     "geom:bbox":"24.440755,58.403194,24.500475,58.446538",
     "geom:latitude":58.425009,
     "geom:longitude":24.469724,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1510
+        "ee-mamt:okood":"1510"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293467863
     ],
     "wof:country":"EE",
     "wof:created":1595460581,
-    "wof:geomhash":"130f0e24418b6eefbee639f38f65d332",
+    "wof:geomhash":"5381de0e7f9dfa6c42caa7b61f781885",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663373,
+    "wof:lastmodified":1695876819,
     "wof:name":"Eametsa",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

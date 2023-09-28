@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suuresadama K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000276,
-    "geom:area_square_m":1761896.76866,
+    "geom:area_square_m":1761896.768661,
     "geom:bbox":"22.888689,58.969761,22.942313,58.986459",
     "geom:latitude":58.976804,
     "geom:longitude":22.910643,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7864
+        "ee-mamt:okood":"7864"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125771155
     ],
     "wof:country":"EE",
     "wof:created":1595460183,
-    "wof:geomhash":"0949f4fb7e79ddafa20813b8f1fcae1d",
+    "wof:geomhash":"a72f09ef9a19491a2bf14c71bd4d180d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666446,
+    "wof:lastmodified":1695876858,
     "wof:name":"Suuresadama",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

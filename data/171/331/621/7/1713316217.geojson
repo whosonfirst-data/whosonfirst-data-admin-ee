@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Umbsaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001191,
-    "geom:area_square_m":7840827.28366,
+    "geom:area_square_m":7840827.283659,
     "geom:bbox":"27.035359,57.811093,27.147429,57.8318",
     "geom:latitude":57.822857,
     "geom:longitude":27.092542,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8669
+        "ee-mamt:okood":"8669"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259838453
     ],
     "wof:country":"EE",
     "wof:created":1595461382,
-    "wof:geomhash":"fe7ad785f7771379b2cfef6e10d0b615",
+    "wof:geomhash":"9e98be4503ec7609292f9a5e9810b35c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660275,
+    "wof:lastmodified":1695876727,
     "wof:name":"Umbsaare",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

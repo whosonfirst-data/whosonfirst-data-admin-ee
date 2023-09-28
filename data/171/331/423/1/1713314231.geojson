@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Turva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001746,
-    "geom:area_square_m":11352808.234294,
+    "geom:area_square_m":11352808.234292,
     "geom:bbox":"25.435643,58.255683,25.493645,58.30827",
     "geom:latitude":58.277285,
     "geom:longitude":25.468447,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8431
+        "ee-mamt:okood":"8431"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310367259
     ],
     "wof:country":"EE",
     "wof:created":1595460931,
-    "wof:geomhash":"b6c700c61173a47cad7096832b6b86ee",
+    "wof:geomhash":"2af709f96497611b22409dffd871a00e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661202,
+    "wof:lastmodified":1695876745,
     "wof:name":"Turva",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

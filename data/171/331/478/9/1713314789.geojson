@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ruuksu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000596,
-    "geom:area_square_m":3939500.804423,
+    "geom:area_square_m":3939500.804421,
     "geom:bbox":"26.837753,57.702815,26.904123,57.725244",
     "geom:latitude":57.714742,
     "geom:longitude":26.866728,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7144
+        "ee-mamt:okood":"7144"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226724029
     ],
     "wof:country":"EE",
     "wof:created":1595461058,
-    "wof:geomhash":"924ce42f35ca66a838b67b6b4b9569fe",
+    "wof:geomhash":"b526a4300d462efd875a3f65a91f42b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676828,
+    "wof:lastmodified":1695876959,
     "wof:name":"Ruuksu",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

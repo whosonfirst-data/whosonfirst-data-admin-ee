@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mudaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000823,
-    "geom:area_square_m":5239925.84768,
+    "geom:area_square_m":5239925.847677,
     "geom:bbox":"22.517563,59.008965,22.58733,59.03638",
     "geom:latitude":59.022527,
     "geom:longitude":22.558427,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4995
+        "ee-mamt:okood":"4995"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242586445
     ],
     "wof:country":"EE",
     "wof:created":1595460125,
-    "wof:geomhash":"a9052672c522765fbc10acd11daf4cfd",
+    "wof:geomhash":"c6e8e773310417ea883de7a417405b9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666409,
+    "wof:lastmodified":1695876856,
     "wof:name":"Mudaste",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

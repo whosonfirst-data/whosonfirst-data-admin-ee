@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4gari K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000972,
-    "geom:area_square_m":6210218.60941,
+    "geom:area_square_m":6210218.609411,
     "geom:bbox":"23.518568,58.876018,23.572332,58.909484",
     "geom:latitude":58.891859,
     "geom:longitude":23.544554,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5216
+        "ee-mamt:okood":"5216"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209211603
     ],
     "wof:country":"EE",
     "wof:created":1595459680,
-    "wof:geomhash":"d91b06bf07f24c64e94b243914d9821a",
+    "wof:geomhash":"c35635833c6c8a46a8dd710370b052fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617130075,
+    "wof:lastmodified":1695877016,
     "wof:name":"M\u00e4gari",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

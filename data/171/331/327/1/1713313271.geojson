@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mustanina K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.021911,
-    "geom:area_square_m":138383005.330423,
+    "geom:area_square_m":138383005.330417,
     "geom:bbox":"27.649236,59.22314,27.914223,59.364901",
     "geom:latitude":59.285153,
     "geom:longitude":27.770502,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5067
+        "ee-mamt:okood":"5067"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343360921
     ],
     "wof:country":"EE",
     "wof:created":1595460726,
-    "wof:geomhash":"e779d00af81be00543e1a883521972d7",
+    "wof:geomhash":"4e1b41e014e89c349787208175b7e0a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677759,
+    "wof:lastmodified":1695876999,
     "wof:name":"Mustanina",
     "wof:parent_id":1713305779,
     "wof:placetype":"localadmin",

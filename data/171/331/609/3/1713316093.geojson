@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tuderna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00029,
-    "geom:area_square_m":1905924.851556,
+    "geom:area_square_m":1905924.851554,
     "geom:bbox":"27.395312,57.836615,27.437571,57.852466",
     "geom:latitude":57.844012,
     "geom:longitude":27.41576,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8385
+        "ee-mamt:okood":"8385"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327121481
     ],
     "wof:country":"EE",
     "wof:created":1595461356,
-    "wof:geomhash":"23bb399cb3f1cdbed5eb2120a06bc62b",
+    "wof:geomhash":"efc4c8f47e7e8f33a24d54be12c562ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660226,
+    "wof:lastmodified":1695876721,
     "wof:name":"Tuderna",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

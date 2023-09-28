@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kesu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000724,
-    "geom:area_square_m":4626467.251929,
+    "geom:area_square_m":4626467.251928,
     "geom:bbox":"23.683192,58.862772,23.730463,58.886428",
     "geom:latitude":58.875827,
     "geom:longitude":23.705923,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2991
+        "ee-mamt:okood":"2991"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242870909
     ],
     "wof:country":"EE",
     "wof:created":1595460835,
-    "wof:geomhash":"fc542ed3c18a5fa01d5eebec13f1688d",
+    "wof:geomhash":"477799c090c6688e51d3968b188d8465",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677212,
+    "wof:lastmodified":1695876991,
     "wof:name":"Kesu",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

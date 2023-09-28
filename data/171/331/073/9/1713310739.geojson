@@ -14,7 +14,7 @@
     "geom:longitude":22.777604,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "K\u00e4ina alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3869
+        "ee-mamt:okood":"3869"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125889885
     ],
     "wof:country":"EE",
     "wof:created":1595460190,
-    "wof:geomhash":"0450ae957cec3b25268688f8e5e7eda0",
+    "wof:geomhash":"6514fbd19e53c75ced569f4e2bf47e47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666466,
+    "wof:lastmodified":1695876860,
     "wof:name":"K\u00e4ina",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

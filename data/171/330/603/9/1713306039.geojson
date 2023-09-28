@@ -8,7 +8,7 @@
     "ee-mamt:animi":"L\u00e4\u00e4neotsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000357,
-    "geom:area_square_m":2229888.889408,
+    "geom:area_square_m":2229888.889406,
     "geom:bbox":"24.977946,59.606133,25.02106,59.629607",
     "geom:latitude":59.619992,
     "geom:longitude":24.999723,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4656
+        "ee-mamt:okood":"4656"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125788317
     ],
     "wof:country":"EE",
     "wof:created":1595459061,
-    "wof:geomhash":"c783bb24fc420f70475afbe3f24a5f32",
+    "wof:geomhash":"4136507cf3b508acb699d277a5179d0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675394,
+    "wof:lastmodified":1695876908,
     "wof:name":"L\u00e4\u00e4neotsa",
     "wof:parent_id":1713305625,
     "wof:placetype":"localadmin",

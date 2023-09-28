@@ -14,7 +14,7 @@
     "geom:longitude":26.295135,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Lepna alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4294
+        "ee-mamt:okood":"4294"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277096187
     ],
     "wof:country":"EE",
     "wof:created":1595459443,
-    "wof:geomhash":"e9166c86f1731325a5355482eac7f40e",
+    "wof:geomhash":"862d44bd96401f2e3e97aadcc34e1610",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676662,
+    "wof:lastmodified":1695876936,
     "wof:name":"Lepna",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

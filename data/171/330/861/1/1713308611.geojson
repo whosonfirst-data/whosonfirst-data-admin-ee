@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Puise K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001456,
-    "geom:area_square_m":9330320.523378,
+    "geom:area_square_m":9330320.523376,
     "geom:bbox":"23.3107,58.750243,23.520002,58.832202",
     "geom:latitude":58.784477,
     "geom:longitude":23.479294,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6413
+        "ee-mamt:okood":"6413"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243059401
     ],
     "wof:country":"EE",
     "wof:created":1595459687,
-    "wof:geomhash":"8a0fe535a5a78e58d83438eff03c2598",
+    "wof:geomhash":"ea4734d8823f074796caa7909f45c4a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662529,
+    "wof:lastmodified":1695876796,
     "wof:name":"Puise",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Haapse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000528,
-    "geom:area_square_m":3314143.82447,
+    "geom:area_square_m":3314143.824471,
     "geom:bbox":"25.284947,59.481688,25.320536,59.504636",
     "geom:latitude":59.492059,
     "geom:longitude":25.302921,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1691
+        "ee-mamt:okood":"1691"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310119883
     ],
     "wof:country":"EE",
     "wof:created":1595459161,
-    "wof:geomhash":"56f4f8c3223a94db584fc1ddd8699034",
+    "wof:geomhash":"8d68d8886b729b73e88b2cb7b7d43300",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661372,
+    "wof:lastmodified":1695876756,
     "wof:name":"Haapse",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Toomika K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000345,
-    "geom:area_square_m":2168398.514372,
+    "geom:area_square_m":2168398.514369,
     "geom:bbox":"26.717221,59.410672,26.760135,59.424993",
     "geom:latitude":59.418251,
     "geom:longitude":26.738479,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8303
+        "ee-mamt:okood":"8303"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276641551
     ],
     "wof:country":"EE",
     "wof:created":1595459541,
-    "wof:geomhash":"339cd7ffbbdcfcb685c5e3c2726bf3da",
+    "wof:geomhash":"db4b542df830c192634a8c9fba31dc3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677923,
+    "wof:lastmodified":1695877002,
     "wof:name":"Toomika",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

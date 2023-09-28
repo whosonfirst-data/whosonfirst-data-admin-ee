@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuremetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000928,
-    "geom:area_square_m":6017505.82006,
+    "geom:area_square_m":6017505.820058,
     "geom:bbox":"22.105353,58.366913,22.171694,58.393082",
     "geom:latitude":58.382159,
     "geom:longitude":22.138599,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3643
+        "ee-mamt:okood":"3643"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193116079
     ],
     "wof:country":"EE",
     "wof:created":1595459439,
-    "wof:geomhash":"fbfad2a3ded0fbd43347dd860645a151",
+    "wof:geomhash":"1a18570875a37480da1f415f1e73bb0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672478,
+    "wof:lastmodified":1695876895,
     "wof:name":"Kuremetsa",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

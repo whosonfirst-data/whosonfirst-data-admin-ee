@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Venekuusiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001297,
-    "geom:area_square_m":8353874.798491,
+    "geom:area_square_m":8353874.79849,
     "geom:bbox":"24.997108,58.588451,25.071843,58.622424",
     "geom:latitude":58.605172,
     "geom:longitude":25.034036,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9199
+        "ee-mamt:okood":"9199"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209084433
     ],
     "wof:country":"EE",
     "wof:created":1595459952,
-    "wof:geomhash":"8c05f68b0b63ff089fa23095e92e08b3",
+    "wof:geomhash":"bcaed279e183e9c217d6c14c4591c8d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663406,
+    "wof:lastmodified":1695876824,
     "wof:name":"Venekuusiku",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vana-Saaluse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001316,
-    "geom:area_square_m":8690324.286531,
+    "geom:area_square_m":8690324.286532,
     "geom:bbox":"27.195627,57.701862,27.257307,57.745024",
     "geom:latitude":57.721519,
     "geom:longitude":27.223214,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9004
+        "ee-mamt:okood":"9004"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226307377
     ],
     "wof:country":"EE",
     "wof:created":1595461282,
-    "wof:geomhash":"1461ad8b3dd4cfae6acf4f9e799ba5a0",
+    "wof:geomhash":"fd579fce8b21d9d7d5046b8a95ad126b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660248,
+    "wof:lastmodified":1695876724,
     "wof:name":"Vana-Saaluse",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

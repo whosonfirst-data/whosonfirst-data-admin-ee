@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ringiste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003216,
-    "geom:area_square_m":21230006.639742,
+    "geom:area_square_m":21230006.639734,
     "geom:bbox":"26.247626,57.692163,26.36368,57.759533",
     "geom:latitude":57.729196,
     "geom:longitude":26.311801,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7005
+        "ee-mamt:okood":"7005"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310267335
     ],
     "wof:country":"EE",
     "wof:created":1595460198,
-    "wof:geomhash":"ffcb9d8e3e1bf0d450dde7841cb4ecc8",
+    "wof:geomhash":"bafdc2c777f0be2d37bbae13e901abc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661941,
+    "wof:lastmodified":1695876791,
     "wof:name":"Ringiste",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

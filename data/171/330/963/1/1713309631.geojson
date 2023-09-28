@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Savka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000957,
-    "geom:area_square_m":6174906.356922,
+    "geom:area_square_m":6174906.356919,
     "geom:bbox":"27.121725,58.530934,27.195467,58.555657",
     "geom:latitude":58.541206,
     "geom:longitude":27.162028,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7500
+        "ee-mamt:okood":"7500"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277140215
     ],
     "wof:country":"EE",
     "wof:created":1595459935,
-    "wof:geomhash":"9bd154d6b29d2f164223b9f5ac548aa4",
+    "wof:geomhash":"784da02571ca2e617e1e4e83dbe8fd30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660868,
+    "wof:lastmodified":1695876739,
     "wof:name":"Savka",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

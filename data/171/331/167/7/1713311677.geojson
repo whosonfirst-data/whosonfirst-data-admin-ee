@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00e4rsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001456,
-    "geom:area_square_m":9502914.258944,
+    "geom:area_square_m":9502914.258949,
     "geom:bbox":"25.517621,58.13257,25.583422,58.17498",
     "geom:latitude":58.152947,
     "geom:longitude":25.551094,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6621
+        "ee-mamt:okood":"6621"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360146475
     ],
     "wof:country":"EE",
     "wof:created":1595460394,
-    "wof:geomhash":"2a0d7f2e0a71eff52b882e3547ff43aa",
+    "wof:geomhash":"5347dd8810cd13c61677284b024a9e57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661281,
+    "wof:lastmodified":1695876749,
     "wof:name":"P\u00e4rsi",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

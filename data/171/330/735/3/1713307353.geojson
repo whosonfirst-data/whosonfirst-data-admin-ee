@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Abula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000846,
-    "geom:area_square_m":5478729.309049,
+    "geom:area_square_m":5478729.309048,
     "geom:bbox":"22.11163,58.426347,22.169972,58.447818",
     "geom:latitude":58.437829,
     "geom:longitude":22.139054,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1067
+        "ee-mamt:okood":"1067"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209288289
     ],
     "wof:country":"EE",
     "wof:created":1595459381,
-    "wof:geomhash":"1c559412990a79209169af23c6efd6c7",
+    "wof:geomhash":"932693dfdbe623fd90f493637c283348",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672219,
+    "wof:lastmodified":1695876885,
     "wof:name":"Abula",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

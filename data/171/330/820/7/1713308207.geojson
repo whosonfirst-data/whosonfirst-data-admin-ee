@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sauvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001923,
-    "geom:area_square_m":12459447.086751,
+    "geom:area_square_m":12459447.086748,
     "geom:bbox":"22.248447,58.360996,22.354989,58.429688",
     "geom:latitude":58.401251,
     "geom:longitude":22.306619,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7473
+        "ee-mamt:okood":"7473"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226733315
     ],
     "wof:country":"EE",
     "wof:created":1595459588,
-    "wof:geomhash":"44e5a67598eb84465e55f10771e53361",
+    "wof:geomhash":"df44186b2383079afddf7255293524fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671869,
+    "wof:lastmodified":1695876873,
     "wof:name":"Sauvere",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

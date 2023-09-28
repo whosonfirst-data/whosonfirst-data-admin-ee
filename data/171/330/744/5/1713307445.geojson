@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kihelkonna Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000411,
-    "geom:area_square_m":2664331.785703,
+    "geom:area_square_m":2664331.785702,
     "geom:bbox":"22.021305,58.350205,22.059605,58.367934",
     "geom:latitude":58.359799,
     "geom:longitude":22.042093,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Kihelkonna alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3012
+        "ee-mamt:okood":"3012"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126032067
     ],
     "wof:country":"EE",
     "wof:created":1595459402,
-    "wof:geomhash":"bb428ac0a5b933ae2d4ed0527340b970",
+    "wof:geomhash":"ba1c672f9f6026b63c8546690f5edd51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672400,
+    "wof:lastmodified":1695876893,
     "wof:name":"Kihelkonna",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

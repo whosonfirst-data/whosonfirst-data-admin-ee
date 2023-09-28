@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Oru Linnaosa",
     "ee-mamt:tyyp":6,
     "geom:area":0.000185,
-    "geom:area_square_m":1163522.947203,
+    "geom:area_square_m":1163522.947204,
     "geom:bbox":"27.554157,59.364675,27.583528,59.375702",
     "geom:latitude":59.370299,
     "geom:longitude":27.567264,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "district"
+        "urban district"
     ],
     "label:est_x_preferred_longname":[
         "Oru linnaosa"
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":553
+        "ee-mamt:okood":"553"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460665,
-    "wof:geomhash":"f64dcd379b208d90798fa9d12eac3ca3",
+    "wof:geomhash":"f644b50b044f74cea9850e58d05b4df3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676518,
+    "wof:lastmodified":1695876917,
     "wof:name":"Oru",
     "wof:parent_id":1713305653,
     "wof:placetype":"localadmin",

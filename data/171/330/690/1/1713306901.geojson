@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Huuksi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001384,
-    "geom:area_square_m":8855765.205317,
+    "geom:area_square_m":8855765.205314,
     "geom:bbox":"25.767236,58.819562,25.831501,58.868128",
     "geom:latitude":58.847017,
     "geom:longitude":25.805468,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1920
+        "ee-mamt:okood":"1920"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225950439
     ],
     "wof:country":"EE",
     "wof:created":1595459272,
-    "wof:geomhash":"e202b739f44ecfa23b53cd6258ddfd46",
+    "wof:geomhash":"06f224fb7d3b4a54672e5d1226b2829d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676623,
+    "wof:lastmodified":1695876932,
     "wof:name":"Huuksi",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

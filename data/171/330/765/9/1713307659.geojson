@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suigu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005737,
-    "geom:area_square_m":36375668.255568,
+    "geom:area_square_m":36375668.255569,
     "geom:bbox":"26.726535,59.119168,26.880686,59.183465",
     "geom:latitude":59.15244,
     "geom:longitude":26.809309,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7777
+        "ee-mamt:okood":"7777"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327427263
     ],
     "wof:country":"EE",
     "wof:created":1595459456,
-    "wof:geomhash":"4f0f40f6bf455d8e8753e3ff943ad70d",
+    "wof:geomhash":"dbcdf1b603fc32ebd7883b4aa6ddc290",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677952,
+    "wof:lastmodified":1695877005,
     "wof:name":"Suigu",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

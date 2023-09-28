@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kingli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000689,
-    "geom:area_square_m":4458959.832495,
+    "geom:area_square_m":4458959.832491,
     "geom:bbox":"23.04976,58.45374,23.098241,58.472598",
     "geom:latitude":58.463955,
     "geom:longitude":23.076088,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3098
+        "ee-mamt:okood":"3098"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293171837
     ],
     "wof:country":"EE",
     "wof:created":1595459403,
-    "wof:geomhash":"fa37f6fa2b5c0a7517a6c72a7b8dc3c4",
+    "wof:geomhash":"136508c26c6443fabe433540a7c6f968",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672395,
+    "wof:lastmodified":1695876892,
     "wof:name":"Kingli",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

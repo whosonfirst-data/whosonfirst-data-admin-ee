@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00227,
-    "geom:area_square_m":14448081.046499,
+    "geom:area_square_m":14448081.046495,
     "geom:bbox":"27.247184,58.991602,27.341346,59.031424",
     "geom:latitude":59.01539,
     "geom:longitude":27.282764,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3700
+        "ee-mamt:okood":"3700"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259887569
     ],
     "wof:country":"EE",
     "wof:created":1595460407,
-    "wof:geomhash":"a116d1cfcc5b0079831ed3b0f86bf9ef",
+    "wof:geomhash":"083a059a092e45f90f067603f72191ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660692,
+    "wof:lastmodified":1695876731,
     "wof:name":"Kuru",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

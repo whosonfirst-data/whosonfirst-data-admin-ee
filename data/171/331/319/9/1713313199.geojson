@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rohu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001996,
-    "geom:area_square_m":12673179.172107,
+    "geom:area_square_m":12673179.172106,
     "geom:bbox":"26.43617,59.078289,26.508453,59.118999",
     "geom:latitude":59.098776,
     "geom:longitude":26.470649,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7034
+        "ee-mamt:okood":"7034"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209405525
     ],
     "wof:country":"EE",
     "wof:created":1595460711,
-    "wof:geomhash":"fb6d9db9f6bfbb892c68072cd21e79a7",
+    "wof:geomhash":"1304e53f64d977cdcb4d3536e5201026",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677953,
+    "wof:lastmodified":1695877005,
     "wof:name":"Rohu",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u0151ipere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002131,
-    "geom:area_square_m":13409394.42464,
+    "geom:area_square_m":13409394.424637,
     "geom:bbox":"26.071012,59.388731,26.165916,59.43151",
     "geom:latitude":59.407528,
     "geom:longitude":26.11561,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9534
+        "ee-mamt:okood":"9534"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276754879
     ],
     "wof:country":"EE",
     "wof:created":1595460869,
-    "wof:geomhash":"5539c3bf8b61120ad0a9d6673dbd788f",
+    "wof:geomhash":"cf07d291a702fc0f9af4ebce1e6cb551",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661717,
+    "wof:lastmodified":1695876774,
     "wof:name":"V\u0151ipere",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

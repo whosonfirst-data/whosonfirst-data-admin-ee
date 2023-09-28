@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Umbsoo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00213,
-    "geom:area_square_m":13916224.219944,
+    "geom:area_square_m":13916224.219942,
     "geom:bbox":"25.121534,58.074749,25.195669,58.128266",
     "geom:latitude":58.100492,
     "geom:longitude":25.152989,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8672
+        "ee-mamt:okood":"8672"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209080639
     ],
     "wof:country":"EE",
     "wof:created":1595460561,
-    "wof:geomhash":"4f557637a867cc89f8469ec18e681a5c",
+    "wof:geomhash":"bc9f571d900626c098826c864a483cd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661286,
+    "wof:lastmodified":1695876750,
     "wof:name":"Umbsoo",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

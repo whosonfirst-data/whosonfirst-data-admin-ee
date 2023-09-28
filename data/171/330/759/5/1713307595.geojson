@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hakjala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003027,
-    "geom:area_square_m":19607322.42565,
+    "geom:area_square_m":19607322.425647,
     "geom:bbox":"22.389024,58.376408,22.47194,58.44744",
     "geom:latitude":58.411966,
     "geom:longitude":22.433434,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1731
+        "ee-mamt:okood":"1731"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226326057
     ],
     "wof:country":"EE",
     "wof:created":1595459441,
-    "wof:geomhash":"dea014789a858fd024ac4fe82178d737",
+    "wof:geomhash":"a3875abaf471d7d060df7134a5a1246e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672515,
+    "wof:lastmodified":1695876896,
     "wof:name":"Hakjala",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

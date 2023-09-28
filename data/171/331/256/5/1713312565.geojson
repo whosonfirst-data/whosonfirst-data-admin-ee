@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Meeri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002383,
-    "geom:area_square_m":15486758.989119,
+    "geom:area_square_m":15486758.989124,
     "geom:bbox":"26.437359,58.264997,26.526446,58.308459",
     "geom:latitude":58.287489,
     "geom:longitude":26.477804,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4856
+        "ee-mamt:okood":"4856"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125767897
     ],
     "wof:country":"EE",
     "wof:created":1595460571,
-    "wof:geomhash":"f940b4ad8577594755a20eeb7adfd8d5",
+    "wof:geomhash":"8b2698f86860939e4d4675a4e14570ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676752,
+    "wof:lastmodified":1695876947,
     "wof:name":"Meeri",
     "wof:parent_id":1713305715,
     "wof:placetype":"localadmin",

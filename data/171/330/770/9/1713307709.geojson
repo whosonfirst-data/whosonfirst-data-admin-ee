@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viru-Kabala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002881,
-    "geom:area_square_m":18159186.88677,
+    "geom:area_square_m":18159186.886771,
     "geom:bbox":"26.641528,59.332929,26.751082,59.382841",
     "geom:latitude":59.357619,
     "geom:longitude":26.691474,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9395
+        "ee-mamt:okood":"9395"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037983
     ],
     "wof:country":"EE",
     "wof:created":1595459467,
-    "wof:geomhash":"d0d5fddfdd23d97d8e143d602371cb34",
+    "wof:geomhash":"153514bf817c25d6a6cd29c069915fa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677952,
+    "wof:lastmodified":1695877005,
     "wof:name":"Viru-Kabala",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

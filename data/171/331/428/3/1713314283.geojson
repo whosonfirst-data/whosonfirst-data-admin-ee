@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u00e4divere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00185,
-    "geom:area_square_m":11882417.69721,
+    "geom:area_square_m":11882417.697209,
     "geom:bbox":"24.411685,58.6787,24.479672,58.725006",
     "geom:latitude":58.703557,
     "geom:longitude":24.445384,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2296
+        "ee-mamt:okood":"2296"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277062715
     ],
     "wof:country":"EE",
     "wof:created":1595460944,
-    "wof:geomhash":"0b212ee186beb6d70bc442709dbf668a",
+    "wof:geomhash":"eb86ab54202044ad0f5bdc2c3d04e7f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662826,
+    "wof:lastmodified":1695876805,
     "wof:name":"J\u00e4divere",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

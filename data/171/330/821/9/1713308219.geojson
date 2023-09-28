@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaaruka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002214,
-    "geom:area_square_m":14097861.746326,
+    "geom:area_square_m":14097861.746324,
     "geom:bbox":"25.685481,58.991376,25.79201,59.029384",
     "geom:latitude":59.011555,
     "geom:longitude":25.744654,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2421
+        "ee-mamt:okood":"2421"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209106691
     ],
     "wof:country":"EE",
     "wof:created":1595459591,
-    "wof:geomhash":"a42b919bd472311802ec73b6d7051602",
+    "wof:geomhash":"876357d3dc6832df04a521e4cf30365d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661323,
+    "wof:lastmodified":1695876753,
     "wof:name":"Kaaruka",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

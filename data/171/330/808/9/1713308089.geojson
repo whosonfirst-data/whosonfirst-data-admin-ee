@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u00e4rvaj\u0151e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00081,
-    "geom:area_square_m":5129330.556731,
+    "geom:area_square_m":5129330.556729,
     "geom:bbox":"26.122735,59.181447,26.183926,59.212597",
     "geom:latitude":59.198033,
     "geom:longitude":26.147139,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2345
+        "ee-mamt:okood":"2345"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243549993
     ],
     "wof:country":"EE",
     "wof:created":1595459555,
-    "wof:geomhash":"8fdf1f5992bca8e79e7dcfb21e34e165",
+    "wof:geomhash":"63debe126f89314f85765c5452fa8325",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676594,
+    "wof:lastmodified":1695876928,
     "wof:name":"J\u00e4rvaj\u0151e",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

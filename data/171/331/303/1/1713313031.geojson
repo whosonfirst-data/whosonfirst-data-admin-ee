@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tammem\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000621,
-    "geom:area_square_m":3917843.146435,
+    "geom:area_square_m":3917843.146438,
     "geom:bbox":"24.651112,59.309402,24.710757,59.328122",
     "geom:latitude":59.319141,
     "geom:longitude":24.680449,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8098
+        "ee-mamt:okood":"8098"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327047819
     ],
     "wof:country":"EE",
     "wof:created":1595460676,
-    "wof:geomhash":"c7d485033f7506c57c659aafe66379da",
+    "wof:geomhash":"9de1b1a1549f964a8fcafe06c151d254",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661500,
+    "wof:lastmodified":1695876763,
     "wof:name":"Tammem\u00e4e",
     "wof:parent_id":1713305685,
     "wof:placetype":"localadmin",

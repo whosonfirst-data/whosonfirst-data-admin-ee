@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Parmu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002139,
-    "geom:area_square_m":14193478.071478,
+    "geom:area_square_m":14193478.071476,
     "geom:bbox":"27.28288,57.517718,27.353006,57.57468",
     "geom:latitude":57.548369,
     "geom:longitude":27.317091,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6015
+        "ee-mamt:okood":"6015"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277150971
     ],
     "wof:country":"EE",
     "wof:created":1595461334,
-    "wof:geomhash":"929f14c44ccfb8a6b368a3dd0f002c61",
+    "wof:geomhash":"979bc02f41cdfac55df73d7454e06367",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676855,
+    "wof:lastmodified":1695876967,
     "wof:name":"Parmu",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

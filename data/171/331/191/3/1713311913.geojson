@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mustm\u00e4tta K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000744,
-    "geom:area_square_m":4684451.877498,
+    "geom:area_square_m":4684451.877499,
     "geom:bbox":"27.039768,59.379151,27.081315,59.407445",
     "geom:latitude":59.393216,
     "geom:longitude":27.061531,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5088
+        "ee-mamt:okood":"5088"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242785309
     ],
     "wof:country":"EE",
     "wof:created":1595460443,
-    "wof:geomhash":"fc707fddb79aa026605498faf978905b",
+    "wof:geomhash":"70e73feffa4b4989f6c037c13d3eea3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660773,
+    "wof:lastmodified":1695876735,
     "wof:name":"Mustm\u00e4tta",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

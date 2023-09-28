@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u0151iardi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001201,
-    "geom:area_square_m":7860225.303801,
+    "geom:area_square_m":7860225.303799,
     "geom:bbox":"27.216685,58.006783,27.274541,58.049704",
     "geom:latitude":58.032101,
     "geom:longitude":27.247443,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9511
+        "ee-mamt:okood":"9511"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326910573
     ],
     "wof:country":"EE",
     "wof:created":1595460230,
-    "wof:geomhash":"4940582354449bab62eed5d2a1127286",
+    "wof:geomhash":"9f28479d9abbd0ed9c0bbf94ef09c426",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676976,
+    "wof:lastmodified":1695876976,
     "wof:name":"V\u0151iardi",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

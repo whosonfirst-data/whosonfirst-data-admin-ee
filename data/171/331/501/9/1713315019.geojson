@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Uue-Saaluse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000828,
-    "geom:area_square_m":5465740.127966,
+    "geom:area_square_m":5465740.127964,
     "geom:bbox":"27.086608,57.73055,27.135299,57.760877",
     "geom:latitude":57.746752,
     "geom:longitude":27.108396,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8762
+        "ee-mamt:okood":"8762"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276736677
     ],
     "wof:country":"EE",
     "wof:created":1595461115,
-    "wof:geomhash":"77fc1e7c446af00563d4272bada8a95b",
+    "wof:geomhash":"2883e6c8f59f16bb335664fd69f31fe8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676859,
+    "wof:lastmodified":1695876968,
     "wof:name":"Uue-Saaluse",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

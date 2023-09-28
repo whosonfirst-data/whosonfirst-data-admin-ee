@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tammuru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00157,
-    "geom:area_square_m":10186163.875011,
+    "geom:area_square_m":10186163.875012,
     "geom:bbox":"24.6878,58.327546,24.759151,58.360871",
     "geom:latitude":58.345304,
     "geom:longitude":24.720093,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8131
+        "ee-mamt:okood":"8131"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125775795
     ],
     "wof:country":"EE",
     "wof:created":1595460653,
-    "wof:geomhash":"cdca0d8c17cfbeb8b5c9d62adb2f9040",
+    "wof:geomhash":"e2642509e9d6b506c234760537ba1d6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677681,
+    "wof:lastmodified":1695876994,
     "wof:name":"Tammuru",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

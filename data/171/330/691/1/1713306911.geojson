@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mujaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000839,
-    "geom:area_square_m":5407589.936216,
+    "geom:area_square_m":5407589.936214,
     "geom:bbox":"22.752462,58.566857,22.8111,58.592083",
     "geom:latitude":58.578279,
     "geom:longitude":22.780869,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5012
+        "ee-mamt:okood":"5012"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260360553
     ],
     "wof:country":"EE",
     "wof:created":1595459275,
-    "wof:geomhash":"a96a8e813c54425194655a7e983333ab",
+    "wof:geomhash":"ecae14dc677fd23b4ed5eeff24c2e247",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672061,
+    "wof:lastmodified":1695876879,
     "wof:name":"Mujaste",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tarakvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004843,
-    "geom:area_square_m":31028176.380952,
+    "geom:area_square_m":31028176.380953,
     "geom:bbox":"26.765185,58.764819,26.890995,58.835476",
     "geom:latitude":58.793167,
     "geom:longitude":26.833229,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8149
+        "ee-mamt:okood":"8149"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310204171
     ],
     "wof:country":"EE",
     "wof:created":1595460597,
-    "wof:geomhash":"877cc58fc27cf7bcea47b7c6bef7da47",
+    "wof:geomhash":"5010b4b4ff968542bd813b78f73a043e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660955,
+    "wof:lastmodified":1695876740,
     "wof:name":"Tarakvere",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

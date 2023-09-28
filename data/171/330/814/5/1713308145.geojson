@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Purdi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000812,
-    "geom:area_square_m":5171686.596607,
+    "geom:area_square_m":5171686.596605,
     "geom:bbox":"25.591984,58.974245,25.632406,59.0086",
     "geom:latitude":58.990688,
     "geom:longitude":25.609584,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6440
+        "ee-mamt:okood":"6440"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344062877
     ],
     "wof:country":"EE",
     "wof:created":1595459569,
-    "wof:geomhash":"870527b56012e129a9fc87e26db72d2d",
+    "wof:geomhash":"49730eb722b84f1198db2832c33417ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661318,
+    "wof:lastmodified":1695876753,
     "wof:name":"Purdi",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

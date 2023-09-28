@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiritu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000613,
-    "geom:area_square_m":3980673.534352,
+    "geom:area_square_m":3980673.53435,
     "geom:bbox":"22.737329,58.285972,22.772902,58.315867",
     "geom:latitude":58.302725,
     "geom:longitude":22.756795,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3138
+        "ee-mamt:okood":"3138"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343645085
     ],
     "wof:country":"EE",
     "wof:created":1595459429,
-    "wof:geomhash":"e12b6f02c6349aa601a9b95d70ac1e34",
+    "wof:geomhash":"3548937a2caef364715650da7f7af9f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671929,
+    "wof:lastmodified":1695876875,
     "wof:name":"Kiritu",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

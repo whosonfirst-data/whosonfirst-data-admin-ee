@@ -8,7 +8,7 @@
     "ee-mamt:animi":"\u00dclendi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0008,
-    "geom:area_square_m":5109834.131838,
+    "geom:area_square_m":5109834.131837,
     "geom:bbox":"22.171315,58.879098,22.231391,58.900581",
     "geom:latitude":58.888776,
     "geom:longitude":22.203998,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9826
+        "ee-mamt:okood":"9826"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343775059
     ],
     "wof:country":"EE",
     "wof:created":1595460192,
-    "wof:geomhash":"f5b293acfe3c4fdc4532372035cec62a",
+    "wof:geomhash":"51052d579db1a095d1c7ffa0f349bedd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666436,
+    "wof:lastmodified":1695876858,
     "wof:name":"\u00dclendi",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u00e4maja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000696,
-    "geom:area_square_m":4562429.829485,
+    "geom:area_square_m":4562429.829487,
     "geom:bbox":"22.037764,57.986222,22.071261,58.025114",
     "geom:latitude":58.006025,
     "geom:longitude":22.054048,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2310
+        "ee-mamt:okood":"2310"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276951843
     ],
     "wof:country":"EE",
     "wof:created":1595459385,
-    "wof:geomhash":"ecd88bbbbf7e30b8737bc4d3ee93c8de",
+    "wof:geomhash":"a13f7db6883b10b2d02f687b07fd2161",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672256,
+    "wof:lastmodified":1695876886,
     "wof:name":"J\u00e4maja",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuke K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00086,
-    "geom:area_square_m":5471686.659013,
+    "geom:area_square_m":5471686.659016,
     "geom:bbox":"24.103086,59.013754,24.171093,59.040343",
     "geom:latitude":59.027871,
     "geom:longitude":24.137525,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3551
+        "ee-mamt:okood":"3551"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343675977
     ],
     "wof:country":"EE",
     "wof:created":1595460743,
-    "wof:geomhash":"72490405830a6faa0099c37e55758ebb",
+    "wof:geomhash":"b02a464e514c4109d24b1355b0f24398",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677169,
+    "wof:lastmodified":1695876985,
     "wof:name":"Kuke",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

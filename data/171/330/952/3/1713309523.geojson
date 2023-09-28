@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kanamardi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003097,
-    "geom:area_square_m":20045061.96101,
+    "geom:area_square_m":20045061.961007,
     "geom:bbox":"23.917734,58.40247,23.984002,58.483154",
     "geom:latitude":58.441934,
     "geom:longitude":23.948702,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2651
+        "ee-mamt:okood":"2651"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309987361
     ],
     "wof:country":"EE",
     "wof:created":1595459906,
-    "wof:geomhash":"16c65d0eaa7fb8bb997ff293c0043bfa",
+    "wof:geomhash":"7013a3b914226ff1885a30d4a9a1ab0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661604,
+    "wof:lastmodified":1695876768,
     "wof:name":"Kanamardi",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

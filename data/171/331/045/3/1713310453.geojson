@@ -14,7 +14,7 @@
     "geom:longitude":26.429548,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Ulila alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8655
+        "ee-mamt:okood":"8655"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936731
     ],
     "wof:country":"EE",
     "wof:created":1595460124,
-    "wof:geomhash":"0ab74cc6b7f0d354626da5136d325bad",
+    "wof:geomhash":"6f4ad0768541d670c894e1263204ef84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661890,
+    "wof:lastmodified":1695876784,
     "wof:name":"Ulila",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

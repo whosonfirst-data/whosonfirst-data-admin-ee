@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viruk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001714,
-    "geom:area_square_m":10889053.887702,
+    "geom:area_square_m":10889053.887703,
     "geom:bbox":"24.173254,59.068191,24.249692,59.111572",
     "geom:latitude":59.088433,
     "geom:longitude":24.203557,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9401
+        "ee-mamt:okood":"9401"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293306503
     ],
     "wof:country":"EE",
     "wof:created":1595459448,
-    "wof:geomhash":"779dd9fc8bc96e0ca29e5533f406b085",
+    "wof:geomhash":"9c6e5ef52a3d7050e35cb75f8de90d82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663231,
+    "wof:lastmodified":1695876811,
     "wof:name":"Viruk\u00fcla",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

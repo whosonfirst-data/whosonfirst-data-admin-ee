@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viitka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001724,
-    "geom:area_square_m":11400775.338314,
+    "geom:area_square_m":11400775.338312,
     "geom:bbox":"27.281493,57.657535,27.382509,57.693844",
     "geom:latitude":57.677456,
     "geom:longitude":27.33263,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9310
+        "ee-mamt:okood":"9310"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125937029
     ],
     "wof:country":"EE",
     "wof:created":1595461393,
-    "wof:geomhash":"cdc5333106c7ac7a5bd12e5f735018db",
+    "wof:geomhash":"4dd0c74a38016f901e5abf79d59f627b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660234,
+    "wof:lastmodified":1695876722,
     "wof:name":"Viitka",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

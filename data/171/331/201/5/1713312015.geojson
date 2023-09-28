@@ -14,7 +14,7 @@
     "geom:longitude":25.976209,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "P\u0151ltsamaa linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6537
+        "ee-mamt:okood":"6537"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815117
     ],
     "wof:country":"EE",
     "wof:created":1595460464,
-    "wof:geomhash":"3bf1fcac8f786ea844f01d633cc7ddd9",
+    "wof:geomhash":"7c5350710c48178281d5accf0ef03b72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676491,
+    "wof:lastmodified":1695876915,
     "wof:name":"P\u0151ltsamaa",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ignase K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000806,
-    "geom:area_square_m":5241258.312897,
+    "geom:area_square_m":5241258.312896,
     "geom:bbox":"26.823709,58.247548,26.880344,58.272052",
     "geom:latitude":58.259605,
     "geom:longitude":26.850067,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2000
+        "ee-mamt:okood":"2000"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126036663
     ],
     "wof:country":"EE",
     "wof:created":1595460624,
-    "wof:geomhash":"2aeca37ca83313c75c16d492f5844cbd",
+    "wof:geomhash":"151d2acdaf869dae3519dcb55feba3f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660650,
+    "wof:lastmodified":1695876729,
     "wof:name":"Ignase",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

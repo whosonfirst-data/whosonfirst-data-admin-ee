@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Assikvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001025,
-    "geom:area_square_m":6580651.252058,
+    "geom:area_square_m":6580651.252057,
     "geom:bbox":"26.938512,58.706431,27.013614,58.735856",
     "geom:latitude":58.721931,
     "geom:longitude":26.972629,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1413
+        "ee-mamt:okood":"1413"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360189317
     ],
     "wof:country":"EE",
     "wof:created":1595461010,
-    "wof:geomhash":"86f0d3ba3145fc9c4b7925217210fa7f",
+    "wof:geomhash":"66906ee95d78afd2ea6e1b353109569f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660838,
+    "wof:lastmodified":1695876737,
     "wof:name":"Assikvere",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

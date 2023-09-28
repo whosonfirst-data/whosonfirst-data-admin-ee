@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuij\u0151e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005782,
-    "geom:area_square_m":36709463.404519,
+    "geom:area_square_m":36709463.404525,
     "geom:bbox":"23.961802,59.055289,24.086482,59.139345",
     "geom:latitude":59.103975,
     "geom:longitude":24.01373,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3539
+        "ee-mamt:okood":"3539"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243168847
     ],
     "wof:country":"EE",
     "wof:created":1595461190,
-    "wof:geomhash":"00ba51a750b095bcb1caa22f754d6e81",
+    "wof:geomhash":"9a050f13f20566a8c947daf946235af6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677215,
+    "wof:lastmodified":1695876991,
     "wof:name":"Kuij\u0151e",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

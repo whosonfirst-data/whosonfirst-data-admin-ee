@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viskla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001775,
-    "geom:area_square_m":11229287.123034,
+    "geom:area_square_m":11229287.123037,
     "geom:bbox":"25.164717,59.204021,25.236884,59.243774",
     "geom:latitude":59.226074,
     "geom:longitude":25.202918,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9417
+        "ee-mamt:okood":"9417"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310715733
     ],
     "wof:country":"EE",
     "wof:created":1595459154,
-    "wof:geomhash":"2bf57d7eba279fd6f184aadcddbd8abf",
+    "wof:geomhash":"a4ddf46b7a8a53fe075b695156919abc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661337,
+    "wof:lastmodified":1695876754,
     "wof:name":"Viskla",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

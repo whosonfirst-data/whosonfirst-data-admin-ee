@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Savalduma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00162,
-    "geom:area_square_m":10265236.365202,
+    "geom:area_square_m":10265236.365206,
     "geom:bbox":"26.009815,59.146408,26.083364,59.188537",
     "geom:latitude":59.169426,
     "geom:longitude":26.048065,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7481
+        "ee-mamt:okood":"7481"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209535697
     ],
     "wof:country":"EE",
     "wof:created":1595459572,
-    "wof:geomhash":"ad50c6cfa62403ff2ab504aebaeff9c5",
+    "wof:geomhash":"e08c817c15f4b17e07cd5289469efb2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676596,
+    "wof:lastmodified":1695876928,
     "wof:name":"Savalduma",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

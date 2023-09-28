@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Roobe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001392,
-    "geom:area_square_m":9130345.970496,
+    "geom:area_square_m":9130345.970495,
     "geom:bbox":"25.926471,57.956484,25.986801,58.006393",
     "geom:latitude":57.976357,
     "geom:longitude":25.951119,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7053
+        "ee-mamt:okood":"7053"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309868261
     ],
     "wof:country":"EE",
     "wof:created":1595460148,
-    "wof:geomhash":"91137029eca56b878b5af88effd256be",
+    "wof:geomhash":"afc937b65f816d6a31797932bab91f58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661422,
+    "wof:lastmodified":1695876758,
     "wof:name":"Roobe",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kasti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00087,
-    "geom:area_square_m":5659787.560152,
+    "geom:area_square_m":5659787.560154,
     "geom:bbox":"22.604446,58.248937,22.665054,58.27152",
     "geom:latitude":58.259905,
     "geom:longitude":22.636682,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2823
+        "ee-mamt:okood":"2823"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326713889
     ],
     "wof:country":"EE",
     "wof:created":1595459399,
-    "wof:geomhash":"f8905c656d349535ead346f529f10c19",
+    "wof:geomhash":"eaadb1b4cfa8461cb2ba7497d7adcb46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672404,
+    "wof:lastmodified":1695876893,
     "wof:name":"Kasti",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

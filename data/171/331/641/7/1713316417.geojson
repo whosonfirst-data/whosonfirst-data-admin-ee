@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Keema K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000882,
-    "geom:area_square_m":5802912.689064,
+    "geom:area_square_m":5802912.689065,
     "geom:bbox":"26.62997,57.822584,26.701756,57.843156",
     "geom:latitude":57.833599,
     "geom:longitude":26.664508,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2911
+        "ee-mamt:okood":"2911"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209489441
     ],
     "wof:country":"EE",
     "wof:created":1595461422,
-    "wof:geomhash":"596bd6167c93df360de266ff4f47246a",
+    "wof:geomhash":"7ce2e39648e932d992a8b16f4459bca4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660277,
+    "wof:lastmodified":1695876727,
     "wof:name":"Keema",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

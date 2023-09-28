@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u0151sivere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001006,
-    "geom:area_square_m":6528712.220116,
+    "geom:area_square_m":6528712.220115,
     "geom:bbox":"26.404217,58.322314,26.465111,58.347023",
     "geom:latitude":58.335569,
     "geom:longitude":26.433529,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9591
+        "ee-mamt:okood":"9591"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243138385
     ],
     "wof:country":"EE",
     "wof:created":1595460647,
-    "wof:geomhash":"c247b59b976fbb117b2d15250d886530",
+    "wof:geomhash":"ce2811366ea5054a16d2d3cf33282281",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661905,
+    "wof:lastmodified":1695876788,
     "wof:name":"V\u0151sivere",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

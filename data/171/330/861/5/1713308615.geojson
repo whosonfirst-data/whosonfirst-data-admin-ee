@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u0151gari-Sassi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001524,
-    "geom:area_square_m":9755698.794384,
+    "geom:area_square_m":9755698.79439,
     "geom:bbox":"23.352456,58.784695,23.547912,58.849791",
     "geom:latitude":58.815078,
     "geom:longitude":23.472361,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6496
+        "ee-mamt:okood":"6496"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276895505
     ],
     "wof:country":"EE",
     "wof:created":1595459688,
-    "wof:geomhash":"570292cdc7c9712194f9e01270f01912",
+    "wof:geomhash":"8aa30137b519d62af5983e72fdfc3312",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662518,
+    "wof:lastmodified":1695876795,
     "wof:name":"P\u0151gari-Sassi",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

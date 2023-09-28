@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Voorepalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002282,
-    "geom:area_square_m":14886429.742654,
+    "geom:area_square_m":14886429.742655,
     "geom:bbox":"26.8203,58.126232,26.892196,58.176192",
     "geom:latitude":58.152741,
     "geom:longitude":26.853154,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9472
+        "ee-mamt:okood":"9472"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293669271
     ],
     "wof:country":"EE",
     "wof:created":1595460697,
-    "wof:geomhash":"638723703886f5c81c508a03c0eed343",
+    "wof:geomhash":"5bab60f3b2e7a42bfe0737d54fc5f8dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676774,
+    "wof:lastmodified":1695876949,
     "wof:name":"Voorepalu",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

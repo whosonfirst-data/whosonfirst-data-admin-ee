@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lao K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000849,
-    "geom:area_square_m":5523097.93895,
+    "geom:area_square_m":5523097.938953,
     "geom:bbox":"24.074729,58.227907,24.132524,58.26736",
     "geom:latitude":58.251694,
     "geom:longitude":24.10305,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4109
+        "ee-mamt:okood":"4109"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276848973
     ],
     "wof:country":"EE",
     "wof:created":1595460046,
-    "wof:geomhash":"6b33e5b508e3a864b05f0520af831bfc",
+    "wof:geomhash":"d7bb7eb950f84d53006e33c0eab497e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617130637,
+    "wof:lastmodified":1695877017,
     "wof:name":"Lao",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Abja-Paluoja Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.000684,
-    "geom:area_square_m":4466433.944703,
+    "geom:area_square_m":4466433.9447,
     "geom:bbox":"25.335058,58.115953,25.376142,58.145252",
     "geom:latitude":58.130045,
     "geom:longitude":25.353558,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Abja-Paluoja linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1060
+        "ee-mamt:okood":"1060"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101816269
     ],
     "wof:country":"EE",
     "wof:created":1595460408,
-    "wof:geomhash":"5ca3ff29fee58f96990cab82fb64a05f",
+    "wof:geomhash":"9af6295df67703f6609704c66cd7f5c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661285,
+    "wof:lastmodified":1695876750,
     "wof:name":"Abja-Paluoja",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

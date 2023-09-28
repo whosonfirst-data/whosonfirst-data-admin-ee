@@ -14,7 +14,7 @@
     "geom:longitude":26.870419,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Aseri alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1402
+        "ee-mamt:okood":"1402"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815207
     ],
     "wof:country":"EE",
     "wof:created":1595459474,
-    "wof:geomhash":"a6386981a5c7d9b905b2aeec87922206",
+    "wof:geomhash":"b1038213a0c77d2a9f405edfaf887f08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677914,
+    "wof:lastmodified":1695876999,
     "wof:name":"Aseri",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

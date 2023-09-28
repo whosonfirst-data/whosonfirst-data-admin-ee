@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002753,
-    "geom:area_square_m":18028884.712762,
+    "geom:area_square_m":18028884.712756,
     "geom:bbox":"25.608948,57.991217,25.743122,58.039147",
     "geom:latitude":58.01992,
     "geom:longitude":25.678131,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1160
+        "ee-mamt:okood":"1160"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125971263
     ],
     "wof:country":"EE",
     "wof:created":1595461000,
-    "wof:geomhash":"d712d73aaafd1049495e9364593b038d",
+    "wof:geomhash":"efda240cea2d1477f533293b11b55385",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661430,
+    "wof:lastmodified":1695876760,
     "wof:name":"Ala",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

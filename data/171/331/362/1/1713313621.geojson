@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paadenurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003609,
-    "geom:area_square_m":22968462.480326,
+    "geom:area_square_m":22968462.48033,
     "geom:bbox":"26.798418,58.98979,26.891774,59.058959",
     "geom:latitude":59.020959,
     "geom:longitude":26.848024,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5774
+        "ee-mamt:okood":"5774"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226154661
     ],
     "wof:country":"EE",
     "wof:created":1595460801,
-    "wof:geomhash":"eaecff7a640833cc71d502a8231f7b80",
+    "wof:geomhash":"40e6b7191941fa47b8c827934d6ce7c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660988,
+    "wof:lastmodified":1695876742,
     "wof:name":"Paadenurme",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Alliklepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001975,
-    "geom:area_square_m":12479837.413395,
+    "geom:area_square_m":12479837.413397,
     "geom:bbox":"23.761661,59.244257,23.848013,59.289424",
     "geom:latitude":59.266295,
     "geom:longitude":23.807449,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1208
+        "ee-mamt:okood":"1208"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260089733
     ],
     "wof:country":"EE",
     "wof:created":1595459463,
-    "wof:geomhash":"42a63779e474589dbd816cfcac7bb998",
+    "wof:geomhash":"f3fec40654f1cd6d5637d41a65842afa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663295,
+    "wof:lastmodified":1695876816,
     "wof:name":"Alliklepa",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

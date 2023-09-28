@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Villavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000433,
-    "geom:area_square_m":2716781.517064,
+    "geom:area_square_m":2716781.517063,
     "geom:bbox":"26.571699,59.473595,26.606813,59.495172",
     "geom:latitude":59.486232,
     "geom:longitude":26.591528,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9351
+        "ee-mamt:okood":"9351"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459541,
-    "wof:geomhash":"05ca6506e0e6251c189fe2756eb7c364",
+    "wof:geomhash":"37d0c99689931be708f8210f8ef7bc14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677916,
+    "wof:lastmodified":1695877000,
     "wof:name":"Villavere",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

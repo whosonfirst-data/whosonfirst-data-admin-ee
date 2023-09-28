@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sirevere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001281,
-    "geom:area_square_m":8147700.484044,
+    "geom:area_square_m":8147700.484043,
     "geom:bbox":"26.428775,59.038493,26.513033,59.079012",
     "geom:latitude":59.056563,
     "geom:longitude":26.468495,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7630
+        "ee-mamt:okood":"7630"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260205925
     ],
     "wof:country":"EE",
     "wof:created":1595459455,
-    "wof:geomhash":"22ac2ced2be8657e6fe4cfea7936bad4",
+    "wof:geomhash":"52daed1bfdb71ff76c7d7719e2a8cb9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677954,
+    "wof:lastmodified":1695877005,
     "wof:name":"Sirevere",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

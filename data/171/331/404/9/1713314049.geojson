@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Korij\u00e4rve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003225,
-    "geom:area_square_m":21233891.040835,
+    "geom:area_square_m":21233891.040834,
     "geom:bbox":"26.322474,57.804602,26.430875,57.851249",
     "geom:latitude":57.824485,
     "geom:longitude":26.375888,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3447
+        "ee-mamt:okood":"3447"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193253641
     ],
     "wof:country":"EE",
     "wof:created":1595460892,
-    "wof:geomhash":"5533ec4dfa9cd41d85a10a1da27a7636",
+    "wof:geomhash":"01764e6aa1b4e47eb8408bf31765df59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661940,
+    "wof:lastmodified":1695876791,
     "wof:name":"Korij\u00e4rve",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

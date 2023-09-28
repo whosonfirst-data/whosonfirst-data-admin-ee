@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuivastu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001487,
-    "geom:area_square_m":9587083.321943,
+    "geom:area_square_m":9587083.321939,
     "geom:bbox":"23.331887,58.550028,23.396557,58.589926",
     "geom:latitude":58.569961,
     "geom:longitude":23.363051,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3549
+        "ee-mamt:okood":"3549"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125847289
     ],
     "wof:country":"EE",
     "wof:created":1595459101,
-    "wof:geomhash":"91f3a0d1e128a1f5be58fbc383d8ce80",
+    "wof:geomhash":"d5924a41d9ca03c1cc9ee27e7c687d15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675112,
+    "wof:lastmodified":1695876904,
     "wof:name":"Kuivastu",
     "wof:parent_id":1713305623,
     "wof:placetype":"localadmin",

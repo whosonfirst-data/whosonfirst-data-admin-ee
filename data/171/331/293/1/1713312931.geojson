@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaela K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000919,
-    "geom:area_square_m":5798809.639474,
+    "geom:area_square_m":5798809.639473,
     "geom:bbox":"24.782273,59.315288,24.840319,59.349568",
     "geom:latitude":59.331581,
     "geom:longitude":24.809357,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8824
+        "ee-mamt:okood":"8824"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125951011
     ],
     "wof:country":"EE",
     "wof:created":1595460654,
-    "wof:geomhash":"0097d930f71fbc86db6d1e6b343b9661",
+    "wof:geomhash":"5511dcb4eaf1cc01023e9830981e5359",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663493,
+    "wof:lastmodified":1695876831,
     "wof:name":"Vaela",
     "wof:parent_id":1713305643,
     "wof:placetype":"localadmin",

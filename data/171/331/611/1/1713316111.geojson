@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viro K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000038,
-    "geom:area_square_m":249412.774491,
+    "geom:area_square_m":249412.774492,
     "geom:bbox":"27.446857,57.753943,27.453648,57.76385",
     "geom:latitude":57.758986,
     "geom:longitude":27.450471,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9384
+        "ee-mamt:okood":"9384"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461360,
-    "wof:geomhash":"21cae6776c1c220d9b0fbb0d792751e3",
+    "wof:geomhash":"ef076038a8f6590761f1ac9191f07480",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663647,
+    "wof:lastmodified":1695876840,
     "wof:name":"Viro",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

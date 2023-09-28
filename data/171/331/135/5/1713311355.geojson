@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Risu-Suurk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001148,
-    "geom:area_square_m":7309862.114888,
+    "geom:area_square_m":7309862.11489,
     "geom:bbox":"24.508125,59.001181,24.55602,59.035964",
     "geom:latitude":59.016974,
     "geom:longitude":24.534822,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7015
+        "ee-mamt:okood":"7015"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460319,
-    "wof:geomhash":"3a2a90868cf5120db02c569f48e986c4",
+    "wof:geomhash":"0d3a830e3ab2b44c369ccaaed828c6d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662807,
+    "wof:lastmodified":1695876799,
     "wof:name":"Risu-Suurk\u00fcla",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

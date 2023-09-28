@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Liigalaskma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000843,
-    "geom:area_square_m":5437545.303157,
+    "geom:area_square_m":5437545.303159,
     "geom:bbox":"22.962449,58.560604,23.020023,58.588968",
     "geom:latitude":58.573569,
     "geom:longitude":22.992615,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4335
+        "ee-mamt:okood":"4335"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260253425
     ],
     "wof:country":"EE",
     "wof:created":1595459200,
-    "wof:geomhash":"6c3b9bbf1b71edeaf5c3aea42366f521",
+    "wof:geomhash":"ecb0727a0c82ae2ec67a8bad669439bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672012,
+    "wof:lastmodified":1695876877,
     "wof:name":"Liigalaskma",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

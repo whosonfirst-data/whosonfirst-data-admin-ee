@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Telise K\u00fcla / T\u00e4lln\u00e4s",
     "ee-mamt:tyyp":8,
     "geom:area":0.001491,
-    "geom:area_square_m":9477793.702508,
+    "geom:area_square_m":9477793.702501,
     "geom:bbox":"23.427678,59.038136,23.487714,59.078012",
     "geom:latitude":59.057823,
     "geom:longitude":23.452926,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8187
+        "ee-mamt:okood":"8187"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343256281
     ],
     "wof:country":"EE",
     "wof:created":1595459732,
-    "wof:geomhash":"041280aadd9d74d1a733e69d7c504c89",
+    "wof:geomhash":"fadea9d4743227dc1372921c78aa5c8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677192,
+    "wof:lastmodified":1695876988,
     "wof:name":"Telise",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

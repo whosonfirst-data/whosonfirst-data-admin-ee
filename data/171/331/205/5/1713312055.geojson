@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Lohusuu Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.001005,
-    "geom:area_square_m":6407468.518237,
+    "geom:area_square_m":6407468.518236,
     "geom:bbox":"27.013321,58.928911,27.093466,58.963323",
     "geom:latitude":58.947178,
     "geom:longitude":27.050528,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Lohusuu alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4459
+        "ee-mamt:okood":"4459"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125934783
     ],
     "wof:country":"EE",
     "wof:created":1595460473,
-    "wof:geomhash":"8f476832ea81d7d9f9e7d89debe0d781",
+    "wof:geomhash":"6897b88ff2f395c825369a013cef5c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660971,
+    "wof:lastmodified":1695876741,
     "wof:name":"Lohusuu",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

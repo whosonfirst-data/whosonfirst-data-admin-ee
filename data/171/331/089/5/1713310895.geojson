@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tooste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001912,
-    "geom:area_square_m":12482920.816056,
+    "geom:area_square_m":12482920.816058,
     "geom:bbox":"27.440872,58.12055,27.529881,58.15683",
     "geom:latitude":58.137447,
     "geom:longitude":27.484369,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8313
+        "ee-mamt:okood":"8313"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326807609
     ],
     "wof:country":"EE",
     "wof:created":1595460222,
-    "wof:geomhash":"6464363c9d45aaa0faadf2b45009d65b",
+    "wof:geomhash":"1b6f470a6100d42f2500f9e1327073c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676982,
+    "wof:lastmodified":1695876978,
     "wof:name":"Tooste",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

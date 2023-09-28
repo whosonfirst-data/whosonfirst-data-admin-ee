@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ahitsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000165,
-    "geom:area_square_m":1089995.429528,
+    "geom:area_square_m":1089995.429529,
     "geom:bbox":"26.835467,57.746565,26.862346,57.75832",
     "geom:latitude":57.751469,
     "geom:longitude":26.845929,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1111
+        "ee-mamt:okood":"1111"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225804069
     ],
     "wof:country":"EE",
     "wof:created":1595461034,
-    "wof:geomhash":"087fbc27bd64567beb91d81dd705964c",
+    "wof:geomhash":"40c018d8dd4a3999be69787cde3339ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676807,
+    "wof:lastmodified":1695876953,
     "wof:name":"Ahitsa",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

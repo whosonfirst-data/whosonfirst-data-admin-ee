@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u00e4nistvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000426,
-    "geom:area_square_m":2748234.208106,
+    "geom:area_square_m":2748234.208104,
     "geom:bbox":"24.117672,58.54359,24.162273,58.564198",
     "geom:latitude":58.555469,
     "geom:longitude":24.140797,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2316
+        "ee-mamt:okood":"2316"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209396149
     ],
     "wof:country":"EE",
     "wof:created":1595459953,
-    "wof:geomhash":"1af2b115d6df7687f64d02a8e4ff61f6",
+    "wof:geomhash":"44b8ea9082ce27f1c2f51e7bf4b016e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661580,
+    "wof:lastmodified":1695876766,
     "wof:name":"J\u00e4nistvere",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

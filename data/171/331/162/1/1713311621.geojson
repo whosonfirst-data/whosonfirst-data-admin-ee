@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ohakvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002547,
-    "geom:area_square_m":16113157.899311,
+    "geom:area_square_m":16113157.899314,
     "geom:bbox":"27.390978,59.200745,27.49803,59.241504",
     "geom:latitude":59.221915,
     "geom:longitude":27.442481,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5615
+        "ee-mamt:okood":"5615"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209925645
     ],
     "wof:country":"EE",
     "wof:created":1595460383,
-    "wof:geomhash":"d1309f4bc224680ed39294d635004ae4",
+    "wof:geomhash":"cc2a51c60a89be52c243d6b7809d2096",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660686,
+    "wof:lastmodified":1695876731,
     "wof:name":"Ohakvere",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

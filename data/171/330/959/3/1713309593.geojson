@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sigaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.011531,
-    "geom:area_square_m":75071840.771872,
+    "geom:area_square_m":75071840.771871,
     "geom:bbox":"24.865851,58.162609,25.039402,58.284739",
     "geom:latitude":58.228908,
     "geom:longitude":24.943318,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7560
+        "ee-mamt:okood":"7560"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225826293
     ],
     "wof:country":"EE",
     "wof:created":1595459926,
-    "wof:geomhash":"fe5182cc22880b2aa6f70a19869ccf47",
+    "wof:geomhash":"276c84136a41e7f500cad6eeb22f3dca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677724,
+    "wof:lastmodified":1695876996,
     "wof:name":"Sigaste",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

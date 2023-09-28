@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Purga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000828,
-    "geom:area_square_m":5269905.120848,
+    "geom:area_square_m":5269905.120851,
     "geom:bbox":"24.378786,59.009374,24.443466,59.036122",
     "geom:latitude":59.022522,
     "geom:longitude":24.410857,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6438
+        "ee-mamt:okood":"6438"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344136199
     ],
     "wof:country":"EE",
     "wof:created":1595460281,
-    "wof:geomhash":"9586687132ec9b9671610d999a0cc208",
+    "wof:geomhash":"fd8d8369689e4c3d2f4a1aa77edd0ee9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662808,
+    "wof:lastmodified":1695876800,
     "wof:name":"Purga",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

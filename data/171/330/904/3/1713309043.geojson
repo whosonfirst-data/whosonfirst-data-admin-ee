@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vedra K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001131,
-    "geom:area_square_m":7200662.709523,
+    "geom:area_square_m":7200662.709524,
     "geom:bbox":"23.658801,59.005795,23.717556,59.04446",
     "geom:latitude":59.023697,
     "geom:longitude":23.687253,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9156
+        "ee-mamt:okood":"9156"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327428449
     ],
     "wof:country":"EE",
     "wof:created":1595459791,
-    "wof:geomhash":"2d1e0dae32d0d4bfb433ebfbda7b1ba8",
+    "wof:geomhash":"e5d5be6ddfc5ba2ec8a06824e2921838",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677176,
+    "wof:lastmodified":1695876986,
     "wof:name":"Vedra",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

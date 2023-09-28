@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Alupere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000885,
-    "geom:area_square_m":5608679.792874,
+    "geom:area_square_m":5608679.792876,
     "geom:bbox":"26.047144,59.161375,26.109219,59.195156",
     "geom:latitude":59.182256,
     "geom:longitude":26.080429,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1235
+        "ee-mamt:okood":"1235"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360282969
     ],
     "wof:country":"EE",
     "wof:created":1595459689,
-    "wof:geomhash":"cf2edea1ea72367b25fac037f91a0238",
+    "wof:geomhash":"7582a54b23cbe1b41fd41b11b37015fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676597,
+    "wof:lastmodified":1695876928,
     "wof:name":"Alupere",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

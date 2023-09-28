@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paenasti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00183,
-    "geom:area_square_m":11796122.583246,
+    "geom:area_square_m":11796122.583244,
     "geom:bbox":"25.750251,58.570811,25.847102,58.604857",
     "geom:latitude":58.589212,
     "geom:longitude":25.800107,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5833
+        "ee-mamt:okood":"5833"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1192983385
     ],
     "wof:country":"EE",
     "wof:created":1595460984,
-    "wof:geomhash":"e0a5642964a8c76de4aba0e11d17d0cf",
+    "wof:geomhash":"4ef4120edbfe9ec957af96e5cf3d7202",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663449,
+    "wof:lastmodified":1695876831,
     "wof:name":"Paenasti",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kakuv\u00e4lja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001107,
-    "geom:area_square_m":6940032.15392,
+    "geom:area_square_m":6940032.153921,
     "geom:bbox":"26.021478,59.507754,26.093868,59.534513",
     "geom:latitude":59.522422,
     "geom:longitude":26.058395,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2558
+        "ee-mamt:okood":"2558"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326850423
     ],
     "wof:country":"EE",
     "wof:created":1595459690,
-    "wof:geomhash":"c383aca4a3dc508913eda0683a5dc6ca",
+    "wof:geomhash":"5b0d4db8126a25fa53206945ab5541c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678020,
+    "wof:lastmodified":1695877010,
     "wof:name":"Kakuv\u00e4lja",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

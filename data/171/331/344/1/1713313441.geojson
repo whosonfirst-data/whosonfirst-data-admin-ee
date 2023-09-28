@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pallika K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001013,
-    "geom:area_square_m":6510949.980193,
+    "geom:area_square_m":6510949.98019,
     "geom:bbox":"24.385539,58.672211,24.442794,58.702742",
     "geom:latitude":58.687625,
     "geom:longitude":24.41566,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5937
+        "ee-mamt:okood":"5937"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259850999
     ],
     "wof:country":"EE",
     "wof:created":1595460762,
-    "wof:geomhash":"f57ef94127fc3ca633366e88ccdbe766",
+    "wof:geomhash":"e4e0a02186481906fd6b0b12cf8c9591",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662825,
+    "wof:lastmodified":1695876805,
     "wof:name":"Pallika",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

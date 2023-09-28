@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tubala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003955,
-    "geom:area_square_m":25231740.561157,
+    "geom:area_square_m":25231740.561154,
     "geom:bbox":"22.673763,58.907082,22.800737,58.969083",
     "geom:latitude":58.940458,
     "geom:longitude":22.741402,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8382
+        "ee-mamt:okood":"8382"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209323379
     ],
     "wof:country":"EE",
     "wof:created":1595460202,
-    "wof:geomhash":"987426db13fcddeec4d7ccbc18705442",
+    "wof:geomhash":"9f78ea82218f789e004699cd184c8b9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666471,
+    "wof:lastmodified":1695876860,
     "wof:name":"Tubala",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

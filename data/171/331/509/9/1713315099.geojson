@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laeste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000744,
-    "geom:area_square_m":4755155.481928,
+    "geom:area_square_m":4755155.481927,
     "geom:bbox":"24.796345,58.858918,24.840202,58.894435",
     "geom:latitude":58.874735,
     "geom:longitude":24.819236,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4038
+        "ee-mamt:okood":"4038"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293376273
     ],
     "wof:country":"EE",
     "wof:created":1595461132,
-    "wof:geomhash":"57338a8743903b67d9e56370e85f9cb8",
+    "wof:geomhash":"14fd4747f5b74e55f30c908d019659b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676738,
+    "wof:lastmodified":1695876946,
     "wof:name":"Laeste",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

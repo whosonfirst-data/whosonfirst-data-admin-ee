@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Remniku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002021,
-    "geom:area_square_m":12859660.177919,
+    "geom:area_square_m":12859660.17792,
     "geom:bbox":"27.497897,59.008944,27.561054,59.049422",
     "geom:latitude":59.028485,
     "geom:longitude":27.528627,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6927
+        "ee-mamt:okood":"6927"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276555137
     ],
     "wof:country":"EE",
     "wof:created":1595460405,
-    "wof:geomhash":"445ae47803ff08a5bb17595b8a7483f9",
+    "wof:geomhash":"0f8262d3bcf2cefb5e78456a40d23775",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660706,
+    "wof:lastmodified":1695876733,
     "wof:name":"Remniku",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

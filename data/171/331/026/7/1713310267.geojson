@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lossim\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000848,
-    "geom:area_square_m":5531698.098069,
+    "geom:area_square_m":5531698.098068,
     "geom:bbox":"26.191224,58.136579,26.238949,58.166227",
     "geom:latitude":58.151052,
     "geom:longitude":26.217882,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4527
+        "ee-mamt:okood":"4527"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125955861
     ],
     "wof:country":"EE",
     "wof:created":1595460084,
-    "wof:geomhash":"6f5b0437bc3c48eedf08d75d3dbe32f7",
+    "wof:geomhash":"517a0ce5a14170a2a756f43703a39e5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661887,
+    "wof:lastmodified":1695876783,
     "wof:name":"Lossim\u00e4e",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

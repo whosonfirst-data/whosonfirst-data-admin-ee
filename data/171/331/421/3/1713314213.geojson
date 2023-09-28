@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laiksaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.007639,
-    "geom:area_square_m":49893446.570312,
+    "geom:area_square_m":49893446.570308,
     "geom:bbox":"24.640682,58.060434,24.795766,58.150872",
     "geom:latitude":58.116153,
     "geom:longitude":24.714216,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1421
+        "ee-mamt:okood":"1421"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276959937
     ],
     "wof:country":"EE",
     "wof:created":1595460926,
-    "wof:geomhash":"39c32c2e6f4f4cb80d7477c0baa845cb",
+    "wof:geomhash":"9f9c9c6c79c7e7b7b6c7aec84d851792",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677723,
+    "wof:lastmodified":1695876996,
     "wof:name":"Laiksaare",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

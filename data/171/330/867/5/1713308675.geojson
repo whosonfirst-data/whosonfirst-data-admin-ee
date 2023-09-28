@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Liivak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000516,
-    "geom:area_square_m":3299640.759604,
+    "geom:area_square_m":3299640.759603,
     "geom:bbox":"23.735009,58.817205,23.771345,58.844328",
     "geom:latitude":58.829165,
     "geom:longitude":23.750413,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4350
+        "ee-mamt:okood":"4350"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459704,
-    "wof:geomhash":"24848ad1104da71311e7be6347b29f2d",
+    "wof:geomhash":"e8cd6e790201aef98259820b810a3fbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677177,
+    "wof:lastmodified":1695876986,
     "wof:name":"Liivak\u00fcla",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

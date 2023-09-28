@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rae K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00184,
-    "geom:area_square_m":11816353.096172,
+    "geom:area_square_m":11816353.096173,
     "geom:bbox":"25.225144,58.679451,25.30732,58.722809",
     "geom:latitude":58.704113,
     "geom:longitude":25.261501,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6714
+        "ee-mamt:okood":"6714"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242852621
     ],
     "wof:country":"EE",
     "wof:created":1595460759,
-    "wof:geomhash":"93e9b7f637a7b4b634c4f7a76f0fabd7",
+    "wof:geomhash":"900563b4a05427dd6e8253ffea997223",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663398,
+    "wof:lastmodified":1695876822,
     "wof:name":"Rae",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

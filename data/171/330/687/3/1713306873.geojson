@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u0151nuvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001353,
-    "geom:area_square_m":8573358.662732,
+    "geom:area_square_m":8573358.662734,
     "geom:bbox":"25.54034,59.15531,25.608787,59.196462",
     "geom:latitude":59.177215,
     "geom:longitude":25.572705,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5156
+        "ee-mamt:okood":"5156"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209639353
     ],
     "wof:country":"EE",
     "wof:created":1595459266,
-    "wof:geomhash":"164376688296fe960dd68cde63b21c07",
+    "wof:geomhash":"a7eef995dd9d098889a7f3448b7d0ec8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676622,
+    "wof:lastmodified":1695876931,
     "wof:name":"M\u0151nuvere",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

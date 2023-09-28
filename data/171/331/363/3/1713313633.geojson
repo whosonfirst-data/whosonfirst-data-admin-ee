@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tuhala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001948,
-    "geom:area_square_m":12320178.093207,
+    "geom:area_square_m":12320178.093206,
     "geom:bbox":"24.94051,59.208379,25.014636,59.254295",
     "geom:latitude":59.23076,
     "geom:longitude":24.97365,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8396
+        "ee-mamt:okood":"8396"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125817117
     ],
     "wof:country":"EE",
     "wof:created":1595460803,
-    "wof:geomhash":"e7bcb3d8f360aa9c17e10de36395b281",
+    "wof:geomhash":"41e75a0d9da4bef2dbaccd0ec49fa4e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661334,
+    "wof:lastmodified":1695876753,
     "wof:name":"Tuhala",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

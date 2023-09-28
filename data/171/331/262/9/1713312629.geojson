@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u00e4neda K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001257,
-    "geom:area_square_m":7946780.552962,
+    "geom:area_square_m":7946780.552964,
     "geom:bbox":"25.654117,59.23274,25.727592,59.266853",
     "geom:latitude":59.24807,
     "geom:longitude":25.689579,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2318
+        "ee-mamt:okood":"2318"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125889619
     ],
     "wof:country":"EE",
     "wof:created":1595460584,
-    "wof:geomhash":"cf1d67aecfab17f3e30cd42ede341142",
+    "wof:geomhash":"50d88126b3613d5f09d38c2aa99ec60c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676599,
+    "wof:lastmodified":1695876929,
     "wof:name":"J\u00e4neda",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

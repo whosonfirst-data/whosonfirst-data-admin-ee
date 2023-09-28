@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laitse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002609,
-    "geom:area_square_m":16512417.085572,
+    "geom:area_square_m":16512417.085571,
     "geom:bbox":"24.309846,59.180926,24.424754,59.233236",
     "geom:latitude":59.210369,
     "geom:longitude":24.372936,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4075
+        "ee-mamt:okood":"4075"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125767411
     ],
     "wof:country":"EE",
     "wof:created":1595461049,
-    "wof:geomhash":"0efea7a56f73d33959aef94e73a8ffb1",
+    "wof:geomhash":"9c17f86fc9daa797e515a30c1ad2e8ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663228,
+    "wof:lastmodified":1695876810,
     "wof:name":"Laitse",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

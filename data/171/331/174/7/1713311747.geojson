@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Abjaku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00346,
-    "geom:area_square_m":22609273.177673,
+    "geom:area_square_m":22609273.177675,
     "geom:bbox":"25.309897,58.075473,25.413802,58.127648",
     "geom:latitude":58.100509,
     "geom:longitude":25.362717,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1061
+        "ee-mamt:okood":"1061"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293266705
     ],
     "wof:country":"EE",
     "wof:created":1595460409,
-    "wof:geomhash":"5409a8f27b15e13ee1760cc21163d274",
+    "wof:geomhash":"e63428f8133ccb139c2843c556e512e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661291,
+    "wof:lastmodified":1695876751,
     "wof:name":"Abjaku",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

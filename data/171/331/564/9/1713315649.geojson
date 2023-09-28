@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paidra K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000858,
-    "geom:area_square_m":5635966.242325,
+    "geom:area_square_m":5635966.242324,
     "geom:bbox":"27.13485,57.897679,27.192829,57.92782",
     "geom:latitude":57.914415,
     "geom:longitude":27.164371,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5862
+        "ee-mamt:okood":"5862"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293663173
     ],
     "wof:country":"EE",
     "wof:created":1595461265,
-    "wof:geomhash":"5805293a30f49eeda3f5955ac030d1f6",
+    "wof:geomhash":"f712b8a8badc0ca8fc6bc2c39aa076b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660261,
+    "wof:lastmodified":1695876725,
     "wof:name":"Paidra",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

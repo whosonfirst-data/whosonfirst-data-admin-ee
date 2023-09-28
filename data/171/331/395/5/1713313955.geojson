@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Marjam\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000725,
-    "geom:area_square_m":4731677.833117,
+    "geom:area_square_m":4731677.833112,
     "geom:bbox":"25.966666,58.10185,26.001825,58.146819",
     "geom:latitude":58.124593,
     "geom:longitude":25.981975,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4789
+        "ee-mamt:okood":"4789"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343523319
     ],
     "wof:country":"EE",
     "wof:created":1595460872,
-    "wof:geomhash":"701860ec614bf5d3252db0e77ea88c06",
+    "wof:geomhash":"91815786ce357e8e55d8bfb628125466",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661207,
+    "wof:lastmodified":1695876745,
     "wof:name":"Marjam\u00e4e",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

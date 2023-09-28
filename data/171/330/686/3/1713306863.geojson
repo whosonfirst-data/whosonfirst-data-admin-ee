@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Santovi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000569,
-    "geom:area_square_m":3629998.142066,
+    "geom:area_square_m":3629998.142065,
     "geom:bbox":"26.031609,58.946938,26.072151,58.972209",
     "geom:latitude":58.959216,
     "geom:longitude":26.051544,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7408
+        "ee-mamt:okood":"7408"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193276235
     ],
     "wof:country":"EE",
     "wof:created":1595459264,
-    "wof:geomhash":"11c91981da3acb6d6ac813911e4be7c4",
+    "wof:geomhash":"56f3e917c29a2bc7fe434c9a5c2a8bd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676624,
+    "wof:lastmodified":1695876932,
     "wof:name":"Santovi",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

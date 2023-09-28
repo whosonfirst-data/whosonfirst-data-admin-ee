@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saarj\u00e4rve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001546,
-    "geom:area_square_m":9944390.973828,
+    "geom:area_square_m":9944390.973826,
     "geom:bbox":"26.734906,58.636981,26.792059,58.682164",
     "geom:latitude":58.657873,
     "geom:longitude":26.765804,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7303
+        "ee-mamt:okood":"7303"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344056137
     ],
     "wof:country":"EE",
     "wof:created":1595460957,
-    "wof:geomhash":"64878e72024ee28575b1560d5ecb1625",
+    "wof:geomhash":"a1861264db5005cd20f3645007ce3e0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660980,
+    "wof:lastmodified":1695876742,
     "wof:name":"Saarj\u00e4rve",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

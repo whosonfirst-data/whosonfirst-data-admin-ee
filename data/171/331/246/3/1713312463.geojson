@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Illuka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002559,
-    "geom:area_square_m":16180313.314467,
+    "geom:area_square_m":16180313.314469,
     "geom:bbox":"27.4342,59.201252,27.519479,59.274035",
     "geom:latitude":59.240157,
     "geom:longitude":27.479525,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2042
+        "ee-mamt:okood":"2042"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243466029
     ],
     "wof:country":"EE",
     "wof:created":1595460550,
-    "wof:geomhash":"2826f901664e6e222b8692c2cf338237",
+    "wof:geomhash":"86bc9329c2c6bba8be415a98fdde9f06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660693,
+    "wof:lastmodified":1695876732,
     "wof:name":"Illuka",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

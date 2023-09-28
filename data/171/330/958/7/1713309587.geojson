@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u0151veri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00376,
-    "geom:area_square_m":24524778.507803,
+    "geom:area_square_m":24524778.507812,
     "geom:bbox":"24.631775,58.135192,24.778613,58.184855",
     "geom:latitude":58.158568,
     "geom:longitude":24.70869,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3840
+        "ee-mamt:okood":"3840"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360273403
     ],
     "wof:country":"EE",
     "wof:created":1595459925,
-    "wof:geomhash":"a16cb74dfda7127b1a21399407d50e79",
+    "wof:geomhash":"79908232a30410aac73168e05751d75c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677729,
+    "wof:lastmodified":1695876997,
     "wof:name":"K\u0151veri",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

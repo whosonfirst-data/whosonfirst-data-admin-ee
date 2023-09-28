@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Taudsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000494,
-    "geom:area_square_m":3258783.376589,
+    "geom:area_square_m":3258783.376588,
     "geom:bbox":"26.931543,57.735869,26.976707,57.757366",
     "geom:latitude":57.746922,
     "geom:longitude":26.952495,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8170
+        "ee-mamt:okood":"8170"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326494579
     ],
     "wof:country":"EE",
     "wof:created":1595461106,
-    "wof:geomhash":"6186a193ee5d0e69d3d30048154b757e",
+    "wof:geomhash":"6dc53d73830338bdd1a452598e5d842b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676814,
+    "wof:lastmodified":1695876955,
     "wof:name":"Taudsa",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

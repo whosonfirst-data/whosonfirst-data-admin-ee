@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kalgi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00093,
-    "geom:area_square_m":5947877.378566,
+    "geom:area_square_m":5947877.378564,
     "geom:bbox":"22.884085,58.833242,22.945245,58.869661",
     "geom:latitude":58.852894,
     "geom:longitude":22.917471,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2578
+        "ee-mamt:okood":"2578"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209923161
     ],
     "wof:country":"EE",
     "wof:created":1595460073,
-    "wof:geomhash":"8490761ebef4a8fc9a28f0b15ce47459",
+    "wof:geomhash":"ca49bfd296291db2f92f0f9e16075c39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666273,
+    "wof:lastmodified":1695876847,
     "wof:name":"Kalgi",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

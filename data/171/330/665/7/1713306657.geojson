@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raukla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001583,
-    "geom:area_square_m":10146161.622397,
+    "geom:area_square_m":10146161.622394,
     "geom:bbox":"25.493011,58.753852,25.554972,58.801479",
     "geom:latitude":58.777995,
     "geom:longitude":25.523564,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6863
+        "ee-mamt:okood":"6863"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277075365
     ],
     "wof:country":"EE",
     "wof:created":1595459208,
-    "wof:geomhash":"c6597fb5ca27d01bb91f9a0863ea8988",
+    "wof:geomhash":"85c370d12e0eb5a042023a935c6f80da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677974,
+    "wof:lastmodified":1695877006,
     "wof:name":"Raukla",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

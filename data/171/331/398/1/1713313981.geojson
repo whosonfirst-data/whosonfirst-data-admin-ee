@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004919,
-    "geom:area_square_m":30991588.228134,
+    "geom:area_square_m":30991588.228127,
     "geom:bbox":"25.779351,59.333893,25.934865,59.397651",
     "geom:latitude":59.368663,
     "geom:longitude":25.856871,
@@ -74,14 +74,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5901
+        "ee-mamt:okood":"5901"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343279577
     ],
     "wof:country":"EE",
     "wof:created":1595460877,
-    "wof:geomhash":"a6afd7d7219dda86424d953b223ab3c9",
+    "wof:geomhash":"39a068a43e2796f0e266f4ac3f34123c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,7 +99,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502247,
+    "wof:lastmodified":1695877021,
     "wof:name":"Pala",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",
