@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Korkuna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000123,
-    "geom:area_square_m":814162.97451,
+    "geom:area_square_m":814162.974511,
     "geom:bbox":"26.315089,57.635653,26.341756,57.647518",
     "geom:latitude":57.642746,
     "geom:longitude":26.326723,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3452
+        "ee-mamt:okood":"3452"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260145997
     ],
     "wof:country":"EE",
     "wof:created":1595460067,
-    "wof:geomhash":"faaf82b69971d4f4c48d56bbb8b81452",
+    "wof:geomhash":"37511e45c0fade070db801bd3a284fab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661936,
+    "wof:lastmodified":1695876789,
     "wof:name":"Korkuna",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soorinna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000844,
-    "geom:area_square_m":5296447.713567,
+    "geom:area_square_m":5296447.713568,
     "geom:bbox":"25.469103,59.482074,25.524274,59.511251",
     "geom:latitude":59.496139,
     "geom:longitude":25.49355,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7734
+        "ee-mamt:okood":"7734"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259883917
     ],
     "wof:country":"EE",
     "wof:created":1595459056,
-    "wof:geomhash":"36d06cdb7d3a95b59081db00d4ff57d5",
+    "wof:geomhash":"726a5b6fd4b8a20ea6285a84bbf303fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661822,
+    "wof:lastmodified":1695876779,
     "wof:name":"Soorinna",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

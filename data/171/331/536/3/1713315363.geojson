@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Siimika K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005957,
-    "geom:area_square_m":37797697.917276,
+    "geom:area_square_m":37797697.917277,
     "geom:bbox":"24.074873,59.08001,24.206116,59.173602",
     "geom:latitude":59.12648,
     "geom:longitude":24.14193,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7571
+        "ee-mamt:okood":"7571"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343665903
     ],
     "wof:country":"EE",
     "wof:created":1595461196,
-    "wof:geomhash":"a2199fc8d0554c60aecc21b31a9694c0",
+    "wof:geomhash":"24e82291dc831611e050e39dc39b0d3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663234,
+    "wof:lastmodified":1695876812,
     "wof:name":"Siimika",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koila K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000564,
-    "geom:area_square_m":3543400.112487,
+    "geom:area_square_m":3543400.112485,
     "geom:bbox":"25.128712,59.440979,25.175446,59.465299",
     "geom:latitude":59.452143,
     "geom:longitude":25.155932,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3296
+        "ee-mamt:okood":"3296"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459058,
-    "wof:geomhash":"86f14411b3d35cd771ee700bba1abfc3",
+    "wof:geomhash":"54e039be44c5ddddf501b99300f27a9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661378,
+    "wof:lastmodified":1695876757,
     "wof:name":"Koila",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

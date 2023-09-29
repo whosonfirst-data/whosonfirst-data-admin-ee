@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aakre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001862,
-    "geom:area_square_m":12163911.879107,
+    "geom:area_square_m":12163911.879108,
     "geom:bbox":"26.161079,58.083886,26.239889,58.118302",
     "geom:latitude":58.102437,
     "geom:longitude":26.198667,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1018
+        "ee-mamt:okood":"1018"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125932849
     ],
     "wof:country":"EE",
     "wof:created":1595460158,
-    "wof:geomhash":"4fad709cfb175d56d1bf777865e8013a",
+    "wof:geomhash":"32e86d6d7bd0fee77e4f5e39d7acaf3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661896,
+    "wof:lastmodified":1695876785,
     "wof:name":"Aakre",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

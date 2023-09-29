@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koikla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001233,
-    "geom:area_square_m":7969745.236849,
+    "geom:area_square_m":7969745.23685,
     "geom:bbox":"22.739563,58.449352,22.808014,58.489889",
     "geom:latitude":58.471762,
     "geom:longitude":22.774512,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3292
+        "ee-mamt:okood":"3292"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209486371
     ],
     "wof:country":"EE",
     "wof:created":1595459425,
-    "wof:geomhash":"cc709ac60c0b9f11d7ee2b8f86f1419c",
+    "wof:geomhash":"6f050f922668308326c000b5878713e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672494,
+    "wof:lastmodified":1695876895,
     "wof:name":"Koikla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

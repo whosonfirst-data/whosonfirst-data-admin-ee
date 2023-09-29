@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Miilim\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000061,
-    "geom:area_square_m":400797.255799,
+    "geom:area_square_m":400797.2558,
     "geom:bbox":"27.077245,57.740722,27.09314,57.748308",
     "geom:latitude":57.744518,
     "geom:longitude":27.084076,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4946
+        "ee-mamt:okood":"4946"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461123,
-    "wof:geomhash":"352e65c9e1ec332fab441ed1010a780b",
+    "wof:geomhash":"40f86ee94ad62236b9bc474fc75b3d5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676816,
+    "wof:lastmodified":1695876956,
     "wof:name":"Miilim\u00e4e",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

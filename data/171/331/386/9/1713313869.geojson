@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Verevi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004146,
-    "geom:area_square_m":26876394.383157,
+    "geom:area_square_m":26876394.383147,
     "geom:bbox":"26.130335,58.359142,26.24801,58.411782",
     "geom:latitude":58.383866,
     "geom:longitude":26.193209,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9211
+        "ee-mamt:okood":"9211"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344132647
     ],
     "wof:country":"EE",
     "wof:created":1595460854,
-    "wof:geomhash":"56a53065453f28c8434edcb5de444b91",
+    "wof:geomhash":"59f5a31702c862fc53d7b94202248b1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661903,
+    "wof:lastmodified":1695876787,
     "wof:name":"Verevi",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

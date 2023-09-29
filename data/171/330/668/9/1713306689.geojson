@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Reopalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000804,
-    "geom:area_square_m":5141467.846046,
+    "geom:area_square_m":5141467.846047,
     "geom:bbox":"25.477695,58.85337,25.521498,58.888527",
     "geom:latitude":58.870018,
     "geom:longitude":25.502828,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6940
+        "ee-mamt:okood":"6940"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935925
     ],
     "wof:country":"EE",
     "wof:created":1595459215,
-    "wof:geomhash":"442fa3d228485a1a0d38d025100236f3",
+    "wof:geomhash":"f8a28b4e1041388085bbd4621d691737",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677981,
+    "wof:lastmodified":1695877008,
     "wof:name":"Reopalu",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

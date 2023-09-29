@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raespa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000523,
-    "geom:area_square_m":3393227.122585,
+    "geom:area_square_m":3393227.122584,
     "geom:bbox":"23.795951,58.328937,23.830619,58.363634",
     "geom:latitude":58.352039,
     "geom:longitude":23.813976,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6717
+        "ee-mamt:okood":"6717"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259361307
     ],
     "wof:country":"EE",
     "wof:created":1595459850,
-    "wof:geomhash":"90a0fc2988405ee5acbf20a940647af0",
+    "wof:geomhash":"712c75b62a71b9495d7c0fc91d52247c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661570,
+    "wof:lastmodified":1695876764,
     "wof:name":"Raespa",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

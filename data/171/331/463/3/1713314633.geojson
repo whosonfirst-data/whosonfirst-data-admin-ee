@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lasila K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002066,
-    "geom:area_square_m":13055713.464916,
+    "geom:area_square_m":13055713.46492,
     "geom:bbox":"26.17196,59.237726,26.242398,59.289264",
     "geom:latitude":59.263517,
     "geom:longitude":26.202168,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4123
+        "ee-mamt:okood":"4123"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126005251
     ],
     "wof:country":"EE",
     "wof:created":1595461026,
-    "wof:geomhash":"f18a1872cb30b5e6b2c7b5fe11fdb9f7",
+    "wof:geomhash":"0cb140bd9af4616dc2790ed79eb7c279",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676667,
+    "wof:lastmodified":1695876937,
     "wof:name":"Lasila",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

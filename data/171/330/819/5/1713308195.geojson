@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viraksaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000603,
-    "geom:area_square_m":3848601.234157,
+    "geom:area_square_m":3848601.234158,
     "geom:bbox":"25.508713,58.902866,25.549985,58.925546",
     "geom:latitude":58.914327,
     "geom:longitude":25.527297,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9379
+        "ee-mamt:okood":"9379"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276585625
     ],
     "wof:country":"EE",
     "wof:created":1595459585,
-    "wof:geomhash":"49eed107ffe94e0ef0ccb68fac829080",
+    "wof:geomhash":"94604b5085fc7b0418eb7018ab8061fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661318,
+    "wof:lastmodified":1695876753,
     "wof:name":"Viraksaare",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

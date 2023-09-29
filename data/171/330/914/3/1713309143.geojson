@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kavandu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000959,
-    "geom:area_square_m":6248973.294095,
+    "geom:area_square_m":6248973.294092,
     "geom:bbox":"26.581793,58.16814,26.640114,58.20138",
     "geom:latitude":58.186887,
     "geom:longitude":26.612227,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2891
+        "ee-mamt:okood":"2891"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343833973
     ],
     "wof:country":"EE",
     "wof:created":1595459819,
-    "wof:geomhash":"b4f7f831f3e7798026e58747c2e34b26",
+    "wof:geomhash":"a47a48dea55373b2910990678b64a02b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676683,
+    "wof:lastmodified":1695876939,
     "wof:name":"Kavandu",
     "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",

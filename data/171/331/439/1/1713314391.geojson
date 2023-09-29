@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Naartse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000741,
-    "geom:area_square_m":4772686.508677,
+    "geom:area_square_m":4772686.508678,
     "geom:bbox":"24.260419,58.609877,24.326029,58.645312",
     "geom:latitude":58.628093,
     "geom:longitude":24.299969,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5328
+        "ee-mamt:okood":"5328"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343449039
     ],
     "wof:country":"EE",
     "wof:created":1595460971,
-    "wof:geomhash":"187eeae6f61004d77ccb0579a4ce6298",
+    "wof:geomhash":"3efae0e7dbe0434f2c775c20d8408144",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663399,
+    "wof:lastmodified":1695876822,
     "wof:name":"Naartse",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

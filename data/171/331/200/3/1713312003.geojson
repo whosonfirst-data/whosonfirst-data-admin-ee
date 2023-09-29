@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Olju K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000426,
-    "geom:area_square_m":2716510.026312,
+    "geom:area_square_m":2716510.026313,
     "geom:bbox":"26.279185,58.917363,26.30669,58.94605",
     "geom:latitude":58.932205,
     "geom:longitude":26.29263,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5661
+        "ee-mamt:okood":"5661"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242673165
     ],
     "wof:country":"EE",
     "wof:created":1595460462,
-    "wof:geomhash":"e3213702252bc3836f2b6d6c1ab2c2de",
+    "wof:geomhash":"51be2b7bea81f7d40760ef7a280d32ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676532,
+    "wof:lastmodified":1695876920,
     "wof:name":"Olju",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laik\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00164,
-    "geom:area_square_m":10513411.259685,
+    "geom:area_square_m":10513411.259681,
     "geom:bbox":"23.956354,58.749638,24.019387,58.794313",
     "geom:latitude":58.771742,
     "geom:longitude":23.985233,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4068
+        "ee-mamt:okood":"4068"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343253697
     ],
     "wof:country":"EE",
     "wof:created":1595459773,
-    "wof:geomhash":"9adf647a5fae0dcaf611bdbd80b5d73d",
+    "wof:geomhash":"9eb2f5dc41ccae529038f4cc9a469769",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677195,
+    "wof:lastmodified":1695876989,
     "wof:name":"Laik\u00fcla",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

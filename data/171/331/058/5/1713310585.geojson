@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Hummuli Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000273,
-    "geom:area_square_m":1791111.357899,
+    "geom:area_square_m":1791111.357901,
     "geom:bbox":"26.042973,57.901427,26.077539,57.915034",
     "geom:latitude":57.908016,
     "geom:longitude":26.061187,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Hummuli alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1905
+        "ee-mamt:okood":"1905"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125955133
     ],
     "wof:country":"EE",
     "wof:created":1595460157,
-    "wof:geomhash":"ead72a79aa59efe3572baab9808a8e7d",
+    "wof:geomhash":"9401092d020a979fa0d553242b2355d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661424,
+    "wof:lastmodified":1695876759,
     "wof:name":"Hummuli",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

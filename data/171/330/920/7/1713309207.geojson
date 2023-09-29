@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piirumi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003517,
-    "geom:area_square_m":22935274.668712,
+    "geom:area_square_m":22935274.6687,
     "geom:bbox":"24.445551,58.146923,24.559878,58.196749",
     "geom:latitude":58.172894,
     "geom:longitude":24.512456,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6194
+        "ee-mamt:okood":"6194"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209192557
     ],
     "wof:country":"EE",
     "wof:created":1595459833,
-    "wof:geomhash":"2ca6e4d8a5ad5aac4106941d5407834e",
+    "wof:geomhash":"aef3e7fc0643b44521b40209cbc8fd27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663035,
+    "wof:lastmodified":1695876808,
     "wof:name":"Piirumi",
     "wof:parent_id":1713305741,
     "wof:placetype":"localadmin",

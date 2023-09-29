@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Prangli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003861,
-    "geom:area_square_m":25189106.796072,
+    "geom:area_square_m":25189106.796065,
     "geom:bbox":"26.734418,58.12732,26.82947,58.184695",
     "geom:latitude":58.154948,
     "geom:longitude":26.784285,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6354
+        "ee-mamt:okood":"6354"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037783
     ],
     "wof:country":"EE",
     "wof:created":1595460605,
-    "wof:geomhash":"e683769f1e0d7730f0508afac3449534",
+    "wof:geomhash":"8ab7b79637047c076594d290ff451396",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676775,
+    "wof:lastmodified":1695876950,
     "wof:name":"Prangli",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

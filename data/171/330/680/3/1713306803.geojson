@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tammek\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002665,
-    "geom:area_square_m":17076348.816341,
+    "geom:area_square_m":17076348.816343,
     "geom:bbox":"25.625505,58.764104,25.741189,58.811761",
     "geom:latitude":58.783886,
     "geom:longitude":25.692392,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8097
+        "ee-mamt:okood":"8097"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209920217
     ],
     "wof:country":"EE",
     "wof:created":1595459245,
-    "wof:geomhash":"6ff2ca3efebd81bb1697b0865c13849d",
+    "wof:geomhash":"5fa5bbb55513299dd89d31ea4f4303c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676617,
+    "wof:lastmodified":1695876930,
     "wof:name":"Tammek\u00fcla",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

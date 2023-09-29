@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Truuta K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000951,
-    "geom:area_square_m":6232981.432116,
+    "geom:area_square_m":6232981.432113,
     "geom:bbox":"26.530425,57.974103,26.590464,58.007473",
     "geom:latitude":57.991765,
     "geom:longitude":26.559193,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8356
+        "ee-mamt:okood":"8356"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225807611
     ],
     "wof:country":"EE",
     "wof:created":1595460585,
-    "wof:geomhash":"b0b047064a01ddac83a51309e0efc081",
+    "wof:geomhash":"25ecfda57b9b8f06982941b578708bfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661863,
+    "wof:lastmodified":1695876780,
     "wof:name":"Truuta",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Villa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000359,
-    "geom:area_square_m":2375034.608908,
+    "geom:area_square_m":2375034.608909,
     "geom:bbox":"27.06584,57.677781,27.09533,57.699299",
     "geom:latitude":57.687983,
     "geom:longitude":27.07945,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9345
+        "ee-mamt:okood":"9345"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461151,
-    "wof:geomhash":"8e60d3684a320939ddd1741bd57031e1",
+    "wof:geomhash":"c426a05d20d295e5342db82436cc917a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676830,
+    "wof:lastmodified":1695876960,
     "wof:name":"Villa",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

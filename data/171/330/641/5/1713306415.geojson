@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.006501,
-    "geom:area_square_m":40886455.532027,
+    "geom:area_square_m":40886455.532031,
     "geom:bbox":"25.639014,59.390711,25.850537,59.451426",
     "geom:latitude":59.428593,
     "geom:longitude":25.754664,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7809
+        "ee-mamt:okood":"7809"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344271467
     ],
     "wof:country":"EE",
     "wof:created":1595459151,
-    "wof:geomhash":"762eac22985d5234577ebdac9c028c09",
+    "wof:geomhash":"5a1ab62013c05337169d812f570e4544",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661831,
+    "wof:lastmodified":1695876780,
     "wof:name":"Suru",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

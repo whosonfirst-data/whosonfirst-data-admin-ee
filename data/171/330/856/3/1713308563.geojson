@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vennati K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001172,
-    "geom:area_square_m":7621076.451526,
+    "geom:area_square_m":7621076.451528,
     "geom:bbox":"22.316343,58.249774,22.361609,58.295",
     "geom:latitude":58.27161,
     "geom:longitude":22.34342,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9206
+        "ee-mamt:okood":"9206"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260151643
     ],
     "wof:country":"EE",
     "wof:created":1595459676,
-    "wof:geomhash":"4c19e1fe5a0b767904c7e56f800ba8e6",
+    "wof:geomhash":"c14063e5e6cd04754f8a4610818ca31d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671767,
+    "wof:lastmodified":1695876871,
     "wof:name":"Vennati",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

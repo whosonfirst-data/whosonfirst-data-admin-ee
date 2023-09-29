@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Varese K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000577,
-    "geom:area_square_m":3796150.008883,
+    "geom:area_square_m":3796150.008882,
     "geom:bbox":"26.775389,57.861578,26.82485,57.883221",
     "geom:latitude":57.874172,
     "geom:longitude":26.796413,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9074
+        "ee-mamt:okood":"9074"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344216127
     ],
     "wof:country":"EE",
     "wof:created":1595461378,
-    "wof:geomhash":"179a64937cbef95f2ae33947cfd192d2",
+    "wof:geomhash":"6b93aded5be6c20e7435929825241c8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660275,
+    "wof:lastmodified":1695876727,
     "wof:name":"Varese",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

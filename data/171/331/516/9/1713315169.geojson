@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaaratautsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000123,
-    "geom:area_square_m":813762.043178,
+    "geom:area_square_m":813762.043179,
     "geom:bbox":"27.013376,57.7402,27.033801,57.751832",
     "geom:latitude":57.746461,
     "geom:longitude":27.023525,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2401
+        "ee-mamt:okood":"2401"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326604057
     ],
     "wof:country":"EE",
     "wof:created":1595461146,
-    "wof:geomhash":"cd06e57fe6b08139865dd2b38820c422",
+    "wof:geomhash":"4a607aea8e1e9a54d173494b7845f406",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676835,
+    "wof:lastmodified":1695876961,
     "wof:name":"Kaaratautsa",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

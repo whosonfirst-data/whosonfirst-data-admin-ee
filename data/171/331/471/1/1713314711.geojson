@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Munalaskme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004405,
-    "geom:area_square_m":27896674.024932,
+    "geom:area_square_m":27896674.024937,
     "geom:bbox":"24.155465,59.162199,24.295681,59.223247",
     "geom:latitude":59.190952,
     "geom:longitude":24.225811,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5028
+        "ee-mamt:okood":"5028"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125871123
     ],
     "wof:country":"EE",
     "wof:created":1595461042,
-    "wof:geomhash":"68cd3185ae49e58b204651d452fb03c4",
+    "wof:geomhash":"453d0b98cd960a5449e58b2b7d8786e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663228,
+    "wof:lastmodified":1695876810,
     "wof:name":"Munalaskme",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

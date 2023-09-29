@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koluvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001926,
-    "geom:area_square_m":12297049.175811,
+    "geom:area_square_m":12297049.17581,
     "geom:bbox":"24.076675,58.881484,24.153611,58.929213",
     "geom:latitude":58.903392,
     "geom:longitude":24.110383,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3366
+        "ee-mamt:okood":"3366"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126021381
     ],
     "wof:country":"EE",
     "wof:created":1595460755,
-    "wof:geomhash":"000b8736cc0473f737197f0e20e7eaa9",
+    "wof:geomhash":"843f653bb75100bf5b41e131b31f4316",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677215,
+    "wof:lastmodified":1695876991,
     "wof:name":"Koluvere",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

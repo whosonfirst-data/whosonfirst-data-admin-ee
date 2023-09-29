@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ojak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000595,
-    "geom:area_square_m":3799064.455444,
+    "geom:area_square_m":3799064.455448,
     "geom:bbox":"22.164059,58.890741,22.212478,58.916356",
     "geom:latitude":58.902124,
     "geom:longitude":22.185396,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5649
+        "ee-mamt:okood":"5649"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344069959
     ],
     "wof:country":"EE",
     "wof:created":1595460133,
-    "wof:geomhash":"2bef0e9f59fce9a9b2ff6c263167feec",
+    "wof:geomhash":"d9ded7b5731693319513daa6498f6a27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666394,
+    "wof:lastmodified":1695876855,
     "wof:name":"Ojak\u00fcla",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

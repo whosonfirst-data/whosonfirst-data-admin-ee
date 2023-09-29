@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vilina K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0016,
-    "geom:area_square_m":10262302.96248,
+    "geom:area_square_m":10262302.962477,
     "geom:bbox":"26.455025,58.738237,26.521453,58.7878",
     "geom:latitude":58.760734,
     "geom:longitude":26.487077,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9333
+        "ee-mamt:okood":"9333"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260181115
     ],
     "wof:country":"EE",
     "wof:created":1595460504,
-    "wof:geomhash":"b337b435a7bf07022fb355489189660d",
+    "wof:geomhash":"5b639ba7cceeaa48d4a85b5f0b29802e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676552,
+    "wof:lastmodified":1695876921,
     "wof:name":"Vilina",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

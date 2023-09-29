@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pakaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000689,
-    "geom:area_square_m":4426252.188435,
+    "geom:area_square_m":4426252.188434,
     "geom:bbox":"26.363024,58.683115,26.412945,58.707278",
     "geom:latitude":58.696139,
     "geom:longitude":26.390998,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5902
+        "ee-mamt:okood":"5902"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309910857
     ],
     "wof:country":"EE",
     "wof:created":1595460493,
-    "wof:geomhash":"596d87dcc1c1aa51e477aeea73def9d3",
+    "wof:geomhash":"e13db4edc9d78f7028fabf22d712f839",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676562,
+    "wof:lastmodified":1695876924,
     "wof:name":"Pakaste",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

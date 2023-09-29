@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koppelmaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002132,
-    "geom:area_square_m":13473061.569429,
+    "geom:area_square_m":13473061.569432,
     "geom:bbox":"24.510359,59.244519,24.638902,59.275362",
     "geom:latitude":59.260378,
     "geom:longitude":24.570831,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3439
+        "ee-mamt:okood":"3439"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343679673
     ],
     "wof:country":"EE",
     "wof:created":1595459530,
-    "wof:geomhash":"29b98fecf71c61627d31955d1700210b",
+    "wof:geomhash":"6acdcada899d34e904fb2a60b8df7656",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663234,
+    "wof:lastmodified":1695876812,
     "wof:name":"Koppelmaa",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

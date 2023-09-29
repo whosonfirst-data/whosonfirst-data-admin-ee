@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Arju K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000699,
-    "geom:area_square_m":4515348.456211,
+    "geom:area_square_m":4515348.456212,
     "geom:bbox":"22.840154,58.51196,22.896421,58.534936",
     "geom:latitude":58.522621,
     "geom:longitude":22.869343,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1357
+        "ee-mamt:okood":"1357"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226225707
     ],
     "wof:country":"EE",
     "wof:created":1595459420,
-    "wof:geomhash":"024d0cbd1d955da4391efd4291d2ac86",
+    "wof:geomhash":"704784b35376d8b291aadf5f51106bd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672306,
+    "wof:lastmodified":1695876889,
     "wof:name":"Arju",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

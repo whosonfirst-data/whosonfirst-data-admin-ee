@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vikipalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.010013,
-    "geom:area_square_m":63145324.046083,
+    "geom:area_square_m":63145324.046082,
     "geom:bbox":"25.377921,59.295649,25.571863,59.373618",
     "geom:latitude":59.337148,
     "geom:longitude":25.479268,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9318
+        "ee-mamt:okood":"9318"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293407657
     ],
     "wof:country":"EE",
     "wof:created":1595459328,
-    "wof:geomhash":"af210d74177e88117bfc6ecbbd8e43f6",
+    "wof:geomhash":"de6f63fe1f93a5624981fdc72ef920c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662792,
+    "wof:lastmodified":1695876798,
     "wof:name":"Vikipalu",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

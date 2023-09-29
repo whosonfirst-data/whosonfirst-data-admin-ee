@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sormuli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000211,
-    "geom:area_square_m":1396171.347324,
+    "geom:area_square_m":1396171.347323,
     "geom:bbox":"27.00637,57.620218,27.034172,57.633729",
     "geom:latitude":57.626836,
     "geom:longitude":27.01913,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7751
+        "ee-mamt:okood":"7751"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461107,
-    "wof:geomhash":"c864881fb6e226364ff20eafbdb3ecca",
+    "wof:geomhash":"62a91ad18c8dbbd4210bde4b483497d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676825,
+    "wof:lastmodified":1695876958,
     "wof:name":"Sormuli",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kurevere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001739,
-    "geom:area_square_m":11265766.544198,
+    "geom:area_square_m":11265766.544206,
     "geom:bbox":"21.939384,58.386792,22.025847,58.42799",
     "geom:latitude":58.410699,
     "geom:longitude":21.984511,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3661
+        "ee-mamt:okood":"3661"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125909925
     ],
     "wof:country":"EE",
     "wof:created":1595459211,
-    "wof:geomhash":"3c17fb0c6c716dc109db015084c8f966",
+    "wof:geomhash":"e5235d87f228e44616735107f115d1bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671984,
+    "wof:lastmodified":1695876876,
     "wof:name":"Kurevere",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

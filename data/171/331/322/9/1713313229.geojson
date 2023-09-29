@@ -8,7 +8,7 @@
     "ee-mamt:animi":"N\u0151lva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004323,
-    "geom:area_square_m":27710571.831005,
+    "geom:area_square_m":27710571.83101,
     "geom:bbox":"24.690098,58.738808,24.780449,58.816895",
     "geom:latitude":58.777291,
     "geom:longitude":24.732043,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5498
+        "ee-mamt:okood":"5498"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226528547
     ],
     "wof:country":"EE",
     "wof:created":1595460718,
-    "wof:geomhash":"88a14dbf8c2a648b93d56355ed395439",
+    "wof:geomhash":"d7ce28aa9283c241cdac6ca07fc79292",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676738,
+    "wof:lastmodified":1695876946,
     "wof:name":"N\u0151lva",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

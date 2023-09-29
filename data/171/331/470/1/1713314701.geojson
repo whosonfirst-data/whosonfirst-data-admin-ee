@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Simmuli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000264,
-    "geom:area_square_m":1739245.828106,
+    "geom:area_square_m":1739245.828108,
     "geom:bbox":"26.839893,57.751967,26.87542,57.773495",
     "geom:latitude":57.762394,
     "geom:longitude":26.858231,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7600
+        "ee-mamt:okood":"7600"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260144697
     ],
     "wof:country":"EE",
     "wof:created":1595461040,
-    "wof:geomhash":"21c7d82832227415e4a8d2ef954c6c0d",
+    "wof:geomhash":"df12ff5a2489bad7fbba4ae0f745fe32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676823,
+    "wof:lastmodified":1695876957,
     "wof:name":"Simmuli",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

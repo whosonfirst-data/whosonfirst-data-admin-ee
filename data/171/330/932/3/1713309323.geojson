@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u0151dra K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001665,
-    "geom:area_square_m":10762288.626356,
+    "geom:area_square_m":10762288.626354,
     "geom:bbox":"27.032674,58.475726,27.114485,58.507415",
     "geom:latitude":58.490147,
     "geom:longitude":27.069952,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6488
+        "ee-mamt:okood":"6488"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310171681
     ],
     "wof:country":"EE",
     "wof:created":1595459860,
-    "wof:geomhash":"94402bd12f437a494c74f6a654d1071e",
+    "wof:geomhash":"93af82e12de556bbddad35173df17fb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660844,
+    "wof:lastmodified":1695876737,
     "wof:name":"P\u0151dra",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

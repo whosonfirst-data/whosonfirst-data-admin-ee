@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":855,
+        "ee-mamt:okood":"855",
         "eg:gisco_id":"EE_0855",
         "eurostat:nuts_2021_id":"0855"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451905,
     "wof:geomhash":"044e8ff421a6f24d29676e38e16de61f",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352195,
+    "wof:lastmodified":1695886728,
     "wof:name":"Valga",
     "wof:parent_id":85682941,
     "wof:placetype":"county",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Esku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001328,
-    "geom:area_square_m":8541274.153298,
+    "geom:area_square_m":8541274.153295,
     "geom:bbox":"25.859943,58.629205,25.916409,58.66781",
     "geom:latitude":58.648786,
     "geom:longitude":25.890529,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1652
+        "ee-mamt:okood":"1652"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125835417
     ],
     "wof:country":"EE",
     "wof:created":1595460491,
-    "wof:geomhash":"3a963bba8cdcef8d5c006fcd620269ee",
+    "wof:geomhash":"0471a3f02caae01795cd53a0aa6f6490",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676484,
+    "wof:lastmodified":1695876913,
     "wof:name":"Esku",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

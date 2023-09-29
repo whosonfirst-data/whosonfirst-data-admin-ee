@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Roosisaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000537,
-    "geom:area_square_m":3531306.286482,
+    "geom:area_square_m":3531306.286484,
     "geom:bbox":"26.939334,57.831605,26.986715,57.854606",
     "geom:latitude":57.843276,
     "geom:longitude":26.959983,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7078
+        "ee-mamt:okood":"7078"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243041981
     ],
     "wof:country":"EE",
     "wof:created":1595461412,
-    "wof:geomhash":"e64f8333b0e2867fbc694186e0d8e8bd",
+    "wof:geomhash":"3a2ee80ae1825174fb85bb149ac6710d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660269,
+    "wof:lastmodified":1695876726,
     "wof:name":"Roosisaare",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

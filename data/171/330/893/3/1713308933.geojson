@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u00e4mara K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002526,
-    "geom:area_square_m":16342236.746635,
+    "geom:area_square_m":16342236.746625,
     "geom:bbox":"26.482078,58.42969,26.567954,58.487486",
     "geom:latitude":58.458927,
     "geom:longitude":26.517549,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3872
+        "ee-mamt:okood":"3872"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326996377
     ],
     "wof:country":"EE",
     "wof:created":1595459767,
-    "wof:geomhash":"762d5407e16893f511dfe97f82b71853",
+    "wof:geomhash":"713991a9a2911bd30c1ea9c9ffb9716e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676467,
+    "wof:lastmodified":1695876913,
     "wof:name":"K\u00e4mara",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

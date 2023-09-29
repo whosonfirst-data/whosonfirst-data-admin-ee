@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Selja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004196,
-    "geom:area_square_m":26908338.457143,
+    "geom:area_square_m":26908338.457141,
     "geom:bbox":"24.750411,58.731815,24.876777,58.786639",
     "geom:latitude":58.759037,
     "geom:longitude":24.811869,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7531
+        "ee-mamt:okood":"7531"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226828375
     ],
     "wof:country":"EE",
     "wof:created":1595460586,
-    "wof:geomhash":"efe74e6a4d0501f1a079240e4531b43c",
+    "wof:geomhash":"b732aaa0213fb03331de759f4fc26540",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676740,
+    "wof:lastmodified":1695876947,
     "wof:name":"Selja",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

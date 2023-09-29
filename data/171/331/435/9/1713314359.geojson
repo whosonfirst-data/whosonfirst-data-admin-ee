@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saviaugu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000436,
-    "geom:area_square_m":2805649.529331,
+    "geom:area_square_m":2805649.52933,
     "geom:bbox":"25.684451,58.60208,25.711447,58.637127",
     "geom:latitude":58.619695,
     "geom:longitude":25.695741,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7489
+        "ee-mamt:okood":"7489"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209179011
     ],
     "wof:country":"EE",
     "wof:created":1595460960,
-    "wof:geomhash":"5c61a3f49a221c8dcf6fb52e1ec6821e",
+    "wof:geomhash":"edab7a79d11cc47e3c4c89bdc2c48d19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663438,
+    "wof:lastmodified":1695876828,
     "wof:name":"Saviaugu",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Harku Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.001127,
-    "geom:area_square_m":7096420.069084,
+    "geom:area_square_m":7096420.069085,
     "geom:bbox":"24.5636,59.363688,24.627006,59.395177",
     "geom:latitude":59.38091,
     "geom:longitude":24.596804,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Harku alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1774
+        "ee-mamt:okood":"1774"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209624801
     ],
     "wof:country":"EE",
     "wof:created":1595460808,
-    "wof:geomhash":"abfc6eb5eeb548dca8518f7627cbb7be",
+    "wof:geomhash":"73ceacdab46986c2e651acc1e50024d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661450,
+    "wof:lastmodified":1695876761,
     "wof:name":"Harku",
     "wof:parent_id":1713305681,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saare K\u00fcla / Lyckholm",
     "ee-mamt:tyyp":8,
     "geom:area":0.001775,
-    "geom:area_square_m":11297295.296501,
+    "geom:area_square_m":11297295.2965,
     "geom:bbox":"23.547756,58.97596,23.633105,59.037365",
     "geom:latitude":59.012579,
     "geom:longitude":23.588506,
@@ -59,14 +59,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7284
+        "ee-mamt:okood":"7284"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243260497
     ],
     "wof:country":"EE",
     "wof:created":1595459773,
-    "wof:geomhash":"e52f82ff9e90dc47d171e0f9f40455c5",
+    "wof:geomhash":"9409f89de7bec504f8ac086a5f06af0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +84,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502256,
+    "wof:lastmodified":1695877024,
     "wof:name":"Saare",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

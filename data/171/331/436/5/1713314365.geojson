@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valtina K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003048,
-    "geom:area_square_m":20089981.018599,
+    "geom:area_square_m":20089981.018594,
     "geom:bbox":"26.347951,57.751899,26.451896,57.8085",
     "geom:latitude":57.784984,
     "geom:longitude":26.400572,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8969
+        "ee-mamt:okood":"8969"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242642895
     ],
     "wof:country":"EE",
     "wof:created":1595460961,
-    "wof:geomhash":"8e504887fa41046c1ff9af15baba7952",
+    "wof:geomhash":"cb0f9effb4d9f6709148f688375a2eb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661944,
+    "wof:lastmodified":1695876791,
     "wof:name":"Valtina",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

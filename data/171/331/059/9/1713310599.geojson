@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00e4rnselja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00098,
-    "geom:area_square_m":6272265.249226,
+    "geom:area_square_m":6272265.249229,
     "geom:bbox":"22.544911,58.817536,22.651124,58.839601",
     "geom:latitude":58.828682,
     "geom:longitude":22.579706,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6615
+        "ee-mamt:okood":"6615"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360197295
     ],
     "wof:country":"EE",
     "wof:created":1595460161,
-    "wof:geomhash":"0466cf1a266fbfe71f7d9f33ee9468dc",
+    "wof:geomhash":"75f1a1a0ac85577d312c9851cee80cee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666340,
+    "wof:lastmodified":1695876851,
     "wof:name":"P\u00e4rnselja",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vilkla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001356,
-    "geom:area_square_m":8662455.357185,
+    "geom:area_square_m":8662455.357182,
     "geom:bbox":"23.563449,58.876161,23.629021,58.912266",
     "geom:latitude":58.894103,
     "geom:longitude":23.594775,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9343
+        "ee-mamt:okood":"9343"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293805021
     ],
     "wof:country":"EE",
     "wof:created":1595459696,
-    "wof:geomhash":"e3f46c8d264779b6ffb80024beb946ed",
+    "wof:geomhash":"c5d84d2f62c15c1dc1b7bd868214b1e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662510,
+    "wof:lastmodified":1695876794,
     "wof:name":"Vilkla",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Krei K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002141,
-    "geom:area_square_m":13549203.308543,
+    "geom:area_square_m":13549203.308541,
     "geom:bbox":"25.087231,59.17873,25.14832,59.240017",
     "geom:latitude":59.213005,
     "geom:longitude":25.120868,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3492
+        "ee-mamt:okood":"3492"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125980493
     ],
     "wof:country":"EE",
     "wof:created":1595459154,
-    "wof:geomhash":"abea5aa14f05a1e1460baaa673a2ad78",
+    "wof:geomhash":"ec6596d8a159f816daf5f08fe56151a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617129994,
+    "wof:lastmodified":1695877015,
     "wof:name":"Krei",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

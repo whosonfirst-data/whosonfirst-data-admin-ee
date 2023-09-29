@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lodja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0062,
-    "geom:area_square_m":40473335.628514,
+    "geom:area_square_m":40473335.628523,
     "geom:bbox":"24.775161,58.103387,24.925267,58.169411",
     "geom:latitude":58.13612,
     "geom:longitude":24.856146,
@@ -53,14 +53,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4440
+        "ee-mamt:okood":"4440"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126057111
     ],
     "wof:country":"EE",
     "wof:created":1595459943,
-    "wof:geomhash":"614cf64e2c2da93f8f9fcb037007d478",
+    "wof:geomhash":"423479bb1399da9f1deb31d440f826fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +78,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502255,
+    "wof:lastmodified":1695877024,
     "wof:name":"Lodja",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

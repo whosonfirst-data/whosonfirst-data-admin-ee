@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kadrina Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000393,
-    "geom:area_square_m":2478762.026257,
+    "geom:area_square_m":2478762.026258,
     "geom:bbox":"26.119657,59.326976,26.159773,59.349916",
     "geom:latitude":59.339841,
     "geom:longitude":26.138106,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Kadrina alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2490
+        "ee-mamt:okood":"2490"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815147
     ],
     "wof:country":"EE",
     "wof:created":1595461015,
-    "wof:geomhash":"f4399f44f5f0bc8e02b01bc237ef5a4e",
+    "wof:geomhash":"f75c536d78d2ece915d76b81ec2853c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661720,
+    "wof:lastmodified":1695876774,
     "wof:name":"Kadrina",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

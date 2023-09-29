@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lihul\u0151pe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001279,
-    "geom:area_square_m":8046642.743289,
+    "geom:area_square_m":8046642.743288,
     "geom:bbox":"26.201751,59.395937,26.279726,59.431206",
     "geom:latitude":59.414985,
     "geom:longitude":26.244807,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4331
+        "ee-mamt:okood":"4331"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276358563
     ],
     "wof:country":"EE",
     "wof:created":1595461001,
-    "wof:geomhash":"d19fdfa99ddd5063ec0c54c228f721bc",
+    "wof:geomhash":"ee29848c73877a85949cdde16892596f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678014,
+    "wof:lastmodified":1695877009,
     "wof:name":"Lihul\u0151pe",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

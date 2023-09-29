@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kaiu Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000328,
-    "geom:area_square_m":2086435.005711,
+    "geom:area_square_m":2086435.00571,
     "geom:bbox":"25.038618,59.002384,25.072313,59.021276",
     "geom:latitude":59.011775,
     "geom:longitude":25.053705,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Kaiu alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2553
+        "ee-mamt:okood":"2553"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276534615
     ],
     "wof:country":"EE",
     "wof:created":1595460313,
-    "wof:geomhash":"a9dd22ba1bfeafcf2a090cda85ee2815",
+    "wof:geomhash":"eb5a3164e152ab159ce95ebce45900b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676700,
+    "wof:lastmodified":1695876941,
     "wof:name":"Kaiu",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

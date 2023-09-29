@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kauksi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002218,
-    "geom:area_square_m":14491622.505147,
+    "geom:area_square_m":14491622.505149,
     "geom:bbox":"27.180161,58.076222,27.283642,58.123744",
     "geom:latitude":58.098275,
     "geom:longitude":27.223861,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2869
+        "ee-mamt:okood":"2869"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126019573
     ],
     "wof:country":"EE",
     "wof:created":1595460223,
-    "wof:geomhash":"d037856d6a307766e8165080eb103aa8",
+    "wof:geomhash":"8c482d716db19f4d9bf5887b2936523c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676946,
+    "wof:lastmodified":1695876973,
     "wof:name":"Kauksi",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

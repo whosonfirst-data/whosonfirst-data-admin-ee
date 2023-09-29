@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u00e4rvak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000771,
-    "geom:area_square_m":5006569.397674,
+    "geom:area_square_m":5006569.397676,
     "geom:bbox":"26.259153,58.307269,26.327389,58.328989",
     "geom:latitude":58.317662,
     "geom:longitude":26.299756,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2348
+        "ee-mamt:okood":"2348"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343824079
     ],
     "wof:country":"EE",
     "wof:created":1595460914,
-    "wof:geomhash":"440e5d539e6050a7be289388cbb53e51",
+    "wof:geomhash":"c052c3fa2152488777210843928ef0e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661897,
+    "wof:lastmodified":1695876786,
     "wof:name":"J\u00e4rvak\u00fcla",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

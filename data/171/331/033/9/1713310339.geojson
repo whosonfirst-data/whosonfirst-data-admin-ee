@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paju K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001389,
-    "geom:area_square_m":9149343.079838,
+    "geom:area_square_m":9149343.079839,
     "geom:bbox":"26.068902,57.794603,26.137221,57.836077",
     "geom:latitude":57.816834,
     "geom:longitude":26.102382,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5881
+        "ee-mamt:okood":"5881"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125871445
     ],
     "wof:country":"EE",
     "wof:created":1595460100,
-    "wof:geomhash":"45e93433c8619b9dec96691a307fd671",
+    "wof:geomhash":"018b84f18c4efdd60f73e0c191db8cce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661937,
+    "wof:lastmodified":1695876790,
     "wof:name":"Paju",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

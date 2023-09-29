@@ -8,7 +8,7 @@
     "ee-mamt:animi":"S\u00e4\u00e4la K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001334,
-    "geom:area_square_m":8562527.092775,
+    "geom:area_square_m":8562527.092773,
     "geom:bbox":"24.30285,58.69592,24.376947,58.73308",
     "geom:latitude":58.71701,
     "geom:longitude":24.334298,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7946
+        "ee-mamt:okood":"7946"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276518881
     ],
     "wof:country":"EE",
     "wof:created":1595461264,
-    "wof:geomhash":"bd9ef52e1cdd9667f7d762ce03c6bb96",
+    "wof:geomhash":"778f323e458efebb494ae985e33a6fc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662831,
+    "wof:lastmodified":1695876806,
     "wof:name":"S\u00e4\u00e4la",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

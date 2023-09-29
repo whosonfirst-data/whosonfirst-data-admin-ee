@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Odulemma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002647,
-    "geom:area_square_m":16790954.067343,
+    "geom:area_square_m":16790954.067347,
     "geom:bbox":"24.326745,59.106636,24.399187,59.164669",
     "geom:latitude":59.132837,
     "geom:longitude":24.362634,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5601
+        "ee-mamt:okood":"5601"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259801371
     ],
     "wof:country":"EE",
     "wof:created":1595459501,
-    "wof:geomhash":"c7100e13035239c96e61d00d70848c5f",
+    "wof:geomhash":"833b77cdde4c48411ef9e46f619da454",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663232,
+    "wof:lastmodified":1695876811,
     "wof:name":"Odulemma",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

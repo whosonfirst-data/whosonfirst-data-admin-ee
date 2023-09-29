@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hatu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.01393,
-    "geom:area_square_m":88263068.363686,
+    "geom:area_square_m":88263068.363687,
     "geom:bbox":"23.78265,59.129629,24.066419,59.22277",
     "geom:latitude":59.173896,
     "geom:longitude":23.930558,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1782
+        "ee-mamt:okood":"1782"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209729649
     ],
     "wof:country":"EE",
     "wof:created":1595461186,
-    "wof:geomhash":"8aa9a3d58e359ed01199577c4a19ae83",
+    "wof:geomhash":"e426b06687e0eb6d568d2d8fc0a2b37d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663302,
+    "wof:lastmodified":1695876817,
     "wof:name":"Hatu",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

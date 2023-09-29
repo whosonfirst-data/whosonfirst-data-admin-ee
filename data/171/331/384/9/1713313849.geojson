@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vakalepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001001,
-    "geom:area_square_m":6444858.38474,
+    "geom:area_square_m":6444858.384738,
     "geom:bbox":"24.258478,58.600776,24.311128,58.640389",
     "geom:latitude":58.619076,
     "geom:longitude":24.282932,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8901
+        "ee-mamt:okood":"8901"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260260841
     ],
     "wof:country":"EE",
     "wof:created":1595460849,
-    "wof:geomhash":"eded709895f10ee206b73103ac13b99a",
+    "wof:geomhash":"062a7c610a52431b2e6f343e2c4a24c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663401,
+    "wof:lastmodified":1695876823,
     "wof:name":"Vakalepa",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

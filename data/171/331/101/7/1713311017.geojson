@@ -14,7 +14,7 @@
     "geom:longitude":27.070826,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "P\u0151lva linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6536
+        "ee-mamt:okood":"6536"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815071
     ],
     "wof:country":"EE",
     "wof:created":1595460248,
-    "wof:geomhash":"7909bcb5b1dffc2e269ae3afa84c532a",
+    "wof:geomhash":"bd5e4a4d82e06df2f73d48471fb55ccc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676942,
+    "wof:lastmodified":1695876972,
     "wof:name":"P\u0151lva",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

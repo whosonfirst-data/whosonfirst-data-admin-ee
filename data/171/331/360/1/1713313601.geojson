@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Narva-J\u0151esuu Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.00162,
-    "geom:area_square_m":10182316.92572,
+    "geom:area_square_m":10182316.925736,
     "geom:bbox":"27.959872,59.412443,28.082932,59.470139",
     "geom:latitude":59.44242,
     "geom:longitude":28.025542,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Narva-J\u0151esuu linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5356
+        "ee-mamt:okood":"5356"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815201
     ],
     "wof:country":"EE",
     "wof:created":1595460796,
-    "wof:geomhash":"9b174e0330c2d211a75da98764c0aa0f",
+    "wof:geomhash":"57d6451778f445c5b267b7aed09d4b02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617130318,
+    "wof:lastmodified":1695877016,
     "wof:name":"Narva-J\u0151esuu",
     "wof:parent_id":1713305779,
     "wof:placetype":"localadmin",

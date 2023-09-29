@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Veelikse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.006943,
-    "geom:area_square_m":45469317.868452,
+    "geom:area_square_m":45469317.868457,
     "geom:bbox":"24.81984,57.975506,24.948867,58.05774",
     "geom:latitude":58.019007,
     "geom:longitude":24.881258,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9166
+        "ee-mamt:okood":"9166"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125830965
     ],
     "wof:country":"EE",
     "wof:created":1595459897,
-    "wof:geomhash":"4421610f0dd236f0bd381d28e7082712",
+    "wof:geomhash":"a8b96db4608efe62fa20018539bbe41e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677725,
+    "wof:lastmodified":1695876996,
     "wof:name":"Veelikse",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

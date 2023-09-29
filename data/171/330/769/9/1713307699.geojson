@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Unukse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001586,
-    "geom:area_square_m":9961879.057911,
+    "geom:area_square_m":9961879.057909,
     "geom:bbox":"26.675692,59.461866,26.772391,59.496147",
     "geom:latitude":59.480319,
     "geom:longitude":26.721728,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8704
+        "ee-mamt:okood":"8704"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242896145
     ],
     "wof:country":"EE",
     "wof:created":1595459465,
-    "wof:geomhash":"019bef1e082107c03c9924af319cea42",
+    "wof:geomhash":"21cc43128f1edad6bd425ebd7d1a4acc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677917,
+    "wof:lastmodified":1695877000,
     "wof:name":"Unukse",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

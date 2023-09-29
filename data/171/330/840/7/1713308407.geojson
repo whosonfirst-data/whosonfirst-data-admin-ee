@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ulje K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000414,
-    "geom:area_square_m":2689602.643351,
+    "geom:area_square_m":2689602.64335,
     "geom:bbox":"22.23898,58.274026,22.287617,58.300058",
     "geom:latitude":58.286023,
     "geom:longitude":22.269894,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8662
+        "ee-mamt:okood":"8662"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293373549
     ],
     "wof:country":"EE",
     "wof:created":1595459636,
-    "wof:geomhash":"c67eb41a2716dda17cd951450489a0a0",
+    "wof:geomhash":"b49fa13ae018df3b41c0d711f285bc0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671888,
+    "wof:lastmodified":1695876873,
     "wof:name":"Ulje",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

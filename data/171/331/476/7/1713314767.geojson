@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hintsiko K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00072,
-    "geom:area_square_m":4769647.322114,
+    "geom:area_square_m":4769647.322112,
     "geom:bbox":"26.695316,57.580026,26.743495,57.604505",
     "geom:latitude":57.592578,
     "geom:longitude":26.71942,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1863
+        "ee-mamt:okood":"1863"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344022393
     ],
     "wof:country":"EE",
     "wof:created":1595461053,
-    "wof:geomhash":"1d720ccf5557147c49f48d446d306adf",
+    "wof:geomhash":"b13077b877e8a32ab35c5ef90a357f12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676832,
+    "wof:lastmodified":1695876960,
     "wof:name":"Hintsiko",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

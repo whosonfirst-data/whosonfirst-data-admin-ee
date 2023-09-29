@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Simuna Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000448,
-    "geom:area_square_m":2849197.766413,
+    "geom:area_square_m":2849197.766412,
     "geom:bbox":"26.375288,59.038618,26.41816,59.057203",
     "geom:latitude":59.047175,
     "geom:longitude":26.39464,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Simuna alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7603
+        "ee-mamt:okood":"7603"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126057227
     ],
     "wof:country":"EE",
     "wof:created":1595460362,
-    "wof:geomhash":"16700504cea16c3e36e76bbeb922fdb0",
+    "wof:geomhash":"34844a0f889de85ae683db8bb8215e05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676526,
+    "wof:lastmodified":1695876918,
     "wof:name":"Simuna",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

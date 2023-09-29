@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raamatu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005319,
-    "geom:area_square_m":34770907.185702,
+    "geom:area_square_m":34770907.185699,
     "geom:bbox":"25.0146,58.040156,25.138406,58.121179",
     "geom:latitude":58.086414,
     "geom:longitude":25.075343,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6689
+        "ee-mamt:okood":"6689"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276834397
     ],
     "wof:country":"EE",
     "wof:created":1595460678,
-    "wof:geomhash":"20307f809a967b35fdfac6868a7c82e0",
+    "wof:geomhash":"866f8976a13375a67cbd37d515ed22ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661289,
+    "wof:lastmodified":1695876751,
     "wof:name":"Raamatu",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

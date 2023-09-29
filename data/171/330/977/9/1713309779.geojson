@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piigaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002169,
-    "geom:area_square_m":14172360.754083,
+    "geom:area_square_m":14172360.754084,
     "geom:bbox":"26.783076,58.072859,26.870968,58.125224",
     "geom:latitude":58.099613,
     "geom:longitude":26.826761,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6167
+        "ee-mamt:okood":"6167"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259463163
     ],
     "wof:country":"EE",
     "wof:created":1595459976,
-    "wof:geomhash":"b520f57bdf61a4e0dc26e74fcab4db6c",
+    "wof:geomhash":"e514b73a198b9ae48a8f9e5c2d43633c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676771,
+    "wof:lastmodified":1695876949,
     "wof:name":"Piigaste",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

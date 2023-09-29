@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Alu Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000169,
-    "geom:area_square_m":1074976.233933,
+    "geom:area_square_m":1074976.233932,
     "geom:bbox":"24.75601,59.01912,24.780271,59.029118",
     "geom:latitude":59.024109,
     "geom:longitude":24.767732,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Alu alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1230
+        "ee-mamt:okood":"1230"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890227
     ],
     "wof:country":"EE",
     "wof:created":1595460281,
-    "wof:geomhash":"5b46ed86271b2341cc0ed111d88da043",
+    "wof:geomhash":"25f86c73631ed92abc57b8c7d1219e2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676701,
+    "wof:lastmodified":1695876941,
     "wof:name":"Alu",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

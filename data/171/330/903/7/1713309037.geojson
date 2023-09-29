@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vanak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000652,
-    "geom:area_square_m":4165412.884814,
+    "geom:area_square_m":4165412.884815,
     "geom:bbox":"23.884653,58.887223,23.935953,58.916228",
     "geom:latitude":58.901978,
     "geom:longitude":23.905321,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9017
+        "ee-mamt:okood":"9017"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360280065
     ],
     "wof:country":"EE",
     "wof:created":1595459790,
-    "wof:geomhash":"223999929cb345b7f77a2758833c70e6",
+    "wof:geomhash":"6d0deb4473c08a4ec660478a9f40350e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677187,
+    "wof:lastmodified":1695876987,
     "wof:name":"Vanak\u00fcla",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

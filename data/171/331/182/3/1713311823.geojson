@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koonu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001344,
-    "geom:area_square_m":8521253.148741,
+    "geom:area_square_m":8521253.148743,
     "geom:bbox":"26.21158,59.145267,26.284765,59.176426",
     "geom:latitude":59.163666,
     "geom:longitude":26.255397,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3410
+        "ee-mamt:okood":"3410"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293091873
     ],
     "wof:country":"EE",
     "wof:created":1595460425,
-    "wof:geomhash":"d0751b89d3796e22f68ff223865d2b32",
+    "wof:geomhash":"2c7e00a8831e7a89e86f97f7c82ea060",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676531,
+    "wof:lastmodified":1695876920,
     "wof:name":"Koonu",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

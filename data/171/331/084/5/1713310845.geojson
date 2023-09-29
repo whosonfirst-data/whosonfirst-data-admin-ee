@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Mehikoorma Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000175,
-    "geom:area_square_m":1138830.193129,
+    "geom:area_square_m":1138830.19313,
     "geom:bbox":"27.454366,58.229254,27.477662,58.24359",
     "geom:latitude":58.23539,
     "geom:longitude":27.467008,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Mehikoorma alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4859
+        "ee-mamt:okood":"4859"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008487
     ],
     "wof:country":"EE",
     "wof:created":1595460212,
-    "wof:geomhash":"4da4177c46121f137aec50d4a4ea2879",
+    "wof:geomhash":"c4eb23b42d816dec3cd42924e25ac27d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676982,
+    "wof:lastmodified":1695876977,
     "wof:name":"Mehikoorma",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

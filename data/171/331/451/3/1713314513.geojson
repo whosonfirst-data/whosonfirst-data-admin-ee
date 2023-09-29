@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u0151ndavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002225,
-    "geom:area_square_m":14002575.027855,
+    "geom:area_square_m":14002575.027856,
     "geom:bbox":"25.883704,59.37864,25.959164,59.437717",
     "geom:latitude":59.411724,
     "geom:longitude":25.919107,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5147
+        "ee-mamt:okood":"5147"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326520879
     ],
     "wof:country":"EE",
     "wof:created":1595460997,
-    "wof:geomhash":"7736e74a2005a64b86072b01ae77e1d0",
+    "wof:geomhash":"a732101c89c018374c4bcecd193b191a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661724,
+    "wof:lastmodified":1695876775,
     "wof:name":"M\u0151ndavere",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

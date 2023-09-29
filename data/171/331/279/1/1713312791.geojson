@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Savil\u00f6\u00f6vi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001264,
-    "geom:area_square_m":8336334.188178,
+    "geom:area_square_m":8336334.188177,
     "geom:bbox":"26.644876,57.742088,26.708715,57.776841",
     "geom:latitude":57.757286,
     "geom:longitude":26.677688,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7496
+        "ee-mamt:okood":"7496"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209574423
     ],
     "wof:country":"EE",
     "wof:created":1595460622,
-    "wof:geomhash":"d06e54d9955ef286f04b600021d30e63",
+    "wof:geomhash":"1c65e13632812be731897df8abe960fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677012,
+    "wof:lastmodified":1695876981,
     "wof:name":"Savil\u00f6\u00f6vi",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

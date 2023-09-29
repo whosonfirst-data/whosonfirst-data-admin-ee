@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u00e4lgim\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001229,
-    "geom:area_square_m":7753770.347038,
+    "geom:area_square_m":7753770.347039,
     "geom:bbox":"24.580405,59.302232,24.64172,59.345504",
     "geom:latitude":59.319016,
     "geom:longitude":24.609274,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2307
+        "ee-mamt:okood":"2307"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126057007
     ],
     "wof:country":"EE",
     "wof:created":1595460704,
-    "wof:geomhash":"801b028ddbffc0c8becb41d6c0d7a9f0",
+    "wof:geomhash":"4479af2f7c22ebf3e960662141b63ccd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661499,
+    "wof:lastmodified":1695876763,
     "wof:name":"J\u00e4lgim\u00e4e",
     "wof:parent_id":1713305685,
     "wof:placetype":"localadmin",

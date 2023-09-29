@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ertsma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001512,
-    "geom:area_square_m":9737629.930402,
+    "geom:area_square_m":9737629.930399,
     "geom:bbox":"24.417208,58.59443,24.484426,58.640979",
     "geom:latitude":58.617972,
     "geom:longitude":24.458474,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1634
+        "ee-mamt:okood":"1634"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343243391
     ],
     "wof:country":"EE",
     "wof:created":1595459916,
-    "wof:geomhash":"43bf0c239c2efd462021a2bd3a0e0dd1",
+    "wof:geomhash":"08b39334f5b19710afd21cadf0a18ba0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663408,
+    "wof:lastmodified":1695876824,
     "wof:name":"Ertsma",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

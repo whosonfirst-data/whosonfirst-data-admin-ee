@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Muratsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002501,
-    "geom:area_square_m":16276452.098113,
+    "geom:area_square_m":16276452.098132,
     "geom:bbox":"22.537385,58.189084,22.618876,58.263979",
     "geom:latitude":58.237107,
     "geom:longitude":22.579563,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5044
+        "ee-mamt:okood":"5044"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277160861
     ],
     "wof:country":"EE",
     "wof:created":1595459183,
-    "wof:geomhash":"05c959356997ae8730ec54b1b96284c7",
+    "wof:geomhash":"ad42086a37cab261fcfe42ab3d89c4b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672154,
+    "wof:lastmodified":1695876882,
     "wof:name":"Muratsi",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

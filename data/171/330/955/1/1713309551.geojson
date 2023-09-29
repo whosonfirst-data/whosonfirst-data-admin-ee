@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kilgi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004464,
-    "geom:area_square_m":28905712.32602,
+    "geom:area_square_m":28905712.326021,
     "geom:bbox":"23.79838,58.384201,23.936407,58.458725",
     "geom:latitude":58.424497,
     "geom:longitude":23.860492,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3082
+        "ee-mamt:okood":"3082"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343740373
     ],
     "wof:country":"EE",
     "wof:created":1595459917,
-    "wof:geomhash":"02b50aeff0e1682f6f726b257211ad4d",
+    "wof:geomhash":"b4f53f42a37709de5de33f501cc2d64f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661646,
+    "wof:lastmodified":1695876772,
     "wof:name":"Kilgi",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"\u00dcdruma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.006404,
-    "geom:area_square_m":41024309.400338,
+    "geom:area_square_m":41024309.400341,
     "geom:bbox":"23.972034,58.745816,24.109779,58.835697",
     "geom:latitude":58.79711,
     "geom:longitude":24.038872,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9812
+        "ee-mamt:okood":"9812"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343555665
     ],
     "wof:country":"EE",
     "wof:created":1595460887,
-    "wof:geomhash":"ca304d39b5603127efbdab19e22e1373",
+    "wof:geomhash":"19c5aff6a7896194fe145b2a977f11d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677167,
+    "wof:lastmodified":1695876985,
     "wof:name":"\u00dcdruma",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

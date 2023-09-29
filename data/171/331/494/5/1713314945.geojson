@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kallik\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002796,
-    "geom:area_square_m":18522262.928594,
+    "geom:area_square_m":18522262.928596,
     "geom:bbox":"26.423368,57.573915,26.499649,57.646993",
     "geom:latitude":57.60924,
     "geom:longitude":26.459009,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2609
+        "ee-mamt:okood":"2609"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260055185
     ],
     "wof:country":"EE",
     "wof:created":1595461099,
-    "wof:geomhash":"6af0ae724467d700f6bf0a46f4f4ad44",
+    "wof:geomhash":"6f6c767d1727e6197e33d38eeb899fd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661944,
+    "wof:lastmodified":1695876792,
     "wof:name":"Kallik\u00fcla",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"L\u00fcmanda K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000965,
-    "geom:area_square_m":6271155.120459,
+    "geom:area_square_m":6271155.12046,
     "geom:bbox":"22.016234,58.272974,22.091518,58.298665",
     "geom:latitude":58.285379,
     "geom:longitude":22.055821,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4679
+        "ee-mamt:okood":"4679"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037687
     ],
     "wof:country":"EE",
     "wof:created":1595459188,
-    "wof:geomhash":"0f73b0f01839efb852ff71fc6b7928a2",
+    "wof:geomhash":"69093619f9ff4e0f6cfa52230a9646ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671916,
+    "wof:lastmodified":1695876874,
     "wof:name":"L\u00fcmanda",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

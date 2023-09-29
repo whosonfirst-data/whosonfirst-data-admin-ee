@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tirbiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002374,
-    "geom:area_square_m":14958850.183274,
+    "geom:area_square_m":14958850.183267,
     "geom:bbox":"26.171929,59.339682,26.249939,59.394704",
     "geom:latitude":59.36458,
     "geom:longitude":26.205692,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8254
+        "ee-mamt:okood":"8254"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276212151
     ],
     "wof:country":"EE",
     "wof:created":1595460680,
-    "wof:geomhash":"4b67eb4ff5c97ef9e7d460b4117d64e6",
+    "wof:geomhash":"0a667e391cc5b610928d935b87576850",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661721,
+    "wof:lastmodified":1695876774,
     "wof:name":"Tirbiku",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ohtja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001648,
-    "geom:area_square_m":10665328.473752,
+    "geom:area_square_m":10665328.47375,
     "geom:bbox":"22.313592,58.424383,22.409282,58.453626",
     "geom:latitude":58.437518,
     "geom:longitude":22.357852,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5623
+        "ee-mamt:okood":"5623"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277160811
     ],
     "wof:country":"EE",
     "wof:created":1595459324,
-    "wof:geomhash":"947fa451d0af9c8fa24ec822f332994c",
+    "wof:geomhash":"682ceb3f949b4f4412578655b2104c27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672177,
+    "wof:lastmodified":1695876884,
     "wof:name":"Ohtja",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

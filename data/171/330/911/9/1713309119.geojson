@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Allikmaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001979,
-    "geom:area_square_m":12617753.736274,
+    "geom:area_square_m":12617753.736273,
     "geom:bbox":"23.84881,58.945211,23.96523,58.97997",
     "geom:latitude":58.962147,
     "geom:longitude":23.902097,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1210
+        "ee-mamt:okood":"1210"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276438661
     ],
     "wof:country":"EE",
     "wof:created":1595459813,
-    "wof:geomhash":"fd3764c99d8761beb262fe401331e404",
+    "wof:geomhash":"f4440d92bf1eddd88b9465ee1030ff40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677204,
+    "wof:lastmodified":1695876990,
     "wof:name":"Allikmaa",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

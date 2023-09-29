@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vahak\u0151nnu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004763,
-    "geom:area_square_m":30478063.725015,
+    "geom:area_square_m":30478063.725014,
     "geom:bbox":"24.680698,58.802902,24.81698,58.866669",
     "geom:latitude":58.832286,
     "geom:longitude":24.7592,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8838
+        "ee-mamt:okood":"8838"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259359401
     ],
     "wof:country":"EE",
     "wof:created":1595461033,
-    "wof:geomhash":"141af17986b4a8c0e89c57c6dbba7cb1",
+    "wof:geomhash":"ce7e9c3ef0d09d7b065a8a611524bfc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676715,
+    "wof:lastmodified":1695876944,
     "wof:name":"Vahak\u0151nnu",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

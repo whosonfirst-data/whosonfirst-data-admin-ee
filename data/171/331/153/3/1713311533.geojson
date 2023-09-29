@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Orguse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000721,
-    "geom:area_square_m":4579958.497587,
+    "geom:area_square_m":4579958.497586,
     "geom:bbox":"26.356466,59.051562,26.395831,59.082817",
     "geom:latitude":59.067473,
     "geom:longitude":26.375804,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5716
+        "ee-mamt:okood":"5716"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327129757
     ],
     "wof:country":"EE",
     "wof:created":1595460361,
-    "wof:geomhash":"87356694151d0c35aa53b8fd4bc408f3",
+    "wof:geomhash":"8343b626c507faa84f62996f9278c99d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676531,
+    "wof:lastmodified":1695876920,
     "wof:name":"Orguse",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

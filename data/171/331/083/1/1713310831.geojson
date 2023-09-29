@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Majala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001138,
-    "geom:area_square_m":7407229.14753,
+    "geom:area_square_m":7407229.147528,
     "geom:bbox":"26.3106,58.229564,26.39035,58.26071",
     "geom:latitude":58.244618,
     "geom:longitude":26.346338,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4749
+        "ee-mamt:okood":"4749"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259845853
     ],
     "wof:country":"EE",
     "wof:created":1595460209,
-    "wof:geomhash":"05e3c533a5dd394c3dd32c73d189e904",
+    "wof:geomhash":"461fcaa855074f4329b4b2db6c9e530f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661900,
+    "wof:lastmodified":1695876786,
     "wof:name":"Majala",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

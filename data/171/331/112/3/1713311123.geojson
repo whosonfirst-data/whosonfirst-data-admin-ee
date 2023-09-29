@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Orgita K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001002,
-    "geom:area_square_m":6397296.777532,
+    "geom:area_square_m":6397296.777531,
     "geom:bbox":"24.426588,58.906345,24.479268,58.939027",
     "geom:latitude":58.924012,
     "geom:longitude":24.455047,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5711
+        "ee-mamt:okood":"5711"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008527
     ],
     "wof:country":"EE",
     "wof:created":1595460270,
-    "wof:geomhash":"93d59fa6e0f8bdecd1a8133d538bdfa9",
+    "wof:geomhash":"e9dba492d5ca427f3ecb21839f4c4ba7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662816,
+    "wof:lastmodified":1695876802,
     "wof:name":"Orgita",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

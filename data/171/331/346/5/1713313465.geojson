@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Oonga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000703,
-    "geom:area_square_m":4500203.212951,
+    "geom:area_square_m":4500203.21295,
     "geom:bbox":"23.69378,58.809303,23.742383,58.838103",
     "geom:latitude":58.824836,
     "geom:longitude":23.717195,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5693
+        "ee-mamt:okood":"5693"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1292997475
     ],
     "wof:country":"EE",
     "wof:created":1595460768,
-    "wof:geomhash":"cf08ba20a6b8ce99030bb0b3d38a88bd",
+    "wof:geomhash":"70b4c986a2676958f26df75fb5aa629a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677167,
+    "wof:lastmodified":1695876985,
     "wof:name":"Oonga",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

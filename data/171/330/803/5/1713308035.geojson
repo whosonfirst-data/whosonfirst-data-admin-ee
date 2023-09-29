@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Muuga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00203,
-    "geom:area_square_m":12884853.354278,
+    "geom:area_square_m":12884853.354276,
     "geom:bbox":"26.592521,59.077292,26.656371,59.137704",
     "geom:latitude":59.107228,
     "geom:longitude":26.625868,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5105
+        "ee-mamt:okood":"5105"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125892883
     ],
     "wof:country":"EE",
     "wof:created":1595459543,
-    "wof:geomhash":"f459171d2da5d5b4e27bd3e4aa0d461e",
+    "wof:geomhash":"250a1c03954fae6f068201f9b2214169",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677951,
+    "wof:lastmodified":1695877004,
     "wof:name":"Muuga",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

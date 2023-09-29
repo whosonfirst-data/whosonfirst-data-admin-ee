@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u00fclama K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000812,
-    "geom:area_square_m":5213117.025009,
+    "geom:area_square_m":5213117.02501,
     "geom:bbox":"22.499758,58.729447,22.551997,58.75382",
     "geom:latitude":58.740481,
     "geom:longitude":22.529185,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3978
+        "ee-mamt:okood":"3978"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242580843
     ],
     "wof:country":"EE",
     "wof:created":1595460191,
-    "wof:geomhash":"3da5810be11c531aa6305b6a666af9d1",
+    "wof:geomhash":"94c87661d18a06f912096ef79f67bf88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666448,
+    "wof:lastmodified":1695876859,
     "wof:name":"K\u00fclama",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

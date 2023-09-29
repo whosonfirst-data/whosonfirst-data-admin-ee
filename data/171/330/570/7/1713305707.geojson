@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":317,
+        "ee-mamt:okood":"317",
         "eg:gisco_id":"EE_0317",
         "eurostat:nuts_2021_id":"0317"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451890,
     "wof:geomhash":"7a1167018a528985fa9e74f557f85a7d",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352186,
+    "wof:lastmodified":1695886712,
     "wof:name":"Kohila",
     "wof:parent_id":85683013,
     "wof:placetype":"county",

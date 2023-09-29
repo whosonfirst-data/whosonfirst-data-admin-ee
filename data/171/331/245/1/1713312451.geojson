@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Oore K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0015,
-    "geom:area_square_m":9702464.682492,
+    "geom:area_square_m":9702464.682493,
     "geom:bbox":"24.723141,58.444455,24.79983,58.48938",
     "geom:latitude":58.466704,
     "geom:longitude":24.760512,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5698
+        "ee-mamt:okood":"5698"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360165825
     ],
     "wof:country":"EE",
     "wof:created":1595460547,
-    "wof:geomhash":"101c93b76dad9f7825b4107c1d2e9aba",
+    "wof:geomhash":"5536fcd19ddbe2be51b2fe84be3f1f4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663370,
+    "wof:lastmodified":1695876819,
     "wof:name":"Oore",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

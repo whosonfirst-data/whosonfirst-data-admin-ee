@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaimri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001027,
-    "geom:area_square_m":6716277.674433,
+    "geom:area_square_m":6716277.67443,
     "geom:bbox":"22.166214,58.057303,22.234538,58.094297",
     "geom:latitude":58.073558,
     "geom:longitude":22.20699,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2541
+        "ee-mamt:okood":"2541"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326501023
     ],
     "wof:country":"EE",
     "wof:created":1595459395,
-    "wof:geomhash":"664f655a77713dce486029f8792338f2",
+    "wof:geomhash":"a7fb38a5f19e06b05dcb18fb4d4bf83f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672365,
+    "wof:lastmodified":1695876891,
     "wof:name":"Kaimri",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

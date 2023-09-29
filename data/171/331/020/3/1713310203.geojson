@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mardihansu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00033,
-    "geom:area_square_m":2107863.755053,
+    "geom:area_square_m":2107863.755051,
     "geom:bbox":"22.38972,58.8813,22.432416,58.898631",
     "geom:latitude":58.890811,
     "geom:longitude":22.411347,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4780
+        "ee-mamt:okood":"4780"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293009559
     ],
     "wof:country":"EE",
     "wof:created":1595460071,
-    "wof:geomhash":"564e906f35834959f1e7067dde4f2701",
+    "wof:geomhash":"f4a7ebf4baa3b2200773d5cf654159ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666291,
+    "wof:lastmodified":1695876848,
     "wof:name":"Mardihansu",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

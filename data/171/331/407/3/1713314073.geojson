@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vitsj\u00e4rve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00229,
-    "geom:area_square_m":14725355.037089,
+    "geom:area_square_m":14725355.037086,
     "geom:bbox":"25.768698,58.643925,25.871612,58.685467",
     "geom:latitude":58.661649,
     "geom:longitude":25.828656,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9437
+        "ee-mamt:okood":"9437"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1210021073
     ],
     "wof:country":"EE",
     "wof:created":1595460898,
-    "wof:geomhash":"2f660a4f584ba1df8bf4f4c247bf6bfb",
+    "wof:geomhash":"e0bc7e81d82456c873a8eb8ddfac328b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676495,
+    "wof:lastmodified":1695876916,
     "wof:name":"Vitsj\u00e4rve",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

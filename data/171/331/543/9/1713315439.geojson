@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piisi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000471,
-    "geom:area_square_m":3106694.992614,
+    "geom:area_square_m":3106694.992615,
     "geom:bbox":"26.738022,57.758382,26.775999,57.788152",
     "geom:latitude":57.774324,
     "geom:longitude":26.759714,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6196
+        "ee-mamt:okood":"6196"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260363703
     ],
     "wof:country":"EE",
     "wof:created":1595461218,
-    "wof:geomhash":"29c8ff8625b0f94ec2b1f4fd24486328",
+    "wof:geomhash":"090acf4212aef044ec045f801392ad79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677018,
+    "wof:lastmodified":1695876982,
     "wof:name":"Piisi",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

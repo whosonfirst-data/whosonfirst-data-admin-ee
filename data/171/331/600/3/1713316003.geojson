@@ -8,7 +8,7 @@
     "ee-mamt:animi":"R\u00e4\u00e4ptsova K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002643,
-    "geom:area_square_m":17389330.60839,
+    "geom:area_square_m":17389330.608393,
     "geom:bbox":"27.628731,57.835128,27.724273,57.874849",
     "geom:latitude":57.855764,
     "geom:longitude":27.673657,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7243
+        "ee-mamt:okood":"7243"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225822417
     ],
     "wof:country":"EE",
     "wof:created":1595461338,
-    "wof:geomhash":"b99c5b1b131262abaeb06c6415870955",
+    "wof:geomhash":"9d5581cc4e30820085d18720daa74b1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663631,
+    "wof:lastmodified":1695876836,
     "wof:name":"R\u00e4\u00e4ptsova",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

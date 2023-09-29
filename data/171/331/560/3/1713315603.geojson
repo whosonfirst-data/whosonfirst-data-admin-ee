@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Naravere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002058,
-    "geom:area_square_m":13229380.631512,
+    "geom:area_square_m":13229380.631519,
     "geom:bbox":"24.344809,58.655533,24.414338,58.71152",
     "geom:latitude":58.683745,
     "geom:longitude":24.373873,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5353
+        "ee-mamt:okood":"5353"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461256,
-    "wof:geomhash":"a16b28574c4cd16066fcc4a6ac4576fe",
+    "wof:geomhash":"7b8affbfe7aed67f1fcceeed26fe5015",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662829,
+    "wof:lastmodified":1695876805,
     "wof:name":"Naravere",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

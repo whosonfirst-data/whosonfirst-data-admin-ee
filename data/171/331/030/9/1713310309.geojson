@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vilaski K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00237,
-    "geom:area_square_m":15609470.031291,
+    "geom:area_square_m":15609470.031289,
     "geom:bbox":"26.181145,57.78956,26.261357,57.850957",
     "geom:latitude":57.82018,
     "geom:longitude":26.226355,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9326
+        "ee-mamt:okood":"9326"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343423487
     ],
     "wof:country":"EE",
     "wof:created":1595460093,
-    "wof:geomhash":"22ebe721c09e09bbbb4bb1aeece020e6",
+    "wof:geomhash":"e830bbb3c6d24d38d66d8082f6859edc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661936,
+    "wof:lastmodified":1695876789,
     "wof:name":"Vilaski",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Adiste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001493,
-    "geom:area_square_m":9754605.529754,
+    "geom:area_square_m":9754605.529755,
     "geom:bbox":"27.118462,58.07587,27.168018,58.135232",
     "geom:latitude":58.104233,
     "geom:longitude":27.142147,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1081
+        "ee-mamt:okood":"1081"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209294695
     ],
     "wof:country":"EE",
     "wof:created":1595460273,
-    "wof:geomhash":"9370b0b9fe9a80fe73d822075cd36a67",
+    "wof:geomhash":"d7bb06d7597fe911449661e701f55d7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676948,
+    "wof:lastmodified":1695876974,
     "wof:name":"Adiste",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

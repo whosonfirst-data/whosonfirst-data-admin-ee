@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":809,
+        "ee-mamt:okood":"809",
         "eg:gisco_id":"EE_0809",
         "eurostat:nuts_2021_id":"0809"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451897,
     "wof:geomhash":"7e8bee906e0bd971b6158ceb4f17e9c2",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352191,
+    "wof:lastmodified":1695886722,
     "wof:name":"Tori",
     "wof:parent_id":85682981,
     "wof:placetype":"county",

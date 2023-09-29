@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viruvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001869,
-    "geom:area_square_m":11983740.469704,
+    "geom:area_square_m":11983740.469705,
     "geom:bbox":"26.232805,58.731656,26.322041,58.780992",
     "geom:latitude":58.758711,
     "geom:longitude":26.282564,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9409
+        "ee-mamt:okood":"9409"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226465231
     ],
     "wof:country":"EE",
     "wof:created":1595460504,
-    "wof:geomhash":"893dc6291a728095ffde8e4bf91f6c0c",
+    "wof:geomhash":"12a36e00241f97b2d1f44a5cf42fb478",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676556,
+    "wof:lastmodified":1695876922,
     "wof:name":"Viruvere",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

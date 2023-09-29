@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuusiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001304,
-    "geom:area_square_m":8356373.338189,
+    "geom:area_square_m":8356373.338186,
     "geom:bbox":"22.497987,58.778093,22.589606,58.811875",
     "geom:latitude":58.79491,
     "geom:longitude":22.546088,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3717
+        "ee-mamt:okood":"3717"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259988517
     ],
     "wof:country":"EE",
     "wof:created":1595460085,
-    "wof:geomhash":"747225367984f2e0454b579b36762850",
+    "wof:geomhash":"fcae20faacccd4536dff82b3080f98fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666316,
+    "wof:lastmodified":1695876849,
     "wof:name":"Kuusiku",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

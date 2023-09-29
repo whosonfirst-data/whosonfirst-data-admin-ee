@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Parksi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000556,
-    "geom:area_square_m":3488589.329005,
+    "geom:area_square_m":3488589.329004,
     "geom:bbox":"25.740497,59.491299,25.789379,59.518477",
     "geom:latitude":59.50215,
     "geom:longitude":25.761386,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6016
+        "ee-mamt:okood":"6016"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226456737
     ],
     "wof:country":"EE",
     "wof:created":1595459039,
-    "wof:geomhash":"a835b5b2edc5d7bb49c25716933f94b6",
+    "wof:geomhash":"94990550577d4e9a543749bc40fdd605",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661813,
+    "wof:lastmodified":1695876777,
     "wof:name":"Parksi",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

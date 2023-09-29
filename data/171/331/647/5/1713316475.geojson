@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Loosu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000977,
-    "geom:area_square_m":6419106.283005,
+    "geom:area_square_m":6419106.283006,
     "geom:bbox":"26.95941,57.8709,27.021496,57.903648",
     "geom:latitude":57.886518,
     "geom:longitude":26.989825,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4519
+        "ee-mamt:okood":"4519"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037683
     ],
     "wof:country":"EE",
     "wof:created":1595461434,
-    "wof:geomhash":"b3905d64e1e2ceac2c47f4f2f7d61a8d",
+    "wof:geomhash":"c2b4c696ae49134f764059913bfb35e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660228,
+    "wof:lastmodified":1695876721,
     "wof:name":"Loosu",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

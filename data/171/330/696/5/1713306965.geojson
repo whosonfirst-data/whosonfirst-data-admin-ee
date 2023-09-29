@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Metstaguse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001381,
-    "geom:area_square_m":8782850.659739,
+    "geom:area_square_m":8782850.659737,
     "geom:bbox":"25.803814,59.038526,25.873809,59.069989",
     "geom:latitude":59.055165,
     "geom:longitude":25.838569,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4936
+        "ee-mamt:okood":"4936"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1210017217
     ],
     "wof:country":"EE",
     "wof:created":1595459289,
-    "wof:geomhash":"43479baa82feaaa0d37b196c225c3071",
+    "wof:geomhash":"e573174f743e0ce9aa3331849c09f955",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676621,
+    "wof:lastmodified":1695876931,
     "wof:name":"Metstaguse",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

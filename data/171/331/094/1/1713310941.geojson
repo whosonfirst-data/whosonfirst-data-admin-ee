@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Roosi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000854,
-    "geom:area_square_m":5607118.917698,
+    "geom:area_square_m":5607118.917699,
     "geom:bbox":"26.885058,57.931642,26.963502,57.963479",
     "geom:latitude":57.948167,
     "geom:longitude":26.922296,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7071
+        "ee-mamt:okood":"7071"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327213985
     ],
     "wof:country":"EE",
     "wof:created":1595460232,
-    "wof:geomhash":"dc82ade1b0a601a8102358a8114d5251",
+    "wof:geomhash":"513e67fe1761c3b22cad1f770bd9d46e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676957,
+    "wof:lastmodified":1695876976,
     "wof:name":"Roosi",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

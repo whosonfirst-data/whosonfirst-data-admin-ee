@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mahtra K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004899,
-    "geom:area_square_m":31112928.747354,
+    "geom:area_square_m":31112928.747349,
     "geom:bbox":"24.949476,59.059295,25.059872,59.143347",
     "geom:latitude":59.098492,
     "geom:longitude":25.010492,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4733
+        "ee-mamt:okood":"4733"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293077505
     ],
     "wof:country":"EE",
     "wof:created":1595460809,
-    "wof:geomhash":"9230e42131a2aa4f130c834aedcef94e",
+    "wof:geomhash":"07dd3fda66aabb5114a544f621773b45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676714,
+    "wof:lastmodified":1695876944,
     "wof:name":"Mahtra",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

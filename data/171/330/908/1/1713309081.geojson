@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u0151renduse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000974,
-    "geom:area_square_m":6271086.969908,
+    "geom:area_square_m":6271086.96991,
     "geom:bbox":"26.674119,58.599807,26.731985,58.640952",
     "geom:latitude":58.621724,
     "geom:longitude":26.706362,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3788
+        "ee-mamt:okood":"3788"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209538459
     ],
     "wof:country":"EE",
     "wof:created":1595459799,
-    "wof:geomhash":"cf95017c8575efcbcc17023bd2019a7f",
+    "wof:geomhash":"e86fb61ace0f9d0e3521b6cbd84fa4b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676463,
+    "wof:lastmodified":1695876912,
     "wof:name":"K\u0151renduse",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

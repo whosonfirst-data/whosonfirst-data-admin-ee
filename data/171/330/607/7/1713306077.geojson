@@ -14,7 +14,7 @@
     "geom:longitude":24.842884,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Viimsi alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9280
+        "ee-mamt:okood":"9280"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101758373
     ],
     "wof:country":"EE",
     "wof:created":1595459070,
-    "wof:geomhash":"4979b72c5af19e372b903d481ce58c45",
+    "wof:geomhash":"84f78001df328bde91fba723f2d5480c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675377,
+    "wof:lastmodified":1695876908,
     "wof:name":"Viimsi",
     "wof:parent_id":1713305625,
     "wof:placetype":"localadmin",

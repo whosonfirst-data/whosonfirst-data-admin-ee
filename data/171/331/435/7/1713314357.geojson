@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Endla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002849,
-    "geom:area_square_m":18237176.884411,
+    "geom:area_square_m":18237176.88441,
     "geom:bbox":"26.18492,58.788872,26.274962,58.84023",
     "geom:latitude":58.817472,
     "geom:longitude":26.226195,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1598
+        "ee-mamt:okood":"1598"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310600387
     ],
     "wof:country":"EE",
     "wof:created":1595460959,
-    "wof:geomhash":"a1535fa90839e8eb3d008aa09555c537",
+    "wof:geomhash":"cee1b663f1daac431be5caf0ace47475",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676562,
+    "wof:lastmodified":1695876925,
     "wof:name":"Endla",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

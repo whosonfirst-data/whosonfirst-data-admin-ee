@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Maru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001905,
-    "geom:area_square_m":12413687.607962,
+    "geom:area_square_m":12413687.607967,
     "geom:bbox":"25.209604,58.172125,25.288963,58.220891",
     "geom:latitude":58.196512,
     "geom:longitude":25.252199,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4802
+        "ee-mamt:okood":"4802"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209379679
     ],
     "wof:country":"EE",
     "wof:created":1595460856,
-    "wof:geomhash":"de8008016974f96d9fadde3033317268",
+    "wof:geomhash":"d092cd4c4906c98818956a0639d4809d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661287,
+    "wof:lastmodified":1695876751,
     "wof:name":"Maru",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

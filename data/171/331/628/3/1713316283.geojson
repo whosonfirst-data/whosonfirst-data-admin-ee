@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tsolli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000591,
-    "geom:area_square_m":3901607.356564,
+    "geom:area_square_m":3901607.356565,
     "geom:bbox":"27.214385,57.747191,27.257351,57.773738",
     "geom:latitude":57.760319,
     "geom:longitude":27.234919,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8376
+        "ee-mamt:okood":"8376"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243418691
     ],
     "wof:country":"EE",
     "wof:created":1595461395,
-    "wof:geomhash":"b0e1c8f81f66e3b81bd5784af02bcab5",
+    "wof:geomhash":"324003abd26a9d2af754a553a00e3968",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660223,
+    "wof:lastmodified":1695876720,
     "wof:name":"Tsolli",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

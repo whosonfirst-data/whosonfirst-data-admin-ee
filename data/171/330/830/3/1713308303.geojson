@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Uudek\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000968,
-    "geom:area_square_m":6132605.788846,
+    "geom:area_square_m":6132605.788847,
     "geom:bbox":"26.085933,59.163397,26.15442,59.193887",
     "geom:latitude":59.177592,
     "geom:longitude":26.124925,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8754
+        "ee-mamt:okood":"8754"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936773
     ],
     "wof:country":"EE",
     "wof:created":1595459610,
-    "wof:geomhash":"fd12cf3e630e1d47e621330a00888e4f",
+    "wof:geomhash":"d3836beacefc96311716f1779f62504e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676596,
+    "wof:lastmodified":1695876928,
     "wof:name":"Uudek\u00fcla",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

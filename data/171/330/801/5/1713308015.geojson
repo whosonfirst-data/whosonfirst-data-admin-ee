@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Riisipere Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000225,
-    "geom:area_square_m":1427249.516975,
+    "geom:area_square_m":1427249.516973,
     "geom:bbox":"24.303309,59.098762,24.327798,59.126501",
     "geom:latitude":59.110295,
     "geom:longitude":24.314343,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Riisipere alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6989
+        "ee-mamt:okood":"6989"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815179
     ],
     "wof:country":"EE",
     "wof:created":1595459539,
-    "wof:geomhash":"64d8603c3292f17bb9a48f14c7a9f02f",
+    "wof:geomhash":"59c71e378c17b3a32793c0929c3c21a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663232,
+    "wof:lastmodified":1695876811,
     "wof:name":"Riisipere",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

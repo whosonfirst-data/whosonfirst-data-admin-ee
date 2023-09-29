@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kingu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000784,
-    "geom:area_square_m":5084739.53187,
+    "geom:area_square_m":5084739.531868,
     "geom:bbox":"25.381978,58.363712,25.451005,58.387265",
     "geom:latitude":58.372686,
     "geom:longitude":25.419457,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3100
+        "ee-mamt:okood":"3100"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327495127
     ],
     "wof:country":"EE",
     "wof:created":1595460009,
-    "wof:geomhash":"5f9a91bd8e0eaf73077f1a2c369a905f",
+    "wof:geomhash":"b154b5499210c99b4b829163d6e378a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661230,
+    "wof:lastmodified":1695876747,
     "wof:name":"Kingu",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

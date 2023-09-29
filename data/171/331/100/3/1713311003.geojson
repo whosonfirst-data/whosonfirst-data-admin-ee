@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u0151eveere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000509,
-    "geom:area_square_m":3339806.195465,
+    "geom:area_square_m":3339806.195464,
     "geom:bbox":"27.165942,57.92275,27.200458,57.953106",
     "geom:latitude":57.940326,
     "geom:longitude":27.183451,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2256
+        "ee-mamt:okood":"2256"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209693145
     ],
     "wof:country":"EE",
     "wof:created":1595460245,
-    "wof:geomhash":"9e7b2739abc047ff7d305e6d7d2dab6c",
+    "wof:geomhash":"a46e461919372615d3a47356f228ef9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676988,
+    "wof:lastmodified":1695876979,
     "wof:name":"J\u0151eveere",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

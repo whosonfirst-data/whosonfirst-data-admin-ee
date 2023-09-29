@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Haapsipea K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000922,
-    "geom:area_square_m":5931803.89123,
+    "geom:area_square_m":5931803.891228,
     "geom:bbox":"27.110509,58.630537,27.15939,58.657886",
     "geom:latitude":58.644787,
     "geom:longitude":27.138069,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1694
+        "ee-mamt:okood":"1694"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276738729
     ],
     "wof:country":"EE",
     "wof:created":1595460552,
-    "wof:geomhash":"622f7055a4f2dbe46f474c7f0c4e2f28",
+    "wof:geomhash":"de25671ee44dd1f2ea9bf68f150b7e39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660832,
+    "wof:lastmodified":1695876737,
     "wof:name":"Haapsipea",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

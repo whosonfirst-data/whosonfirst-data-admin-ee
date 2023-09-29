@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiisa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000452,
-    "geom:area_square_m":2953259.805503,
+    "geom:area_square_m":2953259.805501,
     "geom:bbox":"27.174136,58.054801,27.212629,58.078506",
     "geom:latitude":58.065444,
     "geom:longitude":27.195337,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3050
+        "ee-mamt:okood":"3050"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343934989
     ],
     "wof:country":"EE",
     "wof:created":1595460258,
-    "wof:geomhash":"41af331d49e32a80548c9a608a52cf25",
+    "wof:geomhash":"8ed5242097f038c5bfcc6886bf8984fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676946,
+    "wof:lastmodified":1695876973,
     "wof:name":"Kiisa",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

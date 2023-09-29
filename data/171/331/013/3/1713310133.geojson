@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koopsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002056,
-    "geom:area_square_m":13365202.57409,
+    "geom:area_square_m":13365202.574097,
     "geom:bbox":"26.206457,58.250571,26.266143,58.308977",
     "geom:latitude":58.281079,
     "geom:longitude":26.237745,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3412
+        "ee-mamt:okood":"3412"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343427215
     ],
     "wof:country":"EE",
     "wof:created":1595460056,
-    "wof:geomhash":"969bc00eaba105a82679a395c044e9c7",
+    "wof:geomhash":"7aeab7da810886265896c51124fa9a7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661886,
+    "wof:lastmodified":1695876783,
     "wof:name":"Koopsi",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

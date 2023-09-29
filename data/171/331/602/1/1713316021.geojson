@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rokina K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000846,
-    "geom:area_square_m":5577249.201993,
+    "geom:area_square_m":5577249.201995,
     "geom:bbox":"27.380159,57.778702,27.449716,57.803382",
     "geom:latitude":57.790342,
     "geom:longitude":27.416649,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7045
+        "ee-mamt:okood":"7045"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209489407
     ],
     "wof:country":"EE",
     "wof:created":1595461342,
-    "wof:geomhash":"8b3ae282e5286519a23f781abf89d54b",
+    "wof:geomhash":"51bc6d2ecc92aac551caa0ef0db62008",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663631,
+    "wof:lastmodified":1695876836,
     "wof:name":"Rokina",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

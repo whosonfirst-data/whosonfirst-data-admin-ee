@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Marguse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000299,
-    "geom:area_square_m":1897361.82583,
+    "geom:area_square_m":1897361.825828,
     "geom:bbox":"25.181961,59.139974,25.218822,59.158087",
     "geom:latitude":59.148042,
     "geom:longitude":25.200705,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4788
+        "ee-mamt:okood":"4788"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125821625
     ],
     "wof:country":"EE",
     "wof:created":1595459119,
-    "wof:geomhash":"f84229912b248599e34966c5c1e88533",
+    "wof:geomhash":"2377b44c39a9895d513fae5cb8f6a174",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661342,
+    "wof:lastmodified":1695876755,
     "wof:name":"Marguse",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

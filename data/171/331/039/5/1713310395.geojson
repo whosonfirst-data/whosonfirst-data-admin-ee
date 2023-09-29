@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Taagepera K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001255,
-    "geom:area_square_m":8227191.983644,
+    "geom:area_square_m":8227191.983643,
     "geom:bbox":"25.658968,57.959969,25.728158,57.997833",
     "geom:latitude":57.980405,
     "geom:longitude":25.695258,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7993
+        "ee-mamt:okood":"7993"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125817107
     ],
     "wof:country":"EE",
     "wof:created":1595460112,
-    "wof:geomhash":"9c5db4ac6ba339335e181d4559384418",
+    "wof:geomhash":"bb1453a94628076a1f82961d4a1e978a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661421,
+    "wof:lastmodified":1695876758,
     "wof:name":"Taagepera",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

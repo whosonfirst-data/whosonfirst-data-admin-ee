@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laulepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000727,
-    "geom:area_square_m":4671440.853041,
+    "geom:area_square_m":4671440.853042,
     "geom:bbox":"23.647629,58.689976,23.717469,58.706885",
     "geom:latitude":58.699402,
     "geom:longitude":23.681972,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4149
+        "ee-mamt:okood":"4149"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276433017
     ],
     "wof:country":"EE",
     "wof:created":1595459932,
-    "wof:geomhash":"a17354da740afaeb26ff879c08a04edb",
+    "wof:geomhash":"05af399e8fc00a4a09663384ca97794a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661645,
+    "wof:lastmodified":1695876772,
     "wof:name":"Laulepa",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

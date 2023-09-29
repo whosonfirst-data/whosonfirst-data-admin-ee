@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viira K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000257,
-    "geom:area_square_m":1656240.247059,
+    "geom:area_square_m":1656240.24706,
     "geom:bbox":"22.707638,58.52338,22.746265,58.538846",
     "geom:latitude":58.531921,
     "geom:longitude":22.726041,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9293
+        "ee-mamt:okood":"9293"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326713885
     ],
     "wof:country":"EE",
     "wof:created":1595459677,
-    "wof:geomhash":"e3710fe5a0f35819e82b31387b471b1c",
+    "wof:geomhash":"249c01feb383488dbe2eb2442b901ace",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672532,
+    "wof:lastmodified":1695876899,
     "wof:name":"Viira",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

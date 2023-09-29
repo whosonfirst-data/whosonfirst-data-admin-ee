@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kantk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000674,
-    "geom:area_square_m":4314189.25974,
+    "geom:area_square_m":4314189.259741,
     "geom:bbox":"26.556684,58.812607,26.608706,58.837833",
     "geom:latitude":58.825802,
     "geom:longitude":26.586745,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2688
+        "ee-mamt:okood":"2688"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260308591
     ],
     "wof:country":"EE",
     "wof:created":1595460509,
-    "wof:geomhash":"23ab0b11a86ead8f6d1a008b48029388",
+    "wof:geomhash":"767d5e4f56326759603cc104b1c206d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676553,
+    "wof:lastmodified":1695876921,
     "wof:name":"Kantk\u00fcla",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

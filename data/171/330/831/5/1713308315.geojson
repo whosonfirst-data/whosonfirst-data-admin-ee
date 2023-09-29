@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Natturi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000082,
-    "geom:area_square_m":513301.722241,
+    "geom:area_square_m":513301.722239,
     "geom:bbox":"26.018169,59.617112,26.032936,59.630291",
     "geom:latitude":59.622928,
     "geom:longitude":26.02657,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5364
+        "ee-mamt:okood":"5364"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326850427
     ],
     "wof:country":"EE",
     "wof:created":1595459613,
-    "wof:geomhash":"0b48af2b75b53a3589652ed485c51096",
+    "wof:geomhash":"6a6fa68b4d030da1d0e8be85ed8b8ae6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678021,
+    "wof:lastmodified":1695877010,
     "wof:name":"Natturi",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

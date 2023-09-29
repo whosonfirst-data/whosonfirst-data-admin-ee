@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaubi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000921,
-    "geom:area_square_m":6014767.168822,
+    "geom:area_square_m":6014767.168821,
     "geom:bbox":"25.976508,58.085767,26.037945,58.115479",
     "geom:latitude":58.101173,
     "geom:longitude":26.006992,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2856
+        "ee-mamt:okood":"2856"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276190687
     ],
     "wof:country":"EE",
     "wof:created":1595460872,
-    "wof:geomhash":"fd17c2b59a8eaa1155bd345574d3f39b",
+    "wof:geomhash":"7c6e822fd51b9aa76a690f39e645856c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661426,
+    "wof:lastmodified":1695876759,
     "wof:name":"Kaubi",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

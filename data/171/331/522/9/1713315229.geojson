@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karjasoo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.009296,
-    "geom:area_square_m":59987756.995136,
+    "geom:area_square_m":59987756.995145,
     "geom:bbox":"25.073299,58.496256,25.34786,58.581676",
     "geom:latitude":58.542932,
     "geom:longitude":25.232491,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2754
+        "ee-mamt:okood":"2754"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243032883
     ],
     "wof:country":"EE",
     "wof:created":1595461159,
-    "wof:geomhash":"7b5227d3668d1e10853191fe5e133086",
+    "wof:geomhash":"206a717f3d5cfb4f91d09ff060f57756",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663450,
+    "wof:lastmodified":1695876831,
     "wof:name":"Karjasoo",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Keskk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001776,
-    "geom:area_square_m":11396144.3345,
+    "geom:area_square_m":11396144.334502,
     "geom:bbox":"23.96381,58.725709,24.075554,58.765588",
     "geom:latitude":58.74406,
     "geom:longitude":24.026697,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2983
+        "ee-mamt:okood":"2983"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293511143
     ],
     "wof:country":"EE",
     "wof:created":1595460712,
-    "wof:geomhash":"958fa62768ddfb780f543115518bef19",
+    "wof:geomhash":"5a01ee471d2ae0643384f94806f4de85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677205,
+    "wof:lastmodified":1695876990,
     "wof:name":"Keskk\u00fcla",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

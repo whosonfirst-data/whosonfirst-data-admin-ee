@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Juminda K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00044,
-    "geom:area_square_m":2750726.177785,
+    "geom:area_square_m":2750726.177791,
     "geom:bbox":"25.495041,59.619208,25.524771,59.64875",
     "geom:latitude":59.63549,
     "geom:longitude":25.510363,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2209
+        "ee-mamt:okood":"2209"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193033795
     ],
     "wof:country":"EE",
     "wof:created":1595459033,
-    "wof:geomhash":"20272102c00aad12a5ac70ba250c0d43",
+    "wof:geomhash":"ccd0a535f16c1bbb8d0444a928854c39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661824,
+    "wof:lastmodified":1695876779,
     "wof:name":"Juminda",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kurgla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001835,
-    "geom:area_square_m":11551220.6891,
+    "geom:area_square_m":11551220.689102,
     "geom:bbox":"25.050158,59.371134,25.130046,59.408583",
     "geom:latitude":59.390118,
     "geom:longitude":25.087312,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3668
+        "ee-mamt:okood":"3668"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293214605
     ],
     "wof:country":"EE",
     "wof:created":1595461022,
-    "wof:geomhash":"e011601295d74d4dc8dec7b7c0565cce",
+    "wof:geomhash":"1a28016d38fd85724a4018f11400e79a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661929,
+    "wof:lastmodified":1695876789,
     "wof:name":"Kurgla",
     "wof:parent_id":1713305751,
     "wof:placetype":"localadmin",

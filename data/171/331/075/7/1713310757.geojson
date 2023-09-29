@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tammistu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000219,
-    "geom:area_square_m":1398437.479377,
+    "geom:area_square_m":1398437.479378,
     "geom:bbox":"22.349081,58.895157,22.383646,58.904887",
     "geom:latitude":58.900097,
     "geom:longitude":22.36534,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8122
+        "ee-mamt:okood":"8122"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259882905
     ],
     "wof:country":"EE",
     "wof:created":1595460194,
-    "wof:geomhash":"e5c18dc7dfe1ed00b7235aa4759f0803",
+    "wof:geomhash":"3ca7233076239ec3207b302103925b63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666452,
+    "wof:lastmodified":1695876859,
     "wof:name":"Tammistu",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ahunapalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.014264,
-    "geom:area_square_m":92570897.850998,
+    "geom:area_square_m":92570897.851018,
     "geom:bbox":"27.140455,58.299163,27.365336,58.406723",
     "geom:latitude":58.340924,
     "geom:longitude":27.25584,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1125
+        "ee-mamt:okood":"1125"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209578785
     ],
     "wof:country":"EE",
     "wof:created":1595460921,
-    "wof:geomhash":"100e7d9a9239f2086967f3e85c00612f",
+    "wof:geomhash":"1a88535a9374824903c05964d68c6bb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617130723,
+    "wof:lastmodified":1695877018,
     "wof:name":"Ahunapalu",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

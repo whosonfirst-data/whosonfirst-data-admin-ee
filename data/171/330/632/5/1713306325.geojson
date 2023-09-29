@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ojasoo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000962,
-    "geom:area_square_m":6104456.282831,
+    "geom:area_square_m":6104456.282834,
     "geom:bbox":"25.163779,59.118281,25.241683,59.141647",
     "geom:latitude":59.129734,
     "geom:longitude":25.204426,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5656
+        "ee-mamt:okood":"5656"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125971581
     ],
     "wof:country":"EE",
     "wof:created":1595459131,
-    "wof:geomhash":"468eeff7a7121cf87504b43f76a2df5e",
+    "wof:geomhash":"b167c88528b7af0ff9c724b4cf6161e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661341,
+    "wof:lastmodified":1695876754,
     "wof:name":"Ojasoo",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

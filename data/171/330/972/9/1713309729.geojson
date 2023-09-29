@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4giste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000621,
-    "geom:area_square_m":4071068.143379,
+    "geom:area_square_m":4071068.14338,
     "geom:bbox":"26.202179,57.993993,26.233228,58.028397",
     "geom:latitude":58.008842,
     "geom:longitude":26.219352,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5229
+        "ee-mamt:okood":"5229"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343920577
     ],
     "wof:country":"EE",
     "wof:created":1595459961,
-    "wof:geomhash":"024405c830ba47a0a7545c1b284a59ba",
+    "wof:geomhash":"4e857aa6a8cc7a92385e6b3120688d69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661870,
+    "wof:lastmodified":1695876782,
     "wof:name":"M\u00e4giste",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

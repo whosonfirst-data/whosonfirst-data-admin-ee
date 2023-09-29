@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lembevere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00116,
-    "geom:area_square_m":7545982.612204,
+    "geom:area_square_m":7545982.612202,
     "geom:bbox":"26.258958,58.247714,26.30241,58.287829",
     "geom:latitude":58.268706,
     "geom:longitude":26.278515,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4256
+        "ee-mamt:okood":"4256"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309769459
     ],
     "wof:country":"EE",
     "wof:created":1595460068,
-    "wof:geomhash":"458ac525dc467da0ebd3b902a63dfb62",
+    "wof:geomhash":"4b6be5d9708bd665bcbb5f0a56f87405",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661887,
+    "wof:lastmodified":1695876783,
     "wof:name":"Lembevere",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

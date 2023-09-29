@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Joaveski K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000692,
-    "geom:area_square_m":4342803.118137,
+    "geom:area_square_m":4342803.118136,
     "geom:bbox":"25.803695,59.485666,25.835041,59.524158",
     "geom:latitude":59.502626,
     "geom:longitude":25.818503,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2194
+        "ee-mamt:okood":"2194"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1210012067
     ],
     "wof:country":"EE",
     "wof:created":1595460839,
-    "wof:geomhash":"dedeaf7d7772f905084395fdb4d2277e",
+    "wof:geomhash":"df2d171ea5721ad326416cc44d8b0318",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661831,
+    "wof:lastmodified":1695876780,
     "wof:name":"Joaveski",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

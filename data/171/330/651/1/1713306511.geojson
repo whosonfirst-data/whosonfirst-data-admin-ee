@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Leina K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000299,
-    "geom:area_square_m":1941229.228915,
+    "geom:area_square_m":1941229.228914,
     "geom:bbox":"22.752278,58.274736,22.787258,58.288773",
     "geom:latitude":58.282099,
     "geom:longitude":22.770001,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4233
+        "ee-mamt:okood":"4233"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242857879
     ],
     "wof:country":"EE",
     "wof:created":1595459175,
-    "wof:geomhash":"aaf57b8052d4d928c628e90731806c8c",
+    "wof:geomhash":"1a2278a946a5344b304550f834b8e927",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671777,
+    "wof:lastmodified":1695876871,
     "wof:name":"Leina",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

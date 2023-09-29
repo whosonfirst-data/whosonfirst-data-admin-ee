@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ehmja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003499,
-    "geom:area_square_m":22365719.335869,
+    "geom:area_square_m":22365719.335872,
     "geom:bbox":"23.73483,58.825708,23.828223,58.907853",
     "geom:latitude":58.871813,
     "geom:longitude":23.784217,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1546
+        "ee-mamt:okood":"1546"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193269737
     ],
     "wof:country":"EE",
     "wof:created":1595459708,
-    "wof:geomhash":"e87420954120d61f5bdde10db9543a8f",
+    "wof:geomhash":"8c3ec7dfc492f4c9443acc28fb319874",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677170,
+    "wof:lastmodified":1695876985,
     "wof:name":"Ehmja",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

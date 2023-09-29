@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tagumaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000835,
-    "geom:area_square_m":5367860.780406,
+    "geom:area_square_m":5367860.780404,
     "geom:bbox":"27.027379,58.651406,27.088343,58.67328",
     "geom:latitude":58.662913,
     "geom:longitude":27.056976,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8066
+        "ee-mamt:okood":"8066"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243072545
     ],
     "wof:country":"EE",
     "wof:created":1595459937,
-    "wof:geomhash":"2eb3e804c9ec0e00433d43c9502ad7e1",
+    "wof:geomhash":"56ad704db3b3129ba913b309122dee00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660869,
+    "wof:lastmodified":1695876739,
     "wof:name":"Tagumaa",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

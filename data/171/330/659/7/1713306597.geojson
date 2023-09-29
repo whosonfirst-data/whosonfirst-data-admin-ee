@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4ljaotsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001102,
-    "geom:area_square_m":7069456.158789,
+    "geom:area_square_m":7069456.15879,
     "geom:bbox":"25.524165,58.742105,25.590017,58.776029",
     "geom:latitude":58.758505,
     "geom:longitude":25.556994,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9653
+        "ee-mamt:okood":"9653"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226148899
     ],
     "wof:country":"EE",
     "wof:created":1595459194,
-    "wof:geomhash":"2f002738a8dd0a04c08d9ffa9905cbb3",
+    "wof:geomhash":"e3348a0a2123bfb5a645403cf8cdfe9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677976,
+    "wof:lastmodified":1695877006,
     "wof:name":"V\u00e4ljaotsa",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

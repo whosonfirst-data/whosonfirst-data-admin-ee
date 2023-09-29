@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u0151isiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002178,
-    "geom:area_square_m":14023230.304581,
+    "geom:area_square_m":14023230.304582,
     "geom:bbox":"25.87714,58.588784,25.955734,58.636648",
     "geom:latitude":58.613781,
     "geom:longitude":25.923433,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9536
+        "ee-mamt:okood":"9536"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890515
     ],
     "wof:country":"EE",
     "wof:created":1595460572,
-    "wof:geomhash":"6670717cfef823882b9495dfc4d3bb60",
+    "wof:geomhash":"dcc23f7608962bfd2db112b72da9749e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676494,
+    "wof:lastmodified":1695876916,
     "wof:name":"V\u0151isiku",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

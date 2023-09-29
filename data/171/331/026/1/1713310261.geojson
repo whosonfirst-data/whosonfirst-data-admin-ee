@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rampe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002165,
-    "geom:area_square_m":14237676.304053,
+    "geom:area_square_m":14237676.304055,
     "geom:bbox":"26.195867,57.843396,26.253488,57.905255",
     "geom:latitude":57.87237,
     "geom:longitude":26.223893,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6786
+        "ee-mamt:okood":"6786"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209891349
     ],
     "wof:country":"EE",
     "wof:created":1595460084,
-    "wof:geomhash":"001719c86dfde5622d5e5b317977269d",
+    "wof:geomhash":"0dcadb48ba8a1baca1dc6b5b260219c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661945,
+    "wof:lastmodified":1695876792,
     "wof:name":"Rampe",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

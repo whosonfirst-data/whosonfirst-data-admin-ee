@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Murika K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001726,
-    "geom:area_square_m":11116628.334681,
+    "geom:area_square_m":11116628.334675,
     "geom:bbox":"22.501024,58.584452,22.573971,58.626565",
     "geom:latitude":58.603767,
     "geom:longitude":22.539212,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5050
+        "ee-mamt:okood":"5050"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326909251
     ],
     "wof:country":"EE",
     "wof:created":1595459276,
-    "wof:geomhash":"371cc6a92e5c86a13ba56518c7036d3c",
+    "wof:geomhash":"9a079b6f26c332e8b9bc454b055a74e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672063,
+    "wof:lastmodified":1695876879,
     "wof:name":"Murika",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

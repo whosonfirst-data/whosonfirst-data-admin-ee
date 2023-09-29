@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Peanse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000531,
-    "geom:area_square_m":3411436.926971,
+    "geom:area_square_m":3411436.92697,
     "geom:bbox":"23.726143,58.663857,23.759594,58.691434",
     "geom:latitude":58.677255,
     "geom:longitude":23.741529,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6055
+        "ee-mamt:okood":"6055"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310693043
     ],
     "wof:country":"EE",
     "wof:created":1595459849,
-    "wof:geomhash":"3371ed17d8b8d2226cdd4feb21fafe7a",
+    "wof:geomhash":"0e7bea95c4fd4eac7a050fd6701cdaaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661599,
+    "wof:lastmodified":1695876767,
     "wof:name":"Peanse",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

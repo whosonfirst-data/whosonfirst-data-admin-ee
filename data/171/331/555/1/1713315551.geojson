@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viliksaar\u0151 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001149,
-    "geom:area_square_m":7589668.54763,
+    "geom:area_square_m":7589668.547628,
     "geom:bbox":"26.76001,57.693109,26.849458,57.717687",
     "geom:latitude":57.704743,
     "geom:longitude":26.80822,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9329
+        "ee-mamt:okood":"9329"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343236139
     ],
     "wof:country":"EE",
     "wof:created":1595461244,
-    "wof:geomhash":"c04364a1debb863ba628e90d47ce96e4",
+    "wof:geomhash":"4101f8310da4f35c6989a73a52f986a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676849,
+    "wof:lastmodified":1695876965,
     "wof:name":"Viliksaar\u0151",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u00f6mbi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000883,
-    "geom:area_square_m":5746338.47659,
+    "geom:area_square_m":5746338.476583,
     "geom:bbox":"25.65121,58.241669,25.702575,58.275417",
     "geom:latitude":58.260214,
     "geom:longitude":25.677801,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8496
+        "ee-mamt:okood":"8496"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327308331
     ],
     "wof:country":"EE",
     "wof:created":1595459991,
-    "wof:geomhash":"63f104726e39d27fd24036060a0d8450",
+    "wof:geomhash":"c4fb7ee8e58b1f4ac420350673b29e9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661237,
+    "wof:lastmodified":1695876748,
     "wof:name":"T\u00f6mbi",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

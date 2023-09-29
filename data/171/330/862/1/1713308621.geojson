@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Araski K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000261,
-    "geom:area_square_m":1653748.952832,
+    "geom:area_square_m":1653748.952833,
     "geom:bbox":"26.074134,59.130851,26.110661,59.144789",
     "geom:latitude":59.138108,
     "geom:longitude":26.091038,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1315
+        "ee-mamt:okood":"1315"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193263941
     ],
     "wof:country":"EE",
     "wof:created":1595459689,
-    "wof:geomhash":"e9980f986fb3ebab850a10617d7d7de1",
+    "wof:geomhash":"be755f84ba8b81dd76a04a2e0f4fc570",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676597,
+    "wof:lastmodified":1695876928,
     "wof:name":"Araski",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

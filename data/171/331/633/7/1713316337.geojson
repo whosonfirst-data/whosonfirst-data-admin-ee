@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pari K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00062,
-    "geom:area_square_m":4101040.379399,
+    "geom:area_square_m":4101040.379403,
     "geom:bbox":"27.137487,57.65811,27.176897,57.685027",
     "geom:latitude":57.670013,
     "geom:longitude":27.15599,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6002
+        "ee-mamt:okood":"6002"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259757181
     ],
     "wof:country":"EE",
     "wof:created":1595461406,
-    "wof:geomhash":"3ed52dd2808bf2f1f945de0e23a93fd0",
+    "wof:geomhash":"20e17cff82aa0f859b028dab397dcdf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660280,
+    "wof:lastmodified":1695876728,
     "wof:name":"Pari",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

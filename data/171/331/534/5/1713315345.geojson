@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vastse-Roosa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001547,
-    "geom:area_square_m":10255123.180633,
+    "geom:area_square_m":10255123.180637,
     "geom:bbox":"26.628509,57.553033,26.737811,57.583863",
     "geom:latitude":57.571418,
     "geom:longitude":26.676658,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9131
+        "ee-mamt:okood":"9131"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276828135
     ],
     "wof:country":"EE",
     "wof:created":1595461193,
-    "wof:geomhash":"82aba57785b79ae91b30a70673e15ccc",
+    "wof:geomhash":"24245791b5ba286d306e88949cc1e9a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676847,
+    "wof:lastmodified":1695876965,
     "wof:name":"Vastse-Roosa",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

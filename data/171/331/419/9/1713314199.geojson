@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Auk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002092,
-    "geom:area_square_m":13166264.466142,
+    "geom:area_square_m":13166264.466141,
     "geom:bbox":"26.158819,59.384048,26.23581,59.42609",
     "geom:latitude":59.407618,
     "geom:longitude":26.197239,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1463
+        "ee-mamt:okood":"1463"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242992983
     ],
     "wof:country":"EE",
     "wof:created":1595460924,
-    "wof:geomhash":"09807e832eb53701f06d2b0578e775d1",
+    "wof:geomhash":"e46c69f0fb57204bc9a3d40f2f44cfee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678033,
+    "wof:lastmodified":1695877013,
     "wof:name":"Auk\u00fcla",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

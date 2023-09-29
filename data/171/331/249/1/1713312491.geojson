@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suurupi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001545,
-    "geom:area_square_m":9704122.959824,
+    "geom:area_square_m":9704122.959817,
     "geom:bbox":"24.348757,59.443275,24.440259,59.475048",
     "geom:latitude":59.462005,
     "geom:longitude":24.391296,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7870
+        "ee-mamt:okood":"7870"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126052257
     ],
     "wof:country":"EE",
     "wof:created":1595460556,
-    "wof:geomhash":"108be7f63ab5af263934fc5d6e24221c",
+    "wof:geomhash":"0add0f75a9d51ed00646e0def097d577",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661447,
+    "wof:lastmodified":1695876760,
     "wof:name":"Suurupi",
     "wof:parent_id":1713305681,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mustakurmu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001192,
-    "geom:area_square_m":7767322.174164,
+    "geom:area_square_m":7767322.174171,
     "geom:bbox":"26.966865,58.169993,27.041692,58.205352",
     "geom:latitude":58.189303,
     "geom:longitude":27.00447,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5061
+        "ee-mamt:okood":"5061"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209191467
     ],
     "wof:country":"EE",
     "wof:created":1595460214,
-    "wof:geomhash":"e34635fda4e5e2eb59a370bb0574e14e",
+    "wof:geomhash":"9b84ebb06205d7bd6c4688afc0c5e23d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676944,
+    "wof:lastmodified":1695876973,
     "wof:name":"Mustakurmu",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

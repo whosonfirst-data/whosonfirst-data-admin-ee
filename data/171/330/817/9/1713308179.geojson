@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paik\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002882,
-    "geom:area_square_m":18690743.135805,
+    "geom:area_square_m":18690743.135804,
     "geom:bbox":"22.191858,58.335766,22.296466,58.392281",
     "geom:latitude":58.363468,
     "geom:longitude":22.235817,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5867
+        "ee-mamt:okood":"5867"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225819277
     ],
     "wof:country":"EE",
     "wof:created":1595459576,
-    "wof:geomhash":"f3d4dd0273f1becad14814aa7f12ec02",
+    "wof:geomhash":"61f10bfbd0cabdd226b45e51d5c4f3ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671858,
+    "wof:lastmodified":1695876872,
     "wof:name":"Paik\u00fcla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

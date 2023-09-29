@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tupenurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000756,
-    "geom:area_square_m":4862946.237994,
+    "geom:area_square_m":4862946.237993,
     "geom:bbox":"23.19757,58.628672,23.242082,58.661781",
     "geom:latitude":58.646526,
     "geom:longitude":23.217283,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8418
+        "ee-mamt:okood":"8418"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260261727
     ],
     "wof:country":"EE",
     "wof:created":1595459094,
-    "wof:geomhash":"b3a66f6536c551b788b630373652995d",
+    "wof:geomhash":"d663dee3bdaabe608cf8c129a31c2c78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675118,
+    "wof:lastmodified":1695876905,
     "wof:name":"Tupenurme",
     "wof:parent_id":1713305623,
     "wof:placetype":"localadmin",

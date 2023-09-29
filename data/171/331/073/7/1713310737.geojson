@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuriste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000263,
-    "geom:area_square_m":1688209.775379,
+    "geom:area_square_m":1688209.77538,
     "geom:bbox":"22.62224,58.784029,22.645003,58.801979",
     "geom:latitude":58.792452,
     "geom:longitude":22.632964,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3680
+        "ee-mamt:okood":"3680"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343569825
     ],
     "wof:country":"EE",
     "wof:created":1595460189,
-    "wof:geomhash":"01a85f1f266fff2ba0a7852d9f227288",
+    "wof:geomhash":"f2b1556399fab6c6a7c9734bcd65bcfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666434,
+    "wof:lastmodified":1695876858,
     "wof:name":"Kuriste",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

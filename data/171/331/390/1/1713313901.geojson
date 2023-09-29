@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Muri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000998,
-    "geom:area_square_m":6466877.045742,
+    "geom:area_square_m":6466877.045743,
     "geom:bbox":"26.800624,58.383146,26.854946,58.410732",
     "geom:latitude":58.397303,
     "geom:longitude":26.825213,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5046
+        "ee-mamt:okood":"5046"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226105347
     ],
     "wof:country":"EE",
     "wof:created":1595460861,
-    "wof:geomhash":"e1ca37315831f7036fd8c949fb684eed",
+    "wof:geomhash":"80e513ce2d699240b035a48da366ccc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660671,
+    "wof:lastmodified":1695876730,
     "wof:name":"Muri",
     "wof:parent_id":1713305697,
     "wof:placetype":"localadmin",

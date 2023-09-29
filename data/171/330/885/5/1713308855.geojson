@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saunja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002763,
-    "geom:area_square_m":17606732.633062,
+    "geom:area_square_m":17606732.633061,
     "geom:bbox":"23.609017,58.946153,23.710878,59.020214",
     "geom:latitude":58.983172,
     "geom:longitude":23.664817,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7465
+        "ee-mamt:okood":"7465"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326751683
     ],
     "wof:country":"EE",
     "wof:created":1595459749,
-    "wof:geomhash":"fd01af87123209b6e1675d0bef36e188",
+    "wof:geomhash":"53dd1d4b6f49b7fd94fd3842538cdfa7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617131425,
+    "wof:lastmodified":1695877021,
     "wof:name":"Saunja",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

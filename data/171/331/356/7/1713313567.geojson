@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4lgita K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002044,
-    "geom:area_square_m":13223037.78212,
+    "geom:area_square_m":13223037.782124,
     "geom:bbox":"25.616711,58.433459,25.692255,58.48533",
     "geom:latitude":58.45932,
     "geom:longitude":25.655869,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9646
+        "ee-mamt:okood":"9646"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125914703
     ],
     "wof:country":"EE",
     "wof:created":1595460789,
-    "wof:geomhash":"602cd86e8fe59321b5a1b77f402fdd37",
+    "wof:geomhash":"4e9631c412ad351beb4d4e53405470a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661213,
+    "wof:lastmodified":1695876745,
     "wof:name":"V\u00e4lgita",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

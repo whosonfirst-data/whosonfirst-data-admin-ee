@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kareda K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002078,
-    "geom:area_square_m":13255386.708187,
+    "geom:area_square_m":13255386.708185,
     "geom:bbox":"25.751142,58.922884,25.840866,58.973163",
     "geom:latitude":58.95043,
     "geom:longitude":25.792716,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2712
+        "ee-mamt:okood":"2712"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209821359
     ],
     "wof:country":"EE",
     "wof:created":1595459256,
-    "wof:geomhash":"ef149250bacbfec8a09ea2e4ba5fe67b",
+    "wof:geomhash":"37d6fcc313e813150a23eb3e70921761",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676629,
+    "wof:lastmodified":1695876933,
     "wof:name":"Kareda",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

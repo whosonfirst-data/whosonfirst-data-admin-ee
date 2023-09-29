@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vana-Kaiu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.006637,
-    "geom:area_square_m":42313036.535459,
+    "geom:area_square_m":42313036.535455,
     "geom:bbox":"25.025557,58.919509,25.18109,58.999281",
     "geom:latitude":58.961443,
     "geom:longitude":25.092535,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8982
+        "ee-mamt:okood":"8982"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936901
     ],
     "wof:country":"EE",
     "wof:created":1595461187,
-    "wof:geomhash":"c97f8502be2f2464a0db8f27185e5011",
+    "wof:geomhash":"ada6540584fb3a649a5c49678f7153cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676713,
+    "wof:lastmodified":1695876944,
     "wof:name":"Vana-Kaiu",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

@@ -14,7 +14,7 @@
     "geom:longitude":26.767459,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "K\u0151rvek\u00fcla alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3824
+        "ee-mamt:okood":"3824"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008401
     ],
     "wof:country":"EE",
     "wof:created":1595459800,
-    "wof:geomhash":"718cd7be89f6059bdfc67220f74dd516",
+    "wof:geomhash":"5c7d048dc9c426f00c6de2d18717c449",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676459,
+    "wof:lastmodified":1695876911,
     "wof:name":"K\u0151rvek\u00fcla",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

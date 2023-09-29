@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pedassaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000337,
-    "geom:area_square_m":2108644.249331,
+    "geom:area_square_m":2108644.249332,
     "geom:bbox":"26.028391,59.608303,26.061477,59.628825",
     "geom:latitude":59.61638,
     "geom:longitude":26.042485,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6068
+        "ee-mamt:okood":"6068"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259478881
     ],
     "wof:country":"EE",
     "wof:created":1595459635,
-    "wof:geomhash":"046fb2fe38e9de8f243e756293f82f39",
+    "wof:geomhash":"fedea902a7a7b6c055818e0df6b93131",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678029,
+    "wof:lastmodified":1695877012,
     "wof:name":"Pedassaare",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

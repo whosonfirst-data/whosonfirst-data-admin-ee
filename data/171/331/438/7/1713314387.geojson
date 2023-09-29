@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u00e4levere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00273,
-    "geom:area_square_m":17586579.893089,
+    "geom:area_square_m":17586579.893088,
     "geom:bbox":"25.38199,58.57161,25.493417,58.619037",
     "geom:latitude":58.597156,
     "geom:longitude":25.441687,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2304
+        "ee-mamt:okood":"2304"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243029961
     ],
     "wof:country":"EE",
     "wof:created":1595460966,
-    "wof:geomhash":"2f3db1b3c422850fdee664dab54137c8",
+    "wof:geomhash":"7989eed90dca14d3751ec020a96963dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663439,
+    "wof:lastmodified":1695876828,
     "wof:name":"J\u00e4levere",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

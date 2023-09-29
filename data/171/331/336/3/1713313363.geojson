@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Avispea K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005353,
-    "geom:area_square_m":33966664.92487,
+    "geom:area_square_m":33966664.924868,
     "geom:bbox":"26.347177,59.094843,26.496718,59.154982",
     "geom:latitude":59.12413,
     "geom:longitude":26.414915,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1484
+        "ee-mamt:okood":"1484"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125971279
     ],
     "wof:country":"EE",
     "wof:created":1595460746,
-    "wof:geomhash":"d1d80469c70c21ab7d47ad61ec6b06a3",
+    "wof:geomhash":"3109c72d1b2fa5e03d38d200a9c15239",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676529,
+    "wof:lastmodified":1695876919,
     "wof:name":"Avispea",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

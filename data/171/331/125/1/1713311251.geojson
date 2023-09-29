@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Reonda K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002661,
-    "geom:area_square_m":17078448.675645,
+    "geom:area_square_m":17078448.675641,
     "geom:bbox":"24.890225,58.707685,24.994445,58.757187",
     "geom:latitude":58.735581,
     "geom:longitude":24.9439,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6937
+        "ee-mamt:okood":"6937"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226729285
     ],
     "wof:country":"EE",
     "wof:created":1595460296,
-    "wof:geomhash":"a5cd6e17e5f21189970d82bb9d5102fd",
+    "wof:geomhash":"edb81705be006107ff1e78a23163c72c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676740,
+    "wof:lastmodified":1695876947,
     "wof:name":"Reonda",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

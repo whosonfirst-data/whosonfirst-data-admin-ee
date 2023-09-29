@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Halliste Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000138,
-    "geom:area_square_m":902772.511811,
+    "geom:area_square_m":902772.511812,
     "geom:bbox":"25.426972,58.158984,25.448237,58.172171",
     "geom:latitude":58.164597,
     "geom:longitude":25.438796,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Halliste alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1749
+        "ee-mamt:okood":"1749"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277036699
     ],
     "wof:country":"EE",
     "wof:created":1595460390,
-    "wof:geomhash":"a36da9d6f7cf9d5089d2e4acab6153f5",
+    "wof:geomhash":"6d6b0d3c2271ff3e06a822466f14cf88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661290,
+    "wof:lastmodified":1695876751,
     "wof:name":"Halliste",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

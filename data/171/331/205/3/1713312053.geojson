@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kasep\u00e4\u00e4 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000407,
-    "geom:area_square_m":2610494.565699,
+    "geom:area_square_m":2610494.565697,
     "geom:bbox":"26.942127,58.778104,26.979475,58.798522",
     "geom:latitude":58.787285,
     "geom:longitude":26.958233,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2800
+        "ee-mamt:okood":"2800"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1108979963
     ],
     "wof:country":"EE",
     "wof:created":1595460472,
-    "wof:geomhash":"fa14d73939af193ea50e9f63495442cc",
+    "wof:geomhash":"7d5f66c5c3bb64edecdf07f00527856d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660958,
+    "wof:lastmodified":1695876740,
     "wof:name":"Kasep\u00e4\u00e4",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

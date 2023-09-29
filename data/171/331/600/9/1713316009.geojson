@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kimalas\u0151 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00038,
-    "geom:area_square_m":2517209.081466,
+    "geom:area_square_m":2517209.081467,
     "geom:bbox":"27.201359,57.583057,27.248579,57.595857",
     "geom:latitude":57.589478,
     "geom:longitude":27.222408,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3095
+        "ee-mamt:okood":"3095"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226301721
     ],
     "wof:country":"EE",
     "wof:created":1595461339,
-    "wof:geomhash":"74174587958cd92c635ba26a857cf53c",
+    "wof:geomhash":"05cec75f2d134a9d14a661ffdd8ed2a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676856,
+    "wof:lastmodified":1695876967,
     "wof:name":"Kimalas\u0151",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

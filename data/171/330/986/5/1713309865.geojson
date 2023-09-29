@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kokaviidika K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000805,
-    "geom:area_square_m":5213931.339287,
+    "geom:area_square_m":5213931.339286,
     "geom:bbox":"25.634154,58.408022,25.674342,58.444162",
     "geom:latitude":58.42472,
     "geom:longitude":25.654418,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3313
+        "ee-mamt:okood":"3313"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310662419
     ],
     "wof:country":"EE",
     "wof:created":1595459994,
-    "wof:geomhash":"3dfde0061fbce115768a204a80abe46d",
+    "wof:geomhash":"fa4d655fbe9e0ffd8b8ff2c174120c38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661236,
+    "wof:lastmodified":1695876748,
     "wof:name":"Kokaviidika",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

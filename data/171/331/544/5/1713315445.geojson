@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laadi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002091,
-    "geom:area_square_m":13600471.42077,
+    "geom:area_square_m":13600471.420771,
     "geom:bbox":"24.582602,58.241822,24.647505,58.295376",
     "geom:latitude":58.268303,
     "geom:longitude":24.612533,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4004
+        "ee-mamt:okood":"4004"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125858227
     ],
     "wof:country":"EE",
     "wof:created":1595461221,
-    "wof:geomhash":"3868d8c5f679575b40eda8a96de7d309",
+    "wof:geomhash":"df3354b5a855f3414750e74667e2793f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663037,
+    "wof:lastmodified":1695876808,
     "wof:name":"Laadi",
     "wof:parent_id":1713305741,
     "wof:placetype":"localadmin",

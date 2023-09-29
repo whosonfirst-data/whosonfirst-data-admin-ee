@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u0151lliste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004126,
-    "geom:area_square_m":27124744.619923,
+    "geom:area_square_m":27124744.619917,
     "geom:bbox":"26.060834,57.827284,26.206728,57.938101",
     "geom:latitude":57.880499,
     "geom:longitude":26.137647,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8491
+        "ee-mamt:okood":"8491"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125957193
     ],
     "wof:country":"EE",
     "wof:created":1595460155,
-    "wof:geomhash":"7e1bb81da375a3f469b3619673377437",
+    "wof:geomhash":"e22910d90a9a963c654ba8ab3f969a1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661938,
+    "wof:lastmodified":1695876790,
     "wof:name":"T\u0151lliste",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

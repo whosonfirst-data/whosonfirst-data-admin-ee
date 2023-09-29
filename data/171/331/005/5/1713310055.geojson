@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u0151istre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001807,
-    "geom:area_square_m":11696261.566055,
+    "geom:area_square_m":11696261.566054,
     "geom:bbox":"25.553885,58.42628,25.640075,58.46364",
     "geom:latitude":58.444608,
     "geom:longitude":25.595454,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9541
+        "ee-mamt:okood":"9541"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243328387
     ],
     "wof:country":"EE",
     "wof:created":1595460038,
-    "wof:geomhash":"38635b44c582c22e536aa394eaecb6b7",
+    "wof:geomhash":"3b1a5e50f6601c237528f1582977d956",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661191,
+    "wof:lastmodified":1695876744,
     "wof:name":"V\u0151istre",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

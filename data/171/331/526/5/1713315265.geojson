@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Liivakupalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000176,
-    "geom:area_square_m":1161681.887267,
+    "geom:area_square_m":1161681.887268,
     "geom:bbox":"26.954724,57.75793,26.987262,57.768863",
     "geom:latitude":57.762893,
     "geom:longitude":26.970284,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4358
+        "ee-mamt:okood":"4358"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360059429
     ],
     "wof:country":"EE",
     "wof:created":1595461166,
-    "wof:geomhash":"58efa1ee69bc331a722c2177286f7134",
+    "wof:geomhash":"a4547acdf217f4ac6fbd066a628f2f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676862,
+    "wof:lastmodified":1695876968,
     "wof:name":"Liivakupalu",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

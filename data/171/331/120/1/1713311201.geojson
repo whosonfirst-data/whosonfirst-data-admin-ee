@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Alu-Metsk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001502,
-    "geom:area_square_m":9552560.898498,
+    "geom:area_square_m":9552560.898496,
     "geom:bbox":"24.749731,59.028731,24.822647,59.06094",
     "geom:latitude":59.045457,
     "geom:longitude":24.788248,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1232
+        "ee-mamt:okood":"1232"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243143493
     ],
     "wof:country":"EE",
     "wof:created":1595460285,
-    "wof:geomhash":"f8a6cbecb2a8ca449fa2ba1dd6898fd7",
+    "wof:geomhash":"6b8178a103c88220b261424a6f93b25a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676705,
+    "wof:lastmodified":1695876942,
     "wof:name":"Alu-Metsk\u00fcla",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

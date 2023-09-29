@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00119,
-    "geom:area_square_m":7848905.453282,
+    "geom:area_square_m":7848905.453281,
     "geom:bbox":"26.270388,57.7394,26.332474,57.771507",
     "geom:latitude":57.756612,
     "geom:longitude":26.30179,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2775
+        "ee-mamt:okood":"2775"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125840391
     ],
     "wof:country":"EE",
     "wof:created":1595460206,
-    "wof:geomhash":"29dec298f6286428fa18b72bb95a2751",
+    "wof:geomhash":"4fac48b7bb16d43a4517ef41708606a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661941,
+    "wof:lastmodified":1695876791,
     "wof:name":"Karula",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

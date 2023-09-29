@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raadi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000162,
-    "geom:area_square_m":1070548.573837,
+    "geom:area_square_m":1070548.573836,
     "geom:bbox":"27.297804,57.760565,27.314696,57.77589",
     "geom:latitude":57.768586,
     "geom:longitude":27.305362,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6673
+        "ee-mamt:okood":"6673"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226301757
     ],
     "wof:country":"EE",
     "wof:created":1595461276,
-    "wof:geomhash":"a3ad56c05a9ec78641b294c8dc2ca345",
+    "wof:geomhash":"e8633f3dc2a11dd16b33e404f522717e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660261,
+    "wof:lastmodified":1695876725,
     "wof:name":"Raadi",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

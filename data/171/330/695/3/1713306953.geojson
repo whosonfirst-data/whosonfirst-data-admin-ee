@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rannak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000302,
-    "geom:area_square_m":1962811.199857,
+    "geom:area_square_m":1962811.199854,
     "geom:bbox":"22.803592,58.258494,22.838198,58.281087",
     "geom:latitude":58.272163,
     "geom:longitude":22.818268,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6818
+        "ee-mamt:okood":"6818"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326600865
     ],
     "wof:country":"EE",
     "wof:created":1595459286,
-    "wof:geomhash":"41508e53d6bb9be3f48f87cbc31ea886",
+    "wof:geomhash":"0e57fe67dd15fc04343c0c0176482858",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672078,
+    "wof:lastmodified":1695876880,
     "wof:name":"Rannak\u00fcla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

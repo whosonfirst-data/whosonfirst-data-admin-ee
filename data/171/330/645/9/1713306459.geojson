@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Hulja Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000188,
-    "geom:area_square_m":1184901.368747,
+    "geom:area_square_m":1184901.368746,
     "geom:bbox":"26.202369,59.346069,26.23559,59.357083",
     "geom:latitude":59.352194,
     "geom:longitude":26.220438,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Hulja alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1897
+        "ee-mamt:okood":"1897"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126018841
     ],
     "wof:country":"EE",
     "wof:created":1595459163,
-    "wof:geomhash":"9c016b707fbe55ea4d420506b3393059",
+    "wof:geomhash":"1386ffda239bf596acb4c7493b017199",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661728,
+    "wof:lastmodified":1695876775,
     "wof:name":"Hulja",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

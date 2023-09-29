@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kihelkonna-Liiva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000713,
-    "geom:area_square_m":4633868.985384,
+    "geom:area_square_m":4633868.985385,
     "geom:bbox":"22.02227,58.297245,22.078223,58.325556",
     "geom:latitude":58.309965,
     "geom:longitude":22.049917,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3013
+        "ee-mamt:okood":"3013"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459375,
-    "wof:geomhash":"ded964911ca9b34a3a0fc197b8f8e2e5",
+    "wof:geomhash":"bb836a3d770704da9e11ae68b6f84572",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671598,
+    "wof:lastmodified":1695876864,
     "wof:name":"Kihelkonna-Liiva",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paask\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00099,
-    "geom:area_square_m":6215731.711094,
+    "geom:area_square_m":6215731.711096,
     "geom:bbox":"26.421582,59.462668,26.473918,59.49134",
     "geom:latitude":59.477162,
     "geom:longitude":26.447105,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5791
+        "ee-mamt:okood":"5791"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309708309
     ],
     "wof:country":"EE",
     "wof:created":1595461183,
-    "wof:geomhash":"a45741b575c86f5e121e8d652231efa4",
+    "wof:geomhash":"29dc8e7cb0766208449201031268a17f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677924,
+    "wof:lastmodified":1695877002,
     "wof:name":"Paask\u00fcla",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

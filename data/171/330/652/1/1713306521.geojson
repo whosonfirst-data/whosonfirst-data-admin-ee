@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Oju K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000508,
-    "geom:area_square_m":3293107.00891,
+    "geom:area_square_m":3293107.008911,
     "geom:bbox":"21.977247,58.374997,22.03337,58.398624",
     "geom:latitude":58.386786,
     "geom:longitude":22.005256,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5657
+        "ee-mamt:okood":"5657"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243155525
     ],
     "wof:country":"EE",
     "wof:created":1595459177,
-    "wof:geomhash":"2f4c3ca927cef12a24a8c4d6695a40f0",
+    "wof:geomhash":"e19546f1b44699851aa9a0b879f471ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671614,
+    "wof:lastmodified":1695876865,
     "wof:name":"Oju",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

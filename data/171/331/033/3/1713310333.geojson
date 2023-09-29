@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Audru Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.001245,
-    "geom:area_square_m":8065386.02557,
+    "geom:area_square_m":8065386.025571,
     "geom:bbox":"24.291945,58.394701,24.380451,58.423272",
     "geom:latitude":58.410935,
     "geom:longitude":24.341171,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Audru alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1458
+        "ee-mamt:okood":"1458"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815077
     ],
     "wof:country":"EE",
     "wof:created":1595460099,
-    "wof:geomhash":"a9573bc8e1f2540d716bb7258cdf8825",
+    "wof:geomhash":"22d3a0a74fc4a68935fb990b0ac7090d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677677,
+    "wof:lastmodified":1695876993,
     "wof:name":"Audru",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

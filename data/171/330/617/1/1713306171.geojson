@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ridasi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000163,
-    "geom:area_square_m":1053149.652636,
+    "geom:area_square_m":1053149.652635,
     "geom:bbox":"23.204486,58.579756,23.22905,58.590941",
     "geom:latitude":58.584947,
     "geom:longitude":23.216757,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6965
+        "ee-mamt:okood":"6965"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327205037
     ],
     "wof:country":"EE",
     "wof:created":1595459094,
-    "wof:geomhash":"0418c2fc41dcae76589b3c4571672896",
+    "wof:geomhash":"c26a06fa491cdb2e6ddcc921b45a2f8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675103,
+    "wof:lastmodified":1695876902,
     "wof:name":"Ridasi",
     "wof:parent_id":1713305623,
     "wof:placetype":"localadmin",

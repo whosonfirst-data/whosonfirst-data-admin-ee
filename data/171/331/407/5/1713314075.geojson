@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Loopre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001345,
-    "geom:area_square_m":8658213.569156,
+    "geom:area_square_m":8658213.569158,
     "geom:bbox":"25.731133,58.620722,25.798354,58.653183",
     "geom:latitude":58.636192,
     "geom:longitude":25.771331,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4514
+        "ee-mamt:okood":"4514"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209790097
     ],
     "wof:country":"EE",
     "wof:created":1595460898,
-    "wof:geomhash":"afd4acd5f67a93d3aebacee64afa93ee",
+    "wof:geomhash":"abe3218adedba1c5616909439b00c621",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663444,
+    "wof:lastmodified":1695876830,
     "wof:name":"Loopre",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Toku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002141,
-    "geom:area_square_m":14074005.006208,
+    "geom:area_square_m":14074005.006207,
     "geom:bbox":"26.37094,57.866851,26.469272,57.90326",
     "geom:latitude":57.883658,
     "geom:longitude":26.426531,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8280
+        "ee-mamt:okood":"8280"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209080249
     ],
     "wof:country":"EE",
     "wof:created":1595460244,
-    "wof:geomhash":"8b68095d0281a00ac7204409aa35817e",
+    "wof:geomhash":"b0f9224f2186c80b8b61001f45786edb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677016,
+    "wof:lastmodified":1695876982,
     "wof:name":"Toku",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

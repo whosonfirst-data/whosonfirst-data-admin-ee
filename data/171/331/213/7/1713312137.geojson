@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tapiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003415,
-    "geom:area_square_m":21872034.960039,
+    "geom:area_square_m":21872034.960037,
     "geom:bbox":"26.090387,58.770034,26.200593,58.833888",
     "geom:latitude":58.805516,
     "geom:longitude":26.146348,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8141
+        "ee-mamt:okood":"8141"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344261971
     ],
     "wof:country":"EE",
     "wof:created":1595460487,
-    "wof:geomhash":"1b7321076c38a249c148ccd3a9d3f704",
+    "wof:geomhash":"67e5314d6fc74ba023ac6d7d2ad95782",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676485,
+    "wof:lastmodified":1695876914,
     "wof:name":"Tapiku",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

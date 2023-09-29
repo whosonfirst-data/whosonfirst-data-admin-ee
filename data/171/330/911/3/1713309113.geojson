@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lammiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000541,
-    "geom:area_square_m":3497391.605048,
+    "geom:area_square_m":3497391.605049,
     "geom:bbox":"26.581284,58.456754,26.632027,58.480982",
     "geom:latitude":58.467779,
     "geom:longitude":26.605775,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4093
+        "ee-mamt:okood":"4093"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276631105
     ],
     "wof:country":"EE",
     "wof:created":1595459812,
-    "wof:geomhash":"e12861d3ab1cee68a30e13ce4bd6c73c",
+    "wof:geomhash":"5d23ad8d23d58575d41801057fae3fbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676467,
+    "wof:lastmodified":1695876913,
     "wof:name":"Lammiku",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":296,
+        "ee-mamt:okood":"296",
         "eg:gisco_id":"EE_0296",
         "eurostat:nuts_2021_id":"0296"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815187,
         1713315095
@@ -92,7 +93,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352194,
+    "wof:lastmodified":1695886727,
     "wof:name":"Keila",
     "wof:parent_id":85683055,
     "wof:placetype":"county",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Palatu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002567,
-    "geom:area_square_m":16577531.185347,
+    "geom:area_square_m":16577531.185344,
     "geom:bbox":"23.906574,58.496367,24.009303,58.541549",
     "geom:latitude":58.519271,
     "geom:longitude":23.96048,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5924
+        "ee-mamt:okood":"5924"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226323789
     ],
     "wof:country":"EE",
     "wof:created":1595460817,
-    "wof:geomhash":"f472969a520ca48e30741e61e99fe8db",
+    "wof:geomhash":"80ff5e9c3dab6c4704ee2a569d55113d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661565,
+    "wof:lastmodified":1695876764,
     "wof:name":"Palatu",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

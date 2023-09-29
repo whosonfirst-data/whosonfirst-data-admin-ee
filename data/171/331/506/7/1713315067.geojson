@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ohukotsu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000896,
-    "geom:area_square_m":5707053.977671,
+    "geom:area_square_m":5707053.97767,
     "geom:bbox":"24.5491,58.997053,24.60023,59.029415",
     "geom:latitude":59.013226,
     "geom:longitude":24.569524,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5631
+        "ee-mamt:okood":"5631"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310376831
     ],
     "wof:country":"EE",
     "wof:created":1595461125,
-    "wof:geomhash":"7681dcd62568e2143546e7447a4c379e",
+    "wof:geomhash":"e768978b489434989d93fe9ae8870b62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662821,
+    "wof:lastmodified":1695876804,
     "wof:name":"Ohukotsu",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

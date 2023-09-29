@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Varinurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00232,
-    "geom:area_square_m":14623515.441425,
+    "geom:area_square_m":14623515.44142,
     "geom:bbox":"26.853848,59.322759,26.924255,59.391981",
     "geom:latitude":59.358727,
     "geom:longitude":26.89938,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9086
+        "ee-mamt:okood":"9086"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209221997
     ],
     "wof:country":"EE",
     "wof:created":1595460973,
-    "wof:geomhash":"0d3367b248844fb19056416de4dee4c2",
+    "wof:geomhash":"740317d0b07fe11e57bdc08a4da70d89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660781,
+    "wof:lastmodified":1695876735,
     "wof:name":"Varinurme",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

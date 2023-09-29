@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuksema K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003377,
-    "geom:area_square_m":21491920.581565,
+    "geom:area_square_m":21491920.581566,
     "geom:bbox":"25.817116,58.995232,25.9444,59.047988",
     "geom:latitude":59.018646,
     "geom:longitude":25.884757,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3564
+        "ee-mamt:okood":"3564"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125934557
     ],
     "wof:country":"EE",
     "wof:created":1595459263,
-    "wof:geomhash":"26f9d9f4fc4eccfd62a9c9f184497661",
+    "wof:geomhash":"0dfd42c3e702a2de61d78146c10a7b9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676629,
+    "wof:lastmodified":1695876933,
     "wof:name":"Kuksema",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

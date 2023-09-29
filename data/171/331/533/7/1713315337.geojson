@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kikepera K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.019218,
-    "geom:area_square_m":124832858.072616,
+    "geom:area_square_m":124832858.072611,
     "geom:bbox":"24.686321,58.265398,25.002233,58.354942",
     "geom:latitude":58.309947,
     "geom:longitude":24.849166,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3061
+        "ee-mamt:okood":"3061"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226330665
     ],
     "wof:country":"EE",
     "wof:created":1595461191,
-    "wof:geomhash":"309a448237eeb99ec6951389864d0ea2",
+    "wof:geomhash":"7c25a3f3560ab226dd382f9d83e769a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677730,
+    "wof:lastmodified":1695876998,
     "wof:name":"Kikepera",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

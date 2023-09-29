@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Arisvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002067,
-    "geom:area_square_m":13241253.711449,
+    "geom:area_square_m":13241253.711451,
     "geom:bbox":"26.000239,58.768445,26.093088,58.817049",
     "geom:latitude":58.789934,
     "geom:longitude":26.045167,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1351
+        "ee-mamt:okood":"1351"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243553687
     ],
     "wof:country":"EE",
     "wof:created":1595461000,
-    "wof:geomhash":"863b82db59214c1e552d2ceaba871b4c",
+    "wof:geomhash":"1e6aabf40f4b7e5b1c661a5cad1341ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676493,
+    "wof:lastmodified":1695876916,
     "wof:name":"Arisvere",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

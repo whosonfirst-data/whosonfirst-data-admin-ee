@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kobru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001914,
-    "geom:area_square_m":12128395.593691,
+    "geom:area_square_m":12128395.593695,
     "geom:bbox":"24.116759,59.154849,24.185611,59.204975",
     "geom:latitude":59.177686,
     "geom:longitude":24.152761,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3224
+        "ee-mamt:okood":"3224"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1292921241
     ],
     "wof:country":"EE",
     "wof:created":1595461041,
-    "wof:geomhash":"e6cbaa317f04ad1ff5655cf3fa4354ab",
+    "wof:geomhash":"a939427fefa4b4c93b6e5e7f5c5fa5c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663286,
+    "wof:lastmodified":1695876813,
     "wof:name":"Kobru",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

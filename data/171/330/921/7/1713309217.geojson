@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Majaka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003531,
-    "geom:area_square_m":23154208.886488,
+    "geom:area_square_m":23154208.886486,
     "geom:bbox":"24.403065,57.929589,24.535267,57.996069",
     "geom:latitude":57.969074,
     "geom:longitude":24.478019,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4746
+        "ee-mamt:okood":"4746"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276204399
     ],
     "wof:country":"EE",
     "wof:created":1595459835,
-    "wof:geomhash":"4e3f4a3d739fe3f31a8faae738ed62e2",
+    "wof:geomhash":"42c63e61fad91f5f9135739b61537747",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663032,
+    "wof:lastmodified":1695876807,
     "wof:name":"Majaka",
     "wof:parent_id":1713305741,
     "wof:placetype":"localadmin",

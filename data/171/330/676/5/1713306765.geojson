@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u00e4kumetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000381,
-    "geom:area_square_m":2398241.199346,
+    "geom:area_square_m":2398241.199345,
     "geom:bbox":"27.324101,59.371408,27.355191,59.39655",
     "geom:latitude":59.38303,
     "geom:longitude":27.34012,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8563
+        "ee-mamt:okood":"8563"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343869883
     ],
     "wof:country":"EE",
     "wof:created":1595459236,
-    "wof:geomhash":"cbd77a6995f6b1303cfff2bfed581cd7",
+    "wof:geomhash":"35f7aa070f8c05ddd3144c1fda240db8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676906,
+    "wof:lastmodified":1695876970,
     "wof:name":"T\u00e4kumetsa",
     "wof:parent_id":1713305783,
     "wof:placetype":"localadmin",

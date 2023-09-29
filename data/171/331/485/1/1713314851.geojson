@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kildemaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005191,
-    "geom:area_square_m":33614165.323556,
+    "geom:area_square_m":33614165.323548,
     "geom:bbox":"24.762937,58.393193,24.958318,58.448498",
     "geom:latitude":58.418425,
     "geom:longitude":24.839513,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3077
+        "ee-mamt:okood":"3077"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209994625
     ],
     "wof:country":"EE",
     "wof:created":1595461072,
-    "wof:geomhash":"174e6c572883ed64ccadd40de1dc5c4f",
+    "wof:geomhash":"a39f5d6f7fcfd875668a21d103966bfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663380,
+    "wof:lastmodified":1695876821,
     "wof:name":"Kildemaa",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

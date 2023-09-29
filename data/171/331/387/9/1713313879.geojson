@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Urissaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.007653,
-    "geom:area_square_m":50100720.578998,
+    "geom:area_square_m":50100720.578999,
     "geom:bbox":"24.537104,58.002636,24.72352,58.072734",
     "geom:latitude":58.030754,
     "geom:longitude":24.642529,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8724
+        "ee-mamt:okood":"8724"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276536883
     ],
     "wof:country":"EE",
     "wof:created":1595460856,
-    "wof:geomhash":"465427bb4f7ec764cb539280f53f7a7c",
+    "wof:geomhash":"6b57d54921adb18742c548d651f44809",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663028,
+    "wof:lastmodified":1695876806,
     "wof:name":"Urissaare",
     "wof:parent_id":1713305741,
     "wof:placetype":"localadmin",

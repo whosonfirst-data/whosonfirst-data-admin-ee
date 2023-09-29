@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Maardla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001478,
-    "geom:area_square_m":9494656.192264,
+    "geom:area_square_m":9494656.192265,
     "geom:bbox":"26.670388,58.68394,26.74317,58.720134",
     "geom:latitude":58.702653,
     "geom:longitude":26.701699,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4702
+        "ee-mamt:okood":"4702"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276985217
     ],
     "wof:country":"EE",
     "wof:created":1595460471,
-    "wof:geomhash":"a3ded86e8c0171eaa2acfc2c12fc8c63",
+    "wof:geomhash":"3e3afb0838886816bae996502924bb69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660951,
+    "wof:lastmodified":1695876740,
     "wof:name":"Maardla",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

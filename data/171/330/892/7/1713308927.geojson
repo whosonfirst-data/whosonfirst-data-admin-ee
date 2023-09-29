@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vanak\u00fcla / Gambyn",
     "ee-mamt:tyyp":8,
     "geom:area":0.009069,
-    "geom:area_square_m":57582509.765604,
+    "geom:area_square_m":57582509.765603,
     "geom:bbox":"23.561108,59.060692,23.80622,59.145264",
     "geom:latitude":59.103848,
     "geom:longitude":23.694912,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9011
+        "ee-mamt:okood":"9011"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226336893
     ],
     "wof:country":"EE",
     "wof:created":1595459766,
-    "wof:geomhash":"0fcc87fce888d826c02dad1536f735b6",
+    "wof:geomhash":"cdd40bceb49a4d8cd4253e3c4b802d71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677187,
+    "wof:lastmodified":1695876987,
     "wof:name":"Vanak\u00fcla",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

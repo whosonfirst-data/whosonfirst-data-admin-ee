@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Annikvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001242,
-    "geom:area_square_m":7989928.141741,
+    "geom:area_square_m":7989928.14174,
     "geom:bbox":"26.015041,58.618051,26.069132,58.656982",
     "geom:latitude":58.638488,
     "geom:longitude":26.043928,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1293
+        "ee-mamt:okood":"1293"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242800637
     ],
     "wof:country":"EE",
     "wof:created":1595460502,
-    "wof:geomhash":"8f67d1d3fbca31d24d46a723fca3a327",
+    "wof:geomhash":"a288dee8cac059e6afd43d57a70babb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676489,
+    "wof:lastmodified":1695876915,
     "wof:name":"Annikvere",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

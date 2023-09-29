@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paenase K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000584,
-    "geom:area_square_m":3759414.439352,
+    "geom:area_square_m":3759414.439351,
     "geom:bbox":"23.137714,58.618716,23.18254,58.643209",
     "geom:latitude":58.630242,
     "geom:longitude":23.160065,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5831
+        "ee-mamt:okood":"5831"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343535051
     ],
     "wof:country":"EE",
     "wof:created":1595459109,
-    "wof:geomhash":"fb1daac2163c50bc539236074260e90c",
+    "wof:geomhash":"295acd72a5c04633b67e3b5934553fa8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617130921,
+    "wof:lastmodified":1695877018,
     "wof:name":"Paenase",
     "wof:parent_id":1713305623,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lipu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000735,
-    "geom:area_square_m":4647960.254107,
+    "geom:area_square_m":4647960.254103,
     "geom:bbox":"27.052885,59.20704,27.10418,59.241748",
     "geom:latitude":59.226546,
     "geom:longitude":27.08052,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4419
+        "ee-mamt:okood":"4419"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460421,
-    "wof:geomhash":"6cb70944bf7626e612768787cef01ba5",
+    "wof:geomhash":"2c7119b3b4e7596653e206e7129032ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660785,
+    "wof:lastmodified":1695876736,
     "wof:name":"Lipu",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

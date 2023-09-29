@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaleste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001478,
-    "geom:area_square_m":9434869.381197,
+    "geom:area_square_m":9434869.381195,
     "geom:bbox":"22.100461,58.883277,22.178577,58.928323",
     "geom:latitude":58.909423,
     "geom:longitude":22.14416,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2577
+        "ee-mamt:okood":"2577"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209418175
     ],
     "wof:country":"EE",
     "wof:created":1595460180,
-    "wof:geomhash":"131ade6cc9e8de175174bc76bf2ee2ee",
+    "wof:geomhash":"2ab21fa9524e61f298bb078d98561049",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666342,
+    "wof:lastmodified":1695876851,
     "wof:name":"Kaleste",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

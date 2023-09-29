@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valgu-Vanam\u0151isa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002451,
-    "geom:area_square_m":15681980.34488,
+    "geom:area_square_m":15681980.344878,
     "geom:bbox":"24.551136,58.819647,24.680698,58.856915",
     "geom:latitude":58.839306,
     "geom:longitude":24.610533,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9340
+        "ee-mamt:okood":"9340"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460305,
-    "wof:geomhash":"42bc4ca9634ceecc952a336ed45035e9",
+    "wof:geomhash":"75579de95684fbc5173ea2e88ee7fb90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662819,
+    "wof:lastmodified":1695876803,
     "wof:name":"Valgu-Vanam\u0151isa",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vilimeeste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001609,
-    "geom:area_square_m":10472295.697332,
+    "geom:area_square_m":10472295.697333,
     "geom:bbox":"25.745107,58.206105,25.80715,58.25087",
     "geom:latitude":58.232886,
     "geom:longitude":25.773519,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9331
+        "ee-mamt:okood":"9331"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276618939
     ],
     "wof:country":"EE",
     "wof:created":1595460043,
-    "wof:geomhash":"c024672819c61a2a7da5c7b2de6a6b01",
+    "wof:geomhash":"e18d18b0589265eefa166c63f9e76378",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661187,
+    "wof:lastmodified":1695876744,
     "wof:name":"Vilimeeste",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

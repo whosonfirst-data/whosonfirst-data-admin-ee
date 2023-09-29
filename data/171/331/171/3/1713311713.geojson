@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Toosi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000771,
-    "geom:area_square_m":5028498.959341,
+    "geom:area_square_m":5028498.959342,
     "geom:bbox":"25.469766,58.160083,25.518347,58.189374",
     "geom:latitude":58.173215,
     "geom:longitude":25.491011,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8310
+        "ee-mamt:okood":"8310"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226207255
     ],
     "wof:country":"EE",
     "wof:created":1595460402,
-    "wof:geomhash":"d60de3e5b496dbd53231e22bea9ff634",
+    "wof:geomhash":"749604fc5366776191b534dad8293d53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661289,
+    "wof:lastmodified":1695876751,
     "wof:name":"Toosi",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

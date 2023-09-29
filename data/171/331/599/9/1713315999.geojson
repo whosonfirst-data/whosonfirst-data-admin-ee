@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vedernika K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000164,
-    "geom:area_square_m":1082093.170089,
+    "geom:area_square_m":1082093.170087,
     "geom:bbox":"27.585493,57.842821,27.603207,57.860154",
     "geom:latitude":57.852673,
     "geom:longitude":27.594828,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9151
+        "ee-mamt:okood":"9151"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461337,
-    "wof:geomhash":"6cd55b8535197580568329f9977571b8",
+    "wof:geomhash":"67ae7c2a118d636b082c0bb0f98f8f70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663655,
+    "wof:lastmodified":1695876842,
     "wof:name":"Vedernika",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

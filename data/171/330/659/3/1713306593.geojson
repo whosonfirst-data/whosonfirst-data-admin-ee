@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Luulupe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003549,
-    "geom:area_square_m":22955676.838365,
+    "geom:area_square_m":22955676.838371,
     "geom:bbox":"22.52134,58.432338,22.650994,58.482823",
     "geom:latitude":58.457425,
     "geom:longitude":22.587072,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4581
+        "ee-mamt:okood":"4581"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327407661
     ],
     "wof:country":"EE",
     "wof:created":1595459193,
-    "wof:geomhash":"ba54a42b1666a0654a5caddb919dd869",
+    "wof:geomhash":"7ab593b8fffa06fb6a95d6e6b900e2ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671645,
+    "wof:lastmodified":1695876866,
     "wof:name":"Luulupe",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kiiu Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.001416,
-    "geom:area_square_m":8900228.752688,
+    "geom:area_square_m":8900228.752685,
     "geom:bbox":"25.351226,59.432098,25.43184,59.463186",
     "geom:latitude":59.445848,
     "geom:longitude":25.38454,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Kiiu alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3056
+        "ee-mamt:okood":"3056"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125952027
     ],
     "wof:country":"EE",
     "wof:created":1595459057,
-    "wof:geomhash":"58273f27fffbec2914c4402c770bea79",
+    "wof:geomhash":"5fedca5044aa38fec96ece78c3fe7562",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661808,
+    "wof:lastmodified":1695876776,
     "wof:name":"Kiiu",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

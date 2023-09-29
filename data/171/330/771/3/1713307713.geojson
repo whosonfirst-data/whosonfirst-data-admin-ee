@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Viru-Jaagupi Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000417,
-    "geom:area_square_m":2638173.805392,
+    "geom:area_square_m":2638173.805391,
     "geom:bbox":"26.461068,59.232989,26.492886,59.25499",
     "geom:latitude":59.244776,
     "geom:longitude":26.477316,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Viru-Jaagupi alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9394
+        "ee-mamt:okood":"9394"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126039093
     ],
     "wof:country":"EE",
     "wof:created":1595459468,
-    "wof:geomhash":"81fd503cc3b5cc7a5e300c4e69e2f2d3",
+    "wof:geomhash":"b6cdb5abd8e4b44da993f3805190ac56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677945,
+    "wof:lastmodified":1695877002,
     "wof:name":"Viru-Jaagupi",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

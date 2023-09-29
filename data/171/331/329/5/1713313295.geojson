@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Murru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002589,
-    "geom:area_square_m":16702468.440869,
+    "geom:area_square_m":16702468.440865,
     "geom:bbox":"24.709289,58.520549,24.79981,58.57005",
     "geom:latitude":58.548307,
     "geom:longitude":24.752137,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5053
+        "ee-mamt:okood":"5053"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259561575
     ],
     "wof:country":"EE",
     "wof:created":1595460732,
-    "wof:geomhash":"6568e867935317281e90531b5fd7cb46",
+    "wof:geomhash":"89b239d4aa055a6e39e030702b7a6a54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663379,
+    "wof:lastmodified":1695876821,
     "wof:name":"Murru",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

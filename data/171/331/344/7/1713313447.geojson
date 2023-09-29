@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00fchaj\u00e4rve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00124,
-    "geom:area_square_m":8112277.148235,
+    "geom:area_square_m":8112277.148233,
     "geom:bbox":"26.427583,58.01611,26.473688,58.064458",
     "geom:latitude":58.042999,
     "geom:longitude":26.452403,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6659
+        "ee-mamt:okood":"6659"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125821785
     ],
     "wof:country":"EE",
     "wof:created":1595460764,
-    "wof:geomhash":"0c78c815fecfc3ec0abeac6dfbce62e8",
+    "wof:geomhash":"c2055514a02e1f16015dda129cb2bf78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661860,
+    "wof:lastmodified":1695876780,
     "wof:name":"P\u00fchaj\u00e4rve",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

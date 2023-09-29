@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kirepi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001737,
-    "geom:area_square_m":11326540.808248,
+    "geom:area_square_m":11326540.808249,
     "geom:bbox":"26.295512,58.141215,26.366121,58.184209",
     "geom:latitude":58.164259,
     "geom:longitude":26.330111,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3121
+        "ee-mamt:okood":"3121"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225811535
     ],
     "wof:country":"EE",
     "wof:created":1595460167,
-    "wof:geomhash":"cca246a9de86106046610b7bee688836",
+    "wof:geomhash":"aabb68f979e3c9637bfd548f6662fd38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661889,
+    "wof:lastmodified":1695876784,
     "wof:name":"Kirepi",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

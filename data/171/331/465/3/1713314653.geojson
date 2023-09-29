@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vao K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00267,
-    "geom:area_square_m":16947011.132508,
+    "geom:area_square_m":16947011.132502,
     "geom:bbox":"26.1468,59.092363,26.224782,59.145157",
     "geom:latitude":59.119425,
     "geom:longitude":26.183443,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9048
+        "ee-mamt:okood":"9048"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936973
     ],
     "wof:country":"EE",
     "wof:created":1595461030,
-    "wof:geomhash":"04121fa2c7e63c2e89c798fb2e506d1a",
+    "wof:geomhash":"212ff9c796be6c6fa4145731d627909d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676534,
+    "wof:lastmodified":1695876920,
     "wof:name":"Vao",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raadna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003578,
-    "geom:area_square_m":22795585.724105,
+    "geom:area_square_m":22795585.724106,
     "geom:bbox":"27.009791,58.953534,27.143653,59.014235",
     "geom:latitude":58.98686,
     "geom:longitude":27.082644,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6682
+        "ee-mamt:okood":"6682"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344264677
     ],
     "wof:country":"EE",
     "wof:created":1595460806,
-    "wof:geomhash":"6930df5bcb242225144f0e0f516132d1",
+    "wof:geomhash":"348e1cd1b709ccbb3aa04178332fc74e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660976,
+    "wof:lastmodified":1695876741,
     "wof:name":"Raadna",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

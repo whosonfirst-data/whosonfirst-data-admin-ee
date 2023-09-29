@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kolga-Jaani Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000194,
-    "geom:area_square_m":1249378.182714,
+    "geom:area_square_m":1249378.182712,
     "geom:bbox":"25.935386,58.522431,25.962665,58.538667",
     "geom:latitude":58.531649,
     "geom:longitude":25.948446,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Kolga-Jaani alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3340
+        "ee-mamt:okood":"3340"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890313
     ],
     "wof:country":"EE",
     "wof:created":1595459980,
-    "wof:geomhash":"d5677517c76a5f91d5c510f8d9b892d5",
+    "wof:geomhash":"4a65dd9ae786451724f82110d91c98ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661202,
+    "wof:lastmodified":1695876745,
     "wof:name":"Kolga-Jaani",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

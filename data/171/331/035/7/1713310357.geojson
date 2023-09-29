@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pastaku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000792,
-    "geom:area_square_m":5165173.18504,
+    "geom:area_square_m":5165173.185041,
     "geom:bbox":"26.349805,58.14367,26.396538,58.172578",
     "geom:latitude":58.156584,
     "geom:longitude":26.375329,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6031
+        "ee-mamt:okood":"6031"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276939681
     ],
     "wof:country":"EE",
     "wof:created":1595460103,
-    "wof:geomhash":"888cd449e0c9a470f8632e59f5e98c19",
+    "wof:geomhash":"54ef2c49648b01ef2d52289492914dc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661890,
+    "wof:lastmodified":1695876784,
     "wof:name":"Pastaku",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

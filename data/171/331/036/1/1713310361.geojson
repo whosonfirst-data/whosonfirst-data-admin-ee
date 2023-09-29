@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00f6\u00f6ritsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000832,
-    "geom:area_square_m":5417561.288872,
+    "geom:area_square_m":5417561.288871,
     "geom:bbox":"26.265334,58.230043,26.319107,58.252447",
     "geom:latitude":58.241517,
     "geom:longitude":26.292308,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6648
+        "ee-mamt:okood":"6648"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126004855
     ],
     "wof:country":"EE",
     "wof:created":1595460104,
-    "wof:geomhash":"e1f839f850b2360997c77d69ed5a8403",
+    "wof:geomhash":"2fe032e1a6a14b8a417faae2e01b469c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661889,
+    "wof:lastmodified":1695876784,
     "wof:name":"P\u00f6\u00f6ritsa",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

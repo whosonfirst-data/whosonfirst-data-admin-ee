@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Metsanurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001054,
-    "geom:area_square_m":6660754.079002,
+    "geom:area_square_m":6660754.078998,
     "geom:bbox":"24.633809,59.243251,24.687772,59.276631",
     "geom:latitude":59.258704,
     "geom:longitude":24.663116,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4912
+        "ee-mamt:okood":"4912"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259894117
     ],
     "wof:country":"EE",
     "wof:created":1595460674,
-    "wof:geomhash":"1a4ace1563fb1469fc934d7b016347bd",
+    "wof:geomhash":"782e45d6cd9d21be174476b8f33c05b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661499,
+    "wof:lastmodified":1695876763,
     "wof:name":"Metsanurme",
     "wof:parent_id":1713305685,
     "wof:placetype":"localadmin",

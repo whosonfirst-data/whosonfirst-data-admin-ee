@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soonlepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000512,
-    "geom:area_square_m":3277627.103305,
+    "geom:area_square_m":3277627.103307,
     "geom:bbox":"22.985277,58.836682,23.045773,58.859484",
     "geom:latitude":58.848617,
     "geom:longitude":23.009254,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7728
+        "ee-mamt:okood":"7728"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293209501
     ],
     "wof:country":"EE",
     "wof:created":1595460175,
-    "wof:geomhash":"3261af5f49336cd21dc34c25b51acd11",
+    "wof:geomhash":"8b15fa64c48627de5cbb219ca0b09421",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666338,
+    "wof:lastmodified":1695876850,
     "wof:name":"Soonlepa",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

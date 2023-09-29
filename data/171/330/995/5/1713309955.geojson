@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valgj\u00e4rve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000674,
-    "geom:area_square_m":4408013.471304,
+    "geom:area_square_m":4408013.471302,
     "geom:bbox":"26.626555,58.074506,26.677236,58.093769",
     "geom:latitude":58.084714,
     "geom:longitude":26.653699,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8932
+        "ee-mamt:okood":"8932"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126057273
     ],
     "wof:country":"EE",
     "wof:created":1595460016,
-    "wof:geomhash":"91dfeb2d2e1a48116edc43d3a2cbc7ef",
+    "wof:geomhash":"e3fd4e4d143265236ac997d4955b71af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676778,
+    "wof:lastmodified":1695876951,
     "wof:name":"Valgj\u00e4rve",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

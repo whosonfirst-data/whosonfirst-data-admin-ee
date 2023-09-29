@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Poanse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001325,
-    "geom:area_square_m":8513977.547314,
+    "geom:area_square_m":8513977.547313,
     "geom:bbox":"23.624075,58.663917,23.701047,58.696247",
     "geom:latitude":58.67989,
     "geom:longitude":23.662101,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6302
+        "ee-mamt:okood":"6302"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225839365
     ],
     "wof:country":"EE",
     "wof:created":1595459849,
-    "wof:geomhash":"a8d40eda53bed338b8586053a337fae5",
+    "wof:geomhash":"a4d6d04dd66057fc029a5ffb83408db0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661615,
+    "wof:lastmodified":1695876769,
     "wof:name":"Poanse",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

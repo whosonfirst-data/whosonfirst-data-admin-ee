@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kibaru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003601,
-    "geom:area_square_m":23256954.509213,
+    "geom:area_square_m":23256954.509215,
     "geom:bbox":"25.234617,58.478522,25.350992,58.545495",
     "geom:latitude":58.515004,
     "geom:longitude":25.291883,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2993
+        "ee-mamt:okood":"2993"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276511911
     ],
     "wof:country":"EE",
     "wof:created":1595460357,
-    "wof:geomhash":"7049f4a586ee1f69274929b191e93ea8",
+    "wof:geomhash":"876d03eb14537aa9a19b67a4c8481eaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663437,
+    "wof:lastmodified":1695876827,
     "wof:name":"Kibaru",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

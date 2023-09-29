@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Oese K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001345,
-    "geom:area_square_m":8624839.466701,
+    "geom:area_square_m":8624839.4667,
     "geom:bbox":"24.241478,58.74387,24.317393,58.773372",
     "geom:latitude":58.757857,
     "geom:longitude":24.28303,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5611
+        "ee-mamt:okood":"5611"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242860705
     ],
     "wof:country":"EE",
     "wof:created":1595460302,
-    "wof:geomhash":"2997f3b6f7808afe3c7076d801291464",
+    "wof:geomhash":"94233c70189a4942938caecdeeab00c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662812,
+    "wof:lastmodified":1695876801,
     "wof:name":"Oese",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

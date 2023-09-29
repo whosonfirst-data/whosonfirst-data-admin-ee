@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paljasmaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000432,
-    "geom:area_square_m":2773967.310554,
+    "geom:area_square_m":2773967.310555,
     "geom:bbox":"24.162219,58.739259,24.211927,58.757534",
     "geom:latitude":58.749261,
     "geom:longitude":24.189122,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5928
+        "ee-mamt:okood":"5928"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276213053
     ],
     "wof:country":"EE",
     "wof:created":1595460741,
-    "wof:geomhash":"bd1a8150f934766b5127a443a0a76366",
+    "wof:geomhash":"57a36327318e3e6ee7b18b953a758dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662833,
+    "wof:lastmodified":1695876806,
     "wof:name":"Paljasmaa",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

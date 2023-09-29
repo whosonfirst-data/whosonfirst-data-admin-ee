@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Igrise K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000719,
-    "geom:area_square_m":4713014.378494,
+    "geom:area_square_m":4713014.378496,
     "geom:bbox":"27.468163,57.965317,27.526968,57.985343",
     "geom:latitude":57.974148,
     "geom:longitude":27.501114,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2003
+        "ee-mamt:okood":"2003"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209201751
     ],
     "wof:country":"EE",
     "wof:created":1595461330,
-    "wof:geomhash":"b3ac2783ee28b70c1106fbf26fa51b96",
+    "wof:geomhash":"595525a08e08cb6ee610899631486fcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663637,
+    "wof:lastmodified":1695876838,
     "wof:name":"Igrise",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

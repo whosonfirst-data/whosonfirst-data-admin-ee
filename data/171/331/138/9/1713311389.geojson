@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hammaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001015,
-    "geom:area_square_m":6594512.439333,
+    "geom:area_square_m":6594512.43933,
     "geom:bbox":"26.965397,58.274613,27.023102,58.307062",
     "geom:latitude":58.291297,
     "geom:longitude":26.996192,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1752
+        "ee-mamt:okood":"1752"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310271081
     ],
     "wof:country":"EE",
     "wof:created":1595460325,
-    "wof:geomhash":"16a7417aab494c6d292c99863a43cbd8",
+    "wof:geomhash":"b0083350b0f1cc2e712e8622d4d2b0bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660651,
+    "wof:lastmodified":1695876729,
     "wof:name":"Hammaste",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

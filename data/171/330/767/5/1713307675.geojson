@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pikaristi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000648,
-    "geom:area_square_m":4080710.109489,
+    "geom:area_square_m":4080710.10949,
     "geom:bbox":"26.614098,59.397787,26.676501,59.41665",
     "geom:latitude":59.406243,
     "geom:longitude":26.647485,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6219
+        "ee-mamt:okood":"6219"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360207065
     ],
     "wof:country":"EE",
     "wof:created":1595459460,
-    "wof:geomhash":"71efeb1732cd3868caace6cf9df6df58",
+    "wof:geomhash":"1b5ba6e0b0107ff3c409d95484d76949",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677913,
+    "wof:lastmodified":1695876999,
     "wof:name":"Pikaristi",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

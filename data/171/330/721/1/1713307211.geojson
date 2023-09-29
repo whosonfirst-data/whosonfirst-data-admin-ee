@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rahuste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001511,
-    "geom:area_square_m":9880248.800328,
+    "geom:area_square_m":9880248.800325,
     "geom:bbox":"22.075048,58.04933,22.177352,58.098235",
     "geom:latitude":58.067448,
     "geom:longitude":22.12394,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6745
+        "ee-mamt:okood":"6745"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226513311
     ],
     "wof:country":"EE",
     "wof:created":1595459346,
-    "wof:geomhash":"c0df18e406c2a5c6c84195892966a077",
+    "wof:geomhash":"479d8be3b45deebf7f17a40b2f786f99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672346,
+    "wof:lastmodified":1695876890,
     "wof:name":"Rahuste",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

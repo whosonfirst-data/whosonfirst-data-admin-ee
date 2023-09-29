@@ -14,7 +14,7 @@
     "geom:longitude":25.222836,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Ravila alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6875
+        "ee-mamt:okood":"6875"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008599
     ],
     "wof:country":"EE",
     "wof:created":1595459121,
-    "wof:geomhash":"a7b67830717f067fb028d31f11918a0a",
+    "wof:geomhash":"58b676e3f182eb01a98d73d4fb51b2de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661336,
+    "wof:lastmodified":1695876754,
     "wof:name":"Ravila",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

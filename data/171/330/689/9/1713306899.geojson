@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Peetri Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000195,
-    "geom:area_square_m":1245626.14428,
+    "geom:area_square_m":1245626.144279,
     "geom:bbox":"25.828908,58.934231,25.857873,58.94824",
     "geom:latitude":58.941223,
     "geom:longitude":25.840952,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Peetri alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6085
+        "ee-mamt:okood":"6085"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126020507
     ],
     "wof:country":"EE",
     "wof:created":1595459272,
-    "wof:geomhash":"78d3578f4a201135a6ccc751349e3865",
+    "wof:geomhash":"a3ff12e48edb4051b27ba3fb24085d59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676623,
+    "wof:lastmodified":1695876932,
     "wof:name":"Peetri",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

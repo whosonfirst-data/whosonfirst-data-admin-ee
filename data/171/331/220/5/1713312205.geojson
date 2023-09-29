@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tooma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003831,
-    "geom:area_square_m":24485369.31256,
+    "geom:area_square_m":24485369.312562,
     "geom:bbox":"26.116411,58.858215,26.295571,58.896784",
     "geom:latitude":58.87741,
     "geom:longitude":26.212204,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8295
+        "ee-mamt:okood":"8295"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226241733
     ],
     "wof:country":"EE",
     "wof:created":1595460499,
-    "wof:geomhash":"3104cb1c47917ccc55a9511bb3badda3",
+    "wof:geomhash":"9cb55c7b1107118ff5b0927a2b51598d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676554,
+    "wof:lastmodified":1695876921,
     "wof:name":"Tooma",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

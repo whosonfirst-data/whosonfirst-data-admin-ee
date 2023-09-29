@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Keri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0005,
-    "geom:area_square_m":3194082.21308,
+    "geom:area_square_m":3194082.213081,
     "geom:bbox":"25.824591,58.876195,25.859474,58.902061",
     "geom:latitude":58.889913,
     "geom:longitude":25.841128,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2971
+        "ee-mamt:okood":"2971"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293722617
     ],
     "wof:country":"EE",
     "wof:created":1595459256,
-    "wof:geomhash":"676d4c397b6cdb895accff41931758f9",
+    "wof:geomhash":"ca734fa01b65d05bd983aa64c383857c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676620,
+    "wof:lastmodified":1695876931,
     "wof:name":"Keri",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piistaoja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001963,
-    "geom:area_square_m":12672781.582256,
+    "geom:area_square_m":12672781.582258,
     "geom:bbox":"24.859898,58.50471,24.94573,58.555875",
     "geom:latitude":58.533494,
     "geom:longitude":24.90196,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6201
+        "ee-mamt:okood":"6201"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125971661
     ],
     "wof:country":"EE",
     "wof:created":1595460844,
-    "wof:geomhash":"b7d3d1f520f2296896f93b4265fe70b7",
+    "wof:geomhash":"a6bfc63bdfc3ca6c829d383719b5f3fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663377,
+    "wof:lastmodified":1695876821,
     "wof:name":"Piistaoja",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

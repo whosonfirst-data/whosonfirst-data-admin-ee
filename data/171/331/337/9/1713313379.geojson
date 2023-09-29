@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Uuta K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000335,
-    "geom:area_square_m":2182671.065892,
+    "geom:area_square_m":2182671.065889,
     "geom:bbox":"26.430287,58.211125,26.462958,58.234456",
     "geom:latitude":58.221705,
     "geom:longitude":26.448544,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8796
+        "ee-mamt:okood":"8796"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309969167
     ],
     "wof:country":"EE",
     "wof:created":1595460749,
-    "wof:geomhash":"1a8f2efe2e9de88bc50bbec5589ee4c4",
+    "wof:geomhash":"f31ca024685700d20fbb2c2361f3ffd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676756,
+    "wof:lastmodified":1695876948,
     "wof:name":"Uuta",
     "wof:parent_id":1713305715,
     "wof:placetype":"localadmin",

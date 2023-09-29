@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lossik\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00218,
-    "geom:area_square_m":14326956.094594,
+    "geom:area_square_m":14326956.094586,
     "geom:bbox":"26.243649,57.873212,26.342332,57.916405",
     "geom:latitude":57.898317,
     "geom:longitude":26.295728,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4525
+        "ee-mamt:okood":"4525"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125768363
     ],
     "wof:country":"EE",
     "wof:created":1595460002,
-    "wof:geomhash":"ca28d9927e7a8a89917720a063ec2203",
+    "wof:geomhash":"247e84ae8d91bc9b54fd3f3f4c3eea60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661868,
+    "wof:lastmodified":1695876782,
     "wof:name":"Lossik\u00fcla",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Urumarja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000845,
-    "geom:area_square_m":5470570.080569,
+    "geom:area_square_m":5470570.08057,
     "geom:bbox":"24.708391,58.413037,24.775524,58.44239",
     "geom:latitude":58.428173,
     "geom:longitude":24.741421,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8730
+        "ee-mamt:okood":"8730"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193266491
     ],
     "wof:country":"EE",
     "wof:created":1595460531,
-    "wof:geomhash":"ec433cc3219e57946d1076724a528c3d",
+    "wof:geomhash":"16968c2a123ecf2c89132719cb90dfb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663371,
+    "wof:lastmodified":1695876819,
     "wof:name":"Urumarja",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

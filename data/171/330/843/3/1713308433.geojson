@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u0151supere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002075,
-    "geom:area_square_m":13028248.03141,
+    "geom:area_square_m":13028248.031405,
     "geom:bbox":"25.916711,59.462862,26.001914,59.516525",
     "geom:latitude":59.488206,
     "geom:longitude":25.958927,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9593
+        "ee-mamt:okood":"9593"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125798897
     ],
     "wof:country":"EE",
     "wof:created":1595459643,
-    "wof:geomhash":"14a7f60c0b4fc791d01c77028948fac2",
+    "wof:geomhash":"83d8f0277687ef6a0fa9bf6a3e9ef827",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678019,
+    "wof:lastmodified":1695877010,
     "wof:name":"V\u0151supere",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

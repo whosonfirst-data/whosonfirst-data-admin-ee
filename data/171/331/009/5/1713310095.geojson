@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kihlepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001464,
-    "geom:area_square_m":9485913.503755,
+    "geom:area_square_m":9485913.503759,
     "geom:bbox":"24.207786,58.383889,24.271869,58.419292",
     "geom:latitude":58.400152,
     "geom:longitude":24.240006,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3014
+        "ee-mamt:okood":"3014"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125871591
     ],
     "wof:country":"EE",
     "wof:created":1595460048,
-    "wof:geomhash":"28b1eeb01edfb5cdb577b381678af6ad",
+    "wof:geomhash":"6314a8a0245659e1c8fc5040fa3acffa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677672,
+    "wof:lastmodified":1695876992,
     "wof:name":"Kihlepa",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

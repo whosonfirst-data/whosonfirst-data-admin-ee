@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Meeliku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000812,
-    "geom:area_square_m":5351725.859635,
+    "geom:area_square_m":5351725.859632,
     "geom:bbox":"26.966762,57.770158,27.018772,57.800777",
     "geom:latitude":57.78403,
     "geom:longitude":26.990927,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4845
+        "ee-mamt:okood":"4845"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1292965201
     ],
     "wof:country":"EE",
     "wof:created":1595461263,
-    "wof:geomhash":"3f4650201b75ce253fe77520b211b7b9",
+    "wof:geomhash":"016c96e28f7a516a21ccabeabb6867f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660243,
+    "wof:lastmodified":1695876723,
     "wof:name":"Meeliku",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

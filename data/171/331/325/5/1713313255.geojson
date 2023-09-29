@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Tootsi Alev",
     "ee-mamt:tyyp":3,
     "geom:area":0.000286,
-    "geom:area_square_m":1841525.368275,
+    "geom:area_square_m":1841525.368276,
     "geom:bbox":"24.777006,58.566473,24.810434,58.591248",
     "geom:latitude":58.577575,
     "geom:longitude":24.792862,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "alev"
+        "town"
     ],
     "label:est_x_preferred_longname":[
         "Tootsi alev"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8316
+        "ee-mamt:okood":"8316"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815075
     ],
     "wof:country":"EE",
     "wof:created":1595460723,
-    "wof:geomhash":"4cd54e819f0a763b8328e98b49292748",
+    "wof:geomhash":"6f8d1db5a210eb3b55f79b5fcc79bca2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663399,
+    "wof:lastmodified":1695876822,
     "wof:name":"Tootsi",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kalda K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005904,
-    "geom:area_square_m":38473788.482099,
+    "geom:area_square_m":38473788.482094,
     "geom:bbox":"24.728541,58.157754,24.899918,58.222784",
     "geom:latitude":58.196356,
     "geom:longitude":24.825671,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2572
+        "ee-mamt:okood":"2572"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343839195
     ],
     "wof:country":"EE",
     "wof:created":1595459925,
-    "wof:geomhash":"6cfbc67871e76482194490a1593945c4",
+    "wof:geomhash":"267b20ee256942a510753f7ce3d94acd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677725,
+    "wof:lastmodified":1695876997,
     "wof:name":"Kalda",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

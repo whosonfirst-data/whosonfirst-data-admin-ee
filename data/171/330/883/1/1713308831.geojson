@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Haldi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000322,
-    "geom:area_square_m":2060335.228793,
+    "geom:area_square_m":2060335.228792,
     "geom:bbox":"22.433542,58.801565,22.490128,58.813795",
     "geom:latitude":58.807722,
     "geom:longitude":22.468695,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1734
+        "ee-mamt:okood":"1734"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259786659
     ],
     "wof:country":"EE",
     "wof:created":1595459744,
-    "wof:geomhash":"744bd7e6e35523e4568618bd48a33889",
+    "wof:geomhash":"7ea17ae4128fb31b7f86edf269e8329e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666496,
+    "wof:lastmodified":1695876863,
     "wof:name":"Haldi",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

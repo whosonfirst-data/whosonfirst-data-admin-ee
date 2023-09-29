@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Joosu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001766,
-    "geom:area_square_m":11597362.087323,
+    "geom:area_square_m":11597362.087328,
     "geom:bbox":"26.995333,57.906397,27.087933,57.946671",
     "geom:latitude":57.924592,
     "geom:longitude":27.03974,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2197
+        "ee-mamt:okood":"2197"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209893259
     ],
     "wof:country":"EE",
     "wof:created":1595460617,
-    "wof:geomhash":"0596ad72dd3bdf80e257c8a2c1e64820",
+    "wof:geomhash":"95bf89b9b1415a3accb12d92118f096e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676953,
+    "wof:lastmodified":1695876975,
     "wof:name":"Joosu",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

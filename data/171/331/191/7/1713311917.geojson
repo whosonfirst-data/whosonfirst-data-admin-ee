@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tudulinna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000881,
-    "geom:area_square_m":5604098.597036,
+    "geom:area_square_m":5604098.597038,
     "geom:bbox":"27.056167,59.019305,27.105456,59.056747",
     "geom:latitude":59.035795,
     "geom:longitude":27.080616,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8393
+        "ee-mamt:okood":"8393"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125920911
     ],
     "wof:country":"EE",
     "wof:created":1595460444,
-    "wof:geomhash":"536cb89f8c0abed9b7a6965706a40500",
+    "wof:geomhash":"becca03a0b8b66d536cd87a60558a5ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660708,
+    "wof:lastmodified":1695876733,
     "wof:name":"Tudulinna",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"V\u0151hma Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.0003,
-    "geom:area_square_m":1931573.539603,
+    "geom:area_square_m":1931573.539602,
     "geom:bbox":"25.539595,58.622903,25.569751,58.639227",
     "geom:latitude":58.630532,
     "geom:longitude":25.554024,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "V\u0151hma linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9500
+        "ee-mamt:okood":"9500"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815081
     ],
     "wof:country":"EE",
     "wof:created":1595460598,
-    "wof:geomhash":"4f446b03e06bef9a77ad07759c291934",
+    "wof:geomhash":"666947443795f21d6c08cfff884a58ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663438,
+    "wof:lastmodified":1695876828,
     "wof:name":"V\u0151hma",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

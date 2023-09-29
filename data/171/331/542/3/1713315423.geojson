@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Imukvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004772,
-    "geom:area_square_m":30425162.74605,
+    "geom:area_square_m":30425162.74604,
     "geom:bbox":"26.462825,58.932867,26.61159,58.997563",
     "geom:latitude":58.960151,
     "geom:longitude":26.53439,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2080
+        "ee-mamt:okood":"2080"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243439729
     ],
     "wof:country":"EE",
     "wof:created":1595461215,
-    "wof:geomhash":"2a811bf39165d4f913738672746d6659",
+    "wof:geomhash":"9fadbe9d2f42103f4f82a076eaaba25a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676536,
+    "wof:lastmodified":1695876921,
     "wof:name":"Imukvere",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

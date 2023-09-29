@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Siiksaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001386,
-    "geom:area_square_m":9000880.441454,
+    "geom:area_square_m":9000880.441439,
     "geom:bbox":"22.864868,58.296681,22.927755,58.336411",
     "geom:latitude":58.31589,
     "geom:longitude":22.895938,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7568
+        "ee-mamt:okood":"7568"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209393831
     ],
     "wof:country":"EE",
     "wof:created":1595459227,
-    "wof:geomhash":"9f6deb3e72c3c92c2a4f0afedb4f9249",
+    "wof:geomhash":"fffd2bbfa4e465a9f984f1017dbfa089",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672051,
+    "wof:lastmodified":1695876879,
     "wof:name":"Siiksaare",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

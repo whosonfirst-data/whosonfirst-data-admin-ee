@@ -14,7 +14,7 @@
     "geom:longitude":27.63984,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "V\u00e4rska alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9672
+        "ee-mamt:okood":"9672"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125854817
     ],
     "wof:country":"EE",
     "wof:created":1595461316,
-    "wof:geomhash":"95fa46a5c0a0e27889cb5b5d519b5693",
+    "wof:geomhash":"44fe1889869b3cab5e26d742f34a248d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617130350,
+    "wof:lastmodified":1695877017,
     "wof:name":"V\u00e4rska",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

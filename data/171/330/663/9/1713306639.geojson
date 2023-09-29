@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mui K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000703,
-    "geom:area_square_m":4539881.795707,
+    "geom:area_square_m":4539881.79571,
     "geom:bbox":"23.087475,58.506268,23.151635,58.52781",
     "geom:latitude":58.515419,
     "geom:longitude":23.119273,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5006
+        "ee-mamt:okood":"5006"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226121481
     ],
     "wof:country":"EE",
     "wof:created":1595459204,
-    "wof:geomhash":"e98d8fe905a22f13ce3bf92858082b14",
+    "wof:geomhash":"82d4eed05f5b4a71487876534cefdb70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671693,
+    "wof:lastmodified":1695876868,
     "wof:name":"Mui",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

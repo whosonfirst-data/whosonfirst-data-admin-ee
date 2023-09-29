@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pagari K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001304,
-    "geom:area_square_m":8239729.919903,
+    "geom:area_square_m":8239729.919904,
     "geom:bbox":"27.351328,59.242379,27.420733,59.276275",
     "geom:latitude":59.258761,
     "geom:longitude":27.390458,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5841
+        "ee-mamt:okood":"5841"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125971593
     ],
     "wof:country":"EE",
     "wof:created":1595460417,
-    "wof:geomhash":"8af995907ce1b4fcdce4a5b2317f9560",
+    "wof:geomhash":"7bb6203b8e59cdb468865f1071aa3b1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660693,
+    "wof:lastmodified":1695876732,
     "wof:name":"Pagari",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

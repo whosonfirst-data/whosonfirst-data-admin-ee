@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u0151reska K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005001,
-    "geom:area_square_m":31473506.956451,
+    "geom:area_square_m":31473506.956457,
     "geom:bbox":"25.740269,59.374132,25.897259,59.444705",
     "geom:latitude":59.405732,
     "geom:longitude":25.829286,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8193
+        "ee-mamt:okood":"8193"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259787617
     ],
     "wof:country":"EE",
     "wof:created":1595460997,
-    "wof:geomhash":"dbf3c16b6247f2f726dca1e13eefc9aa",
+    "wof:geomhash":"64000f518ac205f6c851aed461409472",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661803,
+    "wof:lastmodified":1695876775,
     "wof:name":"T\u0151reska",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

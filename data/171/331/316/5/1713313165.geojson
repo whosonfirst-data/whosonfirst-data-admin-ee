@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kajamaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001382,
-    "geom:area_square_m":8729134.082037,
+    "geom:area_square_m":8729134.082036,
     "geom:bbox":"24.665591,59.266239,24.733889,59.297741",
     "geom:latitude":59.283375,
     "geom:longitude":24.696812,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2552
+        "ee-mamt:okood":"2552"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327347703
     ],
     "wof:country":"EE",
     "wof:created":1595460704,
-    "wof:geomhash":"c829a4ab54c2b39c294a2384a118cfe8",
+    "wof:geomhash":"5eb365de19d387ad63c40b5b5b9f3050",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661500,
+    "wof:lastmodified":1695876763,
     "wof:name":"Kajamaa",
     "wof:parent_id":1713305685,
     "wof:placetype":"localadmin",

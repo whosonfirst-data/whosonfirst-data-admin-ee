@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Moka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00011,
-    "geom:area_square_m":702939.661108,
+    "geom:area_square_m":702939.661107,
     "geom:bbox":"22.744364,58.832613,22.769531,58.845322",
     "geom:latitude":58.838266,
     "geom:longitude":22.75807,
@@ -53,14 +53,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4966
+        "ee-mamt:okood":"4966"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209427873
     ],
     "wof:country":"EE",
     "wof:created":1595460202,
-    "wof:geomhash":"03d37b8a893ce95906530a1bf1cb71e9",
+    "wof:geomhash":"8cf40c78646147bf7afc8dbd657f6f82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +78,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502248,
+    "wof:lastmodified":1695877022,
     "wof:name":"Moka",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

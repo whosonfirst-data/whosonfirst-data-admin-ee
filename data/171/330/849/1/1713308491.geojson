@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vantri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000505,
-    "geom:area_square_m":3273317.53434,
+    "geom:area_square_m":3273317.534339,
     "geom:bbox":"22.418695,58.346873,22.454649,58.370706",
     "geom:latitude":58.35896,
     "geom:longitude":22.437409,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9045
+        "ee-mamt:okood":"9045"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226521261
     ],
     "wof:country":"EE",
     "wof:created":1595459659,
-    "wof:geomhash":"81a26a520e81d054e2fef4bcc647c5ad",
+    "wof:geomhash":"22c06427a51e5dd21a6880e8fc51f68c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672521,
+    "wof:lastmodified":1695876897,
     "wof:name":"Vantri",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

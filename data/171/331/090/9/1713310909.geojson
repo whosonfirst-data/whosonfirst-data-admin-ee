@@ -14,7 +14,7 @@
     "geom:longitude":27.346016,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Veriora alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9223
+        "ee-mamt:okood":"9223"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125957567
     ],
     "wof:country":"EE",
     "wof:created":1595460225,
-    "wof:geomhash":"4d143176d579f0f3897da9a4be642a7a",
+    "wof:geomhash":"e745bcd45255b84cb2e8db177e320514",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676980,
+    "wof:lastmodified":1695876977,
     "wof:name":"Veriora",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

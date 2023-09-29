@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pulli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000281,
-    "geom:area_square_m":1848218.59223,
+    "geom:area_square_m":1848218.592229,
     "geom:bbox":"26.729858,57.888852,26.754637,57.904554",
     "geom:latitude":57.896188,
     "geom:longitude":26.742929,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6430
+        "ee-mamt:okood":"6430"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226808089
     ],
     "wof:country":"EE",
     "wof:created":1595461379,
-    "wof:geomhash":"705117359a76d8ed4ddbceaee3abbadd",
+    "wof:geomhash":"875a4bf2e2b08ddacb93be0b04f09c9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660267,
+    "wof:lastmodified":1695876726,
     "wof:name":"Pulli",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

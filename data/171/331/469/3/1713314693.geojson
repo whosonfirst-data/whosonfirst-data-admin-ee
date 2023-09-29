@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Emmuvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000427,
-    "geom:area_square_m":2732799.06075,
+    "geom:area_square_m":2732799.060749,
     "geom:bbox":"23.543481,58.836221,23.573546,58.857741",
     "geom:latitude":58.846396,
     "geom:longitude":23.557481,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1592
+        "ee-mamt:okood":"1592"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226640545
     ],
     "wof:country":"EE",
     "wof:created":1595461038,
-    "wof:geomhash":"e2ffd799bdc310bc1a4b84ca0fe9bc36",
+    "wof:geomhash":"92e89c0908a47c6d41b9cd3119bc2fb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617130168,
+    "wof:lastmodified":1695877016,
     "wof:name":"Emmuvere",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

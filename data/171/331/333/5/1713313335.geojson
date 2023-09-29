@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kotinuka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003483,
-    "geom:area_square_m":21933565.401913,
+    "geom:area_square_m":21933565.401915,
     "geom:bbox":"27.387483,59.362787,27.508675,59.409654",
     "geom:latitude":59.384014,
     "geom:longitude":27.446718,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3477
+        "ee-mamt:okood":"3477"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327146109
     ],
     "wof:country":"EE",
     "wof:created":1595460740,
-    "wof:geomhash":"d116918055c99c769a839548991c7b15",
+    "wof:geomhash":"9b899bf23fa965bf206c461bf74edf29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676511,
+    "wof:lastmodified":1695876917,
     "wof:name":"Kotinuka",
     "wof:parent_id":1713305651,
     "wof:placetype":"localadmin",

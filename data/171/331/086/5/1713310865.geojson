@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Puuri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000618,
-    "geom:area_square_m":4041036.150687,
+    "geom:area_square_m":4041036.150688,
     "geom:bbox":"26.997165,58.039625,27.052211,58.063592",
     "geom:latitude":58.052621,
     "geom:longitude":27.02547,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6477
+        "ee-mamt:okood":"6477"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125835761
     ],
     "wof:country":"EE",
     "wof:created":1595460216,
-    "wof:geomhash":"13eec17d77ca1970c332b6d9a3337275",
+    "wof:geomhash":"83fdc0890fed31054b69b4f71255a3c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676945,
+    "wof:lastmodified":1695876973,
     "wof:name":"Puuri",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

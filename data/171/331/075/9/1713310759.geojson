@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tareste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002459,
-    "geom:area_square_m":15652811.146475,
+    "geom:area_square_m":15652811.146486,
     "geom:bbox":"22.641655,58.983808,22.87248,59.088531",
     "geom:latitude":59.016371,
     "geom:longitude":22.683797,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8150
+        "ee-mamt:okood":"8150"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293500519
     ],
     "wof:country":"EE",
     "wof:created":1595460194,
-    "wof:geomhash":"72fb871f49262396004c698d467c5a35",
+    "wof:geomhash":"0507b34e3a313ca087540cfca779e578",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666456,
+    "wof:lastmodified":1695876859,
     "wof:name":"Tareste",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

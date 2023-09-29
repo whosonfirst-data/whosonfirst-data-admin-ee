@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001781,
-    "geom:area_square_m":11290992.581223,
+    "geom:area_square_m":11290992.581224,
     "geom:bbox":"25.084018,59.136127,25.152641,59.18285",
     "geom:latitude":59.159126,
     "geom:longitude":25.12131,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2764
+        "ee-mamt:okood":"2764"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310519109
     ],
     "wof:country":"EE",
     "wof:created":1595459124,
-    "wof:geomhash":"4b990f0c70fa08cb71580676326ffbcb",
+    "wof:geomhash":"3793f04decb3c7970b21ec038725951b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661342,
+    "wof:lastmodified":1695876755,
     "wof:name":"Karla",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

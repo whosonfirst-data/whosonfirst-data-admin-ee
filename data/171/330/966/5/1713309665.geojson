@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mere\u00e4\u00e4rse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00091,
-    "geom:area_square_m":5885277.319031,
+    "geom:area_square_m":5885277.319029,
     "geom:bbox":"23.627593,58.443232,23.722321,58.479456",
     "geom:latitude":58.463477,
     "geom:longitude":23.694146,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4881
+        "ee-mamt:okood":"4881"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260271241
     ],
     "wof:country":"EE",
     "wof:created":1595459942,
-    "wof:geomhash":"d77131be00780801f98cf9660674cb5e",
+    "wof:geomhash":"fc6fcc8cd170acd968737936466c64dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661655,
+    "wof:lastmodified":1695876773,
     "wof:name":"Mere\u00e4\u00e4rse",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

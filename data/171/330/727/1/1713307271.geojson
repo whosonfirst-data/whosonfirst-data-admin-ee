@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u0151elepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001005,
-    "geom:area_square_m":6510589.245706,
+    "geom:area_square_m":6510589.245705,
     "geom:bbox":"22.732414,58.387166,22.789668,58.425929",
     "geom:latitude":58.408902,
     "geom:longitude":22.763263,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2231
+        "ee-mamt:okood":"2231"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226015719
     ],
     "wof:country":"EE",
     "wof:created":1595459363,
-    "wof:geomhash":"b046c3b768db2d66e2047870ff17a55b",
+    "wof:geomhash":"6c7aefe974f03356b920e6303240993a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671603,
+    "wof:lastmodified":1695876864,
     "wof:name":"J\u0151elepa",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

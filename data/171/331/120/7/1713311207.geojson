@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kuusiku Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000142,
-    "geom:area_square_m":907269.385621,
+    "geom:area_square_m":907269.385622,
     "geom:bbox":"24.706521,58.964992,24.732533,58.976642",
     "geom:latitude":58.970806,
     "geom:longitude":24.720433,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Kuusiku alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3720
+        "ee-mamt:okood":"3720"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126017667
     ],
     "wof:country":"EE",
     "wof:created":1595460286,
-    "wof:geomhash":"1e9fd0cf162116a3fbf1e4867ed18c3f",
+    "wof:geomhash":"75cb497de64b47ea0682f867238bc5da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676706,
+    "wof:lastmodified":1695876942,
     "wof:name":"Kuusiku",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

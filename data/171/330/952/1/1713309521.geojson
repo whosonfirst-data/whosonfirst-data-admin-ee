@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koeri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003063,
-    "geom:area_square_m":19818055.210406,
+    "geom:area_square_m":19818055.210403,
     "geom:bbox":"23.846496,58.428527,23.928244,58.479125",
     "geom:latitude":58.454208,
     "geom:longitude":23.888439,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3251
+        "ee-mamt:okood":"3251"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226120763
     ],
     "wof:country":"EE",
     "wof:created":1595459905,
-    "wof:geomhash":"63510568e5b291b8f630b557630f3c3d",
+    "wof:geomhash":"a45c6b5dbd1ae5f0faacd46575f4771a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661592,
+    "wof:lastmodified":1695876767,
     "wof:name":"Koeri",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

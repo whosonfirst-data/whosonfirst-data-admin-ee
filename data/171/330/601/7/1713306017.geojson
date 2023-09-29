@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000401,
-    "geom:area_square_m":2524609.64094,
+    "geom:area_square_m":2524609.640943,
     "geom:bbox":"25.477606,59.413731,25.506951,59.432534",
     "geom:latitude":59.424104,
     "geom:longitude":25.492901,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1363
+        "ee-mamt:okood":"1363"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293108299
     ],
     "wof:country":"EE",
     "wof:created":1595459055,
-    "wof:geomhash":"78df1cfa87716c3db8f7fa4ef7db08c5",
+    "wof:geomhash":"f01b7f24338c64c68c65bfbc1c036495",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661823,
+    "wof:lastmodified":1695876779,
     "wof:name":"Aru",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

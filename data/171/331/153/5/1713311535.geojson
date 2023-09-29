@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pudivere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001402,
-    "geom:area_square_m":8905123.493637,
+    "geom:area_square_m":8905123.493639,
     "geom:bbox":"26.308683,59.07205,26.397153,59.100468",
     "geom:latitude":59.088548,
     "geom:longitude":26.354459,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6382
+        "ee-mamt:okood":"6382"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226772093
     ],
     "wof:country":"EE",
     "wof:created":1595460362,
-    "wof:geomhash":"f8732328c9ed893613a744d11b90ef40",
+    "wof:geomhash":"370b1e104615ff79118c919a1b74efae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676524,
+    "wof:lastmodified":1695876918,
     "wof:name":"Pudivere",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

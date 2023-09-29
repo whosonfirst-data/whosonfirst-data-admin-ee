@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kolossova K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000266,
-    "geom:area_square_m":1746296.804988,
+    "geom:area_square_m":1746296.804987,
     "geom:bbox":"27.696319,57.867074,27.724067,57.880717",
     "geom:latitude":57.874436,
     "geom:longitude":27.711093,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3359
+        "ee-mamt:okood":"3359"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461371,
-    "wof:geomhash":"7bfecfc3e0f3a1a1d0fd54baa23944c7",
+    "wof:geomhash":"9bcf14feecc0cc2e2350446fbf6ed7fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663658,
+    "wof:lastmodified":1695876842,
     "wof:name":"Kolossova",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

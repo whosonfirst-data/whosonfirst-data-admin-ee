@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kikka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003467,
-    "geom:area_square_m":22728921.471984,
+    "geom:area_square_m":22728921.471985,
     "geom:bbox":"27.36829,57.959407,27.458018,58.010556",
     "geom:latitude":57.983878,
     "geom:longitude":27.416336,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3066
+        "ee-mamt:okood":"3066"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209395075
     ],
     "wof:country":"EE",
     "wof:created":1595460592,
-    "wof:geomhash":"7f66ba32fd7537b0ef4a103dd05577d1",
+    "wof:geomhash":"d0b0c12ec4572b288a6072da1d6dd777",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676988,
+    "wof:lastmodified":1695876979,
     "wof:name":"Kikka",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

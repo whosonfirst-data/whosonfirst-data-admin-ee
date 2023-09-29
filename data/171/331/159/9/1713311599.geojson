@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kivin\u0151mme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001896,
-    "geom:area_square_m":12019331.224571,
+    "geom:area_square_m":12019331.224568,
     "geom:bbox":"27.572079,59.135848,27.627684,59.179295",
     "geom:latitude":59.157708,
     "geom:longitude":27.599444,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3190
+        "ee-mamt:okood":"3190"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260091675
     ],
     "wof:country":"EE",
     "wof:created":1595460378,
-    "wof:geomhash":"dc6dcef5d114d23deeea8241ff99948f",
+    "wof:geomhash":"c8ee714d157e1b6d4ba32602234f2178",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660715,
+    "wof:lastmodified":1695876734,
     "wof:name":"Kivin\u0151mme",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

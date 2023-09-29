@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vissuvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00122,
-    "geom:area_square_m":7873926.776109,
+    "geom:area_square_m":7873926.776108,
     "geom:bbox":"25.847263,58.528071,25.924438,58.56116",
     "geom:latitude":58.543752,
     "geom:longitude":25.890613,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9426
+        "ee-mamt:okood":"9426"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259447843
     ],
     "wof:country":"EE",
     "wof:created":1595460046,
-    "wof:geomhash":"54d5c7aa8a7a25d7927eaa548e9ef974",
+    "wof:geomhash":"ad60f15ce8b777b862f7ba7653d0ad29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661193,
+    "wof:lastmodified":1695876744,
     "wof:name":"Vissuvere",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

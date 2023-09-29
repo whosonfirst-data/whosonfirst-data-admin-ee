@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kolu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000322,
-    "geom:area_square_m":2058724.831326,
+    "geom:area_square_m":2058724.831325,
     "geom:bbox":"23.496415,58.864497,23.528462,58.883404",
     "geom:latitude":58.874833,
     "geom:longitude":23.512763,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3361
+        "ee-mamt:okood":"3361"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193009965
     ],
     "wof:country":"EE",
     "wof:created":1595459641,
-    "wof:geomhash":"08e87a21ed8b1bcc37b875903f7a6d46",
+    "wof:geomhash":"7760b9023e72d8de64b875cd0ca76b59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662505,
+    "wof:lastmodified":1695876793,
     "wof:name":"Kolu",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Prandi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002514,
-    "geom:area_square_m":16084252.893384,
+    "geom:area_square_m":16084252.89338,
     "geom:bbox":"25.612861,58.817377,25.744137,58.855917",
     "geom:latitude":58.835176,
     "geom:longitude":25.686912,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6349
+        "ee-mamt:okood":"6349"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293006533
     ],
     "wof:country":"EE",
     "wof:created":1595460619,
-    "wof:geomhash":"1a5f34369a179feff7f964da3b2ef6ba",
+    "wof:geomhash":"88673cf9cefbea9e3eb805356dee3985",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676627,
+    "wof:lastmodified":1695876933,
     "wof:name":"Prandi",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

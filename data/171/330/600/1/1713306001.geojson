@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viinistu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001273,
-    "geom:area_square_m":7955875.514238,
+    "geom:area_square_m":7955875.514228,
     "geom:bbox":"25.712252,59.619561,25.820925,59.68571",
     "geom:latitude":59.640139,
     "geom:longitude":25.7424,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9283
+        "ee-mamt:okood":"9283"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125817161
     ],
     "wof:country":"EE",
     "wof:created":1595459052,
-    "wof:geomhash":"5c28ef8f67e173a75a9b9a8197b69fa4",
+    "wof:geomhash":"a8943fd087f90af7a61316cda6c1fb3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661808,
+    "wof:lastmodified":1695876776,
     "wof:name":"Viinistu",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kandla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001018,
-    "geom:area_square_m":6603870.878946,
+    "geom:area_square_m":6603870.878945,
     "geom:bbox":"22.239381,58.353844,22.320038,58.385265",
     "geom:latitude":58.369235,
     "geom:longitude":22.28339,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2662
+        "ee-mamt:okood":"2662"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243038795
     ],
     "wof:country":"EE",
     "wof:created":1595459398,
-    "wof:geomhash":"77d553f083f242aa7e332d86363a72f9",
+    "wof:geomhash":"6fa3e3f4589f9448911354cdfb0e9fde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672259,
+    "wof:lastmodified":1695876886,
     "wof:name":"Kandla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

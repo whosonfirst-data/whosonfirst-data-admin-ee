@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ulitina K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00226,
-    "geom:area_square_m":14869610.680835,
+    "geom:area_square_m":14869610.680841,
     "geom:bbox":"27.707289,57.827721,27.778881,57.879411",
     "geom:latitude":57.85432,
     "geom:longitude":27.74301,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8657
+        "ee-mamt:okood":"8657"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293566433
     ],
     "wof:country":"EE",
     "wof:created":1595461372,
-    "wof:geomhash":"9a80817fc084d3b2fb05d15bc68f5817",
+    "wof:geomhash":"9c757a26c7a64b3b583757f511440036",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663660,
+    "wof:lastmodified":1695876843,
     "wof:name":"Ulitina",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Halinga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001055,
-    "geom:area_square_m":6797266.031435,
+    "geom:area_square_m":6797266.031438,
     "geom:bbox":"24.512083,58.566548,24.558976,58.608434",
     "geom:latitude":58.587432,
     "geom:longitude":24.531235,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1736
+        "ee-mamt:okood":"1736"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125933053
     ],
     "wof:country":"EE",
     "wof:created":1595459921,
-    "wof:geomhash":"f6cfcebf24a8c7423ba0ad5b15465abe",
+    "wof:geomhash":"c6efc4b643af3b0b169281b6a238b181",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663416,
+    "wof:lastmodified":1695876826,
     "wof:name":"Halinga",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

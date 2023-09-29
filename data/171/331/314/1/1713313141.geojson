@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ihamaru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00317,
-    "geom:area_square_m":20737148.956013,
+    "geom:area_square_m":20737148.955998,
     "geom:bbox":"26.858245,58.033604,26.94403,58.092929",
     "geom:latitude":58.061966,
     "geom:longitude":26.907274,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2007
+        "ee-mamt:okood":"2007"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125955155
     ],
     "wof:country":"EE",
     "wof:created":1595460699,
-    "wof:geomhash":"00150cb0f0bf7722d1af35012e29b45d",
+    "wof:geomhash":"ad79382ca4f18659ac652a1064a2bba4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676772,
+    "wof:lastmodified":1695876949,
     "wof:name":"Ihamaru",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

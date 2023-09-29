@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paekna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001104,
-    "geom:area_square_m":6976801.642421,
+    "geom:area_square_m":6976801.642422,
     "geom:bbox":"24.809003,59.256205,24.863445,59.289106",
     "geom:latitude":59.272345,
     "geom:longitude":24.834005,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5824
+        "ee-mamt:okood":"5824"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935135
     ],
     "wof:country":"EE",
     "wof:created":1595460644,
-    "wof:geomhash":"03233eb78e71ca11a9f5275ad00f0fe2",
+    "wof:geomhash":"3569a88f235408a3ff0db6cf7f802665",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663494,
+    "wof:lastmodified":1695876831,
     "wof:name":"Paekna",
     "wof:parent_id":1713305643,
     "wof:placetype":"localadmin",

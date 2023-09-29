@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Varesmetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004238,
-    "geom:area_square_m":26909778.926956,
+    "geom:area_square_m":26909778.926957,
     "geom:bbox":"27.338423,59.070004,27.442545,59.137718",
     "geom:latitude":59.103308,
     "geom:longitude":27.403788,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9075
+        "ee-mamt:okood":"9075"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343764139
     ],
     "wof:country":"EE",
     "wof:created":1595460433,
-    "wof:geomhash":"d06fb659734b537efcbe9f0908bd4691",
+    "wof:geomhash":"c1b34a253594fd77f5348ff1e7a008e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660693,
+    "wof:lastmodified":1695876732,
     "wof:name":"Varesmetsa",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

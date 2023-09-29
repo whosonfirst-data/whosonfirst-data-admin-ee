@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kunda Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.001598,
-    "geom:area_square_m":10026425.877041,
+    "geom:area_square_m":10026425.877038,
     "geom:bbox":"26.494676,59.483412,26.574048,59.527988",
     "geom:latitude":59.50649,
     "geom:longitude":26.531909,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Kunda linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3612
+        "ee-mamt:okood":"3612"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815143
     ],
     "wof:country":"EE",
     "wof:created":1595459523,
-    "wof:geomhash":"f2be6a6240f8ff368eeb8c19b7772a9a",
+    "wof:geomhash":"e6f32a765cb59b954a166c4ef60b167d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617131418,
+    "wof:lastmodified":1695877020,
     "wof:name":"Kunda",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

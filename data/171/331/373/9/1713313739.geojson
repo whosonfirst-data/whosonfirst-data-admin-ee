@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Loksa Linn",
     "ee-mamt:tyyp":4,
     "geom:area":0.000606,
-    "geom:area_square_m":3796771.942425,
+    "geom:area_square_m":3796771.942427,
     "geom:bbox":"25.698691,59.564486,25.734532,59.592546",
     "geom:latitude":59.578237,
     "geom:longitude":25.716971,
@@ -20,7 +20,7 @@
         "Loksa linn"
     ],
     "label:est_x_preferred_placetype":[
-        "linn"
+        "linna vald"
     ],
     "lbl:latitude":59.578263,
     "lbl:longitude":25.716636,
@@ -42,20 +42,21 @@
     "wof:belongsto":[
         102191581,
         85633135,
-        1713305649,
-        85683055
+        85683055,
+        1713305649
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":424
+        "ee-mamt:okood":"424"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815171,
         1713305649
     ],
     "wof:country":"EE",
     "wof:created":1595460825,
-    "wof:geomhash":"34fad119e34017d7b37b276b16b52f2c",
+    "wof:geomhash":"b836ef478dd2aa9abdcda759287970aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +73,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1607984295,
+    "wof:lastmodified":1695877014,
     "wof:name":"Loksa",
     "wof:parent_id":1713305649,
     "wof:placetype":"localadmin",

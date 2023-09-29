@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4ike-Kamari K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.006954,
-    "geom:area_square_m":44810639.09953,
+    "geom:area_square_m":44810639.099543,
     "geom:bbox":"25.937304,58.547055,26.083598,58.639009",
     "geom:latitude":58.592705,
     "geom:longitude":25.99893,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9621
+        "ee-mamt:okood":"9621"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936849
     ],
     "wof:country":"EE",
     "wof:created":1595460946,
-    "wof:geomhash":"e9d233d80c94fb8c4e6b300f50abe6ae",
+    "wof:geomhash":"0325a0a624aab1df5ba3257ae8ca51fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676495,
+    "wof:lastmodified":1695876916,
     "wof:name":"V\u00e4ike-Kamari",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

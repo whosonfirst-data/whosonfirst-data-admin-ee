@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":503,
+        "ee-mamt:okood":"503",
         "eg:gisco_id":"EE_0503",
         "eurostat:nuts_2021_id":"0503"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451903,
     "wof:geomhash":"d075cbb5864643f5650c786ca36b02e7",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352194,
+    "wof:lastmodified":1695886727,
     "wof:name":"M\u00e4rjamaa",
     "wof:parent_id":85683013,
     "wof:placetype":"county",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Maardu Linn",
     "ee-mamt:tyyp":4,
     "geom:area":0.003711,
-    "geom:area_square_m":23313484.46708,
+    "geom:area_square_m":23313484.467081,
     "geom:bbox":"24.914594,59.435029,25.032047,59.495575",
     "geom:latitude":59.465253,
     "geom:longitude":24.973604,
@@ -20,7 +20,7 @@
         "Maardu linn"
     ],
     "label:est_x_preferred_placetype":[
-        "linn"
+        "linna vald"
     ],
     "lbl:latitude":59.466272,
     "lbl:longitude":24.972753,
@@ -42,20 +42,21 @@
     "wof:belongsto":[
         102191581,
         85633135,
-        1713305647,
-        85683055
+        85683055,
+        1713305647
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":446
+        "ee-mamt:okood":"446"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101753891,
         1713305647
     ],
     "wof:country":"EE",
     "wof:created":1595460694,
-    "wof:geomhash":"1219f1125adf2ee7d47a5ae14fbfc395",
+    "wof:geomhash":"3d94c23c2f764715ba2a5cf990e6f1f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +73,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1607984289,
+    "wof:lastmodified":1695877014,
     "wof:name":"Maardu",
     "wof:parent_id":1713305647,
     "wof:placetype":"localadmin",

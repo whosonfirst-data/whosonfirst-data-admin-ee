@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Listaku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000875,
-    "geom:area_square_m":5751499.789124,
+    "geom:area_square_m":5751499.78912,
     "geom:bbox":"27.127852,57.865865,27.171065,57.908174",
     "geom:latitude":57.887414,
     "geom:longitude":27.152197,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4424
+        "ee-mamt:okood":"4424"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259757265
     ],
     "wof:country":"EE",
     "wof:created":1595461391,
-    "wof:geomhash":"d12d680028afa41481415ad8c096d9c0",
+    "wof:geomhash":"c7ad53e7a43c6e020286b562a544810b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660257,
+    "wof:lastmodified":1695876725,
     "wof:name":"Listaku",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

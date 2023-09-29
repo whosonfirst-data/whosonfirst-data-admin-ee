@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vabamatsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003383,
-    "geom:area_square_m":22050779.383824,
+    "geom:area_square_m":22050779.383827,
     "geom:bbox":"25.304761,58.14702,25.418292,58.213852",
     "geom:latitude":58.184925,
     "geom:longitude":25.363402,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8816
+        "ee-mamt:okood":"8816"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243328397
     ],
     "wof:country":"EE",
     "wof:created":1595460407,
-    "wof:geomhash":"4fd1a4e4e3308278278e1265e8537757",
+    "wof:geomhash":"7adfeced2736d2549e020e033b162890",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661281,
+    "wof:lastmodified":1695876749,
     "wof:name":"Vabamatsi",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kernu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000898,
-    "geom:area_square_m":5696344.429467,
+    "geom:area_square_m":5696344.429466,
     "geom:bbox":"24.475754,59.120539,24.526248,59.14855",
     "geom:latitude":59.134699,
     "geom:longitude":24.499987,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2976
+        "ee-mamt:okood":"2976"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343279535
     ],
     "wof:country":"EE",
     "wof:created":1595459510,
-    "wof:geomhash":"442ab91ae89377b6c57b22c33bb4615d",
+    "wof:geomhash":"4587ad0cff0c821fec042b9c92a077b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663232,
+    "wof:lastmodified":1695876811,
     "wof:name":"Kernu",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

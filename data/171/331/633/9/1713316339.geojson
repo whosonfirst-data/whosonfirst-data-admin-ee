@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pressi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00054,
-    "geom:area_square_m":3568844.488561,
+    "geom:area_square_m":3568844.488559,
     "geom:bbox":"27.119083,57.684161,27.162426,57.705234",
     "geom:latitude":57.695642,
     "geom:longitude":27.139075,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6362
+        "ee-mamt:okood":"6362"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226501441
     ],
     "wof:country":"EE",
     "wof:created":1595461407,
-    "wof:geomhash":"a6f77422ef90830e559d0dfca5628791",
+    "wof:geomhash":"43bff28887f9c86886636fd6482cce47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676857,
+    "wof:lastmodified":1695876967,
     "wof:name":"Pressi",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

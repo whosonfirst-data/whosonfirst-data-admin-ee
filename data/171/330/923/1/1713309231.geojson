@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Samliku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000734,
-    "geom:area_square_m":4717999.90718,
+    "geom:area_square_m":4717999.907181,
     "geom:bbox":"25.244341,58.670816,25.287902,58.707249",
     "geom:latitude":58.68872,
     "geom:longitude":25.267345,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7406
+        "ee-mamt:okood":"7406"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327008089
     ],
     "wof:country":"EE",
     "wof:created":1595459838,
-    "wof:geomhash":"80620258b99c52e95cc276028ea000a7",
+    "wof:geomhash":"f06228e59205a4869cece7593901b336",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663409,
+    "wof:lastmodified":1695876825,
     "wof:name":"Samliku",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

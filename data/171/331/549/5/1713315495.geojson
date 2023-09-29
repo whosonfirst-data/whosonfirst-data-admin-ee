@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lehemetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000885,
-    "geom:area_square_m":5824349.682018,
+    "geom:area_square_m":5824349.682015,
     "geom:bbox":"27.080564,57.823039,27.132629,57.853781",
     "geom:latitude":57.8365,
     "geom:longitude":27.1037,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4203
+        "ee-mamt:okood":"4203"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310460927
     ],
     "wof:country":"EE",
     "wof:created":1595461232,
-    "wof:geomhash":"f5ccd3154c9a870ef7243583a590b9cc",
+    "wof:geomhash":"86cc9e9d91194eb18c72728f07a2fc36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660215,
+    "wof:lastmodified":1695876720,
     "wof:name":"Lehemetsa",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

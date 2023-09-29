@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koogim\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00064,
-    "geom:area_square_m":4084999.138849,
+    "geom:area_square_m":4084999.138848,
     "geom:bbox":"24.876265,58.918734,24.919081,58.942872",
     "geom:latitude":58.929703,
     "geom:longitude":24.895749,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3389
+        "ee-mamt:okood":"3389"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242663851
     ],
     "wof:country":"EE",
     "wof:created":1595459959,
-    "wof:geomhash":"cee23776f10c691a8ec8c4bc09c10b46",
+    "wof:geomhash":"af2d818c31087eb84b43a04b7aece2e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676739,
+    "wof:lastmodified":1695876947,
     "wof:name":"Koogim\u00e4e",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

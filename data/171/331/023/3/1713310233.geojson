@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00fchalepa-Harju K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000369,
-    "geom:area_square_m":2353423.658016,
+    "geom:area_square_m":2353423.658017,
     "geom:bbox":"22.881658,58.94206,22.915257,58.964175",
     "geom:latitude":58.952827,
     "geom:longitude":22.899093,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6660
+        "ee-mamt:okood":"6660"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460077,
-    "wof:geomhash":"2b3d57f10d4bb2fb77175b929e847ef2",
+    "wof:geomhash":"8eaf0f4e9aed66c8166d8441e1c7eeaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666307,
+    "wof:lastmodified":1695876849,
     "wof:name":"P\u00fchalepa-Harju",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

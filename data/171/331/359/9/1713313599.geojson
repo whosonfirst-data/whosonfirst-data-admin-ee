@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kassi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001975,
-    "geom:area_square_m":12971586.709017,
+    "geom:area_square_m":12971586.709019,
     "geom:bbox":"26.411623,57.896104,26.51272,57.933347",
     "geom:latitude":57.913685,
     "geom:longitude":26.465131,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2812
+        "ee-mamt:okood":"2812"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259341901
     ],
     "wof:country":"EE",
     "wof:created":1595460796,
-    "wof:geomhash":"10b67deacf8a40491cd131e0759932fe",
+    "wof:geomhash":"9d2bca9eeb318d29a3d8c632c388ea27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677010,
+    "wof:lastmodified":1695876980,
     "wof:name":"Kassi",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

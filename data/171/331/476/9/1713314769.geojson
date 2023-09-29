@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tagakolga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001325,
-    "geom:area_square_m":8779948.870683,
+    "geom:area_square_m":8779948.870682,
     "geom:bbox":"26.737811,57.559964,26.798902,57.605454",
     "geom:latitude":57.585717,
     "geom:longitude":26.766133,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8038
+        "ee-mamt:okood":"8038"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242742331
     ],
     "wof:country":"EE",
     "wof:created":1595461054,
-    "wof:geomhash":"a096a0ff26369ce1a8afe2e3557087df",
+    "wof:geomhash":"d03a2bb0d8cd8d01df9e3e6297c80cd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676833,
+    "wof:lastmodified":1695876960,
     "wof:name":"Tagakolga",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

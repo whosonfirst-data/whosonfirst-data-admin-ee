@@ -8,7 +8,7 @@
     "ee-mamt:animi":"R\u00e4imaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000759,
-    "geom:area_square_m":4924434.451799,
+    "geom:area_square_m":4924434.451797,
     "geom:bbox":"22.728134,58.315561,22.788751,58.340399",
     "geom:latitude":58.328715,
     "geom:longitude":22.753927,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7200
+        "ee-mamt:okood":"7200"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326600951
     ],
     "wof:country":"EE",
     "wof:created":1595459317,
-    "wof:geomhash":"8e1bee76ee78cb04fc08068bb1313120",
+    "wof:geomhash":"e2ed37d27024973b998654bf0ed78d7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672121,
+    "wof:lastmodified":1695876881,
     "wof:name":"R\u00e4imaste",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nurga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002166,
-    "geom:area_square_m":13894204.027698,
+    "geom:area_square_m":13894204.027701,
     "geom:bbox":"26.012121,58.723445,26.085646,58.774971",
     "geom:latitude":58.748678,
     "geom:longitude":26.047952,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5462
+        "ee-mamt:okood":"5462"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344161803
     ],
     "wof:country":"EE",
     "wof:created":1595460496,
-    "wof:geomhash":"f5c7dee5b86d3b82b81ce0d8d9f21874",
+    "wof:geomhash":"375d014f23295478391cdfed7c7a2085",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676485,
+    "wof:lastmodified":1695876914,
     "wof:name":"Nurga",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

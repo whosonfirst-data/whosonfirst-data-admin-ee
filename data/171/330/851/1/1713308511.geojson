@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koljaku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002607,
-    "geom:area_square_m":16332911.033897,
+    "geom:area_square_m":16332911.033891,
     "geom:bbox":"25.932907,59.534952,26.0272,59.584003",
     "geom:latitude":59.55632,
     "geom:longitude":25.984941,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3345
+        "ee-mamt:okood":"3345"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326716027
     ],
     "wof:country":"EE",
     "wof:created":1595459663,
-    "wof:geomhash":"d49e598055345eecefcdd248719ed54e",
+    "wof:geomhash":"81cec075309052564223dc23cac6b1fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678027,
+    "wof:lastmodified":1695877012,
     "wof:name":"Koljaku",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

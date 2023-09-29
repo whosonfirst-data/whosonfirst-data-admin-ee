@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u00e4rvselja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00127,
-    "geom:area_square_m":8260208.799083,
+    "geom:area_square_m":8260208.799081,
     "geom:bbox":"27.294963,58.240254,27.352565,58.282976",
     "geom:latitude":58.264118,
     "geom:longitude":27.319259,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2367
+        "ee-mamt:okood":"2367"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259746385
     ],
     "wof:country":"EE",
     "wof:created":1595460300,
-    "wof:geomhash":"b3c10d827aa0f26de001a9089df31f08",
+    "wof:geomhash":"a39a61a0e16f1d14ccc092b9922a068f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660642,
+    "wof:lastmodified":1695876728,
     "wof:name":"J\u00e4rvselja",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

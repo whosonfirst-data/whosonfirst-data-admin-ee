@@ -8,7 +8,7 @@
     "ee-mamt:animi":"\u00d6sterby K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001301,
-    "geom:area_square_m":8287837.217495,
+    "geom:area_square_m":8287837.217494,
     "geom:bbox":"23.476654,58.972611,23.543639,59.006885",
     "geom:latitude":58.989048,
     "geom:longitude":23.509732,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9803
+        "ee-mamt:okood":"9803"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459792,
-    "wof:geomhash":"90127e4166cadfaaf8e7a036b1b75a58",
+    "wof:geomhash":"397b82a3fe5503d932c6c3ae5027c26f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677201,
+    "wof:lastmodified":1695876989,
     "wof:name":"\u00d6sterby",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

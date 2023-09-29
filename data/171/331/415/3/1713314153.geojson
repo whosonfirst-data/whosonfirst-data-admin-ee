@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4eselja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000641,
-    "geom:area_square_m":4160130.136914,
+    "geom:area_square_m":4160130.136915,
     "geom:bbox":"26.310816,58.311304,26.361674,58.33741",
     "geom:latitude":58.325248,
     "geom:longitude":26.334427,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5211
+        "ee-mamt:okood":"5211"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242939385
     ],
     "wof:country":"EE",
     "wof:created":1595460914,
-    "wof:geomhash":"e19045461c3e5b694e25b0b285f725e3",
+    "wof:geomhash":"905effc9df836fb0f1645225477098a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661903,
+    "wof:lastmodified":1695876787,
     "wof:name":"M\u00e4eselja",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sudiste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000328,
-    "geom:area_square_m":2110471.732548,
+    "geom:area_square_m":2110471.732547,
     "geom:bbox":"26.588792,58.598821,26.624674,58.62281",
     "geom:latitude":58.611296,
     "geom:longitude":26.605594,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7762
+        "ee-mamt:okood":"7762"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242582549
     ],
     "wof:country":"EE",
     "wof:created":1595460521,
-    "wof:geomhash":"f2f8a207466219a395de74aa513e46e1",
+    "wof:geomhash":"0ae993eef163d678d016d4cbaf2ef4ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676566,
+    "wof:lastmodified":1695876925,
     "wof:name":"Sudiste",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

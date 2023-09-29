@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u00e4revere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000757,
-    "geom:area_square_m":4885570.134965,
+    "geom:area_square_m":4885570.134966,
     "geom:bbox":"25.504917,58.529665,25.561283,58.551625",
     "geom:latitude":58.540612,
     "geom:longitude":25.531406,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3901
+        "ee-mamt:okood":"3901"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276414669
     ],
     "wof:country":"EE",
     "wof:created":1595460370,
-    "wof:geomhash":"b9848c2406e3cdfe2639a62c1104efd1",
+    "wof:geomhash":"b870bee398fd389032eae5536cea70e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663436,
+    "wof:lastmodified":1695876827,
     "wof:name":"K\u00e4revere",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

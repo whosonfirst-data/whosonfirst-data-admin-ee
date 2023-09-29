@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Korg\u0151ssaar\u0151 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000307,
-    "geom:area_square_m":2035350.997244,
+    "geom:area_square_m":2035350.997243,
     "geom:bbox":"27.242515,57.548202,27.278068,57.568831",
     "geom:latitude":57.555556,
     "geom:longitude":27.260005,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3794
+        "ee-mamt:okood":"3794"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343320963
     ],
     "wof:country":"EE",
     "wof:created":1595461313,
-    "wof:geomhash":"1acf9ffa8578655ced1a7e68d81a7af6",
+    "wof:geomhash":"617c9cdd3c14e4f0dc6ebbcb30635462",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676838,
+    "wof:lastmodified":1695876962,
     "wof:name":"Korg\u0151ssaar\u0151",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

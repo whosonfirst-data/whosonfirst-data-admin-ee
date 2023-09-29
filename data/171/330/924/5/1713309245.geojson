@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Oraj\u0151e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003362,
-    "geom:area_square_m":22064997.908762,
+    "geom:area_square_m":22064997.908761,
     "geom:bbox":"24.391748,57.925097,24.50326,57.967324",
     "geom:latitude":57.947616,
     "geom:longitude":24.45168,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5706
+        "ee-mamt:okood":"5706"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343642775
     ],
     "wof:country":"EE",
     "wof:created":1595459841,
-    "wof:geomhash":"57595d1bf718c23bf127dec3101d717d",
+    "wof:geomhash":"616e86ba014c8e8db83257fe2e2ab464",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663033,
+    "wof:lastmodified":1695876807,
     "wof:name":"Oraj\u0151e",
     "wof:parent_id":1713305741,
     "wof:placetype":"localadmin",

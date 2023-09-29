@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suure-Veerksu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001451,
-    "geom:area_square_m":9500401.412325,
+    "geom:area_square_m":9500401.412326,
     "geom:bbox":"27.429786,58.024443,27.497031,58.058555",
     "geom:latitude":58.039945,
     "geom:longitude":27.46414,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7835
+        "ee-mamt:okood":"7835"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243240615
     ],
     "wof:country":"EE",
     "wof:created":1595461429,
-    "wof:geomhash":"c6d4ee45bd64536cc2c1de2b8eee3927",
+    "wof:geomhash":"c310ed831b8fae89a20ac2aef1276181",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676986,
+    "wof:lastmodified":1695876979,
     "wof:name":"Suure-Veerksu",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

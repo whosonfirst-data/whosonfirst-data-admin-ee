@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4ike-Pahila K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001837,
-    "geom:area_square_m":11854993.180104,
+    "geom:area_square_m":11854993.180102,
     "geom:bbox":"22.826678,58.521518,22.910299,58.559961",
     "geom:latitude":58.541854,
     "geom:longitude":22.868683,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9629
+        "ee-mamt:okood":"9629"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1292971811
     ],
     "wof:country":"EE",
     "wof:created":1595459703,
-    "wof:geomhash":"459c3176fac5371ce53c472e901e049f",
+    "wof:geomhash":"c4746ea85de12f0923c106d83dca0019",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671831,
+    "wof:lastmodified":1695876872,
     "wof:name":"V\u00e4ike-Pahila",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

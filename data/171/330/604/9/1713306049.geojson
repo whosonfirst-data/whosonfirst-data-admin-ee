@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Haabneeme Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000551,
-    "geom:area_square_m":3455322.705033,
+    "geom:area_square_m":3455322.705032,
     "geom:bbox":"24.803204,59.502657,24.842981,59.526951",
     "geom:latitude":59.51519,
     "geom:longitude":24.823334,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Haabneeme alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1675
+        "ee-mamt:okood":"1675"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101758375
     ],
     "wof:country":"EE",
     "wof:created":1595459063,
-    "wof:geomhash":"46ca9f76a9d07f43ae7e4018ba8511af",
+    "wof:geomhash":"dbdd633162125a1fa38f6af09a4a9196",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675378,
+    "wof:lastmodified":1695876908,
     "wof:name":"Haabneeme",
     "wof:parent_id":1713305625,
     "wof:placetype":"localadmin",

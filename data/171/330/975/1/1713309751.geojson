@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4rdi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001801,
-    "geom:area_square_m":11806771.861156,
+    "geom:area_square_m":11806771.861155,
     "geom:bbox":"26.361731,57.963941,26.437773,58.004572",
     "geom:latitude":57.984073,
     "geom:longitude":26.406557,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5279
+        "ee-mamt:okood":"5279"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243516993
     ],
     "wof:country":"EE",
     "wof:created":1595459965,
-    "wof:geomhash":"b07641b2027877d344fa63e1a651a282",
+    "wof:geomhash":"b763db185483555e793e78c32b347614",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661869,
+    "wof:lastmodified":1695876782,
     "wof:name":"M\u00e4rdi",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

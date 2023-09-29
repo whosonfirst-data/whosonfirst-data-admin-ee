@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pattina K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001161,
-    "geom:area_square_m":7641137.884804,
+    "geom:area_square_m":7641137.884801,
     "geom:bbox":"27.749132,57.833464,27.817797,57.878345",
     "geom:latitude":57.856471,
     "geom:longitude":27.787526,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6045
+        "ee-mamt:okood":"6045"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310282297
     ],
     "wof:country":"EE",
     "wof:created":1595461372,
-    "wof:geomhash":"753ee408a9090049b1407ea1013ba5c2",
+    "wof:geomhash":"19351f8822e55dd951e2f488dcd13e3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663647,
+    "wof:lastmodified":1695876840,
     "wof:name":"Pattina",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

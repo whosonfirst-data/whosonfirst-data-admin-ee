@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soodla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001962,
-    "geom:area_square_m":12350964.794147,
+    "geom:area_square_m":12350964.794149,
     "geom:bbox":"25.315813,59.364366,25.3977,59.410056",
     "geom:latitude":59.391324,
     "geom:longitude":25.361525,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7693
+        "ee-mamt:okood":"7693"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327343155
     ],
     "wof:country":"EE",
     "wof:created":1595459307,
-    "wof:geomhash":"74ab48c597ff8c6f938e20af23222d03",
+    "wof:geomhash":"fa2df1d4a0ff94e1d7c88280e6e197d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662794,
+    "wof:lastmodified":1695876799,
     "wof:name":"Soodla",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

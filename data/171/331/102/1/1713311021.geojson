@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valgesoo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001507,
-    "geom:area_square_m":9837919.902974,
+    "geom:area_square_m":9837919.902971,
     "geom:bbox":"27.054685,58.104107,27.122098,58.151948",
     "geom:latitude":58.128306,
     "geom:longitude":27.087376,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8927
+        "ee-mamt:okood":"8927"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125983869
     ],
     "wof:country":"EE",
     "wof:created":1595460248,
-    "wof:geomhash":"ad2218632cf5fc2d32e59edd1384ff2c",
+    "wof:geomhash":"8d5f55ddb9218ff52f0b1e7b6287508f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676940,
+    "wof:lastmodified":1695876972,
     "wof:name":"Valgesoo",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

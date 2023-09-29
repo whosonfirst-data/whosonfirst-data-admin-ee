@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u00e4hkvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003024,
-    "geom:area_square_m":19328823.95576,
+    "geom:area_square_m":19328823.955759,
     "geom:bbox":"26.604739,58.848006,26.696542,58.900906",
     "geom:latitude":58.876068,
     "geom:longitude":26.651769,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8558
+        "ee-mamt:okood":"8558"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125914637
     ],
     "wof:country":"EE",
     "wof:created":1595460503,
-    "wof:geomhash":"0941131c4e7460e4bce71669c806ce27",
+    "wof:geomhash":"ecf987fa39c1181ee1baa080910dc611",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676559,
+    "wof:lastmodified":1695876923,
     "wof:name":"T\u00e4hkvere",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

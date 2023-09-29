@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kehra K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000217,
-    "geom:area_square_m":1364954.262861,
+    "geom:area_square_m":1364954.26286,
     "geom:bbox":"25.313754,59.34315,25.338782,59.360946",
     "geom:latitude":59.350357,
     "geom:longitude":25.326776,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2925
+        "ee-mamt:okood":"2925"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459343,
-    "wof:geomhash":"698a2d2d77fee6154bc9b6eda89fb56e",
+    "wof:geomhash":"e3213d9d4993253a75d99f1612179497",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662789,
+    "wof:lastmodified":1695876797,
     "wof:name":"Kehra",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

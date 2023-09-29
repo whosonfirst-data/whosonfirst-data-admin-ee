@@ -14,7 +14,7 @@
     "geom:longitude":26.694776,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Viru-Nigula alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9399
+        "ee-mamt:okood":"9399"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890501
     ],
     "wof:country":"EE",
     "wof:created":1595459542,
-    "wof:geomhash":"4590b1e1eb55186d61dc34f1a1ba9317",
+    "wof:geomhash":"a55c088428924435ac300d4856f9e833",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677922,
+    "wof:lastmodified":1695877001,
     "wof:name":"Viru-Nigula",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

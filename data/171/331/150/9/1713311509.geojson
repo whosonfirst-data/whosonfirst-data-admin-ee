@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Allaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00161,
-    "geom:area_square_m":10508966.990197,
+    "geom:area_square_m":10508966.990198,
     "geom:bbox":"25.469645,58.12151,25.539664,58.168053",
     "geom:latitude":58.143868,
     "geom:longitude":25.506994,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1199
+        "ee-mamt:okood":"1199"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310563149
     ],
     "wof:country":"EE",
     "wof:created":1595460355,
-    "wof:geomhash":"c384ad38da78bba70579f04316d673f4",
+    "wof:geomhash":"78cca170b9047efd52d010b7da296037",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661285,
+    "wof:lastmodified":1695876750,
     "wof:name":"Allaste",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

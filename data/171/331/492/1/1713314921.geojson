@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Petrakuudi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000061,
-    "geom:area_square_m":402430.927894,
+    "geom:area_square_m":402430.927893,
     "geom:bbox":"26.793218,57.749152,26.806521,57.757539",
     "geom:latitude":57.752987,
     "geom:longitude":26.798984,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6128
+        "ee-mamt:okood":"6128"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461094,
-    "wof:geomhash":"1f2b11eff40a9ece6ad8c24178ad8160",
+    "wof:geomhash":"b337a53b0d490152c7840be0e9b1ffb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676824,
+    "wof:lastmodified":1695876958,
     "wof:name":"Petrakuudi",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

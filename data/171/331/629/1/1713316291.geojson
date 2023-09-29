@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kits\u0151 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000122,
-    "geom:area_square_m":807242.411921,
+    "geom:area_square_m":807242.41192,
     "geom:bbox":"27.49351,57.748258,27.515281,57.760497",
     "geom:latitude":57.754145,
     "geom:longitude":27.503957,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3164
+        "ee-mamt:okood":"3164"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326504189
     ],
     "wof:country":"EE",
     "wof:created":1595461397,
-    "wof:geomhash":"8040d4043f67d94ad540ed80961482dc",
+    "wof:geomhash":"3159da35f0799bd54eedb072d1bd3cee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663646,
+    "wof:lastmodified":1695876840,
     "wof:name":"Kits\u0151",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

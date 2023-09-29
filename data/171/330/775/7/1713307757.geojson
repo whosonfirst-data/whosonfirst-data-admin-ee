@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Arkna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001017,
-    "geom:area_square_m":6402709.202257,
+    "geom:area_square_m":6402709.202254,
     "geom:bbox":"26.362016,59.381319,26.423168,59.411428",
     "geom:latitude":59.394385,
     "geom:longitude":26.391018,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1362
+        "ee-mamt:okood":"1362"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459479,
-    "wof:geomhash":"54909b262c796041fb603a72371b5fce",
+    "wof:geomhash":"ecda06df6baa351756560bb95ad32c95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676666,
+    "wof:lastmodified":1695876937,
     "wof:name":"Arkna",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

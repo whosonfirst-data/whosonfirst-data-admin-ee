@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hermani K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000392,
-    "geom:area_square_m":2512616.708206,
+    "geom:area_square_m":2512616.708205,
     "geom:bbox":"25.743585,58.796944,25.78619,58.818087",
     "geom:latitude":58.808598,
     "geom:longitude":25.763992,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1825
+        "ee-mamt:okood":"1825"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459330,
-    "wof:geomhash":"973a5cf52454dd654154d1e58527f112",
+    "wof:geomhash":"6e692c0e1ff51c9e8b1255bfea548c2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676626,
+    "wof:lastmodified":1695876933,
     "wof:name":"Hermani",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

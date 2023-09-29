@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":919,
+        "ee-mamt:okood":"919",
         "eg:gisco_id":"EE_0919",
         "eurostat:nuts_2021_id":"0919"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101816257,
         1713315923
@@ -92,7 +93,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352200,
+    "wof:lastmodified":1695886738,
     "wof:name":"V\u0151ru",
     "wof:parent_id":85682937,
     "wof:placetype":"county",

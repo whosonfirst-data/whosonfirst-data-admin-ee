@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Simiste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000639,
-    "geom:area_square_m":4121142.007546,
+    "geom:area_square_m":4121142.00755,
     "geom:bbox":"23.287042,58.531592,23.32828,58.566287",
     "geom:latitude":58.552535,
     "geom:longitude":23.31076,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7601
+        "ee-mamt:okood":"7601"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243234583
     ],
     "wof:country":"EE",
     "wof:created":1595459104,
-    "wof:geomhash":"eba43fd72239485ced202de8efe601e7",
+    "wof:geomhash":"01415629ee68686ebdd27e09a11c83e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675111,
+    "wof:lastmodified":1695876904,
     "wof:name":"Simiste",
     "wof:parent_id":1713305623,
     "wof:placetype":"localadmin",

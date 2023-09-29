@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4ikeheinamaa K\u00fcla / Lill\u00e4ngin",
     "ee-mamt:tyyp":8,
     "geom:area":0.000636,
-    "geom:area_square_m":3983789.912242,
+    "geom:area_square_m":3983789.912239,
     "geom:bbox":"24.484873,59.542178,24.538912,59.564927",
     "geom:latitude":59.553951,
     "geom:longitude":24.511726,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9619
+        "ee-mamt:okood":"9619"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243071647
     ],
     "wof:country":"EE",
     "wof:created":1595459008,
-    "wof:geomhash":"3976fa47636b3427c9f4075246ff015e",
+    "wof:geomhash":"74a0d4c83ccd2f49de08cb2499d2ce14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675376,
+    "wof:lastmodified":1695876908,
     "wof:name":"V\u00e4ikeheinamaa",
     "wof:parent_id":1713305625,
     "wof:placetype":"localadmin",

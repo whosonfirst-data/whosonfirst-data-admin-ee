@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kurna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000745,
-    "geom:area_square_m":4677375.924766,
+    "geom:area_square_m":4677375.924767,
     "geom:bbox":"26.725924,59.459433,26.78795,59.484475",
     "geom:latitude":59.471422,
     "geom:longitude":26.757284,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3688
+        "ee-mamt:okood":"3688"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360104825
     ],
     "wof:country":"EE",
     "wof:created":1595459453,
-    "wof:geomhash":"5e3b1dd6256a333f879c49d52b953769",
+    "wof:geomhash":"27bad68ab23b32c3b278a37841c29ca0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677919,
+    "wof:lastmodified":1695877000,
     "wof:name":"Kurna",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

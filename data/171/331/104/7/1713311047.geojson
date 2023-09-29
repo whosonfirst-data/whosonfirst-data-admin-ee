@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valgemetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000397,
-    "geom:area_square_m":2592582.076709,
+    "geom:area_square_m":2592582.076707,
     "geom:bbox":"26.946399,58.129527,26.993391,58.157135",
     "geom:latitude":58.145548,
     "geom:longitude":26.969219,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8922
+        "ee-mamt:okood":"8922"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276958891
     ],
     "wof:country":"EE",
     "wof:created":1595460254,
-    "wof:geomhash":"ab0aa0c1f48022202dd0a5f5b698b6b3",
+    "wof:geomhash":"d3b495796d01f4f2ba5d4ffe8e575ae0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676940,
+    "wof:lastmodified":1695876972,
     "wof:name":"Valgemetsa",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

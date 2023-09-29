@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Jaagupi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000241,
-    "geom:area_square_m":1578253.631401,
+    "geom:area_square_m":1578253.631402,
     "geom:bbox":"24.452774,58.033502,24.487728,58.066991",
     "geom:latitude":58.051834,
     "geom:longitude":24.472769,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2124
+        "ee-mamt:okood":"2124"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293761839
     ],
     "wof:country":"EE",
     "wof:created":1595459845,
-    "wof:geomhash":"ffa2d895038158cfc8d01bbe8c7a37d5",
+    "wof:geomhash":"6efca13f16448adbc3593688efb79228",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663033,
+    "wof:lastmodified":1695876807,
     "wof:name":"Jaagupi",
     "wof:parent_id":1713305741,
     "wof:placetype":"localadmin",

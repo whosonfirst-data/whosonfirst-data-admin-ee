@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kellam\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000659,
-    "geom:area_square_m":4282038.913967,
+    "geom:area_square_m":4282038.913965,
     "geom:bbox":"22.415902,58.29567,22.451916,58.3355",
     "geom:latitude":58.316358,
     "geom:longitude":22.43446,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2935
+        "ee-mamt:okood":"2935"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243247109
     ],
     "wof:country":"EE",
     "wof:created":1595459586,
-    "wof:geomhash":"4aef7f48e548f13f455982f36ce08f70",
+    "wof:geomhash":"9eaad58aef2df741893c917e4a26a138",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671817,
+    "wof:lastmodified":1695876871,
     "wof:name":"Kellam\u00e4e",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vorstim\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00016,
-    "geom:area_square_m":1058515.906081,
+    "geom:area_square_m":1058515.906082,
     "geom:bbox":"27.084199,57.647726,27.104717,57.659575",
     "geom:latitude":57.653624,
     "geom:longitude":27.094541,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9487
+        "ee-mamt:okood":"9487"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243041931
     ],
     "wof:country":"EE",
     "wof:created":1595461273,
-    "wof:geomhash":"28f24213c7dd0458e57ab7a710d18148",
+    "wof:geomhash":"20201fef443c3fbebd0471b45c0de147",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676849,
+    "wof:lastmodified":1695876965,
     "wof:name":"Vorstim\u00e4e",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

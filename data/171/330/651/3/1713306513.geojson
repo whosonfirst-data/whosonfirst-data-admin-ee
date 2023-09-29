@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Leisi Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000728,
-    "geom:area_square_m":4697293.828398,
+    "geom:area_square_m":4697293.828397,
     "geom:bbox":"22.666661,58.55422,22.707296,58.585632",
     "geom:latitude":58.56935,
     "geom:longitude":22.685641,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Leisi alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4237
+        "ee-mamt:okood":"4237"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125887965
     ],
     "wof:country":"EE",
     "wof:created":1595459175,
-    "wof:geomhash":"3a5b6b62d271f8d82b4536f73c0fbb7e",
+    "wof:geomhash":"2893edb0a90ff877e59cb7c5f9fbf466",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671638,
+    "wof:lastmodified":1695876866,
     "wof:name":"Leisi",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

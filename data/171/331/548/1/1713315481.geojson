@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Otsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001403,
-    "geom:area_square_m":9232966.20755,
+    "geom:area_square_m":9232966.207548,
     "geom:bbox":"27.200704,57.828831,27.281262,57.86972",
     "geom:latitude":57.847943,
     "geom:longitude":27.247461,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5766
+        "ee-mamt:okood":"5766"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193111233
     ],
     "wof:country":"EE",
     "wof:created":1595461230,
-    "wof:geomhash":"fbb6de25424dfc5aa4a73828c08f049b",
+    "wof:geomhash":"9ea9851df494472843d1a73d43499943",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660238,
+    "wof:lastmodified":1695876723,
     "wof:name":"Otsa",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

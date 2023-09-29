@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koidma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002327,
-    "geom:area_square_m":14838546.900748,
+    "geom:area_square_m":14838546.900747,
     "geom:bbox":"22.57005,58.936331,22.66973,58.991723",
     "geom:latitude":58.963461,
     "geom:longitude":22.625354,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3271
+        "ee-mamt:okood":"3271"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209524335
     ],
     "wof:country":"EE",
     "wof:created":1595460188,
-    "wof:geomhash":"4215aa13149d6330a83888c0fd43c4af",
+    "wof:geomhash":"b850e8cb9a49081ffb5dae59161121e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666453,
+    "wof:lastmodified":1695876859,
     "wof:name":"Koidma",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

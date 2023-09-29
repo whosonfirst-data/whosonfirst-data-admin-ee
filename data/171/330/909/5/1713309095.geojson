@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piisu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000932,
-    "geom:area_square_m":6007248.199595,
+    "geom:area_square_m":6007248.199594,
     "geom:bbox":"24.083051,58.586505,24.140811,58.617443",
     "geom:latitude":58.600218,
     "geom:longitude":24.115491,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6200
+        "ee-mamt:okood":"6200"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344238185
     ],
     "wof:country":"EE",
     "wof:created":1595459808,
-    "wof:geomhash":"e572bbb1ea4a51b2d3bb9e74a96772cd",
+    "wof:geomhash":"c6ce274cbc4f3dce8518de2ff08b05fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661595,
+    "wof:lastmodified":1695876767,
     "wof:name":"Piisu",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

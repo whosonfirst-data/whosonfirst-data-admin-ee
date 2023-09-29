@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rasivere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003233,
-    "geom:area_square_m":20496098.453185,
+    "geom:area_square_m":20496098.453184,
     "geom:bbox":"26.659837,59.131491,26.76913,59.179982",
     "geom:latitude":59.15711,
     "geom:longitude":26.713262,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6829
+        "ee-mamt:okood":"6829"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243162709
     ],
     "wof:country":"EE",
     "wof:created":1595459446,
-    "wof:geomhash":"3ce2fd10b97a7c26d283ce4469e9781f",
+    "wof:geomhash":"aa42b7097f23571121eefbbfdc513d82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677948,
+    "wof:lastmodified":1695877003,
     "wof:name":"Rasivere",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

@@ -14,7 +14,7 @@
     "geom:longitude":24.653158,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Hageri alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1714
+        "ee-mamt:okood":"1714"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126003583
     ],
     "wof:country":"EE",
     "wof:created":1595459082,
-    "wof:geomhash":"704d9861a33c319891a94933b44cc6f7",
+    "wof:geomhash":"72a0d3c97dcb3b69f768d05876319b9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677030,
+    "wof:lastmodified":1695876983,
     "wof:name":"Hageri",
     "wof:parent_id":1713305707,
     "wof:placetype":"localadmin",

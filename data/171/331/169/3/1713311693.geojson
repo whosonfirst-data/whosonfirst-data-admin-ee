@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paaksima K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003179,
-    "geom:area_square_m":20484771.846996,
+    "geom:area_square_m":20484771.846993,
     "geom:bbox":"25.554152,58.56436,25.636996,58.625133",
     "geom:latitude":58.597402,
     "geom:longitude":25.595046,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5781
+        "ee-mamt:okood":"5781"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209878081
     ],
     "wof:country":"EE",
     "wof:created":1595460398,
-    "wof:geomhash":"e0be3fa63d3b027cfbf011a7bb11ecec",
+    "wof:geomhash":"3bf330d65463e17a3e80bc08474bba1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663436,
+    "wof:lastmodified":1695876827,
     "wof:name":"Paaksima",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

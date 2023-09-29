@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kavaru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00256,
-    "geom:area_square_m":16641016.611382,
+    "geom:area_square_m":16641016.611385,
     "geom:bbox":"24.140652,58.261151,24.251033,58.304554",
     "geom:latitude":58.283965,
     "geom:longitude":24.194062,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2893
+        "ee-mamt:okood":"2893"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343936123
     ],
     "wof:country":"EE",
     "wof:created":1595460047,
-    "wof:geomhash":"28c78a8c407e1b1eda9ec50ff884c65a",
+    "wof:geomhash":"4ab8f4f3d965d34e6d7c5656e14e25b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677673,
+    "wof:lastmodified":1695876993,
     "wof:name":"Kavaru",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

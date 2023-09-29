@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tagaranna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000268,
-    "geom:area_square_m":1729963.325973,
+    "geom:area_square_m":1729963.325975,
     "geom:bbox":"22.196759,58.533748,22.228927,58.546805",
     "geom:latitude":58.540235,
     "geom:longitude":22.211694,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8053
+        "ee-mamt:okood":"8053"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125913103
     ],
     "wof:country":"EE",
     "wof:created":1595459281,
-    "wof:geomhash":"13425e4009ca96cf39c7a3a28b8ee8ac",
+    "wof:geomhash":"d28e2bd273d583309e10564aa63140a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672066,
+    "wof:lastmodified":1695876879,
     "wof:name":"Tagaranna",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

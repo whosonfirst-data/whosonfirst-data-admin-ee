@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vihasoo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001144,
-    "geom:area_square_m":7166512.220585,
+    "geom:area_square_m":7166512.220583,
     "geom:bbox":"25.76077,59.53906,25.827465,59.581829",
     "geom:latitude":59.556473,
     "geom:longitude":25.791748,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9257
+        "ee-mamt:okood":"9257"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126017817
     ],
     "wof:country":"EE",
     "wof:created":1595460836,
-    "wof:geomhash":"85b0b829feb003b1cd42d5169b255436",
+    "wof:geomhash":"4ba8d000b67afd7f1b9a33306c65e2fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617131109,
+    "wof:lastmodified":1695877019,
     "wof:name":"Vihasoo",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

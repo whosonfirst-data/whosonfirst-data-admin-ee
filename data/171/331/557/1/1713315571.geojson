@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ojapere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000942,
-    "geom:area_square_m":6046497.452866,
+    "geom:area_square_m":6046497.452865,
     "geom:bbox":"24.184768,58.714404,24.261595,58.742935",
     "geom:latitude":58.727011,
     "geom:longitude":24.22698,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5653
+        "ee-mamt:okood":"5653"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226024249
     ],
     "wof:country":"EE",
     "wof:created":1595461248,
-    "wof:geomhash":"a1855229253d613ef407f7f36f4a9569",
+    "wof:geomhash":"c6465c93b9096f969fbed4b60c9e6953",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662829,
+    "wof:lastmodified":1695876805,
     "wof:name":"Ojapere",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Linnuse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000981,
-    "geom:area_square_m":6162893.809969,
+    "geom:area_square_m":6162893.80997,
     "geom:bbox":"26.505218,59.44744,26.559939,59.493663",
     "geom:latitude":59.47094,
     "geom:longitude":26.534911,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4408
+        "ee-mamt:okood":"4408"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310225129
     ],
     "wof:country":"EE",
     "wof:created":1595459451,
-    "wof:geomhash":"292b9a407bacb2a19db61e007b61ffb2",
+    "wof:geomhash":"73ebc1dd7a1cd142c4e90dcc5dd0a9a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677924,
+    "wof:lastmodified":1695877002,
     "wof:name":"Linnuse",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

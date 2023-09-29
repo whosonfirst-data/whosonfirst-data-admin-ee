@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kobratu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001314,
-    "geom:area_square_m":8495096.67026,
+    "geom:area_square_m":8495096.670261,
     "geom:bbox":"26.74014,58.455495,26.81867,58.491073",
     "geom:latitude":58.475287,
     "geom:longitude":26.783518,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3221
+        "ee-mamt:okood":"3221"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259659607
     ],
     "wof:country":"EE",
     "wof:created":1595460793,
-    "wof:geomhash":"848c5e5022b89f81e144539eb285e22a",
+    "wof:geomhash":"0b2018a4ede0491b24d5a7ed0f8c207c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676453,
+    "wof:lastmodified":1695876910,
     "wof:name":"Kobratu",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

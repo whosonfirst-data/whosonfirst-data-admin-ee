@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Avaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.007549,
-    "geom:area_square_m":48501180.463925,
+    "geom:area_square_m":48501180.463924,
     "geom:bbox":"24.131179,58.661111,24.361635,58.722927",
     "geom:latitude":58.693854,
     "geom:longitude":24.246574,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1478
+        "ee-mamt:okood":"1478"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242959663
     ],
     "wof:country":"EE",
     "wof:created":1595461258,
-    "wof:geomhash":"7109faa1c78e76b89e85a72742026843",
+    "wof:geomhash":"af9919dbf63b933384889e4beb77763c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662835,
+    "wof:lastmodified":1695876806,
     "wof:name":"Avaste",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

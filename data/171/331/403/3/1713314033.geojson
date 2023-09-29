@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vila K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000909,
-    "geom:area_square_m":5702814.148456,
+    "geom:area_square_m":5702814.148455,
     "geom:bbox":"26.040201,59.487008,26.086066,59.514116",
     "geom:latitude":59.499574,
     "geom:longitude":26.062404,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9321
+        "ee-mamt:okood":"9321"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209026551
     ],
     "wof:country":"EE",
     "wof:created":1595460889,
-    "wof:geomhash":"ce25cd1f947f3122504d9afdb0e4bf80",
+    "wof:geomhash":"481a9f64e4113b7427f882749dd72d47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678013,
+    "wof:lastmodified":1695877009,
     "wof:name":"Vila",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

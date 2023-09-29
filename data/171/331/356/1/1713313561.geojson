@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Ahtme Linnaosa",
     "ee-mamt:tyyp":6,
     "geom:area":0.001647,
-    "geom:area_square_m":10388588.427326,
+    "geom:area_square_m":10388588.427332,
     "geom:bbox":"27.382837,59.296388,27.488362,59.349517",
     "geom:latitude":59.322914,
     "geom:longitude":27.434888,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "district"
+        "urban district"
     ],
     "label:est_x_preferred_longname":[
         "Ahtme linnaosa"
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":120
+        "ee-mamt:okood":"120"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460788,
-    "wof:geomhash":"abd5a33c5cc574b792ded03c0a9cd986",
+    "wof:geomhash":"3c64e0cf43a802627250773e22dcbd57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676519,
+    "wof:lastmodified":1695876917,
     "wof:name":"Ahtme",
     "wof:parent_id":1713305653,
     "wof:placetype":"localadmin",

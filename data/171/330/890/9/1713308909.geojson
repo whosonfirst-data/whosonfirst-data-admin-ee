@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kudani K\u00fcla / Gutan\u00e4s",
     "ee-mamt:tyyp":8,
     "geom:area":0.001922,
-    "geom:area_square_m":12220239.203636,
+    "geom:area_square_m":12220239.203633,
     "geom:bbox":"23.465526,59.040251,23.55114,59.085962",
     "geom:latitude":59.061206,
     "geom:longitude":23.503924,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3514
+        "ee-mamt:okood":"3514"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310698603
     ],
     "wof:country":"EE",
     "wof:created":1595459762,
-    "wof:geomhash":"a5ae22fd45f85b3064691cd123e7f08e",
+    "wof:geomhash":"55d7af7b84df86d74b6a201c28722868",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677164,
+    "wof:lastmodified":1695876984,
     "wof:name":"Kudani",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

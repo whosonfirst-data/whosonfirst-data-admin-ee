@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raudoja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001955,
-    "geom:area_square_m":12310525.772245,
+    "geom:area_square_m":12310525.772246,
     "geom:bbox":"25.374828,59.358382,25.524504,59.402918",
     "geom:latitude":59.380689,
     "geom:longitude":25.432396,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6855
+        "ee-mamt:okood":"6855"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276999185
     ],
     "wof:country":"EE",
     "wof:created":1595459305,
-    "wof:geomhash":"856e9521bea1033d635e1e5a5ed450b0",
+    "wof:geomhash":"bece60c46e73bfeddd686c06ec4d2fef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662794,
+    "wof:lastmodified":1695876799,
     "wof:name":"Raudoja",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Jalgsema K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003081,
-    "geom:area_square_m":19565746.515153,
+    "geom:area_square_m":19565746.515152,
     "geom:bbox":"25.865539,59.067343,25.94159,59.1251",
     "geom:latitude":59.094297,
     "geom:longitude":25.902106,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2164
+        "ee-mamt:okood":"2164"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226166815
     ],
     "wof:country":"EE",
     "wof:created":1595460832,
-    "wof:geomhash":"18526d34a648cdf09c6a3e4da678dd02",
+    "wof:geomhash":"7a51e050e417ffb2c5d7d73de92463b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676615,
+    "wof:lastmodified":1695876929,
     "wof:name":"Jalgsema",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

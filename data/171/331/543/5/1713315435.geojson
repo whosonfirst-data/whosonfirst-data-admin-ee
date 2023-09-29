@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koigi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001033,
-    "geom:area_square_m":6559646.20368,
+    "geom:area_square_m":6559646.203682,
     "geom:bbox":"24.715425,59.058918,24.778635,59.10485",
     "geom:latitude":59.083938,
     "geom:longitude":24.75044,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3283
+        "ee-mamt:okood":"3283"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344136289
     ],
     "wof:country":"EE",
     "wof:created":1595461217,
-    "wof:geomhash":"c587b46903b7ac08dcb300c9193c018a",
+    "wof:geomhash":"3feee5f54c8396de6ceae405d6431b25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676712,
+    "wof:lastmodified":1695876944,
     "wof:name":"Koigi",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

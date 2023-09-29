@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tundu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000894,
-    "geom:area_square_m":5926448.046784,
+    "geom:area_square_m":5926448.046785,
     "geom:bbox":"26.609051,57.576234,26.67696,57.605419",
     "geom:latitude":57.589802,
     "geom:longitude":26.639641,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8415
+        "ee-mamt:okood":"8415"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260044331
     ],
     "wof:country":"EE",
     "wof:created":1595461087,
-    "wof:geomhash":"d6ee0c49f916c77a58d1a29d37565561",
+    "wof:geomhash":"2fee19fb1c761ff50afedbacab7b86c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676818,
+    "wof:lastmodified":1695876956,
     "wof:name":"Tundu",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

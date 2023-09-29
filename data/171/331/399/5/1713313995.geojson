@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kobilu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000834,
-    "geom:area_square_m":5418152.687254,
+    "geom:area_square_m":5418152.687258,
     "geom:bbox":"26.297381,58.27978,26.338036,58.314849",
     "geom:latitude":58.29849,
     "geom:longitude":26.314772,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3216
+        "ee-mamt:okood":"3216"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242939349
     ],
     "wof:country":"EE",
     "wof:created":1595460880,
-    "wof:geomhash":"fcfc7cf9c88e756fd01daa9b07ccb415",
+    "wof:geomhash":"a2db277c4ab78813b4d3aa6455c50024",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661903,
+    "wof:lastmodified":1695876787,
     "wof:name":"Kobilu",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

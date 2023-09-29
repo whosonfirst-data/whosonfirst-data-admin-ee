@@ -14,7 +14,7 @@
     "geom:longitude":27.193207,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "alev"
+        "town"
     ],
     "label:est_x_preferred_longname":[
         "Kohtla-N\u0151mme alev"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3270
+        "ee-mamt:okood":"3270"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815205
     ],
     "wof:country":"EE",
     "wof:created":1595461018,
-    "wof:geomhash":"45f327e90f06f03da4af7185d99af9d8",
+    "wof:geomhash":"c4a45e25858882dd204a0c5f807f7a3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676908,
+    "wof:lastmodified":1695876971,
     "wof:name":"Kohtla-N\u0151mme",
     "wof:parent_id":1713305783,
     "wof:placetype":"localadmin",

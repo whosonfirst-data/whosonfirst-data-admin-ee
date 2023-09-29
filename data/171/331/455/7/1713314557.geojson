@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sikana K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001373,
-    "geom:area_square_m":8851329.68433,
+    "geom:area_square_m":8851329.684329,
     "geom:bbox":"24.87409,58.548418,24.939941,58.588071",
     "geom:latitude":58.571834,
     "geom:longitude":24.907012,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7581
+        "ee-mamt:okood":"7581"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326811541
     ],
     "wof:country":"EE",
     "wof:created":1595461009,
-    "wof:geomhash":"90d8289941a954fe9c8c63fe7dbc9c17",
+    "wof:geomhash":"7a48840c5afc3bf24b8921c98081bb07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663403,
+    "wof:lastmodified":1695876823,
     "wof:name":"Sikana",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

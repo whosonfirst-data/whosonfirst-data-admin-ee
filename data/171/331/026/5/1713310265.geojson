@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nasja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001295,
-    "geom:area_square_m":8392642.474588,
+    "geom:area_square_m":8392642.474589,
     "geom:bbox":"26.323477,58.360154,26.369122,58.411075",
     "geom:latitude":58.384527,
     "geom:longitude":26.342576,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5358
+        "ee-mamt:okood":"5358"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243226885
     ],
     "wof:country":"EE",
     "wof:created":1595460084,
-    "wof:geomhash":"4ffd67c6fef09a65b2ac2104b066c5c3",
+    "wof:geomhash":"172efbe95b8ce0b99ea9d95916048d84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661886,
+    "wof:lastmodified":1695876783,
     "wof:name":"Nasja",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiivera K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000702,
-    "geom:area_square_m":4484298.076434,
+    "geom:area_square_m":4484298.076436,
     "geom:bbox":"22.436026,58.888209,22.498759,58.920718",
     "geom:latitude":58.902887,
     "geom:longitude":22.461878,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3054
+        "ee-mamt:okood":"3054"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276337917
     ],
     "wof:country":"EE",
     "wof:created":1595460062,
-    "wof:geomhash":"fe019a888eeb1b1e72a353ad09afb226",
+    "wof:geomhash":"58ba66aa0351e81d608d1873c13bd9ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666296,
+    "wof:lastmodified":1695876848,
     "wof:name":"Kiivera",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

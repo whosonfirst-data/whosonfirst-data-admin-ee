@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Liva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001692,
-    "geom:area_square_m":11070028.58357,
+    "geom:area_square_m":11070028.583567,
     "geom:bbox":"26.012095,58.026881,26.06458,58.082826",
     "geom:latitude":58.053369,
     "geom:longitude":26.037886,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4433
+        "ee-mamt:okood":"4433"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310563835
     ],
     "wof:country":"EE",
     "wof:created":1595460147,
-    "wof:geomhash":"4d04e07e9ecaabda682e2050794f89d7",
+    "wof:geomhash":"f97d5c306b93608d7861eb70c74e7b32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661423,
+    "wof:lastmodified":1695876759,
     "wof:name":"Liva",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

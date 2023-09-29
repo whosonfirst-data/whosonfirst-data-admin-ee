@@ -14,7 +14,7 @@
     "geom:longitude":27.421024,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "J\u0151hvi linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2270
+        "ee-mamt:okood":"2270"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815215
     ],
     "wof:country":"EE",
     "wof:created":1595460742,
-    "wof:geomhash":"b5ea56027ac0334d6b5251cbc7933c98",
+    "wof:geomhash":"c4a7ca574ad5db5e04a3884478525694",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676510,
+    "wof:lastmodified":1695876917,
     "wof:name":"J\u0151hvi",
     "wof:parent_id":1713305651,
     "wof:placetype":"localadmin",

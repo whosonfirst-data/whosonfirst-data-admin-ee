@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laho K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000482,
-    "geom:area_square_m":3145806.744325,
+    "geom:area_square_m":3145806.744326,
     "geom:bbox":"27.2054,58.157665,27.246747,58.175862",
     "geom:latitude":58.166339,
     "geom:longitude":27.226843,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4062
+        "ee-mamt:okood":"4062"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242564695
     ],
     "wof:country":"EE",
     "wof:created":1595460232,
-    "wof:geomhash":"d865d1a9423f8d9c2216830ea9602ba0",
+    "wof:geomhash":"522411f48cd2862530d54c13a2c23c20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676949,
+    "wof:lastmodified":1695876974,
     "wof:name":"Laho",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

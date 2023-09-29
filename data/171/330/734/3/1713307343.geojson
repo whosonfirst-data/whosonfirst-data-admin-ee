@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaarma-Kungla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001032,
-    "geom:area_square_m":6691351.813102,
+    "geom:area_square_m":6691351.813105,
     "geom:bbox":"22.366001,58.347812,22.423694,58.38203",
     "geom:latitude":58.363454,
     "geom:longitude":22.394703,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2413
+        "ee-mamt:okood":"2413"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459379,
-    "wof:geomhash":"15705477dab3408955900216fbade300",
+    "wof:geomhash":"6500145743a1007f0320678e4b7e0038",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672245,
+    "wof:lastmodified":1695876886,
     "wof:name":"Kaarma-Kungla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

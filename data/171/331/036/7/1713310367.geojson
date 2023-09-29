@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u0151mmusselja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000127,
-    "geom:area_square_m":816545.166404,
+    "geom:area_square_m":816545.166403,
     "geom:bbox":"22.593196,58.714791,22.617012,58.727872",
     "geom:latitude":58.720335,
     "geom:longitude":22.603925,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3760
+        "ee-mamt:okood":"3760"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193019181
     ],
     "wof:country":"EE",
     "wof:created":1595460106,
-    "wof:geomhash":"ce12325a80fe401f68faa42a04cd8477",
+    "wof:geomhash":"ccab9a5edc30c5b377ba36d044707213",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666350,
+    "wof:lastmodified":1695876852,
     "wof:name":"K\u0151mmusselja",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

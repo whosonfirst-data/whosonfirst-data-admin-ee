@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vahastu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005155,
-    "geom:area_square_m":32890174.946424,
+    "geom:area_square_m":32890174.946426,
     "geom:bbox":"25.195711,58.90247,25.312785,58.969776",
     "geom:latitude":58.937081,
     "geom:longitude":25.255649,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8842
+        "ee-mamt:okood":"8842"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890049
     ],
     "wof:country":"EE",
     "wof:created":1595461109,
-    "wof:geomhash":"d17e997d7039404877695e1f9fcad075",
+    "wof:geomhash":"c12f4d765468e2890052704dc91be810",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676707,
+    "wof:lastmodified":1695876943,
     "wof:name":"Vahastu",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

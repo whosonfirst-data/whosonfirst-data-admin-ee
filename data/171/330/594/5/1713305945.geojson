@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kuusalu Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000303,
-    "geom:area_square_m":1906735.371302,
+    "geom:area_square_m":1906735.371304,
     "geom:bbox":"25.413519,59.440703,25.455839,59.45018",
     "geom:latitude":59.445466,
     "geom:longitude":25.43477,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Kuusalu alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3714
+        "ee-mamt:okood":"3714"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815159
     ],
     "wof:country":"EE",
     "wof:created":1595459034,
-    "wof:geomhash":"73ecc458afd886917f586d22b57857c0",
+    "wof:geomhash":"bf5132b11810583484290af73ec0c90c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661818,
+    "wof:lastmodified":1695876778,
     "wof:name":"Kuusalu",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

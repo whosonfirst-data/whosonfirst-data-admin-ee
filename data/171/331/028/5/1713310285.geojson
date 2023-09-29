@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiduspe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000664,
-    "geom:area_square_m":4242651.624706,
+    "geom:area_square_m":4242651.624708,
     "geom:bbox":"22.240594,58.881932,22.277595,58.909403",
     "geom:latitude":58.895629,
     "geom:longitude":22.25789,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3009
+        "ee-mamt:okood":"3009"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276344007
     ],
     "wof:country":"EE",
     "wof:created":1595460088,
-    "wof:geomhash":"184829fe4857e4f7a46f349432a7305c",
+    "wof:geomhash":"642a3761acfe5a29dafbb4d3651f701d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666330,
+    "wof:lastmodified":1695876850,
     "wof:name":"Kiduspe",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

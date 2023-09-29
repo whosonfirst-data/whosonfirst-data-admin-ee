@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tammiste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001052,
-    "geom:area_square_m":6852943.644558,
+    "geom:area_square_m":6852943.644557,
     "geom:bbox":"26.294921,58.179422,26.355151,58.211597",
     "geom:latitude":58.196177,
     "geom:longitude":26.326325,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8121
+        "ee-mamt:okood":"8121"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126023589
     ],
     "wof:country":"EE",
     "wof:created":1595460159,
-    "wof:geomhash":"0fa0da0b46e093690c63ed13f230ce5b",
+    "wof:geomhash":"606411aa14c1b3169c6236596b92bdd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661890,
+    "wof:lastmodified":1695876784,
     "wof:name":"Tammiste",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

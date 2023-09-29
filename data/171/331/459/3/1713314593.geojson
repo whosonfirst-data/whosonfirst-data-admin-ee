@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koikse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001239,
-    "geom:area_square_m":7902720.037835,
+    "geom:area_square_m":7902720.037837,
     "geom:bbox":"24.6452,58.937457,24.705658,58.976549",
     "geom:latitude":58.956081,
     "geom:longitude":24.668812,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3294
+        "ee-mamt:okood":"3294"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209290981
     ],
     "wof:country":"EE",
     "wof:created":1595461017,
-    "wof:geomhash":"6aababc4e3aaaf54c804d69d7cd1c8bc",
+    "wof:geomhash":"70c83fe4a1c1238e0fb64f0495637a8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676710,
+    "wof:lastmodified":1695876943,
     "wof:name":"Koikse",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

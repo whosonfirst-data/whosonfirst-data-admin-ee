@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Triigi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000685,
-    "geom:area_square_m":4413126.20493,
+    "geom:area_square_m":4413126.204934,
     "geom:bbox":"22.682649,58.565774,22.721651,58.600637",
     "geom:latitude":58.584676,
     "geom:longitude":22.702158,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8347
+        "ee-mamt:okood":"8347"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125783911
     ],
     "wof:country":"EE",
     "wof:created":1595459615,
-    "wof:geomhash":"7b0097db776d767f666aa03212b7ce57",
+    "wof:geomhash":"3cfa29afc46a0b11c9a37b5c055404e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672553,
+    "wof:lastmodified":1695876899,
     "wof:name":"Triigi",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

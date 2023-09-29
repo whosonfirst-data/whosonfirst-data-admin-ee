@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aiaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001884,
-    "geom:area_square_m":12325096.974902,
+    "geom:area_square_m":12325096.974896,
     "geom:bbox":"26.628082,58.032211,26.704339,58.077898",
     "geom:latitude":58.05622,
     "geom:longitude":26.663397,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1131
+        "ee-mamt:okood":"1131"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243541567
     ],
     "wof:country":"EE",
     "wof:created":1595460034,
-    "wof:geomhash":"c270db47cb6bd462b7f18bf280d620d0",
+    "wof:geomhash":"90e7f470395811b8062a71de0b7c35f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676771,
+    "wof:lastmodified":1695876949,
     "wof:name":"Aiaste",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

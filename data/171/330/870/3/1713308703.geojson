@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paslepa K\u00fcla / Pasklep",
     "ee-mamt:tyyp":8,
     "geom:area":0.002177,
-    "geom:area_square_m":13856593.702429,
+    "geom:area_square_m":13856593.702432,
     "geom:bbox":"23.430245,58.999884,23.517572,59.048908",
     "geom:latitude":59.024494,
     "geom:longitude":23.476775,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6029
+        "ee-mamt:okood":"6029"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326722239
     ],
     "wof:country":"EE",
     "wof:created":1595459710,
-    "wof:geomhash":"ea389a58ff97fdc2076a392e46009923",
+    "wof:geomhash":"8ed6d7f5188182522cd58a802d9a5e99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677194,
+    "wof:lastmodified":1695876988,
     "wof:name":"Paslepa",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

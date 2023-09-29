@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tigase K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000971,
-    "geom:area_square_m":6302991.612,
+    "geom:area_square_m":6302991.611999,
     "geom:bbox":"26.965379,58.341199,27.03417,58.367665",
     "geom:latitude":58.35208,
     "geom:longitude":27.002833,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8211
+        "ee-mamt:okood":"8211"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226725843
     ],
     "wof:country":"EE",
     "wof:created":1595460268,
-    "wof:geomhash":"f882794939b3937e77c5d42746ea07e3",
+    "wof:geomhash":"d7983e6d8a2589c5f466679684ac210a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660644,
+    "wof:lastmodified":1695876728,
     "wof:name":"Tigase",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

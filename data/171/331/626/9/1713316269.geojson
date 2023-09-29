@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raudsepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00008,
-    "geom:area_square_m":525614.430593,
+    "geom:area_square_m":525614.430592,
     "geom:bbox":"27.000937,57.790038,27.016678,57.806197",
     "geom:latitude":57.796857,
     "geom:longitude":27.008607,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6856
+        "ee-mamt:okood":"6856"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276398067
     ],
     "wof:country":"EE",
     "wof:created":1595461392,
-    "wof:geomhash":"eaa2a346ea987ac878bead601ad22392",
+    "wof:geomhash":"2140e75ad0bc66b0034efbe3b89b2421",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660234,
+    "wof:lastmodified":1695876722,
     "wof:name":"Raudsepa",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

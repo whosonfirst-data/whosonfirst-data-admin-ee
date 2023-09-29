@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sutlepa K\u00fcla / Sutlep",
     "ee-mamt:tyyp":8,
     "geom:area":0.001853,
-    "geom:area_square_m":11781138.774445,
+    "geom:area_square_m":11781138.774448,
     "geom:bbox":"23.549533,59.030198,23.627266,59.071048",
     "geom:latitude":59.050593,
     "geom:longitude":23.585623,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7817
+        "ee-mamt:okood":"7817"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008635
     ],
     "wof:country":"EE",
     "wof:created":1595459774,
-    "wof:geomhash":"fa2e8dda5a447a09b84c1385b2198396",
+    "wof:geomhash":"cd0c13365981b9d6ec90239a0414a2d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677196,
+    "wof:lastmodified":1695876989,
     "wof:name":"Sutlepa",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

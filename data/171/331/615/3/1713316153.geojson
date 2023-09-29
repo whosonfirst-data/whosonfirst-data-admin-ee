@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Toomasm\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001694,
-    "geom:area_square_m":11088463.297652,
+    "geom:area_square_m":11088463.29765,
     "geom:bbox":"27.495387,58.011597,27.568013,58.047497",
     "geom:latitude":58.030169,
     "geom:longitude":27.534228,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8301
+        "ee-mamt:okood":"8301"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1292981205
     ],
     "wof:country":"EE",
     "wof:created":1595461369,
-    "wof:geomhash":"bde8f7584b8fdf018491775bb7eb890c",
+    "wof:geomhash":"a8b05617926abd86f8aa1c57200d9706",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663633,
+    "wof:lastmodified":1695876837,
     "wof:name":"Toomasm\u00e4e",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

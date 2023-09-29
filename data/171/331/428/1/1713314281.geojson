@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aasa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000944,
-    "geom:area_square_m":6065708.369536,
+    "geom:area_square_m":6065708.369534,
     "geom:bbox":"24.467354,58.668416,24.543027,58.702239",
     "geom:latitude":58.685033,
     "geom:longitude":24.505348,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1030
+        "ee-mamt:okood":"1030"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343839179
     ],
     "wof:country":"EE",
     "wof:created":1595460944,
-    "wof:geomhash":"c6d21cb918c7f5cf0db94ea75c1be35e",
+    "wof:geomhash":"a6bdacc7eebc63b30bd4610d2959f825",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663398,
+    "wof:lastmodified":1695876822,
     "wof:name":"Aasa",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

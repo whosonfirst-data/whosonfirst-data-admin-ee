@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Omedu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000994,
-    "geom:area_square_m":6373338.346108,
+    "geom:area_square_m":6373338.346105,
     "geom:bbox":"26.976796,58.757508,27.05658,58.781225",
     "geom:latitude":58.766686,
     "geom:longitude":27.01115,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5673
+        "ee-mamt:okood":"5673"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125908691
     ],
     "wof:country":"EE",
     "wof:created":1595460763,
-    "wof:geomhash":"22d3b43f90b4a0a8d88d6278c6dc5fc0",
+    "wof:geomhash":"2981af8c5d3601c67a52a510789b6255",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660984,
+    "wof:lastmodified":1695876742,
     "wof:name":"Omedu",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

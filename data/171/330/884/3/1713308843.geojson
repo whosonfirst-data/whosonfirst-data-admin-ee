@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Veltsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000978,
-    "geom:area_square_m":6298625.190868,
+    "geom:area_square_m":6298625.190866,
     "geom:bbox":"24.03834,58.58558,24.093985,58.6218",
     "geom:latitude":58.602362,
     "geom:longitude":24.068774,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9192
+        "ee-mamt:okood":"9192"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360266409
     ],
     "wof:country":"EE",
     "wof:created":1595459746,
-    "wof:geomhash":"1da271d01737caaf7dd2c2341cd3ece9",
+    "wof:geomhash":"aecafe1f11611aaf7ab8816373393e18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661626,
+    "wof:lastmodified":1695876770,
     "wof:name":"Veltsa",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

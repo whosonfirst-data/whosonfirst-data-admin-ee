@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Parisselja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000555,
-    "geom:area_square_m":3579805.117481,
+    "geom:area_square_m":3579805.117482,
     "geom:bbox":"24.510482,58.526055,24.551904,58.548018",
     "geom:latitude":58.53657,
     "geom:longitude":24.532615,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6012
+        "ee-mamt:okood":"6012"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209503267
     ],
     "wof:country":"EE",
     "wof:created":1595460548,
-    "wof:geomhash":"ff16ade2645ce4d126feadb6561a293c",
+    "wof:geomhash":"f2936417dcbf907efef23a9f2a56784c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663371,
+    "wof:lastmodified":1695876819,
     "wof:name":"Parisselja",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Vinni Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000794,
-    "geom:area_square_m":5011693.941372,
+    "geom:area_square_m":5011693.941373,
     "geom:bbox":"26.405198,59.283655,26.454428,59.307822",
     "geom:latitude":59.29519,
     "geom:longitude":26.429335,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Vinni alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9375
+        "ee-mamt:okood":"9375"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101846687
     ],
     "wof:country":"EE",
     "wof:created":1595459462,
-    "wof:geomhash":"980559714c24c1371566b5eb8f6a85e5",
+    "wof:geomhash":"dab98e638de1a615f8c6eedba6a4fb9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677949,
+    "wof:lastmodified":1695877004,
     "wof:name":"Vinni",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

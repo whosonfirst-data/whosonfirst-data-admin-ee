@@ -14,7 +14,7 @@
     "geom:longitude":26.256008,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Laatre alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4029
+        "ee-mamt:okood":"4029"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125955645
     ],
     "wof:country":"EE",
     "wof:created":1595460136,
-    "wof:geomhash":"ab7b03cc93bdc5c3fe464676e405752b",
+    "wof:geomhash":"6d1c80ccd092470c6c4bef070d87b9fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661938,
+    "wof:lastmodified":1695876790,
     "wof:name":"Laatre",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"R\u0151uge Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000286,
-    "geom:area_square_m":1884911.954602,
+    "geom:area_square_m":1884911.954601,
     "geom:bbox":"26.90247,57.722629,26.938561,57.737902",
     "geom:latitude":57.730075,
     "geom:longitude":26.919831,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "R\u0151uge alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7181
+        "ee-mamt:okood":"7181"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125817061
     ],
     "wof:country":"EE",
     "wof:created":1595461105,
-    "wof:geomhash":"91b8b7eff96a0dcfd33273a5d623530a",
+    "wof:geomhash":"4ae33f495da737111a931dc57171870b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676826,
+    "wof:lastmodified":1695876958,
     "wof:name":"R\u0151uge",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Taganurga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003798,
-    "geom:area_square_m":24500632.732108,
+    "geom:area_square_m":24500632.732106,
     "geom:bbox":"25.906565,58.519367,26.023893,58.592145",
     "geom:latitude":58.553671,
     "geom:longitude":25.963943,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8050
+        "ee-mamt:okood":"8050"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327099315
     ],
     "wof:country":"EE",
     "wof:created":1595460983,
-    "wof:geomhash":"61ef26661fc000db90c2ad38ee398d76",
+    "wof:geomhash":"3a36e713c371c4c234f953ad9c2778f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661205,
+    "wof:lastmodified":1695876745,
     "wof:name":"Taganurga",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

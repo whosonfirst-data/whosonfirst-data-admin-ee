@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sarakuste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00087,
-    "geom:area_square_m":5642912.545829,
+    "geom:area_square_m":5642912.545831,
     "geom:bbox":"26.916579,58.344883,26.970833,58.376327",
     "geom:latitude":58.360142,
     "geom:longitude":26.949479,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7423
+        "ee-mamt:okood":"7423"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209691973
     ],
     "wof:country":"EE",
     "wof:created":1595460901,
-    "wof:geomhash":"a68b4e1d6952c54335f68ef5f43ccbcf",
+    "wof:geomhash":"95ee16d2e7c3f1d62fbc00e225903465",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660648,
+    "wof:lastmodified":1695876729,
     "wof:name":"Sarakuste",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

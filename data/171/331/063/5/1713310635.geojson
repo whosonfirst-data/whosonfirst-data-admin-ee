@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Harju K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002894,
-    "geom:area_square_m":18565740.49291,
+    "geom:area_square_m":18565740.492907,
     "geom:bbox":"22.554364,58.723044,22.699042,58.766037",
     "geom:latitude":58.742558,
     "geom:longitude":22.623109,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1769
+        "ee-mamt:okood":"1769"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259395545
     ],
     "wof:country":"EE",
     "wof:created":1595460168,
-    "wof:geomhash":"b7aca317d713a0dd649c83f5a1fcca7b",
+    "wof:geomhash":"d089fe41e62a83708cef485f75795410",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666420,
+    "wof:lastmodified":1695876857,
     "wof:name":"Harju",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

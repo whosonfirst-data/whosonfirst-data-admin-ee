@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Miti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001617,
-    "geom:area_square_m":10563481.911841,
+    "geom:area_square_m":10563481.911839,
     "geom:bbox":"26.334163,58.07191,26.414567,58.11638",
     "geom:latitude":58.098535,
     "geom:longitude":26.369595,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4959
+        "ee-mamt:okood":"4959"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226712571
     ],
     "wof:country":"EE",
     "wof:created":1595460773,
-    "wof:geomhash":"4c2f3f9f6944010a19781d34737a3605",
+    "wof:geomhash":"df032c89fa52e9060510fbc5c832aeb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661858,
+    "wof:lastmodified":1695876780,
     "wof:name":"Miti",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

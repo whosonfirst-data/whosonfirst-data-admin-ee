@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Oidrema K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003357,
-    "geom:area_square_m":21635875.368384,
+    "geom:area_square_m":21635875.368383,
     "geom:bbox":"23.878544,58.54971,23.968164,58.611401",
     "geom:latitude":58.583801,
     "geom:longitude":23.92778,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5638
+        "ee-mamt:okood":"5638"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125971459
     ],
     "wof:country":"EE",
     "wof:created":1595459752,
-    "wof:geomhash":"c0a02a94fea879eebd159ece4698b45e",
+    "wof:geomhash":"7a78705f307be61ca307e04ec5fbc882",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661587,
+    "wof:lastmodified":1695876766,
     "wof:name":"Oidrema",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

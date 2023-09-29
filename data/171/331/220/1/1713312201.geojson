@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tealama K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000293,
-    "geom:area_square_m":1874831.576561,
+    "geom:area_square_m":1874831.576562,
     "geom:bbox":"26.718788,58.825688,26.74115,58.849082",
     "geom:latitude":58.835423,
     "geom:longitude":26.729975,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8174
+        "ee-mamt:okood":"8174"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344161661
     ],
     "wof:country":"EE",
     "wof:created":1595460499,
-    "wof:geomhash":"0c39a4a3ad819cd1700a2aef3f146941",
+    "wof:geomhash":"4a6c98b25ad47015033b7ddb7fdedf3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676560,
+    "wof:lastmodified":1695876923,
     "wof:name":"Tealama",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

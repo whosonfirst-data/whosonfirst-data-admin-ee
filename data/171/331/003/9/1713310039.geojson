@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ridalepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001548,
-    "geom:area_square_m":10010669.413546,
+    "geom:area_square_m":10010669.413545,
     "geom:bbox":"24.317537,58.438942,24.390662,58.479543",
     "geom:latitude":58.457806,
     "geom:longitude":24.356731,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6962
+        "ee-mamt:okood":"6962"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126054151
     ],
     "wof:country":"EE",
     "wof:created":1595460035,
-    "wof:geomhash":"d2dce2e839fd9a4c49ed65aad9736ac1",
+    "wof:geomhash":"08520433f68f18223be222b06fdd9199",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677667,
+    "wof:lastmodified":1695876992,
     "wof:name":"Ridalepa",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

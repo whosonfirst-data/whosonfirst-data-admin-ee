@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kukevere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002072,
-    "geom:area_square_m":13119360.608371,
+    "geom:area_square_m":13119360.608373,
     "geom:bbox":"25.690626,59.174192,25.785184,59.228787",
     "geom:latitude":59.203216,
     "geom:longitude":25.731586,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3554
+        "ee-mamt:okood":"3554"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360085397
     ],
     "wof:country":"EE",
     "wof:created":1595459262,
-    "wof:geomhash":"669eb588f1e16a03ae0619903eec9079",
+    "wof:geomhash":"e41c5a78dff15ef33724b24ecf659dfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676633,
+    "wof:lastmodified":1695876934,
     "wof:name":"Kukevere",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

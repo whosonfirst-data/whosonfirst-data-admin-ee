@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pauliku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000568,
-    "geom:area_square_m":3583193.962405,
+    "geom:area_square_m":3583193.962402,
     "geom:bbox":"27.352129,59.33724,27.406356,59.356878",
     "geom:latitude":59.349144,
     "geom:longitude":27.380028,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6050
+        "ee-mamt:okood":"6050"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343370531
     ],
     "wof:country":"EE",
     "wof:created":1595460788,
-    "wof:geomhash":"2449d6bbe59d4dbc5ffeacb7dc07f936",
+    "wof:geomhash":"8179f51f64407e64f4ad2ac329f5dab9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676510,
+    "wof:lastmodified":1695876917,
     "wof:name":"Pauliku",
     "wof:parent_id":1713305651,
     "wof:placetype":"localadmin",

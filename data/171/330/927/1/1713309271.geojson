@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaki K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001022,
-    "geom:area_square_m":6577048.390287,
+    "geom:area_square_m":6577048.390288,
     "geom:bbox":"24.958377,58.627144,25.024266,58.648013",
     "geom:latitude":58.638519,
     "geom:longitude":24.990753,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8909
+        "ee-mamt:okood":"8909"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936869
     ],
     "wof:country":"EE",
     "wof:created":1595459848,
-    "wof:geomhash":"ea6cb1d0f00dd91b0222b31e745537fd",
+    "wof:geomhash":"acfd3493a10218203016743b15e22774",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663409,
+    "wof:lastmodified":1695876825,
     "wof:name":"Vaki",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

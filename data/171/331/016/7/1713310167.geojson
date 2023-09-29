@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valipe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000624,
-    "geom:area_square_m":3987861.909455,
+    "geom:area_square_m":3987861.909454,
     "geom:bbox":"22.943224,58.847139,22.979117,58.871193",
     "geom:latitude":58.858767,
     "geom:longitude":22.961867,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8949
+        "ee-mamt:okood":"8949"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276776375
     ],
     "wof:country":"EE",
     "wof:created":1595460063,
-    "wof:geomhash":"f22dad32c61d7b5652734f5dd9c1269c",
+    "wof:geomhash":"e2e28c55ade6207f7a5104edec7c3db3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666304,
+    "wof:lastmodified":1695876849,
     "wof:name":"Valipe",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

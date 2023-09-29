@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kavandi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001086,
-    "geom:area_square_m":6994887.804074,
+    "geom:area_square_m":6994887.804075,
     "geom:bbox":"22.807432,58.577331,22.877251,58.611606",
     "geom:latitude":58.594503,
     "geom:longitude":22.838538,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2888
+        "ee-mamt:okood":"2888"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242648173
     ],
     "wof:country":"EE",
     "wof:created":1595459411,
-    "wof:geomhash":"a37eb04e4dca07865ce66200e1486229",
+    "wof:geomhash":"1d6f5af46c84861ac552dc35e588b612",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672421,
+    "wof:lastmodified":1695876893,
     "wof:name":"Kavandi",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

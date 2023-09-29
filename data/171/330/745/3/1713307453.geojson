@@ -8,7 +8,7 @@
     "ee-mamt:animi":"H\u00fcbja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001253,
-    "geom:area_square_m":8119726.467015,
+    "geom:area_square_m":8119726.467014,
     "geom:bbox":"22.463908,58.385266,22.509603,58.430964",
     "geom:latitude":58.404241,
     "geom:longitude":22.482842,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1965
+        "ee-mamt:okood":"1965"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360155639
     ],
     "wof:country":"EE",
     "wof:created":1595459404,
-    "wof:geomhash":"9bd0e777eacb3f43829bba0f34537aab",
+    "wof:geomhash":"f1558d4d395bf7bdabef4c3966c69ef1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672328,
+    "wof:lastmodified":1695876890,
     "wof:name":"H\u00fcbja",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

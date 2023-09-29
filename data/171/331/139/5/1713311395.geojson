@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sulu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001212,
-    "geom:area_square_m":7757655.641235,
+    "geom:area_square_m":7757655.641234,
     "geom:bbox":"24.470283,58.807061,24.541447,58.837716",
     "geom:latitude":58.822359,
     "geom:longitude":24.501651,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7792
+        "ee-mamt:okood":"7792"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293476315
     ],
     "wof:country":"EE",
     "wof:created":1595460327,
-    "wof:geomhash":"6abcf5994ad66f302a33dfc2735619fc",
+    "wof:geomhash":"72363a56676061c6a8954f2a928944b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502249,
+    "wof:lastmodified":1695877023,
     "wof:name":"Sulu",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

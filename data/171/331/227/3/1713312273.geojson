@@ -8,7 +8,7 @@
     "ee-mamt:animi":"N\u00e4duvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001191,
-    "geom:area_square_m":7617871.52655,
+    "geom:area_square_m":7617871.526548,
     "geom:bbox":"26.686164,58.821732,26.731415,58.870243",
     "geom:latitude":58.846936,
     "geom:longitude":26.712157,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5548
+        "ee-mamt:okood":"5548"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327133629
     ],
     "wof:country":"EE",
     "wof:created":1595460512,
-    "wof:geomhash":"472bc808c2cea40ecb824ca2e81d6c33",
+    "wof:geomhash":"f7188250d32cd7853bd12eea213365f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676560,
+    "wof:lastmodified":1695876924,
     "wof:name":"N\u00e4duvere",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

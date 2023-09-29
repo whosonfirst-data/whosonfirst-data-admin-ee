@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Allikj\u00e4rve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00319,
-    "geom:area_square_m":20300202.88012,
+    "geom:area_square_m":20300202.880117,
     "geom:bbox":"25.632417,58.998578,25.753598,59.049175",
     "geom:latitude":59.027003,
     "geom:longitude":25.689674,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1205
+        "ee-mamt:okood":"1205"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226248599
     ],
     "wof:country":"EE",
     "wof:created":1595459629,
-    "wof:geomhash":"52be673d7249564611759bebd32a0c9e",
+    "wof:geomhash":"a4754d36a9982e94063cad985bfef69c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661323,
+    "wof:lastmodified":1695876753,
     "wof:name":"Allikj\u00e4rve",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soodevahe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000563,
-    "geom:area_square_m":3688901.449565,
+    "geom:area_square_m":3688901.449566,
     "geom:bbox":"22.081743,57.96349,22.125317,57.988268",
     "geom:latitude":57.976055,
     "geom:longitude":22.104878,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7689
+        "ee-mamt:okood":"7689"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310176289
     ],
     "wof:country":"EE",
     "wof:created":1595459228,
-    "wof:geomhash":"ef7efc1f1d9b89d467e7bd0f00801762",
+    "wof:geomhash":"8cea2445948a199546fc77fa3d634d21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672005,
+    "wof:lastmodified":1695876877,
     "wof:name":"Soodevahe",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4gestiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001901,
-    "geom:area_square_m":12429733.748174,
+    "geom:area_square_m":12429733.748173,
     "geom:bbox":"26.358674,58.058248,26.440698,58.102308",
     "geom:latitude":58.08185,
     "geom:longitude":26.39924,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5219
+        "ee-mamt:okood":"5219"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209380433
     ],
     "wof:country":"EE",
     "wof:created":1595459960,
-    "wof:geomhash":"a9977c98e76155539ca8a8803b606306",
+    "wof:geomhash":"0378c6fec026e37f275bd24a760e4df6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661867,
+    "wof:lastmodified":1695876781,
     "wof:name":"M\u00e4gestiku",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

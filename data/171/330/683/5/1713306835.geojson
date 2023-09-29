@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u00e4rva-Madise K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001365,
-    "geom:area_square_m":8665445.102653,
+    "geom:area_square_m":8665445.102654,
     "geom:bbox":"25.627179,59.103029,25.715505,59.13442",
     "geom:latitude":59.118325,
     "geom:longitude":25.670661,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2343
+        "ee-mamt:okood":"2343"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193137651
     ],
     "wof:country":"EE",
     "wof:created":1595459253,
-    "wof:geomhash":"30fb6f6a60e6ce479299dee42c36e709",
+    "wof:geomhash":"c8f17b33861e147d3042e5f50ad226d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676620,
+    "wof:lastmodified":1695876931,
     "wof:name":"J\u00e4rva-Madise",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

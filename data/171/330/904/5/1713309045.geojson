@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vidruka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005448,
-    "geom:area_square_m":34683287.152431,
+    "geom:area_square_m":34683287.152438,
     "geom:bbox":"23.814512,58.971092,23.95134,59.044423",
     "geom:latitude":59.009563,
     "geom:longitude":23.888171,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9254
+        "ee-mamt:okood":"9254"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226164331
     ],
     "wof:country":"EE",
     "wof:created":1595459792,
-    "wof:geomhash":"0fb6f16cbf193e9d6aebc09a3b071c4d",
+    "wof:geomhash":"08b68598040b2199ffbbec44691af8e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677183,
+    "wof:lastmodified":1695876987,
     "wof:name":"Vidruka",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

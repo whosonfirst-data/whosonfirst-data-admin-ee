@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kulna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000818,
-    "geom:area_square_m":5161167.402796,
+    "geom:area_square_m":5161167.402799,
     "geom:bbox":"24.325611,59.285629,24.400735,59.310816",
     "geom:latitude":59.29978,
     "geom:longitude":24.361815,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3603
+        "ee-mamt:okood":"3603"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259501269
     ],
     "wof:country":"EE",
     "wof:created":1595459517,
-    "wof:geomhash":"1662e44a5fa19008022d34047d41701c",
+    "wof:geomhash":"d7699a8586125ca5b5a35464131419ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663290,
+    "wof:lastmodified":1695876814,
     "wof:name":"Kulna",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

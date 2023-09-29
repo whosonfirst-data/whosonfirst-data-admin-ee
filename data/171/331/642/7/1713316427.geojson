@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pelsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000136,
-    "geom:area_square_m":899415.464209,
+    "geom:area_square_m":899415.464208,
     "geom:bbox":"27.404293,57.716463,27.429927,57.72978",
     "geom:latitude":57.723654,
     "geom:longitude":27.41716,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6094
+        "ee-mamt:okood":"6094"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461425,
-    "wof:geomhash":"128fe8907cf4093b953d03aff3c7a913",
+    "wof:geomhash":"eb85da2cdc78b62cd2d76e6409798b05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663634,
+    "wof:lastmodified":1695876837,
     "wof:name":"Pelsi",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

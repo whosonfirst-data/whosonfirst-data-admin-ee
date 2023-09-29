@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kassivere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001791,
-    "geom:area_square_m":11525776.149647,
+    "geom:area_square_m":11525776.149648,
     "geom:bbox":"26.382785,58.620233,26.45735,58.667215",
     "geom:latitude":58.639698,
     "geom:longitude":26.415643,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2819
+        "ee-mamt:okood":"2819"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242896621
     ],
     "wof:country":"EE",
     "wof:created":1595460955,
-    "wof:geomhash":"5bb9bb9fe9dfff0ef97aab58953aeef4",
+    "wof:geomhash":"5323cf97180e2f6efe97fbd71558b11e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676563,
+    "wof:lastmodified":1695876925,
     "wof:name":"Kassivere",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

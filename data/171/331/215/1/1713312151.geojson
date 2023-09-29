@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4gari K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001897,
-    "geom:area_square_m":12179727.451604,
+    "geom:area_square_m":12179727.451609,
     "geom:bbox":"26.20283,58.691961,26.286654,58.744917",
     "geom:latitude":58.721049,
     "geom:longitude":26.244839,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9612
+        "ee-mamt:okood":"9612"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125957263
     ],
     "wof:country":"EE",
     "wof:created":1595460491,
-    "wof:geomhash":"1188b7e8b31290b1cd9935ecac22da44",
+    "wof:geomhash":"76fa485906e2e8414605b925d5ffce08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676484,
+    "wof:lastmodified":1695876913,
     "wof:name":"V\u00e4gari",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

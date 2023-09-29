@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kukruse Linnaosa",
     "ee-mamt:tyyp":6,
     "geom:area":0.000242,
-    "geom:area_square_m":1522707.498128,
+    "geom:area_square_m":1522707.498129,
     "geom:bbox":"27.332345,59.39165,27.364655,59.407038",
     "geom:latitude":59.39934,
     "geom:longitude":27.348281,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "district"
+        "urban district"
     ],
     "label:est_x_preferred_longname":[
         "Kukruse linnaosa"
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":340
+        "ee-mamt:okood":"340"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459558,
-    "wof:geomhash":"028813948fb6112367317f9bf2f2af7a",
+    "wof:geomhash":"2c30b273498d5983353d9369947afa93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676519,
+    "wof:lastmodified":1695876917,
     "wof:name":"Kukruse",
     "wof:parent_id":1713305653,
     "wof:placetype":"localadmin",

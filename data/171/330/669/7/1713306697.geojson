@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pibari K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002488,
-    "geom:area_square_m":15988952.600853,
+    "geom:area_square_m":15988952.600855,
     "geom:bbox":"25.460726,58.669328,25.565779,58.706982",
     "geom:latitude":58.688928,
     "geom:longitude":25.51818,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6134
+        "ee-mamt:okood":"6134"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1210016899
     ],
     "wof:country":"EE",
     "wof:created":1595459217,
-    "wof:geomhash":"4bb57270f546f31f5267927935e49709",
+    "wof:geomhash":"a3af180f1d62254dbab55ffe99a1c59c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677977,
+    "wof:lastmodified":1695877007,
     "wof:name":"Pibari",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

@@ -14,7 +14,7 @@
     "geom:longitude":24.055547,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Risti alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7011
+        "ee-mamt:okood":"7011"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125850361
     ],
     "wof:country":"EE",
     "wof:created":1595459718,
-    "wof:geomhash":"3c813b19c84d3af65cf0839917d83849",
+    "wof:geomhash":"fbf3d7ceff72b5e87d2d876f3def5eb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677180,
+    "wof:lastmodified":1695876986,
     "wof:name":"Risti",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

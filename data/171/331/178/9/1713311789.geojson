@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ebavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001772,
-    "geom:area_square_m":11248964.807488,
+    "geom:area_square_m":11248964.807486,
     "geom:bbox":"26.200115,59.0966,26.286621,59.139571",
     "geom:latitude":59.114914,
     "geom:longitude":26.238471,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1521
+        "ee-mamt:okood":"1521"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125862977
     ],
     "wof:country":"EE",
     "wof:created":1595460418,
-    "wof:geomhash":"1ecfe17f774be3686a9cf1bc5cc2f1d2",
+    "wof:geomhash":"e73614933d6f28e223d24318ba522184",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676533,
+    "wof:lastmodified":1695876920,
     "wof:name":"Ebavere",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

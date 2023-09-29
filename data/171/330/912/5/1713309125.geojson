@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soo-Otsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000455,
-    "geom:area_square_m":2913473.067059,
+    "geom:area_square_m":2913473.067058,
     "geom:bbox":"23.934812,58.763627,23.964889,58.791933",
     "geom:latitude":58.775817,
     "geom:longitude":23.950456,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7682
+        "ee-mamt:okood":"7682"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343653279
     ],
     "wof:country":"EE",
     "wof:created":1595459814,
-    "wof:geomhash":"de9596d279f28708453d84c5f2ac280b",
+    "wof:geomhash":"f26be56eb80f0c099682218d8ec09b2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677169,
+    "wof:lastmodified":1695876985,
     "wof:name":"Soo-otsa",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

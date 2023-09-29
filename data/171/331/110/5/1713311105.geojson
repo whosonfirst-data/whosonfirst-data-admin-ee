@@ -8,13 +8,13 @@
     "ee-mamt:animi":"M\u00e4rjamaa Alev",
     "ee-mamt:tyyp":3,
     "geom:area":0.000631,
-    "geom:area_square_m":4028094.932132,
+    "geom:area_square_m":4028094.932134,
     "geom:bbox":"24.407075,58.88989,24.45623,58.920212",
     "geom:latitude":58.904768,
     "geom:longitude":24.432646,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "alev"
+        "town"
     ],
     "label:est_x_preferred_longname":[
         "M\u00e4rjamaa alev"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5280
+        "ee-mamt:okood":"5280"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815127
     ],
     "wof:country":"EE",
     "wof:created":1595460266,
-    "wof:geomhash":"2e8f9908bec881026b7f78955f304579",
+    "wof:geomhash":"ea3a09ce08be7703e3f5468d57c4c87b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662808,
+    "wof:lastmodified":1695876800,
     "wof:name":"M\u00e4rjamaa",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

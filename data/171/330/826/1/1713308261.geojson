@@ -8,13 +8,13 @@
     "ee-mamt:animi":"S\u00e4\u00e4se Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000321,
-    "geom:area_square_m":2036530.366261,
+    "geom:area_square_m":2036530.36626,
     "geom:bbox":"26.118929,59.144833,26.146897,59.165241",
     "geom:latitude":59.156447,
     "geom:longitude":26.135458,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "S\u00e4\u00e4se alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7956
+        "ee-mamt:okood":"7956"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936065
     ],
     "wof:country":"EE",
     "wof:created":1595459601,
-    "wof:geomhash":"8ae043896c0785f490e0008d253079cf",
+    "wof:geomhash":"f6ca8a7056e9a349ab259078352cdd01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676593,
+    "wof:lastmodified":1695876928,
     "wof:name":"S\u00e4\u00e4se",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

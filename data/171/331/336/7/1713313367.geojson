@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuimetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.007072,
-    "geom:area_square_m":44999463.216186,
+    "geom:area_square_m":44999463.216203,
     "geom:bbox":"25.091174,58.988459,25.274742,59.069361",
     "geom:latitude":59.028559,
     "geom:longitude":25.173857,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3541
+        "ee-mamt:okood":"3541"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126017661
     ],
     "wof:country":"EE",
     "wof:created":1595460747,
-    "wof:geomhash":"a5d074017bb33ff7a11e46ae38a99fb6",
+    "wof:geomhash":"2061f927e9d12dbf587068988c177911",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676715,
+    "wof:lastmodified":1695876944,
     "wof:name":"Kuimetsa",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

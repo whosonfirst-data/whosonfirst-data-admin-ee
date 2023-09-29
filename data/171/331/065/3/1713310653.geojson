@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sarve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00147,
-    "geom:area_square_m":9405169.286764,
+    "geom:area_square_m":9405169.286785,
     "geom:bbox":"23.01761,58.804159,23.142454,58.858676",
     "geom:latitude":58.836535,
     "geom:longitude":23.058437,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7438
+        "ee-mamt:okood":"7438"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242979609
     ],
     "wof:country":"EE",
     "wof:created":1595460172,
-    "wof:geomhash":"c9e29eaf0b100060826234eebff1d335",
+    "wof:geomhash":"ee5cf3259f751e9be9870b52653ccb33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666479,
+    "wof:lastmodified":1695876861,
     "wof:name":"Sarve",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

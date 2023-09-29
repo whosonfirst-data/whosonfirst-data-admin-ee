@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sesniki K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00178,
-    "geom:area_square_m":11699239.489834,
+    "geom:area_square_m":11699239.489832,
     "geom:bbox":"27.640144,57.885458,27.75276,57.91484",
     "geom:latitude":57.898067,
     "geom:longitude":27.690371,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7553
+        "ee-mamt:okood":"7553"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327314013
     ],
     "wof:country":"EE",
     "wof:created":1595461410,
-    "wof:geomhash":"9469f55236d5a7875acca51d3a94ea8d",
+    "wof:geomhash":"880e20579f62aeaa843edf7de8f3b882",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663635,
+    "wof:lastmodified":1695876837,
     "wof:name":"Sesniki",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

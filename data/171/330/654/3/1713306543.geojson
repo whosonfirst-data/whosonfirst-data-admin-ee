@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Muraja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001833,
-    "geom:area_square_m":11860082.721769,
+    "geom:area_square_m":11860082.721779,
     "geom:bbox":"23.176915,58.420915,23.292988,58.474714",
     "geom:latitude":58.450834,
     "geom:longitude":23.22551,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5034
+        "ee-mamt:okood":"5034"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309876727
     ],
     "wof:country":"EE",
     "wof:created":1595459182,
-    "wof:geomhash":"fa8599abb5e2fe60f8369fa3ebd43373",
+    "wof:geomhash":"46ae972937e9e4af312ff875b5fc481a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671680,
+    "wof:lastmodified":1695876867,
     "wof:name":"Muraja",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

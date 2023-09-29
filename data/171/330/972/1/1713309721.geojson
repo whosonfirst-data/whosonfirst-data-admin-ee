@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koogiste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002758,
-    "geom:area_square_m":17668489.625803,
+    "geom:area_square_m":17668489.625802,
     "geom:bbox":"24.947728,58.770614,25.037165,58.830004",
     "geom:latitude":58.798413,
     "geom:longitude":24.991608,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3391
+        "ee-mamt:okood":"3391"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293863207
     ],
     "wof:country":"EE",
     "wof:created":1595459959,
-    "wof:geomhash":"7b052ada889209d4696fb5acba154c22",
+    "wof:geomhash":"f274e15e231a6fb1f8587322a3669453",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676739,
+    "wof:lastmodified":1695876947,
     "wof:name":"Koogiste",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

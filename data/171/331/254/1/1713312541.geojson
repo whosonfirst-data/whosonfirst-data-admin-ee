@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Neanurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002017,
-    "geom:area_square_m":12981673.536122,
+    "geom:area_square_m":12981673.536124,
     "geom:bbox":"26.094352,58.605494,26.148653,58.660832",
     "geom:latitude":58.63095,
     "geom:longitude":26.120908,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5382
+        "ee-mamt:okood":"5382"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935041
     ],
     "wof:country":"EE",
     "wof:created":1595460566,
-    "wof:geomhash":"356c58b9a18b83d03ed406a81ed35dcd",
+    "wof:geomhash":"c7877ca7502fb44595a8d63488dae87c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676484,
+    "wof:lastmodified":1695876914,
     "wof:name":"Neanurme",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

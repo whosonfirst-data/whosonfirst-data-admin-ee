@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4ljak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000367,
-    "geom:area_square_m":2360691.096356,
+    "geom:area_square_m":2360691.096355,
     "geom:bbox":"27.061713,58.638025,27.097134,58.658021",
     "geom:latitude":58.648244,
     "geom:longitude":27.0784,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9645
+        "ee-mamt:okood":"9645"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327200251
     ],
     "wof:country":"EE",
     "wof:created":1595459957,
-    "wof:geomhash":"443438120fc6897720224f92680340ee",
+    "wof:geomhash":"ddb9f84f9f5f7d23ac0fe8e782c17082",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660868,
+    "wof:lastmodified":1695876739,
     "wof:name":"V\u00e4ljak\u00fcla",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

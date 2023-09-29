@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.383254,
-    "geom:area_square_m":2446609345.041991,
+    "geom:area_square_m":2446609345.041955,
     "geom:bbox":"25.195017,58.606111,26.168805,59.269654",
     "geom:latitude":58.917486,
     "geom:longitude":25.658737,
@@ -375,16 +375,22 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ee-mamt:okood":"51",
         "fips:code":"EN04",
         "gn:id":591961,
         "gp:id":2345279,
         "hasc:id":"EE.JR",
+        "iso:code":"EE-51",
         "iso:id":"EE-51",
         "unlc:id":"EE-51",
         "wd:id":"Q188068"
     },
+    "wof:concordances_official":"ee-mamt:okood",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"c5443db3b425a1b326b7e12a2d19f9cf",
+    "wof:geomhash":"ae43ea14d0283baa5a5e2ae2f911816f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -399,7 +405,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875677,
+    "wof:lastmodified":1695884441,
     "wof:name":"J\u00e4rva",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

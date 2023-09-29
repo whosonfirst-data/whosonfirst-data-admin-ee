@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Utukolga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000408,
-    "geom:area_square_m":2658394.012079,
+    "geom:area_square_m":2658394.012078,
     "geom:bbox":"26.176393,58.228423,26.204474,58.248726",
     "geom:latitude":58.238155,
     "geom:longitude":26.190763,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8750
+        "ee-mamt:okood":"8750"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209290413
     ],
     "wof:country":"EE",
     "wof:created":1595460137,
-    "wof:geomhash":"98c4c0408adaf82754b5ae807e0b0f91",
+    "wof:geomhash":"186b0ac5e6e32509ad89ee332923d466",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661898,
+    "wof:lastmodified":1695876786,
     "wof:name":"Utukolga",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

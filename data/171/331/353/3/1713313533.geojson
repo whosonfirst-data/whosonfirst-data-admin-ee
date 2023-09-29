@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raela K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001695,
-    "geom:area_square_m":10806498.112794,
+    "geom:area_square_m":10806498.112793,
     "geom:bbox":"24.712439,58.928699,24.80328,58.973331",
     "geom:latitude":58.953433,
     "geom:longitude":24.763575,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6719
+        "ee-mamt:okood":"6719"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242850921
     ],
     "wof:country":"EE",
     "wof:created":1595460782,
-    "wof:geomhash":"0f7cd39f2806759900c7d6d601ef3466",
+    "wof:geomhash":"c2c24b7e3005530ddddbdc5ac963cfef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676702,
+    "wof:lastmodified":1695876941,
     "wof:name":"Raela",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

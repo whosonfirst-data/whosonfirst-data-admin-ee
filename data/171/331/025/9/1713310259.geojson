@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kastna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001698,
-    "geom:area_square_m":11021938.250389,
+    "geom:area_square_m":11021938.25038,
     "geom:bbox":"23.853496,58.313566,23.922763,58.361648",
     "geom:latitude":58.33906,
     "geom:longitude":23.890208,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2834
+        "ee-mamt:okood":"2834"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242655753
     ],
     "wof:country":"EE",
     "wof:created":1595460083,
-    "wof:geomhash":"d3bbe599ccd01064ae2555ced5e9cb9f",
+    "wof:geomhash":"b553ae6b734ad0ea41e1027045a62d5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677674,
+    "wof:lastmodified":1695876993,
     "wof:name":"Kastna",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

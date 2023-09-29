@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kahrila-Mustahamba K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000337,
-    "geom:area_square_m":2224859.310608,
+    "geom:area_square_m":2224859.31061,
     "geom:bbox":"26.876415,57.749975,26.911487,57.766038",
     "geom:latitude":57.757545,
     "geom:longitude":26.893448,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2516
+        "ee-mamt:okood":"2516"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461119,
-    "wof:geomhash":"948bff7387c0b1dc8640481cfa6f702c",
+    "wof:geomhash":"c6796e1714b8f84b0ae04a1525ade3fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676811,
+    "wof:lastmodified":1695876954,
     "wof:name":"Kahrila-Mustahamba",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

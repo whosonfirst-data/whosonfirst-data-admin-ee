@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viki K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003792,
-    "geom:area_square_m":24611539.165249,
+    "geom:area_square_m":24611539.165248,
     "geom:bbox":"22.052923,58.304126,22.156937,58.375067",
     "geom:latitude":58.337071,
     "geom:longitude":22.106682,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9315
+        "ee-mamt:okood":"9315"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277059873
     ],
     "wof:country":"EE",
     "wof:created":1595459683,
-    "wof:geomhash":"2ad5116c3d103406c31facdc5441d3c6",
+    "wof:geomhash":"e38bd686b1d1b77e97fa87aa5eb21c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671874,
+    "wof:lastmodified":1695876873,
     "wof:name":"Viki",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

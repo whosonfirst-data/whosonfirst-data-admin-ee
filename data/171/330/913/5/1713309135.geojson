@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Auaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000475,
-    "geom:area_square_m":3022945.736383,
+    "geom:area_square_m":3022945.736384,
     "geom:bbox":"23.733886,58.999106,23.786428,59.014374",
     "geom:latitude":59.006573,
     "geom:longitude":23.758298,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1447
+        "ee-mamt:okood":"1447"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343653309
     ],
     "wof:country":"EE",
     "wof:created":1595459817,
-    "wof:geomhash":"4ab734f71dbe0d072fed2aefd4aed3d0",
+    "wof:geomhash":"424c3a8b862462ad09c0880254530b23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677203,
+    "wof:lastmodified":1695876990,
     "wof:name":"Auaste",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

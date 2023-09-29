@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kihlevere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001661,
-    "geom:area_square_m":10458843.543131,
+    "geom:area_square_m":10458843.543132,
     "geom:bbox":"26.102318,59.361236,26.184651,59.401364",
     "geom:latitude":59.382463,
     "geom:longitude":26.139589,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3017
+        "ee-mamt:okood":"3017"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037573
     ],
     "wof:country":"EE",
     "wof:created":1595460930,
-    "wof:geomhash":"964012abfa5d6947e734f086d6bb7722",
+    "wof:geomhash":"cb072c295d9da668ae87c78cf985ccfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661719,
+    "wof:lastmodified":1695876774,
     "wof:name":"Kihlevere",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

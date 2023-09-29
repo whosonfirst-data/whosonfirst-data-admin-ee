@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viidu-M\u00e4ebe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000482,
-    "geom:area_square_m":3130556.212941,
+    "geom:area_square_m":3130556.212942,
     "geom:bbox":"22.066476,58.300276,22.101247,58.325575",
     "geom:latitude":58.310691,
     "geom:longitude":22.081988,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9276
+        "ee-mamt:okood":"9276"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459677,
-    "wof:geomhash":"d13d6d015d8c05a830e8b04e6a9daf27",
+    "wof:geomhash":"9f96c070a1d07078e6ae3432cb7775c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672591,
+    "wof:lastmodified":1695876901,
     "wof:name":"Viidu-M\u00e4ebe",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

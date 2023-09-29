@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hiietse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000446,
-    "geom:area_square_m":2836514.859577,
+    "geom:area_square_m":2836514.859576,
     "geom:bbox":"24.401227,59.033886,24.436698,59.056961",
     "geom:latitude":59.045678,
     "geom:longitude":24.420978,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1834
+        "ee-mamt:okood":"1834"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242663717
     ],
     "wof:country":"EE",
     "wof:created":1595460780,
-    "wof:geomhash":"d3a2f107198624c20a813065cb7e656a",
+    "wof:geomhash":"624f6a3afc6c01d7635d62e7ba9aa8d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662815,
+    "wof:lastmodified":1695876802,
     "wof:name":"Hiietse",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

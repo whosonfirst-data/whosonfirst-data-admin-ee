@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koikk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002648,
-    "geom:area_square_m":17497394.340272,
+    "geom:area_square_m":17497394.340276,
     "geom:bbox":"26.245974,57.666061,26.348534,57.715405",
     "geom:latitude":57.693081,
     "geom:longitude":26.296226,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3289
+        "ee-mamt:okood":"3289"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037607
     ],
     "wof:country":"EE",
     "wof:created":1595460750,
-    "wof:geomhash":"d327f85e06566241bd8789d75b4c0938",
+    "wof:geomhash":"63e3e7cfea20ae9e543f62464e98bd5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661943,
+    "wof:lastmodified":1695876791,
     "wof:name":"Koikk\u00fcla",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

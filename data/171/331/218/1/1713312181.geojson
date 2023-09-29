@@ -14,7 +14,7 @@
     "geom:longitude":26.348333,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Siimusti alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7573
+        "ee-mamt:okood":"7573"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037829
     ],
     "wof:country":"EE",
     "wof:created":1595460495,
-    "wof:geomhash":"e225ac37de130e83f2ed813fd71d5da3",
+    "wof:geomhash":"59a92ebac9b3e4acf1d466ebdfa65419",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676553,
+    "wof:lastmodified":1695876921,
     "wof:name":"Siimusti",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

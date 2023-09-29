@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kadapiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001169,
-    "geom:area_square_m":7368622.1554,
+    "geom:area_square_m":7368622.155401,
     "geom:bbox":"26.093,59.338478,26.182156,59.365347",
     "geom:latitude":59.351992,
     "geom:longitude":26.139486,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2476
+        "ee-mamt:okood":"2476"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126057021
     ],
     "wof:country":"EE",
     "wof:created":1595459075,
-    "wof:geomhash":"c98c4b542af941164868db8199d77ca1",
+    "wof:geomhash":"da9b5975896067d0f46df2d9307aaf5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661721,
+    "wof:lastmodified":1695876774,
     "wof:name":"Kadapiku",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

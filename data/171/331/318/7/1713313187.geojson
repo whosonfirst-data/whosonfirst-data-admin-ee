@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suuresta K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001953,
-    "geom:area_square_m":12323725.615029,
+    "geom:area_square_m":12323725.615031,
     "geom:bbox":"24.944774,59.287523,25.051436,59.324173",
     "geom:latitude":59.306793,
     "geom:longitude":24.993289,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7852
+        "ee-mamt:okood":"7852"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209519457
     ],
     "wof:country":"EE",
     "wof:created":1595460708,
-    "wof:geomhash":"b15520587e7b8dfdaef65fc63f36cfd3",
+    "wof:geomhash":"fd25d623c6f82365299b9f9fb771821a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661468,
+    "wof:lastmodified":1695876761,
     "wof:name":"Suuresta",
     "wof:parent_id":1713305683,
     "wof:placetype":"localadmin",

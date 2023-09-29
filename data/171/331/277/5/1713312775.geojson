@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Meleski K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002208,
-    "geom:area_square_m":14292954.640956,
+    "geom:area_square_m":14292954.640957,
     "geom:bbox":"26.07395,58.408292,26.163996,58.465102",
     "geom:latitude":58.439976,
     "geom:longitude":26.109413,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4865
+        "ee-mamt:okood":"4865"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037697
     ],
     "wof:country":"EE",
     "wof:created":1595460619,
-    "wof:geomhash":"8aa8e8f049df9d37218b0ca52931905c",
+    "wof:geomhash":"dbc2aee49c95361da8334a1a40995e02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661212,
+    "wof:lastmodified":1695876745,
     "wof:name":"Meleski",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

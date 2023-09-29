@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Jootme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001942,
-    "geom:area_square_m":12290749.979473,
+    "geom:area_square_m":12290749.979472,
     "geom:bbox":"25.864956,59.19887,25.967088,59.251631",
     "geom:latitude":59.219185,
     "geom:longitude":25.918234,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2199
+        "ee-mamt:okood":"2199"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125955243
     ],
     "wof:country":"EE",
     "wof:created":1595459697,
-    "wof:geomhash":"09438bd50f2fba58c0fdbf3d4b6b7f8d",
+    "wof:geomhash":"0e5c7a9ea2e6b6a5428ac558b2b5fcbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676595,
+    "wof:lastmodified":1695876928,
     "wof:name":"Jootme",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

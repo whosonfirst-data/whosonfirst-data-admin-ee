@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saue K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0005,
-    "geom:area_square_m":3158589.268685,
+    "geom:area_square_m":3158589.268684,
     "geom:bbox":"24.563941,59.292799,24.612117,59.312241",
     "geom:latitude":59.30166,
     "geom:longitude":24.585234,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2652
+        "ee-mamt:okood":"2652"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460704,
-    "wof:geomhash":"7285b896693fea2586fefb16ed457312",
+    "wof:geomhash":"2861307b1776d2edb820711c3a797d64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661502,
+    "wof:lastmodified":1695876763,
     "wof:name":"Saue",
     "wof:parent_id":1713305685,
     "wof:placetype":"localadmin",

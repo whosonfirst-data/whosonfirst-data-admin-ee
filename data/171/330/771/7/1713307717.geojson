@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kersalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000492,
-    "geom:area_square_m":3103228.220509,
+    "geom:area_square_m":3103228.220507,
     "geom:bbox":"24.164341,59.328867,24.223937,59.345747",
     "geom:latitude":59.337901,
     "geom:longitude":24.191526,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2978
+        "ee-mamt:okood":"2978"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126034357
     ],
     "wof:country":"EE",
     "wof:created":1595459470,
-    "wof:geomhash":"79e20822d222a3ec169c2d4d3c70310d",
+    "wof:geomhash":"fd780aaf434ac1695130bf7e3e7a5267",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663297,
+    "wof:lastmodified":1695876816,
     "wof:name":"Kersalu",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

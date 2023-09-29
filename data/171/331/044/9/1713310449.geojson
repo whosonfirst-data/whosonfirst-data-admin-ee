@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vallapalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000377,
-    "geom:area_square_m":2455245.278518,
+    "geom:area_square_m":2455245.278519,
     "geom:bbox":"26.15676,58.23012,26.18435,58.254981",
     "geom:latitude":58.243724,
     "geom:longitude":26.171707,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8959
+        "ee-mamt:okood":"8959"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226218359
     ],
     "wof:country":"EE",
     "wof:created":1595460123,
-    "wof:geomhash":"b800c8ec7e8982d8921e5da932d00bd1",
+    "wof:geomhash":"81c0ea53da4065bcc01e8580317d698c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661895,
+    "wof:lastmodified":1695876785,
     "wof:name":"Vallapalu",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

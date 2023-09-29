@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rimmu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001108,
-    "geom:area_square_m":7204754.132872,
+    "geom:area_square_m":7204754.132873,
     "geom:bbox":"25.360301,58.262754,25.439862,58.288093",
     "geom:latitude":58.276073,
     "geom:longitude":25.401241,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7002
+        "ee-mamt:okood":"7002"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226404217
     ],
     "wof:country":"EE",
     "wof:created":1595460954,
-    "wof:geomhash":"b815eed5b583d8886d55471120db4eb5",
+    "wof:geomhash":"9940c923a2d69192934b58a69216d297",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661294,
+    "wof:lastmodified":1695876752,
     "wof:name":"Rimmu",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

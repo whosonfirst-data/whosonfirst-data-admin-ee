@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Metsapere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000206,
-    "geom:area_square_m":1320108.322172,
+    "geom:area_square_m":1320108.322171,
     "geom:bbox":"22.484863,58.791395,22.52085,58.801272",
     "geom:latitude":58.797181,
     "geom:longitude":22.50096,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4910
+        "ee-mamt:okood":"4910"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327444419
     ],
     "wof:country":"EE",
     "wof:created":1595460202,
-    "wof:geomhash":"d263dcce72098a1f438d5420981bfdf1",
+    "wof:geomhash":"a2644901f9db24e2a5cf01437ee2ca71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666421,
+    "wof:lastmodified":1695876857,
     "wof:name":"Metsapere",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

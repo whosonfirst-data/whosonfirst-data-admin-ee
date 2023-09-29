@@ -8,7 +8,7 @@
     "ee-mamt:animi":"\u00c4rik\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005658,
-    "geom:area_square_m":37032950.805867,
+    "geom:area_square_m":37032950.805869,
     "geom:bbox":"25.499753,58.006813,25.62565,58.082664",
     "geom:latitude":58.042544,
     "geom:longitude":25.56504,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9780
+        "ee-mamt:okood":"9780"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125858115
     ],
     "wof:country":"EE",
     "wof:created":1595461000,
-    "wof:geomhash":"b0aa7f512f9d3b4d5d8d48a848025fb6",
+    "wof:geomhash":"a56064810e222e570b7c643b13b82a51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661293,
+    "wof:lastmodified":1695876752,
     "wof:name":"\u00c4rik\u00fcla",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

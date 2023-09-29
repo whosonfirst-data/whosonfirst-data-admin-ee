@@ -8,7 +8,7 @@
     "ee-mamt:animi":"H\u0151beda K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001055,
-    "geom:area_square_m":6794822.167689,
+    "geom:area_square_m":6794822.16769,
     "geom:bbox":"24.207674,58.594058,24.273195,58.624722",
     "geom:latitude":58.609944,
     "geom:longitude":24.24485,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1921
+        "ee-mamt:okood":"1921"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327215101
     ],
     "wof:country":"EE",
     "wof:created":1595460972,
-    "wof:geomhash":"c0d11634207ea0b2eb7e9afb47e7b062",
+    "wof:geomhash":"ecfaf5179fc1fd5403a28caba15bd3d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661570,
+    "wof:lastmodified":1695876764,
     "wof:name":"H\u0151beda",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valasti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00312,
-    "geom:area_square_m":19838635.744153,
+    "geom:area_square_m":19838635.744151,
     "geom:bbox":"25.717398,59.028698,25.805986,59.076748",
     "geom:latitude":59.053169,
     "geom:longitude":25.765707,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8917
+        "ee-mamt:okood":"8917"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243369461
     ],
     "wof:country":"EE",
     "wof:created":1595459584,
-    "wof:geomhash":"bd7d089e48ce64bcb7d93a793b446f7f",
+    "wof:geomhash":"86432b65b4e9a64d050c0e004a849db0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661324,
+    "wof:lastmodified":1695876753,
     "wof:name":"Valasti",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

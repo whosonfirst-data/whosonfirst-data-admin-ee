@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tamba K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001875,
-    "geom:area_square_m":12115680.832581,
+    "geom:area_square_m":12115680.832577,
     "geom:bbox":"23.661539,58.476929,23.778408,58.51007",
     "geom:latitude":58.495178,
     "geom:longitude":23.730416,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8088
+        "ee-mamt:okood":"8088"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326911649
     ],
     "wof:country":"EE",
     "wof:created":1595459890,
-    "wof:geomhash":"695cbca31af97537fecc855e1865b34c",
+    "wof:geomhash":"14d260dc5968a0117ee01182ce04903a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661649,
+    "wof:lastmodified":1695876772,
     "wof:name":"Tamba",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

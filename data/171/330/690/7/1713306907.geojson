@@ -8,13 +8,13 @@
     "ee-mamt:animi":"K\u00e4ravete Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000196,
-    "geom:area_square_m":1239239.335577,
+    "geom:area_square_m":1239239.335576,
     "geom:bbox":"25.744133,59.185457,25.781588,59.194282",
     "geom:latitude":59.189904,
     "geom:longitude":25.760575,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "K\u00e4ravete alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3886
+        "ee-mamt:okood":"3886"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126039019
     ],
     "wof:country":"EE",
     "wof:created":1595459273,
-    "wof:geomhash":"ac5dfcf03d2c2d650eda1615d23f16cf",
+    "wof:geomhash":"1ff9cfbd5db26f4ca6edf488ed6cfd5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676624,
+    "wof:lastmodified":1695876932,
     "wof:name":"K\u00e4ravete",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

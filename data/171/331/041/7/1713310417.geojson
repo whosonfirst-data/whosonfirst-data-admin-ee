@@ -8,13 +8,13 @@
     "ee-mamt:animi":"K\u00e4rdla Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.000708,
-    "geom:area_square_m":4507317.788842,
+    "geom:area_square_m":4507317.788843,
     "geom:bbox":"22.719259,58.979613,22.764374,59.010366",
     "geom:latitude":58.996201,
     "geom:longitude":22.744133,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "K\u00e4rdla linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3895
+        "ee-mamt:okood":"3895"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815093
     ],
     "wof:country":"EE",
     "wof:created":1595460116,
-    "wof:geomhash":"239c2b1d3139f11474402e06fa860ed1",
+    "wof:geomhash":"7adce73ea2fc59c7de603a99cb580f06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666366,
+    "wof:lastmodified":1695876853,
     "wof:name":"K\u00e4rdla",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

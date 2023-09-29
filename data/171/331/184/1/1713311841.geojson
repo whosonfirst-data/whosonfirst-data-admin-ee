@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mehide K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000901,
-    "geom:area_square_m":5693083.90214,
+    "geom:area_square_m":5693083.902139,
     "geom:bbox":"26.978163,59.263323,27.02872,59.299891",
     "geom:latitude":59.28323,
     "geom:longitude":26.999739,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4857
+        "ee-mamt:okood":"4857"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193277493
     ],
     "wof:country":"EE",
     "wof:created":1595460428,
-    "wof:geomhash":"abf6a58f7b0dffb3484e12451f482886",
+    "wof:geomhash":"ee7e3c4edff89038765e7a28b399984e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660782,
+    "wof:lastmodified":1695876735,
     "wof:name":"Mehide",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

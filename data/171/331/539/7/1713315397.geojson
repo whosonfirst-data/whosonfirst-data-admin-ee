@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Simula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000244,
-    "geom:area_square_m":1613065.12774,
+    "geom:area_square_m":1613065.127741,
     "geom:bbox":"27.027509,57.737273,27.06651,57.746077",
     "geom:latitude":57.741684,
     "geom:longitude":27.047052,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7599
+        "ee-mamt:okood":"7599"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461204,
-    "wof:geomhash":"989e2b323a9a1003b83e10e9b274f356",
+    "wof:geomhash":"0407c5001cc3eebe4c3f3b85b2281dd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676845,
+    "wof:lastmodified":1695876964,
     "wof:name":"Simula",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Arukse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001994,
-    "geom:area_square_m":12687116.37333,
+    "geom:area_square_m":12687116.373329,
     "geom:bbox":"26.616688,59.013272,26.70297,59.058279",
     "geom:latitude":59.034353,
     "geom:longitude":26.657016,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1370
+        "ee-mamt:okood":"1370"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293120727
     ],
     "wof:country":"EE",
     "wof:created":1595459508,
-    "wof:geomhash":"61d86d431d8288c123d6924000e17a65",
+    "wof:geomhash":"de25e61ab0e5bad7dfc3d713093343db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677947,
+    "wof:lastmodified":1695877003,
     "wof:name":"Arukse",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

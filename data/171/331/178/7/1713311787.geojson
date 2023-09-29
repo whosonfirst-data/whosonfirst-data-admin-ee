@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aburi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001415,
-    "geom:area_square_m":8959815.538839,
+    "geom:area_square_m":8959815.53884,
     "geom:bbox":"26.217018,59.171728,26.301023,59.200571",
     "geom:latitude":59.18672,
     "geom:longitude":26.263172,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1069
+        "ee-mamt:okood":"1069"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293120703
     ],
     "wof:country":"EE",
     "wof:created":1595460417,
-    "wof:geomhash":"d176f87d37cc7e3b206d304983a10a2a",
+    "wof:geomhash":"e3720acbcd4fef55658bcaf15235e1df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676533,
+    "wof:lastmodified":1695876920,
     "wof:name":"Aburi",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

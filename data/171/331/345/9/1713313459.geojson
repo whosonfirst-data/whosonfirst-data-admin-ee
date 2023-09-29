@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Parika K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004309,
-    "geom:area_square_m":27855662.780336,
+    "geom:area_square_m":27855662.780335,
     "geom:bbox":"25.766461,58.447588,25.888333,58.526192",
     "geom:latitude":58.480523,
     "geom:longitude":25.828805,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6007
+        "ee-mamt:okood":"6007"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343822755
     ],
     "wof:country":"EE",
     "wof:created":1595460766,
-    "wof:geomhash":"1c6ee113f4f08a8f2f17367c294f33b4",
+    "wof:geomhash":"af6a6a8566304aed238679532fa74cc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661217,
+    "wof:lastmodified":1695876745,
     "wof:name":"Parika",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

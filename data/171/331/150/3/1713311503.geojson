@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00fc\u00fcriku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000853,
-    "geom:area_square_m":5413094.729197,
+    "geom:area_square_m":5413094.729198,
     "geom:bbox":"26.256682,59.118088,26.30504,59.146701",
     "geom:latitude":59.131549,
     "geom:longitude":26.280914,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5320
+        "ee-mamt:okood":"5320"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310487307
     ],
     "wof:country":"EE",
     "wof:created":1595460354,
-    "wof:geomhash":"28739e0d354c0270f7b69cc5db7a42e8",
+    "wof:geomhash":"db3e2141f2809ecb072014cee7dcd5a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676526,
+    "wof:lastmodified":1695876918,
     "wof:name":"M\u00fc\u00fcriku",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

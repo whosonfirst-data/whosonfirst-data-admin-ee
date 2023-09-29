@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vardi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002334,
-    "geom:area_square_m":15165536.919869,
+    "geom:area_square_m":15165536.919865,
     "geom:bbox":"25.475142,58.271841,25.56328,58.321585",
     "geom:latitude":58.297129,
     "geom:longitude":25.514195,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9068
+        "ee-mamt:okood":"9068"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125830973
     ],
     "wof:country":"EE",
     "wof:created":1595460948,
-    "wof:geomhash":"7ab20c91b1fccb36315ba532601ddd8c",
+    "wof:geomhash":"50cdf4a9caef0d655cc9293dc1ef0746",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661217,
+    "wof:lastmodified":1695876745,
     "wof:name":"Vardi",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

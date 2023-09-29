@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vedu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002337,
-    "geom:area_square_m":15100047.494726,
+    "geom:area_square_m":15100047.494723,
     "geom:bbox":"26.728439,58.482472,26.822943,58.524713",
     "geom:latitude":58.502442,
     "geom:longitude":26.772526,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9161
+        "ee-mamt:okood":"9161"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037967
     ],
     "wof:country":"EE",
     "wof:created":1595460604,
-    "wof:geomhash":"eb36e7f78d66830650cad4edc5437692",
+    "wof:geomhash":"231b1da4063b01fb606a397a2c66c6bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676450,
+    "wof:lastmodified":1695876909,
     "wof:name":"Vedu",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

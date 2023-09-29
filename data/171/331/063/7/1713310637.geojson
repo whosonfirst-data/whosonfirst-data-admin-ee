@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hausma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000766,
-    "geom:area_square_m":4880848.24267,
+    "geom:area_square_m":4880848.242668,
     "geom:bbox":"22.757597,58.980233,22.821398,59.004778",
     "geom:latitude":58.993616,
     "geom:longitude":22.78642,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1787
+        "ee-mamt:okood":"1787"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209223519
     ],
     "wof:country":"EE",
     "wof:created":1595460168,
-    "wof:geomhash":"a4bd3ed1f19e53809fe44200c0416769",
+    "wof:geomhash":"9b44a2c1b92653ed9b9ecce47d936541",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666419,
+    "wof:lastmodified":1695876857,
     "wof:name":"Hausma",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

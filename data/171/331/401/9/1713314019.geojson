@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rahinge K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002384,
-    "geom:area_square_m":15452697.58895,
+    "geom:area_square_m":15452697.588949,
     "geom:bbox":"26.568933,58.362715,26.652947,58.412735",
     "geom:latitude":58.38535,
     "geom:longitude":26.611431,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6724
+        "ee-mamt:okood":"6724"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037801
     ],
     "wof:country":"EE",
     "wof:created":1595460885,
-    "wof:geomhash":"e91611c7afb247dbcbdbdbe7084b4f0f",
+    "wof:geomhash":"6a0ff89c257ccab9899b327bdeb20a97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661168,
+    "wof:lastmodified":1695876743,
     "wof:name":"Rahinge",
     "wof:parent_id":1713305675,
     "wof:placetype":"localadmin",

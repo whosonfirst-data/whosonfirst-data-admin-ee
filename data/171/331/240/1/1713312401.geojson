@@ -8,7 +8,7 @@
     "ee-mamt:animi":"R\u00e4\u00e4gu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002324,
-    "geom:area_square_m":15026556.174364,
+    "geom:area_square_m":15026556.174365,
     "geom:bbox":"24.524278,58.449514,24.645306,58.489375",
     "geom:latitude":58.47436,
     "geom:longitude":24.576831,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7237
+        "ee-mamt:okood":"7237"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310193507
     ],
     "wof:country":"EE",
     "wof:created":1595460537,
-    "wof:geomhash":"6285aecfb60a65c62a912d9a1c3d2b9d",
+    "wof:geomhash":"15281be9b33a4a460f493c6d4d07b043",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663370,
+    "wof:lastmodified":1695876818,
     "wof:name":"R\u00e4\u00e4gu",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

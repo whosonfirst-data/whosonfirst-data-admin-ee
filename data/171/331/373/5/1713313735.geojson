@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Puhkova K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001779,
-    "geom:area_square_m":11192583.898313,
+    "geom:area_square_m":11192583.898316,
     "geom:bbox":"27.965278,59.390811,28.063032,59.45015",
     "geom:latitude":59.419408,
     "geom:longitude":28.012099,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6396
+        "ee-mamt:okood":"6396"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327136035
     ],
     "wof:country":"EE",
     "wof:created":1595460824,
-    "wof:geomhash":"6c651e3b61d837819d206ef84cbba90a",
+    "wof:geomhash":"963cb6c2de7afab7e29156afd0837e1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677761,
+    "wof:lastmodified":1695876999,
     "wof:name":"Puhkova",
     "wof:parent_id":1713305779,
     "wof:placetype":"localadmin",

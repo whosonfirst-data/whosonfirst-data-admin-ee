@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Arussaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001726,
-    "geom:area_square_m":11104812.945961,
+    "geom:area_square_m":11104812.945958,
     "geom:bbox":"25.652617,58.598188,25.706525,58.671645",
     "geom:latitude":58.637976,
     "geom:longitude":25.674939,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1386
+        "ee-mamt:okood":"1386"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226724459
     ],
     "wof:country":"EE",
     "wof:created":1595460403,
-    "wof:geomhash":"844f95892d3484c3d97ee6ce30b3231e",
+    "wof:geomhash":"1872a35fc59c34fa8b06f7992b5354aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663437,
+    "wof:lastmodified":1695876828,
     "wof:name":"Arussaare",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

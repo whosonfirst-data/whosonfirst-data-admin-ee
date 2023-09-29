@@ -8,7 +8,7 @@
     "ee-mamt:animi":"R\u00e4\u00e4ski K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000197,
-    "geom:area_square_m":1261600.360207,
+    "geom:area_square_m":1261600.360206,
     "geom:bbox":"24.368499,58.726091,24.41112,58.734769",
     "geom:latitude":58.730199,
     "geom:longitude":24.38926,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7248
+        "ee-mamt:okood":"7248"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460322,
-    "wof:geomhash":"070604cdf37b16a4a3b7dc1c0970997f",
+    "wof:geomhash":"ff3906b73f61b19356e8a775a8dc371b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662817,
+    "wof:lastmodified":1695876802,
     "wof:name":"R\u00e4\u00e4ski",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

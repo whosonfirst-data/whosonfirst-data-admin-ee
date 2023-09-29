@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lokuta K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002567,
-    "geom:area_square_m":16437874.121546,
+    "geom:area_square_m":16437874.121553,
     "geom:bbox":"25.320504,58.793052,25.417049,58.845534",
     "geom:latitude":58.81592,
     "geom:longitude":25.367936,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4477
+        "ee-mamt:okood":"4477"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125955815
     ],
     "wof:country":"EE",
     "wof:created":1595461323,
-    "wof:geomhash":"f1915cf0ab343462b19ca0fe5b1c5312",
+    "wof:geomhash":"c47d01a03c31b378d9bc8c0e4f62770c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677980,
+    "wof:lastmodified":1695877008,
     "wof:name":"Lokuta",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

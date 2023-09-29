@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Varnja Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000469,
-    "geom:area_square_m":3034034.386672,
+    "geom:area_square_m":3034034.386677,
     "geom:bbox":"27.217325,58.471505,27.246826,58.503876",
     "geom:latitude":58.490571,
     "geom:longitude":27.234376,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Varnja alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9090
+        "ee-mamt:okood":"9090"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126017807
     ],
     "wof:country":"EE",
     "wof:created":1595459821,
-    "wof:geomhash":"7a15780d00e7d18a28c1e2b9be08dcb1",
+    "wof:geomhash":"538e9e53e2955eec82b112333efd1e51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660869,
+    "wof:lastmodified":1695876739,
     "wof:name":"Varnja",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"R\u00e4pina Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.00058,
-    "geom:area_square_m":3786846.380667,
+    "geom:area_square_m":3786846.380666,
     "geom:bbox":"27.438385,58.088083,27.479917,58.111842",
     "geom:latitude":58.099819,
     "geom:longitude":27.458575,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "R\u00e4pina linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7216
+        "ee-mamt:okood":"7216"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815069
     ],
     "wof:country":"EE",
     "wof:created":1595460217,
-    "wof:geomhash":"7176bc7ed790808d43170530d3d6be87",
+    "wof:geomhash":"9e6fb29543dc24cd68c60395c2e583b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676982,
+    "wof:lastmodified":1695876977,
     "wof:name":"R\u00e4pina",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Liguri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000607,
-    "geom:area_square_m":4021956.414021,
+    "geom:area_square_m":4021956.414022,
     "geom:bbox":"26.771209,57.581554,26.818046,57.610903",
     "geom:latitude":57.593313,
     "geom:longitude":26.795676,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4324
+        "ee-mamt:okood":"4324"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326795013
     ],
     "wof:country":"EE",
     "wof:created":1595461324,
-    "wof:geomhash":"f2e47c8d62ec67e9389ebb287362ad88",
+    "wof:geomhash":"ee93e6af0160531d314ad6e8c0cb716e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676855,
+    "wof:lastmodified":1695876967,
     "wof:name":"Liguri",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Heisri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002491,
-    "geom:area_square_m":16309639.374876,
+    "geom:area_square_m":16309639.374878,
     "geom:bbox":"26.749318,58.005953,26.866159,58.045501",
     "geom:latitude":58.028816,
     "geom:longitude":26.800874,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1799
+        "ee-mamt:okood":"1799"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226219619
     ],
     "wof:country":"EE",
     "wof:created":1595459979,
-    "wof:geomhash":"171667a9d8b362608c5e32a723a9973b",
+    "wof:geomhash":"5339f9968003f199a3d3803b57fde893",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676780,
+    "wof:lastmodified":1695876951,
     "wof:name":"Heisri",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

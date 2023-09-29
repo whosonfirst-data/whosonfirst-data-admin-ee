@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Metsiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000496,
-    "geom:area_square_m":3111291.461841,
+    "geom:area_square_m":3111291.461842,
     "geom:bbox":"26.118114,59.482723,26.172572,59.500917",
     "geom:latitude":59.491937,
     "geom:longitude":26.144481,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4918
+        "ee-mamt:okood":"4918"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243444999
     ],
     "wof:country":"EE",
     "wof:created":1595459564,
-    "wof:geomhash":"48234d7f04aed0c99d137a629a7248d1",
+    "wof:geomhash":"d1d8565d8e0745e268f38ab2d975e6ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678021,
+    "wof:lastmodified":1695877010,
     "wof:name":"Metsiku",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

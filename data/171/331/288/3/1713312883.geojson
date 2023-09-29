@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Essu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001386,
-    "geom:area_square_m":8713198.884137,
+    "geom:area_square_m":8713198.884136,
     "geom:bbox":"26.333523,59.413481,26.395715,59.460136",
     "geom:latitude":59.437528,
     "geom:longitude":26.366787,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1661
+        "ee-mamt:okood":"1661"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125800785
     ],
     "wof:country":"EE",
     "wof:created":1595460642,
-    "wof:geomhash":"2dd77372346f76a29f4421a41ae707be",
+    "wof:geomhash":"8c7e06920803e290667f0b2a1f7e13a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678036,
+    "wof:lastmodified":1695877013,
     "wof:name":"Essu",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

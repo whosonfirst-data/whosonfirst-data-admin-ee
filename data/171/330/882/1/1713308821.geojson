@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Emmaste-Selja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000111,
-    "geom:area_square_m":710820.098313,
+    "geom:area_square_m":710820.098312,
     "geom:bbox":"22.50601,58.761461,22.526236,58.773479",
     "geom:latitude":58.766762,
     "geom:longitude":22.514679,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1588
+        "ee-mamt:okood":"1588"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459741,
-    "wof:geomhash":"d228ad71bd216ec5cc756b83c00aae44",
+    "wof:geomhash":"071277c2d7e40c276599c785a5a6c151",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666495,
+    "wof:lastmodified":1695876863,
     "wof:name":"Emmaste-Selja",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

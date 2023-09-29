@@ -8,7 +8,7 @@
     "ee-mamt:animi":"H\u0151bem\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002788,
-    "geom:area_square_m":18172710.518021,
+    "geom:area_square_m":18172710.518016,
     "geom:bbox":"25.386962,58.157215,25.474919,58.218722",
     "geom:latitude":58.188609,
     "geom:longitude":25.432856,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1926
+        "ee-mamt:okood":"1926"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260350693
     ],
     "wof:country":"EE",
     "wof:created":1595460390,
-    "wof:geomhash":"8564d1d962ef869faa434ceef6bed499",
+    "wof:geomhash":"f4e4cce8a1954d6d7ff1591994a72088",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661285,
+    "wof:lastmodified":1695876750,
     "wof:name":"H\u0151bem\u00e4e",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

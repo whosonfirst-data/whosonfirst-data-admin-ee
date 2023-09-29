@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Audla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000801,
-    "geom:area_square_m":5180106.723566,
+    "geom:area_square_m":5180106.723568,
     "geom:bbox":"23.026099,58.45477,23.090841,58.488038",
     "geom:latitude":58.472083,
     "geom:longitude":23.056291,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1455
+        "ee-mamt:okood":"1455"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243337249
     ],
     "wof:country":"EE",
     "wof:created":1595459433,
-    "wof:geomhash":"3f2eb96d718d279d7dbb27013b7719dc",
+    "wof:geomhash":"0132f28fc53dc2269e771fc016c2fd8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671622,
+    "wof:lastmodified":1695876865,
     "wof:name":"Audla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

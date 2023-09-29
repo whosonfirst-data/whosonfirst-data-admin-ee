@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pinska K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001212,
-    "geom:area_square_m":7863466.291373,
+    "geom:area_square_m":7863466.291375,
     "geom:bbox":"25.499116,58.341541,25.563108,58.37044",
     "geom:latitude":58.357224,
     "geom:longitude":25.532723,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6271
+        "ee-mamt:okood":"6271"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935475
     ],
     "wof:country":"EE",
     "wof:created":1595460782,
-    "wof:geomhash":"3fe7b60abdf0628c9c29c93a3ee990af",
+    "wof:geomhash":"be4891521c4c3ea9b1134b8b4a4b4ced",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661213,
+    "wof:lastmodified":1695876745,
     "wof:name":"Pinska",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

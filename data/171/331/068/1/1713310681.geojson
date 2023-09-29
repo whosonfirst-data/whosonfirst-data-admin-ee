@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hilleste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000734,
-    "geom:area_square_m":4693035.633625,
+    "geom:area_square_m":4693035.633626,
     "geom:bbox":"22.959363,58.864957,22.998473,58.903286",
     "geom:latitude":58.883386,
     "geom:longitude":22.978318,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1841
+        "ee-mamt:okood":"1841"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310207881
     ],
     "wof:country":"EE",
     "wof:created":1595460178,
-    "wof:geomhash":"78605a8c2c627e1060809dc6128af744",
+    "wof:geomhash":"4d6a08b591cf94802cced3505797285c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666385,
+    "wof:lastmodified":1695876854,
     "wof:name":"Hilleste",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"L\u00e4hte Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000182,
-    "geom:area_square_m":1174515.436575,
+    "geom:area_square_m":1174515.436574,
     "geom:bbox":"26.668854,58.487714,26.690296,58.503389",
     "geom:latitude":58.495448,
     "geom:longitude":26.680286,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "L\u00e4hte alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4629
+        "ee-mamt:okood":"4629"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890381
     ],
     "wof:country":"EE",
     "wof:created":1595459767,
-    "wof:geomhash":"22bf857a51f6185ef4413721da78e697",
+    "wof:geomhash":"fc5344262b86263de2513bf7003fd738",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676459,
+    "wof:lastmodified":1695876911,
     "wof:name":"L\u00e4hte",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Salum\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000686,
-    "geom:area_square_m":4320947.948085,
+    "geom:area_square_m":4320947.948086,
     "geom:bbox":"25.188316,59.361406,25.250541,59.384151",
     "geom:latitude":59.3711,
     "geom:longitude":25.21879,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7398
+        "ee-mamt:okood":"7398"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293798001
     ],
     "wof:country":"EE",
     "wof:created":1595459305,
-    "wof:geomhash":"c89f63a1de2b4971c67ee1274747fa88",
+    "wof:geomhash":"5fafbf6ae1d6edf671d444c0e0b2c671",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662794,
+    "wof:lastmodified":1695876799,
     "wof:name":"Salum\u00e4e",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

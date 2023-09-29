@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ainja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.006184,
-    "geom:area_square_m":40454242.963198,
+    "geom:area_square_m":40454242.963205,
     "geom:bbox":"25.577574,58.023445,25.754271,58.098559",
     "geom:latitude":58.060386,
     "geom:longitude":25.661133,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1149
+        "ee-mamt:okood":"1149"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326504619
     ],
     "wof:country":"EE",
     "wof:created":1595460576,
-    "wof:geomhash":"fdf7e966b60899603959578077c80a04",
+    "wof:geomhash":"6cd911572f7a4bbc0b6625a7903f52ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661282,
+    "wof:lastmodified":1695876749,
     "wof:name":"Ainja",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

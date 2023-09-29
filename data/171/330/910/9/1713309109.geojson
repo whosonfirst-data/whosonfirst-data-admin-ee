@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laeva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002563,
-    "geom:area_square_m":16563482.53392,
+    "geom:area_square_m":16563482.533916,
     "geom:bbox":"26.345651,58.465821,26.423334,58.517504",
     "geom:latitude":58.490647,
     "geom:longitude":26.382643,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4040
+        "ee-mamt:okood":"4040"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125934681
     ],
     "wof:country":"EE",
     "wof:created":1595459811,
-    "wof:geomhash":"f826c84fe28c30b9267714edea1ef425",
+    "wof:geomhash":"2b689d1def8c40de7f6d5a05727c966c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676458,
+    "wof:lastmodified":1695876911,
     "wof:name":"Laeva",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

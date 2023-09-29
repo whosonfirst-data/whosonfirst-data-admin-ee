@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valguta K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000753,
-    "geom:area_square_m":4907821.138757,
+    "geom:area_square_m":4907821.138756,
     "geom:bbox":"26.19531,58.176559,26.244262,58.200203",
     "geom:latitude":58.189354,
     "geom:longitude":26.217311,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8941
+        "ee-mamt:okood":"8941"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125915215
     ],
     "wof:country":"EE",
     "wof:created":1595460123,
-    "wof:geomhash":"341207c4562aa6fc13793b3bd2debb90",
+    "wof:geomhash":"4e1b43b4732050252f42bfdb949bb0b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661888,
+    "wof:lastmodified":1695876783,
     "wof:name":"Valguta",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

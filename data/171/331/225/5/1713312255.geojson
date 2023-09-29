@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kivij\u00e4rve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002521,
-    "geom:area_square_m":16165101.685227,
+    "geom:area_square_m":16165101.68523,
     "geom:bbox":"26.520867,58.737843,26.596765,58.789726",
     "geom:latitude":58.766628,
     "geom:longitude":26.556894,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3178
+        "ee-mamt:okood":"3178"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209110999
     ],
     "wof:country":"EE",
     "wof:created":1595460510,
-    "wof:geomhash":"adf9819180850932acdaaf3dffa7aa9d",
+    "wof:geomhash":"fff6e2e539ce499aaa3e05592df0cd24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676554,
+    "wof:lastmodified":1695876922,
     "wof:name":"Kivij\u00e4rve",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laagna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001829,
-    "geom:area_square_m":11519007.329967,
+    "geom:area_square_m":11519007.329965,
     "geom:bbox":"27.954291,59.364949,28.02612,59.40373",
     "geom:latitude":59.38282,
     "geom:longitude":27.992815,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4012
+        "ee-mamt:okood":"4012"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260292233
     ],
     "wof:country":"EE",
     "wof:created":1595459449,
-    "wof:geomhash":"4858571de815e2f551b934132d4e2e2b",
+    "wof:geomhash":"6027c2b1ef64a867a1e1a61300374b06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677759,
+    "wof:lastmodified":1695876998,
     "wof:name":"Laagna",
     "wof:parent_id":1713305779,
     "wof:placetype":"localadmin",

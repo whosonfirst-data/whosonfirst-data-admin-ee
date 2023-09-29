@@ -8,7 +8,7 @@
     "ee-mamt:animi":"L\u00fc\u00fctsepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000484,
-    "geom:area_square_m":3203677.831211,
+    "geom:area_square_m":3203677.831212,
     "geom:bbox":"26.714146,57.597784,26.750816,57.619976",
     "geom:latitude":57.610197,
     "geom:longitude":26.733273,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4694
+        "ee-mamt:okood":"4694"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260044337
     ],
     "wof:country":"EE",
     "wof:created":1595461162,
-    "wof:geomhash":"8af1df7c9485d5dadf421ac81f894de9",
+    "wof:geomhash":"a526e4ba0c38a5d076506aaa04ce357a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676833,
+    "wof:lastmodified":1695876960,
     "wof:name":"L\u00fc\u00fctsepa",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Palutaja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000882,
-    "geom:area_square_m":5764881.135677,
+    "geom:area_square_m":5764881.135679,
     "geom:bbox":"26.743007,58.066836,26.794485,58.096843",
     "geom:latitude":58.082147,
     "geom:longitude":26.769842,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5959
+        "ee-mamt:okood":"5959"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243534573
     ],
     "wof:country":"EE",
     "wof:created":1595459965,
-    "wof:geomhash":"d7dd1bd6a52765e8d13febca237c5870",
+    "wof:geomhash":"24d4d591a5c0c99f188ccdfbfa3c8482",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676779,
+    "wof:lastmodified":1695876951,
     "wof:name":"Palutaja",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

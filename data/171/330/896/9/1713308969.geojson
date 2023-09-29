@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tahu K\u00fcla / Sk\u013atan\u00e4s",
     "ee-mamt:tyyp":8,
     "geom:area":0.001323,
-    "geom:area_square_m":8431762.795758,
+    "geom:area_square_m":8431762.795764,
     "geom:bbox":"23.530819,58.962108,23.574793,59.00886",
     "geom:latitude":58.986548,
     "geom:longitude":23.553704,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8074
+        "ee-mamt:okood":"8074"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327131105
     ],
     "wof:country":"EE",
     "wof:created":1595459774,
-    "wof:geomhash":"da02063d995114edb6e810a55db086be",
+    "wof:geomhash":"51f12b54ff7e8dc0eea6004e847ac803",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677164,
+    "wof:lastmodified":1695876984,
     "wof:name":"Tahu",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

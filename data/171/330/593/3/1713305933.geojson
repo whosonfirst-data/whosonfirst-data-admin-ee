@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00e4rispea K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001374,
-    "geom:area_square_m":8583717.229708,
+    "geom:area_square_m":8583717.229712,
     "geom:bbox":"25.670516,59.619998,25.736101,59.675293",
     "geom:latitude":59.645649,
     "geom:longitude":25.701736,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6606
+        "ee-mamt:okood":"6606"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125987707
     ],
     "wof:country":"EE",
     "wof:created":1595459031,
-    "wof:geomhash":"4dc3972764cafc5a7d539b55cba886be",
+    "wof:geomhash":"ff34677bf88976b10f5bf1a5cb05252b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661809,
+    "wof:lastmodified":1695876776,
     "wof:name":"P\u00e4rispea",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

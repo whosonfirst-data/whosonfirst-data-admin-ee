@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tapupere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000401,
-    "geom:area_square_m":2551213.665553,
+    "geom:area_square_m":2551213.665554,
     "geom:bbox":"24.674336,59.012662,24.710092,59.032843",
     "geom:latitude":59.02226,
     "geom:longitude":24.689938,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8139
+        "ee-mamt:okood":"8139"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309792271
     ],
     "wof:country":"EE",
     "wof:created":1595460282,
-    "wof:geomhash":"6f0bd829d93755f62f50ee397f7a04dd",
+    "wof:geomhash":"0efa4d34bd49d5654eccf37b9f6f2413",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676699,
+    "wof:lastmodified":1695876940,
     "wof:name":"Tapupere",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

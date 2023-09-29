@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Liivoja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001577,
-    "geom:area_square_m":10109612.874916,
+    "geom:area_square_m":10109612.874922,
     "geom:bbox":"26.341115,58.747021,26.3957,58.798918",
     "geom:latitude":58.777526,
     "geom:longitude":26.373051,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4364
+        "ee-mamt:okood":"4364"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226544603
     ],
     "wof:country":"EE",
     "wof:created":1595460511,
-    "wof:geomhash":"7a098d9607752c2e0278197b98e987bc",
+    "wof:geomhash":"54973a5997f985bd5ce57fffe193b2b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676553,
+    "wof:lastmodified":1695876921,
     "wof:name":"Liivoja",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

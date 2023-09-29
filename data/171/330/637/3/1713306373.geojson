@@ -8,7 +8,7 @@
     "ee-mamt:animi":"\u00dclgase K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001135,
-    "geom:area_square_m":7126445.929219,
+    "geom:area_square_m":7126445.929217,
     "geom:bbox":"25.029907,59.470563,25.104382,59.506333",
     "geom:latitude":59.486475,
     "geom:longitude":25.069605,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9838
+        "ee-mamt:okood":"9838"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125795147
     ],
     "wof:country":"EE",
     "wof:created":1595459142,
-    "wof:geomhash":"f10c7c1cee830ee53557a0a667811b8c",
+    "wof:geomhash":"3047cab83f695ba74b1894382c3f399d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661379,
+    "wof:lastmodified":1695876757,
     "wof:name":"\u00dclgase",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

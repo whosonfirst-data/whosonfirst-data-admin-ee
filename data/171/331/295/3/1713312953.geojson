@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aimla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003726,
-    "geom:area_square_m":24083988.229356,
+    "geom:area_square_m":24083988.229355,
     "geom:bbox":"25.669502,58.4587,25.826924,58.512455",
     "geom:latitude":58.483196,
     "geom:longitude":25.740624,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1144
+        "ee-mamt:okood":"1144"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1192992807
     ],
     "wof:country":"EE",
     "wof:created":1595460659,
-    "wof:geomhash":"bc24617f7cbfd422a57319a472299cc2",
+    "wof:geomhash":"bb3724b865ce23cbbc424e7089a3b2c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663448,
+    "wof:lastmodified":1695876830,
     "wof:name":"Aimla",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

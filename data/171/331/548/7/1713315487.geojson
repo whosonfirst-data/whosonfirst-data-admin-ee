@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tiri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000725,
-    "geom:area_square_m":4774060.752169,
+    "geom:area_square_m":4774060.752168,
     "geom:bbox":"27.203393,57.823077,27.265445,57.84357",
     "geom:latitude":57.832982,
     "geom:longitude":27.230865,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8252
+        "ee-mamt:okood":"8252"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293857947
     ],
     "wof:country":"EE",
     "wof:created":1595461231,
-    "wof:geomhash":"6904def66f1ac8c76ccf0160b12e3d7c",
+    "wof:geomhash":"3caca6bda3664962d664fc2abbfe234c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660240,
+    "wof:lastmodified":1695876723,
     "wof:name":"Tiri",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

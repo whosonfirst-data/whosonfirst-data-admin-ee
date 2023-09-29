@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pikkj\u00e4rve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001602,
-    "geom:area_square_m":10565030.483975,
+    "geom:area_square_m":10565030.483974,
     "geom:bbox":"26.239545,57.756783,26.327022,57.792918",
     "geom:latitude":57.776238,
     "geom:longitude":26.276433,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6234
+        "ee-mamt:okood":"6234"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310068229
     ],
     "wof:country":"EE",
     "wof:created":1595460207,
-    "wof:geomhash":"fac45a6bc5f1e8880d59e740fba792d4",
+    "wof:geomhash":"876f4d32870d430affb3a881427157a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661941,
+    "wof:lastmodified":1695876791,
     "wof:name":"Pikkj\u00e4rve",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

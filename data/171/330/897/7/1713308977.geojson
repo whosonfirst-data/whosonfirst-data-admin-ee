@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saadj\u00e4rve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000665,
-    "geom:area_square_m":4290719.362407,
+    "geom:area_square_m":4290719.362406,
     "geom:bbox":"26.64323,58.529376,26.703551,58.55666",
     "geom:latitude":58.542885,
     "geom:longitude":26.671861,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7273
+        "ee-mamt:okood":"7273"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126057219
     ],
     "wof:country":"EE",
     "wof:created":1595459777,
-    "wof:geomhash":"5181b598f464e3d023746ddfce7b22af",
+    "wof:geomhash":"3da13181e25eacb0880d820913ab5272",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676462,
+    "wof:lastmodified":1695876912,
     "wof:name":"Saadj\u00e4rve",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

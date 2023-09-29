@@ -8,13 +8,13 @@
     "ee-mamt:animi":"T\u00fcri Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.001069,
-    "geom:area_square_m":6847342.029555,
+    "geom:area_square_m":6847342.029558,
     "geom:bbox":"25.392001,58.790962,25.448599,58.824777",
     "geom:latitude":58.809149,
     "geom:longitude":25.419395,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "T\u00fcri linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8594
+        "ee-mamt:okood":"8594"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815141
     ],
     "wof:country":"EE",
     "wof:created":1595461352,
-    "wof:geomhash":"37726753564284ccb7828040fb7bed71",
+    "wof:geomhash":"e1955f9e3bd2bdb4add55a5b523b1455",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677977,
+    "wof:lastmodified":1695877007,
     "wof:name":"T\u00fcri",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

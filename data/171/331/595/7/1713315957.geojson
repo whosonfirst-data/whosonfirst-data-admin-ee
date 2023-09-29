@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Selise K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000764,
-    "geom:area_square_m":5008223.69898,
+    "geom:area_square_m":5008223.698978,
     "geom:bbox":"27.498379,57.947009,27.552453,57.972537",
     "geom:latitude":57.962008,
     "geom:longitude":27.525637,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7523
+        "ee-mamt:okood":"7523"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242950281
     ],
     "wof:country":"EE",
     "wof:created":1595461328,
-    "wof:geomhash":"a134f9835265f0ddad02f4ada00a4607",
+    "wof:geomhash":"7890babeebb5aca96927c6c7348a3c76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663665,
+    "wof:lastmodified":1695876844,
     "wof:name":"Selise",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

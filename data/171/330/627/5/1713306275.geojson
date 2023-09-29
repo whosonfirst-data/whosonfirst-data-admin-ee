@@ -14,7 +14,7 @@
     "geom:longitude":24.764762,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "district"
+        "urban district"
     ],
     "label:est_x_preferred_longname":[
         "Kesklinna linnaosa"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":298
+        "ee-mamt:okood":"298"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1713348885
     ],
     "wof:country":"EE",
     "wof:created":1595459119,
-    "wof:geomhash":"4f732acdab56d0484553262adf70fb18",
+    "wof:geomhash":"8ca953063fa4d1732bfe1bafa5d8c173",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617131327,
+    "wof:lastmodified":1695877020,
     "wof:name":"Kesklinna",
     "wof:parent_id":1713305645,
     "wof:placetype":"localadmin",

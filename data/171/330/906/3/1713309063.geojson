@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Varbla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000575,
-    "geom:area_square_m":3723012.204319,
+    "geom:area_square_m":3723012.20432,
     "geom:bbox":"23.724537,58.409929,23.76143,58.440953",
     "geom:latitude":58.426387,
     "geom:longitude":23.741929,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9061
+        "ee-mamt:okood":"9061"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126003993
     ],
     "wof:country":"EE",
     "wof:created":1595459795,
-    "wof:geomhash":"f2645fe01f1d27d015c1c967ba9027e6",
+    "wof:geomhash":"14b64292c362aaaebd4c1a3f7674791b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661565,
+    "wof:lastmodified":1695876764,
     "wof:name":"Varbla",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4ljataguse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000759,
-    "geom:area_square_m":4833429.38766,
+    "geom:area_square_m":4833429.387659,
     "geom:bbox":"24.746188,58.968821,24.821682,58.993438",
     "geom:latitude":58.98215,
     "geom:longitude":24.783648,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4318
+        "ee-mamt:okood":"4318"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243525987
     ],
     "wof:country":"EE",
     "wof:created":1595460323,
-    "wof:geomhash":"a3fc3bfea4bd70ce1414f0c2cfa49ceb",
+    "wof:geomhash":"60ed82743cb56334baef92d9e78435d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676701,
+    "wof:lastmodified":1695876941,
     "wof:name":"V\u00e4ljataguse",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

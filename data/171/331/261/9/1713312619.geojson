@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Atika K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002644,
-    "geom:area_square_m":17280099.742423,
+    "geom:area_square_m":17280099.742424,
     "geom:bbox":"25.399889,58.066776,25.47387,58.121752",
     "geom:latitude":58.097082,
     "geom:longitude":25.435901,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1433
+        "ee-mamt:okood":"1433"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343336135
     ],
     "wof:country":"EE",
     "wof:created":1595460582,
-    "wof:geomhash":"fb068750b42ffc83f5da596129947fb9",
+    "wof:geomhash":"5e69883bc89e91b6665d85cb4811be2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661286,
+    "wof:lastmodified":1695876750,
     "wof:name":"Atika",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

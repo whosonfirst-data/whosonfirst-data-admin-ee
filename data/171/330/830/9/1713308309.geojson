@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Altja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000693,
-    "geom:area_square_m":4339193.912578,
+    "geom:area_square_m":4339193.912576,
     "geom:bbox":"26.081284,59.570959,26.136496,59.591395",
     "geom:latitude":59.580005,
     "geom:longitude":26.106756,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1218
+        "ee-mamt:okood":"1218"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125912949
     ],
     "wof:country":"EE",
     "wof:created":1595459612,
-    "wof:geomhash":"269c48dc5ef9780c0e6fc5f0af75121f",
+    "wof:geomhash":"3ee307d91984bbf946a808806da74e9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678024,
+    "wof:lastmodified":1695877011,
     "wof:name":"Altja",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tsirgum\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001779,
-    "geom:area_square_m":11787903.703587,
+    "geom:area_square_m":11787903.703588,
     "geom:bbox":"26.265599,57.5794,26.361184,57.616005",
     "geom:latitude":57.598705,
     "geom:longitude":26.319924,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8368
+        "ee-mamt:okood":"8368"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276737983
     ],
     "wof:country":"EE",
     "wof:created":1595460091,
-    "wof:geomhash":"c27cdcd76ebe8ef444d4c8b9289ab79a",
+    "wof:geomhash":"da383e49429e9bef9061fa347dc8708f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661936,
+    "wof:lastmodified":1695876789,
     "wof:name":"Tsirgum\u00e4e",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

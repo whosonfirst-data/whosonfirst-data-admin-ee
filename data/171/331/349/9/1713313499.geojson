@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tohera K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002666,
-    "geom:area_square_m":17218732.669371,
+    "geom:area_square_m":17218732.669367,
     "geom:bbox":"24.906773,58.492288,24.998129,58.540987",
     "geom:latitude":58.515935,
     "geom:longitude":24.953598,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8269
+        "ee-mamt:okood":"8269"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259561609
     ],
     "wof:country":"EE",
     "wof:created":1595460775,
-    "wof:geomhash":"0834b9e32bc6214ef5628daeee33abe6",
+    "wof:geomhash":"8a0cf73756007f67ff091320639c9332",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663379,
+    "wof:lastmodified":1695876821,
     "wof:name":"Tohera",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

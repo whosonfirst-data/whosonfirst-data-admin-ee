@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tumala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000399,
-    "geom:area_square_m":2577004.923834,
+    "geom:area_square_m":2577004.923833,
     "geom:bbox":"23.021232,58.527006,23.056949,58.54864",
     "geom:latitude":58.539523,
     "geom:longitude":23.038588,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8412
+        "ee-mamt:okood":"8412"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243246979
     ],
     "wof:country":"EE",
     "wof:created":1595459616,
-    "wof:geomhash":"a07fb52108ef053f969fd5abd7246b04",
+    "wof:geomhash":"f26faa0c757e5ce40374ea09fd011e57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671704,
+    "wof:lastmodified":1695876868,
     "wof:name":"Tumala",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

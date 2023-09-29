@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lehtma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002882,
-    "geom:area_square_m":18318661.61902,
+    "geom:area_square_m":18318661.619025,
     "geom:bbox":"22.601194,59.038708,22.702809,59.087322",
     "geom:latitude":59.06425,
     "geom:longitude":22.648621,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4209
+        "ee-mamt:okood":"4209"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125821931
     ],
     "wof:country":"EE",
     "wof:created":1595460095,
-    "wof:geomhash":"efebfb98a811fc105be833f86fce87b4",
+    "wof:geomhash":"f90205a800a7e1395e5b258d25883394",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666324,
+    "wof:lastmodified":1695876850,
     "wof:name":"Lehtma",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

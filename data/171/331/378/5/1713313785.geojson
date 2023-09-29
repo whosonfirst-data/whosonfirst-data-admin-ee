@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vatku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000559,
-    "geom:area_square_m":3501297.698047,
+    "geom:area_square_m":3501297.698048,
     "geom:bbox":"25.794077,59.526181,25.835743,59.546631",
     "geom:latitude":59.536478,
     "geom:longitude":25.815524,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9139
+        "ee-mamt:okood":"9139"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209635269
     ],
     "wof:country":"EE",
     "wof:created":1595460836,
-    "wof:geomhash":"6b74ffae46702222a867f7d74db06ae4",
+    "wof:geomhash":"25c8dbef1f1dd271ad4602c22ae35173",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678035,
+    "wof:lastmodified":1695877013,
     "wof:name":"Vatku",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

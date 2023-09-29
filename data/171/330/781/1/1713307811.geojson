@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aruv\u00e4lja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000998,
-    "geom:area_square_m":6311250.582324,
+    "geom:area_square_m":6311250.582322,
     "geom:bbox":"26.382929,59.242475,26.441347,59.267983",
     "geom:latitude":59.256214,
     "geom:longitude":26.413096,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1395
+        "ee-mamt:okood":"1395"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243089823
     ],
     "wof:country":"EE",
     "wof:created":1595459492,
-    "wof:geomhash":"634769daaa7ed9ee356eb7c7ece030ad",
+    "wof:geomhash":"5d80b544490a3db21d4f8d0699ea07e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677948,
+    "wof:lastmodified":1695877004,
     "wof:name":"Aruv\u00e4lja",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

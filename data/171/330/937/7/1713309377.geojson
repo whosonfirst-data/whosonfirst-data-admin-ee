@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Anelema K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001347,
-    "geom:area_square_m":8674706.439829,
+    "geom:area_square_m":8674706.439831,
     "geom:bbox":"24.543657,58.595163,24.597265,58.644905",
     "geom:latitude":58.620807,
     "geom:longitude":24.575726,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1267
+        "ee-mamt:okood":"1267"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310183269
     ],
     "wof:country":"EE",
     "wof:created":1595459872,
-    "wof:geomhash":"29a41b8ddce97bff38eaabbfe81002fc",
+    "wof:geomhash":"72e92415bd07050ef7faf604fa82eda6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663410,
+    "wof:lastmodified":1695876825,
     "wof:name":"Anelema",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

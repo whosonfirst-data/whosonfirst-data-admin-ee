@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Tabasalu Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000863,
-    "geom:area_square_m":5428283.018316,
+    "geom:area_square_m":5428283.018315,
     "geom:bbox":"24.517446,59.411428,24.577539,59.44067",
     "geom:latitude":59.426498,
     "geom:longitude":24.547976,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Tabasalu alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8009
+        "ee-mamt:okood":"8009"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101753881
     ],
     "wof:country":"EE",
     "wof:created":1595459019,
-    "wof:geomhash":"8565b27aeb22a5591e8311a845465fe8",
+    "wof:geomhash":"10bc665f14d974e54f5b17b81f7ce825",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661446,
+    "wof:lastmodified":1695876760,
     "wof:name":"Tabasalu",
     "wof:parent_id":1713305681,
     "wof:placetype":"localadmin",

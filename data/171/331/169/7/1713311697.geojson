@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tarakuse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001005,
-    "geom:area_square_m":6355838.074269,
+    "geom:area_square_m":6355838.074267,
     "geom:bbox":"27.40084,59.237289,27.446033,59.282379",
     "geom:latitude":59.253282,
     "geom:longitude":27.425563,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8147
+        "ee-mamt:okood":"8147"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344058799
     ],
     "wof:country":"EE",
     "wof:created":1595460398,
-    "wof:geomhash":"205d0e71697475173ed4a4174e0d6e53",
+    "wof:geomhash":"32462ecd36aba6883b6aced760fe95b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660696,
+    "wof:lastmodified":1695876732,
     "wof:name":"Tarakuse",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

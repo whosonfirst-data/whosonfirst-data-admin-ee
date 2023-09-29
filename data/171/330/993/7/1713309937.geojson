@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Veski K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003047,
-    "geom:area_square_m":19899367.667371,
+    "geom:area_square_m":19899367.667362,
     "geom:bbox":"26.720498,58.088432,26.848673,58.144955",
     "geom:latitude":58.118264,
     "geom:longitude":26.784897,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9229
+        "ee-mamt:okood":"9229"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360272363
     ],
     "wof:country":"EE",
     "wof:created":1595460012,
-    "wof:geomhash":"48fdb98fc7b31a3e0a3ef9a845c49221",
+    "wof:geomhash":"3c157415754e471f873b9f93cb5b8c43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676782,
+    "wof:lastmodified":1695876952,
     "wof:name":"Veski",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Veia K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001878,
-    "geom:area_square_m":12044015.704107,
+    "geom:area_square_m":12044015.704113,
     "geom:bbox":"26.773245,58.724137,26.852937,58.771734",
     "geom:latitude":58.750572,
     "geom:longitude":26.80759,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9181
+        "ee-mamt:okood":"9181"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293223425
     ],
     "wof:country":"EE",
     "wof:created":1595460562,
-    "wof:geomhash":"e42ec12d0053a46ec0e5f865083dd4a8",
+    "wof:geomhash":"64d2c6b8e36a28e75c3a0a2316e02fc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660971,
+    "wof:lastmodified":1695876741,
     "wof:name":"Veia",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

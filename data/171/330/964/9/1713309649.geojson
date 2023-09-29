@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sohlu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002345,
-    "geom:area_square_m":15076202.457891,
+    "geom:area_square_m":15076202.457889,
     "geom:bbox":"24.76561,58.632211,24.833206,58.701839",
     "geom:latitude":58.668162,
     "geom:longitude":24.795706,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7661
+        "ee-mamt:okood":"7661"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276956767
     ],
     "wof:country":"EE",
     "wof:created":1595459939,
-    "wof:geomhash":"03176401759822b00a37dffe6d0b612e",
+    "wof:geomhash":"ed465735461f16b6a6782fe821fe0d3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663407,
+    "wof:lastmodified":1695876824,
     "wof:name":"Sohlu",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

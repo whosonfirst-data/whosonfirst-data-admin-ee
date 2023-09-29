@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lilli-Anne K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00123,
-    "geom:area_square_m":8082625.956407,
+    "geom:area_square_m":8082625.956406,
     "geom:bbox":"26.782728,57.881073,26.834287,57.919364",
     "geom:latitude":57.90039,
     "geom:longitude":26.808569,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4373
+        "ee-mamt:okood":"4373"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209379199
     ],
     "wof:country":"EE",
     "wof:created":1595461356,
-    "wof:geomhash":"2501e1c0ab3e535485d0952108df8e28",
+    "wof:geomhash":"4b4fe890245c53487ab272f670e3afe9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660232,
+    "wof:lastmodified":1695876722,
     "wof:name":"Lilli-Anne",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

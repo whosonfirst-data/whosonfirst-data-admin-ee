@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pusku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000816,
-    "geom:area_square_m":5209700.772939,
+    "geom:area_square_m":5209700.772937,
     "geom:bbox":"23.372748,58.880052,23.497807,58.909256",
     "geom:latitude":58.896655,
     "geom:longitude":23.468273,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6462
+        "ee-mamt:okood":"6462"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459687,
-    "wof:geomhash":"82cf1090bf8dc88f12eec2d61a6c1f71",
+    "wof:geomhash":"d036b2e2a047b2c356dafc6ba29d703a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662513,
+    "wof:lastmodified":1695876794,
     "wof:name":"Pusku",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

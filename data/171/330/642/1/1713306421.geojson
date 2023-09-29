@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mallavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002609,
-    "geom:area_square_m":16491317.155906,
+    "geom:area_square_m":16491317.155903,
     "geom:bbox":"25.102097,59.236889,25.196981,59.277688",
     "geom:latitude":59.254977,
     "geom:longitude":25.146264,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4758
+        "ee-mamt:okood":"4758"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293690827
     ],
     "wof:country":"EE",
     "wof:created":1595459153,
-    "wof:geomhash":"d7b522a4dd2229c917526e65480ee648",
+    "wof:geomhash":"3c6d79e5d0aa7477a8ccc7c0de07fe55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661928,
+    "wof:lastmodified":1695876789,
     "wof:name":"Mallavere",
     "wof:parent_id":1713305751,
     "wof:placetype":"localadmin",

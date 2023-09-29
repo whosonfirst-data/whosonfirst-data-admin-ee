@@ -8,7 +8,7 @@
     "ee-mamt:animi":"\u00c4iamaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00239,
-    "geom:area_square_m":15313588.07942,
+    "geom:area_square_m":15313588.079422,
     "geom:bbox":"25.537078,58.768676,25.625776,58.812605",
     "geom:latitude":58.790424,
     "geom:longitude":25.58125,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9741
+        "ee-mamt:okood":"9741"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125932865
     ],
     "wof:country":"EE",
     "wof:created":1595459172,
-    "wof:geomhash":"f4cab1d227baf4d818cd83fd5905cc9a",
+    "wof:geomhash":"a50f4ffe62c96510af20851e91a42236",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677980,
+    "wof:lastmodified":1695877007,
     "wof:name":"\u00c4iamaa",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

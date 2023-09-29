@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u0151hja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000522,
-    "geom:area_square_m":3277158.709471,
+    "geom:area_square_m":3277158.70947,
     "geom:bbox":"25.40665,59.473497,25.45036,59.491834",
     "geom:latitude":59.482192,
     "geom:longitude":25.427216,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6497
+        "ee-mamt:okood":"6497"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360202503
     ],
     "wof:country":"EE",
     "wof:created":1595459063,
-    "wof:geomhash":"72adfb96c65f8f4faf8d3a01e7db06c4",
+    "wof:geomhash":"af5de84c2e043902e4db0d044d1982b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661809,
+    "wof:lastmodified":1695876777,
     "wof:name":"P\u0151hja",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

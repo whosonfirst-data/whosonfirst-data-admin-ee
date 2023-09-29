@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Eerikvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001463,
-    "geom:area_square_m":9400864.853933,
+    "geom:area_square_m":9400864.85393,
     "geom:bbox":"26.587784,58.654843,26.661415,58.700267",
     "geom:latitude":58.679698,
     "geom:longitude":26.624772,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1533
+        "ee-mamt:okood":"1533"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259806397
     ],
     "wof:country":"EE",
     "wof:created":1595460515,
-    "wof:geomhash":"d0830967ad8aeea6103bb607945b876f",
+    "wof:geomhash":"8d7855aa4aa2bb0f59ea32fdc5390127",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676557,
+    "wof:lastmodified":1695876923,
     "wof:name":"Eerikvere",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

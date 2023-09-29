@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u0151rkk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003792,
-    "geom:area_square_m":24671721.406779,
+    "geom:area_square_m":24671721.406772,
     "geom:bbox":"22.216813,58.209497,22.329663,58.284054",
     "geom:latitude":58.250076,
     "geom:longitude":22.267403,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3805
+        "ee-mamt:okood":"3805"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125955603
     ],
     "wof:country":"EE",
     "wof:created":1595459170,
-    "wof:geomhash":"c030da8e425c1bfcf02b4c99d1e715d3",
+    "wof:geomhash":"fbe216c99a1a3eb98fc1c975d5d3c83b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671641,
+    "wof:lastmodified":1695876866,
     "wof:name":"K\u0151rkk\u00fcla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

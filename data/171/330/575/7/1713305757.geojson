@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":171,
+        "ee-mamt:okood":"171",
         "eg:gisco_id":"EE_0171",
         "eurostat:nuts_2021_id":"0171"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451908,
     "wof:geomhash":"d5408464496ed605513de3e8ccd4b3b7",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352197,
+    "wof:lastmodified":1695886731,
     "wof:name":"Elva",
     "wof:parent_id":85682995,
     "wof:placetype":"county",

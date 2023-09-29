@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saardu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000945,
-    "geom:area_square_m":6051168.888847,
+    "geom:area_square_m":6051168.888846,
     "geom:bbox":"23.57534,58.78212,23.635935,58.804957",
     "geom:latitude":58.793563,
     "geom:longitude":23.606191,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7283
+        "ee-mamt:okood":"7283"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326751611
     ],
     "wof:country":"EE",
     "wof:created":1595459631,
-    "wof:geomhash":"e1908c07e617236e0f052e930b393bcb",
+    "wof:geomhash":"fcd1236ef07126cad79cce56268ba835",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662520,
+    "wof:lastmodified":1695876795,
     "wof:name":"Saardu",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

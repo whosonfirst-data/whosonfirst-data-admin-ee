@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Veibri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000358,
-    "geom:area_square_m":2322323.489425,
+    "geom:area_square_m":2322323.489424,
     "geom:bbox":"26.775991,58.335252,26.807917,58.358309",
     "geom:latitude":58.344468,
     "geom:longitude":26.795572,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9183
+        "ee-mamt:okood":"9183"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226408561
     ],
     "wof:country":"EE",
     "wof:created":1595460830,
-    "wof:geomhash":"2e16cff41e2f389bf2c2d105daaebb20",
+    "wof:geomhash":"d830c5bac2a9b638c7e0ef05ab680365",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660674,
+    "wof:lastmodified":1695876730,
     "wof:name":"Veibri",
     "wof:parent_id":1713305697,
     "wof:placetype":"localadmin",

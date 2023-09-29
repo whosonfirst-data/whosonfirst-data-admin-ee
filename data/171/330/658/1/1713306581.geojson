@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laimjala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000135,
-    "geom:area_square_m":872805.917472,
+    "geom:area_square_m":872805.917471,
     "geom:bbox":"22.98753,58.421781,23.008393,58.432474",
     "geom:latitude":58.427514,
     "geom:longitude":22.996886,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4073
+        "ee-mamt:okood":"4073"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125863043
     ],
     "wof:country":"EE",
     "wof:created":1595459190,
-    "wof:geomhash":"5d57cde229d60e54eee6a651cacfeac4",
+    "wof:geomhash":"721a933c370feb81069b8ec9e24f7f07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671810,
+    "wof:lastmodified":1695876871,
     "wof:name":"Laimjala",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

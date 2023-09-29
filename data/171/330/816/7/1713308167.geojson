@@ -8,7 +8,7 @@
     "ee-mamt:animi":"\u00dcru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000805,
-    "geom:area_square_m":5220854.620109,
+    "geom:area_square_m":5220854.620108,
     "geom:bbox":"22.154752,58.340373,22.199837,58.374289",
     "geom:latitude":58.359479,
     "geom:longitude":22.176232,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9849
+        "ee-mamt:okood":"9849"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360059199
     ],
     "wof:country":"EE",
     "wof:created":1595459574,
-    "wof:geomhash":"a993dfc138dc255f3e004daf4e00f168",
+    "wof:geomhash":"f685b06c5edf8fb1ba222c8a9ffaf5ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671856,
+    "wof:lastmodified":1695876872,
     "wof:name":"\u00dcru",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hirla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001993,
-    "geom:area_square_m":12684427.245457,
+    "geom:area_square_m":12684427.245453,
     "geom:bbox":"26.312338,59.001683,26.403516,59.048696",
     "geom:latitude":59.029494,
     "geom:longitude":26.353672,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1866
+        "ee-mamt:okood":"1866"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259669327
     ],
     "wof:country":"EE",
     "wof:created":1595460439,
-    "wof:geomhash":"5ac70a8aa4ae687ade58d2b9118da95c",
+    "wof:geomhash":"ffecc0f31b65f6729dcd513038d7f522",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676532,
+    "wof:lastmodified":1695876920,
     "wof:name":"Hirla",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

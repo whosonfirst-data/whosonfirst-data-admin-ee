@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Arum\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002216,
-    "geom:area_square_m":13968023.242586,
+    "geom:area_square_m":13968023.242583,
     "geom:bbox":"27.962424,59.332433,28.069668,59.367563",
     "geom:latitude":59.352602,
     "geom:longitude":28.013067,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1381
+        "ee-mamt:okood":"1381"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276130449
     ],
     "wof:country":"EE",
     "wof:created":1595460563,
-    "wof:geomhash":"faeec79bc70b101a41c4625e670fd7e8",
+    "wof:geomhash":"e92c3652e6fc79ecdae91d6ba37e6246",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677760,
+    "wof:lastmodified":1695876999,
     "wof:name":"Arum\u00e4e",
     "wof:parent_id":1713305779,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nedsaja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002722,
-    "geom:area_square_m":17888605.105332,
+    "geom:area_square_m":17888605.105329,
     "geom:bbox":"27.537413,57.872664,27.655041,57.914054",
     "geom:latitude":57.890861,
     "geom:longitude":27.592923,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5387
+        "ee-mamt:okood":"5387"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310285181
     ],
     "wof:country":"EE",
     "wof:created":1595461319,
-    "wof:geomhash":"171b5a3fcd69895f8ef5146cc460da06",
+    "wof:geomhash":"25d5e0959750d3d526418903afe46667",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663669,
+    "wof:lastmodified":1695876844,
     "wof:name":"Nedsaja",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

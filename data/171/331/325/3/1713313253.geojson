@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Elva Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.001514,
-    "geom:area_square_m":9857325.819143,
+    "geom:area_square_m":9857325.819148,
     "geom:bbox":"26.3849,58.208124,26.459533,58.244072",
     "geom:latitude":58.226835,
     "geom:longitude":26.41961,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Elva linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1586
+        "ee-mamt:okood":"1586"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815103
     ],
     "wof:country":"EE",
     "wof:created":1595460723,
-    "wof:geomhash":"54a71704e859c934de7df183ed08251e",
+    "wof:geomhash":"d483b67477985513241b7d08e612b7a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617129923,
+    "wof:lastmodified":1695877015,
     "wof:name":"Elva",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

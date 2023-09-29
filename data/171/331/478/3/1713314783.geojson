@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Oomiste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000901,
-    "geom:area_square_m":5873410.094577,
+    "geom:area_square_m":5873410.094576,
     "geom:bbox":"26.514311,58.189774,26.567837,58.21722",
     "geom:latitude":58.201239,
     "geom:longitude":26.537933,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5690
+        "ee-mamt:okood":"5690"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209378155
     ],
     "wof:country":"EE",
     "wof:created":1595461057,
-    "wof:geomhash":"2b3d5f1d858b496b383bb21cf4ea953c",
+    "wof:geomhash":"7eb340c123b834fe6d680899730bc89a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676678,
+    "wof:lastmodified":1695876938,
     "wof:name":"Oomiste",
     "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",

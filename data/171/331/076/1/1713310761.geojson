@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Taterma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000201,
-    "geom:area_square_m":1288792.148465,
+    "geom:area_square_m":1288792.148467,
     "geom:bbox":"22.61174,58.792417,22.633033,58.808736",
     "geom:latitude":58.80149,
     "geom:longitude":22.620807,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8162
+        "ee-mamt:okood":"8162"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242586517
     ],
     "wof:country":"EE",
     "wof:created":1595460195,
-    "wof:geomhash":"32d5c73d753108b254274047390d01dd",
+    "wof:geomhash":"ad74e49b4311da3ff54550a09168e164",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666440,
+    "wof:lastmodified":1695876858,
     "wof:name":"Taterma",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

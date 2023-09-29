@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Salutaguse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001591,
-    "geom:area_square_m":10081723.528383,
+    "geom:area_square_m":10081723.528382,
     "geom:bbox":"24.782279,59.144362,24.862472,59.178052",
     "geom:latitude":59.161794,
     "geom:longitude":24.821225,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7402
+        "ee-mamt:okood":"7402"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226328599
     ],
     "wof:country":"EE",
     "wof:created":1595460728,
-    "wof:geomhash":"f0c8d2ce15d5f0a481daebc8ff0113ed",
+    "wof:geomhash":"0f94952ee31882ea81dfa25993fe0b1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677032,
+    "wof:lastmodified":1695876984,
     "wof:name":"Salutaguse",
     "wof:parent_id":1713305707,
     "wof:placetype":"localadmin",

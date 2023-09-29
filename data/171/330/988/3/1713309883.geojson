@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vana-V\u0151idu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001689,
-    "geom:area_square_m":10947227.683275,
+    "geom:area_square_m":10947227.68327,
     "geom:bbox":"25.632667,58.358969,25.699688,58.401864",
     "geom:latitude":58.380945,
     "geom:longitude":25.664539,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9012
+        "ee-mamt:okood":"9012"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936937
     ],
     "wof:country":"EE",
     "wof:created":1595459999,
-    "wof:geomhash":"852c64ce255dca05071dbd97aadf60a8",
+    "wof:geomhash":"d7a22f22d2e8c28aef5fbd2e76681548",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661238,
+    "wof:lastmodified":1695876749,
     "wof:name":"Vana-V\u0151idu",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

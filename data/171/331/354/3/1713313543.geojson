@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kirikla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000812,
-    "geom:area_square_m":5149959.474273,
+    "geom:area_square_m":5149959.474272,
     "geom:bbox":"24.52064,59.127402,24.578014,59.154258",
     "geom:latitude":59.141377,
     "geom:longitude":24.545527,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3120
+        "ee-mamt:okood":"3120"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209123823
     ],
     "wof:country":"EE",
     "wof:created":1595460784,
-    "wof:geomhash":"34fb847e77605d74eafb6d7053e3a83b",
+    "wof:geomhash":"3360920fc0e6b574e451b93e28ddfd71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663227,
+    "wof:lastmodified":1695876810,
     "wof:name":"Kirikla",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

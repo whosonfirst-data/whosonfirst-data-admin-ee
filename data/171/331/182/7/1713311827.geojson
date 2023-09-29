@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nadalama K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000852,
-    "geom:area_square_m":5411063.187505,
+    "geom:area_square_m":5411063.187507,
     "geom:bbox":"26.292263,59.062158,26.347008,59.087511",
     "geom:latitude":59.075445,
     "geom:longitude":26.321143,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5333
+        "ee-mamt:okood":"5333"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1210012115
     ],
     "wof:country":"EE",
     "wof:created":1595460426,
-    "wof:geomhash":"dbfc0a0915cc2734f9b279544327d50b",
+    "wof:geomhash":"164b6381277214368fd1d620ddb39f44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676531,
+    "wof:lastmodified":1695876920,
     "wof:name":"Nadalama",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

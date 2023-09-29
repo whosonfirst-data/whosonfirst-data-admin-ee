@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koigu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001278,
-    "geom:area_square_m":8390371.817025,
+    "geom:area_square_m":8390371.817024,
     "geom:bbox":"26.50898,57.927233,26.580652,57.956773",
     "geom:latitude":57.942955,
     "geom:longitude":26.541839,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3287
+        "ee-mamt:okood":"3287"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293349409
     ],
     "wof:country":"EE",
     "wof:created":1595460820,
-    "wof:geomhash":"e8ddf8c2d7d206c93a9c96192091a62e",
+    "wof:geomhash":"9e50280d5332f131774ae32cd5c4f527",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677010,
+    "wof:lastmodified":1695876980,
     "wof:name":"Koigu",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

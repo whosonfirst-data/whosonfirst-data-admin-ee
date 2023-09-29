@@ -14,7 +14,7 @@
     "geom:longitude":24.872191,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Kehtna alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2924
+        "ee-mamt:okood":"2924"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815125
     ],
     "wof:country":"EE",
     "wof:created":1595460293,
-    "wof:geomhash":"0ef7a1e57b21c6b67a6b216ccbbd360d",
+    "wof:geomhash":"3ec626dbd9909467fc3dd9b8439e7700",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676735,
+    "wof:lastmodified":1695876945,
     "wof:name":"Kehtna",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

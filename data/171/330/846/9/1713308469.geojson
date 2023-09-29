@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suure-Ahli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000381,
-    "geom:area_square_m":2434365.213716,
+    "geom:area_square_m":2434365.213717,
     "geom:bbox":"23.511599,58.852618,23.552357,58.869786",
     "geom:latitude":58.860736,
     "geom:longitude":23.532423,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1119
+        "ee-mamt:okood":"1119"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276758881
     ],
     "wof:country":"EE",
     "wof:created":1595459653,
-    "wof:geomhash":"de3491422347455d260923d188bf8a09",
+    "wof:geomhash":"903fd1e196847996cdc2f7e4c5de1056",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617131367,
+    "wof:lastmodified":1695877020,
     "wof:name":"Suure-Ahli",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

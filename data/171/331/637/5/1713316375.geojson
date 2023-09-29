@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saatse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000198,
-    "geom:area_square_m":1300963.267486,
+    "geom:area_square_m":1300963.267484,
     "geom:bbox":"27.765255,57.877247,27.798878,57.890542",
     "geom:latitude":57.883781,
     "geom:longitude":27.785049,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7315
+        "ee-mamt:okood":"7315"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226623241
     ],
     "wof:country":"EE",
     "wof:created":1595461414,
-    "wof:geomhash":"42d44873768451fe0449fc82a2cfd4a2",
+    "wof:geomhash":"6113bb915daaa8901d4c5e83aa051db6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663638,
+    "wof:lastmodified":1695876838,
     "wof:name":"Saatse",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

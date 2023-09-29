@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Uikala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001253,
-    "geom:area_square_m":7881378.345753,
+    "geom:area_square_m":7881378.345752,
     "geom:bbox":"27.383982,59.407184,27.459755,59.436375",
     "geom:latitude":59.420687,
     "geom:longitude":27.427884,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8647
+        "ee-mamt:okood":"8647"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327239083
     ],
     "wof:country":"EE",
     "wof:created":1595459218,
-    "wof:geomhash":"76d9a22976d45b056bc4710426aff867",
+    "wof:geomhash":"13d2022fccbb73ba5b6c0c53a0505a2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676909,
+    "wof:lastmodified":1695876971,
     "wof:name":"Uikala",
     "wof:parent_id":1713305783,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Paldiski Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.009457,
-    "geom:area_square_m":59617391.906241,
+    "geom:area_square_m":59617391.906247,
     "geom:bbox":"23.861242,59.300983,24.185278,59.390355",
     "geom:latitude":59.346379,
     "geom:longitude":24.031457,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Paldiski linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5925
+        "ee-mamt:okood":"5925"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815189
     ],
     "wof:country":"EE",
     "wof:created":1595459462,
-    "wof:geomhash":"ae74f68d396003925c01fd654ba3f2ea",
+    "wof:geomhash":"57a8d8b5ff56d5848a27ff0a7a1224a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663291,
+    "wof:lastmodified":1695876814,
     "wof:name":"Paldiski",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Madila K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001049,
-    "geom:area_square_m":6665478.426346,
+    "geom:area_square_m":6665478.426348,
     "geom:bbox":"24.253622,59.079263,24.330755,59.113755",
     "geom:latitude":59.091952,
     "geom:longitude":24.296374,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4717
+        "ee-mamt:okood":"4717"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293593181
     ],
     "wof:country":"EE",
     "wof:created":1595459502,
-    "wof:geomhash":"9e924ceb439bd9f2d9bc23f3d9f7b83f",
+    "wof:geomhash":"aba386b5dce5a588bbd60cc337d23f89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663230,
+    "wof:lastmodified":1695876811,
     "wof:name":"Madila",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

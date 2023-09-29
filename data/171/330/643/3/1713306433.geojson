@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Peningi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000724,
-    "geom:area_square_m":4564666.018787,
+    "geom:area_square_m":4564666.018786,
     "geom:bbox":"25.141101,59.314866,25.180843,59.342521",
     "geom:latitude":59.328715,
     "geom:longitude":25.159225,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6098
+        "ee-mamt:okood":"6098"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126057749
     ],
     "wof:country":"EE",
     "wof:created":1595459155,
-    "wof:geomhash":"aac0e928eb7dd0993a965d5db2c6fad8",
+    "wof:geomhash":"1512d60dfbb4a98be7c2a441d7c6cf62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661927,
+    "wof:lastmodified":1695876788,
     "wof:name":"Peningi",
     "wof:parent_id":1713305751,
     "wof:placetype":"localadmin",

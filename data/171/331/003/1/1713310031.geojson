@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4luste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00124,
-    "geom:area_square_m":8052527.383283,
+    "geom:area_square_m":8052527.383285,
     "geom:bbox":"25.849333,58.294475,25.914853,58.320638",
     "geom:latitude":58.307026,
     "geom:longitude":25.882302,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9661
+        "ee-mamt:okood":"9661"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936887
     ],
     "wof:country":"EE",
     "wof:created":1595460033,
-    "wof:geomhash":"c9edb39ddbc27507de1d3341f2c03c24",
+    "wof:geomhash":"992e6e2994b324b9dbdcc66ef93e218d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617129962,
+    "wof:lastmodified":1695877015,
     "wof:name":"V\u00e4luste",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

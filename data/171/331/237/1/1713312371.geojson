@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaidavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001464,
-    "geom:area_square_m":9421117.495663,
+    "geom:area_square_m":9421117.495664,
     "geom:bbox":"26.64024,58.631735,26.715925,58.666803",
     "geom:latitude":58.650147,
     "geom:longitude":26.677916,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8872
+        "ee-mamt:okood":"8872"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309743707
     ],
     "wof:country":"EE",
     "wof:created":1595460530,
-    "wof:geomhash":"edf29ef449e2a07d2cf46c82904a8598",
+    "wof:geomhash":"f143f5d0ff8de3809b216ac6ed128ab2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676566,
+    "wof:lastmodified":1695876925,
     "wof:name":"Vaidavere",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

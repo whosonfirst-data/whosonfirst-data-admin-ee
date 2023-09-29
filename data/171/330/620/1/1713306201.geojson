@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koguva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001003,
-    "geom:area_square_m":6461182.097679,
+    "geom:area_square_m":6461182.097683,
     "geom:bbox":"23.06641,58.58442,23.110846,58.626324",
     "geom:latitude":58.605077,
     "geom:longitude":23.088743,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3260
+        "ee-mamt:okood":"3260"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125809329
     ],
     "wof:country":"EE",
     "wof:created":1595459101,
-    "wof:geomhash":"8b9845691140e6da5e0d9cd36b848355",
+    "wof:geomhash":"9c260f15db6df8f03b3edcf3ebee5eca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675114,
+    "wof:lastmodified":1695876904,
     "wof:name":"Koguva",
     "wof:parent_id":1713305623,
     "wof:placetype":"localadmin",

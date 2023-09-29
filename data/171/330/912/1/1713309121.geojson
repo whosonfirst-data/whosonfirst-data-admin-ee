@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00fcrksi K\u00fcla / Birkas",
     "ee-mamt:tyyp":8,
     "geom:area":0.001379,
-    "geom:area_square_m":8779936.174515,
+    "geom:area_square_m":8779936.174514,
     "geom:bbox":"23.506781,58.998035,23.567832,59.043717",
     "geom:latitude":59.019787,
     "geom:longitude":23.536806,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6669
+        "ee-mamt:okood":"6669"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890011
     ],
     "wof:country":"EE",
     "wof:created":1595459813,
-    "wof:geomhash":"e3976fe45da9eb9cb6b79a495db2550f",
+    "wof:geomhash":"412416857a03c4890653e8216e693335",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677199,
+    "wof:lastmodified":1695876989,
     "wof:name":"P\u00fcrksi",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

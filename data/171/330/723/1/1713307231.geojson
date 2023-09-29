@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Prange K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000509,
-    "geom:area_square_m":3332984.153889,
+    "geom:area_square_m":3332984.153888,
     "geom:bbox":"26.182839,58.025931,26.218877,58.052737",
     "geom:latitude":58.038269,
     "geom:longitude":26.201742,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6352
+        "ee-mamt:okood":"6352"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344122499
     ],
     "wof:country":"EE",
     "wof:created":1595459352,
-    "wof:geomhash":"ac577760d96462fd5ef6b396474fbb52",
+    "wof:geomhash":"1955a1cb53bfd6e737cfd524f67506d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661868,
+    "wof:lastmodified":1695876782,
     "wof:name":"Prange",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

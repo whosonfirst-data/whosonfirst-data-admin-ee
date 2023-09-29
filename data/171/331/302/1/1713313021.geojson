@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kasemetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000352,
-    "geom:area_square_m":2226636.360269,
+    "geom:area_square_m":2226636.360268,
     "geom:bbox":"24.650603,59.267547,24.678776,59.292099",
     "geom:latitude":59.279321,
     "geom:longitude":24.664854,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2794
+        "ee-mamt:okood":"2794"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276246525
     ],
     "wof:country":"EE",
     "wof:created":1595460674,
-    "wof:geomhash":"fd0f147fc2da37f2519fc8fc53fb3006",
+    "wof:geomhash":"41b174988c02feb3d924d61eecbd00ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661500,
+    "wof:lastmodified":1695876763,
     "wof:name":"Kasemetsa",
     "wof:parent_id":1713305685,
     "wof:placetype":"localadmin",

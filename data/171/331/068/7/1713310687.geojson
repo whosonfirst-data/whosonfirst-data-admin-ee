@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Jausa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001774,
-    "geom:area_square_m":11373176.126638,
+    "geom:area_square_m":11373176.12662,
     "geom:bbox":"22.652279,58.750363,22.728104,58.796094",
     "geom:latitude":58.778216,
     "geom:longitude":22.694188,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2180
+        "ee-mamt:okood":"2180"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125858137
     ],
     "wof:country":"EE",
     "wof:created":1595460179,
-    "wof:geomhash":"c88bfdce9dbcf6188709026b6a3600e7",
+    "wof:geomhash":"5a30b934a67a6ff05c2913d6d506a229",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666399,
+    "wof:lastmodified":1695876855,
     "wof:name":"Jausa",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

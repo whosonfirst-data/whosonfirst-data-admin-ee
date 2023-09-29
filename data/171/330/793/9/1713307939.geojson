@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pedase K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002548,
-    "geom:area_square_m":16104824.974145,
+    "geom:area_square_m":16104824.974148,
     "geom:bbox":"23.878359,59.241783,24.018892,59.278979",
     "geom:latitude":59.262031,
     "geom:longitude":23.949219,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6062
+        "ee-mamt:okood":"6062"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226152579
     ],
     "wof:country":"EE",
     "wof:created":1595459521,
-    "wof:geomhash":"f4ef5972000e8cdc0f8358d14c49b507",
+    "wof:geomhash":"23e10d1bff671e7d4c7e0c7934e08c72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663298,
+    "wof:lastmodified":1695876817,
     "wof:name":"Pedase",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

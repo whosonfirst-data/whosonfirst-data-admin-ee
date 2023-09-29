@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4ike-N\u0151mmk\u00fcla / Pers\u013aker",
     "ee-mamt:tyyp":8,
     "geom:area":0.001221,
-    "geom:area_square_m":7763939.984353,
+    "geom:area_square_m":7763939.984352,
     "geom:bbox":"23.612907,59.043497,23.681286,59.091815",
     "geom:latitude":59.066019,
     "geom:longitude":23.64655,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5523
+        "ee-mamt:okood":"5523"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226334121
     ],
     "wof:country":"EE",
     "wof:created":1595459797,
-    "wof:geomhash":"4229964e228ede00a670a98e49e3e79f",
+    "wof:geomhash":"00a512de7940c63a8cd0533d52d5175a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677187,
+    "wof:lastmodified":1695876987,
     "wof:name":"V\u00e4ike-N\u0151mmk\u00fcla",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

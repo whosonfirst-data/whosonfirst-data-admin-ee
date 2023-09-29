@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Taikse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001778,
-    "geom:area_square_m":11398624.054243,
+    "geom:area_square_m":11398624.054241,
     "geom:bbox":"25.424419,58.749545,25.507456,58.801874",
     "geom:latitude":58.773595,
     "geom:longitude":25.461741,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8078
+        "ee-mamt:okood":"8078"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126054153
     ],
     "wof:country":"EE",
     "wof:created":1595461351,
-    "wof:geomhash":"48ab318a5929f1290f8b5f98455bb92a",
+    "wof:geomhash":"e4a234ecfd4f914c971d3381dd745bad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677979,
+    "wof:lastmodified":1695877007,
     "wof:name":"Taikse",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

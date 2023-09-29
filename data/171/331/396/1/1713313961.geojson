@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Anikatsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0022,
-    "geom:area_square_m":14358459.460919,
+    "geom:area_square_m":14358459.460921,
     "geom:bbox":"25.709073,58.125566,25.792939,58.177652",
     "geom:latitude":58.149543,
     "geom:longitude":25.751442,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1283
+        "ee-mamt:okood":"1283"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125809009
     ],
     "wof:country":"EE",
     "wof:created":1595460873,
-    "wof:geomhash":"7bccf6b9b6f47b6d6d7edb839822910a",
+    "wof:geomhash":"8c012d0bebf28c33704320e36d5ac57c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661201,
+    "wof:lastmodified":1695876745,
     "wof:name":"Anikatsi",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

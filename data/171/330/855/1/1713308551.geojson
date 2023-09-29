@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tiigi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000373,
-    "geom:area_square_m":2337470.896182,
+    "geom:area_square_m":2337470.896181,
     "geom:bbox":"26.174058,59.529743,26.214105,59.545823",
     "geom:latitude":59.537586,
     "geom:longitude":26.193276,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8222
+        "ee-mamt:okood":"8222"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309731915
     ],
     "wof:country":"EE",
     "wof:created":1595459672,
-    "wof:geomhash":"f7695ecafebbaaec49538d7aed2b4966",
+    "wof:geomhash":"b3f3953439d3ced0d464b83feabefda3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678029,
+    "wof:lastmodified":1695877012,
     "wof:name":"Tiigi",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

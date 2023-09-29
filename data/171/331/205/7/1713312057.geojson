@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sirguvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000881,
-    "geom:area_square_m":5653066.945714,
+    "geom:area_square_m":5653066.945713,
     "geom:bbox":"26.738087,58.730085,26.786722,58.756915",
     "geom:latitude":58.74509,
     "geom:longitude":26.765564,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7637
+        "ee-mamt:okood":"7637"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209520373
     ],
     "wof:country":"EE",
     "wof:created":1595460473,
-    "wof:geomhash":"f7d0a7da15f58cc0ac72e0f9342ee575",
+    "wof:geomhash":"76ec1b9841711eb126ef4ebcdfe10c0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660969,
+    "wof:lastmodified":1695876741,
     "wof:name":"Sirguvere",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

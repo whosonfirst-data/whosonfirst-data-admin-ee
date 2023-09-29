@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Oela K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000507,
-    "geom:area_square_m":3224713.387498,
+    "geom:area_square_m":3224713.387499,
     "geom:bbox":"24.666694,59.037399,24.723469,59.065423",
     "geom:latitude":59.051685,
     "geom:longitude":24.692535,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5608
+        "ee-mamt:okood":"5608"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226328673
     ],
     "wof:country":"EE",
     "wof:created":1595460286,
-    "wof:geomhash":"92f6b27cf056be0b71e50b80188b0ede",
+    "wof:geomhash":"bfdd2f742d1779fdda3504450948978a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676706,
+    "wof:lastmodified":1695876942,
     "wof:name":"Oela",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

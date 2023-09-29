@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soometsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002849,
-    "geom:area_square_m":18567003.032845,
+    "geom:area_square_m":18567003.032832,
     "geom:bbox":"24.533743,58.155494,24.604094,58.234633",
     "geom:latitude":58.199336,
     "geom:longitude":24.573436,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7717
+        "ee-mamt:okood":"7717"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126045081
     ],
     "wof:country":"EE",
     "wof:created":1595459836,
-    "wof:geomhash":"491687ef0ae6d6ae5f6db87bcf1054a7",
+    "wof:geomhash":"be97247112d4a93ced3071c24bb11a4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663029,
+    "wof:lastmodified":1695876806,
     "wof:name":"Soometsa",
     "wof:parent_id":1713305741,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaim\u0151isa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004207,
-    "geom:area_square_m":26810031.461145,
+    "geom:area_square_m":26810031.461144,
     "geom:bbox":"24.402163,58.945203,24.516335,59.003326",
     "geom:latitude":58.97631,
     "geom:longitude":24.456181,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8882
+        "ee-mamt:okood":"8882"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260262295
     ],
     "wof:country":"EE",
     "wof:created":1595460276,
-    "wof:geomhash":"34c664ac5657eadba46c03dbe186733f",
+    "wof:geomhash":"be2b70ec0ab053cefcd3cfefc1a834ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662809,
+    "wof:lastmodified":1695876800,
     "wof:name":"Vaim\u0151isa",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

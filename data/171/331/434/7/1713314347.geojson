@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Uhmardu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002881,
-    "geom:area_square_m":18549863.489395,
+    "geom:area_square_m":18549863.489394,
     "geom:bbox":"26.746079,58.603189,26.860299,58.646144",
     "geom:latitude":58.626137,
     "geom:longitude":26.800581,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8629
+        "ee-mamt:okood":"8629"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309802961
     ],
     "wof:country":"EE",
     "wof:created":1595460957,
-    "wof:geomhash":"870bd8342e9f560888bbd3f08393cd4b",
+    "wof:geomhash":"13d94b2c80417a40e1b0af4d2dc00863",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676457,
+    "wof:lastmodified":1695876910,
     "wof:name":"Uhmardu",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kukulinna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000651,
-    "geom:area_square_m":4205294.521034,
+    "geom:area_square_m":4205294.521035,
     "geom:bbox":"26.68587,58.503624,26.740267,58.530033",
     "geom:latitude":58.515895,
     "geom:longitude":26.714634,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3572
+        "ee-mamt:okood":"3572"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125816961
     ],
     "wof:country":"EE",
     "wof:created":1595459794,
-    "wof:geomhash":"5ca232602996c82803cc99dfa8bd7e7c",
+    "wof:geomhash":"eabca6b33aa598913d744c285ba1ea9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676460,
+    "wof:lastmodified":1695876911,
     "wof:name":"Kukulinna",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

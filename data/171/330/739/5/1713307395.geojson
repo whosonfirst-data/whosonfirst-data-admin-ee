@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001267,
-    "geom:area_square_m":8181472.034445,
+    "geom:area_square_m":8181472.034448,
     "geom:bbox":"22.653953,58.484778,22.719387,58.534776",
     "geom:latitude":58.510249,
     "geom:longitude":22.690334,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2747
+        "ee-mamt:okood":"2747"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125912961
     ],
     "wof:country":"EE",
     "wof:created":1595459390,
-    "wof:geomhash":"3ba6dab35b818223182bd1e717e64ab8",
+    "wof:geomhash":"2dcc1fa574e76eee5c45f83be97b9366",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672293,
+    "wof:lastmodified":1695876888,
     "wof:name":"Karja",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

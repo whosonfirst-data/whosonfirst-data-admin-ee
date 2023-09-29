@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ilmastalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000958,
-    "geom:area_square_m":6020285.138698,
+    "geom:area_square_m":6020285.138697,
     "geom:bbox":"25.440111,59.41953,25.499832,59.45445",
     "geom:latitude":59.440356,
     "geom:longitude":25.473577,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2046
+        "ee-mamt:okood":"2046"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1210030603
     ],
     "wof:country":"EE",
     "wof:created":1595459033,
-    "wof:geomhash":"522d890f0ba1abf476a81dbd3cd600f5",
+    "wof:geomhash":"ce45b3ee199f17d4857e88b73520ee42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661824,
+    "wof:lastmodified":1695876779,
     "wof:name":"Ilmastalu",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

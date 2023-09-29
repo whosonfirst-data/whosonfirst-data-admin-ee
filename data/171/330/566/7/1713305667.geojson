@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":663,
+        "ee-mamt:okood":"663",
         "eg:gisco_id":"EE_0663",
         "eurostat:nuts_2021_id":"0663"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101839837,
         1713314069
@@ -92,7 +93,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352180,
+    "wof:lastmodified":1695886699,
     "wof:name":"Rakvere",
     "wof:parent_id":85683049,
     "wof:placetype":"county",

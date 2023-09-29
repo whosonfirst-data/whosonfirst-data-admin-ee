@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Linak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00086,
-    "geom:area_square_m":5612163.3689,
+    "geom:area_square_m":5612163.368905,
     "geom:bbox":"23.889539,58.110732,23.98696,58.200917",
     "geom:latitude":58.133023,
     "geom:longitude":23.968814,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4381
+        "ee-mamt:okood":"4381"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125788329
     ],
     "wof:country":"EE",
     "wof:created":1595459084,
-    "wof:geomhash":"09ace9508e4b34c90d145c742e6346db",
+    "wof:geomhash":"b60b8f71054121b09b6bfaa278f0e8e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663955,
+    "wof:lastmodified":1695876845,
     "wof:name":"Linak\u00fcla",
     "wof:parent_id":1713305635,
     "wof:placetype":"localadmin",

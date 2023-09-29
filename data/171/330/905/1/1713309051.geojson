@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pupastvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001226,
-    "geom:area_square_m":7921391.454365,
+    "geom:area_square_m":7921391.454364,
     "geom:bbox":"26.566347,58.4822,26.6556,58.528978",
     "geom:latitude":58.504338,
     "geom:longitude":26.613218,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6437
+        "ee-mamt:okood":"6437"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343424235
     ],
     "wof:country":"EE",
     "wof:created":1595459793,
-    "wof:geomhash":"aa8a222c8f65d529d3619e7923135458",
+    "wof:geomhash":"6ca70306358d2ea6afe9632ee6e5dee8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676462,
+    "wof:lastmodified":1695876912,
     "wof:name":"Pupastvere",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

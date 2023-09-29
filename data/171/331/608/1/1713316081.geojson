@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koigera K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001268,
-    "geom:area_square_m":8320111.646819,
+    "geom:area_square_m":8320111.646823,
     "geom:bbox":"26.710071,57.92169,26.794777,57.952357",
     "geom:latitude":57.937979,
     "geom:longitude":26.754277,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3280
+        "ee-mamt:okood":"3280"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293676159
     ],
     "wof:country":"EE",
     "wof:created":1595461353,
-    "wof:geomhash":"cbb58b658f65efa75e4bdec851785b5d",
+    "wof:geomhash":"c1cb04aff11f769dea8bbec541c604a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676783,
+    "wof:lastmodified":1695876952,
     "wof:name":"Koigera",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Maade K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001093,
-    "geom:area_square_m":7084766.058203,
+    "geom:area_square_m":7084766.058204,
     "geom:bbox":"23.810271,58.374764,23.887331,58.403447",
     "geom:latitude":58.387284,
     "geom:longitude":23.843329,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4695
+        "ee-mamt:okood":"4695"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343740499
     ],
     "wof:country":"EE",
     "wof:created":1595459868,
-    "wof:geomhash":"ac4c28a9967d372f88d211ef14ecf162",
+    "wof:geomhash":"f6b65de55e8be35ee61a82bff2af6d93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661659,
+    "wof:lastmodified":1695876773,
     "wof:name":"Maade",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

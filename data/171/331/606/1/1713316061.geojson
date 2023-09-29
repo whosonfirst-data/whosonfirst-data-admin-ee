@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mustja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001317,
-    "geom:area_square_m":8647346.457874,
+    "geom:area_square_m":8647346.457875,
     "geom:bbox":"26.821312,57.89834,26.898751,57.926894",
     "geom:latitude":57.914272,
     "geom:longitude":26.858978,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5077
+        "ee-mamt:okood":"5077"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276521757
     ],
     "wof:country":"EE",
     "wof:created":1595461349,
-    "wof:geomhash":"9c0ecab2330267cd67cb2a32e70c6635",
+    "wof:geomhash":"043e977864288c15c7d40038b69a2099",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660224,
+    "wof:lastmodified":1695876721,
     "wof:name":"Mustja",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

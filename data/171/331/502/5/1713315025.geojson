@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Trolla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000372,
-    "geom:area_square_m":2459259.038241,
+    "geom:area_square_m":2459259.038239,
     "geom:bbox":"27.068339,57.7025,27.098974,57.727516",
     "geom:latitude":57.71774,
     "geom:longitude":27.080606,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8351
+        "ee-mamt:okood":"8351"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1192992389
     ],
     "wof:country":"EE",
     "wof:created":1595461116,
-    "wof:geomhash":"f1e934252f1826377fb7731e6f48f6a6",
+    "wof:geomhash":"b577210edb25d7b8a3d33d854d3ea494",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676814,
+    "wof:lastmodified":1695876955,
     "wof:name":"Trolla",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

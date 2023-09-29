@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Metste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001265,
-    "geom:area_square_m":8284986.763285,
+    "geom:area_square_m":8284986.763289,
     "geom:bbox":"27.011577,58.001158,27.057193,58.046464",
     "geom:latitude":58.021816,
     "geom:longitude":27.036598,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4938
+        "ee-mamt:okood":"4938"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125956175
     ],
     "wof:country":"EE",
     "wof:created":1595460239,
-    "wof:geomhash":"f634af5f998fc02b942c1f78dca9ef0c",
+    "wof:geomhash":"15c63e4819744a60dc3a0bc38024f705",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617130593,
+    "wof:lastmodified":1695877017,
     "wof:name":"Metste",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

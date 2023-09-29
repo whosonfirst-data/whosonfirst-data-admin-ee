@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kunksilla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000405,
-    "geom:area_square_m":2658542.523433,
+    "geom:area_square_m":2658542.523432,
     "geom:bbox":"27.212843,57.904953,27.263088,57.921503",
     "geom:latitude":57.913275,
     "geom:longitude":27.235274,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3629
+        "ee-mamt:okood":"3629"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242851617
     ],
     "wof:country":"EE",
     "wof:created":1595461300,
-    "wof:geomhash":"4dab582e33a0346159334e544bf34a36",
+    "wof:geomhash":"c116124117f69679a26587bb6251bbc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676986,
+    "wof:lastmodified":1695876979,
     "wof:name":"Kunksilla",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

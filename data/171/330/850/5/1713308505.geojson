@@ -14,7 +14,7 @@
     "geom:longitude":23.577455,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Uuem\u0151isa alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8769
+        "ee-mamt:okood":"8769"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815105
     ],
     "wof:country":"EE",
     "wof:created":1595459661,
-    "wof:geomhash":"1df64b8a85d0471dd9eadcbe152d8749",
+    "wof:geomhash":"fc1e0574ee42b6a59df65347360fc1c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662516,
+    "wof:lastmodified":1695876794,
     "wof:name":"Uuem\u0151isa",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

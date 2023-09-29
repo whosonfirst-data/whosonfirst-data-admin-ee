@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soinaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001684,
-    "geom:area_square_m":10928814.735331,
+    "geom:area_square_m":10928814.735329,
     "geom:bbox":"26.672796,58.310313,26.786931,58.347557",
     "geom:latitude":58.333504,
     "geom:longitude":26.719365,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7666
+        "ee-mamt:okood":"7666"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125858383
     ],
     "wof:country":"EE",
     "wof:created":1595460859,
-    "wof:geomhash":"5a6863f5aacc037dac338f6fe211c61f",
+    "wof:geomhash":"1df7c0569559306383db28ceb7128fd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676685,
+    "wof:lastmodified":1695876939,
     "wof:name":"Soinaste",
     "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",

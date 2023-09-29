@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tiskre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000602,
-    "geom:area_square_m":3786385.642331,
+    "geom:area_square_m":3786385.64233,
     "geom:bbox":"24.5593,59.408932,24.600351,59.437265",
     "geom:latitude":59.425491,
     "geom:longitude":24.579932,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8257
+        "ee-mamt:okood":"8257"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125863103
     ],
     "wof:country":"EE",
     "wof:created":1595459018,
-    "wof:geomhash":"d788d4feb3fb292e1b6d3e7d49c21d35",
+    "wof:geomhash":"bb2bb8b661c9d1965f16e77429d10d14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661450,
+    "wof:lastmodified":1695876761,
     "wof:name":"Tiskre",
     "wof:parent_id":1713305681,
     "wof:placetype":"localadmin",

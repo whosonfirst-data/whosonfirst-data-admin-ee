@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u0151isanurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00119,
-    "geom:area_square_m":7721788.500477,
+    "geom:area_square_m":7721788.500471,
     "geom:bbox":"26.312145,58.324817,26.370429,58.360407",
     "geom:latitude":58.343733,
     "geom:longitude":26.345439,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5138
+        "ee-mamt:okood":"5138"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125956235
     ],
     "wof:country":"EE",
     "wof:created":1595460209,
-    "wof:geomhash":"778d9dfa5e9ad326d5ebe8452910af68",
+    "wof:geomhash":"1a48d358139520b83cd5937f8f6a4377",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661901,
+    "wof:lastmodified":1695876786,
     "wof:name":"M\u0151isanurme",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

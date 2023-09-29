@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Parasm\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001672,
-    "geom:area_square_m":10516409.128935,
+    "geom:area_square_m":10516409.128932,
     "geom:bbox":"25.095143,59.400084,25.17032,59.440375",
     "geom:latitude":59.418558,
     "geom:longitude":25.129514,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5997
+        "ee-mamt:okood":"5997"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276562023
     ],
     "wof:country":"EE",
     "wof:created":1595459038,
-    "wof:geomhash":"45d5bfa21b7126d5b00d252dafcead19",
+    "wof:geomhash":"d8e9ba3019bbd043a5162d40fcc628f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661377,
+    "wof:lastmodified":1695876757,
     "wof:name":"Parasm\u00e4e",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

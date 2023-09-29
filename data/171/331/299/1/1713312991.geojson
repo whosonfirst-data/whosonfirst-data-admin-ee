@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Uderna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001317,
-    "geom:area_square_m":8585630.799328,
+    "geom:area_square_m":8585630.799331,
     "geom:bbox":"26.371744,58.165019,26.437355,58.216497",
     "geom:latitude":58.18703,
     "geom:longitude":26.403466,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8614
+        "ee-mamt:okood":"8614"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126019589
     ],
     "wof:country":"EE",
     "wof:created":1595460668,
-    "wof:geomhash":"993b919887cd68bfa27127098be23ce3",
+    "wof:geomhash":"c426e5bb7bfd4118e22aa210ebc99bf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661891,
+    "wof:lastmodified":1695876784,
     "wof:name":"Uderna",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

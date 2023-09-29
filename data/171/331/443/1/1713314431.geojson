@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paatna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000947,
-    "geom:area_square_m":5964030.128278,
+    "geom:area_square_m":5964030.128277,
     "geom:bbox":"26.250762,59.357271,26.324199,59.379358",
     "geom:latitude":59.367595,
     "geom:longitude":26.290684,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5796
+        "ee-mamt:okood":"5796"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1210012033
     ],
     "wof:country":"EE",
     "wof:created":1595460980,
-    "wof:geomhash":"a6d4ae9ae06b666291e007ee9022f7e2",
+    "wof:geomhash":"19b679ec2b072db58c98e515c5f6ddff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676656,
+    "wof:lastmodified":1695876935,
     "wof:name":"Paatna",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

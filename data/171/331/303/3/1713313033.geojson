@@ -8,7 +8,7 @@
     "ee-mamt:animi":"\u00dcksnurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001764,
-    "geom:area_square_m":11140415.017665,
+    "geom:area_square_m":11140415.017667,
     "geom:bbox":"24.593071,59.263465,24.661375,59.30362",
     "geom:latitude":59.282471,
     "geom:longitude":24.624588,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9820
+        "ee-mamt:okood":"9820"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126017759
     ],
     "wof:country":"EE",
     "wof:created":1595460676,
-    "wof:geomhash":"d50440f4de5deb43a624700a3e5a4b6a",
+    "wof:geomhash":"a37d6bfef4edc18ca9bc13944ec22df8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661498,
+    "wof:lastmodified":1695876763,
     "wof:name":"\u00dcksnurme",
     "wof:parent_id":1713305685,
     "wof:placetype":"localadmin",

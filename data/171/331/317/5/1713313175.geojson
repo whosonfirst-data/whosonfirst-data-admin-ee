@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tromsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001849,
-    "geom:area_square_m":12117047.526444,
+    "geom:area_square_m":12117047.526442,
     "geom:bbox":"27.11056,57.967386,27.165448,58.025566",
     "geom:latitude":57.996129,
     "geom:longitude":27.136898,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8353
+        "ee-mamt:okood":"8353"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293370357
     ],
     "wof:country":"EE",
     "wof:created":1595460706,
-    "wof:geomhash":"6886175e2cde77f5ae3175dc4359147f",
+    "wof:geomhash":"ab638fc388fb5489c3c704c72e4bf132",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676950,
+    "wof:lastmodified":1695876974,
     "wof:name":"Tromsi",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

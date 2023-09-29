@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piusa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001038,
-    "geom:area_square_m":6829966.403817,
+    "geom:area_square_m":6829966.403818,
     "geom:bbox":"27.416525,57.830478,27.53439,57.850532",
     "geom:latitude":57.840236,
     "geom:longitude":27.478785,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6283
+        "ee-mamt:okood":"6283"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125817031
     ],
     "wof:country":"EE",
     "wof:created":1595461420,
-    "wof:geomhash":"1b1dc2d84a537bae93c7ba533c69f69a",
+    "wof:geomhash":"bec60c6576b76911a8124560c41595fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660236,
+    "wof:lastmodified":1695876722,
     "wof:name":"Piusa",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

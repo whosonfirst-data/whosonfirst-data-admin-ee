@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suur\u0151-Ruuga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000454,
-    "geom:area_square_m":2997226.044304,
+    "geom:area_square_m":2997226.044303,
     "geom:bbox":"26.908488,57.701195,26.950917,57.72052",
     "geom:latitude":57.710304,
     "geom:longitude":26.932032,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7146
+        "ee-mamt:okood":"7146"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461141,
-    "wof:geomhash":"c55ca955856b668ab5e8dc75f07c20ee",
+    "wof:geomhash":"9dfefdae2d301047797be4e662015c17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676809,
+    "wof:lastmodified":1695876954,
     "wof:name":"Suur\u0151-Ruuga",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

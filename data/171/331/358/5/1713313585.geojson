@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kikivere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001276,
-    "geom:area_square_m":8246428.663968,
+    "geom:area_square_m":8246428.663971,
     "geom:bbox":"26.802639,58.45651,26.845986,58.513928",
     "geom:latitude":58.484913,
     "geom:longitude":26.825567,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3064
+        "ee-mamt:okood":"3064"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309969203
     ],
     "wof:country":"EE",
     "wof:created":1595460793,
-    "wof:geomhash":"c865e6e6b3b635f2be403a8002937b7f",
+    "wof:geomhash":"40aca29063b41e08fad182911ae04252",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676465,
+    "wof:lastmodified":1695876913,
     "wof:name":"Kikivere",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

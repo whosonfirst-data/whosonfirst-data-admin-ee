@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Loksa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001645,
-    "geom:area_square_m":10302414.007563,
+    "geom:area_square_m":10302414.007558,
     "geom:bbox":"25.691932,59.544295,25.769942,59.58834",
     "geom:latitude":59.561976,
     "geom:longitude":25.735012,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4471
+        "ee-mamt:okood":"4471"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460765,
-    "wof:geomhash":"48919486b5abbce9765bef91f8c26982",
+    "wof:geomhash":"192d5f5842b18e57c97c559f4422732f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661815,
+    "wof:lastmodified":1695876778,
     "wof:name":"Loksa",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

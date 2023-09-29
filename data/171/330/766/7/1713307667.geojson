@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mahu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002646,
-    "geom:area_square_m":16597652.055981,
+    "geom:area_square_m":16597652.055971,
     "geom:bbox":"26.643345,59.4925,26.7619,59.538334",
     "geom:latitude":59.514631,
     "geom:longitude":26.701207,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4736
+        "ee-mamt:okood":"4736"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327020505
     ],
     "wof:country":"EE",
     "wof:created":1595459458,
-    "wof:geomhash":"3a64495511e935455065b3d9b6635ada",
+    "wof:geomhash":"1faec0a5573e3a2abc719ec95fbc198d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677920,
+    "wof:lastmodified":1695877001,
     "wof:name":"Mahu",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

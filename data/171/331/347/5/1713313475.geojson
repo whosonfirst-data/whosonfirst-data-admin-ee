@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Muksi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001318,
-    "geom:area_square_m":8596426.837657,
+    "geom:area_square_m":8596426.837655,
     "geom:bbox":"25.666606,58.139403,25.72875,58.174957",
     "geom:latitude":58.156537,
     "geom:longitude":25.694835,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5017
+        "ee-mamt:okood":"5017"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344022899
     ],
     "wof:country":"EE",
     "wof:created":1595460770,
-    "wof:geomhash":"f44e891fd564c59529a94e784e8a20c3",
+    "wof:geomhash":"3427e2fdd5836bbbd45a56be45b92d06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661201,
+    "wof:lastmodified":1695876745,
     "wof:name":"Muksi",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

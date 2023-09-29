@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Aegviidu Alev",
     "ee-mamt:tyyp":3,
     "geom:area":0.001881,
-    "geom:area_square_m":11884543.783347,
+    "geom:area_square_m":11884543.783346,
     "geom:bbox":"25.592073,59.254827,25.659416,59.304007",
     "geom:latitude":59.279458,
     "geom:longitude":25.620212,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "alev"
+        "town"
     ],
     "label:est_x_preferred_longname":[
         "Aegviidu alev"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1088
+        "ee-mamt:okood":"1088"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125862237
     ],
     "wof:country":"EE",
     "wof:created":1595460584,
-    "wof:geomhash":"1a12661c30ec03ab291e5517dac805b3",
+    "wof:geomhash":"8cc295a0b0642540ddf0ba6958f8930f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617130355,
+    "wof:lastmodified":1695877017,
     "wof:name":"Aegviidu",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

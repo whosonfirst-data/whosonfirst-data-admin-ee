@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Rummu Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000736,
-    "geom:area_square_m":4656923.513344,
+    "geom:area_square_m":4656923.513342,
     "geom:bbox":"24.163986,59.221765,24.237504,59.240269",
     "geom:latitude":59.230239,
     "geom:longitude":24.203759,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Rummu alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7121
+        "ee-mamt:okood":"7121"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815165
     ],
     "wof:country":"EE",
     "wof:created":1595461185,
-    "wof:geomhash":"f269e533785dc28a476f47e81fc438cc",
+    "wof:geomhash":"1715a2ff9477ff439981e6b4eb9ac9d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663307,
+    "wof:lastmodified":1695876818,
     "wof:name":"Rummu",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

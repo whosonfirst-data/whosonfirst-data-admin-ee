@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ahaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000606,
-    "geom:area_square_m":3917747.727669,
+    "geom:area_square_m":3917747.727668,
     "geom:bbox":"24.174271,58.471882,24.213654,58.497525",
     "geom:latitude":58.484377,
     "geom:longitude":24.194479,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1107
+        "ee-mamt:okood":"1107"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126038995
     ],
     "wof:country":"EE",
     "wof:created":1595460938,
-    "wof:geomhash":"a4060c282347b20abfea9b9e6c4326b1",
+    "wof:geomhash":"35ea106ecd8e53264b8038953b653a54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677682,
+    "wof:lastmodified":1695876994,
     "wof:name":"Ahaste",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

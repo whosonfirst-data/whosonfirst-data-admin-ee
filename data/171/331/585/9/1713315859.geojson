@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Treski K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003435,
-    "geom:area_square_m":22551197.138185,
+    "geom:area_square_m":22551197.138188,
     "geom:bbox":"27.532745,57.900922,27.663516,57.959183",
     "geom:latitude":57.926215,
     "geom:longitude":27.595372,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8343
+        "ee-mamt:okood":"8343"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008671
     ],
     "wof:country":"EE",
     "wof:created":1595461308,
-    "wof:geomhash":"17082b1bfecb90fb4aba4474671d5231",
+    "wof:geomhash":"2a6f72154e5ef456896dd9a67f4ba709",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663667,
+    "wof:lastmodified":1695876844,
     "wof:name":"Treski",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

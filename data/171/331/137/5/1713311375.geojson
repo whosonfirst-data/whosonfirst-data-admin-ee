@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sipa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004555,
-    "geom:area_square_m":29070762.537491,
+    "geom:area_square_m":29070762.537488,
     "geom:bbox":"24.266122,58.897337,24.371989,58.959704",
     "geom:latitude":58.9293,
     "geom:longitude":24.32091,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7622
+        "ee-mamt:okood":"7622"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936199
     ],
     "wof:country":"EE",
     "wof:created":1595460322,
-    "wof:geomhash":"1d1f02fa58b33441f891a33ca718dd5d",
+    "wof:geomhash":"d8c1017b40153f48f3ba7c81e4a4384b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662810,
+    "wof:lastmodified":1695876801,
     "wof:name":"Sipa",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

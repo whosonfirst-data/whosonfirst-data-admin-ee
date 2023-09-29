@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaabina K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001958,
-    "geom:area_square_m":12880036.656054,
+    "geom:area_square_m":12880036.656053,
     "geom:bbox":"26.571625,57.838801,26.645572,57.874987",
     "geom:latitude":57.857228,
     "geom:longitude":26.606629,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8801
+        "ee-mamt:okood":"8801"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126017769
     ],
     "wof:country":"EE",
     "wof:created":1595460688,
-    "wof:geomhash":"26bf82257470761513a536e3deeca944",
+    "wof:geomhash":"a7d501344380114d08ea33dcd6085677",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677014,
+    "wof:lastmodified":1695876982,
     "wof:name":"Vaabina",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

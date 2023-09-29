@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.445673,
-    "geom:area_square_m":2888295240.229318,
+    "geom:area_square_m":2888295240.228955,
     "geom:bbox":"21.808763,57.780628,23.405763,58.684303",
     "geom:latitude":58.391355,
     "geom:longitude":22.547104,
@@ -254,10 +254,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ee-mamt:okood":"74",
+        "iso:code":"EE-74",
         "wd:id":"Q203272"
     },
+    "wof:concordances_official":"ee-mamt:okood",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"a0cdf68b0eedb6f6f6afbadb3e7322dc",
+    "wof:geomhash":"f594ae813aff530d30abced99ea20bf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -272,7 +278,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875675,
+    "wof:lastmodified":1695884927,
     "wof:name":"Saare",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

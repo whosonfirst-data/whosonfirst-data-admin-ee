@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Alap\u0151dra K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000742,
-    "geom:area_square_m":4883413.750218,
+    "geom:area_square_m":4883413.750212,
     "geom:bbox":"26.713588,57.8498,26.770645,57.880515",
     "geom:latitude":57.866227,
     "geom:longitude":26.74015,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1172
+        "ee-mamt:okood":"1172"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461415,
-    "wof:geomhash":"cf2374dda193761572c65ab5cc859796",
+    "wof:geomhash":"e253853bb4f518653a283a206bf8f37d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660257,
+    "wof:lastmodified":1695876725,
     "wof:name":"Alap\u0151dra",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

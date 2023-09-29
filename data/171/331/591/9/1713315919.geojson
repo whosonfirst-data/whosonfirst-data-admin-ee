@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vagula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002372,
-    "geom:area_square_m":15602656.065899,
+    "geom:area_square_m":15602656.065895,
     "geom:bbox":"26.870336,57.837065,26.969323,57.88384",
     "geom:latitude":57.857706,
     "geom:longitude":26.919152,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8833
+        "ee-mamt:okood":"8833"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936829
     ],
     "wof:country":"EE",
     "wof:created":1595461320,
-    "wof:geomhash":"bacc027cb44e5b3df77d2832e7cbea96",
+    "wof:geomhash":"2d90c4d1b8854d48a71f796ce63bd9ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660273,
+    "wof:lastmodified":1695876727,
     "wof:name":"Vagula",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

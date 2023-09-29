@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ellamaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003066,
-    "geom:area_square_m":19695280.047604,
+    "geom:area_square_m":19695280.047601,
     "geom:bbox":"24.907197,58.661322,24.993872,58.726635",
     "geom:latitude":58.69713,
     "geom:longitude":24.944858,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1583
+        "ee-mamt:okood":"1583"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293469121
     ],
     "wof:country":"EE",
     "wof:created":1595460049,
-    "wof:geomhash":"e87223e4db7099fd691ee1e4983f8de8",
+    "wof:geomhash":"536a4a5d7fd33ab71e20c3526c754202",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676739,
+    "wof:lastmodified":1695876947,
     "wof:name":"Ellamaa",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

@@ -14,7 +14,7 @@
     "geom:longitude":24.811059,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "alev"
+        "town"
     ],
     "label:est_x_preferred_longname":[
         "J\u00e4rvakandi alev"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2346
+        "ee-mamt:okood":"2346"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815121
     ],
     "wof:country":"EE",
     "wof:created":1595459958,
-    "wof:geomhash":"8b199866b0207a01a1ffe61c7285c9b6",
+    "wof:geomhash":"706ad898f6456e56b3e3658a09e7f88a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676738,
+    "wof:lastmodified":1695876946,
     "wof:name":"J\u00e4rvakandi",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kahutsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00121,
-    "geom:area_square_m":7814260.496821,
+    "geom:area_square_m":7814260.49682,
     "geom:bbox":"22.932307,58.504679,23.034756,58.532317",
     "geom:latitude":58.521862,
     "geom:longitude":22.994179,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2522
+        "ee-mamt:okood":"2522"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209589295
     ],
     "wof:country":"EE",
     "wof:created":1595459380,
-    "wof:geomhash":"4ae073b3288050e2b71398e912581867",
+    "wof:geomhash":"4cfe548d0ea04ec7e2780fc0908de42b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672332,
+    "wof:lastmodified":1695876890,
     "wof:name":"Kahutsi",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

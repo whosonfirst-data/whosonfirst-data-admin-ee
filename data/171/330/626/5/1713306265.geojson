@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tamsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000525,
-    "geom:area_square_m":3420345.327957,
+    "geom:area_square_m":3420345.327959,
     "geom:bbox":"26.462782,58.196878,26.505289,58.224583",
     "geom:latitude":58.210451,
     "geom:longitude":26.483616,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8133
+        "ee-mamt:okood":"8133"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259349027
     ],
     "wof:country":"EE",
     "wof:created":1595459117,
-    "wof:geomhash":"513bc969fbef4e115b67b1ea86beee6f",
+    "wof:geomhash":"f3ba317974447c1704bd0e91c057d74c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676755,
+    "wof:lastmodified":1695876948,
     "wof:name":"Tamsa",
     "wof:parent_id":1713305715,
     "wof:placetype":"localadmin",

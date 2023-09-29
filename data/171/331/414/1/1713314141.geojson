@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaagvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001024,
-    "geom:area_square_m":6644862.064258,
+    "geom:area_square_m":6644862.064256,
     "geom:bbox":"26.83625,58.333102,26.930059,58.352659",
     "geom:latitude":58.342823,
     "geom:longitude":26.886245,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2393
+        "ee-mamt:okood":"2393"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125933355
     ],
     "wof:country":"EE",
     "wof:created":1595460911,
-    "wof:geomhash":"086e53325519c37c3c4df584116b8bf9",
+    "wof:geomhash":"d3d748658df2b005bf443b3c039d3182",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660654,
+    "wof:lastmodified":1695876729,
     "wof:name":"Kaagvere",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

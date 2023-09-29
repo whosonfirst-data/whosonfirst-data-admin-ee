@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Toovere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001203,
-    "geom:area_square_m":7725712.411001,
+    "geom:area_square_m":7725712.411002,
     "geom:bbox":"26.552234,58.695184,26.636448,58.73343",
     "geom:latitude":58.71756,
     "geom:longitude":26.594981,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8318
+        "ee-mamt:okood":"8318"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344156017
     ],
     "wof:country":"EE",
     "wof:created":1595460525,
-    "wof:geomhash":"a9fd0e7ca6ac5b51834b93f8f7b749a8",
+    "wof:geomhash":"2622cf97738fb37265ee25840eff4130",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676561,
+    "wof:lastmodified":1695876924,
     "wof:name":"Toovere",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

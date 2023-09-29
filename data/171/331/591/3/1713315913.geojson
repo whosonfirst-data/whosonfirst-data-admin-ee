@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tagak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001859,
-    "geom:area_square_m":12213686.920256,
+    "geom:area_square_m":12213686.920254,
     "geom:bbox":"26.875718,57.878616,26.951579,57.928896",
     "geom:latitude":57.905385,
     "geom:longitude":26.916788,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8040
+        "ee-mamt:okood":"8040"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008661
     ],
     "wof:country":"EE",
     "wof:created":1595461319,
-    "wof:geomhash":"6e3155207435c0d0c6a372e14b183c1d",
+    "wof:geomhash":"0112329f84f2c7b1dfca7dee52c5b866",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660222,
+    "wof:lastmodified":1695876720,
     "wof:name":"Tagak\u00fcla",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

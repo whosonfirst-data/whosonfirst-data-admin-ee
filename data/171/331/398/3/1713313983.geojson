@@ -8,7 +8,7 @@
     "ee-mamt:animi":"L\u00e4sna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00226,
-    "geom:area_square_m":14203728.759388,
+    "geom:area_square_m":14203728.759387,
     "geom:bbox":"25.840962,59.426809,25.930685,59.468965",
     "geom:latitude":59.450308,
     "geom:longitude":25.889432,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4641
+        "ee-mamt:okood":"4641"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259468401
     ],
     "wof:country":"EE",
     "wof:created":1595460878,
-    "wof:geomhash":"5037dac61e601c1c7d72ae712c9dd9b8",
+    "wof:geomhash":"8d6aac2dbe689ec582c19fac2c6c9d20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661717,
+    "wof:lastmodified":1695876774,
     "wof:name":"L\u00e4sna",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

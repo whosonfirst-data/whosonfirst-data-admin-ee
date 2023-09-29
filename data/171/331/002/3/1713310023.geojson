@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Unametsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001868,
-    "geom:area_square_m":12176070.571289,
+    "geom:area_square_m":12176070.57129,
     "geom:bbox":"25.911639,58.170901,25.979716,58.212577",
     "geom:latitude":58.189259,
     "geom:longitude":25.945432,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8684
+        "ee-mamt:okood":"8684"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326594701
     ],
     "wof:country":"EE",
     "wof:created":1595460032,
-    "wof:geomhash":"d3a71e1fab0689fafe07df8a66969dc5",
+    "wof:geomhash":"4d0b64bf1c5e1dbe1f2bef3d556172e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661184,
+    "wof:lastmodified":1695876743,
     "wof:name":"Unametsa",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Amula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00083,
-    "geom:area_square_m":5223589.425353,
+    "geom:area_square_m":5223589.425352,
     "geom:bbox":"27.297019,59.406031,27.393643,59.426957",
     "geom:latitude":59.41642,
     "geom:longitude":27.340739,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1253
+        "ee-mamt:okood":"1253"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226547409
     ],
     "wof:country":"EE",
     "wof:created":1595460734,
-    "wof:geomhash":"c011c15da5cd2e08c50d89ec1cdcf447",
+    "wof:geomhash":"01877589851f9eca6930b72da7b16e8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676909,
+    "wof:lastmodified":1695876971,
     "wof:name":"Amula",
     "wof:parent_id":1713305783,
     "wof:placetype":"localadmin",

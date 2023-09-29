@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kanapeeksi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004116,
-    "geom:area_square_m":26241646.956861,
+    "geom:area_square_m":26241646.956858,
     "geom:bbox":"22.613936,58.913906,22.716989,59.006146",
     "geom:latitude":58.964694,
     "geom:longitude":22.672786,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2650
+        "ee-mamt:okood":"2650"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360097875
     ],
     "wof:country":"EE",
     "wof:created":1595460086,
-    "wof:geomhash":"8bd84c8ffcf3f4e1458341cac57f4e2b",
+    "wof:geomhash":"78c73883e6e045ca0adeb91a50587e40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666312,
+    "wof:lastmodified":1695876849,
     "wof:name":"Kanapeeksi",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

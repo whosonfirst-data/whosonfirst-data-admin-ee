@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuivaj\u0151e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000219,
-    "geom:area_square_m":1385931.328078,
+    "geom:area_square_m":1385931.328077,
     "geom:bbox":"25.09204,59.174707,25.120858,59.187056",
     "geom:latitude":59.180462,
     "geom:longitude":25.107261,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3546
+        "ee-mamt:okood":"3546"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125909915
     ],
     "wof:country":"EE",
     "wof:created":1595459126,
-    "wof:geomhash":"2ae5c14df96796c49b66b63cf75c9c6e",
+    "wof:geomhash":"116b4fc40d63d2c99ac64b0e51755518",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661341,
+    "wof:lastmodified":1695876754,
     "wof:name":"Kuivaj\u0151e",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

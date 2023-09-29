@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pagasi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000774,
-    "geom:area_square_m":4970446.52581,
+    "geom:area_square_m":4970446.525809,
     "geom:bbox":"23.845457,58.712108,23.889415,58.738364",
     "geom:latitude":58.725335,
     "geom:longitude":23.863876,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5845
+        "ee-mamt:okood":"5845"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309703853
     ],
     "wof:country":"EE",
     "wof:created":1595459754,
-    "wof:geomhash":"158931690cf96525eaca661de605954f",
+    "wof:geomhash":"df9c23297f6bc51c483c4881857d8818",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661572,
+    "wof:lastmodified":1695876765,
     "wof:name":"Pagasi",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00e4inurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002482,
-    "geom:area_square_m":15899304.337187,
+    "geom:area_square_m":15899304.337191,
     "geom:bbox":"25.893098,58.771126,25.97676,58.837864",
     "geom:latitude":58.804075,
     "geom:longitude":25.928803,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6580
+        "ee-mamt:okood":"6580"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935211
     ],
     "wof:country":"EE",
     "wof:created":1595460997,
-    "wof:geomhash":"d69b94d0e1b104972208be55a95b1fa1",
+    "wof:geomhash":"43a093d0c3224768484d8e52b4756eb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676630,
+    "wof:lastmodified":1695876934,
     "wof:name":"P\u00e4inurme",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vandjala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001614,
-    "geom:area_square_m":10150707.976585,
+    "geom:area_square_m":10150707.976586,
     "geom:bbox":"25.049053,59.400114,25.115724,59.450763",
     "geom:latitude":59.424615,
     "geom:longitude":25.075957,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9041
+        "ee-mamt:okood":"9041"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343265899
     ],
     "wof:country":"EE",
     "wof:created":1595459038,
-    "wof:geomhash":"747d7747283ea322cdd95f517e3254c5",
+    "wof:geomhash":"6c2acdd2b8680c3b2a3e0c5b4da8cbce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661375,
+    "wof:lastmodified":1695876756,
     "wof:name":"Vandjala",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Palupere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001571,
-    "geom:area_square_m":10061946.275534,
+    "geom:area_square_m":10061946.275532,
     "geom:bbox":"26.532736,58.78257,26.602724,58.82794",
     "geom:latitude":58.803846,
     "geom:longitude":26.568768,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5954
+        "ee-mamt:okood":"5954"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259488079
     ],
     "wof:country":"EE",
     "wof:created":1595460509,
-    "wof:geomhash":"8c378fd9adb3be87ba05b8b4b34aceca",
+    "wof:geomhash":"25634b579904f83960537d3ade71ff9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676555,
+    "wof:lastmodified":1695876922,
     "wof:name":"Palupere",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

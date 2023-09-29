@@ -8,7 +8,7 @@
     "ee-mamt:animi":"\u00c4teniidi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000586,
-    "geom:area_square_m":3762860.66424,
+    "geom:area_square_m":3762860.664239,
     "geom:bbox":"27.067427,58.709341,27.112955,58.736408",
     "geom:latitude":58.722761,
     "geom:longitude":27.088127,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9787
+        "ee-mamt:okood":"9787"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309837759
     ],
     "wof:country":"EE",
     "wof:created":1595459957,
-    "wof:geomhash":"1f61650cf03ded18e7ec949072ebedb8",
+    "wof:geomhash":"bc784f425e9e5a9a26093bf8b970ec73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660841,
+    "wof:lastmodified":1695876737,
     "wof:name":"\u00c4teniidi",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

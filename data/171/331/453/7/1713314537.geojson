@@ -8,7 +8,7 @@
     "ee-mamt:animi":"N\u0151mmeveski K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001401,
-    "geom:area_square_m":8789651.879417,
+    "geom:area_square_m":8789651.879412,
     "geom:bbox":"25.747671,59.484961,25.812498,59.531326",
     "geom:latitude":59.512273,
     "geom:longitude":25.787961,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5533
+        "ee-mamt:okood":"5533"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461003,
-    "wof:geomhash":"134c751dfe2e69a63e7b384bdaa3ec74",
+    "wof:geomhash":"dcbc61a0c6d096afb10c81e813c674f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661804,
+    "wof:lastmodified":1695876776,
     "wof:name":"N\u0151mmeveski",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

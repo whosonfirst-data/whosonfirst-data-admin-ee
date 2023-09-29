@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lipstu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000626,
-    "geom:area_square_m":3989218.9114,
+    "geom:area_square_m":3989218.911399,
     "geom:bbox":"24.624252,58.971126,24.66875,59.000269",
     "geom:latitude":58.986888,
     "geom:longitude":24.648181,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4421
+        "ee-mamt:okood":"4421"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326901795
     ],
     "wof:country":"EE",
     "wof:created":1595460314,
-    "wof:geomhash":"1d90b053e289d11996e5fc052f7df603",
+    "wof:geomhash":"263b10e013fe217965e81ca54d7e7da3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676703,
+    "wof:lastmodified":1695876941,
     "wof:name":"Lipstu",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

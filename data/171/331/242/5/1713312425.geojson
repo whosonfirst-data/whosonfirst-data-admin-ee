@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Virulase K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000548,
-    "geom:area_square_m":3565930.681686,
+    "geom:area_square_m":3565930.681683,
     "geom:bbox":"26.618832,58.230533,26.663734,58.258637",
     "geom:latitude":58.245751,
     "geom:longitude":26.639656,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9404
+        "ee-mamt:okood":"9404"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1192984757
     ],
     "wof:country":"EE",
     "wof:created":1595460541,
-    "wof:geomhash":"a1e0126b64631092ccee244590efc4ce",
+    "wof:geomhash":"bb74f7ae2775e4660674a436451163f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676678,
+    "wof:lastmodified":1695876938,
     "wof:name":"Virulase",
     "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",

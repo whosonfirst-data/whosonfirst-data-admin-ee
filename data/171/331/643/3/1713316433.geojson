@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karisilla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001425,
-    "geom:area_square_m":9343299.957978,
+    "geom:area_square_m":9343299.95798,
     "geom:bbox":"27.523818,57.948323,27.588841,57.989926",
     "geom:latitude":57.972376,
     "geom:longitude":27.557715,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2736
+        "ee-mamt:okood":"2736"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293569335
     ],
     "wof:country":"EE",
     "wof:created":1595461426,
-    "wof:geomhash":"4e946091000b56f48e23e5c3a4dd7078",
+    "wof:geomhash":"a947afd8f3f7d4b5d8cbc8a021c86a55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663654,
+    "wof:lastmodified":1695876841,
     "wof:name":"Karisilla",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

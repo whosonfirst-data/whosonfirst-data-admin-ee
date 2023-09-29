@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Perila K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002501,
-    "geom:area_square_m":15794076.829344,
+    "geom:area_square_m":15794076.82935,
     "geom:bbox":"25.145469,59.243714,25.236966,59.317762",
     "geom:latitude":59.28338,
     "geom:longitude":25.193791,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6122
+        "ee-mamt:okood":"6122"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037757
     ],
     "wof:country":"EE",
     "wof:created":1595461150,
-    "wof:geomhash":"21ab32d93727d3d6534087b40cb3c547",
+    "wof:geomhash":"677e3abec5c63c8b6bc4754e88d0a05e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661928,
+    "wof:lastmodified":1695876789,
     "wof:name":"Perila",
     "wof:parent_id":1713305751,
     "wof:placetype":"localadmin",

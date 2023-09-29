@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rohe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00118,
-    "geom:area_square_m":7554663.209927,
+    "geom:area_square_m":7554663.209929,
     "geom:bbox":"26.349251,58.797466,26.411625,58.832824",
     "geom:latitude":58.816004,
     "geom:longitude":26.383175,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7031
+        "ee-mamt:okood":"7031"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209738319
     ],
     "wof:country":"EE",
     "wof:created":1595460520,
-    "wof:geomhash":"ca43a6156b6337eba77d05c0f5637aae",
+    "wof:geomhash":"89fd0cbb9678b833df06613fefb696a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676561,
+    "wof:lastmodified":1695876924,
     "wof:name":"Rohe",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

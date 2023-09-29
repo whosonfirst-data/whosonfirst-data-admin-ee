@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suurekivi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005136,
-    "geom:area_square_m":32725616.423414,
+    "geom:area_square_m":32725616.42341,
     "geom:bbox":"25.170512,58.95221,25.333962,59.016832",
     "geom:latitude":58.983125,
     "geom:longitude":25.24562,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7840
+        "ee-mamt:okood":"7840"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226221635
     ],
     "wof:country":"EE",
     "wof:created":1595461110,
-    "wof:geomhash":"3de2b57097097872746ad215b66878d7",
+    "wof:geomhash":"34e271ff97e05b56bd0d4a5ea07f60b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676708,
+    "wof:lastmodified":1695876943,
     "wof:name":"Suurekivi",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

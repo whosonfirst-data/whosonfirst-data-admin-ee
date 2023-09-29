@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koosalaane K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000924,
-    "geom:area_square_m":5968511.046314,
+    "geom:area_square_m":5968511.046316,
     "geom:bbox":"27.095013,58.499103,27.138663,58.530934",
     "geom:latitude":58.51357,
     "geom:longitude":27.117722,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3427
+        "ee-mamt:okood":"3427"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1192981673
     ],
     "wof:country":"EE",
     "wof:created":1595459892,
-    "wof:geomhash":"12988fa340116b05a104f504ec62af97",
+    "wof:geomhash":"8d28c46169eda0d471e0c4dabc4740d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660859,
+    "wof:lastmodified":1695876738,
     "wof:name":"Koosalaane",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

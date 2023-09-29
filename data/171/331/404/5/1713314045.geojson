@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Veisj\u00e4rve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002915,
-    "geom:area_square_m":19048481.314737,
+    "geom:area_square_m":19048481.314727,
     "geom:bbox":"25.735752,58.069887,25.820685,58.124197",
     "geom:latitude":58.09829,
     "geom:longitude":25.778638,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9186
+        "ee-mamt:okood":"9186"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242742719
     ],
     "wof:country":"EE",
     "wof:created":1595460891,
-    "wof:geomhash":"068b01c83e4443803c10ed774116be92",
+    "wof:geomhash":"8502a1d961615d4d1479a3fcdf3a4ff5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661203,
+    "wof:lastmodified":1695876745,
     "wof:name":"Veisj\u00e4rve",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

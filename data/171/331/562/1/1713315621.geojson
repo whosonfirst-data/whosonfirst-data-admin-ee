@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuklase K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000792,
-    "geom:area_square_m":5244691.114439,
+    "geom:area_square_m":5244691.114441,
     "geom:bbox":"27.066797,57.586668,27.13329,57.615246",
     "geom:latitude":57.60086,
     "geom:longitude":27.100266,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3559
+        "ee-mamt:okood":"3559"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343635383
     ],
     "wof:country":"EE",
     "wof:created":1595461259,
-    "wof:geomhash":"6d356de6549a326d8a92f1b517f32a91",
+    "wof:geomhash":"97ff4b55d9119d9c9110389499444e99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676837,
+    "wof:lastmodified":1695876962,
     "wof:name":"Kuklase",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

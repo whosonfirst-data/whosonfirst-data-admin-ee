@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kastre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005353,
-    "geom:area_square_m":34701433.373897,
+    "geom:area_square_m":34701433.373904,
     "geom:bbox":"27.058479,58.356605,27.248263,58.418758",
     "geom:latitude":58.383554,
     "geom:longitude":27.178717,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2840
+        "ee-mamt:okood":"2840"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243226971
     ],
     "wof:country":"EE",
     "wof:created":1595460331,
-    "wof:geomhash":"62561cb1d46a060c5cc3f1d5b118145e",
+    "wof:geomhash":"cdcd5627802caf8b2c203c84c4fe01ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660644,
+    "wof:lastmodified":1695876728,
     "wof:name":"Kastre",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

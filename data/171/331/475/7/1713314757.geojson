@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Salda K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000674,
-    "geom:area_square_m":4260213.685877,
+    "geom:area_square_m":4260213.685878,
     "geom:bbox":"26.052093,59.266868,26.106329,59.289551",
     "geom:latitude":59.277436,
     "geom:longitude":26.077449,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7376
+        "ee-mamt:okood":"7376"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125871883
     ],
     "wof:country":"EE",
     "wof:created":1595461052,
-    "wof:geomhash":"cce3d2ba616adad76cc07551ebb3a48a",
+    "wof:geomhash":"136c4a72c865f0496323ca529d537967",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661720,
+    "wof:lastmodified":1695876774,
     "wof:name":"Salda",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

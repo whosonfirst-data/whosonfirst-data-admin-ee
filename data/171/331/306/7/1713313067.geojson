@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Praaga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004108,
-    "geom:area_square_m":26601657.051671,
+    "geom:area_square_m":26601657.051675,
     "geom:bbox":"27.12312,58.390453,27.253335,58.451803",
     "geom:latitude":58.422998,
     "geom:longitude":27.185317,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6342
+        "ee-mamt:okood":"6342"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277140171
     ],
     "wof:country":"EE",
     "wof:created":1595460683,
-    "wof:geomhash":"5801aca7b4b244ee3b69123a5091ef69",
+    "wof:geomhash":"73869f13b132afa83c13a2547f181193",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617130344,
+    "wof:lastmodified":1695877017,
     "wof:name":"Praaga",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

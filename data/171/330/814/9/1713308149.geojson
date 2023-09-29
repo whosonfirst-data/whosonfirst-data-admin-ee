@@ -8,7 +8,7 @@
     "ee-mamt:animi":"S\u0151meru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001856,
-    "geom:area_square_m":11815637.312509,
+    "geom:area_square_m":11815637.312507,
     "geom:bbox":"25.584282,58.995812,25.651644,59.048761",
     "geom:latitude":59.020162,
     "geom:longitude":25.622137,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7889
+        "ee-mamt:okood":"7889"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344263279
     ],
     "wof:country":"EE",
     "wof:created":1595459570,
-    "wof:geomhash":"28aedbcef156969f052208dc5fc4a975",
+    "wof:geomhash":"971542cab0d4f156f4e13972a6dac1eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661320,
+    "wof:lastmodified":1695876753,
     "wof:name":"S\u0151meru",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

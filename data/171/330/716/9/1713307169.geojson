@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Parila K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002661,
-    "geom:area_square_m":16783206.184568,
+    "geom:area_square_m":16783206.184564,
     "geom:bbox":"25.203611,59.311832,25.292794,59.361406",
     "geom:latitude":59.337104,
     "geom:longitude":25.24771,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6009
+        "ee-mamt:okood":"6009"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344171265
     ],
     "wof:country":"EE",
     "wof:created":1595459336,
-    "wof:geomhash":"6e2e1429f9886087d9a118340114fa83",
+    "wof:geomhash":"7a1675be3146e893dbac8325504b499d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662795,
+    "wof:lastmodified":1695876799,
     "wof:name":"Parila",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

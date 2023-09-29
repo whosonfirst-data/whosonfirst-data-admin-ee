@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaimi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00099,
-    "geom:area_square_m":6424481.174811,
+    "geom:area_square_m":6424481.174808,
     "geom:bbox":"26.36493,58.32659,26.429219,58.354526",
     "geom:latitude":58.341459,
     "geom:longitude":26.390133,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2540
+        "ee-mamt:okood":"2540"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293850225
     ],
     "wof:country":"EE",
     "wof:created":1595460208,
-    "wof:geomhash":"5fa95f18dc04d99a4cb36bd88cc7e237",
+    "wof:geomhash":"3126b4581bdd680ee72225641ac0f1b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661900,
+    "wof:lastmodified":1695876786,
     "wof:name":"Kaimi",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

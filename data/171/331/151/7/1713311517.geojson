@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Taevere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000927,
-    "geom:area_square_m":5977223.471253,
+    "geom:area_square_m":5977223.471254,
     "geom:bbox":"25.4624,58.556067,25.503393,58.599447",
     "geom:latitude":58.576864,
     "geom:longitude":25.480461,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8030
+        "ee-mamt:okood":"8030"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360259653
     ],
     "wof:country":"EE",
     "wof:created":1595460357,
-    "wof:geomhash":"89e4e9b9282e18fa1c593624a1ccdd56",
+    "wof:geomhash":"15d8100d8a10cb182eadbe57e24b71f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663442,
+    "wof:lastmodified":1695876829,
     "wof:name":"Taevere",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

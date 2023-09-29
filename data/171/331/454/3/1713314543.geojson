@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u0151usa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000855,
-    "geom:area_square_m":5515197.822888,
+    "geom:area_square_m":5515197.822886,
     "geom:bbox":"26.755158,58.532947,26.81113,58.561026",
     "geom:latitude":58.547558,
     "geom:longitude":26.784622,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2286
+        "ee-mamt:okood":"2286"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293258471
     ],
     "wof:country":"EE",
     "wof:created":1595461006,
-    "wof:geomhash":"8f7891786ec662cfc1812cfd6b7f45de",
+    "wof:geomhash":"d6bb3a4e210e1c1a50875482c594e1cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676453,
+    "wof:lastmodified":1695876910,
     "wof:name":"J\u0151usa",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

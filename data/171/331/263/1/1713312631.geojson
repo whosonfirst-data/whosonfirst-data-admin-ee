@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aadami K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001775,
-    "geom:area_square_m":11555943.874699,
+    "geom:area_square_m":11555943.874692,
     "geom:bbox":"26.823728,58.20961,26.903413,58.262217",
     "geom:latitude":58.23828,
     "geom:longitude":26.865105,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1010
+        "ee-mamt:okood":"1010"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344021221
     ],
     "wof:country":"EE",
     "wof:created":1595460585,
-    "wof:geomhash":"3c7925305b5694e0ff400ead299fbd61",
+    "wof:geomhash":"87207ed8989e53fed777b7d6565deb62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660650,
+    "wof:lastmodified":1695876729,
     "wof:name":"Aadami",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

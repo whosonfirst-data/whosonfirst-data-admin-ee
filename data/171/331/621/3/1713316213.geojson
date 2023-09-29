@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Talka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000306,
-    "geom:area_square_m":2013834.578328,
+    "geom:area_square_m":2013834.578325,
     "geom:bbox":"27.41203,57.824441,27.438558,57.840611",
     "geom:latitude":57.832383,
     "geom:longitude":27.42444,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8082
+        "ee-mamt:okood":"8082"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343434999
     ],
     "wof:country":"EE",
     "wof:created":1595461381,
-    "wof:geomhash":"44fe4685e8cb886875fbababa3920049",
+    "wof:geomhash":"acc92ae1e7703e824a4a6aa2322e7583",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663627,
+    "wof:lastmodified":1695876835,
     "wof:name":"Talka",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

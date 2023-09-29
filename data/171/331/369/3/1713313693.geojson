@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aidu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001348,
-    "geom:area_square_m":8504708.307377,
+    "geom:area_square_m":8504708.307375,
     "geom:bbox":"27.037907,59.300247,27.103475,59.330588",
     "geom:latitude":59.314722,
     "geom:longitude":27.070207,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1132
+        "ee-mamt:okood":"1132"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259685985
     ],
     "wof:country":"EE",
     "wof:created":1595460815,
-    "wof:geomhash":"7cce1a672a50b4e8923bad5f2b60eeea",
+    "wof:geomhash":"75e8310f29bff6a652333dedbe56e7f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660777,
+    "wof:lastmodified":1695876735,
     "wof:name":"Aidu",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

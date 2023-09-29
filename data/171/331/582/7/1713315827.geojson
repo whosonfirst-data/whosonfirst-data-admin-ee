@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Timo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001585,
-    "geom:area_square_m":10395000.207474,
+    "geom:area_square_m":10395000.207471,
     "geom:bbox":"27.110847,57.945974,27.193948,57.993035",
     "geom:latitude":57.967938,
     "geom:longitude":27.154101,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8244
+        "ee-mamt:okood":"8244"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226522405
     ],
     "wof:country":"EE",
     "wof:created":1595461302,
-    "wof:geomhash":"d10b9eea28848d73459ddc216bde0296",
+    "wof:geomhash":"39410a06edf8bd749940b4ced402b930",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676989,
+    "wof:lastmodified":1695876979,
     "wof:name":"Timo",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

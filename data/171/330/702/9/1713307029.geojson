@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pikva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002192,
-    "geom:area_square_m":13848414.611495,
+    "geom:area_square_m":13848414.611501,
     "geom:bbox":"25.336016,59.252491,25.471177,59.301684",
     "geom:latitude":59.276596,
     "geom:longitude":25.388054,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6241
+        "ee-mamt:okood":"6241"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935461
     ],
     "wof:country":"EE",
     "wof:created":1595459304,
-    "wof:geomhash":"9e95b9ae6630d583809e94cae83c4d34",
+    "wof:geomhash":"67c32625748b49aa55422825e8f780d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662791,
+    "wof:lastmodified":1695876798,
     "wof:name":"Pikva",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

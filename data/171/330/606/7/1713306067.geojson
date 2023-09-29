@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rohuneeme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000567,
-    "geom:area_square_m":3553604.87376,
+    "geom:area_square_m":3553604.873761,
     "geom:bbox":"24.729347,59.542659,24.836631,59.600946",
     "geom:latitude":59.555544,
     "geom:longitude":24.813368,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7039
+        "ee-mamt:okood":"7039"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126045095
     ],
     "wof:country":"EE",
     "wof:created":1595459067,
-    "wof:geomhash":"07da2af00bf3a43ae7988c58451b0015",
+    "wof:geomhash":"94b8e41a83e3d63e02d14d2ba009c182",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675372,
+    "wof:lastmodified":1695876907,
     "wof:name":"Rohuneeme",
     "wof:parent_id":1713305625,
     "wof:placetype":"localadmin",

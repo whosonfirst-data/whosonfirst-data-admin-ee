@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pilistvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000954,
-    "geom:area_square_m":6137035.071831,
+    "geom:area_square_m":6137035.07183,
     "geom:bbox":"25.703497,58.652268,25.768876,58.679074",
     "geom:latitude":58.664097,
     "geom:longitude":25.73132,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6247
+        "ee-mamt:okood":"6247"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037765
     ],
     "wof:country":"EE",
     "wof:created":1595460404,
-    "wof:geomhash":"11c7e7e0df7b2e78de553a3bce26d0bd",
+    "wof:geomhash":"9ae247a0d1127c8e05b01058fd01b7ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663440,
+    "wof:lastmodified":1695876829,
     "wof:name":"Pilistvere",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

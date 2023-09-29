@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Mustam\u00e4e Linnaosa",
     "ee-mamt:tyyp":6,
     "geom:area":0.001279,
-    "geom:area_square_m":8047619.042708,
+    "geom:area_square_m":8047619.042706,
     "geom:bbox":"24.6392,59.391006,24.710525,59.418964",
     "geom:latitude":59.40318,
     "geom:longitude":24.676439,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "district"
+        "urban district"
     ],
     "label:est_x_preferred_longname":[
         "Mustam\u00e4e linnaosa"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":482
+        "ee-mamt:okood":"482"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1713348881
     ],
     "wof:country":"EE",
     "wof:created":1595459012,
-    "wof:geomhash":"433826ba79541ee1a10120afd8b4c6aa",
+    "wof:geomhash":"6e6cbe461e3b42f5d9a1b749b186f937",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663509,
+    "wof:lastmodified":1695876832,
     "wof:name":"Mustam\u00e4e",
     "wof:parent_id":1713305645,
     "wof:placetype":"localadmin",

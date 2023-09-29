@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiideva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001342,
-    "geom:area_square_m":8599188.70671,
+    "geom:area_square_m":8599188.706712,
     "geom:bbox":"23.514295,58.769225,23.586901,58.802443",
     "geom:latitude":58.784591,
     "geom:longitude":23.552864,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3027
+        "ee-mamt:okood":"3027"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259604607
     ],
     "wof:country":"EE",
     "wof:created":1595459678,
-    "wof:geomhash":"480e68add41b1bc0374a776da69396ad",
+    "wof:geomhash":"5c52897256968a8ac73e5cd698dbf44c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662511,
+    "wof:lastmodified":1695876794,
     "wof:name":"Kiideva",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mustapali K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001887,
-    "geom:area_square_m":12256505.470302,
+    "geom:area_square_m":12256505.470305,
     "geom:bbox":"25.712395,58.290235,25.798324,58.326084",
     "geom:latitude":58.306183,
     "geom:longitude":25.75746,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5070
+        "ee-mamt:okood":"5070"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293065905
     ],
     "wof:country":"EE",
     "wof:created":1595460037,
-    "wof:geomhash":"af0d191b01e1b212b2b02ec720659f6f",
+    "wof:geomhash":"03b435c60ae044b7609778e28e103543",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661193,
+    "wof:lastmodified":1695876744,
     "wof:name":"Mustapali",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

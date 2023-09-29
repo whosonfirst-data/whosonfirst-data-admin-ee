@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u0151lun\u0151mme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000344,
-    "geom:area_square_m":2190828.874483,
+    "geom:area_square_m":2190828.874482,
     "geom:bbox":"22.870905,58.958918,22.897869,58.987923",
     "geom:latitude":58.971331,
     "geom:longitude":22.883835,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3759
+        "ee-mamt:okood":"3759"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243080625
     ],
     "wof:country":"EE",
     "wof:created":1595460105,
-    "wof:geomhash":"0d5d9cbcb0caf1042f44a20f50ed3177",
+    "wof:geomhash":"4e684e1ff36616d8847d9b6eef4fc5e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666353,
+    "wof:lastmodified":1695876852,
     "wof:name":"K\u0151lun\u0151mme",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

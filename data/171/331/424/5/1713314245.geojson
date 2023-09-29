@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001801,
-    "geom:area_square_m":11446200.240064,
+    "geom:area_square_m":11446200.240065,
     "geom:bbox":"24.62941,59.047146,24.718377,59.085255",
     "geom:latitude":59.065941,
     "geom:longitude":24.676781,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6772
+        "ee-mamt:okood":"6772"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225824767
     ],
     "wof:country":"EE",
     "wof:created":1595460936,
-    "wof:geomhash":"86ab6b78858743cb20710b66d4218659",
+    "wof:geomhash":"260e83abeafacb2a22e95c91fe859c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676710,
+    "wof:lastmodified":1695876943,
     "wof:name":"Raka",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

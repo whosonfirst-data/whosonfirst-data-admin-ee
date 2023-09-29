@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koiva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003253,
-    "geom:area_square_m":21504964.699098,
+    "geom:area_square_m":21504964.699096,
     "geom:bbox":"26.17923,57.652149,26.278226,57.714995",
     "geom:latitude":57.683543,
     "geom:longitude":26.231643,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3304
+        "ee-mamt:okood":"3304"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293654831
     ],
     "wof:country":"EE",
     "wof:created":1595460754,
-    "wof:geomhash":"2c2cf0fbb634b0580daa107ce89d3b66",
+    "wof:geomhash":"851a923754f9917ccbc138562e5cefbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661943,
+    "wof:lastmodified":1695876791,
     "wof:name":"Koiva",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

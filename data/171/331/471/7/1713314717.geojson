@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hansi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000262,
-    "geom:area_square_m":1728155.484764,
+    "geom:area_square_m":1728155.484766,
     "geom:bbox":"26.89405,57.766714,26.924517,57.783343",
     "geom:latitude":57.774658,
     "geom:longitude":26.908136,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1758
+        "ee-mamt:okood":"1758"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343236089
     ],
     "wof:country":"EE",
     "wof:created":1595461043,
-    "wof:geomhash":"6ef20effa2898e839bd897850d89efdd",
+    "wof:geomhash":"60d67a9c3ee8948817c351845030b0bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676860,
+    "wof:lastmodified":1695876968,
     "wof:name":"Hansi",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

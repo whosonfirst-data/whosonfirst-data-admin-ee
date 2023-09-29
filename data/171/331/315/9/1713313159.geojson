@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Juuliku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000317,
-    "geom:area_square_m":2003460.462066,
+    "geom:area_square_m":2003460.462065,
     "geom:bbox":"24.619231,59.301176,24.662321,59.316594",
     "geom:latitude":59.310083,
     "geom:longitude":24.637359,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2220
+        "ee-mamt:okood":"2220"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326744527
     ],
     "wof:country":"EE",
     "wof:created":1595460703,
-    "wof:geomhash":"bea193085336441eb70881a85cc0268b",
+    "wof:geomhash":"087babb8449c21234b6fce3a21ef3249",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661502,
+    "wof:lastmodified":1695876763,
     "wof:name":"Juuliku",
     "wof:parent_id":1713305685,
     "wof:placetype":"localadmin",

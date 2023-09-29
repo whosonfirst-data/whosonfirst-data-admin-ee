@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Haavametsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001646,
-    "geom:area_square_m":10706275.073529,
+    "geom:area_square_m":10706275.073533,
     "geom:bbox":"27.332811,58.24646,27.395004,58.286555",
     "geom:latitude":58.268342,
     "geom:longitude":27.364927,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1705
+        "ee-mamt:okood":"1705"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309688017
     ],
     "wof:country":"EE",
     "wof:created":1595460920,
-    "wof:geomhash":"35cc13cbd00c71ccdb3e49209e7d7617",
+    "wof:geomhash":"0050ff5e60bb4a956da8c59ae3f73952",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676990,
+    "wof:lastmodified":1695876979,
     "wof:name":"Haavametsa",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

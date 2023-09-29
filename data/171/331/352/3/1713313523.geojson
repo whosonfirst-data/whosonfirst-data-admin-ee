@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Napanurga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000741,
-    "geom:area_square_m":4714659.395969,
+    "geom:area_square_m":4714659.395968,
     "geom:bbox":"24.353507,59.036949,24.409093,59.057328",
     "geom:latitude":59.047932,
     "geom:longitude":24.379829,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5351
+        "ee-mamt:okood":"5351"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226632477
     ],
     "wof:country":"EE",
     "wof:created":1595460780,
-    "wof:geomhash":"b4828e657caa0137053754c7dc52bbf9",
+    "wof:geomhash":"f68d88ffcc054b56a6b258d805042bbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662815,
+    "wof:lastmodified":1695876802,
     "wof:name":"Napanurga",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

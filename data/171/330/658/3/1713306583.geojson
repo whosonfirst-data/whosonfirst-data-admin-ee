@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laugu-Liiva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000152,
-    "geom:area_square_m":983302.524964,
+    "geom:area_square_m":983302.524963,
     "geom:bbox":"22.586345,58.549118,22.61479,58.566158",
     "geom:latitude":58.556948,
     "geom:longitude":22.599867,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4137
+        "ee-mamt:okood":"4137"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459191,
-    "wof:geomhash":"ab6c6bf1b46c56d7779252e5e4508c74",
+    "wof:geomhash":"4e6c14cb196367a96bd4644815e20726",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671796,
+    "wof:lastmodified":1695876871,
     "wof:name":"Laugu-Liiva",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

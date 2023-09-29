@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lahetaguse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000589,
-    "geom:area_square_m":3837192.814205,
+    "geom:area_square_m":3837192.814199,
     "geom:bbox":"22.052331,58.174621,22.116735,58.196407",
     "geom:latitude":58.187062,
     "geom:longitude":22.083438,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4057
+        "ee-mamt:okood":"4057"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243155685
     ],
     "wof:country":"EE",
     "wof:created":1595459377,
-    "wof:geomhash":"8561be7e6aab237960e5ed5d97f90423",
+    "wof:geomhash":"12c610deccae7909ee24a187a4670363",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672298,
+    "wof:lastmodified":1695876888,
     "wof:name":"Lahetaguse",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

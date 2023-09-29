@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kause K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001031,
-    "geom:area_square_m":6643366.075526,
+    "geom:area_square_m":6643366.075527,
     "geom:bbox":"23.614868,58.58666,23.668883,58.622098",
     "geom:latitude":58.605508,
     "geom:longitude":23.641209,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2879
+        "ee-mamt:okood":"2879"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327155607
     ],
     "wof:country":"EE",
     "wof:created":1595459747,
-    "wof:geomhash":"f0f5a273bd93f1fdd3906914589aa2b4",
+    "wof:geomhash":"08d08a47f712fe3df027e9ebc192750e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661575,
+    "wof:lastmodified":1695876765,
     "wof:name":"Kause",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

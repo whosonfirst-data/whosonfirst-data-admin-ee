@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tuplova K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000207,
-    "geom:area_square_m":1365328.237896,
+    "geom:area_square_m":1365328.237895,
     "geom:bbox":"27.483592,57.817354,27.514764,57.834549",
     "geom:latitude":57.826662,
     "geom:longitude":27.501967,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8416
+        "ee-mamt:okood":"8416"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327392929
     ],
     "wof:country":"EE",
     "wof:created":1595461326,
-    "wof:geomhash":"c80d27f82a2fcec607fb101c42e26d92",
+    "wof:geomhash":"6633f03ef4d496e8bb3c818bdc83f32f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663662,
+    "wof:lastmodified":1695876843,
     "wof:name":"Tuplova",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

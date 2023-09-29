@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kungi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001059,
-    "geom:area_square_m":6921035.358577,
+    "geom:area_square_m":6921035.358575,
     "geom:bbox":"25.920444,58.066981,25.973983,58.10002",
     "geom:latitude":58.084957,
     "geom:longitude":25.948669,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3611
+        "ee-mamt:okood":"3611"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343833211
     ],
     "wof:country":"EE",
     "wof:created":1595460867,
-    "wof:geomhash":"36ac92106a1000251a267e6cc1d6e082",
+    "wof:geomhash":"2f7a4587863660f686d841db10d7d59c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661429,
+    "wof:lastmodified":1695876760,
     "wof:name":"Kungi",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

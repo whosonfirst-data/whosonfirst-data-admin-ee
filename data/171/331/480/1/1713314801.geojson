@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Villike K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002041,
-    "geom:area_square_m":13540095.513009,
+    "geom:area_square_m":13540095.51301,
     "geom:bbox":"26.468119,57.518962,26.547746,57.58052",
     "geom:latitude":57.555847,
     "geom:longitude":26.505124,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9354
+        "ee-mamt:okood":"9354"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226416567
     ],
     "wof:country":"EE",
     "wof:created":1595461060,
-    "wof:geomhash":"7cbdac7616456dc7c9a5af342c28a211",
+    "wof:geomhash":"7dd93a8f96286a39148df730e2de695b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676865,
+    "wof:lastmodified":1695876969,
     "wof:name":"Villike",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

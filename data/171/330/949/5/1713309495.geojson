@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Surju K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00184,
-    "geom:area_square_m":11978656.784275,
+    "geom:area_square_m":11978656.784274,
     "geom:bbox":"24.694868,58.206601,24.768716,58.251515",
     "geom:latitude":58.230174,
     "geom:longitude":24.731577,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7807
+        "ee-mamt:okood":"7807"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008623
     ],
     "wof:country":"EE",
     "wof:created":1595459899,
-    "wof:geomhash":"e79c7b52ad79881b51c238f0d58efbc4",
+    "wof:geomhash":"898a46755599840a2ce0777ab1234840",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677725,
+    "wof:lastmodified":1695876996,
     "wof:name":"Surju",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u0151ivaku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001272,
-    "geom:area_square_m":8223990.990044,
+    "geom:area_square_m":8223990.99004,
     "geom:bbox":"25.574766,58.47174,25.651235,58.504718",
     "geom:latitude":58.486763,
     "geom:longitude":25.607041,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9546
+        "ee-mamt:okood":"9546"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125957693
     ],
     "wof:country":"EE",
     "wof:created":1595460658,
-    "wof:geomhash":"14cd16ca28aad1b761be59dcae6e390e",
+    "wof:geomhash":"8e46291a4d9b5422571d3c527d496aff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663447,
+    "wof:lastmodified":1695876830,
     "wof:name":"V\u0151ivaku",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

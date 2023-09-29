@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kivim\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000546,
-    "geom:area_square_m":3512938.516979,
+    "geom:area_square_m":3512938.51698,
     "geom:bbox":"26.58148,58.655061,26.626055,58.680525",
     "geom:latitude":58.669814,
     "geom:longitude":26.605751,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3188
+        "ee-mamt:okood":"3188"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276799033
     ],
     "wof:country":"EE",
     "wof:created":1595460489,
-    "wof:geomhash":"703b0c555f5aaf2b27ee8e65271895b4",
+    "wof:geomhash":"58e06c03d3e732200e49e60a59595128",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676555,
+    "wof:lastmodified":1695876922,
     "wof:name":"Kivim\u00e4e",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

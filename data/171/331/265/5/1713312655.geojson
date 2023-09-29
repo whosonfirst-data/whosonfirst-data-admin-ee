@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suurpalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002174,
-    "geom:area_square_m":13880781.186714,
+    "geom:area_square_m":13880781.186712,
     "geom:bbox":"25.703362,58.874159,25.780678,58.926275",
     "geom:latitude":58.90435,
     "geom:longitude":25.747088,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7863
+        "ee-mamt:okood":"7863"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243455009
     ],
     "wof:country":"EE",
     "wof:created":1595460590,
-    "wof:geomhash":"5a5571357c38d959f172b358420234a0",
+    "wof:geomhash":"a1f09d8d5bbcef3829bbb48defd51c30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661316,
+    "wof:lastmodified":1695876752,
     "wof:name":"Suurpalu",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

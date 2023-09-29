@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saunak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000964,
-    "geom:area_square_m":6147118.534296,
+    "geom:area_square_m":6147118.534294,
     "geom:bbox":"24.778082,58.950656,24.851891,58.976259",
     "geom:latitude":58.963295,
     "geom:longitude":24.808488,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7461
+        "ee-mamt:okood":"7461"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293087329
     ],
     "wof:country":"EE",
     "wof:created":1595460686,
-    "wof:geomhash":"534657e934446323fe82db524934a9f0",
+    "wof:geomhash":"505e71eecca56781c6484566f74887d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676741,
+    "wof:lastmodified":1695876947,
     "wof:name":"Saunak\u00fcla",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

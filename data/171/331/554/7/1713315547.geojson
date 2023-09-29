@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rummi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000669,
-    "geom:area_square_m":4393876.132468,
+    "geom:area_square_m":4393876.13247,
     "geom:bbox":"26.684443,57.894149,26.738691,57.918347",
     "geom:latitude":57.904811,
     "geom:longitude":26.711406,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7119
+        "ee-mamt:okood":"7119"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344017053
     ],
     "wof:country":"EE",
     "wof:created":1595461243,
-    "wof:geomhash":"3211f5692b09e7eeb7203515bf70898b",
+    "wof:geomhash":"852066ae122adcb7c60329c17b32842b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660245,
+    "wof:lastmodified":1695876723,
     "wof:name":"Rummi",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

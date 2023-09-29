@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lauga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000168,
-    "geom:area_square_m":1105607.350295,
+    "geom:area_square_m":1105607.350296,
     "geom:bbox":"27.076188,57.926275,27.103086,57.938437",
     "geom:latitude":57.932149,
     "geom:longitude":27.087513,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4136
+        "ee-mamt:okood":"4136"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293663161
     ],
     "wof:country":"EE",
     "wof:created":1595461310,
-    "wof:geomhash":"dde70c742f3dfd63c7aa4446d600e9c2",
+    "wof:geomhash":"8094f1e38e9cf9316e143bd91223725b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660265,
+    "wof:lastmodified":1695876726,
     "wof:name":"Lauga",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

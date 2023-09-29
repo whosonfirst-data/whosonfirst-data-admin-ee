@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kur\u0151 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000516,
-    "geom:area_square_m":3420826.769363,
+    "geom:area_square_m":3420826.769362,
     "geom:bbox":"27.225079,57.549402,27.26237,57.572999",
     "geom:latitude":57.562572,
     "geom:longitude":27.241364,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3635
+        "ee-mamt:okood":"3635"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461333,
-    "wof:geomhash":"0999d457f904507dc691f84d329385a7",
+    "wof:geomhash":"a8007a2a3326cb10139e99a07e36854b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676840,
+    "wof:lastmodified":1695876963,
     "wof:name":"Kur\u0151",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

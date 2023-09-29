@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000712,
-    "geom:area_square_m":4639673.339286,
+    "geom:area_square_m":4639673.339284,
     "geom:bbox":"25.903351,58.200265,25.952565,58.223464",
     "geom:latitude":58.211367,
     "geom:longitude":25.929564,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7653
+        "ee-mamt:okood":"7653"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936239
     ],
     "wof:country":"EE",
     "wof:created":1595460031,
-    "wof:geomhash":"c06bbdb9ed59207912771a8b5ef41000",
+    "wof:geomhash":"2069f9142d4b5ca581a959dff0cc1638",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661187,
+    "wof:lastmodified":1695876744,
     "wof:name":"Soe",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

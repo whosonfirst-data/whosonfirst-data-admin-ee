@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.737458,
-    "geom:area_square_m":4778418896.717205,
+    "geom:area_square_m":4778418896.716898,
     "geom:bbox":"23.610689,57.864475,25.30718,58.757014",
     "geom:latitude":58.397652,
     "geom:longitude":24.566248,
@@ -379,15 +379,21 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ee-mamt:okood":"67",
         "fips:code":"EN11",
         "gn:id":589576,
         "gp:id":2345283,
         "hasc:id":"EE.PR",
+        "iso:code":"EE-67",
         "iso:id":"EE-67",
         "wd:id":"Q185036"
     },
+    "wof:concordances_official":"ee-mamt:okood",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"37b988ee22cb2782a45d08f4e1196621",
+    "wof:geomhash":"966b535b2965dc3f60105d966317f795",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -402,7 +408,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875673,
+    "wof:lastmodified":1695884441,
     "wof:name":"P\u00e4rnu",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vastja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001519,
-    "geom:area_square_m":9716137.645089,
+    "geom:area_square_m":9716137.645088,
     "geom:bbox":"24.835134,58.829001,24.896744,58.869911",
     "geom:latitude":58.845442,
     "geom:longitude":24.866243,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9126
+        "ee-mamt:okood":"9126"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327319905
     ],
     "wof:country":"EE",
     "wof:created":1595460957,
-    "wof:geomhash":"e46ab9976a4d1f7d491c7eb55fc2e84b",
+    "wof:geomhash":"2c08bfe83c98fc1e4f3d5849860c5f82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676737,
+    "wof:lastmodified":1695876946,
     "wof:name":"Vastja",
     "wof:parent_id":1713305713,
     "wof:placetype":"localadmin",

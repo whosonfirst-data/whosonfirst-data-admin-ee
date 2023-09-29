@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tori K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000581,
-    "geom:area_square_m":3719393.230604,
+    "geom:area_square_m":3719393.230603,
     "geom:bbox":"25.442343,58.791584,25.488567,58.817208",
     "geom:latitude":58.80391,
     "geom:longitude":25.466352,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8325
+        "ee-mamt:okood":"8325"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226443525
     ],
     "wof:country":"EE",
     "wof:created":1595461318,
-    "wof:geomhash":"25335e2b833f3d036b7d4575d483d6e9",
+    "wof:geomhash":"8554bd73df4dd0276b7faf045e4c0b0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677979,
+    "wof:lastmodified":1695877007,
     "wof:name":"Tori",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

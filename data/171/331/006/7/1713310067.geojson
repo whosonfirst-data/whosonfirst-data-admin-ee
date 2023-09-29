@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saulepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000615,
-    "geom:area_square_m":3988295.509751,
+    "geom:area_square_m":3988295.50975,
     "geom:bbox":"24.256413,58.347388,24.297164,58.370905",
     "geom:latitude":58.360473,
     "geom:longitude":24.275841,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7460
+        "ee-mamt:okood":"7460"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310093533
     ],
     "wof:country":"EE",
     "wof:created":1595460040,
-    "wof:geomhash":"7f906a54c14f90e0819572d22927f1e6",
+    "wof:geomhash":"1b915529e1632f4e0a27e40cdbcc9a69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677668,
+    "wof:lastmodified":1695876992,
     "wof:name":"Saulepa",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

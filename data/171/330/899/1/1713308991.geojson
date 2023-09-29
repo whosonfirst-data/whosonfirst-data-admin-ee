@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Urita K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000773,
-    "geom:area_square_m":4979513.949875,
+    "geom:area_square_m":4979513.949873,
     "geom:bbox":"24.023921,58.57166,24.075666,58.595657",
     "geom:latitude":58.583884,
     "geom:longitude":24.048647,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8722
+        "ee-mamt:okood":"8722"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260169441
     ],
     "wof:country":"EE",
     "wof:created":1595459780,
-    "wof:geomhash":"3ea575a9967c85bd9da02975b1ee5693",
+    "wof:geomhash":"90f210d7c65ac1a747d3dc1e83c7a5ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661635,
+    "wof:lastmodified":1695876771,
     "wof:name":"Urita",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

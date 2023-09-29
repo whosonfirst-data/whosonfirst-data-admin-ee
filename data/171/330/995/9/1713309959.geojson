@@ -14,7 +14,7 @@
     "geom:longitude":26.326036,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Sangaste alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7418
+        "ee-mamt:okood":"7418"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126039083
     ],
     "wof:country":"EE",
     "wof:created":1595460017,
-    "wof:geomhash":"0539aa75d3527f3756e364b99e9b3cc1",
+    "wof:geomhash":"cf9ec8b4807fdae5e1b26c8c02342a0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661870,
+    "wof:lastmodified":1695876783,
     "wof:name":"Sangaste",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

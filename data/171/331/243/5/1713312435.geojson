@@ -14,7 +14,7 @@
     "geom:longitude":26.648169,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "M\u00e4rja alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5277
+        "ee-mamt:okood":"5277"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1713351505
     ],
     "wof:country":"EE",
     "wof:created":1595460543,
-    "wof:geomhash":"b7027670ea96cce450d3d5fb8247e312",
+    "wof:geomhash":"536c940b2f06e467ad3998b1f9710628",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661163,
+    "wof:lastmodified":1695876742,
     "wof:name":"M\u00e4rja",
     "wof:parent_id":1713305675,
     "wof:placetype":"localadmin",

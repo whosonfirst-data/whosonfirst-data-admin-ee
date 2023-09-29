@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piibum\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001627,
-    "geom:area_square_m":10437894.850549,
+    "geom:area_square_m":10437894.85055,
     "geom:bbox":"26.983079,58.731012,27.058888,58.760857",
     "geom:latitude":58.747068,
     "geom:longitude":27.018237,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6161
+        "ee-mamt:okood":"6161"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310304027
     ],
     "wof:country":"EE",
     "wof:created":1595460863,
-    "wof:geomhash":"a55d35f9d0a573c373cda83530eaddfe",
+    "wof:geomhash":"208fbf93df556ab5559143391da1d631",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660839,
+    "wof:lastmodified":1695876737,
     "wof:name":"Piibum\u00e4e",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tammela K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000629,
-    "geom:area_square_m":4017681.053859,
+    "geom:area_square_m":4017681.053858,
     "geom:bbox":"22.785044,58.88628,22.831188,58.910253",
     "geom:latitude":58.896752,
     "geom:longitude":22.807589,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8095
+        "ee-mamt:okood":"8095"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360187785
     ],
     "wof:country":"EE",
     "wof:created":1595460193,
-    "wof:geomhash":"03229391af0e61815ce8f55a1e73d2d2",
+    "wof:geomhash":"f8e08421e964b34b1910921614578ea5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666438,
+    "wof:lastmodified":1695876858,
     "wof:name":"Tammela",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

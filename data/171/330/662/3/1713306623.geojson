@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Merise K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001124,
-    "geom:area_square_m":7265490.492377,
+    "geom:area_square_m":7265490.492379,
     "geom:bbox":"22.128046,58.474823,22.194485,58.510764",
     "geom:latitude":58.492569,
     "geom:longitude":22.162607,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4888
+        "ee-mamt:okood":"4888"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310188555
     ],
     "wof:country":"EE",
     "wof:created":1595459200,
-    "wof:geomhash":"4f54ef3675e156640c900b0ca2e6fcd1",
+    "wof:geomhash":"4b7acf71e1cfc842ae23df5b29520ca9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671690,
+    "wof:lastmodified":1695876868,
     "wof:name":"Merise",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

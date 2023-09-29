@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Polli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000886,
-    "geom:area_square_m":5785425.970685,
+    "geom:area_square_m":5785425.970682,
     "geom:bbox":"25.5069,58.109845,25.567184,58.14039",
     "geom:latitude":58.125358,
     "geom:longitude":25.540438,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6317
+        "ee-mamt:okood":"6317"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037775
     ],
     "wof:country":"EE",
     "wof:created":1595460385,
-    "wof:geomhash":"0991514d7c6c7776aa0983ffd2567fb5",
+    "wof:geomhash":"bb4f395ec8136ec9a7858c4798c1f553",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661288,
+    "wof:lastmodified":1695876751,
     "wof:name":"Polli",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

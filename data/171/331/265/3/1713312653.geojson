@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kagavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001826,
-    "geom:area_square_m":11619579.524284,
+    "geom:area_square_m":11619579.524286,
     "geom:bbox":"25.783044,59.008907,25.857685,59.047857",
     "geom:latitude":59.029396,
     "geom:longitude":25.820131,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2506
+        "ee-mamt:okood":"2506"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209039639
     ],
     "wof:country":"EE",
     "wof:created":1595460589,
-    "wof:geomhash":"32d6ab95bd7c42acc3bf88f86c5d283e",
+    "wof:geomhash":"7228633b76089ea0ef07e6416d95d841",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676628,
+    "wof:lastmodified":1695876933,
     "wof:name":"Kagavere",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Patika K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001647,
-    "geom:area_square_m":10394557.064753,
+    "geom:area_square_m":10394557.064748,
     "geom:bbox":"24.909137,59.281459,24.953716,59.339246",
     "geom:latitude":59.310701,
     "geom:longitude":24.932391,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6036
+        "ee-mamt:okood":"6036"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126039069
     ],
     "wof:country":"EE",
     "wof:created":1595459013,
-    "wof:geomhash":"886a4b8aa1c236e896ae586594f7e595",
+    "wof:geomhash":"ab1f03d15911b79cd35282adb5dd99e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661470,
+    "wof:lastmodified":1695876762,
     "wof:name":"Patika",
     "wof:parent_id":1713305683,
     "wof:placetype":"localadmin",

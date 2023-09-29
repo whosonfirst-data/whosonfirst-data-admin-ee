@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00e4\u00e4rdu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002457,
-    "geom:area_square_m":15748219.35305,
+    "geom:area_square_m":15748219.353051,
     "geom:bbox":"24.367753,58.745099,24.453372,58.799942",
     "geom:latitude":58.772069,
     "geom:longitude":24.411942,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6629
+        "ee-mamt:okood":"6629"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460264,
-    "wof:geomhash":"44ba8fd446dc5cb5a249068e5fb63bf1",
+    "wof:geomhash":"f3afde63757cf812f4f80a301dc7755a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662810,
+    "wof:lastmodified":1695876800,
     "wof:name":"P\u00e4\u00e4rdu",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

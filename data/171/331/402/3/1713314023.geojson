@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nurmetu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001326,
-    "geom:area_square_m":8383257.885834,
+    "geom:area_square_m":8383257.885836,
     "geom:bbox":"26.292523,59.226867,26.346348,59.263015",
     "geom:latitude":59.246539,
     "geom:longitude":26.321011,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5471
+        "ee-mamt:okood":"5471"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326850373
     ],
     "wof:country":"EE",
     "wof:created":1595460886,
-    "wof:geomhash":"f15a8d725167cba9acfcdfd256e2636b",
+    "wof:geomhash":"09515bced32e54b413c90c47a989f79b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677943,
+    "wof:lastmodified":1695877002,
     "wof:name":"Nurmetu",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

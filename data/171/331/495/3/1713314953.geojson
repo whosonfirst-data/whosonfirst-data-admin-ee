@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laurim\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001314,
-    "geom:area_square_m":8702214.133061,
+    "geom:area_square_m":8702214.133066,
     "geom:bbox":"26.644972,57.591904,26.707106,57.641002",
     "geom:latitude":57.61575,
     "geom:longitude":26.670888,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4160
+        "ee-mamt:okood":"4160"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209689939
     ],
     "wof:country":"EE",
     "wof:created":1595461101,
-    "wof:geomhash":"9534ee679f36b2cb87decb7acc735b90",
+    "wof:geomhash":"d9baff7de5b8822e114ba77ca3d194bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676814,
+    "wof:lastmodified":1695876955,
     "wof:name":"Laurim\u00e4e",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

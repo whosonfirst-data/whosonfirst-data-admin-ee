@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Audev\u00e4lja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001187,
-    "geom:area_square_m":7517019.793873,
+    "geom:area_square_m":7517019.793871,
     "geom:bbox":"24.047277,59.165599,24.112741,59.200232",
     "geom:latitude":59.183139,
     "geom:longitude":24.076548,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1450
+        "ee-mamt:okood":"1450"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209218579
     ],
     "wof:country":"EE",
     "wof:created":1595459532,
-    "wof:geomhash":"3c659be966612429a1ec92a3d5094518",
+    "wof:geomhash":"a55f5c4b72eacb38a8aaf695164a6c2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663302,
+    "wof:lastmodified":1695876817,
     "wof:name":"Audev\u00e4lja",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

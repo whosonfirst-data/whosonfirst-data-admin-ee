@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kollino K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001909,
-    "geom:area_square_m":12572025.036887,
+    "geom:area_square_m":12572025.036885,
     "geom:bbox":"26.516719,57.794004,26.602488,57.827714",
     "geom:latitude":57.811443,
     "geom:longitude":26.560978,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3355
+        "ee-mamt:okood":"3355"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125858171
     ],
     "wof:country":"EE",
     "wof:created":1595460249,
-    "wof:geomhash":"144b441d1b3167a99d7dfcb2bbc45a30",
+    "wof:geomhash":"e9db49544b22208488bf615cf87f9b76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677010,
+    "wof:lastmodified":1695876980,
     "wof:name":"Kollino",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Eivere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.006052,
-    "geom:area_square_m":38564991.206542,
+    "geom:area_square_m":38564991.206543,
     "geom:bbox":"25.467241,58.923944,25.576588,59.026644",
     "geom:latitude":58.979776,
     "geom:longitude":25.521056,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1570
+        "ee-mamt:okood":"1570"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360091213
     ],
     "wof:country":"EE",
     "wof:created":1595459589,
-    "wof:geomhash":"9eb2ad35ad91a05255809168a2abab1d",
+    "wof:geomhash":"b3d5845d15ded5713cdfa25f69515f4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661318,
+    "wof:lastmodified":1695876753,
     "wof:name":"Eivere",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

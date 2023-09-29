@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaopere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001484,
-    "geom:area_square_m":9432416.15999,
+    "geom:area_square_m":9432416.159987,
     "geom:bbox":"25.127102,59.054826,25.202372,59.090408",
     "geom:latitude":59.07125,
     "geom:longitude":25.164604,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9050
+        "ee-mamt:okood":"9050"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293675549
     ],
     "wof:country":"EE",
     "wof:created":1595460737,
-    "wof:geomhash":"1111558f7335c3890d24ba584f813a03",
+    "wof:geomhash":"3a6380d6391a1de32c7e115532ac7866",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676715,
+    "wof:lastmodified":1695876944,
     "wof:name":"Vaopere",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

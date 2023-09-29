@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Taebla Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000181,
-    "geom:area_square_m":1156586.006813,
+    "geom:area_square_m":1156586.006811,
     "geom:bbox":"23.718653,58.944952,23.75156,58.959792",
     "geom:latitude":58.952233,
     "geom:longitude":23.734885,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Taebla alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8025
+        "ee-mamt:okood":"8025"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126032681
     ],
     "wof:country":"EE",
     "wof:created":1595459750,
-    "wof:geomhash":"d374e290a1c1e33e8e7cba5f790d7c8f",
+    "wof:geomhash":"e71c19b5d4c7b3a8a88c22f15533db76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677188,
+    "wof:lastmodified":1695876988,
     "wof:name":"Taebla",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

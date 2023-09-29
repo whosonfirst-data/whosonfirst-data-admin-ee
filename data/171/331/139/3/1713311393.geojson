@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiilaspere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001262,
-    "geom:area_square_m":8085494.299538,
+    "geom:area_square_m":8085494.299539,
     "geom:bbox":"24.413007,58.788626,24.487729,58.816212",
     "geom:latitude":58.802695,
     "geom:longitude":24.45117,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3037
+        "ee-mamt:okood":"3037"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242653937
     ],
     "wof:country":"EE",
     "wof:created":1595460326,
-    "wof:geomhash":"354bb9a0b1e1bce614933d108cdb6a4b",
+    "wof:geomhash":"fefad18f3547a5d376696d1b02ccd158",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662820,
+    "wof:lastmodified":1695876803,
     "wof:name":"Kiilaspere",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

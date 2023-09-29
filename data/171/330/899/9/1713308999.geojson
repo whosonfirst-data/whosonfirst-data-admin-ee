@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Luigu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001675,
-    "geom:area_square_m":10670224.037636,
+    "geom:area_square_m":10670224.037635,
     "geom:bbox":"23.875216,58.968053,23.96523,59.001189",
     "geom:latitude":58.984264,
     "geom:longitude":23.919485,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4553
+        "ee-mamt:okood":"4553"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276653563
     ],
     "wof:country":"EE",
     "wof:created":1595459782,
-    "wof:geomhash":"e7367e69eb4b75601dc02a43e3136a5a",
+    "wof:geomhash":"131d4fb2e164c676d29e822e72dbac2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677198,
+    "wof:lastmodified":1695876989,
     "wof:name":"Luigu",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

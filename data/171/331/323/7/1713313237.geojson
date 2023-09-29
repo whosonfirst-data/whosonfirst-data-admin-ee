@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u0151edaka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002509,
-    "geom:area_square_m":15824319.65558,
+    "geom:area_square_m":15824319.655579,
     "geom:bbox":"26.510843,59.309901,26.615826,59.358028",
     "geom:latitude":59.335119,
     "geom:longitude":26.557504,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5117
+        "ee-mamt:okood":"5117"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343380953
     ],
     "wof:country":"EE",
     "wof:created":1595460719,
-    "wof:geomhash":"733543e4d3aea01ae160e16350b5566a",
+    "wof:geomhash":"13f4b3657eab7e71ef54cc68e79b2fd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677944,
+    "wof:lastmodified":1695877002,
     "wof:name":"M\u0151edaka",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Permisk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002854,
-    "geom:area_square_m":18136092.458665,
+    "geom:area_square_m":18136092.458671,
     "geom:bbox":"27.693378,59.056516,27.795212,59.100369",
     "geom:latitude":59.078353,
     "geom:longitude":27.748391,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6127
+        "ee-mamt:okood":"6127"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226653643
     ],
     "wof:country":"EE",
     "wof:created":1595460438,
-    "wof:geomhash":"ef8242c12dca22090b45563883f77f0c",
+    "wof:geomhash":"48040d039f6baab61bfd64f7e28e3643",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660696,
+    "wof:lastmodified":1695876732,
     "wof:name":"Permisk\u00fcla",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

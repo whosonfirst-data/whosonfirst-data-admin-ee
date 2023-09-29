@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mustu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00122,
-    "geom:area_square_m":7750411.299318,
+    "geom:area_square_m":7750411.299315,
     "geom:bbox":"24.345653,59.085962,24.436781,59.113578",
     "geom:latitude":59.09866,
     "geom:longitude":24.384476,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5093
+        "ee-mamt:okood":"5093"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243186403
     ],
     "wof:country":"EE",
     "wof:created":1595460714,
-    "wof:geomhash":"1aa88ff0de6fef1378abff0e7f72ad3a",
+    "wof:geomhash":"fc7b67ccb645af49733bbf7684e43209",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663238,
+    "wof:lastmodified":1695876813,
     "wof:name":"Mustu",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

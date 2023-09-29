@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Merem\u0151isa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001306,
-    "geom:area_square_m":8223774.662889,
+    "geom:area_square_m":8223774.662887,
     "geom:bbox":"24.245978,59.372126,24.308741,59.405378",
     "geom:latitude":59.388871,
     "geom:longitude":24.274704,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4876
+        "ee-mamt:okood":"4876"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125882919
     ],
     "wof:country":"EE",
     "wof:created":1595460843,
-    "wof:geomhash":"b4afb4efe851341e5c104d054fb88fc2",
+    "wof:geomhash":"aa46369e5b2f3634b5fec05e59a9cfe0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663287,
+    "wof:lastmodified":1695876813,
     "wof:name":"Merem\u0151isa",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

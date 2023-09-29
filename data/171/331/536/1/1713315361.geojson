@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Reinevere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004685,
-    "geom:area_square_m":29686558.729824,
+    "geom:area_square_m":29686558.729826,
     "geom:bbox":"25.890451,59.145635,26.016142,59.20345",
     "geom:latitude":59.170778,
     "geom:longitude":25.950248,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6915
+        "ee-mamt:okood":"6915"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209515889
     ],
     "wof:country":"EE",
     "wof:created":1595461196,
-    "wof:geomhash":"3ba54f9cfe0fe078447b79e45634450a",
+    "wof:geomhash":"1b0fa3ef54f7c8573fcab3c33c4904f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676633,
+    "wof:lastmodified":1695876935,
     "wof:name":"Reinevere",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pidula-Kuusiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000397,
-    "geom:area_square_m":2571609.237462,
+    "geom:area_square_m":2571609.237463,
     "geom:bbox":"22.120153,58.399662,22.173236,58.420134",
     "geom:latitude":58.410448,
     "geom:longitude":22.142827,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6138
+        "ee-mamt:okood":"6138"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459327,
-    "wof:geomhash":"b1dbf1cfdaeb8d34d05d8c0f341ba703",
+    "wof:geomhash":"52c9c13b483c2a85b95c98195005469e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672182,
+    "wof:lastmodified":1695876884,
     "wof:name":"Pidula-Kuusiku",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

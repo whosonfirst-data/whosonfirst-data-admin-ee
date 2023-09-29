@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rahtla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002792,
-    "geom:area_square_m":18058996.781457,
+    "geom:area_square_m":18058996.781451,
     "geom:bbox":"22.11156,58.445208,22.205939,58.489694",
     "geom:latitude":58.464391,
     "geom:longitude":22.153374,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6734
+        "ee-mamt:okood":"6734"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327304937
     ],
     "wof:country":"EE",
     "wof:created":1595459345,
-    "wof:geomhash":"5367de5aa58ef293d971f537394fef04",
+    "wof:geomhash":"905eff7edf014ce1636f6eaf5e536c76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671562,
+    "wof:lastmodified":1695876863,
     "wof:name":"Rahtla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaidma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000906,
-    "geom:area_square_m":5735903.874888,
+    "geom:area_square_m":5735903.874887,
     "geom:bbox":"27.481033,59.175836,27.528409,59.206303",
     "geom:latitude":59.192353,
     "geom:longitude":27.50351,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2528
+        "ee-mamt:okood":"2528"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242982229
     ],
     "wof:country":"EE",
     "wof:created":1595460454,
-    "wof:geomhash":"4b7d8f5431fdc636e64f0f98925ecad7",
+    "wof:geomhash":"34d989bd5e52265b441686a44b4d9f27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660714,
+    "wof:lastmodified":1695876733,
     "wof:name":"Kaidma",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

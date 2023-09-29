@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Tartu Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.005978,
-    "geom:area_square_m":38766476.211741,
+    "geom:area_square_m":38766476.211746,
     "geom:bbox":"26.667075,58.33902,26.798015,58.410884",
     "geom:latitude":58.370081,
     "geom:longitude":26.728509,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Tartu linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8151
+        "ee-mamt:okood":"8151"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101748151
     ],
     "wof:country":"EE",
     "wof:created":1595460887,
-    "wof:geomhash":"c7f5e1e262c4a2a77f293b7be554ee35",
+    "wof:geomhash":"ef493e62d6fc22c52a1f329a6ac89487",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661171,
+    "wof:lastmodified":1695876743,
     "wof:name":"Tartu",
     "wof:parent_id":1713305675,
     "wof:placetype":"localadmin",

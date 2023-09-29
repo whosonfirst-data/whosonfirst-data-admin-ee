@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kossa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000213,
-    "geom:area_square_m":1413775.433661,
+    "geom:area_square_m":1413775.43366,
     "geom:bbox":"27.356338,57.607441,27.383506,57.622195",
     "geom:latitude":57.61545,
     "geom:longitude":27.368662,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3468
+        "ee-mamt:okood":"3468"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226307351
     ],
     "wof:country":"EE",
     "wof:created":1595461262,
-    "wof:geomhash":"8fdf23cd67ef3ed22582b04244c46fb1",
+    "wof:geomhash":"316501a8bba786fc2e71db4336649bbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663625,
+    "wof:lastmodified":1695876835,
     "wof:name":"Kossa",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

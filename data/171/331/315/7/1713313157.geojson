@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Arusta K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000582,
-    "geom:area_square_m":3681051.722069,
+    "geom:area_square_m":3681051.722068,
     "geom:bbox":"24.79735,59.23934,24.833084,59.264503",
     "geom:latitude":59.252748,
     "geom:longitude":24.815122,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1388
+        "ee-mamt:okood":"1388"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259600703
     ],
     "wof:country":"EE",
     "wof:created":1595460703,
-    "wof:geomhash":"76b99f5a3db66640b36512ef031cce6f",
+    "wof:geomhash":"70562540520de5585b9222e0f099e52f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663493,
+    "wof:lastmodified":1695876831,
     "wof:name":"Arusta",
     "wof:parent_id":1713305643,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Prillim\u00e4e Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000091,
-    "geom:area_square_m":578840.37885,
+    "geom:area_square_m":578840.378849,
     "geom:bbox":"24.791787,59.176031,24.809083,59.184097",
     "geom:latitude":59.179233,
     "geom:longitude":24.800055,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Prillim\u00e4e alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6368
+        "ee-mamt:okood":"6368"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935557
     ],
     "wof:country":"EE",
     "wof:created":1595459083,
-    "wof:geomhash":"4cbcfedc73bea8d3e6649d5c3a6ab4a8",
+    "wof:geomhash":"612068e70d4fb5280f4b5ca23d4d16b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677029,
+    "wof:lastmodified":1695876983,
     "wof:name":"Prillim\u00e4e",
     "wof:parent_id":1713305707,
     "wof:placetype":"localadmin",

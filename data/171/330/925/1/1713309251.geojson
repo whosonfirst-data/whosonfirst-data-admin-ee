@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Merek\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000127,
-    "geom:area_square_m":827981.411011,
+    "geom:area_square_m":827981.41101,
     "geom:bbox":"24.573969,58.290202,24.597901,58.300239",
     "geom:latitude":58.294138,
     "geom:longitude":24.586345,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4874
+        "ee-mamt:okood":"4874"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343349565
     ],
     "wof:country":"EE",
     "wof:created":1595459842,
-    "wof:geomhash":"a8a3e0a62d020f1907bc96b9adc39114",
+    "wof:geomhash":"eda446d056199d1612b0bbca4de7be0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663040,
+    "wof:lastmodified":1695876809,
     "wof:name":"Merek\u00fcla",
     "wof:parent_id":1713305741,
     "wof:placetype":"localadmin",

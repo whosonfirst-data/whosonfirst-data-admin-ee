@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Loodna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002629,
-    "geom:area_square_m":16790028.363747,
+    "geom:area_square_m":16790028.363749,
     "geom:bbox":"24.189548,58.87711,24.285043,58.931424",
     "geom:latitude":58.898881,
     "geom:longitude":24.239929,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4503
+        "ee-mamt:okood":"4503"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326816593
     ],
     "wof:country":"EE",
     "wof:created":1595460274,
-    "wof:geomhash":"363e07a7962b3af0663600b3d2c0a68f",
+    "wof:geomhash":"4ecb36af5335ca3a9ceb2e93d590d6d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662816,
+    "wof:lastmodified":1695876802,
     "wof:name":"Loodna",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

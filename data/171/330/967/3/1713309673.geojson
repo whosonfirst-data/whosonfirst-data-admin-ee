@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Marana K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001285,
-    "geom:area_square_m":8383436.552208,
+    "geom:area_square_m":8383436.552206,
     "geom:bbox":"24.903501,58.148109,24.985963,58.174572",
     "geom:latitude":58.163079,
     "geom:longitude":24.948146,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4782
+        "ee-mamt:okood":"4782"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293089169
     ],
     "wof:country":"EE",
     "wof:created":1595459943,
-    "wof:geomhash":"4303e6d836cb1b67a6ff0ee7d22f158f",
+    "wof:geomhash":"9b7cdf5feadf3fd3296d041cceba796c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677724,
+    "wof:lastmodified":1695876996,
     "wof:name":"Marana",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

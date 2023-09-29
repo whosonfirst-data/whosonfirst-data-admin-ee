@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002319,
-    "geom:area_square_m":15084536.819457,
+    "geom:area_square_m":15084536.819456,
     "geom:bbox":"21.870227,58.236935,21.972944,58.286821",
     "geom:latitude":58.262234,
     "geom:longitude":21.922462,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2705
+        "ee-mamt:okood":"2705"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226113113
     ],
     "wof:country":"EE",
     "wof:created":1595459400,
-    "wof:geomhash":"34909cfb3c6f9fac4b7205547e2c45fd",
+    "wof:geomhash":"ffff74cc1a2922e38d1f22b90e3ba806",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672263,
+    "wof:lastmodified":1695876887,
     "wof:name":"Karala",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

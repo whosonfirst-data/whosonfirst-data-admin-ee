@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kestla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002246,
-    "geom:area_square_m":14135310.624335,
+    "geom:area_square_m":14135310.624336,
     "geom:bbox":"26.843534,59.392227,26.939598,59.424938",
     "geom:latitude":59.408382,
     "geom:longitude":26.893296,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2986
+        "ee-mamt:okood":"2986"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209817141
     ],
     "wof:country":"EE",
     "wof:created":1595460879,
-    "wof:geomhash":"13b284196af31e8f83ff161a4874c4c3",
+    "wof:geomhash":"30a0835e21dec26b81c2a5bd40264e77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677922,
+    "wof:lastmodified":1695877001,
     "wof:name":"Kestla",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

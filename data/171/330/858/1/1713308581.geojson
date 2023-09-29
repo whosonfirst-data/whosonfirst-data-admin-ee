@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kivik\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000614,
-    "geom:area_square_m":3927234.258532,
+    "geom:area_square_m":3927234.258533,
     "geom:bbox":"23.483695,58.839069,23.528975,58.867789",
     "geom:latitude":58.853769,
     "geom:longitude":23.507951,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3171
+        "ee-mamt:okood":"3171"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276465025
     ],
     "wof:country":"EE",
     "wof:created":1595459680,
-    "wof:geomhash":"03326e0c90da92ca7e7265a3f4cc70c9",
+    "wof:geomhash":"28bfd6738707a0658d914426b7234501",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662528,
+    "wof:lastmodified":1695876796,
     "wof:name":"Kivik\u00fcla",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

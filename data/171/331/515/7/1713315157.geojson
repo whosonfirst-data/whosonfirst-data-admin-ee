@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Reb\u00e4se K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000334,
-    "geom:area_square_m":2207358.944521,
+    "geom:area_square_m":2207358.94452,
     "geom:bbox":"26.976011,57.70474,27.011204,57.726177",
     "geom:latitude":57.716898,
     "geom:longitude":26.993112,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6892
+        "ee-mamt:okood":"6892"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309686167
     ],
     "wof:country":"EE",
     "wof:created":1595461144,
-    "wof:geomhash":"c30c2a6da705f05be24bf669ed4a825a",
+    "wof:geomhash":"c99aa2dda8c35914f10266d70d828d97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676829,
+    "wof:lastmodified":1695876959,
     "wof:name":"Reb\u00e4se",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

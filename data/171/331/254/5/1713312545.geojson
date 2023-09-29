@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kalita K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.007371,
-    "geom:area_square_m":48185625.879245,
+    "geom:area_square_m":48185625.879236,
     "geom:bbox":"24.821252,58.043174,25.016249,58.113984",
     "geom:latitude":58.081943,
     "geom:longitude":24.910018,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2588
+        "ee-mamt:okood":"2588"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125933419
     ],
     "wof:country":"EE",
     "wof:created":1595460567,
-    "wof:geomhash":"124e140c5aa222df78268b7869a0e79e",
+    "wof:geomhash":"09f42ac7f4b438915bb761dda16e7783",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677722,
+    "wof:lastmodified":1695876996,
     "wof:name":"Kalita",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laekannu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002939,
-    "geom:area_square_m":18744550.916594,
+    "geom:area_square_m":18744550.916598,
     "geom:bbox":"26.708726,58.917109,26.803093,58.969264",
     "geom:latitude":58.944358,
     "geom:longitude":26.760111,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4033
+        "ee-mamt:okood":"4033"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209416903
     ],
     "wof:country":"EE",
     "wof:created":1595460485,
-    "wof:geomhash":"011f86500129c5184c93ad3bd6a39388",
+    "wof:geomhash":"9e30a97ffc7b857c23b95e338799ccd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660952,
+    "wof:lastmodified":1695876740,
     "wof:name":"Laekannu",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

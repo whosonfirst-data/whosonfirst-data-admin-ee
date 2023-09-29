@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kukruse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001641,
-    "geom:area_square_m":10329664.781813,
+    "geom:area_square_m":10329664.781809,
     "geom:bbox":"27.34069,59.380567,27.434461,59.416255",
     "geom:latitude":59.400351,
     "geom:longitude":27.383377,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3562
+        "ee-mamt:okood":"3562"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459219,
-    "wof:geomhash":"39bb4fbae977706155b14daae97453b1",
+    "wof:geomhash":"2ec36de60f1380cf16c46d632b259201",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676908,
+    "wof:lastmodified":1695876970,
     "wof:name":"Kukruse",
     "wof:parent_id":1713305783,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kosta K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000288,
-    "geom:area_square_m":1805014.23112,
+    "geom:area_square_m":1805014.231122,
     "geom:bbox":"26.163518,59.524505,26.216993,59.533464",
     "geom:latitude":59.528834,
     "geom:longitude":26.188851,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3473
+        "ee-mamt:okood":"3473"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310487245
     ],
     "wof:country":"EE",
     "wof:created":1595459594,
-    "wof:geomhash":"69a4f5ffef5e1b3ae3500596ef28e85b",
+    "wof:geomhash":"d102b2176360726b149696b5a458ebb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678013,
+    "wof:lastmodified":1695877009,
     "wof:name":"Kosta",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

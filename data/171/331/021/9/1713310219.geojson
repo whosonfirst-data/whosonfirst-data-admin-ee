@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4rssu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000405,
-    "geom:area_square_m":2588066.701419,
+    "geom:area_square_m":2588066.70142,
     "geom:bbox":"22.925049,58.902955,22.980518,58.944195",
     "geom:latitude":58.922113,
     "geom:longitude":22.938831,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9674
+        "ee-mamt:okood":"9674"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343770727
     ],
     "wof:country":"EE",
     "wof:created":1595460074,
-    "wof:geomhash":"adc628bcef15b06868644eb2b778f9ee",
+    "wof:geomhash":"5bf3da869562f86d73db5a58b8ba6123",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666267,
+    "wof:lastmodified":1695876846,
     "wof:name":"V\u00e4rssu",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Karksi-Nuia Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.00044,
-    "geom:area_square_m":2872798.776106,
+    "geom:area_square_m":2872798.776105,
     "geom:bbox":"25.535164,58.091028,25.568155,58.112715",
     "geom:latitude":58.102158,
     "geom:longitude":25.551929,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Karksi-Nuia linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2761
+        "ee-mamt:okood":"2761"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101816265
     ],
     "wof:country":"EE",
     "wof:created":1595460368,
-    "wof:geomhash":"92c476f67cc7b26cbb80c6d53a347f6f",
+    "wof:geomhash":"6e3f955fa03e9d1c360d3d2dd25efd45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661287,
+    "wof:lastmodified":1695876750,
     "wof:name":"Karksi-Nuia",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

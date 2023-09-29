@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u0151\u0151raste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000534,
-    "geom:area_square_m":3472729.418258,
+    "geom:area_square_m":3472729.418257,
     "geom:bbox":"26.756968,58.269267,26.799177,58.288841",
     "geom:latitude":58.280907,
     "geom:longitude":26.779966,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8551
+        "ee-mamt:okood":"8551"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310564393
     ],
     "wof:country":"EE",
     "wof:created":1595460947,
-    "wof:geomhash":"84319889220f0659679c70aa845693c2",
+    "wof:geomhash":"5bf50f16794c9e70488085db2818b95f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660653,
+    "wof:lastmodified":1695876729,
     "wof:name":"T\u0151\u0151raste",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

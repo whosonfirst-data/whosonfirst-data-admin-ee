@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laasi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000319,
-    "geom:area_square_m":2036461.409922,
+    "geom:area_square_m":2036461.40992,
     "geom:bbox":"22.317608,58.889977,22.351462,58.913639",
     "geom:latitude":58.901458,
     "geom:longitude":22.330315,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4023
+        "ee-mamt:okood":"4023"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327234843
     ],
     "wof:country":"EE",
     "wof:created":1595460107,
-    "wof:geomhash":"6e21fe314f9e487443340246fc8f4184",
+    "wof:geomhash":"3a85f9e0d492b8f2cc1337cfc0f0aee1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666317,
+    "wof:lastmodified":1695876849,
     "wof:name":"Laasi",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

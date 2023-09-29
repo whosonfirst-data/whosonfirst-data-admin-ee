@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Puusepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000826,
-    "geom:area_square_m":5434056.388381,
+    "geom:area_square_m":5434056.388382,
     "geom:bbox":"27.045059,57.846668,27.114304,57.872481",
     "geom:latitude":57.858325,
     "geom:longitude":27.076604,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6482
+        "ee-mamt:okood":"6482"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209473885
     ],
     "wof:country":"EE",
     "wof:created":1595461242,
-    "wof:geomhash":"49dbf1e8cc82db2fdb4bf45da0441564",
+    "wof:geomhash":"1f3655acbcbc0121d41235bbb80b39c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660244,
+    "wof:lastmodified":1695876723,
     "wof:name":"Puusepa",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Varudi-Vanak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001517,
-    "geom:area_square_m":9548858.804301,
+    "geom:area_square_m":9548858.8043,
     "geom:bbox":"26.536674,59.389258,26.630148,59.420152",
     "geom:latitude":59.406449,
     "geom:longitude":26.584347,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9098
+        "ee-mamt:okood":"9098"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459540,
-    "wof:geomhash":"2a915fd0a5a0913a5d2c337b3b25024e",
+    "wof:geomhash":"1ffefae023fedb19202f029fd506a6b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676664,
+    "wof:lastmodified":1695876936,
     "wof:name":"Varudi-Vanak\u00fcla",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

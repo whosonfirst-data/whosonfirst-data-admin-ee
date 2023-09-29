@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Muru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000775,
-    "geom:area_square_m":4879243.55775,
+    "geom:area_square_m":4879243.557747,
     "geom:bbox":"26.527751,59.368482,26.586274,59.394074",
     "geom:latitude":59.379269,
     "geom:longitude":26.552175,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5055
+        "ee-mamt:okood":"5055"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259503613
     ],
     "wof:country":"EE",
     "wof:created":1595459490,
-    "wof:geomhash":"efdfbc8d7c4ed0be8eab43a0d38633aa",
+    "wof:geomhash":"36e8571b4ab1da18ec2fe210ed9a4f6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676660,
+    "wof:lastmodified":1695876936,
     "wof:name":"Muru",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

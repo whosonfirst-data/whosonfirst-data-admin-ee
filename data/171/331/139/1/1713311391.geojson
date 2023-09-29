@@ -14,7 +14,7 @@
     "geom:longitude":26.867129,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Roiu alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7042
+        "ee-mamt:okood":"7042"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935953
     ],
     "wof:country":"EE",
     "wof:created":1595460326,
-    "wof:geomhash":"62234c5613004ad5fb5431066c2f11d3",
+    "wof:geomhash":"bdb636b363aab6a6dffaccc28bc01ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660649,
+    "wof:lastmodified":1695876729,
     "wof:name":"Roiu",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

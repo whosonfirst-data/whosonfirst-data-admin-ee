@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kirim\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002616,
-    "geom:area_square_m":16694846.004242,
+    "geom:area_square_m":16694846.004244,
     "geom:bbox":"23.711618,58.897504,23.825814,58.948512",
     "geom:latitude":58.923777,
     "geom:longitude":23.765899,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3135
+        "ee-mamt:okood":"3135"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126057057
     ],
     "wof:country":"EE",
     "wof:created":1595459749,
-    "wof:geomhash":"caa11ce1e319f50202cb26520aa11d48",
+    "wof:geomhash":"0dce9b836bf4c3fb60b0e42b1444d67b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677213,
+    "wof:lastmodified":1695876991,
     "wof:name":"Kirim\u00e4e",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

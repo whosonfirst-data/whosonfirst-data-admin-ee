@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u0151rum\u0151isa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001496,
-    "geom:area_square_m":9844182.8334,
+    "geom:area_square_m":9844182.833401,
     "geom:bbox":"27.004663,57.82843,27.091069,57.865934",
     "geom:latitude":57.847055,
     "geom:longitude":27.049987,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9585
+        "ee-mamt:okood":"9585"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125798883
     ],
     "wof:country":"EE",
     "wof:created":1595461376,
-    "wof:geomhash":"09c49fb17084cbc0c36e29369123a833",
+    "wof:geomhash":"ff9c6d5b5a8de6e3ce90e5eaf4507b8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660271,
+    "wof:lastmodified":1695876727,
     "wof:name":"V\u0151rum\u0151isa",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Alavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000614,
-    "geom:area_square_m":3890555.023465,
+    "geom:area_square_m":3890555.023466,
     "geom:bbox":"26.637964,59.139404,26.673895,59.171826",
     "geom:latitude":59.1558,
     "geom:longitude":26.656652,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1182
+        "ee-mamt:okood":"1182"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260166773
     ],
     "wof:country":"EE",
     "wof:created":1595459486,
-    "wof:geomhash":"c0cc4b1cb177534e6fc6b87eddaf0f51",
+    "wof:geomhash":"69f340cd12529fb0f68f1e38cb01a128",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677945,
+    "wof:lastmodified":1695877002,
     "wof:name":"Alavere",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

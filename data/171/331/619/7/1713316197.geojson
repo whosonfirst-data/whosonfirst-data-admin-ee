@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tohkri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000469,
-    "geom:area_square_m":3091309.00273,
+    "geom:area_square_m":3091309.002729,
     "geom:bbox":"27.150006,57.774023,27.174845,57.807835",
     "geom:latitude":57.789803,
     "geom:longitude":27.162112,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8267
+        "ee-mamt:okood":"8267"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277141315
     ],
     "wof:country":"EE",
     "wof:created":1595461378,
-    "wof:geomhash":"24079f624707c2beb6576901857a599c",
+    "wof:geomhash":"b515892a0056cd9f632b4d726b4cdf1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660276,
+    "wof:lastmodified":1695876727,
     "wof:name":"Tohkri",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

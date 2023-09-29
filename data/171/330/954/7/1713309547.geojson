@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Eerma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000263,
-    "geom:area_square_m":1693769.170584,
+    "geom:area_square_m":1693769.170583,
     "geom:bbox":"24.525992,58.619258,24.552177,58.636916",
     "geom:latitude":58.627777,
     "geom:longitude":24.540423,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1531
+        "ee-mamt:okood":"1531"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277158349
     ],
     "wof:country":"EE",
     "wof:created":1595459916,
-    "wof:geomhash":"ede7db8f7ff9f3fc1ffb8bc15f0f83f6",
+    "wof:geomhash":"1b176fcb6a8a5a1371bc95c32fbebbdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663406,
+    "wof:lastmodified":1695876824,
     "wof:name":"Eerma",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

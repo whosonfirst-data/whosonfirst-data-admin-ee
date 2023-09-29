@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tirbi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00039,
-    "geom:area_square_m":2536506.681508,
+    "geom:area_square_m":2536506.681503,
     "geom:bbox":"22.635561,58.216874,22.667727,58.251921",
     "geom:latitude":58.238263,
     "geom:longitude":22.651163,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8253
+        "ee-mamt:okood":"8253"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459606,
-    "wof:geomhash":"097af316f63ce7218b672f1efa0307e7",
+    "wof:geomhash":"5118229ba1e472926ed26c7d21f610bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671762,
+    "wof:lastmodified":1695876870,
     "wof:name":"Tirbi",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

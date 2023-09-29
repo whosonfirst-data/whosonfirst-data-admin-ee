@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tsumba K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000235,
-    "geom:area_square_m":1549635.038638,
+    "geom:area_square_m":1549635.03864,
     "geom:bbox":"27.460476,57.812535,27.484683,57.830374",
     "geom:latitude":57.821485,
     "geom:longitude":27.473054,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8375
+        "ee-mamt:okood":"8375"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461304,
-    "wof:geomhash":"0aa3b3d994c9b3937c8f72270e77f197",
+    "wof:geomhash":"50ba10b0563eb56cbbf75b71b1053d1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663652,
+    "wof:lastmodified":1695876841,
     "wof:name":"Tsumba",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

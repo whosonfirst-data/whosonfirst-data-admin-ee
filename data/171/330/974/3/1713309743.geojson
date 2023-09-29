@@ -8,7 +8,7 @@
     "ee-mamt:animi":"H\u00e4\u00e4taru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00098,
-    "geom:area_square_m":6402520.981638,
+    "geom:area_square_m":6402520.981635,
     "geom:bbox":"26.853049,58.086423,26.912068,58.115043",
     "geom:latitude":58.100884,
     "geom:longitude":26.884875,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1960
+        "ee-mamt:okood":"1960"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293861025
     ],
     "wof:country":"EE",
     "wof:created":1595459963,
-    "wof:geomhash":"0fa1df73b67d79f332bbbca5e60fd1a1",
+    "wof:geomhash":"1da03340eeb6912072e612edbe26df92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676777,
+    "wof:lastmodified":1695876950,
     "wof:name":"H\u00e4\u00e4taru",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

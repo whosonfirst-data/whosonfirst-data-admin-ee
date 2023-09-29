@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Roosna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002761,
-    "geom:area_square_m":17512391.555475,
+    "geom:area_square_m":17512391.555479,
     "geom:bbox":"25.884349,59.103833,25.983353,59.159877",
     "geom:latitude":59.133848,
     "geom:longitude":25.933811,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7081
+        "ee-mamt:okood":"7081"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935967
     ],
     "wof:country":"EE",
     "wof:created":1595459255,
-    "wof:geomhash":"b3116a5dcb5407368782fb341e31ece1",
+    "wof:geomhash":"ae7c141a00ab066702963686ddeb7618",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676633,
+    "wof:lastmodified":1695876934,
     "wof:name":"Roosna",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

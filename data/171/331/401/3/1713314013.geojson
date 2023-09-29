@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ibaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001347,
-    "geom:area_square_m":8766706.821505,
+    "geom:area_square_m":8766706.821499,
     "geom:bbox":"27.071338,58.204846,27.138259,58.251265",
     "geom:latitude":58.231905,
     "geom:longitude":27.10811,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1980
+        "ee-mamt:okood":"1980"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276213839
     ],
     "wof:country":"EE",
     "wof:created":1595460884,
-    "wof:geomhash":"a972054dfaf46aa01decfc2baee16283",
+    "wof:geomhash":"554b2bd1b66003c36cda30933f85a4bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676956,
+    "wof:lastmodified":1695876976,
     "wof:name":"Ibaste",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

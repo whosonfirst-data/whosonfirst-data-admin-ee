@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Vastse-Kuuste Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000549,
-    "geom:area_square_m":3578498.097798,
+    "geom:area_square_m":3578498.097799,
     "geom:bbox":"26.915668,58.155813,26.954572,58.186428",
     "geom:latitude":58.169909,
     "geom:longitude":26.935,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Vastse-Kuuste alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9128
+        "ee-mamt:okood":"9128"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125932311
     ],
     "wof:country":"EE",
     "wof:created":1595460210,
-    "wof:geomhash":"6b5aaaad2241ab63506c4ba5ed78ac0f",
+    "wof:geomhash":"32f45991a30e854dc2694619629fc7fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676944,
+    "wof:lastmodified":1695876972,
     "wof:name":"Vastse-Kuuste",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

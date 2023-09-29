@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kolepi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000973,
-    "geom:area_square_m":6414415.677728,
+    "geom:area_square_m":6414415.677726,
     "geom:bbox":"27.048081,57.75687,27.100837,57.787973",
     "geom:latitude":57.771414,
     "geom:longitude":27.075618,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3333
+        "ee-mamt:okood":"3333"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360049881
     ],
     "wof:country":"EE",
     "wof:created":1595461383,
-    "wof:geomhash":"c481217360e3ba4da127df4a746eecc2",
+    "wof:geomhash":"04c539043247666931cb0dece5bf4699",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660220,
+    "wof:lastmodified":1695876720,
     "wof:name":"Kolepi",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

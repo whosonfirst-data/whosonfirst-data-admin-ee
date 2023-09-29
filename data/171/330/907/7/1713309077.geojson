@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rooslepa K\u00fcla / Roslep",
     "ee-mamt:tyyp":8,
     "geom:area":0.001288,
-    "geom:area_square_m":8157989.019815,
+    "geom:area_square_m":8157989.019819,
     "geom:bbox":"23.484941,59.164517,23.537428,59.206217",
     "geom:latitude":59.184966,
     "geom:longitude":23.512671,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7077
+        "ee-mamt:okood":"7077"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193272635
     ],
     "wof:country":"EE",
     "wof:created":1595459799,
-    "wof:geomhash":"42516bed5df982e04b2f7ff77fba73bf",
+    "wof:geomhash":"70665c21a9275f36bef10d659b9498fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677183,
+    "wof:lastmodified":1695876987,
     "wof:name":"Rooslepa",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nedrema K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005282,
-    "geom:area_square_m":34087737.313326,
+    "geom:area_square_m":34087737.313324,
     "geom:bbox":"24.011113,58.501058,24.178185,58.57747",
     "geom:latitude":58.538164,
     "geom:longitude":24.10206,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5385
+        "ee-mamt:okood":"5385"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326718399
     ],
     "wof:country":"EE",
     "wof:created":1595460938,
-    "wof:geomhash":"e91f2dacd8fbb32e36b8af18b56dc2cd",
+    "wof:geomhash":"6a590266bfa068e4b8de47f0206466c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661558,
+    "wof:lastmodified":1695876764,
     "wof:name":"Nedrema",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

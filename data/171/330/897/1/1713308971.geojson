@@ -8,7 +8,7 @@
     "ee-mamt:animi":"\u0150vi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000749,
-    "geom:area_square_m":4842554.632202,
+    "geom:area_square_m":4842554.632205,
     "geom:bbox":"26.520912,58.458742,26.588319,58.477097",
     "geom:latitude":58.467483,
     "geom:longitude":26.553968,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9728
+        "ee-mamt:okood":"9728"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310280857
     ],
     "wof:country":"EE",
     "wof:created":1595459775,
-    "wof:geomhash":"4c5d8d5e3c75f717886a86dd0693b7ca",
+    "wof:geomhash":"06b83890721e39cb34d872b665655101",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676467,
+    "wof:lastmodified":1695876913,
     "wof:name":"\u0150vi",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

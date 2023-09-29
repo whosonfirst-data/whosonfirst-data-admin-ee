@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Supa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000816,
-    "geom:area_square_m":5371704.434783,
+    "geom:area_square_m":5371704.43478,
     "geom:bbox":"26.116421,57.816355,26.154654,57.855774",
     "geom:latitude":57.835205,
     "geom:longitude":26.134866,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7801
+        "ee-mamt:okood":"7801"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343436139
     ],
     "wof:country":"EE",
     "wof:created":1595460165,
-    "wof:geomhash":"003cf2a995d217c34b245a8180531235",
+    "wof:geomhash":"035e5b90025e2221e301447ec092f355",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661938,
+    "wof:lastmodified":1695876790,
     "wof:name":"Supa",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

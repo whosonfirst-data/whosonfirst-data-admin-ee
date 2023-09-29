@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ereste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002813,
-    "geom:area_square_m":18317632.120873,
+    "geom:area_square_m":18317632.120882,
     "geom:bbox":"25.435938,58.183888,25.533699,58.255204",
     "geom:latitude":58.219836,
     "geom:longitude":25.477845,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1625
+        "ee-mamt:okood":"1625"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209990881
     ],
     "wof:country":"EE",
     "wof:created":1595460949,
-    "wof:geomhash":"c43c402cb9bd67ca1d81371a00ae3938",
+    "wof:geomhash":"c52ee318418172d835e3d93dfcc0e047",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661292,
+    "wof:lastmodified":1695876751,
     "wof:name":"Ereste",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Verhulitsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000386,
-    "geom:area_square_m":2532338.358496,
+    "geom:area_square_m":2532338.358495,
     "geom:bbox":"27.652321,57.919459,27.684454,57.942542",
     "geom:latitude":57.931321,
     "geom:longitude":27.669279,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9216
+        "ee-mamt:okood":"9216"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343338715
     ],
     "wof:country":"EE",
     "wof:created":1595461430,
-    "wof:geomhash":"03e79cdd239206d05310f90edc014949",
+    "wof:geomhash":"177af5b12ff7cee17d77aa628366467d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663638,
+    "wof:lastmodified":1695876838,
     "wof:name":"Verhulitsa",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

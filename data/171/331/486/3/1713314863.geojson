@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vana-Vinni K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001279,
-    "geom:area_square_m":8075901.108386,
+    "geom:area_square_m":8075901.108388,
     "geom:bbox":"26.353582,59.27445,26.408802,59.309405",
     "geom:latitude":59.29103,
     "geom:longitude":26.381862,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9009
+        "ee-mamt:okood":"9009"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259580945
     ],
     "wof:country":"EE",
     "wof:created":1595461077,
-    "wof:geomhash":"c0e4387ae8f6b892a2e2880de40b31f9",
+    "wof:geomhash":"267ae06ba62aee9d6eddb2bec195842d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677943,
+    "wof:lastmodified":1695877002,
     "wof:name":"Vana-Vinni",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

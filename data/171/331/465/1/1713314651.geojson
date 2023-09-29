@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuie K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003144,
-    "geom:area_square_m":19953993.57709,
+    "geom:area_square_m":19953993.577089,
     "geom:bbox":"26.019772,59.094965,26.136332,59.139125",
     "geom:latitude":59.114788,
     "geom:longitude":26.079809,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3531
+        "ee-mamt:okood":"3531"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259669215
     ],
     "wof:country":"EE",
     "wof:created":1595461029,
-    "wof:geomhash":"e900acdf287d35d5df508ec05ee7d707",
+    "wof:geomhash":"e807403f63750bb308aa8b4c60860f6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676590,
+    "wof:lastmodified":1695876927,
     "wof:name":"Kuie",
     "wof:parent_id":1713305761,
     "wof:placetype":"localadmin",

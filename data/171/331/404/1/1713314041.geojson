@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Voorbahi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002395,
-    "geom:area_square_m":15664701.181394,
+    "geom:area_square_m":15664701.181395,
     "geom:bbox":"25.776501,58.036515,25.88301,58.085967",
     "geom:latitude":58.059149,
     "geom:longitude":25.824477,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9464
+        "ee-mamt:okood":"9464"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293464947
     ],
     "wof:country":"EE",
     "wof:created":1595460890,
-    "wof:geomhash":"5e4abe74533c6b8fb8141386865bc8dc",
+    "wof:geomhash":"470bbce2233514d4212a8b82a2d34662",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661428,
+    "wof:lastmodified":1695876759,
     "wof:name":"Voorbahi",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

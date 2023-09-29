@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koki K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001098,
-    "geom:area_square_m":7143843.891656,
+    "geom:area_square_m":7143843.891655,
     "geom:bbox":"22.056884,58.228505,22.149023,58.254392",
     "geom:latitude":58.242904,
     "geom:longitude":22.093081,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3320
+        "ee-mamt:okood":"3320"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225917973
     ],
     "wof:country":"EE",
     "wof:created":1595459425,
-    "wof:geomhash":"d6e89fb58ae78c75be4fbdbfeb701506",
+    "wof:geomhash":"7fa974a69d99873f1dd972122c80470d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672501,
+    "wof:lastmodified":1695876895,
     "wof:name":"Koki",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

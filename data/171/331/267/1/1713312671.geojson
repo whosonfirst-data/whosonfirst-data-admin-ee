@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kobra K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004545,
-    "geom:area_square_m":29204300.947285,
+    "geom:area_square_m":29204300.947283,
     "geom:bbox":"24.953749,58.656246,25.099638,58.729307",
     "geom:latitude":58.689374,
     "geom:longitude":25.021199,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3219
+        "ee-mamt:okood":"3219"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276636829
     ],
     "wof:country":"EE",
     "wof:created":1595460593,
-    "wof:geomhash":"47f964865a567f1e6cfb578e601e9e75",
+    "wof:geomhash":"810b78a16ed5af6977d3c7fe8078f94b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663397,
+    "wof:lastmodified":1695876821,
     "wof:name":"Kobra",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

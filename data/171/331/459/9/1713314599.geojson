@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pajupea K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000876,
-    "geom:area_square_m":5516606.019411,
+    "geom:area_square_m":5516606.01941,
     "geom:bbox":"24.960527,59.350848,25.012829,59.381552",
     "geom:latitude":59.364579,
     "geom:longitude":24.987643,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5891
+        "ee-mamt:okood":"5891"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037753
     ],
     "wof:country":"EE",
     "wof:created":1595461018,
-    "wof:geomhash":"eae21b0ddef2a43d9d545b586c07f144",
+    "wof:geomhash":"74133bbc704b2dad8406c0aa5d1962a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661470,
+    "wof:lastmodified":1695876762,
     "wof:name":"Pajupea",
     "wof:parent_id":1713305683,
     "wof:placetype":"localadmin",

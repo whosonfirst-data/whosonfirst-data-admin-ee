@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kassinurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003683,
-    "geom:area_square_m":23674482.907583,
+    "geom:area_square_m":23674482.907582,
     "geom:bbox":"26.38671,58.653353,26.526132,58.696522",
     "geom:latitude":58.674427,
     "geom:longitude":26.447141,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2818
+        "ee-mamt:okood":"2818"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126032059
     ],
     "wof:country":"EE",
     "wof:created":1595460527,
-    "wof:geomhash":"44564cf1a9ec7a08b019acbdca3e3952",
+    "wof:geomhash":"5a330bf236ce37feaf4f6d4f45c2b005",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676553,
+    "wof:lastmodified":1695876921,
     "wof:name":"Kassinurme",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u0151etaguse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001218,
-    "geom:area_square_m":7680560.262622,
+    "geom:area_square_m":7680560.262623,
     "geom:bbox":"26.140869,59.305347,26.200854,59.340661",
     "geom:latitude":59.326067,
     "geom:longitude":26.172665,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2253
+        "ee-mamt:okood":"2253"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344142477
     ],
     "wof:country":"EE",
     "wof:created":1595461016,
-    "wof:geomhash":"55476c4bcf5f784068ddfc043d319440",
+    "wof:geomhash":"2d2e9e476295284748b7b368cfb232ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661725,
+    "wof:lastmodified":1695876775,
     "wof:name":"J\u0151etaguse",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

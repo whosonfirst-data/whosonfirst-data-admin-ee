@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suur-N\u0151mmk\u00fcla / Klottorp",
     "ee-mamt:tyyp":8,
     "geom:area":0.001157,
-    "geom:area_square_m":7351616.928869,
+    "geom:area_square_m":7351616.928867,
     "geom:bbox":"23.59918,59.060268,23.648442,59.098295",
     "geom:latitude":59.078794,
     "geom:longitude":23.625263,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7829
+        "ee-mamt:okood":"7829"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327354853
     ],
     "wof:country":"EE",
     "wof:created":1595459722,
-    "wof:geomhash":"7bc5551753daaefc98afd3ff41b42c1e",
+    "wof:geomhash":"141c2385e6bc592a910270fb61c1bc1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677202,
+    "wof:lastmodified":1695876990,
     "wof:name":"Suur-N\u0151mmk\u00fcla",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

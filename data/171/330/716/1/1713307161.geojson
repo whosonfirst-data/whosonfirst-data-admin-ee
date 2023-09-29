@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u0151rip\u0151llu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001068,
-    "geom:area_square_m":6889454.562331,
+    "geom:area_square_m":6889454.562332,
     "geom:bbox":"23.056705,58.535925,23.151364,58.562634",
     "geom:latitude":58.548212,
     "geom:longitude":23.103628,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6542
+        "ee-mamt:okood":"6542"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276962401
     ],
     "wof:country":"EE",
     "wof:created":1595459334,
-    "wof:geomhash":"677ad48e03d4acd525abe753d36173f7",
+    "wof:geomhash":"7cb35c1fb7525bca40611677a27c7a64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672200,
+    "wof:lastmodified":1695876884,
     "wof:name":"P\u0151rip\u0151llu",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

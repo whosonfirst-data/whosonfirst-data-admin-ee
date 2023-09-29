@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kablak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001691,
-    "geom:area_square_m":10892700.075589,
+    "geom:area_square_m":10892700.075588,
     "geom:bbox":"26.031545,58.588166,26.096798,58.626262",
     "geom:latitude":58.60711,
     "geom:longitude":26.064769,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2461
+        "ee-mamt:okood":"2461"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243576831
     ],
     "wof:country":"EE",
     "wof:created":1595460491,
-    "wof:geomhash":"6b3d1a13dd5ae694fd67cfd708bff57b",
+    "wof:geomhash":"e679eb05370263745c14ac683ddb41cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676486,
+    "wof:lastmodified":1695876914,
     "wof:name":"Kablak\u00fcla",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Krootuse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002308,
-    "geom:area_square_m":15090629.463853,
+    "geom:area_square_m":15090629.463839,
     "geom:bbox":"26.807077,58.044678,26.896566,58.098323",
     "geom:latitude":58.072096,
     "geom:longitude":26.849326,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3505
+        "ee-mamt:okood":"3505"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126032167
     ],
     "wof:country":"EE",
     "wof:created":1595459985,
-    "wof:geomhash":"bc41a35069b3a5d99dde4f36cb1d9b7c",
+    "wof:geomhash":"22d820f8b4fa4b0f2e952085c730fdfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676781,
+    "wof:lastmodified":1695876951,
     "wof:name":"Krootuse",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

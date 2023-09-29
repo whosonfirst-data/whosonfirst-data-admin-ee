@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paloveere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000941,
-    "geom:area_square_m":6212577.233733,
+    "geom:area_square_m":6212577.233735,
     "geom:bbox":"27.145401,57.713618,27.208395,57.745483",
     "geom:latitude":57.728921,
     "geom:longitude":27.177101,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5943
+        "ee-mamt:okood":"5943"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309970393
     ],
     "wof:country":"EE",
     "wof:created":1595461392,
-    "wof:geomhash":"f1da8709440abb60a4d4e4b66520daf4",
+    "wof:geomhash":"484a67c56fa442651e0d55fd3dd89ac7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660269,
+    "wof:lastmodified":1695876726,
     "wof:name":"Paloveere",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

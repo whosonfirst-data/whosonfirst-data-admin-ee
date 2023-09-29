@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u0151rtsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000461,
-    "geom:area_square_m":2963432.098011,
+    "geom:area_square_m":2963432.098013,
     "geom:bbox":"26.048169,58.69487,26.085491,58.715584",
     "geom:latitude":58.705309,
     "geom:longitude":26.066184,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5166
+        "ee-mamt:okood":"5166"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310304043
     ],
     "wof:country":"EE",
     "wof:created":1595460485,
-    "wof:geomhash":"13c100f8d6b90d688f041adfcd894fcf",
+    "wof:geomhash":"974d2beecfe24cbc900e8c984fdfdf3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676490,
+    "wof:lastmodified":1695876915,
     "wof:name":"M\u0151rtsi",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

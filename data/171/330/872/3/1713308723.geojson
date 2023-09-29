@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Elbiku K\u00fcla / \u00d6lb\u00e4ck",
     "ee-mamt:tyyp":8,
     "geom:area":0.001583,
-    "geom:area_square_m":10036859.924586,
+    "geom:area_square_m":10036859.924588,
     "geom:bbox":"23.511809,59.140603,23.588828,59.171676",
     "geom:latitude":59.158739,
     "geom:longitude":23.549735,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1571
+        "ee-mamt:okood":"1571"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226741483
     ],
     "wof:country":"EE",
     "wof:created":1595459715,
-    "wof:geomhash":"bdfa3d48a777631ed275c902ad38c447",
+    "wof:geomhash":"21015e47fef61ecdbe35162e3d019ec5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677173,
+    "wof:lastmodified":1695876985,
     "wof:name":"Elbiku",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

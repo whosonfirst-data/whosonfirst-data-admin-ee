@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paate K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000167,
-    "geom:area_square_m":1051674.290596,
+    "geom:area_square_m":1051674.290597,
     "geom:bbox":"27.308958,59.402194,27.338392,59.415026",
     "geom:latitude":59.40922,
     "geom:longitude":27.324866,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5793
+        "ee-mamt:okood":"5793"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276665013
     ],
     "wof:country":"EE",
     "wof:created":1595459219,
-    "wof:geomhash":"284fefdc4a71c2ebb9a2a52807806756",
+    "wof:geomhash":"cdfba29186d0bc3e59daef82d6be7da2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676906,
+    "wof:lastmodified":1695876970,
     "wof:name":"Paate",
     "wof:parent_id":1713305783,
     "wof:placetype":"localadmin",

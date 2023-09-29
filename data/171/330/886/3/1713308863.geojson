@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tatra K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000563,
-    "geom:area_square_m":3665612.583521,
+    "geom:area_square_m":3665612.583522,
     "geom:bbox":"26.661595,58.23904,26.703754,58.258919",
     "geom:latitude":58.248171,
     "geom:longitude":26.682482,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8165
+        "ee-mamt:okood":"8165"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343327975
     ],
     "wof:country":"EE",
     "wof:created":1595459751,
-    "wof:geomhash":"7280a96b8b93b31c5990b6265511a51e",
+    "wof:geomhash":"1d45c1bd791896ffe5056782a438c3ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676682,
+    "wof:lastmodified":1695876938,
     "wof:name":"Tatra",
     "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",

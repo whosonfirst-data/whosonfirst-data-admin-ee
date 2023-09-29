@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuldre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000673,
-    "geom:area_square_m":4424901.322869,
+    "geom:area_square_m":4424901.32287,
     "geom:bbox":"26.453602,57.885519,26.504387,57.904797",
     "geom:latitude":57.895742,
     "geom:longitude":26.480516,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3575
+        "ee-mamt:okood":"3575"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125858193
     ],
     "wof:country":"EE",
     "wof:created":1595460256,
-    "wof:geomhash":"f6955fddd13ca9a781e83d43728bffcb",
+    "wof:geomhash":"26cdbc9e77ccfd5a22347b452a3e92c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677011,
+    "wof:lastmodified":1695876981,
     "wof:name":"Kuldre",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hagaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000423,
-    "geom:area_square_m":2702388.121437,
+    "geom:area_square_m":2702388.121439,
     "geom:bbox":"22.950116,58.906907,23.001723,58.934417",
     "geom:latitude":58.914802,
     "geom:longitude":22.970545,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1713
+        "ee-mamt:okood":"1713"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193028659
     ],
     "wof:country":"EE",
     "wof:created":1595459740,
-    "wof:geomhash":"5e03fb6c50b7a1a3479cb0e2dbee18ac",
+    "wof:geomhash":"7ebdebbfbf65c10d93c599099ec5bfa1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666492,
+    "wof:lastmodified":1695876862,
     "wof:name":"Hagaste",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

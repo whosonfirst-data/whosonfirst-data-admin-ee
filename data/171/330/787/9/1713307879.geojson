@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Pajusti Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000699,
-    "geom:area_square_m":4415616.041327,
+    "geom:area_square_m":4415616.041326,
     "geom:bbox":"26.392588,59.266293,26.435876,59.289749",
     "geom:latitude":59.276698,
     "geom:longitude":26.412733,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Pajusti alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5896
+        "ee-mamt:okood":"5896"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125839701
     ],
     "wof:country":"EE",
     "wof:created":1595459508,
-    "wof:geomhash":"19c71ea45ce668881444f592c52daa6a",
+    "wof:geomhash":"ab5b6eb67d0d1d89c414930187bc49c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677947,
+    "wof:lastmodified":1695877003,
     "wof:name":"Pajusti",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

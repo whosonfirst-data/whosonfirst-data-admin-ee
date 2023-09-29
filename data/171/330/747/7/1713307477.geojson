@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaunispe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001125,
-    "geom:area_square_m":7367744.289827,
+    "geom:area_square_m":7367744.289829,
     "geom:bbox":"22.052347,58.023585,22.122866,58.046658",
     "geom:latitude":58.034771,
     "geom:longitude":22.087768,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2874
+        "ee-mamt:okood":"2874"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293867361
     ],
     "wof:country":"EE",
     "wof:created":1595459410,
-    "wof:geomhash":"ae74ee5de43fd2e8a0e4feff90821757",
+    "wof:geomhash":"7a1891e616a5822c200ca2db093f0d37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672430,
+    "wof:lastmodified":1695876894,
     "wof:name":"Kaunispe",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

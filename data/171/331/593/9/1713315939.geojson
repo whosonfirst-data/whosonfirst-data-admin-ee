@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paganamaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000977,
-    "geom:area_square_m":6477146.478379,
+    "geom:area_square_m":6477146.478373,
     "geom:bbox":"26.809143,57.581265,26.864348,57.6134",
     "geom:latitude":57.596022,
     "geom:longitude":26.836947,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5839
+        "ee-mamt:okood":"5839"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209774603
     ],
     "wof:country":"EE",
     "wof:created":1595461325,
-    "wof:geomhash":"15a34c197bee8e4b22c168269231911b",
+    "wof:geomhash":"20fc6e49c03a6e91e5dd97b7398e7bc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676840,
+    "wof:lastmodified":1695876963,
     "wof:name":"Paganamaa",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

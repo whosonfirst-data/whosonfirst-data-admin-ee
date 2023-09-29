@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Inju K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000882,
-    "geom:area_square_m":5575260.763368,
+    "geom:area_square_m":5575260.763366,
     "geom:bbox":"26.345875,59.254123,26.396106,59.280632",
     "geom:latitude":59.266692,
     "geom:longitude":26.368537,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2090
+        "ee-mamt:okood":"2090"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125858125
     ],
     "wof:country":"EE",
     "wof:created":1595461079,
-    "wof:geomhash":"a8d333c074be1a3b054bcb5dace5d0c1",
+    "wof:geomhash":"3abfc60159b6176ed2fbe8dfd6f5e945",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677943,
+    "wof:lastmodified":1695877002,
     "wof:name":"Inju",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

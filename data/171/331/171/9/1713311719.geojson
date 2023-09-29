@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ivaski K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001345,
-    "geom:area_square_m":8706996.734403,
+    "geom:area_square_m":8706996.734402,
     "geom:bbox":"25.323275,58.409409,25.413799,58.436408",
     "geom:latitude":58.422224,
     "geom:longitude":25.36263,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2116
+        "ee-mamt:okood":"2116"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360047167
     ],
     "wof:country":"EE",
     "wof:created":1595460403,
-    "wof:geomhash":"884de510c01a1602ed3ed193cb556ead",
+    "wof:geomhash":"8c95ffbc873613d8eba87b28275614ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663442,
+    "wof:lastmodified":1695876829,
     "wof:name":"Ivaski",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

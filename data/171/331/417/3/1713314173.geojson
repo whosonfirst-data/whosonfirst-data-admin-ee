@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Peeri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001716,
-    "geom:area_square_m":10806072.480623,
+    "geom:area_square_m":10806072.480624,
     "geom:bbox":"27.260029,59.359478,27.342379,59.403727",
     "geom:latitude":59.383373,
     "geom:longitude":27.302917,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6081
+        "ee-mamt:okood":"6081"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243079267
     ],
     "wof:country":"EE",
     "wof:created":1595460918,
-    "wof:geomhash":"180fe5cb65e9fe93b39817751e467fbe",
+    "wof:geomhash":"f02fa20a0f011626ec3b3a248099a6fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676904,
+    "wof:lastmodified":1695876970,
     "wof:name":"Peeri",
     "wof:parent_id":1713305783,
     "wof:placetype":"localadmin",

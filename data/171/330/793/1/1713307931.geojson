@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Miila K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00242,
-    "geom:area_square_m":15264165.583196,
+    "geom:area_square_m":15264165.583199,
     "geom:bbox":"26.655993,59.300969,26.757021,59.33842",
     "geom:latitude":59.323642,
     "geom:longitude":26.710205,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4948
+        "ee-mamt:okood":"4948"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225835695
     ],
     "wof:country":"EE",
     "wof:created":1595459519,
-    "wof:geomhash":"06598734abc509161148ec767c28c0a9",
+    "wof:geomhash":"c5e600a0f088610592a56e7751f3a4fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677950,
+    "wof:lastmodified":1695877004,
     "wof:name":"Miila",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

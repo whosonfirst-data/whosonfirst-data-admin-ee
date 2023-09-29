@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Avinurme Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000942,
-    "geom:area_square_m":5998395.475171,
+    "geom:area_square_m":5998395.475169,
     "geom:bbox":"26.820171,58.975516,26.891677,59.000793",
     "geom:latitude":58.987063,
     "geom:longitude":26.862062,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Avinurme alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1481
+        "ee-mamt:okood":"1481"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126031837
     ],
     "wof:country":"EE",
     "wof:created":1595460524,
-    "wof:geomhash":"0c0c49be6b02e80d25170a0b8b3e093a",
+    "wof:geomhash":"86999420d1e6f3bc3e0a5d55dd8b84c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660954,
+    "wof:lastmodified":1695876740,
     "wof:name":"Avinurme",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

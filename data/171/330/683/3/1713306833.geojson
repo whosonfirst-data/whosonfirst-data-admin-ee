@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Peedu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00238,
-    "geom:area_square_m":15074025.217493,
+    "geom:area_square_m":15074025.217492,
     "geom:bbox":"25.598256,59.163928,25.710881,59.20572",
     "geom:latitude":59.189888,
     "geom:longitude":25.653545,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6079
+        "ee-mamt:okood":"6079"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209315193
     ],
     "wof:country":"EE",
     "wof:created":1595459253,
-    "wof:geomhash":"d3100b6d017cf21f84a28bb16f887db9",
+    "wof:geomhash":"f61a799864a47150b76e3e854ab3dded",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676632,
+    "wof:lastmodified":1695876934,
     "wof:name":"Peedu",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

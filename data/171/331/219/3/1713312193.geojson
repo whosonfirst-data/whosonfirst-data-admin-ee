@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Puurmani Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000334,
-    "geom:area_square_m":2152661.388703,
+    "geom:area_square_m":2152661.388704,
     "geom:bbox":"26.273311,58.566171,26.309582,58.584047",
     "geom:latitude":58.575911,
     "geom:longitude":26.292141,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Puurmani alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6479
+        "ee-mamt:okood":"6479"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037789
     ],
     "wof:country":"EE",
     "wof:created":1595460497,
-    "wof:geomhash":"35e14f11d7d82cd64a93707c9134dda9",
+    "wof:geomhash":"9048e6e2b62de55da7ee6dba08efd9c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676484,
+    "wof:lastmodified":1695876914,
     "wof:name":"Puurmani",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

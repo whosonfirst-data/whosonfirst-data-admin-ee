@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tammetaguse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001383,
-    "geom:area_square_m":8769830.280572,
+    "geom:area_square_m":8769830.280574,
     "geom:bbox":"27.272607,59.117293,27.351212,59.149621",
     "geom:latitude":59.135833,
     "geom:longitude":27.304171,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8104
+        "ee-mamt:okood":"8104"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193148449
     ],
     "wof:country":"EE",
     "wof:created":1595460423,
-    "wof:geomhash":"da49edb586fd733cd044b4e6703fc261",
+    "wof:geomhash":"8894ef3e9afcc2966e48f68ae1f6ca0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660709,
+    "wof:lastmodified":1695876733,
     "wof:name":"Tammetaguse",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

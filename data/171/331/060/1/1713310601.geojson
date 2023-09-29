@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Reheselja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000374,
-    "geom:area_square_m":2401111.478469,
+    "geom:area_square_m":2401111.47847,
     "geom:bbox":"22.508853,58.696058,22.553453,58.723318",
     "geom:latitude":58.710687,
     "geom:longitude":22.528401,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6903
+        "ee-mamt:okood":"6903"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226055759
     ],
     "wof:country":"EE",
     "wof:created":1595460161,
-    "wof:geomhash":"0af39c70f25d5697788fb05d7d232d5c",
+    "wof:geomhash":"ac640298850c6b269307d701c2cd7e7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666333,
+    "wof:lastmodified":1695876850,
     "wof:name":"Reheselja",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

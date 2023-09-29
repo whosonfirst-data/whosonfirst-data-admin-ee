@@ -8,7 +8,7 @@
     "ee-mamt:animi":"L\u00fckk\u00e4 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00023,
-    "geom:area_square_m":1518576.44978,
+    "geom:area_square_m":1518576.449782,
     "geom:bbox":"26.796553,57.772378,26.848665,57.789451",
     "geom:latitude":57.781484,
     "geom:longitude":26.822977,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4670
+        "ee-mamt:okood":"4670"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461092,
-    "wof:geomhash":"6d525c2f4830accf356e7fc814d8ace6",
+    "wof:geomhash":"8259bf11ecbeca12b7cb9cb1ea9b3922",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676808,
+    "wof:lastmodified":1695876953,
     "wof:name":"L\u00fckk\u00e4",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aasu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000754,
-    "geom:area_square_m":4742577.406963,
+    "geom:area_square_m":4742577.406964,
     "geom:bbox":"26.304103,59.390052,26.349203,59.419375",
     "geom:latitude":59.406758,
     "geom:longitude":26.3305,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1035
+        "ee-mamt:okood":"1035"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293193951
     ],
     "wof:country":"EE",
     "wof:created":1595459595,
-    "wof:geomhash":"87887a3bf4c3bfde8cf675cd9de8a355",
+    "wof:geomhash":"7a03e25cad3ebfa1778760f307ad35a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678012,
+    "wof:lastmodified":1695877009,
     "wof:name":"Aasu",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

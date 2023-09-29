@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Isabella K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00063,
-    "geom:area_square_m":4015832.227151,
+    "geom:area_square_m":4015832.22715,
     "geom:bbox":"22.501325,58.932355,22.552355,58.956726",
     "geom:latitude":58.945591,
     "geom:longitude":22.530491,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2109
+        "ee-mamt:okood":"2109"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293496599
     ],
     "wof:country":"EE",
     "wof:created":1595460072,
-    "wof:geomhash":"0d5e97e0c2841a6452c6150cb87f8dd7",
+    "wof:geomhash":"b7652f01906f515decb2d8c32a3262e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666289,
+    "wof:lastmodified":1695876848,
     "wof:name":"Isabella",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

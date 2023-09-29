@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viisli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003823,
-    "geom:area_square_m":24919218.464176,
+    "geom:area_square_m":24919218.464177,
     "geom:bbox":"27.099998,58.163033,27.227143,58.213984",
     "geom:latitude":58.191162,
     "geom:longitude":27.172038,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9300
+        "ee-mamt:okood":"9300"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327311037
     ],
     "wof:country":"EE",
     "wof:created":1595460221,
-    "wof:geomhash":"9e9788514cd7bdfd9dcf305b38535e99",
+    "wof:geomhash":"7091d5689a273725aed20890217cc0f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676948,
+    "wof:lastmodified":1695876974,
     "wof:name":"Viisli",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

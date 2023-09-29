@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kabuna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000902,
-    "geom:area_square_m":5786386.843525,
+    "geom:area_square_m":5786386.843526,
     "geom:bbox":"22.521215,58.719006,22.571991,58.759804",
     "geom:latitude":58.736315,
     "geom:longitude":22.551851,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2467
+        "ee-mamt:okood":"2467"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293213215
     ],
     "wof:country":"EE",
     "wof:created":1595460081,
-    "wof:geomhash":"9d16f4cf6c02e67d7e461b6e3c637ea7",
+    "wof:geomhash":"46dc5dbfaf98e5b4835288344395854c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666294,
+    "wof:lastmodified":1695876848,
     "wof:name":"Kabuna",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

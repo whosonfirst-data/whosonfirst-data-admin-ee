@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kulla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000794,
-    "geom:area_square_m":5179514.007466,
+    "geom:area_square_m":5179514.007465,
     "geom:bbox":"25.375131,58.134568,25.434693,58.164883",
     "geom:latitude":58.147959,
     "geom:longitude":25.410319,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3580
+        "ee-mamt:okood":"3580"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125934577
     ],
     "wof:country":"EE",
     "wof:created":1595460389,
-    "wof:geomhash":"4dfb73cc302e1d3e2388ffdeed4c93c4",
+    "wof:geomhash":"3695e19f06ff6628b1a8f103169f4bbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661283,
+    "wof:lastmodified":1695876749,
     "wof:name":"Kulla",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

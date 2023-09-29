@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Oti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000602,
-    "geom:area_square_m":3930389.297556,
+    "geom:area_square_m":3930389.297554,
     "geom:bbox":"25.561807,58.126766,25.61162,58.15382",
     "geom:latitude":58.139467,
     "geom:longitude":25.587544,
@@ -80,14 +80,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5758
+        "ee-mamt:okood":"5758"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260155253
     ],
     "wof:country":"EE",
     "wof:created":1595460381,
-    "wof:geomhash":"da922785c8061a5d0b4eb9787704d3ae",
+    "wof:geomhash":"b8a7945f435ee7a86f694cc627247515",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +105,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502247,
+    "wof:lastmodified":1695877021,
     "wof:name":"Oti",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sava K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000572,
-    "geom:area_square_m":3705753.458286,
+    "geom:area_square_m":3705753.458287,
     "geom:bbox":"26.95505,58.377801,26.985511,58.406726",
     "geom:latitude":58.392299,
     "geom:longitude":26.970202,
@@ -122,14 +122,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7479
+        "ee-mamt:okood":"7479"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326793837
     ],
     "wof:country":"EE",
     "wof:created":1595459167,
-    "wof:geomhash":"9dd346de0f97575b2416ea33e541ef15",
+    "wof:geomhash":"83a7d494530125afaf88ac917f585d45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,7 +147,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502256,
+    "wof:lastmodified":1695877024,
     "wof:name":"Sava",
     "wof:parent_id":1713305697,
     "wof:placetype":"localadmin",

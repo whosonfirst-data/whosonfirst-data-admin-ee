@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kalana K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00145,
-    "geom:area_square_m":9253122.390078,
+    "geom:area_square_m":9253122.390073,
     "geom:bbox":"22.03889,58.913093,22.109018,58.946855",
     "geom:latitude":58.92998,
     "geom:longitude":22.076511,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2561
+        "ee-mamt:okood":"2561"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225947365
     ],
     "wof:country":"EE",
     "wof:created":1595460059,
-    "wof:geomhash":"4bd1bf590fcffa0796c0350356934be1",
+    "wof:geomhash":"a99a8cb784ecfbf18466428c4f713f16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666287,
+    "wof:lastmodified":1695876848,
     "wof:name":"Kalana",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

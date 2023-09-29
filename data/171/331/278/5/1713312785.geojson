@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Putu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000796,
-    "geom:area_square_m":5118604.686528,
+    "geom:area_square_m":5118604.686527,
     "geom:bbox":"26.723834,58.673127,26.775448,58.698788",
     "geom:latitude":58.686507,
     "geom:longitude":26.751609,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6469
+        "ee-mamt:okood":"6469"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293486707
     ],
     "wof:country":"EE",
     "wof:created":1595460621,
-    "wof:geomhash":"0c8ec9d3de12548cbd45db5f9c50a26c",
+    "wof:geomhash":"25938cbf6ef46562bfe3cb7b1e2bc154",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660955,
+    "wof:lastmodified":1695876740,
     "wof:name":"Putu",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

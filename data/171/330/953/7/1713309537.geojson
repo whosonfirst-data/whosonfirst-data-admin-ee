@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piirivarbe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00045,
-    "geom:area_square_m":2895091.263669,
+    "geom:area_square_m":2895091.26367,
     "geom:bbox":"27.039626,58.669573,27.079286,58.688767",
     "geom:latitude":58.678042,
     "geom:longitude":27.059946,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6189
+        "ee-mamt:okood":"6189"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276897201
     ],
     "wof:country":"EE",
     "wof:created":1595459914,
-    "wof:geomhash":"7781315bb9fbf6df09392ac95e9d0faa",
+    "wof:geomhash":"dc657d2407c5f18aa6516203c13c7d08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660849,
+    "wof:lastmodified":1695876738,
     "wof:name":"Piirivarbe",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

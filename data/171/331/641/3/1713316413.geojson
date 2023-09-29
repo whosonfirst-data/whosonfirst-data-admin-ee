@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4\u00e4sovitsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000619,
-    "geom:area_square_m":4061378.593422,
+    "geom:area_square_m":4061378.593421,
     "geom:bbox":"27.647809,57.955335,27.686176,57.980475",
     "geom:latitude":57.967945,
     "geom:longitude":27.668356,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5300
+        "ee-mamt:okood":"5300"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277154157
     ],
     "wof:country":"EE",
     "wof:created":1595461422,
-    "wof:geomhash":"63b3647edabea52b3a55358edacac608",
+    "wof:geomhash":"06af11d7a5b1af36c17b80f8cf68389f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663630,
+    "wof:lastmodified":1695876836,
     "wof:name":"M\u00e4\u00e4sovitsa",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

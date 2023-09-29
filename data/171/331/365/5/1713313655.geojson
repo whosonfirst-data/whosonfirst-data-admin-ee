@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Loodi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001403,
-    "geom:area_square_m":9122112.753108,
+    "geom:area_square_m":9122112.753109,
     "geom:bbox":"25.543918,58.254597,25.603435,58.298344",
     "geom:latitude":58.27626,
     "geom:longitude":25.573461,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4501
+        "ee-mamt:okood":"4501"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126057119
     ],
     "wof:country":"EE",
     "wof:created":1595460808,
-    "wof:geomhash":"950e779379348ec9d84dd993d6bc6985",
+    "wof:geomhash":"9f0e481a0f8aff4cf1d6ebfe877596ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661205,
+    "wof:lastmodified":1695876745,
     "wof:name":"Loodi",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

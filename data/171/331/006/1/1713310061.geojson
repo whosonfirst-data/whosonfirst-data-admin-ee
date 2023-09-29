@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Soomra K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002844,
-    "geom:area_square_m":18433449.737716,
+    "geom:area_square_m":18433449.737715,
     "geom:bbox":"24.044312,58.362621,24.170145,58.413741",
     "geom:latitude":58.386792,
     "geom:longitude":24.101761,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7723
+        "ee-mamt:okood":"7723"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259464111
     ],
     "wof:country":"EE",
     "wof:created":1595460040,
-    "wof:geomhash":"c0e004cec6987802d69855d86c0e832a",
+    "wof:geomhash":"61adc32822d009d2f12192c869935276",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677668,
+    "wof:lastmodified":1695876992,
     "wof:name":"Soomra",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

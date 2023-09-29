@@ -8,7 +8,7 @@
     "ee-mamt:animi":"\u00dclensi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000984,
-    "geom:area_square_m":6402824.378711,
+    "geom:area_square_m":6402824.378713,
     "geom:bbox":"25.801587,58.239261,25.871554,58.275054",
     "geom:latitude":58.258141,
     "geom:longitude":25.831849,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9833
+        "ee-mamt:okood":"9833"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890463
     ],
     "wof:country":"EE",
     "wof:created":1595460043,
-    "wof:geomhash":"89c188f91bccd2a4b02de3373cfb4934",
+    "wof:geomhash":"d706e5d9697caf58acab5bbc2d7ce3b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661188,
+    "wof:lastmodified":1695876744,
     "wof:name":"\u00dclensi",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

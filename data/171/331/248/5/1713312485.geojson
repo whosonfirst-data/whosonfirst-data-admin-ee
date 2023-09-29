@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Keskvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004597,
-    "geom:area_square_m":29431441.439054,
+    "geom:area_square_m":29431441.439051,
     "geom:bbox":"23.773117,58.784932,23.933029,58.8425",
     "geom:latitude":58.814923,
     "geom:longitude":23.857197,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2977
+        "ee-mamt:okood":"2977"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243355227
     ],
     "wof:country":"EE",
     "wof:created":1595460554,
-    "wof:geomhash":"52abbf1eb2bf6d952eadc23ec8a37d9b",
+    "wof:geomhash":"dd37b70b66e7ad1bde39c167450316dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677165,
+    "wof:lastmodified":1695876984,
     "wof:name":"Keskvere",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

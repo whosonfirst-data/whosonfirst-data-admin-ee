@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sojamaa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000735,
-    "geom:area_square_m":4752725.833953,
+    "geom:area_square_m":4752725.833954,
     "geom:bbox":"26.603916,58.467533,26.656933,58.496895",
     "geom:latitude":58.480575,
     "geom:longitude":26.631061,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7671
+        "ee-mamt:okood":"7671"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037833
     ],
     "wof:country":"EE",
     "wof:created":1595459769,
-    "wof:geomhash":"e65da7b363e8d61883ab7b3c89360809",
+    "wof:geomhash":"1c94ac213ec21bd4c3e39f2708fc8405",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676455,
+    "wof:lastmodified":1695876910,
     "wof:name":"Sojamaa",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

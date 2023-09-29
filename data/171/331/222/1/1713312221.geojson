@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Teilma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001215,
-    "geom:area_square_m":7788817.016118,
+    "geom:area_square_m":7788817.016117,
     "geom:bbox":"26.589918,58.741758,26.645993,58.785401",
     "geom:latitude":58.766394,
     "geom:longitude":26.617079,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8188
+        "ee-mamt:okood":"8188"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293297591
     ],
     "wof:country":"EE",
     "wof:created":1595460503,
-    "wof:geomhash":"0ca2748953b6f063f624d8247a847d44",
+    "wof:geomhash":"c81c2922c46beb62e3556e60d6814b0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676558,
+    "wof:lastmodified":1695876923,
     "wof:name":"Teilma",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

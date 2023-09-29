@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Uljaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004828,
-    "geom:area_square_m":30406495.460106,
+    "geom:area_square_m":30406495.460105,
     "geom:bbox":"26.702286,59.343975,26.825103,59.418356",
     "geom:latitude":59.379258,
     "geom:longitude":26.7758,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8660
+        "ee-mamt:okood":"8660"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461025,
-    "wof:geomhash":"1e0ffa5aabcbbe06334dfc2abd5a3e4c",
+    "wof:geomhash":"4bc98f2499a36ccc11a466c78f270ce8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660780,
+    "wof:lastmodified":1695876735,
     "wof:name":"Uljaste",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

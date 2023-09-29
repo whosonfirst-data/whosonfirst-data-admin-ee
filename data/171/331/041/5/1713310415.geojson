@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Teedla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001307,
-    "geom:area_square_m":8518529.822312,
+    "geom:area_square_m":8518529.822309,
     "geom:bbox":"26.235067,58.174329,26.312754,58.204402",
     "geom:latitude":58.19112,
     "geom:longitude":26.27528,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8180
+        "ee-mamt:okood":"8180"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125957117
     ],
     "wof:country":"EE",
     "wof:created":1595460116,
-    "wof:geomhash":"49c1bbb565409ec34638c3e16d21fed4",
+    "wof:geomhash":"d0c3494f1c1e1be5f091c4432b7b4fdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661892,
+    "wof:lastmodified":1695876784,
     "wof:name":"Teedla",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

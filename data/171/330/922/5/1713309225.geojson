@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Treimani K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002024,
-    "geom:area_square_m":13288102.876125,
+    "geom:area_square_m":13288102.876122,
     "geom:bbox":"24.370053,57.906312,24.463731,57.952843",
     "geom:latitude":57.923954,
     "geom:longitude":24.414338,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8340
+        "ee-mamt:okood":"8340"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125863111
     ],
     "wof:country":"EE",
     "wof:created":1595459837,
-    "wof:geomhash":"2de8a1e9c4dd9d9c7feea3d8426823f6",
+    "wof:geomhash":"77204c99b5570e7a40559aa2ddf6cb0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663031,
+    "wof:lastmodified":1695876807,
     "wof:name":"Treimani",
     "wof:parent_id":1713305741,
     "wof:placetype":"localadmin",

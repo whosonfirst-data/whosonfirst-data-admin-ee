@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Paluk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001535,
-    "geom:area_square_m":9781913.1491,
+    "geom:area_square_m":9781913.149099,
     "geom:bbox":"22.760261,58.956636,22.84063,58.991171",
     "geom:latitude":58.975191,
     "geom:longitude":22.801564,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5946
+        "ee-mamt:okood":"5946"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209013429
     ],
     "wof:country":"EE",
     "wof:created":1595460138,
-    "wof:geomhash":"ec5a3853dd0577f05f3dd27222071d48",
+    "wof:geomhash":"8ddad2d07df3be67afad0b10578000f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666425,
+    "wof:lastmodified":1695876857,
     "wof:name":"Paluk\u00fcla",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

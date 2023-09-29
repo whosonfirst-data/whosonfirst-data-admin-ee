@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00e4rinurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00094,
-    "geom:area_square_m":5949811.939656,
+    "geom:area_square_m":5949811.939658,
     "geom:bbox":"24.540547,59.188513,24.601845,59.21534",
     "geom:latitude":59.201058,
     "geom:longitude":24.570795,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6603
+        "ee-mamt:okood":"6603"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326539663
     ],
     "wof:country":"EE",
     "wof:created":1595459493,
-    "wof:geomhash":"64e71b00b29b3140861ff5743326f1a8",
+    "wof:geomhash":"cee3cb290ae28f66298f957a9396731a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663231,
+    "wof:lastmodified":1695876811,
     "wof:name":"P\u00e4rinurme",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

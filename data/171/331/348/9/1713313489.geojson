@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kohatu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001721,
-    "geom:area_square_m":10906514.223157,
+    "geom:area_square_m":10906514.223158,
     "geom:bbox":"24.478174,59.143207,24.566409,59.176868",
     "geom:latitude":59.160116,
     "geom:longitude":24.522274,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3266
+        "ee-mamt:okood":"3266"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125945473
     ],
     "wof:country":"EE",
     "wof:created":1595460772,
-    "wof:geomhash":"b6d8f2b18f93788c474e4e4488ec42f1",
+    "wof:geomhash":"e3fe0652f8d7dff918d7a97cb388fb7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663227,
+    "wof:lastmodified":1695876810,
     "wof:name":"Kohatu",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

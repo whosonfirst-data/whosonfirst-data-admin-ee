@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saukse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000403,
-    "geom:area_square_m":2542923.84239,
+    "geom:area_square_m":2542923.842391,
     "geom:bbox":"26.218568,59.324888,26.250503,59.342887",
     "geom:latitude":59.333477,
     "geom:longitude":26.235063,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7456
+        "ee-mamt:okood":"7456"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459163,
-    "wof:geomhash":"e0094818d2f80992340ecf5bfb3768c0",
+    "wof:geomhash":"d99113a9455b8369dfdd2062a8af58ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661727,
+    "wof:lastmodified":1695876775,
     "wof:name":"Saukse",
     "wof:parent_id":1713305723,
     "wof:placetype":"localadmin",

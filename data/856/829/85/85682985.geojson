@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.524534,
-    "geom:area_square_m":3404677712.232337,
+    "geom:area_square_m":3404677712.232421,
     "geom:bbox":"24.97194,57.956038,26.190842,58.690117",
     "geom:latitude":58.336291,
     "geom:longitude":25.55205,
@@ -374,16 +374,22 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ee-mamt:okood":"84",
         "fips:code":"EN20",
         "gn:id":587590,
         "gp:id":2345289,
         "hasc:id":"EE.VD",
+        "iso:code":"EE-84",
         "iso:id":"EE-84",
         "unlc:id":"EE-84",
         "wd:id":"Q192061"
     },
+    "wof:concordances_official":"ee-mamt:okood",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"9f07026a6776c5c5568a1e32f46b2264",
+    "wof:geomhash":"1601832f5d71c074720cc6ed92f857be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -398,7 +404,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875675,
+    "wof:lastmodified":1695884927,
     "wof:name":"Viljandi",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

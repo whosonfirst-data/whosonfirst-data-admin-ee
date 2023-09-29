@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Haljava K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001717,
-    "geom:area_square_m":10805278.624171,
+    "geom:area_square_m":10805278.624172,
     "geom:bbox":"25.146708,59.371217,25.209451,59.426897",
     "geom:latitude":59.402546,
     "geom:longitude":25.183996,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1741
+        "ee-mamt:okood":"1741"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126003601
     ],
     "wof:country":"EE",
     "wof:created":1595460595,
-    "wof:geomhash":"8dc56adad09bc220b63e068a9a315894",
+    "wof:geomhash":"792898bf8e2c01c3c8aef30b0a7e686d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661370,
+    "wof:lastmodified":1695876756,
     "wof:name":"Haljava",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

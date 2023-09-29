@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kulina K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001058,
-    "geom:area_square_m":6695177.333761,
+    "geom:area_square_m":6695177.333759,
     "geom:bbox":"26.529038,59.19375,26.614773,59.215733",
     "geom:latitude":59.205702,
     "geom:longitude":26.570836,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3577
+        "ee-mamt:okood":"3577"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293220465
     ],
     "wof:country":"EE",
     "wof:created":1595459537,
-    "wof:geomhash":"3bd162ec4845d9ca7a332e2367a6086b",
+    "wof:geomhash":"94a6dfbad99071b43ae30c21efb7641c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677951,
+    "wof:lastmodified":1695877004,
     "wof:name":"Kulina",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

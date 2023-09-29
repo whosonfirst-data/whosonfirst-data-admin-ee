@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pootsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0012,
-    "geom:area_square_m":7800914.434233,
+    "geom:area_square_m":7800914.434232,
     "geom:bbox":"24.101901,58.251107,24.162383,58.288633",
     "geom:latitude":58.271179,
     "geom:longitude":24.130392,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6325
+        "ee-mamt:okood":"6325"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125871629
     ],
     "wof:country":"EE",
     "wof:created":1595460028,
-    "wof:geomhash":"d032597b581f6df8db05c4937e9bf56a",
+    "wof:geomhash":"c15f93c87efdf4f096d033597cde00e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677665,
+    "wof:lastmodified":1695876991,
     "wof:name":"Pootsi",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

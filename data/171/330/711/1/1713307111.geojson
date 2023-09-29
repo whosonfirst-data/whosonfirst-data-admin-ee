@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Taadikvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002774,
-    "geom:area_square_m":17808332.209029,
+    "geom:area_square_m":17808332.209028,
     "geom:bbox":"25.66978,58.700096,25.78444,58.74068",
     "geom:latitude":58.719743,
     "geom:longitude":25.723481,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7991
+        "ee-mamt:okood":"7991"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193016441
     ],
     "wof:country":"EE",
     "wof:created":1595459323,
-    "wof:geomhash":"e08d3cad67cbd67bb2f3c470e986ae62",
+    "wof:geomhash":"45b12cbc2cfbfcd10a7f0ebac8a762d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676625,
+    "wof:lastmodified":1695876933,
     "wof:name":"Taadikvere",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"L\u00fckati K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00312,
-    "geom:area_square_m":19707127.845641,
+    "geom:area_square_m":19707127.845646,
     "geom:bbox":"25.221745,59.247822,25.34522,59.31479",
     "geom:latitude":59.279764,
     "geom:longitude":25.277709,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4672
+        "ee-mamt:okood":"4672"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276887963
     ],
     "wof:country":"EE",
     "wof:created":1595461149,
-    "wof:geomhash":"83626422171d840221b140c5cdb64a72",
+    "wof:geomhash":"763f40076abff6a2b1247d0daa605967",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662793,
+    "wof:lastmodified":1695876799,
     "wof:name":"L\u00fckati",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

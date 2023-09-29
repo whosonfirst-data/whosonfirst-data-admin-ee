@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kurena K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001565,
-    "geom:area_square_m":10114467.93318,
+    "geom:area_square_m":10114467.933183,
     "geom:bbox":"24.509043,58.464339,24.577353,58.520312",
     "geom:latitude":58.495411,
     "geom:longitude":24.544308,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3648
+        "ee-mamt:okood":"3648"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310479707
     ],
     "wof:country":"EE",
     "wof:created":1595460540,
-    "wof:geomhash":"e96bfb4c1e110241a2a21603270bf41b",
+    "wof:geomhash":"808658ab7b1a2e717e57ffe54c8d4a19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663371,
+    "wof:lastmodified":1695876819,
     "wof:name":"Kurena",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

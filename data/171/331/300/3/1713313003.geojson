@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Haavakivi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00126,
-    "geom:area_square_m":8098462.810418,
+    "geom:area_square_m":8098462.810415,
     "geom:bbox":"26.953736,58.662938,27.019483,58.701302",
     "geom:latitude":58.685049,
     "geom:longitude":26.987375,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1702
+        "ee-mamt:okood":"1702"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276871383
     ],
     "wof:country":"EE",
     "wof:created":1595460670,
-    "wof:geomhash":"fda1cba725fff227ab7e480666691612",
+    "wof:geomhash":"cadb7af24106063cb6f7be3169e029f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660834,
+    "wof:lastmodified":1695876737,
     "wof:name":"Haavakivi",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

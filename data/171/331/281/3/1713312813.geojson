@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4liste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00234,
-    "geom:area_square_m":15013607.485845,
+    "geom:area_square_m":15013607.485848,
     "geom:bbox":"24.48217,58.71792,24.564209,58.771547",
     "geom:latitude":58.747032,
     "geom:longitude":24.519202,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5246
+        "ee-mamt:okood":"5246"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225821729
     ],
     "wof:country":"EE",
     "wof:created":1595460627,
-    "wof:geomhash":"08d2aabb0c4bcfb6e3703b4360aa67e0",
+    "wof:geomhash":"525a373851c118ecb48a84ca23aeadbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662812,
+    "wof:lastmodified":1695876801,
     "wof:name":"M\u00e4liste",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

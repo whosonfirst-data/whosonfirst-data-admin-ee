@@ -14,7 +14,7 @@
     "geom:longitude":24.754666,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "alev"
+        "town"
     ],
     "label:est_x_preferred_longname":[
         "Kohila alev"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3268
+        "ee-mamt:okood":"3268"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815123
     ],
     "wof:country":"EE",
     "wof:created":1595459082,
-    "wof:geomhash":"2099b89661c251b815b826e0a8355bfd",
+    "wof:geomhash":"a752c576d7fffa96fe7a4cc9644c20e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677030,
+    "wof:lastmodified":1695876983,
     "wof:name":"Kohila",
     "wof:parent_id":1713305707,
     "wof:placetype":"localadmin",

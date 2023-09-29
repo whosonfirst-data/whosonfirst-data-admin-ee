@@ -8,13 +8,13 @@
     "ee-mamt:animi":"T\u0151rvandi Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000386,
-    "geom:area_square_m":2509377.883824,
+    "geom:area_square_m":2509377.883823,
     "geom:bbox":"26.684054,58.310994,26.719704,58.328222",
     "geom:latitude":58.318758,
     "geom:longitude":26.70467,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "T\u0151rvandi alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8532
+        "ee-mamt:okood":"8532"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101839835
     ],
     "wof:country":"EE",
     "wof:created":1595459752,
-    "wof:geomhash":"5f367aa39dffe0e5add35732aee7accd",
+    "wof:geomhash":"aa68572e26912c3069b5736615eb964b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676677,
+    "wof:lastmodified":1695876937,
     "wof:name":"T\u0151rvandi",
     "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",

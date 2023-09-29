@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002097,
-    "geom:area_square_m":13738414.820451,
+    "geom:area_square_m":13738414.820448,
     "geom:bbox":"26.632972,57.985961,26.696787,58.034984",
     "geom:latitude":58.010769,
     "geom:longitude":26.662883,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2769
+        "ee-mamt:okood":"2769"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037549
     ],
     "wof:country":"EE",
     "wof:created":1595459964,
-    "wof:geomhash":"b82a7a4aa6872f6ef488c26baa2dcab1",
+    "wof:geomhash":"8d0c118842ec289783b6b113200eec05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676778,
+    "wof:lastmodified":1695876950,
     "wof:name":"Karste",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

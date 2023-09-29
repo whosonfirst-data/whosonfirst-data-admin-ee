@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mustj\u0151e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004807,
-    "geom:area_square_m":30362087.29428,
+    "geom:area_square_m":30362087.294287,
     "geom:bbox":"25.416041,59.262186,25.595383,59.313028",
     "geom:latitude":59.285192,
     "geom:longitude":25.503265,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5082
+        "ee-mamt:okood":"5082"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327351173
     ],
     "wof:country":"EE",
     "wof:created":1595460982,
-    "wof:geomhash":"8f8ebb2ce610e87f8b6555291e23732b",
+    "wof:geomhash":"0be4abb4693477dc18185c2e94e0a58d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662788,
+    "wof:lastmodified":1695876797,
     "wof:name":"Mustj\u0151e",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

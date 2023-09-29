@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaarkali K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000169,
-    "geom:area_square_m":1120141.261542,
+    "geom:area_square_m":1120141.261543,
     "geom:bbox":"27.02275,57.623788,27.049861,57.636715",
     "geom:latitude":57.630531,
     "geom:longitude":27.036077,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8809
+        "ee-mamt:okood":"8809"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327098889
     ],
     "wof:country":"EE",
     "wof:created":1595461111,
-    "wof:geomhash":"0f602c52a9440aa4dc0fed648605df0b",
+    "wof:geomhash":"0841e95a22376289e33f8519f6af3ef2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676814,
+    "wof:lastmodified":1695876955,
     "wof:name":"Vaarkali",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

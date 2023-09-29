@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Murd\u0151m\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000064,
-    "geom:area_square_m":422824.108157,
+    "geom:area_square_m":422824.108155,
     "geom:bbox":"27.010077,57.712916,27.03073,57.7205",
     "geom:latitude":57.716825,
     "geom:longitude":27.020943,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5042
+        "ee-mamt:okood":"5042"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461200,
-    "wof:geomhash":"ec0251e1ff4f3e718a4f1fa9a9e8e3cd",
+    "wof:geomhash":"f355e413f64d08d4d3a5e3ac068d8980",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676846,
+    "wof:lastmodified":1695876964,
     "wof:name":"Murd\u0151m\u00e4e",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

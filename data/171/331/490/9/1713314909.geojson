@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vodi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000126,
-    "geom:area_square_m":828204.622839,
+    "geom:area_square_m":828204.62284,
     "geom:bbox":"27.055307,57.745543,27.078835,57.757899",
     "geom:latitude":57.752283,
     "geom:longitude":27.064982,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9445
+        "ee-mamt:okood":"9445"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461092,
-    "wof:geomhash":"7bf3bfa1e7b7567f36dd5edffbe5b1e2",
+    "wof:geomhash":"f32a8c3152b546bb4b65b3692bddf04d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676859,
+    "wof:lastmodified":1695876968,
     "wof:name":"Vodi",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Liivam\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000601,
-    "geom:area_square_m":3779714.636417,
+    "geom:area_square_m":3779714.636418,
     "geom:bbox":"24.935742,59.423846,24.984465,59.451269",
     "geom:latitude":59.440642,
     "geom:longitude":24.961747,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4359
+        "ee-mamt:okood":"4359"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343676003
     ],
     "wof:country":"EE",
     "wof:created":1595459146,
-    "wof:geomhash":"afa6e5fc623793b02a9ae388db7e6706",
+    "wof:geomhash":"7025c8ff11aeeb4b2e5c91125a73f5dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661378,
+    "wof:lastmodified":1695876757,
     "wof:name":"Liivam\u00e4e",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002263,
-    "geom:area_square_m":14234672.01899,
+    "geom:area_square_m":14234672.018986,
     "geom:bbox":"27.1673,59.398812,27.258232,59.443769",
     "geom:latitude":59.426217,
     "geom:longitude":27.218355,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7348
+        "ee-mamt:okood":"7348"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125945967
     ],
     "wof:country":"EE",
     "wof:created":1595459240,
-    "wof:geomhash":"14bdca547602e5a43620bfa4444d8b0b",
+    "wof:geomhash":"77a06b8aa63ec005ea0c5a57f8c5fe8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676905,
+    "wof:lastmodified":1695876970,
     "wof:name":"Saka",
     "wof:parent_id":1713305783,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Andsum\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000483,
-    "geom:area_square_m":3184922.260049,
+    "geom:area_square_m":3184922.260047,
     "geom:bbox":"27.167591,57.782637,27.197454,57.80679",
     "geom:latitude":57.794105,
     "geom:longitude":27.182497,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1305
+        "ee-mamt:okood":"1305"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461257,
-    "wof:geomhash":"e6f72410f17415229ed3c08dcc6204f3",
+    "wof:geomhash":"47dfb361018c3e68b6c4067b883fa718",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660243,
+    "wof:lastmodified":1695876723,
     "wof:name":"Andsum\u00e4e",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kirbu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000252,
-    "geom:area_square_m":1662622.751784,
+    "geom:area_square_m":1662622.751783,
     "geom:bbox":"27.077555,57.681931,27.108225,57.703182",
     "geom:latitude":57.691434,
     "geom:longitude":27.093429,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3115
+        "ee-mamt:okood":"3115"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310659601
     ],
     "wof:country":"EE",
     "wof:created":1595461146,
-    "wof:geomhash":"ce0c49a7ee0ca7ceb0d497ac5d6532d7",
+    "wof:geomhash":"9040ad4c042af392c1e81daadfe1a127",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676812,
+    "wof:lastmodified":1695876955,
     "wof:name":"Kirbu",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

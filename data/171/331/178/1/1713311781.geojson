@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Taga-Roostoja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002189,
-    "geom:area_square_m":13900526.449502,
+    "geom:area_square_m":13900526.449503,
     "geom:bbox":"27.142438,59.069417,27.247933,59.116283",
     "geom:latitude":59.096014,
     "geom:longitude":27.19642,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1534
+        "ee-mamt:okood":"1534"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293208003
     ],
     "wof:country":"EE",
     "wof:created":1595460416,
-    "wof:geomhash":"0bc08623e6295fc7da7e33b9926bc434",
+    "wof:geomhash":"cb961c9ef6b81d55b86678ada0d2f28d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660687,
+    "wof:lastmodified":1695876731,
     "wof:name":"Taga-Roostoja",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

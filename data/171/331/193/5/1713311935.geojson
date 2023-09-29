@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Salla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001507,
-    "geom:area_square_m":9607870.526718,
+    "geom:area_square_m":9607870.526719,
     "geom:bbox":"26.338916,58.940916,26.420373,58.978032",
     "geom:latitude":58.958248,
     "geom:longitude":26.376801,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7385
+        "ee-mamt:okood":"7385"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125892991
     ],
     "wof:country":"EE",
     "wof:created":1595460448,
-    "wof:geomhash":"66c9c0ad91c52394dee0b756268f7f50",
+    "wof:geomhash":"a52c67235aa62409cb462583a6ea0dc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676528,
+    "wof:lastmodified":1695876919,
     "wof:name":"Salla",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

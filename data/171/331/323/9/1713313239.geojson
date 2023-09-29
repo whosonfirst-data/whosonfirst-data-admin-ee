@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Arkma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002101,
-    "geom:area_square_m":13507817.0334,
+    "geom:area_square_m":13507817.033398,
     "geom:bbox":"25.559444,58.647175,25.655197,58.701443",
     "geom:latitude":58.670056,
     "geom:longitude":25.601638,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1359
+        "ee-mamt:okood":"1359"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327140599
     ],
     "wof:country":"EE",
     "wof:created":1595460720,
-    "wof:geomhash":"834f32acb17590d035c5c807ba2ec35a",
+    "wof:geomhash":"6dd3711d32763082ac723ad6f8683bef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677975,
+    "wof:lastmodified":1695877006,
     "wof:name":"Arkma",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

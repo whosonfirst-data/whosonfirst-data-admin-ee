@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Holstre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000904,
-    "geom:area_square_m":5878729.498406,
+    "geom:area_square_m":5878729.498404,
     "geom:bbox":"25.677839,58.268449,25.728095,58.299805",
     "geom:latitude":58.284297,
     "geom:longitude":25.702703,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1888
+        "ee-mamt:okood":"1888"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125933135
     ],
     "wof:country":"EE",
     "wof:created":1595459981,
-    "wof:geomhash":"f88e747027e5bc9c129c37b4d133bc68",
+    "wof:geomhash":"92f496ee99dfc712e6b69d4df11f7532",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661232,
+    "wof:lastmodified":1695876747,
     "wof:name":"Holstre",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

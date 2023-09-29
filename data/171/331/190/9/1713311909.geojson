@@ -14,7 +14,7 @@
     "geom:longitude":27.045345,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "P\u00fcssi linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6671
+        "ee-mamt:okood":"6671"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815203
     ],
     "wof:country":"EE",
     "wof:created":1595460442,
-    "wof:geomhash":"8cec1b3f78379ff0c21624fe93ab96e4",
+    "wof:geomhash":"956754369d559e45a161238f9b301f64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660774,
+    "wof:lastmodified":1695876735,
     "wof:name":"P\u00fcssi",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

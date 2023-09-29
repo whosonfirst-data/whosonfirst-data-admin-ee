@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Leedi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002054,
-    "geom:area_square_m":13130821.524705,
+    "geom:area_square_m":13130821.524703,
     "geom:bbox":"26.501492,58.840909,26.59602,58.876558",
     "geom:latitude":58.861119,
     "geom:longitude":26.554643,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4175
+        "ee-mamt:okood":"4175"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125934743
     ],
     "wof:country":"EE",
     "wof:created":1595460469,
-    "wof:geomhash":"b2717cbcb0a2a49f8e10f0c778f986a5",
+    "wof:geomhash":"d027e29cdd753f476874928dbc801360",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676562,
+    "wof:lastmodified":1695876924,
     "wof:name":"Leedi",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

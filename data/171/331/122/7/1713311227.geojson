@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hagudi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001285,
-    "geom:area_square_m":8171046.682513,
+    "geom:area_square_m":8171046.682514,
     "geom:bbox":"24.807765,59.040749,24.873075,59.072562",
     "geom:latitude":59.055755,
     "geom:longitude":24.840122,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1717
+        "ee-mamt:okood":"1717"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460291,
-    "wof:geomhash":"82ada048dc346af5262cd683f964d6bd",
+    "wof:geomhash":"de828e40f5db872202529ddcf3daae83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676706,
+    "wof:lastmodified":1695876942,
     "wof:name":"Hagudi",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

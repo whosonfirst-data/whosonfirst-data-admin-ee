@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pupli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000438,
-    "geom:area_square_m":2899543.679905,
+    "geom:area_square_m":2899543.679907,
     "geom:bbox":"27.233833,57.587247,27.276647,57.606199",
     "geom:latitude":57.595923,
     "geom:longitude":27.258279,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6435
+        "ee-mamt:okood":"6435"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327392895
     ],
     "wof:country":"EE",
     "wof:created":1595461343,
-    "wof:geomhash":"a27aa10b6bc6d8b0452fff109a48bbff",
+    "wof:geomhash":"9c078cb4aea6efc87efa6d7d4f410e4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676856,
+    "wof:lastmodified":1695876967,
     "wof:name":"Pupli",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

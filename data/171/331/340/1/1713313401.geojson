@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laanemetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005997,
-    "geom:area_square_m":39674775.17333,
+    "geom:area_square_m":39674775.173332,
     "geom:bbox":"26.231707,57.609931,26.388651,57.700272",
     "geom:latitude":57.655275,
     "geom:longitude":26.312101,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4024
+        "ee-mamt:okood":"4024"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126003801
     ],
     "wof:country":"EE",
     "wof:created":1595460754,
-    "wof:geomhash":"48c4540a4df7a61a5aae614b41ce16bb",
+    "wof:geomhash":"3267d8d2b74f2a55eb7913451b327737",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661939,
+    "wof:lastmodified":1695876790,
     "wof:name":"Laanemetsa",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

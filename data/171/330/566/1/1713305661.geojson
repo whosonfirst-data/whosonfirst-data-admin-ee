@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":480,
+        "ee-mamt:okood":"480",
         "eg:gisco_id":"EE_0480",
         "eurostat:nuts_2021_id":"0480"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451875,
     "wof:geomhash":"e04fc062ea3ef946ad1168890e081a19",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352179,
+    "wof:lastmodified":1695886698,
     "wof:name":"Mulgi",
     "wof:parent_id":85682985,
     "wof:placetype":"county",

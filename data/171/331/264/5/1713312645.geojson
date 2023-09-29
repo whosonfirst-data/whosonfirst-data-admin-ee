@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lepaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001664,
-    "geom:area_square_m":10574839.725845,
+    "geom:area_square_m":10574839.725846,
     "geom:bbox":"24.102808,59.054908,24.195728,59.102032",
     "geom:latitude":59.076226,
     "geom:longitude":24.150289,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4289
+        "ee-mamt:okood":"4289"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276551485
     ],
     "wof:country":"EE",
     "wof:created":1595460587,
-    "wof:geomhash":"03b53797e07293903dda454dce1e58e2",
+    "wof:geomhash":"3a12aabbb8b511621888e17a033fe630",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663224,
+    "wof:lastmodified":1695876809,
     "wof:name":"Lepaste",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lapetukme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00247,
-    "geom:area_square_m":16110783.016712,
+    "geom:area_square_m":16110783.016706,
     "geom:bbox":"26.114175,58.138306,26.222038,58.186645",
     "geom:latitude":58.165156,
     "geom:longitude":26.167983,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4117
+        "ee-mamt:okood":"4117"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125870693
     ],
     "wof:country":"EE",
     "wof:created":1595460070,
-    "wof:geomhash":"8fa1175d6be4c5a65f8c04ba8890df81",
+    "wof:geomhash":"0b1a1d43be7bf3b468b4e4360667daab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661886,
+    "wof:lastmodified":1695876783,
     "wof:name":"Lapetukme",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

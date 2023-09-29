@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kurese K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002976,
-    "geom:area_square_m":19144824.836254,
+    "geom:area_square_m":19144824.836256,
     "geom:bbox":"24.111292,58.625362,24.222487,58.680952",
     "geom:latitude":58.654569,
     "geom:longitude":24.173394,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3654
+        "ee-mamt:okood":"3654"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193115479
     ],
     "wof:country":"EE",
     "wof:created":1595459861,
-    "wof:geomhash":"da2d66fa26646cd56348ebf876e0e940",
+    "wof:geomhash":"fb04ee10d80a4864855b7709700f06b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661600,
+    "wof:lastmodified":1695876767,
     "wof:name":"Kurese",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

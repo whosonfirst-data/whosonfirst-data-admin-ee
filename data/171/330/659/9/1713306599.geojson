@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Laok\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000351,
-    "geom:area_square_m":2280305.215792,
+    "geom:area_square_m":2280305.215793,
     "geom:bbox":"22.443315,58.340203,22.485328,58.358034",
     "geom:latitude":58.34928,
     "geom:longitude":22.464747,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4110
+        "ee-mamt:okood":"4110"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459194,
-    "wof:geomhash":"a8f8de8ed4cbc02a6f9669ad7707087b",
+    "wof:geomhash":"cd1de3d2b4c9be81a36d25133fe4cf02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671925,
+    "wof:lastmodified":1695876874,
     "wof:name":"Laok\u00fcla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -14,7 +14,7 @@
     "geom:longitude":25.163798,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Habaja alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1708
+        "ee-mamt:okood":"1708"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126056993
     ],
     "wof:country":"EE",
     "wof:created":1595459143,
-    "wof:geomhash":"96f105013a5a68745b4ae65fe237a2a0",
+    "wof:geomhash":"889340c90201c855ec44db47c8a6cade",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661339,
+    "wof:lastmodified":1695876754,
     "wof:name":"Habaja",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

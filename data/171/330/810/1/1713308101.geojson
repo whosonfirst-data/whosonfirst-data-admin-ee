@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Paide Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.001577,
-    "geom:area_square_m":10078322.804799,
+    "geom:area_square_m":10078322.804802,
     "geom:bbox":"25.517566,58.86372,25.602537,58.906348",
     "geom:latitude":58.884987,
     "geom:longitude":25.556401,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Paide linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5860
+        "ee-mamt:okood":"5860"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815135
     ],
     "wof:country":"EE",
     "wof:created":1595459559,
-    "wof:geomhash":"662d3be0a876870d81c3bd47f7bc52fc",
+    "wof:geomhash":"10fc79837cb05c1e8871cec8a051da40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661322,
+    "wof:lastmodified":1695876753,
     "wof:name":"Paide",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

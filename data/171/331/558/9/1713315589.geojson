@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kojastu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001141,
-    "geom:area_square_m":7322595.734239,
+    "geom:area_square_m":7322595.734238,
     "geom:bbox":"24.148417,58.718078,24.222415,58.747384",
     "geom:latitude":58.733195,
     "geom:longitude":24.18547,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3307
+        "ee-mamt:okood":"3307"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260056495
     ],
     "wof:country":"EE",
     "wof:created":1595461252,
-    "wof:geomhash":"414fefb5c5906bc48133b46f04ab740e",
+    "wof:geomhash":"4fdc0e6b919df4bf47872c45e0bac604",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662834,
+    "wof:lastmodified":1695876806,
     "wof:name":"Kojastu",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

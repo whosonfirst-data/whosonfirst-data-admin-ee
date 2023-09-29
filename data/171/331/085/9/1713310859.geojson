@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Andre K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000661,
-    "geom:area_square_m":4328979.037412,
+    "geom:area_square_m":4328979.03741,
     "geom:bbox":"27.070674,57.987465,27.118782,58.008957",
     "geom:latitude":57.997893,
     "geom:longitude":27.094515,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1261
+        "ee-mamt:okood":"1261"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276320747
     ],
     "wof:country":"EE",
     "wof:created":1595460214,
-    "wof:geomhash":"a19262e8e55a40f4608882fd0677dd37",
+    "wof:geomhash":"b5a150e7d8be210908ee58559a5da525",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676945,
+    "wof:lastmodified":1695876973,
     "wof:name":"Andre",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

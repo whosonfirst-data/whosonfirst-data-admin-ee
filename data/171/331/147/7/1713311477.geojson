@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Katase K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002434,
-    "geom:area_square_m":15488407.844964,
+    "geom:area_square_m":15488407.844963,
     "geom:bbox":"27.339356,59.001608,27.410516,59.051851",
     "geom:latitude":59.024128,
     "geom:longitude":27.37098,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2850
+        "ee-mamt:okood":"2850"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225951751
     ],
     "wof:country":"EE",
     "wof:created":1595460344,
-    "wof:geomhash":"511029276796b9c7ceb4191187c8538a",
+    "wof:geomhash":"c187f2408da52335ecbe0db2eba9e40d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660715,
+    "wof:lastmodified":1695876734,
     "wof:name":"Katase",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

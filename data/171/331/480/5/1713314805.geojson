@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u00e4ngsep\u00e4 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001361,
-    "geom:area_square_m":8993890.599804,
+    "geom:area_square_m":8993890.599803,
     "geom:bbox":"26.778646,57.674352,26.885827,57.702026",
     "geom:latitude":57.689506,
     "geom:longitude":26.82806,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3873
+        "ee-mamt:okood":"3873"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260139147
     ],
     "wof:country":"EE",
     "wof:created":1595461062,
-    "wof:geomhash":"95f29152d0dacb4518178b755b365892",
+    "wof:geomhash":"a2366b2ead187786004935540284ad0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676832,
+    "wof:lastmodified":1695876960,
     "wof:name":"K\u00e4ngsep\u00e4",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

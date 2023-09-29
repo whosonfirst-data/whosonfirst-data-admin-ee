@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Eassalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00294,
-    "geom:area_square_m":19052907.33177,
+    "geom:area_square_m":19052907.331769,
     "geom:bbox":"24.158318,58.367893,24.230438,58.425221",
     "geom:latitude":58.397921,
     "geom:longitude":24.191557,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1513
+        "ee-mamt:okood":"1513"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260379311
     ],
     "wof:country":"EE",
     "wof:created":1595460099,
-    "wof:geomhash":"9bbd0391ce6c2bc6fe00de33820fc139",
+    "wof:geomhash":"84481250bc247a05b6e5f1a4ad1ecc12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677676,
+    "wof:lastmodified":1695876993,
     "wof:name":"Eassalu",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

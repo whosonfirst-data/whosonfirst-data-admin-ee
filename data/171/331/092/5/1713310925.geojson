@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4ndra K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000291,
-    "geom:area_square_m":1906097.808977,
+    "geom:area_square_m":1906097.808976,
     "geom:bbox":"27.347946,57.985362,27.376947,58.004561",
     "geom:latitude":57.992677,
     "geom:longitude":27.362197,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9664
+        "ee-mamt:okood":"9664"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260262875
     ],
     "wof:country":"EE",
     "wof:created":1595460229,
-    "wof:geomhash":"ff5aec849e83598a4106ef4a0cdc6203",
+    "wof:geomhash":"8582ce43252e770dd2957d4d82457f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676978,
+    "wof:lastmodified":1695876976,
     "wof:name":"V\u00e4ndra",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

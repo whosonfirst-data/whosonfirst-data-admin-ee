@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Uusk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00228,
-    "geom:area_square_m":14305851.03349,
+    "geom:area_square_m":14305851.033493,
     "geom:bbox":"25.836895,59.477444,25.935202,59.525257",
     "geom:latitude":59.502162,
     "geom:longitude":25.886255,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8787
+        "ee-mamt:okood":"8787"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343481019
     ],
     "wof:country":"EE",
     "wof:created":1595459603,
-    "wof:geomhash":"79e4d92ab0cefaa9b9029d7d8bab16f2",
+    "wof:geomhash":"9f64ad5584ce1b395e7e0c43afc28fd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678030,
+    "wof:lastmodified":1695877012,
     "wof:name":"Uusk\u00fcla",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

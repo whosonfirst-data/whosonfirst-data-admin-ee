@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":142,
+        "ee-mamt:okood":"142",
         "eg:gisco_id":"EE_0142",
         "eurostat:nuts_2021_id":"0142"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451919,
     "wof:geomhash":"7ae3ed2de212139283154c33861d493d",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352201,
+    "wof:lastmodified":1695886740,
     "wof:name":"Antsla",
     "wof:parent_id":85682937,
     "wof:placetype":"county",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaigepere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000978,
-    "geom:area_square_m":6244995.646525,
+    "geom:area_square_m":6244995.646524,
     "geom:bbox":"24.738983,58.906533,24.805541,58.936912",
     "geom:latitude":58.921525,
     "geom:longitude":24.771259,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2530
+        "ee-mamt:okood":"2530"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327106001
     ],
     "wof:country":"EE",
     "wof:created":1595460791,
-    "wof:geomhash":"e205a3eb1d2e90a62927570d14dc13fe",
+    "wof:geomhash":"7990062a1e09153d25bd1bc8e37a936f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676709,
+    "wof:lastmodified":1695876943,
     "wof:name":"Kaigepere",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

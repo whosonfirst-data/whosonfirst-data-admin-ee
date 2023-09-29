@@ -8,7 +8,7 @@
     "ee-mamt:animi":"H\u00e4rjanurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003126,
-    "geom:area_square_m":20083389.859906,
+    "geom:area_square_m":20083389.859905,
     "geom:bbox":"26.252305,58.675432,26.374431,58.728961",
     "geom:latitude":58.696778,
     "geom:longitude":26.311548,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1950
+        "ee-mamt:okood":"1950"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125970157
     ],
     "wof:country":"EE",
     "wof:created":1595460486,
-    "wof:geomhash":"8471ed98354d0f7c2367ec7f861b4527",
+    "wof:geomhash":"8f1b2102d8df01a58e5dc4f2fe1d47ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676567,
+    "wof:lastmodified":1695876925,
     "wof:name":"H\u00e4rjanurme",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

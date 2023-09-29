@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raassilla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0026,
-    "geom:area_square_m":16929367.329376,
+    "geom:area_square_m":16929367.329378,
     "geom:bbox":"25.692072,58.192703,25.759518,58.253583",
     "geom:latitude":58.223594,
     "geom:longitude":25.727922,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6697
+        "ee-mamt:okood":"6697"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209379659
     ],
     "wof:country":"EE",
     "wof:created":1595459983,
-    "wof:geomhash":"3d5858d13b2e4dd426eb8c56bc4a9c41",
+    "wof:geomhash":"87a2627994215651efa586f1c26a28dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661236,
+    "wof:lastmodified":1695876748,
     "wof:name":"Raassilla",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

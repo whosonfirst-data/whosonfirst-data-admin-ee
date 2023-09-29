@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Linnakse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001417,
-    "geom:area_square_m":8935930.312794,
+    "geom:area_square_m":8935930.312793,
     "geom:bbox":"25.167603,59.327534,25.226113,59.364643",
     "geom:latitude":59.346677,
     "geom:longitude":25.193953,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4397
+        "ee-mamt:okood":"4397"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327148599
     ],
     "wof:country":"EE",
     "wof:created":1595459335,
-    "wof:geomhash":"ce86ae36d7feb1c963ae2d3c4a533962",
+    "wof:geomhash":"5590aa74d9c16df676dfe58018746b9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662796,
+    "wof:lastmodified":1695876799,
     "wof:name":"Linnakse",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

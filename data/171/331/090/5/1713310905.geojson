@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Haavap\u00e4\u00e4 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000717,
-    "geom:area_square_m":4700393.047325,
+    "geom:area_square_m":4700393.047328,
     "geom:bbox":"27.258442,57.970362,27.308244,58.002925",
     "geom:latitude":57.98813,
     "geom:longitude":27.282755,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1706
+        "ee-mamt:okood":"1706"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460224,
-    "wof:geomhash":"bb7b6e686d58c4a1286c7f97fb504c84",
+    "wof:geomhash":"5ca50530a33be765d83f987b81379bf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676978,
+    "wof:lastmodified":1695876976,
     "wof:name":"Haavap\u00e4\u00e4",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

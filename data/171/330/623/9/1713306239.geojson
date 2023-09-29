@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raegma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00069,
-    "geom:area_square_m":4446874.897602,
+    "geom:area_square_m":4446874.897604,
     "geom:bbox":"23.272338,58.560409,23.315498,58.585175",
     "geom:latitude":58.572234,
     "geom:longitude":23.294734,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6715
+        "ee-mamt:okood":"6715"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243143095
     ],
     "wof:country":"EE",
     "wof:created":1595459111,
-    "wof:geomhash":"2b7a502b50bdb1ee57e945d37d046f2c",
+    "wof:geomhash":"a4ca889e8d49bfd9739d1012384b7272",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596675109,
+    "wof:lastmodified":1695876903,
     "wof:name":"Raegma",
     "wof:parent_id":1713305623,
     "wof:placetype":"localadmin",

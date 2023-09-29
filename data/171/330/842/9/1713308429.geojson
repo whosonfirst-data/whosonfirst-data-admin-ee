@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sagadi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002695,
-    "geom:area_square_m":16890248.859659,
+    "geom:area_square_m":16890248.859654,
     "geom:bbox":"26.013474,59.52442,26.134111,59.571959",
     "geom:latitude":59.543616,
     "geom:longitude":26.065235,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7329
+        "ee-mamt:okood":"7329"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125817079
     ],
     "wof:country":"EE",
     "wof:created":1595459642,
-    "wof:geomhash":"446c99b452dc4c62a2f8fa8b4c1230e4",
+    "wof:geomhash":"5b95225f9754dbd261d592b86568dac1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678024,
+    "wof:lastmodified":1695877011,
     "wof:name":"Sagadi",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

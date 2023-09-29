@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sookalduse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001645,
-    "geom:area_square_m":10622851.943683,
+    "geom:area_square_m":10622851.943686,
     "geom:bbox":"26.959975,58.511051,27.03509,58.547275",
     "geom:latitude":58.52609,
     "geom:longitude":26.992829,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7703
+        "ee-mamt:okood":"7703"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326506003
     ],
     "wof:country":"EE",
     "wof:created":1595459820,
-    "wof:geomhash":"71ebdc5932c353e6183a8cf19fdbc301",
+    "wof:geomhash":"407505b1229c397d7455d018c8b42363",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660862,
+    "wof:lastmodified":1695876739,
     "wof:name":"Sookalduse",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Maidla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002257,
-    "geom:area_square_m":14344826.944293,
+    "geom:area_square_m":14344826.944291,
     "geom:bbox":"24.874122,59.0372,24.975843,59.087791",
     "geom:latitude":59.062708,
     "geom:longitude":24.922515,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4741
+        "ee-mamt:okood":"4741"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276631771
     ],
     "wof:country":"EE",
     "wof:created":1595460294,
-    "wof:geomhash":"8de7780a00f13d104fe5d85ba50a6dcd",
+    "wof:geomhash":"24c436f11b032de0ced8ac8e4444f77e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676707,
+    "wof:lastmodified":1695876943,
     "wof:name":"Maidla",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

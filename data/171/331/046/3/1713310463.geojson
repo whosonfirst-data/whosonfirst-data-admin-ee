@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nasva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000326,
-    "geom:area_square_m":2089507.272955,
+    "geom:area_square_m":2089507.272953,
     "geom:bbox":"22.736683,58.798563,22.78651,58.822666",
     "geom:latitude":58.812108,
     "geom:longitude":22.750152,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5360
+        "ee-mamt:okood":"5360"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125889665
     ],
     "wof:country":"EE",
     "wof:created":1595460126,
-    "wof:geomhash":"838aa49baee8e9e2469cd6526b89ad72",
+    "wof:geomhash":"da62bb54b752956fe712f6fadf83f4c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666336,
+    "wof:lastmodified":1695876850,
     "wof:name":"Nasva",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aesoo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003929,
-    "geom:area_square_m":25363197.08387,
+    "geom:area_square_m":25363197.083873,
     "geom:bbox":"24.97355,58.49868,25.103476,58.557152",
     "geom:latitude":58.525736,
     "geom:longitude":25.043823,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1091
+        "ee-mamt:okood":"1091"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343250179
     ],
     "wof:country":"EE",
     "wof:created":1595461109,
-    "wof:geomhash":"6cfe9b27d88c3e2f99ad58e89d05dff6",
+    "wof:geomhash":"f73b79d6d0b6e35eb0ae50c72aa79bf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663375,
+    "wof:lastmodified":1695876820,
     "wof:name":"Aesoo",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

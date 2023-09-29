@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Nurmsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001219,
-    "geom:area_square_m":7792411.290311,
+    "geom:area_square_m":7792411.290314,
     "geom:bbox":"25.667826,58.845063,25.745743,58.880962",
     "geom:latitude":58.861475,
     "geom:longitude":25.700797,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5474
+        "ee-mamt:okood":"5474"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327432017
     ],
     "wof:country":"EE",
     "wof:created":1595460615,
-    "wof:geomhash":"efa4ae156ff1d068b1e91ed3fcb6a617",
+    "wof:geomhash":"350c873ce4f1866aaf99d4e0b0137fb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661315,
+    "wof:lastmodified":1695876752,
     "wof:name":"Nurmsi",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

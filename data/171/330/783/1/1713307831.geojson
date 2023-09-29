@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rahkla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000522,
-    "geom:area_square_m":3292075.809339,
+    "geom:area_square_m":3292075.809338,
     "geom:bbox":"26.572364,59.346948,26.609756,59.373889",
     "geom:latitude":59.358569,
     "geom:longitude":26.588049,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6726
+        "ee-mamt:okood":"6726"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310597025
     ],
     "wof:country":"EE",
     "wof:created":1595459497,
-    "wof:geomhash":"185e83755cc801efe655653984198c1c",
+    "wof:geomhash":"ee259d225c1bc41533fb51b52f46b7c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676663,
+    "wof:lastmodified":1695876936,
     "wof:name":"Rahkla",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kasari K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000767,
-    "geom:area_square_m":4922811.440616,
+    "geom:area_square_m":4922811.440614,
     "geom:bbox":"23.991802,58.715946,24.051075,58.741024",
     "geom:latitude":58.727816,
     "geom:longitude":24.020491,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2787
+        "ee-mamt:okood":"2787"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326821789
     ],
     "wof:country":"EE",
     "wof:created":1595459748,
-    "wof:geomhash":"88b89ccef2e6c742e5f96fd51b74e54f",
+    "wof:geomhash":"077b4f36f72a929c21b0db653307b2d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677209,
+    "wof:lastmodified":1695876990,
     "wof:name":"Kasari",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vanausse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00065,
-    "geom:area_square_m":4227732.31122,
+    "geom:area_square_m":4227732.311222,
     "geom:bbox":"25.836503,58.244431,25.882604,58.272206",
     "geom:latitude":58.260257,
     "geom:longitude":25.859518,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9034
+        "ee-mamt:okood":"9034"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343919759
     ],
     "wof:country":"EE",
     "wof:created":1595459999,
-    "wof:geomhash":"31de6ac0c5e99afae92035c27bf4abdd",
+    "wof:geomhash":"a0e55e96ed5704ab39962025cfabadb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661229,
+    "wof:lastmodified":1695876747,
     "wof:name":"Vanausse",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

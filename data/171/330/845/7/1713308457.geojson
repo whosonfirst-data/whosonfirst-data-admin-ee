@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Haapsalu Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.001729,
-    "geom:area_square_m":11032168.578299,
+    "geom:area_square_m":11032168.578295,
     "geom:bbox":"23.485648,58.904524,23.574317,58.967019",
     "geom:latitude":58.934012,
     "geom:longitude":23.53961,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Haapsalu linn"
@@ -56,14 +56,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1692
+        "ee-mamt:okood":"1692"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815109
     ],
     "wof:country":"EE",
     "wof:created":1595459649,
-    "wof:geomhash":"ec8a89f65aa1a10e831a4a899aaafc2a",
+    "wof:geomhash":"d5add8e0adb15aef56c2b8a3ad0ef667",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +81,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502252,
+    "wof:lastmodified":1695877023,
     "wof:name":"Haapsalu",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

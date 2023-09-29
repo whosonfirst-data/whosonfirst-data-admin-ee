@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piha K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000676,
-    "geom:area_square_m":4377568.339809,
+    "geom:area_square_m":4377568.339807,
     "geom:bbox":"23.751952,58.425149,23.806692,58.446576",
     "geom:latitude":58.435535,
     "geom:longitude":23.783189,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6135
+        "ee-mamt:okood":"6135"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344045359
     ],
     "wof:country":"EE",
     "wof:created":1595459788,
-    "wof:geomhash":"78c6bc3b924cc1dc0dfd1a125fefd42b",
+    "wof:geomhash":"c38b4280ab42ec5fcaf2bf07ec609563",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661655,
+    "wof:lastmodified":1695876773,
     "wof:name":"Piha",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

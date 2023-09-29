@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koosa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002038,
-    "geom:area_square_m":13157979.660662,
+    "geom:area_square_m":13157979.660663,
     "geom:bbox":"27.034124,58.495826,27.106532,58.542869",
     "geom:latitude":58.516921,
     "geom:longitude":27.074691,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3425
+        "ee-mamt:okood":"3425"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125955543
     ],
     "wof:country":"EE",
     "wof:created":1595459892,
-    "wof:geomhash":"e0b02f185857079f7f2dc04f59fb9c78",
+    "wof:geomhash":"f01b9a2941bae8b865e500c5fce590b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660853,
+    "wof:lastmodified":1695876738,
     "wof:name":"Koosa",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

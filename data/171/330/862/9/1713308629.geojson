@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tagavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000672,
-    "geom:area_square_m":4338483.571639,
+    "geom:area_square_m":4338483.571638,
     "geom:bbox":"22.838603,58.497562,22.899388,58.522052",
     "geom:latitude":58.509085,
     "geom:longitude":22.866391,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8059
+        "ee-mamt:okood":"8059"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936429
     ],
     "wof:country":"EE",
     "wof:created":1595459691,
-    "wof:geomhash":"cf44078fbc808d66a70cd7bcbac59d7d",
+    "wof:geomhash":"58938479290ae574e31456715b20657f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671890,
+    "wof:lastmodified":1695876874,
     "wof:name":"Tagavere",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

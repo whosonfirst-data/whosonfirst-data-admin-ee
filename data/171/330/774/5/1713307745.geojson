@@ -14,7 +14,7 @@
     "geom:longitude":24.285548,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Vasalemma alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9101
+        "ee-mamt:okood":"9101"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125908483
     ],
     "wof:country":"EE",
     "wof:created":1595459476,
-    "wof:geomhash":"58fbea4e485cec01d45c2bc262f22477",
+    "wof:geomhash":"1ff120ebf93dbaaba11b15d900d6711e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663285,
+    "wof:lastmodified":1695876813,
     "wof:name":"Vasalemma",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

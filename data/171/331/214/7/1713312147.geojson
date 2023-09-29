@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Luua K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000972,
-    "geom:area_square_m":6254008.433658,
+    "geom:area_square_m":6254008.433661,
     "geom:bbox":"26.578984,58.632406,26.62684,58.667862",
     "geom:latitude":58.65107,
     "geom:longitude":26.600409,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4579
+        "ee-mamt:okood":"4579"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125839633
     ],
     "wof:country":"EE",
     "wof:created":1595460490,
-    "wof:geomhash":"826424e59ab01c0eab1340466b75b355",
+    "wof:geomhash":"186fc9c2090966d42c39296157ebf733",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676561,
+    "wof:lastmodified":1695876924,
     "wof:name":"Luua",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

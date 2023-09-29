@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vooru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001911,
-    "geom:area_square_m":12479239.698638,
+    "geom:area_square_m":12479239.698639,
     "geom:bbox":"25.908464,58.098188,25.977207,58.141085",
     "geom:latitude":58.11739,
     "geom:longitude":25.946146,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9477
+        "ee-mamt:okood":"9477"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125957707
     ],
     "wof:country":"EE",
     "wof:created":1595460925,
-    "wof:geomhash":"b7cec0e863799c427c1d077c075ee373",
+    "wof:geomhash":"4fae1d38944ac73406bbc7d3a30a3913",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661216,
+    "wof:lastmodified":1695876745,
     "wof:name":"Vooru",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

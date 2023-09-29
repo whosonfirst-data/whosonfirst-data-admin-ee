@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Jeti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.006803,
-    "geom:area_square_m":44700093.114501,
+    "geom:area_square_m":44700093.114495,
     "geom:bbox":"25.786125,57.857275,25.922728,57.951975",
     "geom:latitude":57.899812,
     "geom:longitude":25.864932,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2187
+        "ee-mamt:okood":"2187"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125863033
     ],
     "wof:country":"EE",
     "wof:created":1595460112,
-    "wof:geomhash":"0db1e9fbc2b0e4b9dbbfd1b53d79eca0",
+    "wof:geomhash":"018dcf60b66a608f392b041bb50cede7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661421,
+    "wof:lastmodified":1695876758,
     "wof:name":"Jeti",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

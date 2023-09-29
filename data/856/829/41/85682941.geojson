@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.30956,
-    "geom:area_square_m":2032581236.76643,
+    "geom:area_square_m":2032581236.766488,
     "geom:bbox":"25.580625,57.572117,26.624964,58.184339",
     "geom:latitude":57.926253,
     "geom:longitude":26.178514,
@@ -362,16 +362,22 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ee-mamt:okood":"82",
         "fips:code":"EN19",
         "gn:id":587875,
         "gp:id":2345288,
         "hasc:id":"EE.VG",
+        "iso:code":"EE-82",
         "iso:id":"EE-82",
         "unlc:id":"EE-82",
         "wd:id":"Q192362"
     },
+    "wof:concordances_official":"ee-mamt:okood",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"EE",
-    "wof:geomhash":"c7d1d209648e1f4ea5dc1c72855b89c8",
+    "wof:geomhash":"2230ec38da20a936b098338f15fc7e0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -386,7 +392,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875674,
+    "wof:lastmodified":1695884440,
     "wof:name":"Valga",
     "wof:parent_id":85633135,
     "wof:placetype":"region",

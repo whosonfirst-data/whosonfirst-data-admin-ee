@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lehu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001387,
-    "geom:area_square_m":8922384.69846,
+    "geom:area_square_m":8922384.698461,
     "geom:bbox":"24.621299,58.624,24.679201,58.662314",
     "geom:latitude":58.643019,
     "geom:longitude":24.650377,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4219
+        "ee-mamt:okood":"4219"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293567301
     ],
     "wof:country":"EE",
     "wof:created":1595459903,
-    "wof:geomhash":"b18dc24e10c1d5274c7523dbf6e20ea1",
+    "wof:geomhash":"cb2e29eaf2c3f80fd425356d5dc3927c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663410,
+    "wof:lastmodified":1695876825,
     "wof:name":"Lehu",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

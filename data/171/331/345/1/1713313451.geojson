@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tuula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003186,
-    "geom:area_square_m":20138425.90446,
+    "geom:area_square_m":20138425.904463,
     "geom:bbox":"24.385348,59.232965,24.507544,59.293381",
     "geom:latitude":59.261176,
     "geom:longitude":24.447378,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8450
+        "ee-mamt:okood":"8450"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008689
     ],
     "wof:country":"EE",
     "wof:created":1595460765,
-    "wof:geomhash":"dc926b04be358d16f91ce7d38d0cfe71",
+    "wof:geomhash":"ceb75c1497c87d068284da031d84de57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663225,
+    "wof:lastmodified":1695876810,
     "wof:name":"Tuula",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

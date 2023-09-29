@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sausti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001279,
-    "geom:area_square_m":8074926.436384,
+    "geom:area_square_m":8074926.436386,
     "geom:bbox":"24.749357,59.291752,24.813526,59.325949",
     "geom:latitude":59.30844,
     "geom:longitude":24.784771,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7474
+        "ee-mamt:okood":"7474"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226757317
     ],
     "wof:country":"EE",
     "wof:created":1595460689,
-    "wof:geomhash":"089bf8b8a74981b85035b0a795274c09",
+    "wof:geomhash":"7838eca17c0495cda24c667a60376074",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663495,
+    "wof:lastmodified":1695876832,
     "wof:name":"Sausti",
     "wof:parent_id":1713305643,
     "wof:placetype":"localadmin",

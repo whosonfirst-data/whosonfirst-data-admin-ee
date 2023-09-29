@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karuse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000661,
-    "geom:area_square_m":4257035.835464,
+    "geom:area_square_m":4257035.835465,
     "geom:bbox":"23.685992,58.598317,23.734519,58.621312",
     "geom:latitude":58.609444,
     "geom:longitude":23.711593,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2784
+        "ee-mamt:okood":"2784"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310622233
     ],
     "wof:country":"EE",
     "wof:created":1595459954,
-    "wof:geomhash":"7af294f33b94506e621236ed51dcdad0",
+    "wof:geomhash":"c56e9b0bac65f85f6f279c8058d2e683",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661622,
+    "wof:lastmodified":1695876770,
     "wof:name":"Karuse",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viilupi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002172,
-    "geom:area_square_m":13881379.764013,
+    "geom:area_square_m":13881379.764014,
     "geom:bbox":"22.850812,58.852101,22.937231,58.90122",
     "geom:latitude":58.87611,
     "geom:longitude":22.889815,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9278
+        "ee-mamt:okood":"9278"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309914771
     ],
     "wof:country":"EE",
     "wof:created":1595460064,
-    "wof:geomhash":"8c50dea4305ea888a14adb43ee2c4bb3",
+    "wof:geomhash":"79a9edf5563054f328acf19f9552a3ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666261,
+    "wof:lastmodified":1695876846,
     "wof:name":"Viilupi",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

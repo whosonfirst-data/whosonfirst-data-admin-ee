@@ -8,7 +8,7 @@
     "ee-mamt:animi":"S\u0151randu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003204,
-    "geom:area_square_m":20493175.719427,
+    "geom:area_square_m":20493175.719425,
     "geom:bbox":"25.808876,58.82456,25.930601,58.877523",
     "geom:latitude":58.84967,
     "geom:longitude":25.860586,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7895
+        "ee-mamt:okood":"7895"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293224785
     ],
     "wof:country":"EE",
     "wof:created":1595459270,
-    "wof:geomhash":"e7abcb841082ab214d73ec73c12b33fd",
+    "wof:geomhash":"d3a1b9856b06faf24bb8bb9ab420b0cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676623,
+    "wof:lastmodified":1695876932,
     "wof:name":"S\u0151randu",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

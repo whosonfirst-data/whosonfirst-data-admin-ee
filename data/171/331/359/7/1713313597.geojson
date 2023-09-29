@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Urvaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002215,
-    "geom:area_square_m":14545966.383243,
+    "geom:area_square_m":14545966.383237,
     "geom:bbox":"26.549089,57.892921,26.616894,57.946897",
     "geom:latitude":57.920584,
     "geom:longitude":26.583923,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8733
+        "ee-mamt:okood":"8733"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125908299
     ],
     "wof:country":"EE",
     "wof:created":1595460795,
-    "wof:geomhash":"8aaa2134090230f089eb96ac61728422",
+    "wof:geomhash":"5d1ed1e2ed9afaf16cea7532a4ed68f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677017,
+    "wof:lastmodified":1695876982,
     "wof:name":"Urvaste",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

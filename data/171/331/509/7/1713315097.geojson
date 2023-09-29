@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valkse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001117,
-    "geom:area_square_m":7047902.434743,
+    "geom:area_square_m":7047902.434741,
     "geom:bbox":"24.327823,59.317838,24.424631,59.344032",
     "geom:latitude":59.329344,
     "geom:longitude":24.377513,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8956
+        "ee-mamt:okood":"8956"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193033701
     ],
     "wof:country":"EE",
     "wof:created":1595461131,
-    "wof:geomhash":"4201bf4092d5a1031f089372f73b60c2",
+    "wof:geomhash":"dfe5607f88a0531ff0aebd9a39cae499",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663305,
+    "wof:lastmodified":1695876818,
     "wof:name":"Valkse",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

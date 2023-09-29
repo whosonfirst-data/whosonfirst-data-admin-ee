@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kakumetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001207,
-    "geom:area_square_m":7824183.341775,
+    "geom:area_square_m":7824183.341779,
     "geom:bbox":"26.833884,58.356239,26.905657,58.389037",
     "geom:latitude":58.374438,
     "geom:longitude":26.864661,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2556
+        "ee-mamt:okood":"2556"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343427161
     ],
     "wof:country":"EE",
     "wof:created":1595460508,
-    "wof:geomhash":"741ccdc201e64bb1e260de671bb9df5d",
+    "wof:geomhash":"900d5e1c7daa19401c31eac448bf81ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660672,
+    "wof:lastmodified":1695876730,
     "wof:name":"Kakumetsa",
     "wof:parent_id":1713305697,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pikasilla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000899,
-    "geom:area_square_m":5873777.438728,
+    "geom:area_square_m":5873777.438729,
     "geom:bbox":"26.012362,58.07192,26.067865,58.103799",
     "geom:latitude":58.08695,
     "geom:longitude":26.041074,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6222
+        "ee-mamt:okood":"6222"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125889967
     ],
     "wof:country":"EE",
     "wof:created":1595460904,
-    "wof:geomhash":"0b4673ef9a52042287ee1b47ca038e8c",
+    "wof:geomhash":"d3a14d59690f262e533c7da0e0961b30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661426,
+    "wof:lastmodified":1695876759,
     "wof:name":"Pikasilla",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

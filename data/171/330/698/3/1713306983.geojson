@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pamma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001816,
-    "geom:area_square_m":11731220.70439,
+    "geom:area_square_m":11731220.704396,
     "geom:bbox":"22.554368,58.475802,22.644773,58.526473",
     "geom:latitude":58.508668,
     "geom:longitude":22.603845,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5965
+        "ee-mamt:okood":"5965"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226513281
     ],
     "wof:country":"EE",
     "wof:created":1595459293,
-    "wof:geomhash":"aeac4563a8b60846577ff6ad56d322c8",
+    "wof:geomhash":"6a0fab51adeaca974988f4b245d4a75f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672087,
+    "wof:lastmodified":1695876880,
     "wof:name":"Pamma",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

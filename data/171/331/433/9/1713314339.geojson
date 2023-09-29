@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Antsu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001788,
-    "geom:area_square_m":11760675.033932,
+    "geom:area_square_m":11760675.033931,
     "geom:bbox":"26.417292,57.843006,26.508754,57.875707",
     "geom:latitude":57.860406,
     "geom:longitude":26.462322,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1303
+        "ee-mamt:okood":"1303"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276935937
     ],
     "wof:country":"EE",
     "wof:created":1595460956,
-    "wof:geomhash":"25c62fc3065f3d644af6e9558b83b934",
+    "wof:geomhash":"d25549f74068290e4724663780105f0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677017,
+    "wof:lastmodified":1695876982,
     "wof:name":"Antsu",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

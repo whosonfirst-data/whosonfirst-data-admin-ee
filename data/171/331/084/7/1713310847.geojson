@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4nnisalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000588,
-    "geom:area_square_m":3849883.800354,
+    "geom:area_square_m":3849883.800356,
     "geom:bbox":"27.385794,58.003594,27.418429,58.033979",
     "geom:latitude":58.018488,
     "geom:longitude":27.403567,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5269
+        "ee-mamt:okood":"5269"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243434385
     ],
     "wof:country":"EE",
     "wof:created":1595460212,
-    "wof:geomhash":"2dcde942a60c10fb25978b136956b029",
+    "wof:geomhash":"0fa217f8cbca67412433f690829e7049",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676981,
+    "wof:lastmodified":1695876977,
     "wof:name":"M\u00e4nnisalu",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

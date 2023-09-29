@@ -8,7 +8,7 @@
     "ee-mamt:animi":"V\u00e4ike-Veerksu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001122,
-    "geom:area_square_m":7349065.521028,
+    "geom:area_square_m":7349065.521023,
     "geom:bbox":"27.401728,58.00367,27.463383,58.040567",
     "geom:latitude":58.021058,
     "geom:longitude":27.434377,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9175
+        "ee-mamt:okood":"9175"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460588,
-    "wof:geomhash":"63c5ef321235646316dfac4ad3e8f2da",
+    "wof:geomhash":"0153a62df3492e0d00e8f43878c6d13c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676991,
+    "wof:lastmodified":1695876979,
     "wof:name":"V\u00e4ike-Veerksu",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

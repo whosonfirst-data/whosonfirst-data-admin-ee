@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kargi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001019,
-    "geom:area_square_m":6676777.295718,
+    "geom:area_square_m":6676777.295717,
     "geom:bbox":"22.044722,58.001277,22.117123,58.02885",
     "geom:latitude":58.01689,
     "geom:longitude":22.084019,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2720
+        "ee-mamt:okood":"2720"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242661063
     ],
     "wof:country":"EE",
     "wof:created":1595459400,
-    "wof:geomhash":"db768e0827edc3f4bed0876759ea2389",
+    "wof:geomhash":"11edce1a318fef9ceb1abd9ebb7948fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672407,
+    "wof:lastmodified":1695876893,
     "wof:name":"Kargi",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

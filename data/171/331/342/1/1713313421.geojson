@@ -8,7 +8,7 @@
     "ee-mamt:animi":"J\u00e4ndja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002377,
-    "geom:area_square_m":15253600.824377,
+    "geom:area_square_m":15253600.824375,
     "geom:bbox":"25.258748,58.70693,25.347482,58.759342",
     "geom:latitude":58.735351,
     "geom:longitude":25.303117,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2315
+        "ee-mamt:okood":"2315"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310011999
     ],
     "wof:country":"EE",
     "wof:created":1595460758,
-    "wof:geomhash":"87de1ad432dbcd8a73d826572e8d080c",
+    "wof:geomhash":"e00378bc62e70fd7fe016946aa18bd6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677981,
+    "wof:lastmodified":1695877008,
     "wof:name":"J\u00e4ndja",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Reegoldi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001604,
-    "geom:area_square_m":10345506.182177,
+    "geom:area_square_m":10345506.182173,
     "geom:bbox":"25.485991,58.546705,25.567469,58.585186",
     "geom:latitude":58.566568,
     "geom:longitude":25.524598,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6897
+        "ee-mamt:okood":"6897"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935897
     ],
     "wof:country":"EE",
     "wof:created":1595460457,
-    "wof:geomhash":"f5b84ec67237a4e1a7f0f94d4f6ca7bc",
+    "wof:geomhash":"345ffe5a8135c022fd7f1259d434251b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663443,
+    "wof:lastmodified":1695876829,
     "wof:name":"Reegoldi",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

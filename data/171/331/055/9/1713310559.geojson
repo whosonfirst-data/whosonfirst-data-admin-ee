@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pr\u00e4hlam\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000997,
-    "geom:area_square_m":6351956.355702,
+    "geom:area_square_m":6351956.355701,
     "geom:bbox":"22.697169,58.961443,22.770488,58.986479",
     "geom:latitude":58.973019,
     "geom:longitude":22.734168,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6373
+        "ee-mamt:okood":"6373"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460152,
-    "wof:geomhash":"f41124796bbd02698c2890954688320c",
+    "wof:geomhash":"2fb0b3c66e4b72b587a72c70bbabea28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666405,
+    "wof:lastmodified":1695876856,
     "wof:name":"Pr\u00e4hlam\u00e4e",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

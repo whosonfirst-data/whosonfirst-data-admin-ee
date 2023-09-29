@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Partsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001733,
-    "geom:area_square_m":11349763.24469,
+    "geom:area_square_m":11349763.244692,
     "geom:bbox":"27.127749,57.996791,27.209543,58.040378",
     "geom:latitude":58.018351,
     "geom:longitude":27.17333,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6025
+        "ee-mamt:okood":"6025"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126003895
     ],
     "wof:country":"EE",
     "wof:created":1595460756,
-    "wof:geomhash":"42647d20f1c65c9ef804689d7f4a7b54",
+    "wof:geomhash":"47223022bbc34a25e8c29695585dd65e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676952,
+    "wof:lastmodified":1695876975,
     "wof:name":"Partsi",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

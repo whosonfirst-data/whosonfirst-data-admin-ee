@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u0151rvetaguse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002023,
-    "geom:area_square_m":12896117.663436,
+    "geom:area_square_m":12896117.663435,
     "geom:bbox":"24.483821,58.939723,24.559983,58.993633",
     "geom:latitude":58.965759,
     "geom:longitude":24.522645,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3831
+        "ee-mamt:okood":"3831"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243540785
     ],
     "wof:country":"EE",
     "wof:created":1595460744,
-    "wof:geomhash":"d1cdab203a66311b239f7d9fce1238d9",
+    "wof:geomhash":"6c59715de24c2a34e3b2b89d3cc6b5fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662815,
+    "wof:lastmodified":1695876802,
     "wof:name":"K\u0151rvetaguse",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

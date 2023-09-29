@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Metsanurga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002326,
-    "geom:area_square_m":14693977.022492,
+    "geom:area_square_m":14693977.02249,
     "geom:bbox":"24.874535,59.249667,24.956545,59.29478",
     "geom:latitude":59.27207,
     "geom:longitude":24.919193,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4902
+        "ee-mamt:okood":"4902"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310023445
     ],
     "wof:country":"EE",
     "wof:created":1595460789,
-    "wof:geomhash":"f40d0d853f6fe712a25309c97c532558",
+    "wof:geomhash":"1614bb5d0ae40d93a503da2051b7995e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663494,
+    "wof:lastmodified":1695876831,
     "wof:name":"Metsanurga",
     "wof:parent_id":1713305643,
     "wof:placetype":"localadmin",

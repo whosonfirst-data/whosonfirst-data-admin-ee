@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Leigri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.008399,
-    "geom:area_square_m":53650582.791686,
+    "geom:area_square_m":53650582.791685,
     "geom:bbox":"22.500226,58.860387,22.698447,58.93974",
     "geom:latitude":58.897611,
     "geom:longitude":22.606496,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4223
+        "ee-mamt:okood":"4223"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225947421
     ],
     "wof:country":"EE",
     "wof:created":1595460117,
-    "wof:geomhash":"fd4b40afd522f0da3b1d04915b21fc1e",
+    "wof:geomhash":"a881ffefc63d9f985b38fe2ef11bf61c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666362,
+    "wof:lastmodified":1695876853,
     "wof:name":"Leigri",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

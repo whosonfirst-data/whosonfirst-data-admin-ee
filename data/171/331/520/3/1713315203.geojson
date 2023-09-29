@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tsiiruli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000274,
-    "geom:area_square_m":1816197.245582,
+    "geom:area_square_m":1816197.245581,
     "geom:bbox":"27.033628,57.576857,27.076333,57.596772",
     "geom:latitude":57.586613,
     "geom:longitude":27.052645,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8357
+        "ee-mamt:okood":"8357"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259853531
     ],
     "wof:country":"EE",
     "wof:created":1595461153,
-    "wof:geomhash":"647f749fdc1f8b031f152f68e519d33d",
+    "wof:geomhash":"aeeb4325b9de4a009d3771f25f1c6c99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676830,
+    "wof:lastmodified":1695876960,
     "wof:name":"Tsiiruli",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Konsu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.007694,
-    "geom:area_square_m":48653440.870129,
+    "geom:area_square_m":48653440.870127,
     "geom:bbox":"27.52582,59.213084,27.700004,59.275893",
     "geom:latitude":59.241266,
     "geom:longitude":27.616479,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3377
+        "ee-mamt:okood":"3377"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259685931
     ],
     "wof:country":"EE",
     "wof:created":1595460738,
-    "wof:geomhash":"30634c5139d06c0bb6ae07f1d01ff4c7",
+    "wof:geomhash":"41bcf27e6e4db126381973b26799086d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660718,
+    "wof:lastmodified":1695876734,
     "wof:name":"Konsu",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

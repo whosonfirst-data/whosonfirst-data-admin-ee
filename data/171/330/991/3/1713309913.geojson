@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sulaoja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001192,
-    "geom:area_square_m":7784612.725609,
+    "geom:area_square_m":7784612.725611,
     "geom:bbox":"26.693319,58.093375,26.753287,58.125366",
     "geom:latitude":58.109136,
     "geom:longitude":26.722418,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7785
+        "ee-mamt:okood":"7785"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360161865
     ],
     "wof:country":"EE",
     "wof:created":1595460006,
-    "wof:geomhash":"d105d2813c7ae7de2d47924c35eb7b7e",
+    "wof:geomhash":"09888d2e051ca25e070e594902e07614",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676781,
+    "wof:lastmodified":1695876952,
     "wof:name":"Sulaoja",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

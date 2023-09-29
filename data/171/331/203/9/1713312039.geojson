@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003526,
-    "geom:area_square_m":22650000.675374,
+    "geom:area_square_m":22650000.675372,
     "geom:bbox":"26.108202,58.680625,26.222433,58.741101",
     "geom:latitude":58.705713,
     "geom:longitude":26.162858,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2438
+        "ee-mamt:okood":"2438"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310632413
     ],
     "wof:country":"EE",
     "wof:created":1595460469,
-    "wof:geomhash":"f1a7531c0b7eac23d88ebdea44f497b0",
+    "wof:geomhash":"29714fd69ed83af3117b8ed0b7a74551",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676491,
+    "wof:lastmodified":1695876916,
     "wof:name":"Kaavere",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

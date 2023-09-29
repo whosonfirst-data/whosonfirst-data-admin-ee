@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koitj\u00e4rve K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.01234,
-    "geom:area_square_m":77711355.265033,
+    "geom:area_square_m":77711355.265065,
     "geom:bbox":"25.475839,59.308982,25.828574,59.427407",
     "geom:latitude":59.382953,
     "geom:longitude":25.678665,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3300
+        "ee-mamt:okood":"3300"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126024745
     ],
     "wof:country":"EE",
     "wof:created":1595460594,
-    "wof:geomhash":"6ae2c107215fb2f5cbff36aa7110ffe3",
+    "wof:geomhash":"2fd6934af5db47fca74ffeb852ee7d6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661814,
+    "wof:lastmodified":1695876777,
     "wof:name":"Koitj\u00e4rve",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

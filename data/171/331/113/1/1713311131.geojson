@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vankse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000804,
-    "geom:area_square_m":5107182.3887,
+    "geom:area_square_m":5107182.388697,
     "geom:bbox":"24.872804,59.068231,24.961646,59.099048",
     "geom:latitude":59.083576,
     "geom:longitude":24.914819,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9046
+        "ee-mamt:okood":"9046"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343547399
     ],
     "wof:country":"EE",
     "wof:created":1595460271,
-    "wof:geomhash":"74edc60c5bf811f70016f4fbd4e0959a",
+    "wof:geomhash":"ca81ce91d7b857d89d6fde0463b88a75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676704,
+    "wof:lastmodified":1695876942,
     "wof:name":"Vankse",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

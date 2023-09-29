@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pataste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002977,
-    "geom:area_square_m":19183583.532894,
+    "geom:area_square_m":19183583.532896,
     "geom:bbox":"26.726478,58.565539,26.856244,58.61644",
     "geom:latitude":58.594772,
     "geom:longitude":26.788507,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6034
+        "ee-mamt:okood":"6034"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125765267
     ],
     "wof:country":"EE",
     "wof:created":1595459718,
-    "wof:geomhash":"d2f5e94502df10136ed138ac610c26fa",
+    "wof:geomhash":"ef905b5918e9947c3ae3c865f9df0bf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676466,
+    "wof:lastmodified":1695876913,
     "wof:name":"Pataste",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

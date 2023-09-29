@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002968,
-    "geom:area_square_m":18784553.238095,
+    "geom:area_square_m":18784553.238096,
     "geom:bbox":"24.992281,59.185655,25.097883,59.245319",
     "geom:latitude":59.21694,
     "geom:longitude":25.041176,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7457
+        "ee-mamt:okood":"7457"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126045087
     ],
     "wof:country":"EE",
     "wof:created":1595460730,
-    "wof:geomhash":"d6ea08ce6224f16068cac25f006528ce",
+    "wof:geomhash":"09ec95282dd978d53d605ccd6238a7db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661339,
+    "wof:lastmodified":1695876754,
     "wof:name":"Saula",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

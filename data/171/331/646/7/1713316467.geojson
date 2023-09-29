@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Juba K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003948,
-    "geom:area_square_m":26004352.77936,
+    "geom:area_square_m":26004352.779353,
     "geom:bbox":"26.862878,57.787483,26.972661,57.840282",
     "geom:latitude":57.815274,
     "geom:longitude":26.917109,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2203
+        "ee-mamt:okood":"2203"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309864673
     ],
     "wof:country":"EE",
     "wof:created":1595461433,
-    "wof:geomhash":"1adf29774e9738c5f8807b967ae6b090",
+    "wof:geomhash":"c8486210bdc5595e60f0eb1e46ba2830",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660270,
+    "wof:lastmodified":1695876726,
     "wof:name":"Juba",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

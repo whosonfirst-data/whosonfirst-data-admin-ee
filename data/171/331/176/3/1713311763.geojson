@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Irvala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000095,
-    "geom:area_square_m":596241.074201,
+    "geom:area_square_m":596241.0742,
     "geom:bbox":"27.018688,59.350507,27.035791,59.358012",
     "geom:latitude":59.354536,
     "geom:longitude":27.026819,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2105
+        "ee-mamt:okood":"2105"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327136051
     ],
     "wof:country":"EE",
     "wof:created":1595460412,
-    "wof:geomhash":"bf2799a284cbc80015ee5592f303849c",
+    "wof:geomhash":"51c3fbccb5d7a04d067fadab6300380f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660774,
+    "wof:lastmodified":1695876735,
     "wof:name":"Irvala",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

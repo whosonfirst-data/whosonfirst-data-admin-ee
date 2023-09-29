@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Valgev\u00e4lja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000571,
-    "geom:area_square_m":3648509.924299,
+    "geom:area_square_m":3648509.9243,
     "geom:bbox":"23.528654,58.897369,23.577303,58.925173",
     "geom:latitude":58.90937,
     "geom:longitude":23.549286,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8929
+        "ee-mamt:okood":"8929"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125809337
     ],
     "wof:country":"EE",
     "wof:created":1595459670,
-    "wof:geomhash":"7204a61b403a8dd8d40dd5d5514b3515",
+    "wof:geomhash":"152228d360965ad1a4f2452d1c56f93f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1617131383,
+    "wof:lastmodified":1695877020,
     "wof:name":"Valgev\u00e4lja",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

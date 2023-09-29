@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Russalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002862,
-    "geom:area_square_m":18215248.878126,
+    "geom:area_square_m":18215248.878125,
     "geom:bbox":"24.292759,58.99343,24.421551,59.043414",
     "geom:latitude":59.019421,
     "geom:longitude":24.35087,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7132
+        "ee-mamt:okood":"7132"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1292987211
     ],
     "wof:country":"EE",
     "wof:created":1595461066,
-    "wof:geomhash":"d5f07092afc06c34f4dd8a1f368a8cd4",
+    "wof:geomhash":"3a27d1e9dfe5eb7e46f4381ed068cba4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662828,
+    "wof:lastmodified":1695876805,
     "wof:name":"Russalu",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

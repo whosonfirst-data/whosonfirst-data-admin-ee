@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kopa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000167,
-    "geom:area_square_m":1069241.146223,
+    "geom:area_square_m":1069241.146224,
     "geom:bbox":"22.393938,58.913156,22.421455,58.925204",
     "geom:latitude":58.918301,
     "geom:longitude":22.410209,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3433
+        "ee-mamt:okood":"3433"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343670563
     ],
     "wof:country":"EE",
     "wof:created":1595460072,
-    "wof:geomhash":"033716b2e2e19be6be5f1da1d2856b0a",
+    "wof:geomhash":"91bc010daaeebd7a698a7762dd5a83cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666254,
+    "wof:lastmodified":1695876845,
     "wof:name":"Kopa",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

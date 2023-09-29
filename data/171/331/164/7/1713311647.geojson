@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ongassaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005928,
-    "geom:area_square_m":37564451.537771,
+    "geom:area_square_m":37564451.537766,
     "geom:bbox":"27.390203,59.136184,27.509953,59.213543",
     "geom:latitude":59.171588,
     "geom:longitude":27.454483,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5677
+        "ee-mamt:okood":"5677"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310117657
     ],
     "wof:country":"EE",
     "wof:created":1595460388,
-    "wof:geomhash":"3b3aae61bcb171514003f64c66610bd8",
+    "wof:geomhash":"deca8fd586b1ba3f7ace5115927ba9c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660686,
+    "wof:lastmodified":1695876731,
     "wof:name":"Ongassaare",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

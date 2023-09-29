@@ -8,7 +8,7 @@
     "ee-mamt:animi":"H\u00e4mmelepa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000356,
-    "geom:area_square_m":2312136.157709,
+    "geom:area_square_m":2312136.15771,
     "geom:bbox":"22.75817,58.286588,22.789354,58.305827",
     "geom:latitude":58.294752,
     "geom:longitude":22.775353,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1939
+        "ee-mamt:okood":"1939"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309977127
     ],
     "wof:country":"EE",
     "wof:created":1595459383,
-    "wof:geomhash":"94c862a0ed3c76e73053d309cd1dac23",
+    "wof:geomhash":"518f810af691847814669e27e2b53e82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672215,
+    "wof:lastmodified":1695876885,
     "wof:name":"H\u00e4mmelepa",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Riuma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003641,
-    "geom:area_square_m":23629507.86985,
+    "geom:area_square_m":23629507.869848,
     "geom:bbox":"25.800515,58.313846,25.927662,58.3687",
     "geom:latitude":58.342478,
     "geom:longitude":25.877936,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7024
+        "ee-mamt:okood":"7024"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225810087
     ],
     "wof:country":"EE",
     "wof:created":1595460012,
-    "wof:geomhash":"ef89b981aaf9dc08f7585a6dd5d3b195",
+    "wof:geomhash":"a28a56f7c6cb261cb1568ce9f554a079",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661229,
+    "wof:lastmodified":1695876747,
     "wof:name":"Riuma",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

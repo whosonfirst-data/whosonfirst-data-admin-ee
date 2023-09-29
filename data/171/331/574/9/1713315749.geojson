@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u0151ivsaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.0014,
-    "geom:area_square_m":9196799.342976,
+    "geom:area_square_m":9196799.342977,
     "geom:bbox":"27.3714,57.875552,27.4212,57.919106",
     "geom:latitude":57.898684,
     "geom:longitude":27.395462,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3750
+        "ee-mamt:okood":"3750"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209602343
     ],
     "wof:country":"EE",
     "wof:created":1595461286,
-    "wof:geomhash":"d2e6d874e919779cab0e25a504c7265c",
+    "wof:geomhash":"84ec92b64a317a72ff2300e748f2bf08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660229,
+    "wof:lastmodified":1695876721,
     "wof:name":"K\u0151ivsaare",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

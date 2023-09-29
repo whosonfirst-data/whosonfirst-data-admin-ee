@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vetla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.006093,
-    "geom:area_square_m":38544197.30207,
+    "geom:area_square_m":38544197.302071,
     "geom:bbox":"25.391213,59.182088,25.531809,59.270857",
     "geom:latitude":59.229477,
     "geom:longitude":25.469207,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9248
+        "ee-mamt:okood":"9248"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242591601
     ],
     "wof:country":"EE",
     "wof:created":1595460895,
-    "wof:geomhash":"8790af4152dd10b72be50424905e2d4a",
+    "wof:geomhash":"12520e75ecd505d53943c81506c366a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662788,
+    "wof:lastmodified":1695876797,
     "wof:name":"Vetla",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

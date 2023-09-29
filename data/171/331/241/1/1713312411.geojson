@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kotlandi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001135,
-    "geom:area_square_m":7391341.375266,
+    "geom:area_square_m":7391341.375267,
     "geom:bbox":"22.034891,58.202771,22.104558,58.230878",
     "geom:latitude":58.21875,
     "geom:longitude":22.069203,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3482
+        "ee-mamt:okood":"3482"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293568113
     ],
     "wof:country":"EE",
     "wof:created":1595460538,
-    "wof:geomhash":"6199d284a3d7ab5ca1def4a0810f0c73",
+    "wof:geomhash":"3ec967ed4b67fc47675d0f699dfaea17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671617,
+    "wof:lastmodified":1695876865,
     "wof:name":"Kotlandi",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

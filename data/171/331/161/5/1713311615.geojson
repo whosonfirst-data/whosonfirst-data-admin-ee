@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00e4igiste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001591,
-    "geom:area_square_m":10382983.027567,
+    "geom:area_square_m":10382983.027564,
     "geom:bbox":"25.3242,58.13798,25.395427,58.175432",
     "geom:latitude":58.15539,
     "geom:longitude":25.35799,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6575
+        "ee-mamt:okood":"6575"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259941819
     ],
     "wof:country":"EE",
     "wof:created":1595460382,
-    "wof:geomhash":"b247ec396ef2b237732f631fbd7bbf75",
+    "wof:geomhash":"74f2c532050f97c4c2f7dc17e367c4bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661284,
+    "wof:lastmodified":1695876750,
     "wof:name":"P\u00e4igiste",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

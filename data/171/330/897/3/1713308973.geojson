@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Arup\u00e4\u00e4 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000646,
-    "geom:area_square_m":4181394.937335,
+    "geom:area_square_m":4181394.937334,
     "geom:bbox":"26.825693,58.436714,26.87003,58.459658",
     "geom:latitude":58.44828,
     "geom:longitude":26.84958,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1383
+        "ee-mamt:okood":"1383"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276510195
     ],
     "wof:country":"EE",
     "wof:created":1595459776,
-    "wof:geomhash":"70e8cffb2d528beab84fa0765496b9ae",
+    "wof:geomhash":"d7f302701cabda9e0f0c31fa9644d0ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676461,
+    "wof:lastmodified":1695876911,
     "wof:name":"Arup\u00e4\u00e4",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Enno K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000698,
-    "geom:area_square_m":4546221.62097,
+    "geom:area_square_m":4546221.620969,
     "geom:bbox":"26.487966,58.191309,26.520998,58.224583",
     "geom:latitude":58.206668,
     "geom:longitude":26.506793,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1605
+        "ee-mamt:okood":"1605"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225907427
     ],
     "wof:country":"EE",
     "wof:created":1595461056,
-    "wof:geomhash":"8fe389f2e3680b1fc7d0b6244e420839",
+    "wof:geomhash":"e3d6bd034ea0f4ef21b277b0d1524d60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676757,
+    "wof:lastmodified":1695876948,
     "wof:name":"Enno",
     "wof:parent_id":1713305715,
     "wof:placetype":"localadmin",

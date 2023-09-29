@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Puhja Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.00019,
-    "geom:area_square_m":1235067.976448,
+    "geom:area_square_m":1235067.976449,
     "geom:bbox":"26.303392,58.331458,26.326221,58.345903",
     "geom:latitude":58.33861,
     "geom:longitude":26.314435,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Puhja alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6393
+        "ee-mamt:okood":"6393"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815097
     ],
     "wof:country":"EE",
     "wof:created":1595460124,
-    "wof:geomhash":"daab1fd8702cbf4f4aa918f8cb59cd2c",
+    "wof:geomhash":"eb3fa3c929390baea7fad446c57f132e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661888,
+    "wof:lastmodified":1695876783,
     "wof:name":"Puhja",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pullevere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000496,
-    "geom:area_square_m":3150143.754068,
+    "geom:area_square_m":3150143.754067,
     "geom:bbox":"25.683476,59.115875,25.732167,59.135268",
     "geom:latitude":59.125757,
     "geom:longitude":25.706005,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6422
+        "ee-mamt:okood":"6422"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293104679
     ],
     "wof:country":"EE",
     "wof:created":1595459268,
-    "wof:geomhash":"12399a251d76c0fdb5866dd197694edb",
+    "wof:geomhash":"20d7d1d21862b0d5acfd5f1c04b3accc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676622,
+    "wof:lastmodified":1695876931,
     "wof:name":"Pullevere",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

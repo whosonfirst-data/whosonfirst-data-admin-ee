@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Suurepsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00068,
-    "geom:area_square_m":4342366.486791,
+    "geom:area_square_m":4342366.48679,
     "geom:bbox":"22.153899,58.915663,22.20418,58.937529",
     "geom:latitude":58.926823,
     "geom:longitude":22.179705,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7848
+        "ee-mamt:okood":"7848"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242786469
     ],
     "wof:country":"EE",
     "wof:created":1595460182,
-    "wof:geomhash":"7fedfd43d33fb0509d4eeb6184cdb768",
+    "wof:geomhash":"52e97893d830eb085fec7880b5e17cb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666441,
+    "wof:lastmodified":1695876858,
     "wof:name":"Suurepsi",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

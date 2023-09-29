@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piigandi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001055,
-    "geom:area_square_m":6914244.3715,
+    "geom:area_square_m":6914244.371499,
     "geom:bbox":"26.761246,57.987022,26.811215,58.022735",
     "geom:latitude":58.002062,
     "geom:longitude":26.78708,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6163
+        "ee-mamt:okood":"6163"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935429
     ],
     "wof:country":"EE",
     "wof:created":1595460000,
-    "wof:geomhash":"28e5a2dcff79a4c6bcafa9f827c6e71c",
+    "wof:geomhash":"0fcb0d287e978886ab155859ec198643",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676779,
+    "wof:lastmodified":1695876951,
     "wof:name":"Piigandi",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Liikatku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001735,
-    "geom:area_square_m":11115445.598809,
+    "geom:area_square_m":11115445.598811,
     "geom:bbox":"26.684815,58.77317,26.745069,58.823047",
     "geom:latitude":58.795813,
     "geom:longitude":26.71271,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4342
+        "ee-mamt:okood":"4342"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209437887
     ],
     "wof:country":"EE",
     "wof:created":1595460944,
-    "wof:geomhash":"58801e6f2ff4464c14c6f9d4bc3bd6a3",
+    "wof:geomhash":"5aad1dc94574e0b62046ae713e47cc7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676563,
+    "wof:lastmodified":1695876925,
     "wof:name":"Liikatku",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

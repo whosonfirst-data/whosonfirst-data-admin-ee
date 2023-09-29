@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Allikukivi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000704,
-    "geom:area_square_m":4592705.09452,
+    "geom:area_square_m":4592705.094521,
     "geom:bbox":"24.989562,58.13682,25.051148,58.162851",
     "geom:latitude":58.150578,
     "geom:longitude":25.020805,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1217
+        "ee-mamt:okood":"1217"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293270301
     ],
     "wof:country":"EE",
     "wof:created":1595459898,
-    "wof:geomhash":"e53c9e3e2d247ba9b872d548a2752ecd",
+    "wof:geomhash":"98aacdd23dd1b8295e263c07b1f0d953",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677724,
+    "wof:lastmodified":1695876996,
     "wof:name":"Allikukivi",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

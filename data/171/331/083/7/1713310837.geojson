@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pihleni K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000804,
-    "geom:area_square_m":5285194.916377,
+    "geom:area_square_m":5285194.916376,
     "geom:bbox":"26.499438,57.884726,26.537959,57.914526",
     "geom:latitude":57.900323,
     "geom:longitude":26.518152,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6150
+        "ee-mamt:okood":"6150"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310475865
     ],
     "wof:country":"EE",
     "wof:created":1595460211,
-    "wof:geomhash":"b5d10094d3db3208e3885e68eaa1cda4",
+    "wof:geomhash":"dd0ae8954e1a139a36ba3bd96158d695",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677011,
+    "wof:lastmodified":1695876981,
     "wof:name":"Pihleni",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u0151ruse-Metsak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001694,
-    "geom:area_square_m":10951797.020864,
+    "geom:area_square_m":10951797.020863,
     "geom:bbox":"21.833732,58.457215,21.952657,58.500716",
     "geom:latitude":58.475289,
     "geom:longitude":21.899845,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3816
+        "ee-mamt:okood":"3816"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459367,
-    "wof:geomhash":"b61d407f5502e8d278102960b7066bb0",
+    "wof:geomhash":"65467187d98bd19648504c1ddc7cb86d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672284,
+    "wof:lastmodified":1695876888,
     "wof:name":"K\u0151ruse-Metsak\u00fcla",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4dara K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003431,
-    "geom:area_square_m":22043449.047094,
+    "geom:area_square_m":22043449.047095,
     "geom:bbox":"25.165846,58.654346,25.234861,58.726675",
     "geom:latitude":58.694144,
     "geom:longitude":25.198994,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5185
+        "ee-mamt:okood":"5185"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243442447
     ],
     "wof:country":"EE",
     "wof:created":1595460769,
-    "wof:geomhash":"84427dacdf1754a8dd45b0746407d077",
+    "wof:geomhash":"e55b6438aeeb9ab67ef91ba5fde2b90c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663398,
+    "wof:lastmodified":1695876822,
     "wof:name":"M\u00e4dara",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

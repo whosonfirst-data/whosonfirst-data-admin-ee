@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Otep\u00e4\u00e4 Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.000961,
-    "geom:area_square_m":6284636.010792,
+    "geom:area_square_m":6284636.010786,
     "geom:bbox":"26.465879,58.040673,26.516907,58.072854",
     "geom:latitude":58.056997,
     "geom:longitude":26.488482,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Otep\u00e4\u00e4 linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5755
+        "ee-mamt:okood":"5755"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815063
     ],
     "wof:country":"EE",
     "wof:created":1595460952,
-    "wof:geomhash":"9e5b4eadbd4d39a03171f4354da7a9c2",
+    "wof:geomhash":"7d9cb6b02cfae35f525229e56aae8406",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661866,
+    "wof:lastmodified":1695876781,
     "wof:name":"Otep\u00e4\u00e4",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

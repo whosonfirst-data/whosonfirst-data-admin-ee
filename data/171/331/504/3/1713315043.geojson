@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Posti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000151,
-    "geom:area_square_m":1002769.258039,
+    "geom:area_square_m":1002769.25804,
     "geom:bbox":"27.016953,57.608449,27.039197,57.624083",
     "geom:latitude":57.617194,
     "geom:longitude":27.030079,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6336
+        "ee-mamt:okood":"6336"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243428455
     ],
     "wof:country":"EE",
     "wof:created":1595461120,
-    "wof:geomhash":"ef10a22b4a7c7c49db1094421d949f51",
+    "wof:geomhash":"3b30b6918f825fe8ab4d6b3734bd072a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676815,
+    "wof:lastmodified":1695876955,
     "wof:name":"Posti",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

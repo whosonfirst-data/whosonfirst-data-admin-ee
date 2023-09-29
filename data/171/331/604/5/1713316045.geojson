@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tsirgupalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004422,
-    "geom:area_square_m":29133500.434938,
+    "geom:area_square_m":29133500.434933,
     "geom:bbox":"26.764736,57.774823,26.890461,57.835375",
     "geom:latitude":57.803451,
     "geom:longitude":26.828181,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8366
+        "ee-mamt:okood":"8366"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326588787
     ],
     "wof:country":"EE",
     "wof:created":1595461346,
-    "wof:geomhash":"cb2aa849a9415fa0f0b16947a600e88c",
+    "wof:geomhash":"223ad10af30390677a1e2f196631e0cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676839,
+    "wof:lastmodified":1695876962,
     "wof:name":"Tsirgupalu",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

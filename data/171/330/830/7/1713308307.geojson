@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Adaka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000837,
-    "geom:area_square_m":5250530.184931,
+    "geom:area_square_m":5250530.184928,
     "geom:bbox":"26.084042,59.487913,26.144469,59.516626",
     "geom:latitude":59.500957,
     "geom:longitude":26.114931,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1073
+        "ee-mamt:okood":"1073"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277061873
     ],
     "wof:country":"EE",
     "wof:created":1595459611,
-    "wof:geomhash":"8cc329063e4fc679681e0b4b4a3d41ff",
+    "wof:geomhash":"1173fa03dac146bb2ef94abb16825e29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678034,
+    "wof:lastmodified":1695877013,
     "wof:name":"Adaka",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aluvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000483,
-    "geom:area_square_m":3040931.086989,
+    "geom:area_square_m":3040931.086991,
     "geom:bbox":"26.395465,59.363909,26.440805,59.387052",
     "geom:latitude":59.372146,
     "geom:longitude":26.416759,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1242
+        "ee-mamt:okood":"1242"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310523799
     ],
     "wof:country":"EE",
     "wof:created":1595460935,
-    "wof:geomhash":"dddd5605c391300b24999d38ebc70adf",
+    "wof:geomhash":"9704bb7c056e38bd0c1228c2fd51c29e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676659,
+    "wof:lastmodified":1695876935,
     "wof:name":"Aluvere",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

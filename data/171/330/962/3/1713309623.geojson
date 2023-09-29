@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lautna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001735,
-    "geom:area_square_m":11140613.466994,
+    "geom:area_square_m":11140613.466995,
     "geom:bbox":"23.869509,58.699982,23.963108,58.73496",
     "geom:latitude":58.715865,
     "geom:longitude":23.915843,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4163
+        "ee-mamt:okood":"4163"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226637735
     ],
     "wof:country":"EE",
     "wof:created":1595459933,
-    "wof:geomhash":"b6bdcae33b47084fce21b001875c8223",
+    "wof:geomhash":"2868d1795235c14e89ce5dbaf5fd3de5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661587,
+    "wof:lastmodified":1695876766,
     "wof:name":"Lautna",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

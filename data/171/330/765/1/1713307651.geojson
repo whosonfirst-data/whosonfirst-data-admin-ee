@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Letipea K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001907,
-    "geom:area_square_m":11954255.727807,
+    "geom:area_square_m":11954255.727814,
     "geom:bbox":"26.56857,59.516925,26.672748,59.554721",
     "geom:latitude":59.534758,
     "geom:longitude":26.624279,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4305
+        "ee-mamt:okood":"4305"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326650131
     ],
     "wof:country":"EE",
     "wof:created":1595459453,
-    "wof:geomhash":"7ffa11f308c3ad02cbd90bb2c8541dcd",
+    "wof:geomhash":"b351559183aaf7ea5f0b949efe368c91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677919,
+    "wof:lastmodified":1695877000,
     "wof:name":"Letipea",
     "wof:parent_id":1713305777,
     "wof:placetype":"localadmin",

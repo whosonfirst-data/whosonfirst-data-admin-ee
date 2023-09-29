@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Heiste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001188,
-    "geom:area_square_m":7583755.114051,
+    "geom:area_square_m":7583755.11405,
     "geom:bbox":"22.479943,58.90612,22.543549,58.94119",
     "geom:latitude":58.925795,
     "geom:longitude":22.516088,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1801
+        "ee-mamt:okood":"1801"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243076479
     ],
     "wof:country":"EE",
     "wof:created":1595460170,
-    "wof:geomhash":"a52c7b36aed0891a5ab646d1aa48ca6c",
+    "wof:geomhash":"4b7332b884ad7f1fad15c23704889b48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666382,
+    "wof:lastmodified":1695876854,
     "wof:name":"Heiste",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

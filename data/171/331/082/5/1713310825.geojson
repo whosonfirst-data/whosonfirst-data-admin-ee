@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Noorma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001283,
-    "geom:area_square_m":8344379.286961,
+    "geom:area_square_m":8344379.286962,
     "geom:bbox":"26.146297,58.245737,26.229745,58.273063",
     "geom:latitude":58.260261,
     "geom:longitude":26.188145,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5447
+        "ee-mamt:okood":"5447"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193254217
     ],
     "wof:country":"EE",
     "wof:created":1595460208,
-    "wof:geomhash":"8e43bd0765e964b28cf58c27517abdde",
+    "wof:geomhash":"90f46ae8b8f92df2b2f60fa959c9189d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661900,
+    "wof:lastmodified":1695876786,
     "wof:name":"Noorma",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

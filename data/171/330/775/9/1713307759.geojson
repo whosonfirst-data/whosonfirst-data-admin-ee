@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koov\u00e4lja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001182,
-    "geom:area_square_m":7447459.620724,
+    "geom:area_square_m":7447459.620722,
     "geom:bbox":"26.413466,59.365123,26.490741,59.39345",
     "geom:latitude":59.378429,
     "geom:longitude":26.45309,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3432
+        "ee-mamt:okood":"3432"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209801107
     ],
     "wof:country":"EE",
     "wof:created":1595459480,
-    "wof:geomhash":"74be3af4e3af63e292215f12fd849940",
+    "wof:geomhash":"ad3639815097384dc64346f7422c821d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676662,
+    "wof:lastmodified":1695876936,
     "wof:name":"Koov\u00e4lja",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

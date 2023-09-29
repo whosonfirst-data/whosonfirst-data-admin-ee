@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tammispea K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000388,
-    "geom:area_square_m":2431912.233467,
+    "geom:area_square_m":2431912.233466,
     "geom:bbox":"25.802832,59.546631,25.841975,59.566176",
     "geom:latitude":59.55692,
     "geom:longitude":25.822958,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8118
+        "ee-mamt:okood":"8118"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326839897
     ],
     "wof:country":"EE",
     "wof:created":1595459160,
-    "wof:geomhash":"bd06fbf25c1b3480f0de19dac275d5b8",
+    "wof:geomhash":"e0ad61eed1a775bbadd32e350ef9799f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661827,
+    "wof:lastmodified":1695876779,
     "wof:name":"Tammispea",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kangru Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000503,
-    "geom:area_square_m":3169258.842243,
+    "geom:area_square_m":3169258.842241,
     "geom:bbox":"24.767404,59.341266,24.813648,59.36009",
     "geom:latitude":59.350184,
     "geom:longitude":24.787283,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Kangru alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2673
+        "ee-mamt:okood":"2673"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193025607
     ],
     "wof:country":"EE",
     "wof:created":1595460690,
-    "wof:geomhash":"4692b258252f540edb0c57ddbea2e89c",
+    "wof:geomhash":"db318fefa47093f47290656e850e3a2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663495,
+    "wof:lastmodified":1695876832,
     "wof:name":"Kangru",
     "wof:parent_id":1713305643,
     "wof:placetype":"localadmin",

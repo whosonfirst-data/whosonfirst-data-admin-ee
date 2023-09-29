@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Anijala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000428,
-    "geom:area_square_m":2779873.405924,
+    "geom:area_square_m":2779873.405923,
     "geom:bbox":"22.355821,58.314422,22.392909,58.335223",
     "geom:latitude":58.325185,
     "geom:longitude":22.371483,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1280
+        "ee-mamt:okood":"1280"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226616913
     ],
     "wof:country":"EE",
     "wof:created":1595459392,
-    "wof:geomhash":"927367d27e6023ba5a61ab2165c2c09d",
+    "wof:geomhash":"d96f37efa692926e43f3b95e50396107",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672372,
+    "wof:lastmodified":1695876892,
     "wof:name":"Anijala",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

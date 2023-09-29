@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Seli K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000447,
-    "geom:area_square_m":2865565.09191,
+    "geom:area_square_m":2865565.091908,
     "geom:bbox":"23.838808,58.734897,23.873787,58.753449",
     "geom:latitude":58.744984,
     "geom:longitude":23.858686,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7519
+        "ee-mamt:okood":"7519"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310693277
     ],
     "wof:country":"EE",
     "wof:created":1595459888,
-    "wof:geomhash":"53e81807316fe707d3ad6c3fb4c50de0",
+    "wof:geomhash":"d22ac004aead22cbd1a895f7615b2ab7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661663,
+    "wof:lastmodified":1695876773,
     "wof:name":"Seli",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

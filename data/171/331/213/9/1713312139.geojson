@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tammisp\u00e4\u00e4 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001177,
-    "geom:area_square_m":7514293.757595,
+    "geom:area_square_m":7514293.757598,
     "geom:bbox":"26.967361,58.912652,27.023616,58.948361",
     "geom:latitude":58.929573,
     "geom:longitude":26.993782,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8117
+        "ee-mamt:okood":"8117"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293495257
     ],
     "wof:country":"EE",
     "wof:created":1595460488,
-    "wof:geomhash":"ac49fad596de2d62e122a82ce3a2e557",
+    "wof:geomhash":"acb2f335bf23be1adb3141e36ce98c53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660961,
+    "wof:lastmodified":1695876740,
     "wof:name":"Tammisp\u00e4\u00e4",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

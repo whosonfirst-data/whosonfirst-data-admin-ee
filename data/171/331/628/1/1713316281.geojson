@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Hinsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00095,
-    "geom:area_square_m":6266631.774987,
+    "geom:area_square_m":6266631.774985,
     "geom:bbox":"27.188282,57.734668,27.227574,57.780033",
     "geom:latitude":57.758882,
     "geom:longitude":27.208733,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1860
+        "ee-mamt:okood":"1860"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260054185
     ],
     "wof:country":"EE",
     "wof:created":1595461395,
-    "wof:geomhash":"bd5182db41d1f401f61ddee6e10e5fa8",
+    "wof:geomhash":"318362a260815e346dfb1db655af8838",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660250,
+    "wof:lastmodified":1695876724,
     "wof:name":"Hinsa",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lepiku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000244,
-    "geom:area_square_m":1566856.507695,
+    "geom:area_square_m":1566856.507693,
     "geom:bbox":"22.528977,58.688356,22.560592,58.703845",
     "geom:latitude":58.696124,
     "geom:longitude":22.545798,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4290
+        "ee-mamt:okood":"4290"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360298203
     ],
     "wof:country":"EE",
     "wof:created":1595460192,
-    "wof:geomhash":"af3a342673f22fd8000f403fee642c5b",
+    "wof:geomhash":"45215bae57c2b77a835a286cc288572c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666470,
+    "wof:lastmodified":1695876860,
     "wof:name":"Lepiku",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

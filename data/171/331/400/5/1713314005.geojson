@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kastja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002496,
-    "geom:area_square_m":15996882.469815,
+    "geom:area_square_m":15996882.469811,
     "geom:bbox":"24.043785,58.762062,24.165702,58.806647",
     "geom:latitude":58.783911,
     "geom:longitude":24.101948,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2826
+        "ee-mamt:okood":"2826"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310692965
     ],
     "wof:country":"EE",
     "wof:created":1595460882,
-    "wof:geomhash":"2dcda19a652dfd360df1e9b059ad710d",
+    "wof:geomhash":"880eb8bd3b2fb28797de8bb3d54f8578",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677206,
+    "wof:lastmodified":1695876990,
     "wof:name":"Kastja",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

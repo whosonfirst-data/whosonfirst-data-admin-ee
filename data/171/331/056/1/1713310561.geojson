@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Puliste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000399,
-    "geom:area_square_m":2548214.293412,
+    "geom:area_square_m":2548214.293413,
     "geom:bbox":"22.932413,58.905661,22.990573,58.939902",
     "geom:latitude":58.917659,
     "geom:longitude":22.948774,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6419
+        "ee-mamt:okood":"6419"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327346607
     ],
     "wof:country":"EE",
     "wof:created":1595460152,
-    "wof:geomhash":"e6a87e0a64f2c4547281ec4442094364",
+    "wof:geomhash":"7ea2b848c658b861fe1f151f0210aff8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666375,
+    "wof:lastmodified":1695876853,
     "wof:name":"Puliste",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

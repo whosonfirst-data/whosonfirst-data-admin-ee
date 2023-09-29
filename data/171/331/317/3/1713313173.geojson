@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4giotsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00325,
-    "geom:area_square_m":21196049.500531,
+    "geom:area_square_m":21196049.500525,
     "geom:bbox":"27.301218,58.145552,27.4069,58.190087",
     "geom:latitude":58.164684,
     "geom:longitude":27.349623,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5221
+        "ee-mamt:okood":"5221"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293870797
     ],
     "wof:country":"EE",
     "wof:created":1595460706,
-    "wof:geomhash":"a4105c0a7c03e980520d02951b8850f5",
+    "wof:geomhash":"d3e8a98d2b1c0fff76c4318bf5fdcb70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676985,
+    "wof:lastmodified":1695876978,
     "wof:name":"M\u00e4giotsa",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

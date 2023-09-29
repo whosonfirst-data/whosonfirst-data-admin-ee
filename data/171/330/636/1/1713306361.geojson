@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Virla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001823,
-    "geom:area_square_m":11594273.856061,
+    "geom:area_square_m":11594273.856059,
     "geom:bbox":"25.208571,59.035381,25.311594,59.07031",
     "geom:latitude":59.053504,
     "geom:longitude":25.260959,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9385
+        "ee-mamt:okood":"9385"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344166563
     ],
     "wof:country":"EE",
     "wof:created":1595459139,
-    "wof:geomhash":"208380f808e4ac35cfbf34daf5ab4ac6",
+    "wof:geomhash":"ec7263b352e9af099a9adf561529cb23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661341,
+    "wof:lastmodified":1695876755,
     "wof:name":"Virla",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

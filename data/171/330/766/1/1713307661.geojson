@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Tudu Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.001834,
-    "geom:area_square_m":11616675.481823,
+    "geom:area_square_m":11616675.481824,
     "geom:bbox":"26.803991,59.162439,26.893974,59.209026",
     "geom:latitude":59.184786,
     "geom:longitude":26.845202,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Tudu alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8390
+        "ee-mamt:okood":"8390"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126003961
     ],
     "wof:country":"EE",
     "wof:created":1595459456,
-    "wof:geomhash":"f687a55dcb723e893405c8eea2dd4f98",
+    "wof:geomhash":"88e227a48bed7a3124132fcbb0c924a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677949,
+    "wof:lastmodified":1695877004,
     "wof:name":"Tudu",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

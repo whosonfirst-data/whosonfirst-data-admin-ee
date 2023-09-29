@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Einbi K\u00fcla / Enby",
     "ee-mamt:tyyp":8,
     "geom:area":0.001884,
-    "geom:area_square_m":11998094.43634,
+    "geom:area_square_m":11998094.436349,
     "geom:bbox":"23.404227,58.976853,23.490431,59.02929",
     "geom:latitude":59.002861,
     "geom:longitude":23.450553,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1556
+        "ee-mamt:okood":"1556"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277068601
     ],
     "wof:country":"EE",
     "wof:created":1595459713,
-    "wof:geomhash":"87e228bed4d182d047c92ea6f1adf9ad",
+    "wof:geomhash":"93efb6b8c72ed325545085c855081ec1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677203,
+    "wof:lastmodified":1695876990,
     "wof:name":"Einbi",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Villemi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001088,
-    "geom:area_square_m":6958723.979654,
+    "geom:area_square_m":6958723.979655,
     "geom:bbox":"22.780164,58.840814,22.813128,58.890373",
     "geom:latitude":58.866322,
     "geom:longitude":22.7959,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8911
+        "ee-mamt:okood":"8911"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595460205,
-    "wof:geomhash":"2123474354a24b16afbb6d457a64374b",
+    "wof:geomhash":"bbe07e1a443e77d7ffbc1993a91d56d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666467,
+    "wof:lastmodified":1695876860,
     "wof:name":"Villemi",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

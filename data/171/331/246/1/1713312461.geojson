@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Tori Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.001695,
-    "geom:area_square_m":10955563.812888,
+    "geom:area_square_m":10955563.81289,
     "geom:bbox":"24.783694,58.451017,24.855014,58.504738",
     "geom:latitude":58.47955,
     "geom:longitude":24.818686,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Tori alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8326
+        "ee-mamt:okood":"8326"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125882937
     ],
     "wof:country":"EE",
     "wof:created":1595460549,
-    "wof:geomhash":"1ae122677bdd801b0750c465f0150090",
+    "wof:geomhash":"362f2a2c0ca61432f54464eede92c4c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663370,
+    "wof:lastmodified":1695876819,
     "wof:name":"Tori",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

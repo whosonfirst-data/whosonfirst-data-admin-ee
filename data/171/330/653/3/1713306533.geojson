@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kersleti K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001473,
-    "geom:area_square_m":9373110.887004,
+    "geom:area_square_m":9373110.887001,
     "geom:bbox":"23.127858,59.012184,23.20862,59.049928",
     "geom:latitude":59.030724,
     "geom:longitude":23.170455,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2981
+        "ee-mamt:okood":"2981"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260274951
     ],
     "wof:country":"EE",
     "wof:created":1595459180,
-    "wof:geomhash":"aac4a98aa7ff77d4826808b0fa651be9",
+    "wof:geomhash":"2dcdfb44dcf2c85d543ed3b8fa1224ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663591,
+    "wof:lastmodified":1695876832,
     "wof:name":"Kersleti",
     "wof:parent_id":1713305639,
     "wof:placetype":"localadmin",

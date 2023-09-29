@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Harmi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000865,
-    "geom:area_square_m":5489388.729213,
+    "geom:area_square_m":5489388.729211,
     "geom:bbox":"25.176494,59.095432,25.235113,59.122337",
     "geom:latitude":59.110109,
     "geom:longitude":25.207412,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1779
+        "ee-mamt:okood":"1779"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260098013
     ],
     "wof:country":"EE",
     "wof:created":1595459127,
-    "wof:geomhash":"954f4b6f91b86bc92f51c5167827bb28",
+    "wof:geomhash":"398999b0002f192d6babe446d728cc24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661337,
+    "wof:lastmodified":1695876754,
     "wof:name":"Harmi",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

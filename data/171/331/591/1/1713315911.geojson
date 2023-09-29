@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaartsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001055,
-    "geom:area_square_m":6935698.329937,
+    "geom:area_square_m":6935698.329938,
     "geom:bbox":"27.583234,57.848865,27.638058,57.88553",
     "geom:latitude":57.865955,
     "geom:longitude":27.610179,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8813
+        "ee-mamt:okood":"8813"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260377927
     ],
     "wof:country":"EE",
     "wof:created":1595461319,
-    "wof:geomhash":"8afff2fc2e094760922f8d180d3a1b40",
+    "wof:geomhash":"290b4d024e469927f1d28fe573b53bb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663640,
+    "wof:lastmodified":1695876839,
     "wof:name":"Vaartsi",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

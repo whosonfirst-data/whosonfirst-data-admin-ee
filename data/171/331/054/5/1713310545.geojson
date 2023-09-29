@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aitsra K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003876,
-    "geom:area_square_m":25475342.303589,
+    "geom:area_square_m":25475342.303591,
     "geom:bbox":"25.876038,57.84705,25.970225,57.927936",
     "geom:latitude":57.888,
     "geom:longitude":25.927652,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1152
+        "ee-mamt:okood":"1152"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326695825
     ],
     "wof:country":"EE",
     "wof:created":1595460149,
-    "wof:geomhash":"36d82eb144ed996c6e4252067009c74b",
+    "wof:geomhash":"c3ee38c71567204ca88f95f54501de65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661419,
+    "wof:lastmodified":1695876758,
     "wof:name":"Aitsra",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

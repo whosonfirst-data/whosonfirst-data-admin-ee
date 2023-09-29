@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rabivere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004298,
-    "geom:area_square_m":27281376.055717,
+    "geom:area_square_m":27281376.055715,
     "geom:bbox":"24.643491,59.081283,24.754987,59.146768",
     "geom:latitude":59.112712,
     "geom:longitude":24.69633,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6710
+        "ee-mamt:okood":"6710"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125941513
     ],
     "wof:country":"EE",
     "wof:created":1595461218,
-    "wof:geomhash":"c13bad0a0ddb55ddc10a2cc568a8ab59",
+    "wof:geomhash":"d8799702b703d854b4d0feb31ad7c70e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677031,
+    "wof:lastmodified":1695876984,
     "wof:name":"Rabivere",
     "wof:parent_id":1713305707,
     "wof:placetype":"localadmin",

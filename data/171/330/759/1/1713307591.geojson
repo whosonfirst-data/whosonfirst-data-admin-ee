@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuuse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001105,
-    "geom:area_square_m":7171718.145321,
+    "geom:area_square_m":7171718.145322,
     "geom:bbox":"22.156017,58.322157,22.215116,58.355083",
     "geom:latitude":58.338608,
     "geom:longitude":22.183401,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3715
+        "ee-mamt:okood":"3715"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276742069
     ],
     "wof:country":"EE",
     "wof:created":1595459440,
-    "wof:geomhash":"baf4c56e8d1280fd6fd7931bc0956745",
+    "wof:geomhash":"cf2601462ef9fde867c06c935686300d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672503,
+    "wof:lastmodified":1695876895,
     "wof:name":"Kuuse",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

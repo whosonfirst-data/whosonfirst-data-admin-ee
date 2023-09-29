@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Taguk\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000603,
-    "geom:area_square_m":3863183.740957,
+    "geom:area_square_m":3863183.740962,
     "geom:bbox":"22.8378,58.775978,22.910962,58.805899",
     "geom:latitude":58.793693,
     "geom:longitude":22.862459,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8061
+        "ee-mamt:okood":"8061"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293301541
     ],
     "wof:country":"EE",
     "wof:created":1595460193,
-    "wof:geomhash":"4535ff74282e24ce4f2b32ed05b64d10",
+    "wof:geomhash":"7931ea60a31d53fda62d97caf11902dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596666476,
+    "wof:lastmodified":1695876860,
     "wof:name":"Taguk\u00fcla",
     "wof:parent_id":1713305629,
     "wof:placetype":"localadmin",

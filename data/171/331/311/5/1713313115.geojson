@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Piissoo K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000455,
-    "geom:area_square_m":2878400.236997,
+    "geom:area_square_m":2878400.236995,
     "geom:bbox":"24.839833,59.243236,24.873047,59.264018",
     "geom:latitude":59.253846,
     "geom:longitude":24.855887,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6198
+        "ee-mamt:okood":"6198"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209328689
     ],
     "wof:country":"EE",
     "wof:created":1595460693,
-    "wof:geomhash":"68be7fe10c19d724bd9d5b27d3fe6a83",
+    "wof:geomhash":"07e9c8dd9e5b001c384c8614ec6139bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663494,
+    "wof:lastmodified":1695876831,
     "wof:name":"Piissoo",
     "wof:parent_id":1713305643,
     "wof:placetype":"localadmin",

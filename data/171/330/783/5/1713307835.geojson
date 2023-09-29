@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sooaluse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000673,
-    "geom:area_square_m":4236061.841778,
+    "geom:area_square_m":4236061.84178,
     "geom:bbox":"26.451946,59.391788,26.510799,59.41564",
     "geom:latitude":59.403732,
     "geom:longitude":26.476647,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7684
+        "ee-mamt:okood":"7684"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226643045
     ],
     "wof:country":"EE",
     "wof:created":1595459497,
-    "wof:geomhash":"a4e41648676a7a487f6dc58b1ee8812f",
+    "wof:geomhash":"ddc6fbbbd0f28085b671b3d9aceaa3e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676660,
+    "wof:lastmodified":1695876936,
     "wof:name":"Sooaluse",
     "wof:parent_id":1713305719,
     "wof:placetype":"localadmin",

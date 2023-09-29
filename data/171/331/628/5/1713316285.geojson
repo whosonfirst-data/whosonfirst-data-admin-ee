@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mustassaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000662,
-    "geom:area_square_m":4360670.013204,
+    "geom:area_square_m":4360670.013208,
     "geom:bbox":"26.781178,57.817499,26.842329,57.850691",
     "geom:latitude":57.836272,
     "geom:longitude":26.807136,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5071
+        "ee-mamt:okood":"5071"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226406791
     ],
     "wof:country":"EE",
     "wof:created":1595461396,
-    "wof:geomhash":"c22587a88f377963b4c60ef3e4dd1cb6",
+    "wof:geomhash":"5afa800c302079c8e4f5b066901aa989",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660266,
+    "wof:lastmodified":1695876726,
     "wof:name":"Mustassaare",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

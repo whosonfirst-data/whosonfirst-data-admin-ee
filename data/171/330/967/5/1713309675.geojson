@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viisireiu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001367,
-    "geom:area_square_m":8940504.365171,
+    "geom:area_square_m":8940504.36517,
     "geom:bbox":"24.79152,58.05303,24.858084,58.097116",
     "geom:latitude":58.075605,
     "geom:longitude":24.822248,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9297
+        "ee-mamt:okood":"9297"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343542285
     ],
     "wof:country":"EE",
     "wof:created":1595459944,
-    "wof:geomhash":"3dd10647a532630e13c5f49d6f714f48",
+    "wof:geomhash":"9946b9adf7495cf9cb1855185337cab1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677727,
+    "wof:lastmodified":1695876997,
     "wof:name":"Viisireiu",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

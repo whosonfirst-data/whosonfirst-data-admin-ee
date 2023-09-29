@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ortuma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000767,
-    "geom:area_square_m":5055390.63358,
+    "geom:area_square_m":5055390.633581,
     "geom:bbox":"27.216676,57.768479,27.267098,57.800042",
     "geom:latitude":57.780576,
     "geom:longitude":27.242436,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5734
+        "ee-mamt:okood":"5734"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276726485
     ],
     "wof:country":"EE",
     "wof:created":1595461399,
-    "wof:geomhash":"97f03dd9efd1f2e6f91791c926082171",
+    "wof:geomhash":"508da7a1efec7eadd7be0781ecdc853c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660227,
+    "wof:lastmodified":1695876721,
     "wof:name":"Ortuma",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

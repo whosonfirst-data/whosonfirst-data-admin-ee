@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ketneri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001226,
-    "geom:area_square_m":7994193.723299,
+    "geom:area_square_m":7994193.723298,
     "geom:bbox":"26.405198,58.14114,26.449856,58.1901",
     "geom:latitude":58.163092,
     "geom:longitude":26.428123,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2989
+        "ee-mamt:okood":"2989"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309769429
     ],
     "wof:country":"EE",
     "wof:created":1595460864,
-    "wof:geomhash":"12def266ff2f651ca18d1fcb55270485",
+    "wof:geomhash":"c941cd630bb2fbc183543103056ae51d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676753,
+    "wof:lastmodified":1695876948,
     "wof:name":"Ketneri",
     "wof:parent_id":1713305715,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"H\u00e4rmakosu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000978,
-    "geom:area_square_m":6156830.016297,
+    "geom:area_square_m":6156830.016298,
     "geom:bbox":"25.389616,59.379001,25.476606,59.404992",
     "geom:latitude":59.393581,
     "geom:longitude":25.444111,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1961
+        "ee-mamt:okood":"1961"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276672069
     ],
     "wof:country":"EE",
     "wof:created":1595459343,
-    "wof:geomhash":"c6b9cb34a60efe32e2e291af6b1d6cee",
+    "wof:geomhash":"5e7b116a6a4e6c39cea4ddf96f9fa734",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662795,
+    "wof:lastmodified":1695876799,
     "wof:name":"H\u00e4rmakosu",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

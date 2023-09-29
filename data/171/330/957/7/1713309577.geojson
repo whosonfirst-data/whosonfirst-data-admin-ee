@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiska K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005631,
-    "geom:area_square_m":36304663.128008,
+    "geom:area_square_m":36304663.128009,
     "geom:bbox":"23.757153,58.546917,23.916561,58.608304",
     "geom:latitude":58.573799,
     "geom:longitude":23.823433,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3159
+        "ee-mamt:okood":"3159"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293511153
     ],
     "wof:country":"EE",
     "wof:created":1595459923,
-    "wof:geomhash":"b77c44424b2eaa58bb245b4e78252f41",
+    "wof:geomhash":"bab55ac277f97da959d50327858df77f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661622,
+    "wof:lastmodified":1695876770,
     "wof:name":"Kiska",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

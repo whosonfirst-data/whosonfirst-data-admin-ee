@@ -14,7 +14,7 @@
     "geom:longitude":27.190384,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Mooste alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4986
+        "ee-mamt:okood":"4986"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008503
     ],
     "wof:country":"EE",
     "wof:created":1595460242,
-    "wof:geomhash":"98e4586b9021b4dbde5739ff913842e7",
+    "wof:geomhash":"6100d9c6b7ff9fb029c06abf5d9e0f9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676941,
+    "wof:lastmodified":1695876972,
     "wof:name":"Mooste",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

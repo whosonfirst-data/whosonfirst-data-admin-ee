@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kiiu-Aabla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000636,
-    "geom:area_square_m":3981800.541098,
+    "geom:area_square_m":3981800.5411,
     "geom:bbox":"25.50477,59.568592,25.563492,59.595513",
     "geom:latitude":59.583703,
     "geom:longitude":25.533352,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3055
+        "ee-mamt:okood":"3055"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226553677
     ],
     "wof:country":"EE",
     "wof:created":1595459053,
-    "wof:geomhash":"9dccbd32abe4fac5d16081fc58b4ea30",
+    "wof:geomhash":"1f9c389ef7c998c310a34207df5014cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661812,
+    "wof:lastmodified":1695876777,
     "wof:name":"Kiiu-Aabla",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

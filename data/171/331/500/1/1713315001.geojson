@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Silla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003961,
-    "geom:area_square_m":25344382.340712,
+    "geom:area_square_m":25344382.340716,
     "geom:bbox":"24.064675,58.800805,24.192611,58.864861",
     "geom:latitude":58.840136,
     "geom:longitude":24.12854,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7589
+        "ee-mamt:okood":"7589"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293481671
     ],
     "wof:country":"EE",
     "wof:created":1595461111,
-    "wof:geomhash":"7d245ecf729599141542c68aaeeba2e6",
+    "wof:geomhash":"7dde221a91a2dea07e6677637172fd37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677214,
+    "wof:lastmodified":1695876991,
     "wof:name":"Silla",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

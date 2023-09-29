@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Levala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00082,
-    "geom:area_square_m":5271497.231223,
+    "geom:area_square_m":5271497.231228,
     "geom:bbox":"26.765252,58.679866,26.811302,58.709572",
     "geom:latitude":58.694297,
     "geom:longitude":26.788095,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4308
+        "ee-mamt:okood":"4308"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344261773
     ],
     "wof:country":"EE",
     "wof:created":1595460559,
-    "wof:geomhash":"bb9af0bda955c6f303832d9de61fd608",
+    "wof:geomhash":"463e7eb5e85fb07ffcdd900b1eac28cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660975,
+    "wof:lastmodified":1695876741,
     "wof:name":"Levala",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

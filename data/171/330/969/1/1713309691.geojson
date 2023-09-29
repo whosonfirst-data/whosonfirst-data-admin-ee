@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Irta K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000206,
-    "geom:area_square_m":1329203.42432,
+    "geom:area_square_m":1329203.424321,
     "geom:bbox":"24.110538,58.541856,24.135524,58.558552",
     "geom:latitude":58.55096,
     "geom:longitude":24.123438,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2102
+        "ee-mamt:okood":"2102"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226120793
     ],
     "wof:country":"EE",
     "wof:created":1595459952,
-    "wof:geomhash":"7664c585d2e162d716b97a7fe085d883",
+    "wof:geomhash":"c4034579e8be4d4f8534a15fdbf39e89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661650,
+    "wof:lastmodified":1695876772,
     "wof:name":"Irta",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

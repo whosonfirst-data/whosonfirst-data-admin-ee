@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u00fclaoru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00127,
-    "geom:area_square_m":8381434.393565,
+    "geom:area_square_m":8381434.393563,
     "geom:bbox":"27.24031,57.733659,27.336018,57.760152",
     "geom:latitude":57.747303,
     "geom:longitude":27.283274,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3981
+        "ee-mamt:okood":"3981"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125880399
     ],
     "wof:country":"EE",
     "wof:created":1595461398,
-    "wof:geomhash":"e78b1498e560fc670f2920f3e7d5824e",
+    "wof:geomhash":"1899a82bf4249450fb7724f34f92f107",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660256,
+    "wof:lastmodified":1695876724,
     "wof:name":"K\u00fclaoru",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

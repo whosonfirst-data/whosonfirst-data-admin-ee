@@ -14,7 +14,7 @@
     "geom:longitude":25.097687,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Kostivere alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3472
+        "ee-mamt:okood":"3472"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125831039
     ],
     "wof:country":"EE",
     "wof:created":1595459025,
-    "wof:geomhash":"9c999d8ef363952af8a1d6f247e77ecd",
+    "wof:geomhash":"0ccd45aa76696437b4a835cfd7342389",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661369,
+    "wof:lastmodified":1695876756,
     "wof:name":"Kostivere",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

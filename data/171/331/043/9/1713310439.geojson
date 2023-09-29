@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00088,
-    "geom:area_square_m":5748861.867661,
+    "geom:area_square_m":5748861.867663,
     "geom:bbox":"26.018504,58.099535,26.075655,58.123287",
     "geom:latitude":58.112045,
     "geom:longitude":26.041428,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2772
+        "ee-mamt:okood":"2772"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343227607
     ],
     "wof:country":"EE",
     "wof:created":1595460121,
-    "wof:geomhash":"a6abefb9aac004493cc4749f77f93f9c",
+    "wof:geomhash":"c8691e827b5ca38072663c4e544ccef9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661423,
+    "wof:lastmodified":1695876758,
     "wof:name":"Karu",
     "wof:parent_id":1713305687,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"H\u00fcrova K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000441,
-    "geom:area_square_m":2917497.349491,
+    "geom:area_square_m":2917497.349493,
     "geom:bbox":"26.579805,57.616198,26.615522,57.647309",
     "geom:latitude":57.628755,
     "geom:longitude":26.598711,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1968
+        "ee-mamt:okood":"1968"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260353517
     ],
     "wof:country":"EE",
     "wof:created":1595461102,
-    "wof:geomhash":"707242a3bf1dcb5e4d758a6dd27a8791",
+    "wof:geomhash":"2ed78711fa78d29c7df38439b0828c1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676836,
+    "wof:lastmodified":1695876962,
     "wof:name":"H\u00fcrova",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

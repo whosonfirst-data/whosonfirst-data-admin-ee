@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Salaj\u0151e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00137,
-    "geom:area_square_m":8716230.191023,
+    "geom:area_square_m":8716230.191019,
     "geom:bbox":"23.576419,59.010162,23.669676,59.04394",
     "geom:latitude":59.027492,
     "geom:longitude":23.624079,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7369
+        "ee-mamt:okood":"7369"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327131249
     ],
     "wof:country":"EE",
     "wof:created":1595459814,
-    "wof:geomhash":"08203a9d0e8e9c4ca610fd3fb62cb0d5",
+    "wof:geomhash":"8e5c38cc50dd81ac4ce42b7824253d43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677179,
+    "wof:lastmodified":1695876986,
     "wof:name":"Salaj\u0151e",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

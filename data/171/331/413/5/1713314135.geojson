@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Arjassaare K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00098,
-    "geom:area_square_m":6299500.430801,
+    "geom:area_square_m":6299500.430799,
     "geom:bbox":"25.733765,58.652106,25.786535,58.690097",
     "geom:latitude":58.672755,
     "geom:longitude":25.767203,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1356
+        "ee-mamt:okood":"1356"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310476193
     ],
     "wof:country":"EE",
     "wof:created":1595460910,
-    "wof:geomhash":"d63afc0dddf74b32a37f752e0ba2b2ef",
+    "wof:geomhash":"d13aad89c73e91db022bf7027e31ca8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663444,
+    "wof:lastmodified":1695876830,
     "wof:name":"Arjassaare",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

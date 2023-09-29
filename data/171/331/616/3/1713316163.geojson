@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Navik\u0151 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000272,
-    "geom:area_square_m":1792692.871423,
+    "geom:area_square_m":1792692.871421,
     "geom:bbox":"27.356318,57.797343,27.388811,57.81494",
     "geom:latitude":57.805266,
     "geom:longitude":27.373131,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5376
+        "ee-mamt:okood":"5376"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209178585
     ],
     "wof:country":"EE",
     "wof:created":1595461371,
-    "wof:geomhash":"708c51cf9b2d4007274e9a220e761c13",
+    "wof:geomhash":"8e52d3b1245cceec0a3171239e1b5aea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663664,
+    "wof:lastmodified":1695876844,
     "wof:name":"Navik\u0151",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

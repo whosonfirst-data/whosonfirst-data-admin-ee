@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kirump\u00e4\u00e4 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000548,
-    "geom:area_square_m":3606476.169309,
+    "geom:area_square_m":3606476.169308,
     "geom:bbox":"26.97427,57.852396,27.022949,57.877947",
     "geom:latitude":57.86565,
     "geom:longitude":26.99709,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3153
+        "ee-mamt:okood":"3153"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126057063
     ],
     "wof:country":"EE",
     "wof:created":1595461400,
-    "wof:geomhash":"073833c2bb62cc7b0057b4913864aec2",
+    "wof:geomhash":"ba82be655948154e21280ccd15d2afe7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660236,
+    "wof:lastmodified":1695876722,
     "wof:name":"Kirump\u00e4\u00e4",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

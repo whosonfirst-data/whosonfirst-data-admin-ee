@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kahkva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001391,
-    "geom:area_square_m":9112015.824464,
+    "geom:area_square_m":9112015.824454,
     "geom:bbox":"27.453186,57.975131,27.501297,58.027743",
     "geom:latitude":58.005079,
     "geom:longitude":27.473594,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2512
+        "ee-mamt:okood":"2512"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293870947
     ],
     "wof:country":"EE",
     "wof:created":1595461329,
-    "wof:geomhash":"8114f80772d2dd9863d520c63d9d3ac2",
+    "wof:geomhash":"c93138074c28fa15c5ce0fb7a012e8b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663632,
+    "wof:lastmodified":1695876836,
     "wof:name":"Kahkva",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

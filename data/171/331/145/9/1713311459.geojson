@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Velisem\u0151isa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000511,
-    "geom:area_square_m":3272824.745234,
+    "geom:area_square_m":3272824.745235,
     "geom:bbox":"24.434597,58.764272,24.490241,58.782961",
     "geom:latitude":58.774025,
     "geom:longitude":24.465558,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9187
+        "ee-mamt:okood":"9187"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259769551
     ],
     "wof:country":"EE",
     "wof:created":1595460340,
-    "wof:geomhash":"b249851f19ae17d264b3df65d589fe71",
+    "wof:geomhash":"7d05fd26abc4440b97b7273abfda3615",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662823,
+    "wof:lastmodified":1695876804,
     "wof:name":"Velisem\u0151isa",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

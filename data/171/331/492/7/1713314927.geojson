@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaloga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000143,
-    "geom:area_square_m":945525.516194,
+    "geom:area_square_m":945525.516193,
     "geom:bbox":"27.031417,57.743843,27.066263,57.752653",
     "geom:latitude":57.747773,
     "geom:longitude":27.046588,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2625
+        "ee-mamt:okood":"2625"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461095,
-    "wof:geomhash":"537fb26815c9d2acf1c5237f9d10dabd",
+    "wof:geomhash":"6181d6bc8af78023b965a24bb39b00b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676829,
+    "wof:lastmodified":1695876959,
     "wof:name":"Kaloga",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

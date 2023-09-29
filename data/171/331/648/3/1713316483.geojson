@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sandi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000385,
-    "geom:area_square_m":2542909.447209,
+    "geom:area_square_m":2542909.447208,
     "geom:bbox":"27.213533,57.657375,27.248048,57.679343",
     "geom:latitude":57.668807,
     "geom:longitude":27.229483,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7411
+        "ee-mamt:okood":"7411"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260139191
     ],
     "wof:country":"EE",
     "wof:created":1595461436,
-    "wof:geomhash":"8aaa6ec654c1e597538fffb39c91cecc",
+    "wof:geomhash":"cff3e7163f4a7a871596845689e2df86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676838,
+    "wof:lastmodified":1695876962,
     "wof:name":"Sandi",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

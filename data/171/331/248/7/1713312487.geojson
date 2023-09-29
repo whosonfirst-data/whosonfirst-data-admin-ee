@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rannam\u0151isa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001036,
-    "geom:area_square_m":6518459.932866,
+    "geom:area_square_m":6518459.932864,
     "geom:bbox":"24.490732,59.407601,24.546699,59.447054",
     "geom:latitude":59.427943,
     "geom:longitude":24.516426,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6814
+        "ee-mamt:okood":"6814"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125921799
     ],
     "wof:country":"EE",
     "wof:created":1595460555,
-    "wof:geomhash":"6866e3dd860df30749849ab2a0f542d4",
+    "wof:geomhash":"f92bd61aafee70a8114a39e6c738c4c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661444,
+    "wof:lastmodified":1695876760,
     "wof:name":"Rannam\u0151isa",
     "wof:parent_id":1713305681,
     "wof:placetype":"localadmin",

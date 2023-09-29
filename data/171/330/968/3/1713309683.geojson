@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u0151rdu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00048,
-    "geom:area_square_m":3093415.786888,
+    "geom:area_square_m":3093415.786889,
     "geom:bbox":"24.463809,58.575085,24.499493,58.599726",
     "geom:latitude":58.590079,
     "geom:longitude":24.479892,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8510
+        "ee-mamt:okood":"8510"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226523469
     ],
     "wof:country":"EE",
     "wof:created":1595459951,
-    "wof:geomhash":"be3738450c0f49e86c02e436ec35c270",
+    "wof:geomhash":"a6e3478f47aa90b67e29968a5cf3af42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663404,
+    "wof:lastmodified":1695876823,
     "wof:name":"T\u0151rdu",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

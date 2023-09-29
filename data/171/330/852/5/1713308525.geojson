@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Varpe K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001807,
-    "geom:area_square_m":11749463.05524,
+    "geom:area_square_m":11749463.055242,
     "geom:bbox":"22.020197,58.248337,22.119565,58.284843",
     "geom:latitude":58.265453,
     "geom:longitude":22.069487,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9093
+        "ee-mamt:okood":"9093"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260369155
     ],
     "wof:country":"EE",
     "wof:created":1595459666,
-    "wof:geomhash":"e0b121e9f8e6336ff2a7ae0510eb52db",
+    "wof:geomhash":"c6813ed811cc2a1ddafd343ee7caf23e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671837,
+    "wof:lastmodified":1695876872,
     "wof:name":"Varpe",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

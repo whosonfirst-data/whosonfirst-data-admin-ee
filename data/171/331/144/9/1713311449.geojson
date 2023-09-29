@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Terikeste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00205,
-    "geom:area_square_m":13319113.849149,
+    "geom:area_square_m":13319113.849148,
     "geom:bbox":"27.059904,58.269301,27.133762,58.32792",
     "geom:latitude":58.299886,
     "geom:longitude":27.095877,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8201
+        "ee-mamt:okood":"8201"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293258475
     ],
     "wof:country":"EE",
     "wof:created":1595460338,
-    "wof:geomhash":"d6f6e962d409391497d79ddb4885f43d",
+    "wof:geomhash":"1bfb7d535fb16b5d153e343767f4a7bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660651,
+    "wof:lastmodified":1695876729,
     "wof:name":"Terikeste",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

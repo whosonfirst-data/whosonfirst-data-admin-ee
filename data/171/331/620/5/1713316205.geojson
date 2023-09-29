@@ -8,7 +8,7 @@
     "ee-mamt:animi":"S\u0151merpalu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001535,
-    "geom:area_square_m":10098127.829373,
+    "geom:area_square_m":10098127.829372,
     "geom:bbox":"26.759847,57.839464,26.846585,57.878062",
     "geom:latitude":57.859249,
     "geom:longitude":26.805075,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7888
+        "ee-mamt:okood":"7888"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461379,
-    "wof:geomhash":"aaef75f3fdd5afa85d4e912a31083688",
+    "wof:geomhash":"c79c81d38826985480015a370820cae8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660226,
+    "wof:lastmodified":1695876721,
     "wof:name":"S\u0151merpalu",
     "wof:parent_id":1713305633,
     "wof:placetype":"localadmin",

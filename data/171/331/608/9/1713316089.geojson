@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Miku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000151,
-    "geom:area_square_m":995603.021169,
+    "geom:area_square_m":995603.02117,
     "geom:bbox":"27.40423,57.820062,27.421514,57.838886",
     "geom:latitude":57.828763,
     "geom:longitude":27.411339,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4950
+        "ee-mamt:okood":"4950"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461355,
-    "wof:geomhash":"db4f1793f2ebfce3fb5346d125893740",
+    "wof:geomhash":"b7e6de03c288117f9181f6002bc6036f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663666,
+    "wof:lastmodified":1695876844,
     "wof:name":"Miku",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

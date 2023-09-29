@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000791,
-    "geom:area_square_m":5025248.607913,
+    "geom:area_square_m":5025248.607912,
     "geom:bbox":"26.028326,59.0586,26.093146,59.081693",
     "geom:latitude":59.072342,
     "geom:longitude":26.062369,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1047
+        "ee-mamt:okood":"1047"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226772047
     ],
     "wof:country":"EE",
     "wof:created":1595460426,
-    "wof:geomhash":"fcceaa4549a7fc3350447e48d548146f",
+    "wof:geomhash":"f189208a8fc965b62f93839eeb70710a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676527,
+    "wof:lastmodified":1695876918,
     "wof:name":"Aavere",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

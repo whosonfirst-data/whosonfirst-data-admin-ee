@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sigula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002212,
-    "geom:area_square_m":13909685.97767,
+    "geom:area_square_m":13909685.977669,
     "geom:bbox":"25.556063,59.424019,25.657208,59.460157",
     "geom:latitude":59.439171,
     "geom:longitude":25.60391,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7562
+        "ee-mamt:okood":"7562"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293108297
     ],
     "wof:country":"EE",
     "wof:created":1595459050,
-    "wof:geomhash":"d44bed20e8cd95d5343f31f37b6b352e",
+    "wof:geomhash":"3eb7d8f25e109709b0ad346719551af6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661806,
+    "wof:lastmodified":1695876776,
     "wof:name":"Sigula",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

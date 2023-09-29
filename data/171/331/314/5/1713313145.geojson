@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aarna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003704,
-    "geom:area_square_m":24218236.568479,
+    "geom:area_square_m":24218236.568494,
     "geom:bbox":"26.931113,58.047899,27.016344,58.125493",
     "geom:latitude":58.081726,
     "geom:longitude":26.966266,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1027
+        "ee-mamt:okood":"1027"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125767833
     ],
     "wof:country":"EE",
     "wof:created":1595460700,
-    "wof:geomhash":"f75f2dc1f964134d06d6e6bae4c7ed27",
+    "wof:geomhash":"24577301e8c0137eced70f7189b92ed2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676951,
+    "wof:lastmodified":1695876974,
     "wof:name":"Aarna",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Manija K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00033,
-    "geom:area_square_m":2150453.76293,
+    "geom:area_square_m":2150453.762933,
     "geom:bbox":"24.099662,58.172527,24.201046,58.234604",
     "geom:latitude":58.214084,
     "geom:longitude":24.124454,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4771
+        "ee-mamt:okood":"4771"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125983849
     ],
     "wof:country":"EE",
     "wof:created":1595460050,
-    "wof:geomhash":"a48e0f4959c463e25c767327a7a70455",
+    "wof:geomhash":"7a8e5d269fb0114cb3c2b0a080043d5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677671,
+    "wof:lastmodified":1695876992,
     "wof:name":"Manija",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

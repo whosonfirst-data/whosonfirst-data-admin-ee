@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u0151nnaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003841,
-    "geom:area_square_m":24955066.778555,
+    "geom:area_square_m":24955066.778554,
     "geom:bbox":"25.790967,58.268607,25.860164,58.344734",
     "geom:latitude":58.307079,
     "geom:longitude":25.82549,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5152
+        "ee-mamt:okood":"5152"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125858293
     ],
     "wof:country":"EE",
     "wof:created":1595459973,
-    "wof:geomhash":"ec6d98bc2245fa5eca0de69c32150435",
+    "wof:geomhash":"c26f64742d70dbcafcf41791fffaf12c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661229,
+    "wof:lastmodified":1695876747,
     "wof:name":"M\u0151nnaste",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

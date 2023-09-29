@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaisvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000537,
-    "geom:area_square_m":3483606.475196,
+    "geom:area_square_m":3483606.475193,
     "geom:bbox":"22.450589,58.353766,22.484512,58.385565",
     "geom:latitude":58.366973,
     "geom:longitude":22.467509,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2548
+        "ee-mamt:okood":"2548"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326909271
     ],
     "wof:country":"EE",
     "wof:created":1595459396,
-    "wof:geomhash":"c25fabecdba3cc43f26bac8f23bb1d6d",
+    "wof:geomhash":"4d31370e9f547a325cddd6cd7283e75c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672360,
+    "wof:lastmodified":1695876891,
     "wof:name":"Kaisvere",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Alaj\u0151e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001996,
-    "geom:area_square_m":12881753.517973,
+    "geom:area_square_m":12881753.517976,
     "geom:bbox":"26.910264,58.511977,26.981084,58.556996",
     "geom:latitude":58.536167,
     "geom:longitude":26.94324,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1166
+        "ee-mamt:okood":"1166"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1344021279
     ],
     "wof:country":"EE",
     "wof:created":1595459851,
-    "wof:geomhash":"a686ff2e19ddae808ba47c88c2663c73",
+    "wof:geomhash":"bcd9be35a86e24b05520a17489bab9b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660860,
+    "wof:lastmodified":1695876739,
     "wof:name":"Alaj\u0151e",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

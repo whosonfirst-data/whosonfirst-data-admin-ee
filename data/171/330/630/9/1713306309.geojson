@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kose-Uuem\u0151isa Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000232,
-    "geom:area_square_m":1468873.66794,
+    "geom:area_square_m":1468873.667941,
     "geom:bbox":"25.089345,59.195054,25.121824,59.209691",
     "geom:latitude":59.202168,
     "geom:longitude":25.105589,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Kose-Uuem\u0151isa alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3464
+        "ee-mamt:okood":"3464"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815169
     ],
     "wof:country":"EE",
     "wof:created":1595459127,
-    "wof:geomhash":"94606ff21877db783fd856dce9970b9c",
+    "wof:geomhash":"cc0c278f835f220c48832da727c41fae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661343,
+    "wof:lastmodified":1695876755,
     "wof:name":"Kose-Uuem\u0151isa",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

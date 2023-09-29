@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kilingi-N\u0151mme Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.000656,
-    "geom:area_square_m":4281952.137544,
+    "geom:area_square_m":4281952.137546,
     "geom:bbox":"24.910766,58.141125,24.992027,58.165772",
     "geom:latitude":58.151112,
     "geom:longitude":24.960229,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Kilingi-N\u0151mme linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3083
+        "ee-mamt:okood":"3083"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101816263
     ],
     "wof:country":"EE",
     "wof:created":1595459897,
-    "wof:geomhash":"8dbe39c2bec804e3de4bdf79d926fa60",
+    "wof:geomhash":"5fafe3a1b8012d8fc1458d89af866e14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677726,
+    "wof:lastmodified":1695876997,
     "wof:name":"Kilingi-N\u0151mme",
     "wof:parent_id":1713305705,
     "wof:placetype":"localadmin",

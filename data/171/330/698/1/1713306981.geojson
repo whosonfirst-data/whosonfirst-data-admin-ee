@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pajum\u0151isa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001273,
-    "geom:area_square_m":8256599.187762,
+    "geom:area_square_m":8256599.18776,
     "geom:bbox":"22.045913,58.35584,22.113586,58.393997",
     "geom:latitude":58.376109,
     "geom:longitude":22.079361,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5890
+        "ee-mamt:okood":"5890"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459293,
-    "wof:geomhash":"541d14e06d73d47ec5c3077fdf573625",
+    "wof:geomhash":"fa9e0fcb753ee177eab16ab906d5d709",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672084,
+    "wof:lastmodified":1695876880,
     "wof:name":"Pajum\u0151isa",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

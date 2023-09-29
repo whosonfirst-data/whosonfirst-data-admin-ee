@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Padak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000727,
-    "geom:area_square_m":4626659.687891,
+    "geom:area_square_m":4626659.68789,
     "geom:bbox":"26.145102,59.022982,26.192146,59.05357",
     "geom:latitude":59.039687,
     "geom:longitude":26.171965,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5805
+        "ee-mamt:okood":"5805"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1327419263
     ],
     "wof:country":"EE",
     "wof:created":1595460447,
-    "wof:geomhash":"63805756a013be913a12ca3d01781a32",
+    "wof:geomhash":"fbadc8280b8a07bdef871b835fb4a80d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676529,
+    "wof:lastmodified":1695876919,
     "wof:name":"Padak\u00fcla",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

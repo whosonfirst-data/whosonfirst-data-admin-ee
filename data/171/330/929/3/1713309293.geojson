@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Alatskivi Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.00029,
-    "geom:area_square_m":1870695.007887,
+    "geom:area_square_m":1870695.007888,
     "geom:bbox":"27.118106,58.593021,27.146549,58.609711",
     "geom:latitude":58.602323,
     "geom:longitude":27.132419,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Alatskivi alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1181
+        "ee-mamt:okood":"1181"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125912943
     ],
     "wof:country":"EE",
     "wof:created":1595459852,
-    "wof:geomhash":"766f77f16ee006996164bfb32e2e52c2",
+    "wof:geomhash":"97d8c9d10dfb9a58a809254afddf5df8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660863,
+    "wof:lastmodified":1695876739,
     "wof:name":"Alatskivi",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

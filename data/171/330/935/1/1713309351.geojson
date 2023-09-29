@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Roodi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001001,
-    "geom:area_square_m":6447162.631187,
+    "geom:area_square_m":6447162.631186,
     "geom:bbox":"24.380472,58.603875,24.441877,58.654779",
     "geom:latitude":58.624104,
     "geom:longitude":24.418804,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7061
+        "ee-mamt:okood":"7061"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343442201
     ],
     "wof:country":"EE",
     "wof:created":1595459866,
-    "wof:geomhash":"77222452ddbf83fb3705d2ab9bc0b1f8",
+    "wof:geomhash":"436e8128add136494d4fe7e4bdf06a8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663404,
+    "wof:lastmodified":1695876823,
     "wof:name":"Roodi",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

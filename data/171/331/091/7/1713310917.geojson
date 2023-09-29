@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u00e4nnassilma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00163,
-    "geom:area_square_m":10669179.571113,
+    "geom:area_square_m":10669179.571114,
     "geom:bbox":"26.967171,58.008277,27.029507,58.056225",
     "geom:latitude":58.033154,
     "geom:longitude":27.000517,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8574
+        "ee-mamt:okood":"8574"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125767779
     ],
     "wof:country":"EE",
     "wof:created":1595460227,
-    "wof:geomhash":"8623d126fd3f3f8815ecef1e3715b42c",
+    "wof:geomhash":"b43a50978bf33134b0d807d8bbb388f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676949,
+    "wof:lastmodified":1695876974,
     "wof:name":"T\u00e4nnassilma",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

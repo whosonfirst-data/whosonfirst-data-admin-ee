@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kolkja Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000608,
-    "geom:area_square_m":3924670.953805,
+    "geom:area_square_m":3924670.953807,
     "geom:bbox":"27.181753,58.531142,27.230764,58.559529",
     "geom:latitude":58.54674,
     "geom:longitude":27.210726,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Kolkja alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3350
+        "ee-mamt:okood":"3350"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126003747
     ],
     "wof:country":"EE",
     "wof:created":1595459891,
-    "wof:geomhash":"2e1e44035d5832840ffe8a8287e2dcd1",
+    "wof:geomhash":"bc34a94eb07ed521b1ac7f8ccbc3ad60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660845,
+    "wof:lastmodified":1695876737,
     "wof:name":"Kolkja",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

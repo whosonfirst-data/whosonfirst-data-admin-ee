@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kuninga K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001541,
-    "geom:area_square_m":10011148.827955,
+    "geom:area_square_m":10011148.827951,
     "geom:bbox":"25.321254,58.282177,25.410805,58.327257",
     "geom:latitude":58.300124,
     "geom:longitude":25.35769,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3619
+        "ee-mamt:okood":"3619"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259557995
     ],
     "wof:country":"EE",
     "wof:created":1595460889,
-    "wof:geomhash":"3c9bc34bea3222b23496aec155ad85da",
+    "wof:geomhash":"5b0fe514ed610fef9f7d875b2f385f52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663449,
+    "wof:lastmodified":1695876831,
     "wof:name":"Kuninga",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

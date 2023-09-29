@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Ambla Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000528,
-    "geom:area_square_m":3346685.751164,
+    "geom:area_square_m":3346685.751166,
     "geom:bbox":"25.823695,59.186371,25.876593,59.204264",
     "geom:latitude":59.194834,
     "geom:longitude":25.852501,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Ambla alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1250
+        "ee-mamt:okood":"1250"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125928111
     ],
     "wof:country":"EE",
     "wof:created":1595461149,
-    "wof:geomhash":"877c0ad5be52a458b7a595e4a27ffcfa",
+    "wof:geomhash":"2ba370a0390affe243f759b94d525c87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676632,
+    "wof:lastmodified":1695876934,
     "wof:name":"Ambla",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

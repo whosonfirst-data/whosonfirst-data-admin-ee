@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kraavi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001274,
-    "geom:area_square_m":8383882.959326,
+    "geom:area_square_m":8383882.959322,
     "geom:bbox":"26.529254,57.830458,26.585174,57.869676",
     "geom:latitude":57.849635,
     "geom:longitude":26.554971,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3486
+        "ee-mamt:okood":"3486"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125971885
     ],
     "wof:country":"EE",
     "wof:created":1595460255,
-    "wof:geomhash":"45fa49afcc9f1c912fc6be17a837d251",
+    "wof:geomhash":"d4ac7f0b99185aede4e7930fc2790c1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677012,
+    "wof:lastmodified":1695876981,
     "wof:name":"Kraavi",
     "wof:parent_id":1713305795,
     "wof:placetype":"localadmin",

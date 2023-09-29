@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Popovitsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000192,
-    "geom:area_square_m":1259584.180041,
+    "geom:area_square_m":1259584.180042,
     "geom:bbox":"27.629243,57.9861,27.654426,58.002271",
     "geom:latitude":57.994617,
     "geom:longitude":27.643937,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6326
+        "ee-mamt:okood":"6326"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595461345,
-    "wof:geomhash":"34e621c622c40943f052b3b7af465b4f",
+    "wof:geomhash":"dfb8a79597f0cae4b273903124f5ac37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663657,
+    "wof:lastmodified":1695876842,
     "wof:name":"Popovitsa",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

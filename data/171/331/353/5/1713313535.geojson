@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Astuvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001026,
-    "geom:area_square_m":6704661.003955,
+    "geom:area_square_m":6704661.003956,
     "geom:bbox":"26.290207,58.081462,26.344696,58.112635",
     "geom:latitude":58.096692,
     "geom:longitude":26.317495,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1418
+        "ee-mamt:okood":"1418"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343727743
     ],
     "wof:country":"EE",
     "wof:created":1595460782,
-    "wof:geomhash":"7ee9a52d00fd4bae739ea6010d4671bf",
+    "wof:geomhash":"f9477fb9c42b38288d59c1159615573d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661906,
+    "wof:lastmodified":1695876788,
     "wof:name":"Astuvere",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

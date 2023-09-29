@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Luuri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001056,
-    "geom:area_square_m":6790546.624745,
+    "geom:area_square_m":6790546.624742,
     "geom:bbox":"24.921234,58.641036,24.974022,58.683033",
     "geom:latitude":58.661155,
     "geom:longitude":24.950204,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4586
+        "ee-mamt:okood":"4586"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343349665
     ],
     "wof:country":"EE",
     "wof:created":1595459882,
-    "wof:geomhash":"5456089ecc4a10773e23de61cca84852",
+    "wof:geomhash":"49a29629022b0f811fedf306202f2247",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663410,
+    "wof:lastmodified":1695876825,
     "wof:name":"Luuri",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

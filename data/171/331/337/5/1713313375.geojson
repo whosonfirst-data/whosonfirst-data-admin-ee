@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kooraste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002572,
-    "geom:area_square_m":16864760.45251,
+    "geom:area_square_m":16864760.452511,
     "geom:bbox":"26.577779,57.954919,26.672193,58.001782",
     "geom:latitude":57.978378,
     "geom:longitude":26.62355,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3415
+        "ee-mamt:okood":"3415"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293676193
     ],
     "wof:country":"EE",
     "wof:created":1595460749,
-    "wof:geomhash":"a4b6ca29d741b75b88bc61d0d0a1d8dc",
+    "wof:geomhash":"c4067b7c13cd1454a84b60dee2e0c141",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676777,
+    "wof:lastmodified":1695876950,
     "wof:name":"Kooraste",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

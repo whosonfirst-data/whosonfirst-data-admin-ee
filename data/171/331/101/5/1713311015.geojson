@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Peri K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001051,
-    "geom:area_square_m":6885653.072743,
+    "geom:area_square_m":6885653.07274,
     "geom:bbox":"27.074543,58.002319,27.131866,58.030689",
     "geom:latitude":58.01768,
     "geom:longitude":27.103959,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6120
+        "ee-mamt:okood":"6120"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125956473
     ],
     "wof:country":"EE",
     "wof:created":1595460247,
-    "wof:geomhash":"71cd8c0adf2cd2abf36189a2bf59eba8",
+    "wof:geomhash":"d058bbec42d2211e74d2670d55c0ec71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676941,
+    "wof:lastmodified":1695876972,
     "wof:name":"Peri",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

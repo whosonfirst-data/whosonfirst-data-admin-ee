@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u00f6strim\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00145,
-    "geom:area_square_m":9469055.001241,
+    "geom:area_square_m":9469055.00124,
     "geom:bbox":"27.392165,58.092534,27.498082,58.127181",
     "geom:latitude":58.114314,
     "geom:longitude":27.445455,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3963
+        "ee-mamt:okood":"3963"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343937943
     ],
     "wof:country":"EE",
     "wof:created":1595460259,
-    "wof:geomhash":"a65f19ca3cce43c4de8f9f0a53ae221c",
+    "wof:geomhash":"b24003e6eb331c2269049d21811ba681",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676984,
+    "wof:lastmodified":1695876978,
     "wof:name":"K\u00f6strim\u00e4e",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

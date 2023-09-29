@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vaivina K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002182,
-    "geom:area_square_m":13742248.783022,
+    "geom:area_square_m":13742248.783026,
     "geom:bbox":"27.61735,59.339108,27.685155,59.415892",
     "geom:latitude":59.384853,
     "geom:longitude":27.658795,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8900
+        "ee-mamt:okood":"8900"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226653501
     ],
     "wof:country":"EE",
     "wof:created":1595459239,
-    "wof:geomhash":"4884e238a5da46b2032b411080c1121e",
+    "wof:geomhash":"a69e67b6c54a7204d3c6913c5326a8ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676905,
+    "wof:lastmodified":1695876970,
     "wof:name":"Vaivina",
     "wof:parent_id":1713305783,
     "wof:placetype":"localadmin",

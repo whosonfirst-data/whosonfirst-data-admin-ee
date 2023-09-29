@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rebase K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000548,
-    "geom:area_square_m":3566904.52681,
+    "geom:area_square_m":3566904.526809,
     "geom:bbox":"26.786025,58.219244,26.820826,58.245195",
     "geom:latitude":58.23144,
     "geom:longitude":26.802189,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6884
+        "ee-mamt:okood":"6884"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935877
     ],
     "wof:country":"EE",
     "wof:created":1595459711,
-    "wof:geomhash":"3887cbe99f8149f6d4a85a5c39928fe9",
+    "wof:geomhash":"d29c52ada018d1f2f108fda8dea88c6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676683,
+    "wof:lastmodified":1695876938,
     "wof:name":"Rebase",
     "wof:parent_id":1713305717,
     "wof:placetype":"localadmin",

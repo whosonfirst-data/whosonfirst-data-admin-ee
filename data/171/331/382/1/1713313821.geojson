@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Viluvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.01151,
-    "geom:area_square_m":74096139.910636,
+    "geom:area_square_m":74096139.910637,
     "geom:bbox":"24.791647,58.539211,24.924133,58.698443",
     "geom:latitude":58.626327,
     "geom:longitude":24.851057,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9372
+        "ee-mamt:okood":"9372"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209292561
     ],
     "wof:country":"EE",
     "wof:created":1595460844,
-    "wof:geomhash":"bb16af970f8e65b2a876f05962bff961",
+    "wof:geomhash":"4d8b1e0444000d2a8eb5b76ac38368a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663415,
+    "wof:lastmodified":1695876826,
     "wof:name":"Viluvere",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",

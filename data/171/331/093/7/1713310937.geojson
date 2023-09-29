@@ -8,7 +8,7 @@
     "ee-mamt:animi":"S\u00fcvahavva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001164,
-    "geom:area_square_m":7630852.225109,
+    "geom:area_square_m":7630852.225108,
     "geom:bbox":"27.199454,57.962868,27.254882,58.002653",
     "geom:latitude":57.985018,
     "geom:longitude":27.230511,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7981
+        "ee-mamt:okood":"7981"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276320715
     ],
     "wof:country":"EE",
     "wof:created":1595460231,
-    "wof:geomhash":"78eabbcd66ef1f5a47bb0a02360ebf00",
+    "wof:geomhash":"1cace164eac0c3d4890f486558b0728c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676979,
+    "wof:lastmodified":1695876976,
     "wof:name":"S\u00fcvahavva",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

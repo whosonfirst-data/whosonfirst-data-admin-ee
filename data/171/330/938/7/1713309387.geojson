@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Allika K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000816,
-    "geom:area_square_m":5279014.293582,
+    "geom:area_square_m":5279014.293585,
     "geom:bbox":"23.709536,58.453342,23.787992,58.474826",
     "geom:latitude":58.465276,
     "geom:longitude":23.74742,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1204
+        "ee-mamt:okood":"1204"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343836387
     ],
     "wof:country":"EE",
     "wof:created":1595459875,
-    "wof:geomhash":"5ac6b92d3576b07a90200772407d423c",
+    "wof:geomhash":"21353f2fa7f0a560b1d2dd4234cf900a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661590,
+    "wof:lastmodified":1695876767,
     "wof:name":"Allika",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

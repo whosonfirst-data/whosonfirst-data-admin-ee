@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Veskitaguse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00065,
-    "geom:area_square_m":4100833.081804,
+    "geom:area_square_m":4100833.081808,
     "geom:bbox":"24.943811,59.302981,24.980577,59.338293",
     "geom:latitude":59.3204,
     "geom:longitude":24.960208,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9236
+        "ee-mamt:okood":"9236"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310605249
     ],
     "wof:country":"EE",
     "wof:created":1595459022,
-    "wof:geomhash":"0ee317bf0c8b5d4a002097c9272d9688",
+    "wof:geomhash":"7d27efd22e92419b24a55e0a34857c4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661468,
+    "wof:lastmodified":1695876761,
     "wof:name":"Veskitaguse",
     "wof:parent_id":1713305683,
     "wof:placetype":"localadmin",

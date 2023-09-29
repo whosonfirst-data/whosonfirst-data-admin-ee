@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pikevere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002176,
-    "geom:area_square_m":13834028.678698,
+    "geom:area_square_m":13834028.6787,
     "geom:bbox":"26.016837,59.031714,26.145926,59.073564",
     "geom:latitude":59.054173,
     "geom:longitude":26.072875,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6230
+        "ee-mamt:okood":"6230"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890413
     ],
     "wof:country":"EE",
     "wof:created":1595460983,
-    "wof:geomhash":"588cd145d1a238eaefe225d0729fa0d2",
+    "wof:geomhash":"1c608b0b908a93b35d7dc261474575a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676535,
+    "wof:lastmodified":1695876921,
     "wof:name":"Pikevere",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

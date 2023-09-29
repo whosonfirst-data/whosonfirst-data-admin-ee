@@ -66,10 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":708,
+        "ee-mamt:okood":"708",
         "eg:gisco_id":"EE_0708",
         "eurostat:nuts_2021_id":"0708"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595451918,
     "wof:geomhash":"fecbba276061d8d7183e7db897b06975",
@@ -88,7 +89,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1684352201,
+    "wof:lastmodified":1695886740,
     "wof:name":"R\u00e4pina",
     "wof:parent_id":85682955,
     "wof:placetype":"county",

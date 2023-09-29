@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mustoja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000758,
-    "geom:area_square_m":4745223.43103,
+    "geom:area_square_m":4745223.431029,
     "geom:bbox":"26.132611,59.560142,26.196425,59.5856",
     "geom:latitude":59.57593,
     "geom:longitude":26.157123,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5091
+        "ee-mamt:okood":"5091"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259774119
     ],
     "wof:country":"EE",
     "wof:created":1595459634,
-    "wof:geomhash":"d8b9c8f3a2c462e5795132958a903030",
+    "wof:geomhash":"320a3ed044aafa296189a24811e2bd65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596678016,
+    "wof:lastmodified":1695877009,
     "wof:name":"Mustoja",
     "wof:parent_id":1713305775,
     "wof:placetype":"localadmin",

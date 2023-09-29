@@ -8,13 +8,13 @@
     "ee-mamt:animi":"L\u00fcganuse Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.001892,
-    "geom:area_square_m":11918756.091971,
+    "geom:area_square_m":11918756.091969,
     "geom:bbox":"27.008791,59.356682,27.118547,59.399642",
     "geom:latitude":59.373359,
     "geom:longitude":27.054747,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "L\u00fcganuse alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4669
+        "ee-mamt:okood":"4669"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890387
     ],
     "wof:country":"EE",
     "wof:created":1595460451,
-    "wof:geomhash":"b26f2f9b943cbeb4059609038f384d05",
+    "wof:geomhash":"508e3b80c05441f2cc0b4c870b6f7040",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660771,
+    "wof:lastmodified":1695876734,
     "wof:name":"L\u00fcganuse",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

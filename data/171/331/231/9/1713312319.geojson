@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ninasi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000499,
-    "geom:area_square_m":3184667.684896,
+    "geom:area_square_m":3184667.684892,
     "geom:bbox":"26.948436,58.893482,27.009174,58.91676",
     "geom:latitude":58.90574,
     "geom:longitude":26.980666,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5430
+        "ee-mamt:okood":"5430"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343466113
     ],
     "wof:country":"EE",
     "wof:created":1595460520,
-    "wof:geomhash":"734b6b9ba97e3b62f061eb48c405fd50",
+    "wof:geomhash":"f6e8ae86aeb7b781a5770a8b0056ebe1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660970,
+    "wof:lastmodified":1695876741,
     "wof:name":"Ninasi",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

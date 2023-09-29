@@ -8,13 +8,13 @@
     "ee-mamt:animi":"\u0150isu Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000181,
-    "geom:area_square_m":1177494.966239,
+    "geom:area_square_m":1177494.96624,
     "geom:bbox":"25.534922,58.191286,25.558176,58.205528",
     "geom:latitude":58.199129,
     "geom:longitude":25.546775,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "\u0150isu alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9695
+        "ee-mamt:okood":"9695"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126057163
     ],
     "wof:country":"EE",
     "wof:created":1595460397,
-    "wof:geomhash":"2f0fee38fc956bc41e03f93ab5b982a4",
+    "wof:geomhash":"63386a8986eec35c9eb64d0ed92c9f95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661290,
+    "wof:lastmodified":1695876751,
     "wof:name":"\u0150isu",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

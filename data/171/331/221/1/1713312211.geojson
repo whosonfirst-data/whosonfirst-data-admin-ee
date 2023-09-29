@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u0151renurme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003442,
-    "geom:area_square_m":22157036.310663,
+    "geom:area_square_m":22157036.310661,
     "geom:bbox":"26.135053,58.600203,26.224173,58.658714",
     "geom:latitude":58.632768,
     "geom:longitude":26.175525,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8515
+        "ee-mamt:okood":"8515"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1260308705
     ],
     "wof:country":"EE",
     "wof:created":1595460500,
-    "wof:geomhash":"1f21bb9c8029401beea2e79a1561ddd5",
+    "wof:geomhash":"73f5f6f5b9bc5f1fc883fd505e5edf18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676489,
+    "wof:lastmodified":1695876915,
     "wof:name":"T\u0151renurme",
     "wof:parent_id":1713305657,
     "wof:placetype":"localadmin",

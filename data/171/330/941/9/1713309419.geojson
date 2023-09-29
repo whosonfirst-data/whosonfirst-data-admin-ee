@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kokora K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001239,
-    "geom:area_square_m":7970445.778343,
+    "geom:area_square_m":7970445.778342,
     "geom:bbox":"27.000656,58.620907,27.073219,58.657112",
     "geom:latitude":58.637631,
     "geom:longitude":27.041434,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3323
+        "ee-mamt:okood":"3323"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126008373
     ],
     "wof:country":"EE",
     "wof:created":1595459882,
-    "wof:geomhash":"f61a3fa0e36975f4d295d10ca990394e",
+    "wof:geomhash":"ad3d3d92691f720a7119ccd38b436d82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660855,
+    "wof:lastmodified":1695876738,
     "wof:name":"Kokora",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

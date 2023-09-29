@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lutika K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000057,
-    "geom:area_square_m":373721.572472,
+    "geom:area_square_m":373721.572473,
     "geom:bbox":"27.015336,57.710475,27.030585,57.716644",
     "geom:latitude":57.713221,
     "geom:longitude":27.023362,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4568
+        "ee-mamt:okood":"4568"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326794989
     ],
     "wof:country":"EE",
     "wof:created":1595461135,
-    "wof:geomhash":"494e4633ddfa59afcb1654acd4b7657c",
+    "wof:geomhash":"4c8aa9d667f6a1df9ada9cbe137c9c90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676829,
+    "wof:lastmodified":1695876959,
     "wof:name":"Lutika",
     "wof:parent_id":1713305787,
     "wof:placetype":"localadmin",

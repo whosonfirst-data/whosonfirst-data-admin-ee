@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sammaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001853,
-    "geom:area_square_m":12057120.335929,
+    "geom:area_square_m":12057120.33593,
     "geom:bbox":"25.390222,58.223561,25.461026,58.268906",
     "geom:latitude":58.247649,
     "geom:longitude":25.417836,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7410
+        "ee-mamt:okood":"7410"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209890549
     ],
     "wof:country":"EE",
     "wof:created":1595460948,
-    "wof:geomhash":"382706087353c1ab1edb236a9bbce0b0",
+    "wof:geomhash":"c16c2b1194c88e53bc942625ccac3724",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661292,
+    "wof:lastmodified":1695876751,
     "wof:name":"Sammaste",
     "wof:parent_id":1713305661,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kardla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00283,
-    "geom:area_square_m":18320005.34894,
+    "geom:area_square_m":18320005.348941,
     "geom:bbox":"26.502138,58.412223,26.610003,58.459203",
     "geom:latitude":58.434271,
     "geom:longitude":26.56413,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2710
+        "ee-mamt:okood":"2710"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343537185
     ],
     "wof:country":"EE",
     "wof:created":1595459961,
-    "wof:geomhash":"63e0197b3bb74c7b66ef15149c7d4a7c",
+    "wof:geomhash":"5442afa280be3d31e7945f03b5310f9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661170,
+    "wof:lastmodified":1695876743,
     "wof:name":"Kardla",
     "wof:parent_id":1713305675,
     "wof:placetype":"localadmin",

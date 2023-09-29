@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Iigaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003209,
-    "geom:area_square_m":21123374.884229,
+    "geom:area_square_m":21123374.884224,
     "geom:bbox":"26.234211,57.810268,26.35185,57.863645",
     "geom:latitude":57.837122,
     "geom:longitude":26.293899,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2016
+        "ee-mamt:okood":"2016"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276415545
     ],
     "wof:country":"EE",
     "wof:created":1595460147,
-    "wof:geomhash":"7355353d841cedc6ca96c75d11322da6",
+    "wof:geomhash":"422089037fda9b288b978dad2ad18bf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661937,
+    "wof:lastmodified":1695876790,
     "wof:name":"Iigaste",
     "wof:parent_id":1713305753,
     "wof:placetype":"localadmin",

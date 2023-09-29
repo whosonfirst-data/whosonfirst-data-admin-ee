@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ereda K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00109,
-    "geom:area_square_m":6878373.833702,
+    "geom:area_square_m":6878373.833701,
     "geom:bbox":"27.227814,59.301794,27.290783,59.329307",
     "geom:latitude":59.313337,
     "geom:longitude":27.255271,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1623
+        "ee-mamt:okood":"1623"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1309714081
     ],
     "wof:country":"EE",
     "wof:created":1595461024,
-    "wof:geomhash":"99401b09817433d04e1cb6b9dd0e21a4",
+    "wof:geomhash":"ac8d4e3637ee0516ccb367481321f1be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660723,
+    "wof:lastmodified":1695876734,
     "wof:name":"Ereda",
     "wof:parent_id":1713305693,
     "wof:placetype":"localadmin",

@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Kivi\u0151li Linn",
     "ee-mamt:tyyp":5,
     "geom:area":0.001863,
-    "geom:area_square_m":11744710.436851,
+    "geom:area_square_m":11744710.436854,
     "geom:bbox":"26.915355,59.337312,27.024691,59.368805",
     "geom:latitude":59.354524,
     "geom:longitude":26.965429,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Kivi\u0151li linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3194
+        "ee-mamt:okood":"3194"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815213
     ],
     "wof:country":"EE",
     "wof:created":1595460412,
-    "wof:geomhash":"33ac17710c1f4c2096806fc0a90b2900",
+    "wof:geomhash":"740fefd69a3a83db9a13955645552082",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660770,
+    "wof:lastmodified":1695876734,
     "wof:name":"Kivi\u0151li",
     "wof:parent_id":1713305695,
     "wof:placetype":"localadmin",

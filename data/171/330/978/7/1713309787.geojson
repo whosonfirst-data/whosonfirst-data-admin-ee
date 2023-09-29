@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Erastvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002918,
-    "geom:area_square_m":19136079.952056,
+    "geom:area_square_m":19136079.952052,
     "geom:bbox":"26.711085,57.937175,26.820722,57.992529",
     "geom:latitude":57.965516,
     "geom:longitude":26.763759,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1620
+        "ee-mamt:okood":"1620"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125890241
     ],
     "wof:country":"EE",
     "wof:created":1595459977,
-    "wof:geomhash":"54975d34e1ed20ff4b0eaa21558fd954",
+    "wof:geomhash":"4afaf9d8474184cf31b737cdafa0ad1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676781,
+    "wof:lastmodified":1695876951,
     "wof:name":"Erastvere",
     "wof:parent_id":1713305789,
     "wof:placetype":"localadmin",

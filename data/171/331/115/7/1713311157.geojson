@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vana-Nurtu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001722,
-    "geom:area_square_m":11031840.583545,
+    "geom:area_square_m":11031840.583547,
     "geom:bbox":"24.5984,58.778461,24.662038,58.818816",
     "geom:latitude":58.796787,
     "geom:longitude":24.628973,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8997
+        "ee-mamt:okood":"8997"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343340989
     ],
     "wof:country":"EE",
     "wof:created":1595460277,
-    "wof:geomhash":"94790e6c901c370ec20a7b3cb4e405f2",
+    "wof:geomhash":"044c09d76728269d7d9b7591853905f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662813,
+    "wof:lastmodified":1695876801,
     "wof:name":"Vana-Nurtu",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

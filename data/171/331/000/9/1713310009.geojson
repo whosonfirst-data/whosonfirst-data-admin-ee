@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rammuka K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004969,
-    "geom:area_square_m":32206751.8223,
+    "geom:area_square_m":32206751.822297,
     "geom:bbox":"23.872818,58.355789,23.993607,58.43001",
     "geom:latitude":58.387079,
     "geom:longitude":23.932003,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6783
+        "ee-mamt:okood":"6783"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276752077
     ],
     "wof:country":"EE",
     "wof:created":1595460029,
-    "wof:geomhash":"17f3865da674f98202bf544e49251ef2",
+    "wof:geomhash":"b61d18f1f8a7d11fb9c708950b8eda1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677687,
+    "wof:lastmodified":1695876995,
     "wof:name":"Rammuka",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

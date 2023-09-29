@@ -8,7 +8,7 @@
     "ee-mamt:animi":"T\u0151utsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001259,
-    "geom:area_square_m":8258728.650895,
+    "geom:area_square_m":8258728.650901,
     "geom:bbox":"26.450042,57.93877,26.50503,57.983111",
     "geom:latitude":57.957586,
     "geom:longitude":26.476325,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8546
+        "ee-mamt:okood":"8546"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1225820567
     ],
     "wof:country":"EE",
     "wof:created":1595460787,
-    "wof:geomhash":"64be8ffb5e3c2cc4c243d8bf24a66863",
+    "wof:geomhash":"c2ad8c70a799504490a0bad6af549a9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661866,
+    "wof:lastmodified":1695876781,
     "wof:name":"T\u0151utsi",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ruskavere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002497,
-    "geom:area_square_m":16015143.325741,
+    "geom:area_square_m":16015143.32574,
     "geom:bbox":"26.826136,58.731956,26.930051,58.77624",
     "geom:latitude":58.75526,
     "geom:longitude":26.875564,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7130
+        "ee-mamt:okood":"7130"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360189547
     ],
     "wof:country":"EE",
     "wof:created":1595460670,
-    "wof:geomhash":"708048389904c3d2c643306938415d3a",
+    "wof:geomhash":"10780cfbf348a8f4e588adf6c0434f31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660983,
+    "wof:lastmodified":1695876742,
     "wof:name":"Ruskavere",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

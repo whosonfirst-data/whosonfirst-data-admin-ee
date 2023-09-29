@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Emum\u00e4e K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001338,
-    "geom:area_square_m":8540782.684256,
+    "geom:area_square_m":8540782.684254,
     "geom:bbox":"26.331749,58.906447,26.392496,58.946233",
     "geom:latitude":58.92551,
     "geom:longitude":26.361601,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1594
+        "ee-mamt:okood":"1594"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242563059
     ],
     "wof:country":"EE",
     "wof:created":1595460598,
-    "wof:geomhash":"f6366422231a191ffe63c317bd1ec687",
+    "wof:geomhash":"f625f16f0805be2183cf2a8a6a5d1b6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676527,
+    "wof:lastmodified":1695876919,
     "wof:name":"Emum\u00e4e",
     "wof:parent_id":1713305769,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaera K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00122,
-    "geom:area_square_m":7822496.108862,
+    "geom:area_square_m":7822496.108864,
     "geom:bbox":"26.278,58.764758,26.344368,58.792485",
     "geom:latitude":58.777997,
     "geom:longitude":26.31126,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2495
+        "ee-mamt:okood":"2495"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259806377
     ],
     "wof:country":"EE",
     "wof:created":1595460527,
-    "wof:geomhash":"a70dfb7e0d280239e70cac4e8b7a3833",
+    "wof:geomhash":"50acafe94432d9c9f6cb25c3195ce68a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676554,
+    "wof:lastmodified":1695876922,
     "wof:name":"Kaera",
     "wof:parent_id":1713305767,
     "wof:placetype":"localadmin",

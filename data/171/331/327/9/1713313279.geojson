@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u0151rvemetsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00172,
-    "geom:area_square_m":10986663.790769,
+    "geom:area_square_m":10986663.790773,
     "geom:bbox":"26.73705,58.879544,26.800338,58.923409",
     "geom:latitude":58.901252,
     "geom:longitude":26.764836,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3826
+        "ee-mamt:okood":"3826"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1193027667
     ],
     "wof:country":"EE",
     "wof:created":1595460729,
-    "wof:geomhash":"03a2db8d38c6942876c375c5e8d38dc8",
+    "wof:geomhash":"00e569e0f70f833cd02f577ddd244565",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660979,
+    "wof:lastmodified":1695876742,
     "wof:name":"K\u0151rvemetsa",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

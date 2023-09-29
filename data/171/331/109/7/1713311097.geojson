@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Tiduvere K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002713,
-    "geom:area_square_m":17383086.378801,
+    "geom:area_square_m":17383086.378796,
     "geom:bbox":"24.264851,58.768577,24.38081,58.809774",
     "geom:latitude":58.789146,
     "geom:longitude":24.314253,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8208
+        "ee-mamt:okood":"8208"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226221711
     ],
     "wof:country":"EE",
     "wof:created":1595460264,
-    "wof:geomhash":"725ef1d2ea1853906a69aafbe2504960",
+    "wof:geomhash":"a32634d8c899ad811995833aaf46b1f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662822,
+    "wof:lastmodified":1695876804,
     "wof:name":"Tiduvere",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

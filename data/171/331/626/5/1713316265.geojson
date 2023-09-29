@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kasakova K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000145,
-    "geom:area_square_m":953168.393487,
+    "geom:area_square_m":953168.393486,
     "geom:bbox":"27.439737,57.782081,27.460994,57.794088",
     "geom:latitude":57.78737,
     "geom:longitude":27.449948,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2786
+        "ee-mamt:okood":"2786"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1243131203
     ],
     "wof:country":"EE",
     "wof:created":1595461391,
-    "wof:geomhash":"d4e89658443470b5fdc9987d1c3a6014",
+    "wof:geomhash":"b0d13d1ac9b77c6dc5c228fd80a641b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663627,
+    "wof:lastmodified":1695876835,
     "wof:name":"Kasakova",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Lindi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002246,
-    "geom:area_square_m":14580816.491385,
+    "geom:area_square_m":14580816.49138,
     "geom:bbox":"24.190137,58.30607,24.292515,58.352107",
     "geom:latitude":58.330466,
     "geom:longitude":24.246936,
@@ -62,14 +62,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4384
+        "ee-mamt:okood":"4384"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037653
     ],
     "wof:country":"EE",
     "wof:created":1595460091,
-    "wof:geomhash":"88f3a4f107be66653ffb65e43f038245",
+    "wof:geomhash":"13d3e612b5cd47a7412595099bc9116f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +87,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1636502249,
+    "wof:lastmodified":1695877022,
     "wof:name":"Lindi",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

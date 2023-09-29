@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Luiste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003091,
-    "geom:area_square_m":19768605.582249,
+    "geom:area_square_m":19768605.582248,
     "geom:bbox":"24.152796,58.830863,24.258297,58.882273",
     "geom:latitude":58.859467,
     "geom:longitude":24.209105,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4554
+        "ee-mamt:okood":"4554"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226521797
     ],
     "wof:country":"EE",
     "wof:created":1595461110,
-    "wof:geomhash":"7bc741b5be8299e3c783ddd78f07a66f",
+    "wof:geomhash":"a032e5d7415846c1413fbabe6b2a6c4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662828,
+    "wof:lastmodified":1695876805,
     "wof:name":"Luiste",
     "wof:parent_id":1713305747,
     "wof:placetype":"localadmin",

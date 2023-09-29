@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vilita K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003521,
-    "geom:area_square_m":22589849.250436,
+    "geom:area_square_m":22589849.250447,
     "geom:bbox":"25.361785,58.706691,25.452807,58.791881",
     "geom:latitude":58.742011,
     "geom:longitude":25.414152,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9337
+        "ee-mamt:okood":"9337"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310525589
     ],
     "wof:country":"EE",
     "wof:created":1595461314,
-    "wof:geomhash":"c436ecab0a7891f01abf3ce2be6ea51e",
+    "wof:geomhash":"38b35b8e6e4d78a52310739513dbc473",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677979,
+    "wof:lastmodified":1695877007,
     "wof:name":"Vilita",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

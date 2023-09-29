@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kusma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00069,
-    "geom:area_square_m":4458794.168431,
+    "geom:area_square_m":4458794.168429,
     "geom:bbox":"26.937778,58.487716,26.995352,58.514309",
     "geom:latitude":58.502001,
     "geom:longitude":26.962269,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3703
+        "ee-mamt:okood":"3703"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259349123
     ],
     "wof:country":"EE",
     "wof:created":1595459894,
-    "wof:geomhash":"a271833919ca559c8841c3b931edff1d",
+    "wof:geomhash":"69db20a8d7b76fd51d4d255cebd39f15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660852,
+    "wof:lastmodified":1695876738,
     "wof:name":"Kusma",
     "wof:parent_id":1713305679,
     "wof:placetype":"localadmin",

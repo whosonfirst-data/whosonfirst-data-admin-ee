@@ -14,7 +14,7 @@
     "geom:longitude":25.465587,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "urban municipality"
+        "city without municipal status"
     ],
     "label:est_x_preferred_longname":[
         "Suure-Jaani linn"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7836
+        "ee-mamt:okood":"7836"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101815085
     ],
     "wof:country":"EE",
     "wof:created":1595460463,
-    "wof:geomhash":"d5498170708bc21c49dd6eb0336e2139",
+    "wof:geomhash":"fb4ef9360fe9f02d117808b148133eac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663441,
+    "wof:lastmodified":1695876829,
     "wof:name":"Suure-Jaani",
     "wof:parent_id":1713305735,
     "wof:placetype":"localadmin",

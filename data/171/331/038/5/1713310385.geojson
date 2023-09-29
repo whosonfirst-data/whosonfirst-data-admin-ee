@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Marksa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000616,
-    "geom:area_square_m":4003117.720327,
+    "geom:area_square_m":4003117.720328,
     "geom:bbox":"24.237493,58.282522,24.280214,58.309078",
     "geom:latitude":58.295864,
     "geom:longitude":24.260807,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4792
+        "ee-mamt:okood":"4792"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209493529
     ],
     "wof:country":"EE",
     "wof:created":1595460110,
-    "wof:geomhash":"30970e29adbbba3e1b2057f21dcc5bf6",
+    "wof:geomhash":"680b3b416f1ebf6ea21dfdec16d60382",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677677,
+    "wof:lastmodified":1695876993,
     "wof:name":"Marksa",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

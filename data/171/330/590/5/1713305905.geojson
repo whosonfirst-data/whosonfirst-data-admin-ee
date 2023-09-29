@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Mustametsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00061,
-    "geom:area_square_m":3833461.339596,
+    "geom:area_square_m":3833461.339594,
     "geom:bbox":"25.560191,59.466936,25.609276,59.48849",
     "geom:latitude":59.478898,
     "geom:longitude":25.586115,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5064
+        "ee-mamt:okood":"5064"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209729603
     ],
     "wof:country":"EE",
     "wof:created":1595459025,
-    "wof:geomhash":"adc9882defd9cdc92e19a7edb1379d6b",
+    "wof:geomhash":"553390722123f197f5deaaf14a7a04af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661822,
+    "wof:lastmodified":1695876778,
     "wof:name":"Mustametsa",
     "wof:parent_id":1713305725,
     "wof:placetype":"localadmin",

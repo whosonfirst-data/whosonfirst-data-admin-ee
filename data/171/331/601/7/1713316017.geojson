@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Koidula K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000125,
-    "geom:area_square_m":823644.668278,
+    "geom:area_square_m":823644.668281,
     "geom:bbox":"27.584938,57.833549,27.611677,57.845646",
     "geom:latitude":57.83937,
     "geom:longitude":27.597207,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3277
+        "ee-mamt:okood":"3277"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276740111
     ],
     "wof:country":"EE",
     "wof:created":1595461341,
-    "wof:geomhash":"3a5e0d43048ea43dd7215debe2f66d13",
+    "wof:geomhash":"9c7ccc9c70ad25adf8c4288e3338ee63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663635,
+    "wof:lastmodified":1695876837,
     "wof:name":"Koidula",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

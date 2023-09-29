@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Toomja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00162,
-    "geom:area_square_m":10311497.078441,
+    "geom:area_square_m":10311497.078438,
     "geom:bbox":"25.062097,59.002759,25.158709,59.040065",
     "geom:latitude":59.020717,
     "geom:longitude":25.102279,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8305
+        "ee-mamt:okood":"8305"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293863173
     ],
     "wof:country":"EE",
     "wof:created":1595460267,
-    "wof:geomhash":"cfc9a3317f0c6f7913cfbe0a453b0ea7",
+    "wof:geomhash":"167b6eaf93a022bac6df2042c407ff4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676705,
+    "wof:lastmodified":1695876942,
     "wof:name":"Toomja",
     "wof:parent_id":1713305711,
     "wof:placetype":"localadmin",

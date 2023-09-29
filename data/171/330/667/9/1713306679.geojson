@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Metsak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000072,
-    "geom:area_square_m":460352.539393,
+    "geom:area_square_m":460352.539392,
     "geom:bbox":"25.562105,58.768616,25.573703,58.778808",
     "geom:latitude":58.774159,
     "geom:longitude":25.568394,
@@ -47,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4897
+        "ee-mamt:okood":"4897"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:country":"EE",
     "wof:created":1595459212,
-    "wof:geomhash":"eb3a2de2c5c4beb804497946b8882e21",
+    "wof:geomhash":"6a660e70636fea983fc713d07bbb0f8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +69,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677977,
+    "wof:lastmodified":1695877007,
     "wof:name":"Metsak\u00fcla",
     "wof:parent_id":1713305773,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Liisp\u0151llu K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00149,
-    "geom:area_square_m":9687894.504551,
+    "geom:area_square_m":9687894.50455,
     "geom:bbox":"27.211525,58.248606,27.268846,58.301462",
     "geom:latitude":58.276868,
     "geom:longitude":27.244269,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4349
+        "ee-mamt:okood":"4349"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293759389
     ],
     "wof:country":"EE",
     "wof:created":1595460778,
-    "wof:geomhash":"adefe328ba66e5ca9d1c220229de0402",
+    "wof:geomhash":"ac780f1342a7eec27a804fe9c2f38029",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660655,
+    "wof:lastmodified":1695876730,
     "wof:name":"Liisp\u0151llu",
     "wof:parent_id":1713305699,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kastolatsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001137,
-    "geom:area_square_m":7429223.142847,
+    "geom:area_square_m":7429223.142849,
     "geom:bbox":"26.458548,58.066877,26.511992,58.106351",
     "geom:latitude":58.085788,
     "geom:longitude":26.48673,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2837
+        "ee-mamt:okood":"2837"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1360260299
     ],
     "wof:country":"EE",
     "wof:created":1595460905,
-    "wof:geomhash":"92a5de8fd58b1d327cb5263b4ad62d65",
+    "wof:geomhash":"442fc7c670e7bfc3a8e5665282988bcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661859,
+    "wof:lastmodified":1695876780,
     "wof:name":"Kastolatsi",
     "wof:parent_id":1713305759,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kahala K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001233,
-    "geom:area_square_m":7874879.791516,
+    "geom:area_square_m":7874879.791517,
     "geom:bbox":"25.767868,58.895649,25.836632,58.924811",
     "geom:latitude":58.908304,
     "geom:longitude":25.79963,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2339
+        "ee-mamt:okood":"2339"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259880883
     ],
     "wof:country":"EE",
     "wof:created":1595460613,
-    "wof:geomhash":"57d894c4d1065ff4f22914270ea06f7a",
+    "wof:geomhash":"14f6813386e90074c0d1e5eab4f9305a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676627,
+    "wof:lastmodified":1695876933,
     "wof:name":"Kahala",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

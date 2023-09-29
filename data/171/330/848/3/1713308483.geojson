@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Valjala Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000744,
-    "geom:area_square_m":4822814.661579,
+    "geom:area_square_m":4822814.661578,
     "geom:bbox":"22.771548,58.387166,22.81127,58.421458",
     "geom:latitude":58.406599,
     "geom:longitude":22.792527,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Valjala alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8951
+        "ee-mamt:okood":"8951"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126057279
     ],
     "wof:country":"EE",
     "wof:created":1595459656,
-    "wof:geomhash":"3dc635e35ba941c75ba6cfcaa4ec8601",
+    "wof:geomhash":"b85399051869f31e0a494fb4fbfac713",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671755,
+    "wof:lastmodified":1695876870,
     "wof:name":"Valjala",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

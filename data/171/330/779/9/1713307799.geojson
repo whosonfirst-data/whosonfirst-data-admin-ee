@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Karjak\u00fcla Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000191,
-    "geom:area_square_m":1206650.95944,
+    "geom:area_square_m":1206650.959441,
     "geom:bbox":"24.37481,59.331806,24.404486,59.347118",
     "geom:latitude":59.340109,
     "geom:longitude":24.390587,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Karjak\u00fcla alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2749
+        "ee-mamt:okood":"2749"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126032033
     ],
     "wof:country":"EE",
     "wof:created":1595459489,
-    "wof:geomhash":"c780481d4d6f533d7b6a832f36741aa5",
+    "wof:geomhash":"9d40bf1cb03e7128c9377dd117ee3ec1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663297,
+    "wof:lastmodified":1695876816,
     "wof:name":"Karjak\u00fcla",
     "wof:parent_id":1713305737,
     "wof:placetype":"localadmin",

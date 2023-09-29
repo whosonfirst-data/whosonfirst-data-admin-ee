@@ -8,7 +8,7 @@
     "ee-mamt:animi":"K\u0151ruse K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00236,
-    "geom:area_square_m":15273276.698111,
+    "geom:area_square_m":15273276.698106,
     "geom:bbox":"21.909337,58.425445,21.991906,58.463983",
     "geom:latitude":58.44581,
     "geom:longitude":21.955899,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3817
+        "ee-mamt:okood":"3817"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226216345
     ],
     "wof:country":"EE",
     "wof:created":1595459371,
-    "wof:geomhash":"b0c0793ef9ff93052ba9c5732a9efa22",
+    "wof:geomhash":"67bd9d713017df8d49ad1cc0d4e805df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672254,
+    "wof:lastmodified":1695876886,
     "wof:name":"K\u0151ruse",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

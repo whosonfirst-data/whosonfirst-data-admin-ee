@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Sauga Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.000228,
-    "geom:area_square_m":1473017.658924,
+    "geom:area_square_m":1473017.658926,
     "geom:bbox":"24.48751,58.4144,24.516403,58.435202",
     "geom:latitude":58.427296,
     "geom:longitude":24.499594,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Sauga alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7455
+        "ee-mamt:okood":"7455"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         101753879
     ],
     "wof:country":"EE",
     "wof:created":1595460546,
-    "wof:geomhash":"1f9ca872cb66c30b5b7d1573fb72e4c8",
+    "wof:geomhash":"2cd10e756481e2da2622cfed36ca9adb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663372,
+    "wof:lastmodified":1695876819,
     "wof:name":"Sauga",
     "wof:parent_id":1713305731,
     "wof:placetype":"localadmin",

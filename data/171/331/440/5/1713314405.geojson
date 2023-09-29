@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Pahkla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.004194,
-    "geom:area_square_m":26559625.952041,
+    "geom:area_square_m":26559625.952038,
     "geom:bbox":"24.839101,59.160293,24.926636,59.227904",
     "geom:latitude":59.194228,
     "geom:longitude":24.878376,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5854
+        "ee-mamt:okood":"5854"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037749
     ],
     "wof:country":"EE",
     "wof:created":1595460974,
-    "wof:geomhash":"d975c7cbf1285d847740afff90f260db",
+    "wof:geomhash":"2de18c422f1a7bdc13bc09c1e70df99a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677031,
+    "wof:lastmodified":1695876983,
     "wof:name":"Pahkla",
     "wof:parent_id":1713305707,
     "wof:placetype":"localadmin",

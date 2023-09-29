@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Sortsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00187,
-    "geom:area_square_m":12049176.611842,
+    "geom:area_square_m":12049176.611843,
     "geom:bbox":"26.38545,58.567769,26.480595,58.609124",
     "geom:latitude":58.586976,
     "geom:longitude":26.432389,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7756
+        "ee-mamt:okood":"7756"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1277079121
     ],
     "wof:country":"EE",
     "wof:created":1595460898,
-    "wof:geomhash":"74459e96ac78436da08ff24460b2d959",
+    "wof:geomhash":"8b74f07396281bb681ca98ffdf5459fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676452,
+    "wof:lastmodified":1695876909,
     "wof:name":"Sortsi",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

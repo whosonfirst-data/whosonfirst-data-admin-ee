@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Raadama K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00097,
-    "geom:area_square_m":6330428.206557,
+    "geom:area_square_m":6330428.206555,
     "geom:bbox":"27.39874,58.119914,27.44632,58.153326",
     "geom:latitude":58.134255,
     "geom:longitude":27.419715,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6677
+        "ee-mamt:okood":"6677"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125935633
     ],
     "wof:country":"EE",
     "wof:created":1595460631,
-    "wof:geomhash":"c32a1c6d94fa5d937d44cc2fe6a013cd",
+    "wof:geomhash":"69609699fd03d8a727378517a2bb6f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676978,
+    "wof:lastmodified":1695876976,
     "wof:name":"Raadama",
     "wof:parent_id":1713305793,
     "wof:placetype":"localadmin",

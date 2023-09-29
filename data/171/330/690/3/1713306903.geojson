@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Jalametsa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003371,
-    "geom:area_square_m":21604557.581534,
+    "geom:area_square_m":21604557.581536,
     "geom:bbox":"25.719622,58.758767,25.857559,58.807609",
     "geom:latitude":58.783769,
     "geom:longitude":25.791532,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2159
+        "ee-mamt:okood":"2159"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293224567
     ],
     "wof:country":"EE",
     "wof:created":1595459272,
-    "wof:geomhash":"861a825d8cb3dceb72e019d5f2b366dc",
+    "wof:geomhash":"8365faec43af725ae55085012d04e95c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676624,
+    "wof:lastmodified":1695876932,
     "wof:name":"Jalametsa",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

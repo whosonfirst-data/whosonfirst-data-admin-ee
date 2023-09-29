@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Manniva K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000615,
-    "geom:area_square_m":3864822.27871,
+    "geom:area_square_m":3864822.278711,
     "geom:bbox":"25.10869,59.461465,25.151615,59.485557",
     "geom:latitude":59.47256,
     "geom:longitude":25.128107,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":4776
+        "ee-mamt:okood":"4776"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226765449
     ],
     "wof:country":"EE",
     "wof:created":1595459040,
-    "wof:geomhash":"d89960ccedd331e704ba93d65823751e",
+    "wof:geomhash":"919cf854152b8c397e6f4cc7777ae53f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661369,
+    "wof:lastmodified":1695876756,
     "wof:name":"Manniva",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

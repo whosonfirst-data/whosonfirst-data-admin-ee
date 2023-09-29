@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kaaru K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001043,
-    "geom:area_square_m":6811490.195176,
+    "geom:area_square_m":6811490.195174,
     "geom:bbox":"27.19334,58.107893,27.242547,58.146347",
     "geom:latitude":58.124671,
     "geom:longitude":27.219822,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2419
+        "ee-mamt:okood":"2419"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1226736991
     ],
     "wof:country":"EE",
     "wof:created":1595460218,
-    "wof:geomhash":"5a52c5735406c376f24e0e4f610696b6",
+    "wof:geomhash":"a2a3b966a13cde8c1bae09f5b2afb5c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676945,
+    "wof:lastmodified":1695876973,
     "wof:name":"Kaaru",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

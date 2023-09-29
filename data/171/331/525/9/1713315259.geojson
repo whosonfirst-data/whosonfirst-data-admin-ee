@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kibuna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001735,
-    "geom:area_square_m":10985740.539255,
+    "geom:area_square_m":10985740.539253,
     "geom:bbox":"24.25392,59.162602,24.321765,59.221014",
     "geom:latitude":59.195965,
     "geom:longitude":24.292885,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3001
+        "ee-mamt:okood":"3001"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1293404101
     ],
     "wof:country":"EE",
     "wof:created":1595461165,
-    "wof:geomhash":"dcd1b92b709d0e6821f75c86ecb7b9c9",
+    "wof:geomhash":"a09344780359ed161707b76daf394784",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663233,
+    "wof:lastmodified":1695876812,
     "wof:name":"Kibuna",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

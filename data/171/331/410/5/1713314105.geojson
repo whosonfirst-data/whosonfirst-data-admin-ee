@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Purtsi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003508,
-    "geom:area_square_m":22941632.144843,
+    "geom:area_square_m":22941632.144855,
     "geom:bbox":"26.051964,58.027675,26.138858,58.098448",
     "geom:latitude":58.066704,
     "geom:longitude":26.094698,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6453
+        "ee-mamt:okood":"6453"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326893007
     ],
     "wof:country":"EE",
     "wof:created":1595460904,
-    "wof:geomhash":"93f75e5c8758c4c14b028682392f3709",
+    "wof:geomhash":"07ecfd2ca513c9c8842b0eaea2463de2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661902,
+    "wof:lastmodified":1695876787,
     "wof:name":"Purtsi",
     "wof:parent_id":1713305757,
     "wof:placetype":"localadmin",

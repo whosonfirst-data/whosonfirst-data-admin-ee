@@ -8,7 +8,7 @@
     "ee-mamt:animi":"P\u00e4rak\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003289,
-    "geom:area_square_m":21352658.344554,
+    "geom:area_square_m":21352658.344553,
     "geom:bbox":"24.048848,58.303113,24.205671,58.351121",
     "geom:latitude":58.328763,
     "geom:longitude":24.110819,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6595
+        "ee-mamt:okood":"6595"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276859545
     ],
     "wof:country":"EE",
     "wof:created":1595460082,
-    "wof:geomhash":"8e73a27116150c3add263768692db88d",
+    "wof:geomhash":"bb5350960bec5e5600688da563076bc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677675,
+    "wof:lastmodified":1695876993,
     "wof:name":"P\u00e4rak\u00fcla",
     "wof:parent_id":1713305703,
     "wof:placetype":"localadmin",

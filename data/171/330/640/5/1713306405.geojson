@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kirivalla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003412,
-    "geom:area_square_m":21651488.438342,
+    "geom:area_square_m":21651488.438345,
     "geom:bbox":"25.037808,59.095575,25.151629,59.148058",
     "geom:latitude":59.122894,
     "geom:longitude":25.090713,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3140
+        "ee-mamt:okood":"3140"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259997103
     ],
     "wof:country":"EE",
     "wof:created":1595459149,
-    "wof:geomhash":"0f0aa572fd8445dcbebc1cb070df29ad",
+    "wof:geomhash":"7ac841d2c3ca8e2d8138fb214d4d868d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661337,
+    "wof:lastmodified":1695876754,
     "wof:name":"Kirivalla",
     "wof:parent_id":1713305665,
     "wof:placetype":"localadmin",

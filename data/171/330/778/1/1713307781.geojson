@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Aarla K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001027,
-    "geom:area_square_m":6472807.889122,
+    "geom:area_square_m":6472807.889121,
     "geom:bbox":"26.596621,59.347918,26.663938,59.377555",
     "geom:latitude":59.362818,
     "geom:longitude":26.63018,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1025
+        "ee-mamt:okood":"1025"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259468445
     ],
     "wof:country":"EE",
     "wof:created":1595459485,
-    "wof:geomhash":"6943450e7f8018c4946dd2794ea250fe",
+    "wof:geomhash":"41448604848da23ecd78797d70d263e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677954,
+    "wof:lastmodified":1695877005,
     "wof:name":"Aarla",
     "wof:parent_id":1713305771,
     "wof:placetype":"localadmin",

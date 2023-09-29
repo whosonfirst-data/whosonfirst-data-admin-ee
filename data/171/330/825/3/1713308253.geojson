@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kriilev\u00e4lja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000716,
-    "geom:area_square_m":4574336.010217,
+    "geom:area_square_m":4574336.010218,
     "geom:bbox":"25.56099,58.869065,25.61952,58.900959",
     "geom:latitude":58.884651,
     "geom:longitude":25.595685,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3497
+        "ee-mamt:okood":"3497"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343864549
     ],
     "wof:country":"EE",
     "wof:created":1595459598,
-    "wof:geomhash":"5886823af8460d894718d97aefe132fa",
+    "wof:geomhash":"94eb4f8085b7dbefc918e2f55250792e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661323,
+    "wof:lastmodified":1695876753,
     "wof:name":"Kriilev\u00e4lja",
     "wof:parent_id":1713305663,
     "wof:placetype":"localadmin",

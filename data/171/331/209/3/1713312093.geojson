@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vadi K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001838,
-    "geom:area_square_m":11711493.393013,
+    "geom:area_square_m":11711493.393012,
     "geom:bbox":"26.925527,58.963672,27.016368,59.007692",
     "geom:latitude":58.985816,
     "geom:longitude":26.96389,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8819
+        "ee-mamt:okood":"8819"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343673587
     ],
     "wof:country":"EE",
     "wof:created":1595460479,
-    "wof:geomhash":"d414297e762050adc1d9e142bd143294",
+    "wof:geomhash":"0e536181bcd20675c06bd87f2a837431",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596660953,
+    "wof:lastmodified":1695876740,
     "wof:name":"Vadi",
     "wof:parent_id":1713305677,
     "wof:placetype":"localadmin",

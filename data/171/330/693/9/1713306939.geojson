@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Orin\u0151mme K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000336,
-    "geom:area_square_m":2164858.895316,
+    "geom:area_square_m":2164858.895315,
     "geom:bbox":"23.006524,58.568391,23.031937,58.590902",
     "geom:latitude":58.578761,
     "geom:longitude":23.019354,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5723
+        "ee-mamt:okood":"5723"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209589311
     ],
     "wof:country":"EE",
     "wof:created":1595459282,
-    "wof:geomhash":"7c1bbcbceaec8f4665b0ffa92b5db8fb",
+    "wof:geomhash":"7ae55711210260ce4de9c1857c815193",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596672049,
+    "wof:lastmodified":1695876879,
     "wof:name":"Orin\u0151mme",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

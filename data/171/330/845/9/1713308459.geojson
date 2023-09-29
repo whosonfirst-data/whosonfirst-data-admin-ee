@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Erja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000578,
-    "geom:area_square_m":3690037.246604,
+    "geom:area_square_m":3690037.246602,
     "geom:bbox":"23.625037,58.89347,23.693172,58.909277",
     "geom:latitude":58.901417,
     "geom:longitude":23.65411,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1624
+        "ee-mamt:okood":"1624"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242772345
     ],
     "wof:country":"EE",
     "wof:created":1595459650,
-    "wof:geomhash":"751d2df4a40048afa7a6789ac34f7988",
+    "wof:geomhash":"a507c3e82156a446e3aaf0fce159e426",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662523,
+    "wof:lastmodified":1695876796,
     "wof:name":"Erja",
     "wof:parent_id":1713305755,
     "wof:placetype":"localadmin",

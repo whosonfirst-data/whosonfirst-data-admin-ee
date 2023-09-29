@@ -8,7 +8,7 @@
     "ee-mamt:animi":"S\u0151mera K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00139,
-    "geom:area_square_m":9033251.809099,
+    "geom:area_square_m":9033251.8091,
     "geom:bbox":"22.16177,58.285207,22.257222,58.313418",
     "geom:latitude":58.301404,
     "geom:longitude":22.201766,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7885
+        "ee-mamt:okood":"7885"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1343931589
     ],
     "wof:country":"EE",
     "wof:created":1595459567,
-    "wof:geomhash":"f8d1219699cf943d4ac4e0757620ab6f",
+    "wof:geomhash":"9a8e11af36f21e818cb2d0660370ec8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596671770,
+    "wof:lastmodified":1695876871,
     "wof:name":"S\u0151mera",
     "wof:parent_id":1713305627,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Arava K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00167,
-    "geom:area_square_m":10556615.981481,
+    "geom:area_square_m":10556615.981479,
     "geom:bbox":"25.37034,59.234563,25.428456,59.284188",
     "geom:latitude":59.259587,
     "geom:longitude":25.399169,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1321
+        "ee-mamt:okood":"1321"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1326544277
     ],
     "wof:country":"EE",
     "wof:created":1595459342,
-    "wof:geomhash":"18bd742af31a1044bb240a414f1aefb0",
+    "wof:geomhash":"b7c068251b5c545ce1bea42b0a579b70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596662791,
+    "wof:lastmodified":1695876798,
     "wof:name":"Arava",
     "wof:parent_id":1713305749,
     "wof:placetype":"localadmin",

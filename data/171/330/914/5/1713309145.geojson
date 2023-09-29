@@ -8,13 +8,13 @@
     "ee-mamt:animi":"Vasula Alevik",
     "ee-mamt:tyyp":7,
     "geom:area":0.001582,
-    "geom:area_square_m":10229962.36198,
+    "geom:area_square_m":10229962.361979,
     "geom:bbox":"26.672257,58.444681,26.764127,58.482035",
     "geom:latitude":58.46334,
     "geom:longitude":26.720218,
     "iso:country":"EE",
     "label:eng_x_preferred_placetype":[
-        "settlement"
+        "township"
     ],
     "label:est_x_preferred_longname":[
         "Vasula alevik"
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9136
+        "ee-mamt:okood":"9136"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126037951
     ],
     "wof:country":"EE",
     "wof:created":1595459819,
-    "wof:geomhash":"f95986d5956560dcfbc36632b40a9d95",
+    "wof:geomhash":"458d636c02436d3038d21c999888e780",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676461,
+    "wof:lastmodified":1695876912,
     "wof:name":"Vasula",
     "wof:parent_id":1713305659,
     "wof:placetype":"localadmin",

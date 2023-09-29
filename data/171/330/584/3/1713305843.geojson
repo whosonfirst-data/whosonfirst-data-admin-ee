@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Saviranna K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000146,
-    "geom:area_square_m":918193.373866,
+    "geom:area_square_m":918193.373865,
     "geom:bbox":"25.024383,59.496782,25.068701,59.505041",
     "geom:latitude":59.500522,
     "geom:longitude":25.045325,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":7498
+        "ee-mamt:okood":"7498"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1242691797
     ],
     "wof:country":"EE",
     "wof:created":1595459009,
-    "wof:geomhash":"e80a514220c66f238ba76eb6e270fdb7",
+    "wof:geomhash":"8e481c733712eba0f7a243b3622b47cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661369,
+    "wof:lastmodified":1695876756,
     "wof:name":"Saviranna",
     "wof:parent_id":1713305689,
     "wof:placetype":"localadmin",

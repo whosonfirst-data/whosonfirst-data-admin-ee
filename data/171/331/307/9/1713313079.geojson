@@ -8,7 +8,7 @@
     "ee-mamt:animi":"M\u00e4nniku K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.005047,
-    "geom:area_square_m":31830133.066055,
+    "geom:area_square_m":31830133.066053,
     "geom:bbox":"24.653089,59.294748,24.770678,59.364895",
     "geom:latitude":59.334379,
     "geom:longitude":24.716119,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":5260
+        "ee-mamt:okood":"5260"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1126022981
     ],
     "wof:country":"EE",
     "wof:created":1595460685,
-    "wof:geomhash":"66807b76a9ac5db4d45543f7e62dbc84",
+    "wof:geomhash":"4009718ff3485583c6ae8b2e493bc452",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661499,
+    "wof:lastmodified":1695876763,
     "wof:name":"M\u00e4nniku",
     "wof:parent_id":1713305685,
     "wof:placetype":"localadmin",

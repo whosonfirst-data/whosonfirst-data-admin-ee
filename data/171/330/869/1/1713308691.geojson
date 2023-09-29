@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Dirhami K\u00fcla / Derhamn",
     "ee-mamt:tyyp":8,
     "geom:area":0.000448,
-    "geom:area_square_m":2837900.232529,
+    "geom:area_square_m":2837900.232528,
     "geom:bbox":"23.485275,59.193691,23.52375,59.213109",
     "geom:latitude":59.203109,
     "geom:longitude":23.502939,
@@ -50,14 +50,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":1505
+        "ee-mamt:okood":"1505"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125788269
     ],
     "wof:country":"EE",
     "wof:created":1595459707,
-    "wof:geomhash":"858e6a6fb50566d9f546dc3348a85fbb",
+    "wof:geomhash":"46333d72104690ca909c007bd681200e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677193,
+    "wof:lastmodified":1695876988,
     "wof:name":"Dirhami",
     "wof:parent_id":1713305701,
     "wof:placetype":"localadmin",

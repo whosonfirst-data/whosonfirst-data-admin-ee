@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Ramma K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00211,
-    "geom:area_square_m":13422259.64472,
+    "geom:area_square_m":13422259.644722,
     "geom:bbox":"25.990175,59.00767,26.062698,59.054904",
     "geom:latitude":59.033765,
     "geom:longitude":26.026717,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6780
+        "ee-mamt:okood":"6780"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259383241
     ],
     "wof:country":"EE",
     "wof:created":1595461013,
-    "wof:geomhash":"8f97289adad353f5b34f8488e7714b3f",
+    "wof:geomhash":"9e5e977b6fee57ce1fe76560121add6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676616,
+    "wof:lastmodified":1695876930,
     "wof:name":"Ramma",
     "wof:parent_id":1713305765,
     "wof:placetype":"localadmin",

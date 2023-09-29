@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kadaja K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.003774,
-    "geom:area_square_m":24568033.434539,
+    "geom:area_square_m":24568033.434537,
     "geom:bbox":"27.111789,58.204664,27.227333,58.268325",
     "geom:latitude":58.231569,
     "geom:longitude":27.164743,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2471
+        "ee-mamt:okood":"2471"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1276320765
     ],
     "wof:country":"EE",
     "wof:created":1595460922,
-    "wof:geomhash":"07990f39ddd930be214774899b7579a2",
+    "wof:geomhash":"2159f74235dd8c8816cb4c3ae6a2003b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596676943,
+    "wof:lastmodified":1695876972,
     "wof:name":"Kadaja",
     "wof:parent_id":1713305791,
     "wof:placetype":"localadmin",

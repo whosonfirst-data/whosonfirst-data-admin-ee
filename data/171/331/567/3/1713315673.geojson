@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Teter\u00fcv\u00e4 K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000108,
-    "geom:area_square_m":714455.121736,
+    "geom:area_square_m":714455.121735,
     "geom:bbox":"27.43155,57.72304,27.449554,57.736092",
     "geom:latitude":57.728972,
     "geom:longitude":27.440553,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":8204
+        "ee-mamt:okood":"8204"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259757245
     ],
     "wof:country":"EE",
     "wof:created":1595461271,
-    "wof:geomhash":"4073b8ade7826368a2a4dafd3bd952dc",
+    "wof:geomhash":"47ba705574f6a5ac2c4eb9d024aa4989",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663625,
+    "wof:lastmodified":1695876835,
     "wof:name":"Teter\u00fcv\u00e4",
     "wof:parent_id":1713305631,
     "wof:placetype":"localadmin",

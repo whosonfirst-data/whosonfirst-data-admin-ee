@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vodava K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.00089,
-    "geom:area_square_m":5598746.782577,
+    "geom:area_square_m":5598746.782576,
     "geom:bbox":"28.015796,59.379429,28.059113,59.420321",
     "geom:latitude":59.401452,
     "geom:longitude":28.035327,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9444
+        "ee-mamt:okood":"9444"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1259987059
     ],
     "wof:country":"EE",
     "wof:created":1595459472,
-    "wof:geomhash":"595bfa2945cf15c51ac6b4e0af4fea23",
+    "wof:geomhash":"7c89e60a4a54f66289ccfb679bbc882f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596677761,
+    "wof:lastmodified":1695876999,
     "wof:name":"Vodava",
     "wof:parent_id":1713305779,
     "wof:placetype":"localadmin",

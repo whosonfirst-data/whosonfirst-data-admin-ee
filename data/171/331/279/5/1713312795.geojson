@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Vanam\u0151isa K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.001621,
-    "geom:area_square_m":10223923.668789,
+    "geom:area_square_m":10223923.668788,
     "geom:bbox":"24.492551,59.312037,24.584742,59.350583",
     "geom:latitude":59.33184,
     "geom:longitude":24.525316,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":9033
+        "ee-mamt:okood":"9033"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1125936955
     ],
     "wof:country":"EE",
     "wof:created":1595460623,
-    "wof:geomhash":"2c15a453aa29588e23d867a0ebffd5af",
+    "wof:geomhash":"265148800f1dfee3aadd93696e084fb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663236,
+    "wof:lastmodified":1695876812,
     "wof:name":"Vanam\u0151isa",
     "wof:parent_id":1713305739,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Karuba K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000335,
-    "geom:area_square_m":2158350.596047,
+    "geom:area_square_m":2158350.596045,
     "geom:bbox":"24.116338,58.559608,24.146074,58.587222",
     "geom:latitude":58.572475,
     "geom:longitude":24.129255,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":2777
+        "ee-mamt:okood":"2777"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310283245
     ],
     "wof:country":"EE",
     "wof:created":1595459746,
-    "wof:geomhash":"1a1e06afbf6f349ecff2cf769112beb7",
+    "wof:geomhash":"c8ee924f08bb1025498a52250ec92548",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661657,
+    "wof:lastmodified":1695876773,
     "wof:name":"Karuba",
     "wof:parent_id":1713305721,
     "wof:placetype":"localadmin",

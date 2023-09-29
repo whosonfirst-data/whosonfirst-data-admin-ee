@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Rebaste K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.002215,
-    "geom:area_square_m":14338446.614114,
+    "geom:area_square_m":14338446.614113,
     "geom:bbox":"25.83593,58.409819,25.929442,58.456155",
     "geom:latitude":58.4359,
     "geom:longitude":25.875803,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":6891
+        "ee-mamt:okood":"6891"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1209880919
     ],
     "wof:country":"EE",
     "wof:created":1595460030,
-    "wof:geomhash":"d976fca704ec60fe732153d3d1b63eb8",
+    "wof:geomhash":"f45b6e5e40c29fc3939a8d2d196f2dbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661183,
+    "wof:lastmodified":1695876743,
     "wof:name":"Rebaste",
     "wof:parent_id":1713305669,
     "wof:placetype":"localadmin",

@@ -8,7 +8,7 @@
     "ee-mamt:animi":"Kose K\u00fcla",
     "ee-mamt:tyyp":8,
     "geom:area":0.000344,
-    "geom:area_square_m":2217311.650953,
+    "geom:area_square_m":2217311.650952,
     "geom:bbox":"25.087123,58.621659,25.12034,58.63818",
     "geom:latitude":58.631186,
     "geom:longitude":25.103808,
@@ -47,14 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ee-mamt:okood":3459
+        "ee-mamt:okood":"3459"
     },
+    "wof:concordances_official":"ee-mamt:okood",
     "wof:coterminous":[
         1310489723
     ],
     "wof:country":"EE",
     "wof:created":1595459884,
-    "wof:geomhash":"410f1d93eb9e249ce59468ebae0d8c96",
+    "wof:geomhash":"1f787996e83f875cad790fc789dacf26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +72,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596663406,
+    "wof:lastmodified":1695876824,
     "wof:name":"Kose",
     "wof:parent_id":1713305733,
     "wof:placetype":"localadmin",
