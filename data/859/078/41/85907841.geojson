@@ -9,9 +9,13 @@
     "geom:bbox":"24.701149,59.440886,24.761413,59.473222",
     "geom:latitude":59.458153,
     "geom:longitude":24.72977,
+    "gn:country":"EE",
+    "gn:fcode":"PPLX",
     "gn:latitude":59.44305,
     "gn:longitude":24.73807,
+    "gn:population":0,
     "iso:country":"EE",
+    "lbl:bbox":"24.73307,59.43805,24.74307,59.44805",
     "lbl:latitude":59.449612,
     "lbl:longitude":24.738042,
     "lbl:max_zoom":18.0,
@@ -25,6 +29,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "name:ces_x_preferred":[
         "Kalamaja"
@@ -89,10 +94,34 @@
     "qs:woe_lau":0,
     "qs:woe_local":845743,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"EE",
+    "qs_pg:gn_country":"EE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6698303,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kalamaja",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Harjumaa",
+    "qs_pg:photos":1511,
+    "qs_pg:photos_1k":306,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1511,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":212422,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":23701386,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":513,
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Harjumaa",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
         1713305847,
@@ -109,6 +138,17 @@
         "qs_pg:id":212422,
         "wd:id":"Q337759",
         "wk:page":"Kalamaja"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6698303
+        ],
+        "gp:id":[
+            23701386
+        ],
+        "qs_pg:id":[
+            212422
+        ]
     },
     "wof:country":"EE",
     "wof:geomhash":"f13f8d6f55d089a81ec47a371aa2caf8",
@@ -128,13 +168,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690875672,
+    "wof:lastmodified":1706239504,
     "wof:name":"Kalamaja",
     "wof:parent_id":1713348883,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126091023
+    ],
     "wof:tags":[]
 },
   "bbox": [
