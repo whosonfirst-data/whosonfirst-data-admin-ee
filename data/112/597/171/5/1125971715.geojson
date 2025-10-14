@@ -65,6 +65,9 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0433\u0456"
     ],
+    "name:und_x_variant":[
+        "V\u00e4hi"
+    ],
     "name:uzb_x_preferred":[
         "Vahi"
     ],
@@ -101,11 +104,11 @@
     "woe:name_adm1":"Tartumaa",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85683009,
         102191581,
-        1713312971,
         85633135,
-        1713305659
+        1713305659,
+        1713312971,
+        85683009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,8 +143,8 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875840,
-    "wof:name":"V\u00e4hi",
+    "wof:lastmodified":1759691325,
+    "wof:name":"Vahi",
     "wof:parent_id":1713312971,
     "wof:placetype":"locality",
     "wof:population":286,
