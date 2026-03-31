@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":546,
     "iso:country":"EE",
-    "lbl:latitude":58.34361,
-    "lbl:longitude":22.45889,
+    "lbl:latitude":58.34666,
+    "lbl:longitude":22.445464,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":58.34666,
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -142,7 +142,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875865,
+    "wof:lastmodified":1694320349,
     "wof:name":"Aste",
     "wof:parent_id":1713306599,
     "wof:placetype":"locality",

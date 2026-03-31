@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":210,
     "iso:country":"EE",
-    "lbl:latitude":58.97556,
-    "lbl:longitude":24.71861,
+    "lbl:latitude":58.971035,
+    "lbl:longitude":24.720271,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":58.971035,
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424805,
     "woe:name_adm0":"Eesti",
@@ -136,7 +136,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1690875851,
+    "wof:lastmodified":1694320349,
     "wof:name":"Kuusiku",
     "wof:parent_id":1713311405,
     "wof:placetype":"locality",
